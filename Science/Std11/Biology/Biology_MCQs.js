@@ -502,3 +502,171 @@ var Std11_Biology_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "પ્રાણી સૃષ્ટિ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સછિદ્ર (Porifera) સમુદાયના પ્રાણીઓમાં કયા સ્તરનું આયોજન જોવા મળે છે?\n(A) પેશી સ્તરનું આયોજન\n(B) અંગ સ્તરનું આયોજન\n(C) કોષીય સ્તરનું આયોજન\n(D) અંગતંત્ર સ્તરનું આયોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કોષીય સ્તરનું આયોજન. સછિદ્ર સમુદાયના પ્રાણીઓ બહુકોષીય હોવા છતાં, તેમના કોષો પેશી બનાવતા નથી, માત્ર કોષોના શિથિલ સમૂહ તરીકે કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સછિદ્ર = સાવ સાદું' (સૌથી પહેલા એટલે સૌથી સાદું કોષીય આયોજન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કયા પ્રાણીમાં અરીય સમમિતિ (Radial Symmetry) જોવા મળે છે?\n(A) કરચલો\n(B) તારામાછલી (Starfish)\n(C) દેડકો\n(D) અળસિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તારામાછલી. જ્યારે પ્રાણીના મધ્ય અક્ષમાંથી પસાર થતી કોઈપણ ધરી પ્રાણીને બે સમાન ભાગોમાં વિભાજિત કરે, તેને અરીય સમમિતિ કહેવાય. તે કોષ્ઠાંત્રી, કંકતધરા અને શૂળત્વચીમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગોળ-ગોળ રાણી' ટ્રીક - જે પ્રાણીઓ ગોળાકાર કે ચક્રાકાર હોય (જેમ કે તારામાછલી), ત્યાં 'અરીય' સમમિતિ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેનામાંથી કયો સમુદાય આભાસી દેહકોષ્ઠી (Pseudocoelomate) પ્રાણીઓ ધરાવે છે?\n(A) પૃથુકૃમિ\n(B) સૂત્રકૃમિ\n(C) નૂપુરક\n(D) સંધિપાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સૂત્રકૃમિ (Aschelminthes). આ પ્રાણીઓમાં મધ્યસ્તર છૂટીછવાયી કોથળીઓ સ્વરૂપે હોય છે, જેને આભાસી દેહકોષ્ઠ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' for 'S'utra-kruti and 'S' for 'S'eudo (Pseudo). આખા પ્રાણી સૃષ્ટિમાં માત્ર સૂત્રકૃમિ જ આભાસી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોષ્ઠાંત્રી (Cnidaria) સમુદાયમાં ડંખકોષોનું મુખ્ય કાર્ય શું છે?\n(A) પાચન\n(B) ઉત્સર્જન\n(C) સંરક્ષણ અને શિકાર પકડવો\n(D) શ્વસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સંરક્ષણ અને શિકાર પકડવો. ડંખકોષો (Cnidoblasts) ઝેરી હિપ્નોટોક્સિન ધરાવે છે જે શિકારને લકવાગ્રસ્ત કરવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડંખ મારે એ બચાવે' - ડંખકોષો એટલે સેલ્ફ ડિફેન્સ અને ખોરાક પકડવાની ગન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કયા સમુદાયના પ્રાણીઓમાં જલવાહક તંત્ર (Water Vascular System) જોવા મળે છે?\n(A) સછિદ્ર\n(B) મૃદુકાય\n(C) શૂળત્વચી\n(D) મેરુદંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂળત્વચી (Echinodermata). આ વિશિષ્ટ તંત્ર પ્રચલન, ખોરાક પકડવા અને શ્વસનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાણીનું પંપ' એટલે શૂળત્વચી (તારામાછલી). નોંધ: સછિદ્રમાં 'નલ તંત્ર' હોય, 'જલવાહક' નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીચેનામાંથી કયું લક્ષણ પૃથુકૃમિ (Platyhelminthes) સમુદાયનું છે?\n(A) દ્વિપાર્શ્વ સમમિતિ અને અદેહકોષ્ઠી\n(B) અરીય સમમિતિ અને દેહકોષ્ઠી\n(C) દ્વિપાર્શ્વ સમમિતિ અને આભાસી દેહકોષ્ઠી\n(D) અસમમિતિ અને અદેહકોષ્ઠી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દ્વિપાર્શ્વ સમમિતિ અને અદેહકોષ્ઠી. પૃથુકૃમિ ચપટા હોય છે અને તેમનામાં દેહકોષ્ઠ હોતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચપટું = ખાલી' (અદેહકોષ્ઠી). પૃથુકૃમિ એટલે પત્તા જેવા ચપટા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જ્યોત કોષો (Flame Cells) કયા કાર્ય સાથે સંકળાયેલા છે?\n(A) પાચન\n(B) પ્રજનન\n(C) ઉત્સર્જન અને આશૃતિ નિયમન\n(D) રુધિરાભિસરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉત્સર્જન અને આશૃતિ નિયમન. પૃથુકૃમિમાં વિશિષ્ટ જ્યોત કોષો ઉત્સર્જનનું કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ્યોત = ઝેરી કચરો કાઢવો' (Flame = Filter). પૃથુકૃમિમાં કચરો કાઢવા મીણબત્તીની જ્યોત જેવા કોષો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કંકતધરા (Ctenophora) સમુદાયના પ્રાણીઓમાં કેટલી કંકત તકતીઓ (Comb plates) જોવા મળે છે?\n(A) 4\n(B) 6\n(C) 8\n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8. કંકતધરા પ્રાણીઓ 8 બાહ્ય પક્ષ્મમય કંકત તકતીઓ ધરાવે છે જે પ્રચલનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Cteno = 8'. કંકતધરામાં 'ક' પરથી આઠ (8) યાદ રાખવા (કાંસકા જેવી 8 તકતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી કયા પ્રાણીમાં એકલિંગી (Dioecious) અવસ્થા જોવા મળે છે?\n(A) અળસિયું\n(B) જળો\n(C) કરમિયું\n(D) વાદળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કરમિયું (Ascaris). સૂત્રકૃમિમાં નર અને માદા અલગ હોય છે (માદા નર કરતા લાંબી હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કરમિયું એટલે કપલ' - નર અને માદા જુદા (સૂત્રકૃમિથી લિંગભેદ શરૂ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખંડન (Metamerism) સૌપ્રથમ કયા સમુદાયમાં જોવા મળ્યું?\n(A) સૂત્રકૃમિ\n(B) નૂપુરક\n(C) સંધિપાદ\n(D) મૃદુકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નૂપુરક (Annelida). નૂપુરકમાં શરીર બહારથી અને અંદરથી સરખા ખંડોમાં વહેંચાયેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નૂપુરક = નંબરિંગ' - શરીરમાં રિંગ્સ (ખંડો) જોવા મળે (જેમ કે અળસિયું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રાણી સૃષ્ટિનો સૌથી મોટો સમુદાય કયો છે?\n(A) મૃદુકાય\n(B) સંધિપાદ\n(C) મેરુદંડી\n(D) નૂપુરક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સંધિપાદ (Arthropoda). પૃથ્વી પરની ઓળખાયેલી જાતિઓમાંથી 2/3 થી વધુ જાતિઓ સંધિપાદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સંધિપાદ = સર્વવ્યાપી' - જીવડાં બધે જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મૃદુકાય (Mollusca) સમુદાયના પ્રાણીઓમાં શ્વસન અને ઉત્સર્જન માટે કઈ રચના હોય છે?\n(A) જ્યોત કોષો\n(B) માલ્પિધિયન નલિકાઓ\n(C) પીંછા જેવા ઝાલરો (Ctenidia)\n(D) નલ તંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પીંછા જેવા ઝાલરો. મૃદુકાયના મન્ટલ ગુહામાં પીંછા જેવી ઝાલરો હોય છે જે શ્વસન અને ઉત્સર્જન બંને કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃદુકાય = મુલાયમ પીંછા' - ઝાલરો પીંછા જેવી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રેત્રિકા (Radula) કયા સમુદાયની લાક્ષણિકતા છે?\n(A) સંધિપાદ\n(B) મૃદુકાય\n(C) શૂળત્વચી\n(D) મેરુદંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મૃદુકાય. મુખમાં કરવત જેવું અંગ ખોરાકને દળવા માટે હોય છે, જેને રેત્રિકા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃદુ (મોઢું) રેતી જેવું' - રેત્રિકા માત્ર મૃદુકાયમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મેરુદંડ (Notochord) ની હાજરીના આધારે પ્રાણીઓનું વર્ગીકરણ કયા બે જૂથમાં થાય છે?\n(A) એકલિંગી અને દ્વિલિંગી\n(B) મેરુદંડી અને અમેરુદંડી\n(C) ઉષ્ણ રુધિરવાળા અને શીત રુધિરવાળા\n(D) અંડપ્રસવી અને અપત્યપ્રસવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મેરુદંડી અને અમેરુદંડી. મેરુદંડ એ ગર્ભવિકાસ દરમિયાન પૃષ્ઠ બાજુએ ઉદ્ભવતી દંડ જેવી રચના છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેરુદંડ = કરોડરજ્જુનો પાયો'. હોય તો મેરુદંડી, ના હોય તો અમેરુદંડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાચો વિકલ્પ પસંદ કરો: કયા સમુદાયમાં ખુલ્લું રુધિરાભિસરણ તંત્ર જોવા મળે છે?\n(A) નૂપુરક\n(B) સંધિપાદ અને મૃદુકાય\n(C) મેરુદંડી\n(D) પૃથુકૃમિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સંધિપાદ અને મૃદુકાય. આ પ્રાણીઓમાં રુધિર સીધું પેશીઓના સંપર્કમાં હોય છે (કોટરયુક્ત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'AM' (Arthropoda, Mollusca) = Open. નૂપુરકમાં અપવાદરૂપે બંધ તંત્ર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાસ્થિમત્સ્ય (Chondrichthyes) ના શરીર પર કયા પ્રકારના ભીંગડા હોય છે?\n(A) સાયક્લોઇડ\n(B) ટીનોઇડ\n(C) પ્લેકોઇડ\n(D) ભીંગડા હોતા નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્લેકોઇડ ભીંગડા. કાસ્થિમત્સ્ય (જેમ કે શાર્ક) માં પ્લેકોઇડ ભીંગડા હોય છે જે પાછળની તરફ વળેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C for C' - Chondrichthyes (કાસ્થિ) માં કડક 'Placoid' ભીંગડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા વર્ગના પ્રાણીઓ શીત રુધિરવાળા (Poikilothermous) હોતા નથી?\n(A) મત્સ્ય\n(B) ઉભયજીવી\n(C) સરીસૃપ\n(D) વિહગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) વિહગ. પક્ષીઓ અને સસ્તન પ્રાણીઓ ઉષ્ણ રુધિરવાળા (Homeothermous) હોય છે, એટલે કે તેઓ શરીરનું તાપમાન જાળવી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગરમ લોહી' = પક્ષી અને સસ્તન (આપણે ગરમ લોહીના છીએ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દ્વિગર્ભસ્તરીય આયોજન કયા સમુદાયમાં જોવા મળે છે?\n(A) સૂત્રકૃમિ\n(B) નૂપુરક\n(C) કોષ્ઠાંત્રી\n(D) મૃદુકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કોષ્ઠાંત્રી. આ પ્રાણીઓમાં માત્ર બાહ્યસ્તર અને અંતઃસ્તર હોય છે, મધ્યસ્તર ગેરહાજર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શરૂઆતના બે' (સછિદ્ર અને કોષ્ઠાંત્રી) = દ્વિગર્ભસ્તરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અંડપ્રસવી સસ્તન પ્રાણી કયું છે?\n(A) કાંગારુ\n(B) ચામાચીડિયું\n(C) પ્લેટિપસ (બતકચાંચ)\n(D) વ્હેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્લેટિપસ. મોટાભાગના સસ્તનો બચ્ચાને જન્મ આપે છે, પણ પ્લેટિપસ અપવાદરૂપે ઇંડા મૂકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્લેટિપસ = પાગલ અપવાદ' - સસ્તન છતાં ઇંડા મૂકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઉભયજીવીઓમાં શ્વસન શાના દ્વારા થાય છે?\n(A) ત્વચા\n(B) ઝાલરો\n(C) ફેફસાં\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ. દેડકા જેવા ઉભયજીવીઓ પાણીમાં હોય ત્યારે ત્વચા/ઝાલર દ્વારા અને જમીન પર હોય ત્યારે ફેફસાં દ્વારા શ્વસન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉભય = ઓલરાઉન્ડર' - બધેથી શ્વાસ લઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સૌપ્રથમ જમીન પર સફળતાપૂર્વક રહેનારા પૃષ્ઠવંશી પ્રાણીઓ કયા છે?\n(A) ઉભયજીવી\n(B) સરીસૃપ\n(C) વિહગ\n(D) સસ્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સરીસૃપ. ઉભયજીવીઓને પ્રજનન માટે પાણીની જરૂર પડે છે, પણ સરીસૃપો સંપૂર્ણપણે જમીન પર રહેવા અનુકૂલિત થયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સરીસૃપ = સાચા જમીનવાસી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પક્ષીઓના હાડકાં કેવા હોય છે?\n(A) નક્કર અને ભારે\n(B) છિદ્રિષ્ટ અને હવા ભરેલા (વાતલ)\n(C) કાસ્થિના બનેલા\n(D) હાડકાં હોતા નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) છિદ્રિષ્ટ અને હવા ભરેલા (Pneumatic). આ ઉડવા માટે વજન ઘટાડવામાં મદદરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાતલ = હવા' - પક્ષીઓ પ્લેન જેવા હલકા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચુષમુખા (Cyclostomata) ની મુખ્ય લાક્ષણિકતા કઈ છે?\n(A) જડબાની હાજરી\n(B) જડબા વગરનું હનુવિહીન મુખ\n(C) પ્લેકોઇડ ભીંગડા\n(D) વાતાશયની હાજરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જડબા વગરનું હનુવિહીન મુખ. તેઓ પરોપજીવી તરીકે અન્ય માછલીઓ પર ચોંટી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચુષમુખા = વેક્યુમ ક્લીનર' - જડબા નથી, માત્ર ચૂસવાનું મોઢું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કયા સરીસૃપમાં હૃદય ચાર ખંડોનું બનેલું હોય છે?\n(A) સાપ\n(B) ગરોળી\n(C) મગર\n(D) કાચબો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મગર. સામાન્ય રીતે સરીસૃપનું હૃદય ત્રિખંડી હોય છે, પણ મગર અપવાદરૂપે ચતુષ્ખંડી હૃદય ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મગર = માસ્ટર અપવાદ' - સરીસૃપ હોવા છતાં 4 ખંડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સછિદ્ર સમુદાયમાં મધ્યમાં આવેલી ગુહાને શું કહેવાય છે?\n(A) જઠર ગુહા\n(B) આંત્ર ગુહા\n(C) આશય (Spongocoel)\n(D) દેહકોષ્ઠ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આશય (Spongocoel). પાણી ઓસ્ટિયા દ્વારા અંદર આવે છે અને ઓસ્ક્યુલમ દ્વારા બહાર જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sponges have Spongocoel'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મેટાજેનેસિસ (Metagenesis) કયા પ્રાણીમાં જોવા મળે છે?\n(A) હાઈડ્રા\n(B) ઓબેલિયા\n(C) એડેમ્સિયા\n(D) જેલીફિશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઓબેલિયા. તેમાં પુષ્પક (Polyp) અલિંગી રીતે છત્રક (Medusa) બનાવે છે અને છત્રક લિંગી રીતે પુષ્પક બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P-M-A' (Polyp -> Medusa -> Asexually). ઓબેલિયા એટલે એકાંતર જનન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કયા અંગ દ્વારા સામીમેરુદંડી (Hemichordata) ઉત્સર્જન કરે છે?\n(A) શુંઢ ગ્રંથિ (Proboscis gland)\n(B) મૂત્રપિંડ\n(C) નેફ્રિડિયા\n(D) જ્યોત કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) શુંઢ ગ્રંથિ. સામીમેરુદંડી પ્રાણીઓ (જેમ કે બેલેનોગ્લોસસ) માં શુંઢ પ્રદેશમાં ઉત્સર્ગ અંગ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સામી = શુંઢ' (Sami-Shundh).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સંધિપાદમાં ઉત્સર્જન કઈ રચના દ્વારા થાય છે?\n(A) ગ્રીન ગ્લેન્ડ\n(B) માલ્પિધિયન નલિકાઓ\n(C) (A) અને (B) બંને\n(D) જલવાહક તંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (A) અને (B) બંને. કીટકોમાં માલ્પિધિયન નલિકાઓ અને કરચલા જેવા પ્રાણીઓમાં હરિત ગ્રંથિ (Green gland) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સંધિપાદ = એમ.જી. રોડ' (M-Malpighian, G-Green gland).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કયા પૃષ્ઠવંશી વર્ગમાં 'ત્વચા ભીંગડા વગરની અને ચીકણી' હોય છે?\n(A) મત્સ્ય\n(B) ઉભયજીવી\n(C) સરીસૃપ\n(D) સસ્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉભયજીવી. દેડકાની ત્વચા ભીની અને ચીકણી હોય છે જે શ્વસનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉભયજીવી = સ્લિપરી સાચું' - ભીંગડા વગરનું લપસણું શરીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઉરોમેરુદંડી (Urochordata) માં મેરુદંડ ક્યાં જોવા મળે છે?\n(A) માત્ર પુખ્તની પૂંછડીમાં\n(B) માત્ર ડિંભની પૂંછડીમાં\n(C) જીવનપર્યંત આખા શરીરમાં\n(D) શીર્ષ પ્રદેશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) માત્ર ડિંભની પૂંછડીમાં. ઉરોમેરુદંડી (Ascidia, Salpa) માં મેરુદંડ માત્ર ડિંભાવસ્થામાં જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Uro = પૂંછડી' - પૂંછડીમાં મેરુદંડ, એ પણ ડિંભમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "નીચેનામાંથી કયું પ્રાણી લિંગભેદ ધરાવતું નથી (ઉભયલિંગી છે)?\n(A) વંદો\n(B) કરમિયું\n(C) અળસિયું\n(D) વ્હેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અળસિયું. નૂપુરક સમુદાયના અળસિયું અને જળો દ્વિલિંગી (Hermaphrodite) પ્રાણીઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અળસિયું = ઓલ ઈન વન' - નર અને માદા એકમાં જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "અસ્થિમત્સ્ય (Osteichthyes) માં તરવા માટે કઈ રચના મદદરૂપ થાય છે?\n(A) પ્લેકોઇડ ભીંગડા\n(B) વાતાશય (Air bladder)\n(C) ઓપરક્યુલમ\n(D) પુચ્છ મીનપક્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાતાશય. વાતાશય પ્લવકતા (Buoyancy) જાળવી રાખે છે, જેથી માછલી સતત તર્યા વગર પણ સ્થિર રહી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાતાશય = લાઈફ જેકેટ' - અસ્થિમત્સ્યને ડૂબવા ન દે.</p></div>"
+    }
+  ]
+}

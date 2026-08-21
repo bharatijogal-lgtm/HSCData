@@ -670,3 +670,186 @@ var Std11_Biology_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સપુષ્પી વનસ્પતિઓની બાહ્યાકાર વિદ્યા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દ્વિદળી વનસ્પતિઓમાં સામાન્ય રીતે કયા પ્રકારનું મૂળતંત્ર જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સોટીમય મૂળતંત્ર. દ્વિદળી વનસ્પતિઓમાં પ્રાથમિક મૂળ લાંબુ થઈ સોટીમય મૂળ બનાવે છે, જેમ કે રાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ્વિ-સોટી' (દ્વિદળી = સોટીમય) અને 'એક-તંતુ' (એકદળી = તંતુમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઘઉં જેવી એકદળી વનસ્પતિમાં કયા મૂળતંત્રનો વિકાસ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તંતુમય મૂળતંત્ર. એકદળીમાં પ્રાથમિક મૂળ અલ્પજીવી હોય છે અને પ્રકાંડના તલભાગેથી ઘણા મૂળ નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘઉંના ખેતરમાં તંતુ (તાર) જેવા મૂળ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વડમાં જોવા મળતા આશરો આપતા મૂળને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્તંભમૂળ (Prop roots). વડની શાખાઓમાંથી નીકળતા લટકતા મૂળ જમીનમાં ખૂંપીને થાંભલા જેવો ટેકો આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડદાદાના 'સ્તંભ' એટલે કે થાંભલા જેવા મૂળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રાઈઝોફોરા જેવી વનસ્પતિમાં શ્વસન માટે કયા વિશિષ્ટ મૂળ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) શ્વસનમૂળ (Pneumatophores). દલદલ (કાદવ) વિસ્તારમાં ઓક્સિજન મેળવવા મૂળ જમીનની બહાર ઉર્ધ્વ દિશામાં નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાઈઝોફોરા = શ્વાસ લેવા બહાર આવનારા (શ્વસનમૂળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મૂળના કયા પ્રદેશના કોષો ખૂબ જ નાના, પાતળી દીવાલવાળા અને ઘટ્ટ જીવરસ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વર્ધનશીલ પ્રદેશ. આ પ્રદેશના કોષો સતત વિભાજન પામતા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ધન એટલે વધવું (Growth/Division).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મૂળરોમ કયા પ્રદેશમાંથી ઉદભવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પરિપક્વન પ્રદેશ. આ પ્રદેશના અધિસ્તરના કોષો પાતળા દોરી જેવા મૂળરોમ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે મૂળ 'મેચ્યોર' (પરિપક્વ) થાય ત્યારે જ તેને 'વાળ' (મૂળરોમ) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બટાટા એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભૂમિગત પ્રકાંડ. તે ખોરાક સંગ્રહ માટે રૂપાંતરિત પ્રકાંડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાટા પર 'આંખ' (કલિકા) હોય, જે પ્રકાંડનું લક્ષણ છે, મૂળનું નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કઈ વનસ્પતિમાં પ્રકાંડ સૂત્ર (Stem Tendrils) જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કાકડી. કાકડી, કોળું અને તરબૂચમાં કક્ષકલિકા સૂત્રમાં ફેરવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેલાવાળી શાકભાજી = સૂત્ર (Tendrils).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "થોર (Opuntia) માં પ્રકાશસંશ્લેષણનું કાર્ય કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માંસલ અને ચપટું પ્રકાંડ. રણપ્રદેશમાં પર્ણોનું કાંટામાં રૂપાંતર થાય છે અને પ્રકાંડ લીલું બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થોરનું પ્રકાંડ પર્ણ જેવું કામ કરે (Phylloclade).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પર્ણના તલભાગે જોવા મળતી નાની પર્ણ જેવી સંરચનાને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપપર્ણો (Stipules).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણની બાજુમાં નાના 'ઉપ' પર્ણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમાંતર શિરાવિન્યાસ (Parallel Venation) શેમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મકાઈ (એકદળી). મોટાભાગની એકદળી વનસ્પતિમાં શિરાઓ એકબીજાને સમાંતર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક-સમાંતર' (એકદળી = સમાંતર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લીમડાના પર્ણ એ કેવા પ્રકારના પર્ણો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પિચ્છાકાર સંયુક્ત પર્ણ. અહીં મધ્યશિરા પર પર્ણિકાઓ ગોઠવાયેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીમડામાં 'પીંછા' (પિચ્છાકાર) જેવી ગોઠવણી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "એકાંતરિત (Alternate) પર્ણવિન્યાસનું ઉદાહરણ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જાસૂદ. દરેક ગાંઠ પરથી એક જ પર્ણ એકાંતરે ઉદભવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જા-રા-સ' (જાસૂદ, રાઈ, સૂર્યમુખી) = એકાંતરિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જ્યારે મુખ્ય અક્ષ સતત વૃદ્ધિ પામે અને પુષ્પો અગ્રાભિવર્ધી ક્રમમાં ગોઠવાયેલા હોય, તો તેને કયો પુષ્પવિન્યાસ કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અપરિમિત પુષ્પવિન્યાસ (Racemose). અહીં મુખ્ય અક્ષનો અંત પુષ્પમાં થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપરિમિત = જેની વૃદ્ધિની કોઈ 'પરિમિતિ' (લિમિટ) નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વટાણાના પુષ્પમાં કઈ સમમિતિ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એકવ્યાસ સમમિતિ (Zygomorphic). તેને માત્ર એક જ ઊભા સમતલમાંથી બે સરખા ભાગમાં વહેંચી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વટાણા-ગુલમહોર-કેસિયા' માં એક જ વ્યાસ (Zygomorphic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જ્યારે બીજાશય પુષ્પાસન પર સર્વોચ્ચ સ્થાને હોય, તો તેવા પુષ્પને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અધોજાયી પુષ્પ (Hypogynous). બીજાશય ઉચ્ચસ્થ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધો (નીચે) બાકીના અંગો, એટલે બીજાશય 'ઉપર' (ઉચ્ચસ્થ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગલગોટા (Marigold) માં કયા પ્રકારનો બીજાશય વિન્યાસ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) તલસ્થ (Basal). અંડક બીજાશયના તલભાગે જોડાયેલ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમુખી અને ગલગોટામાં 'તલ' (Basal) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કેલોટ્રોપિસ (આંકડો) માં કયા પ્રકારનો કલિકાંતરવિન્યાસ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધારાસ્પર્શી (Valvate). એકમોની ધાર એકબીજાને માત્ર સ્પર્શે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Val-Cal' (Valvate - Calotropis).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જ્યારે પુંકેસરો દલપત્ર સાથે જોડાયેલા હોય, તો તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દલલગ્ન (Epipetalous). રીંગણ તેનું ઉદાહરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દલ + લગ્ન = દલ સાથે પરણેલા (જોડાયેલા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જાસૂદમાં પુંકેસરો કઈ સ્થિતિમાં હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) એકગુચ્છી (Monadelphous). બધા પુંકેસરો જોડાઈને એક નલિકા જેવો ગુચ્છ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાસૂદમાં 'એક જ' લાંબી પુંકેસર નળી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મુક્ત કેન્દ્રસ્થ (Free Central) જરાયુવિન્યાસ શેમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ડાયાન્થસ અને પ્રિમરોઝ. અહીં પડદા હોતા નથી અને અંડકો કેન્દ્રીય અક્ષ પર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'DP' (Dianthus, Primrose) = Free Central.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ફલન વગર ફળ બને, તો તેવા ફળને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અફલિત ફળ (Parthenocarpic fruit). કેળા તેનું મુખ્ય ઉદાહરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફલન વગર = 'અ'ફલિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મકાઈના દાણામાં ભ્રૂણપોષને અલગ કરતા સ્તરને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એલ્યુરોન સ્તર. તે પ્રોટીનસભર સ્તર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન = એલ્યુરોન (Aleurone layer).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એકદળી બીજમાં જોવા મળતા ઢાલ આકારના બીજપત્રને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વરુથિકા (Scutellum).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીની ઢાલ = વરુથિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ફેબેસી (Fabaceae) કુળનું પુષ્પસૂત્ર કઈ નિશાનીથી શરૂ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) % (એકવ્યાસ સમમિતિ). ફેબેસીમાં પુષ્પો હંમેશા એકવ્યાસ સમમિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકાવારી (%) એટલે ફેબેસી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સોલેનેસી કુળનું લાક્ષણિક લક્ષણ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મજબૂત અને ચિરલગ્ન વજ્રપત્ર. રીંગણ કે મરચામાં ટોપી જેવું વજ્ર ફળ સાથે જોડાયેલું રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંગણની 'ટોપી' (વજ્ર) ક્યારેય ઉતરતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "લિલીએસી કુળમાં દલપત્ર અને વજ્રપત્ર જુદા ન હોય ત્યારે શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પરિપુષ્પચક્ર (Perianth). તેના એકમોને 'પરિપુષ્પપત્રો' (Tepals) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિલી (Liliaceae) માં 'P' (Perianth) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પતંગિયાકાર (Vexillary) કલિકાંતરવિન્યાસમાં સૌથી ઉપરના મોટા દલપત્રને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ધ્વજક (Standard/Vexillum). તે બે પક્ષકોને ઢાંકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી ઉપર ધજાગરાની જેમ ઉડતો 'ધ્વજક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રાઈ અને લાલચોળ (Argemone) માં કયા પ્રકારનો જરાયુવિન્યાસ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચર્મવર્તી (Parietal). અંડકો બીજાશયની અંદરની દીવાલ પર ગોઠવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાઈ અને લાલચોળમાં 'ચામડી' (ચર્મવર્તી) પર અંડકો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કેરી એ કેવા પ્રકારનું ફળ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અષ્ટિલા (Drupe). તેમાં અંતઃફલાવરણ પથ્થર જેવું સખત (ગોટલી) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરીમાં 'ગોટલી' એટલે સખત અષ્ટિલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સૂર્યમુખીમાં કયો પુષ્પવિન્યાસ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્તબક (Capitulum). તે અપરિમિત પ્રકારનો વિશિષ્ટ પુષ્પવિન્યાસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમુખી એ ફૂલ નથી, પણ ફૂલોનો આખો 'સ્તબક' (ગુચ્છ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પર્ણવૃંત લીલું બની પ્રકાશસંશ્લેષણનું કાર્ય કરે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પર્ણવૃંતિકા (Phyllode). ઓસ્ટ્રેલિયન બાવળમાં આ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડો (વૃંત) પર્ણ જેવો થયો એટલે પર્ણવૃંતિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ભૂપ્રસારી (Runners) નું ઉદાહરણ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઘાસ અને સ્ટ્રોબેરી. તે જમીન પર પ્રસરીને નવી જગ્યાએ મૂળ ઉતારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ જમીન પર 'રન' (Run) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "બહુવર્ષાયુ અને ભૂમિગત કંદ/વજ્રકંદ ધરાવતું કુળ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) લિલીએસી (Liliaceae). ડુંગળી અને લસણ તેના ઉદાહરણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિલી એટલે 'લસણ-ડુંગળી' વાળું કુળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જ્યારે સ્ત્રીકેસરો મુક્ત હોય, ત્યારે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મુક્ત સ્ત્રીકેસરી (Apocarpous). ગુલાબ અને કમળમાં આ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત = છૂટા (Apocarpous).</p></div>"
+    }
+  ]
+}

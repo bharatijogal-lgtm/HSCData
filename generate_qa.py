@@ -18,7 +18,7 @@ std11_bio_chapters = {
     18: "ચેતાકીય નિયંત્રણ અને સહનિયમન", 19: "રાસાયણિક સહનિયમન અને સંકલન"
 }
 
-# પ્રશ્નોના પ્રકાર (તમારા કહ્યા મુજબ નામો અપડેટ કર્યા છે)
+# પ્રશ્નોના પ્રકાર અને તેનો મિનિમમ ટાર્ગેટ
 question_types = [
     {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 30},
     {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)", "marks": 1, "min_count": 30},
@@ -31,6 +31,12 @@ question_types = [
 
 ch_num = tracker['current_chapter']
 type_idx = tracker['current_type_index']
+
+# જો ઓટોમેશન પૂરું થઈ ગયું હોય તો સ્ક્રિપ્ટ બંધ કરો
+if tracker.get('status') == "completed" or type_idx >= len(question_types):
+    print("🎉 ઓટોમેશન પૂર્ણ થઈ ગયું છે. બધા ડેટા બની ગયા છે!", flush=True)
+    exit(0)
+
 ch_name = std11_bio_chapters.get(ch_num, "અન્ય")
 current_q_type = question_types[type_idx]
 subject = tracker.get('subject', 'Biology')
@@ -53,7 +59,7 @@ prompt = f"""
 પ્રશ્નનો પ્રકાર: {current_q_type['name']} ({current_q_type['marks']} માર્ક)
 
 અત્યંત કડક નિયમો (STRICT QUALITY CONTROL):
-1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. પ્રકરણ મોટું હોય તો વધુ બની શકે, પણ {current_q_type['min_count']} થી ઓછા નહિ.
+1. પ્રશ્નોની સંખ્યા (TARGET): ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. યાદ રાખો કે જો {current_q_type['min_count']} થી વધુ પ્રશ્નો બની શકતા હોય તો ફરજિયાત બનાવવાના છે જ. આખા ચેપ્ટરનો ખૂણેખૂણો કવર થઈ જવો જોઈએ.
 2. પ્રકાર મુજબ શરત: {type_specific_rules}
 3. નો-રીપીટેશન: અગાઉના કોઈ પ્રશ્ન રીપીટ ન થવા જોઈએ. 
 4. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ.
@@ -90,7 +96,7 @@ output_data = ""
 
 for m in valid_models[:3]:
     try:
-        print(f"⏳ Pending: {m} મોડલ દ્વારા {current_q_type['min_count']} પ્રશ્નો બની રહ્યા છે...", flush=True)
+        print(f"⏳ Pending: {m} મોડલ દ્વારા ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો બની રહ્યા છે...", flush=True)
         response = client.models.generate_content(model=m, contents=prompt)
         raw_output = response.text.strip()
         
@@ -107,7 +113,7 @@ if not output_data:
     print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.", flush=True)
     exit(1)
 
-# ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Biology (ધોરણ 10 ની જેમ જ)
+# ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Biology
 folder_path = f"Science/Std11/{subject}"
 os.makedirs(folder_path, exist_ok=True)
 
@@ -117,24 +123,28 @@ file_path = f"{folder_path}/{subject}_{q_id}.js"  # દા.ત. Biology_MCQs.js
 mode = 'a' if os.path.exists(file_path) else 'w'
 with open(file_path, mode, encoding='utf-8') as f:
     if mode == 'w':
-        # ફાઈલ પહેલીવાર બને ત્યારે મેઈન વેરીએબલ બનશે
         f.write(f"var Std11_{subject}_{q_id} = {{\n")
         f.write(f'"{ch_num}": ' + output_data + '\n')
     else:
-        # બીજીવાર નવા ચેપ્ટરનો ડેટા એ જ ફાઈલમાં નીચે જોડાશે
         f.write(f',\n"{ch_num}": ' + output_data + '\n')
 
-# ટ્રેકર અપડેટ લોજીક
-tracker['current_type_index'] += 1
-if tracker['current_type_index'] >= len(question_types):
-    tracker['current_type_index'] = 0
-    tracker['current_chapter'] += 1
+# ---------------------------------------------------------
+# નવું ટ્રેકર અપડેટ લોજીક: (બધા ચેપ્ટર પૂરા થાય પછી જ નવો પ્રકાર)
+# ---------------------------------------------------------
+tracker['current_chapter'] += 1
 
+# જો 19 ચેપ્ટર પૂરા થઈ જાય, તો નવો પ્રશ્ન પ્રકાર (દા.ત. ખાલી જગ્યા) શરૂ કરો અને ચેપ્ટર 1 પર પાછા જાવ
 if tracker['current_chapter'] > len(std11_bio_chapters):
-    print("🎉 ધોરણ 11 બાયોલોજીના તમામ ચેપ્ટર પૂર્ણ થયા!", flush=True)
+    tracker['current_chapter'] = 1
+    tracker['current_type_index'] += 1
+
+# જો બધા જ પ્રકારના પ્રશ્નો પૂરા થઈ જાય, તો ઓટોમેશન પૂરું
+if tracker['current_type_index'] >= len(question_types):
+    print("🎉 ધોરણ 11 બાયોલોજીના તમામ પ્રકારના પ્રશ્નો અને ચેપ્ટર પૂર્ણ થયા!", flush=True)
     tracker['status'] = "completed"
+    tracker['current_type_index'] = len(question_types) - 1 # એરર અટકાવવા
 
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Database Format Applied.", flush=True)
+print("Task Completed Successfully! Perfect Horizontal Format Applied.", flush=True)

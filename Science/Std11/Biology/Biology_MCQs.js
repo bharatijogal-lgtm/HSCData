@@ -334,3 +334,171 @@ var Std11_Biology_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "વનસ્પતિ સૃષ્ટિ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કેરોલસ લિનિયસ દ્વારા આપવામાં આવેલી વનસ્પતિ વર્ગીકરણ પદ્ધતિ કયા લક્ષણો પર આધારિત હતી?\n(A) આંતરિક લક્ષણો\n(B) માત્ર બાહ્યકારકીય લક્ષણો (પુષ્પ વિન્યાસ/પુંકેસર ચક્ર)\n(C) ઉદ્વિકાસીય સંબંધો\n(D) રાસાયણિક ઘટકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) માત્ર બાહ્યકારકીય લક્ષણો (પુષ્પ વિન્યાસ/પુંકેસર ચક્ર). લિનિયસની પદ્ધતિને કૃત્રિમ વર્ગીકરણ પદ્ધતિ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'લિનિયસ બાહ્ય દેખાવ પર ફિદા હતા' (L-External-Artificial).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કઈ વર્ગીકરણ પદ્ધતિ સજીવો વચ્ચેના ઉદ્વિકાસીય સંબંધો (Evolutionary relationships) પર આધારિત છે?\n(A) કૃત્રિમ પદ્ધતિ\n(B) નૈસર્ગિક પદ્ધતિ\n(C) જાતિવિકાસીય પદ્ધતિ\n(D) આંકડાકીય વર્ગીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જાતિવિકાસીય પદ્ધતિ (Phylogenetic Classification System). તે પૂર્વજોના ઇતિહાસ પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાતિ = પૂર્વજો' (Phylogeny = Ancestors).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કમ્પ્યુટરનો ઉપયોગ કરીને અવલોકન કરેલ તમામ લક્ષણોને સમાન મહત્વ આપી કઈ વર્ગીકરણ પદ્ધતિ કરવામાં આવે છે?\n(A) સંખ્યાકીય વર્ગીકરણ (Numerical Taxonomy)\n(B) કોષવર્ગીકરણ\n(C) રસાયણવર્ગીકરણ\n(D) કુદરતી વર્ગીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સંખ્યાકીય વર્ગીકરણ. તેમાં સેંકડો લક્ષણોને એકસાથે ધ્યાને લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કમ્પ્યુટર = આંકડા (Numbers)' એટલે સંખ્યાકીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેનામાંથી કઈ લીલ વસાહતી (Colonial) સ્વરૂપે જોવા મળે છે?\n(A) યુલોથ્રિક્સ\n(B) વોલ્વોક્સ\n(C) સ્પાયરોગાયરા\n(D) ક્લેમિડોમોનાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વોલ્વોક્સ. તે ગોળાકાર વસાહત બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વોલ્વો બસમાં વસાહત (ગ્રુપ) જાય' - વોલ્વોક્સ વસાહતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ક્લોરોફાયસી (લીલી લીલ) માં સંગ્રહિત ખોરાક કયા સ્વરૂપે હોય છે?\n(A) મેનીટોલ\n(B) લેમિનારિન\n(C) સ્ટાર્ચ\n(D) ફ્લોરિડિયન સ્ટાર્ચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્ટાર્ચ. તેમાં પાયરેનોઈડ્સ અંગિકા પણ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્રીન લીલ = ગ્રીન પ્લાન્ટ' જેવું (સ્ટાર્ચ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ફિયોફાયસી (બદામી લીલ) ના કોષોમાં કયું રંજકદ્રવ્ય તેને લાક્ષણિક રંગ આપે છે?\n(A) ક્લોરોફિલ b\n(B) ફ્યુકોઝેન્થિન\n(C) ફાયકોઈરીથ્રીન\n(D) એન્થોસાયનિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફ્યુકોઝેન્થિન. ફિયોફાયસીમાં ક્લોરોફિલ a, c અને ફ્યુકોઝેન્થિન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બદામી (Brown) = ફ્યુકો (Fuco)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જેલીડીયમ અને ગ્રેસીલેરીયા માંથી શું મેળવવામાં આવે છે જે આઈસ્ક્રીમ અને જેલી બનાવવામાં ઉપયોગી છે?\n(A) આલ્જિન\n(B) કેરાજીન\n(C) અગર-અગર\n(D) મેનીટોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અગર-અગર. તે રાતી લીલમાંથી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અગર (Agar) = જેલી (Jelly)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેનામાંથી કઈ લીલ 'દરિયાઈ ઘાસ' (Kelp) તરીકે ઓળખાય છે અને 100 મીટર સુધી ઊંચાઈ ધરાવે છે?\n(A) પોરફાયરા\n(B) લેમિનારિયા\n(C) ડિક્ટિઓટા\n(D) એક્ટોકાર્પસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લેમિનારિયા (અને અન્ય કેલ્પ્સ). તે વિશાળકાય બદામી લીલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લાંબી (Laminaria) = 100 મીટર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રોડોફાયસી (રાતી લીલ) માં જોવા મળતા લાલ રંજકદ્રવ્યનું નામ જણાવો.\n(A) r-ફાયકોઈરીથ્રીન\n(B) ફ્યુકોઝેન્થિન\n(C) ક્લોરોફિલ d\n(D) (A) અને (C) બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) (A) અને (C) બંને. મુખ્યત્વે r-ફાયકોઈરીથ્રીન જવાબદાર છે પણ તેમાં ક્લોરોફિલ a અને d પણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Red = r-phycoerythrin'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કઈ વનસ્પતિઓને 'વનસ્પતિ સૃષ્ટિના ઉભયજીવી' કહેવામાં આવે છે?\n(A) લીલ\n(B) દ્વિઅંગી\n(C) ત્રિઅંગી\n(D) અનાવૃત બીજધારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દ્વિઅંગી (Bryophytes). કારણ કે તે જમીન પર રહે છે પણ ફલન માટે પાણી પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બે (દ્વિ) જગ્યાએ રહે = ઉભયજીવી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દ્વિઅંગી વનસ્પતિ માર્કેન્શિયામાં અલિંગી પ્રજનન શેના દ્વારા થાય છે?\n(A) બીજાણુઓ\n(B) કુડ્મલી (Gemmae)\n(C) પ્રોટોનીમા\n(D) કલિકાસર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કુડ્મલી (Gemmae). તે બહુકોષીય, લીલી અને અલિંગી કલિકાઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'માર્કેન્શિયાના કપ (Gemma cup) માં જેમ્મા હોય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શેવાળ (Moss) ના જીવનચક્રમાં પ્રથમ અવસ્થા કઈ છે જે બીજાણુમાંથી સીધી ઉત્પન્ન થાય છે?\n(A) પર્ણમય અવસ્થા\n(B) પ્રથમ તંતુ (Protonema)\n(C) જન્યુજનક\n(D) સ્ત્રીજન્યુધાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રથમ તંતુ (Protonema). તે વિસર્પી, લીલી અને તંતુમય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પહેલા પ્રોટોનીમા પછી પર્ણ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પીટ (Peat) બળતણ પૂરું પાડતી વનસ્પતિ કઈ છે?\n(A) રિક્સિયા\n(B) માર્કેન્શિયા\n(C) સ્ફૅગ્નમ\n(D) ફ્યુનારિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્ફૅગ્નમ. તેનો ઉપયોગ ભેજ જાળવી રાખવા માટે પેકિંગમાં પણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્ફૅગ્નમ = સ્પંજ (પાણી રોકે) + પીટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વહન પેશીઓ (અન્નવાહક અને જલવાહક) ધરાવતી પ્રથમ ભૂમિનિવાસી વનસ્પતિઓ કઈ છે?\n(A) દ્વિઅંગી\n(B) ત્રિઅંગી\n(C) અનાવૃત બીજધારી\n(D) આવૃત બીજધારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ત્રિઅંગી (Pteridophytes). તેમને સૌપ્રથમ વાહકપેશીધારી વનસ્પતિ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રિઅંગી = ત્રીજું પગથિયું = પેશીની શરૂઆત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ત્રિઅંગી વનસ્પતિના જન્યુજનક તબક્કાને શું કહેવામાં આવે છે?\n(A) બીજાણુજનક\n(B) પ્રોટોનીમા\n(C) પ્રસૂકાય (Prothallus)\n(D) શંકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્રસૂકાય (Prothallus). તે મુક્તજીવી, નાનું અને અસ્પષ્ટ જન્યુજનક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Pteridophyte = Prothallus'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કઈ ત્રિઅંગી વનસ્પતિ વિષમબીજાણુક (Heterosporous) છે?\n(A) ડ્રાયોપ્ટેરિસ અને ટેરિસ\n(B) સેલાજિનેલા અને સાલ્વીનિયા\n(C) ઈક્વિસેટમ અને હંસરાજ\n(D) લાઇકોપોડિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સેલાજિનેલા અને સાલ્વીનિયા. તેઓ લઘુબીજાણુ અને મહાબીજાણુ એમ બે પ્રકારના બીજાણુ ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'SS = સેલા + સાલ્વી = વિષમ (Special)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કઈ વનસ્પતિઓને 'બીજની પ્રકૃતિ' (Seed Habit) નું પૂર્વગામી માનવામાં આવે છે?\n(A) સમબીજાણુક ત્રિઅંગી\n(B) વિષમબીજાણુક ત્રિઅંગી\n(C) તમામ દ્વિઅંગી\n(D) રાતી લીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિષમબીજાણુક ત્રિઅંગી. કારણ કે માદા જન્યુજનક છોડ પર જળવાઈ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બે અલગ બીજ (વિષમ) તો જ બીજની શરૂઆત થાય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અનાવૃત બીજધારી વનસ્પતિ 'સાયકસ' માં જોવા મળતા વિશિષ્ટ મૂળ કયા છે?\n(A) કવકાર્મૂળ (Mycorrhiza)\n(B) પ્રવાળમૂળ (Coralloid roots)\n(C) સોટીમય મૂળ\n(D) આગંતુક મૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રવાળમૂળ. તેમાં નાઈટ્રોજન સ્થાપન કરતા સાયનોબેક્ટેરિયા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C for Cycas, C for Coralloid'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાઇનસ (Pinus) ના મૂળમાં ફૂગ સાથેનું સહજીવન શું કહેવાય છે?\n(A) પ્રવાળમૂળ\n(B) કવકાર્મૂળ (Mycorrhiza)\n(C) લાઈકેન\n(D) શંકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કવકાર્મૂળ (Mycorrhiza). પાઇનસના બીજ કવકાર્મૂળ વગર ઉગી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P for Pinus, M for Mycorrhiza (PM સાહેબ)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિશ્વની સૌથી ઊંચી વનસ્પતિ જાતિ કઈ છે?\n(A) સિકોઆ (Sequoia)\n(B) નીલગિરી\n(C) વડ\n(D) પાઇનસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સિકોઆ (Redwood tree). તે અનાવૃત બીજધારી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિકોઆ = સીધું આકાશમાં જાય (સૌથી ઊંચું)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અનાવૃત બીજધારીમાં લઘુબીજાણુઓ અંકુરણ પામી કયો તબક્કો બનાવે છે?\n(A) સ્ત્રીજન્યુજનક\n(B) પરાગરજ (નર જન્યુજનક)\n(C) પ્રવર્ધ\n(D) બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પરાગરજ. તે અત્યંત ઘટાડો પામેલો તબક્કો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનું બીજાણુ (Micro) = નર પરાગરજ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આવૃત બીજધારી વનસ્પતિઓમાં બેવડું ફલન થયા પછી ભ્રૂણપોષ (Endosperm) કેવો હોય છે?\n(A) એકકીય (n)\n(B) દ્વિકીય (2n)\n(C) ત્રિકીય (3n)\n(D) અગુણિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ત્રિકીય (3n). કારણ કે તેમાં એક નરજન્યુ અને બે ધ્રુવીય કોષકેન્દ્રો જોડાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '2+1 = 3 (ત્રિકીય ભ્રૂણપોષ)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કઈ વનસ્પતિમાં એકવિધ (Haplontic) જીવનચક્ર જોવા મળે છે?\n(A) ફ્યુકસ\n(B) વોલ્વોક્સ\n(C) પાઇનસ\n(D) હંસરાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વોલ્વોક્સ. મોટેભાગની લીલમાં એકવિધ જીવનચક્ર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોટાભાગની લીલ = એકવિધ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ફ્યુકસ (Fucus) લીલમાં કેવા પ્રકારનું જીવનચક્ર જોવા મળે છે?\n(A) એકવિધ\n(B) દ્વિવિધ (Diplontic)\n(C) એક-દ્વિવિધ\n(D) બહુવિધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દ્વિવિધ (Diplontic). ફ્યુકસ અપવાદરૂપ લીલ છે જે દ્વિવિધ ચક્ર ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફ્યુકસ = ફેલ (નિયમ તોડ્યો), એટલે દ્વિવિધ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક્ટોકાર્પસ અને પોલિસાઈફોનિયા માં કેવું જીવનચક્ર જોવા મળે છે?\n(A) એકવિધ\n(B) દ્વિવિધ\n(C) એક-દ્વિવિધ (Haplo-diplontic)\n(D) માત્ર એકકીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) એક-દ્વિવિધ. આ બંને લીલ અપવાદરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'EP (Ecto-Poly) = મિક્સ (એક-દ્વિ)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાયરેનોઈડ્સ (Pyrenoids) શેના બનેલા હોય છે?\n(A) માત્ર પ્રોટીન\n(B) માત્ર સ્ટાર્ચ\n(C) પ્રોટીન અને સ્ટાર્ચ\n(D) ચરબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્રોટીન અને સ્ટાર્ચ. તેમાં કેન્દ્રમાં પ્રોટીન અને આજુબાજુ સ્ટાર્ચ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PS (Pyrenoid = Protein + Starch)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ફ્લોરિડિયન સ્ટાર્ચનું બંધારણ કોને મળતું આવે છે?\n(A) એમાયલોપેક્ટીન અને ગ્લાયકોજન\n(B) સેલ્યુલોઝ\n(C) સુક્રોઝ\n(D) લેમિનારિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) એમાયલોપેક્ટીન અને ગ્લાયકોજન. આ રાતી લીલનો સંગ્રહિત ખોરાક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Floridian = Glycogen જેવું (બહુશાખી)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેનામાંથી કયો ક્રમ સાચો છે (વર્ગીકરણ મુજબ)?\n(A) લીલ -> ત્રિઅંગી -> દ્વિઅંગી\n(B) લીલ -> દ્વિઅંગી -> ત્રિઅંગી -> અનાવૃત -> આવૃત\n(C) દ્વિઅંગી -> લીલ -> આવૃત\n(D) ત્રિઅંગી -> દ્વિઅંગી -> લીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લીલ -> દ્વિઅંગી -> ત્રિઅંગી -> અનાવૃત -> આવૃત. આ ઉદવિકાસીય ક્રમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લી-દ્વિ-ત્રિ-અ-આ' (યાદ રાખવા માટેની સીરીઝ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દ્વિઅંગીમાં સ્ત્રીજન્યુધાનીનો આકાર કેવો હોય છે?\n(A) ગોળાકાર\n(B) ચંબુ આકાર (Flask shaped)\n(C) નળાકાર\n(D) તંતુમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચંબુ આકાર. તેમાં એક જ અંડકોષ ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્ત્રી = સુરક્ષા માટે ચંબુ જેવું સાધન (Flask)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "હંસરાજ (Fern) માં પર્ણો કેવા હોય છે?\n(A) સૂક્ષ્મપર્ણી\n(B) મહાપર્ણી (Large leaves)\n(C) અણીદાર સોય જેવા\n(D) હોતા જ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મહાપર્ણી. હંસરાજમાં પર્ણો મોટા હોય છે, જ્યારે સેલાજિનેલામાં નાના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હંસ મોટા હોય (મહાપર્ણી)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "નીચેનામાંથી કઈ વનસ્પતિમાં પરાગનયન પવન દ્વારા થાય છે?\n(A) દ્વિઅંગી\n(B) ત્રિઅંગી\n(C) અનાવૃત બીજધારી\n(D) લીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અનાવૃત બીજધારી. તેમાં પાણીની જરૂર પડતી નથી, પરાગરજ પવન દ્વારા સ્થાનાંતરિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અનાવૃત = ખુલ્લા (પવન સીધો લાગે)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "લઘુબીજાણુ પર્ણો અને મહાબીજાણુ પર્ણો ભેગા મળીને શું બનાવે છે?\n(A) પુષ્પ\n(B) શંકુ (Lax or Cones)\n(C) પ્રસૂકાય\n(D) જન્યુધાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શંકુ. અનાવૃત બીજધારીમાં તે લાક્ષણિક પ્રજનન અંગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જીમ્નોસ્પર્મ = શંકુ (Conifer)'.</p></div>"
+    }
+  ]
+}

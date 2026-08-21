@@ -18,27 +18,28 @@ std11_bio_chapters = {
     18: "ચેતાકીય નિયંત્રણ અને સહનિયમન", 19: "રાસાયણિક સહનિયમન અને સંકલન"
 }
 
-# પ્રશ્નોના પ્રકાર અને તેનો ક્રમ
+# પ્રશ્નોના પ્રકાર (તમારા કહ્યા મુજબ નામો અપડેટ કર્યા છે)
 question_types = [
-    {"id": "MCQ", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 30},
+    {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 30},
     {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)", "marks": 1, "min_count": 30},
     {"id": "OneWord", "name": "એક વાક્યમાં ઉત્તર", "marks": 1, "min_count": 30},
     {"id": "MatchPairs", "name": "જોડકાં જોડો", "marks": 1, "min_count": 30},
-    {"id": "2Marks", "name": "ટૂંક જવાબી પ્રશ્નો", "marks": 2, "min_count": 20},
-    {"id": "3Marks", "name": "મુદ્દાસર પ્રશ્નો", "marks": 3, "min_count": 20},
-    {"id": "4Marks", "name": "વિસ્તૃત પ્રશ્નો", "marks": 4, "min_count": 20}
+    {"id": "2_Marks", "name": "ટૂંક જવાબી પ્રશ્નો", "marks": 2, "min_count": 20},
+    {"id": "3_Marks", "name": "મુદ્દાસર પ્રશ્નો", "marks": 3, "min_count": 20},
+    {"id": "4_Marks", "name": "વિસ્તૃત પ્રશ્નો", "marks": 4, "min_count": 20}
 ]
 
 ch_num = tracker['current_chapter']
 type_idx = tracker['current_type_index']
 ch_name = std11_bio_chapters.get(ch_num, "અન્ય")
 current_q_type = question_types[type_idx]
+subject = tracker.get('subject', 'Biology')
 
-print(f"Generating {current_q_type['name']} for Std 11 Biology Chapter {ch_num} ({ch_name})...", flush=True)
+print(f"Generating {current_q_type['name']} for Std 11 {subject} Chapter {ch_num} ({ch_name})...", flush=True)
 
 # પ્રકાર મુજબ ખાસ નિયમો
 type_specific_rules = ""
-if current_q_type['id'] == "MCQ":
+if current_q_type['id'] == "MCQs":
     type_specific_rules = "દરેક પ્રશ્ન સાથે 4 વિકલ્પો (A, B, C, D) ફરજિયાત આપવા."
 elif current_q_type['id'] == "FillBlanks":
     type_specific_rules = "દરેક ખાલી જગ્યાના અંતે કૌંસમાં 3 વિકલ્પો ફરજિયાત આપવા. દા.ત. _____ (વિકલ્પ1, વિકલ્પ2, વિકલ્પ3)."
@@ -52,7 +53,7 @@ prompt = f"""
 પ્રશ્નનો પ્રકાર: {current_q_type['name']} ({current_q_type['marks']} માર્ક)
 
 અત્યંત કડક નિયમો (STRICT QUALITY CONTROL):
-1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. પ્રકરણ મોટું હોય તો વધુ બની શકે, પણ {current_q_type['min_count']} થી ઓછા નહિ. (આખા ચેપ્ટરનો ખૂણેખૂણો કવર થવો જોઈએ).
+1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. પ્રકરણ મોટું હોય તો વધુ બની શકે, પણ {current_q_type['min_count']} થી ઓછા નહિ.
 2. પ્રકાર મુજબ શરત: {type_specific_rules}
 3. નો-રીપીટેશન: અગાઉના કોઈ પ્રશ્ન રીપીટ ન થવા જોઈએ. 
 4. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ.
@@ -106,23 +107,24 @@ if not output_data:
     print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.", flush=True)
     exit(1)
 
-# તમારા કહ્યા મુજબનું નવું ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Biology
-folder_path = f"Science/Std11/Biology/Ch_{ch_num}_{ch_name.replace(' ', '_')}"
+# ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Biology (ધોરણ 10 ની જેમ જ)
+folder_path = f"Science/Std11/{subject}"
 os.makedirs(folder_path, exist_ok=True)
 
-# એરર ફિક્સ: ડાયરેક્ટ વેરીએબલ વાપરીને સિંગલ/ડબલ કોટ્સનો પ્રોબ્લેમ સોલ્વ કર્યો
 q_id = current_q_type['id']
-file_path = f"{folder_path}/{q_id}.js"
+file_path = f"{folder_path}/{subject}_{q_id}.js"  # દા.ત. Biology_MCQs.js
 
 mode = 'a' if os.path.exists(file_path) else 'w'
 with open(file_path, mode, encoding='utf-8') as f:
     if mode == 'w':
-        f.write(f"var Ch{ch_num}_{q_id} = {{\n")
-        f.write(f'"{q_id}": ' + output_data + '\n')
+        # ફાઈલ પહેલીવાર બને ત્યારે મેઈન વેરીએબલ બનશે
+        f.write(f"var Std11_{subject}_{q_id} = {{\n")
+        f.write(f'"{ch_num}": ' + output_data + '\n')
     else:
-        f.write(f',\n"{q_id}": ' + output_data + '\n')
+        # બીજીવાર નવા ચેપ્ટરનો ડેટા એ જ ફાઈલમાં નીચે જોડાશે
+        f.write(f',\n"{ch_num}": ' + output_data + '\n')
 
-# ટ્રેકર અપડેટ લોજીક (MCQ -> ખાલી જગ્યા -> ... 4 માર્ક્સ -> નવું ચેપ્ટર)
+# ટ્રેકર અપડેટ લોજીક
 tracker['current_type_index'] += 1
 if tracker['current_type_index'] >= len(question_types):
     tracker['current_type_index'] = 0
@@ -135,4 +137,4 @@ if tracker['current_chapter'] > len(std11_bio_chapters):
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully!", flush=True)
+print("Task Completed Successfully! Database Format Applied.", flush=True)

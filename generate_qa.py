@@ -55,7 +55,7 @@ prompt = f"""
 1. પ્રશ્નોની સંખ્યા: ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. પ્રકરણ મોટું હોય તો વધુ બની શકે, પણ {current_q_type['min_count']} થી ઓછા નહિ. (આખા ચેપ્ટરનો ખૂણેખૂણો કવર થવો જોઈએ).
 2. પ્રકાર મુજબ શરત: {type_specific_rules}
 3. નો-રીપીટેશન: અગાઉના કોઈ પ્રશ્ન રીપીટ ન થવા જોઈએ. 
-4. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક' ફરજિયાત હોવી જોઈએ.
+4. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ.
 
 ફોર્મેટ (STRICT JSON FORMAT):
 કોઈપણ જાતના વેરીએબલ વગર માત્ર નીચે મુજબનું JSON Object આપવું:
@@ -109,15 +109,18 @@ if not output_data:
 # તમારા કહ્યા મુજબનું નવું ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Biology
 folder_path = f"Science/Std11/Biology/Ch_{ch_num}_{ch_name.replace(' ', '_')}"
 os.makedirs(folder_path, exist_ok=True)
-file_path = f"{folder_path}/{current_q_type['id']}.js"
+
+# એરર ફિક્સ: ડાયરેક્ટ વેરીએબલ વાપરીને સિંગલ/ડબલ કોટ્સનો પ્રોબ્લેમ સોલ્વ કર્યો
+q_id = current_q_type['id']
+file_path = f"{folder_path}/{q_id}.js"
 
 mode = 'a' if os.path.exists(file_path) else 'w'
 with open(file_path, mode, encoding='utf-8') as f:
     if mode == 'w':
-        f.write(f"var Ch{ch_num}_{current_q_type['id']} = {{\n")
-        f.write(f'"{current_q_type['id']}": ' + output_data + '\n')
+        f.write(f"var Ch{ch_num}_{q_id} = {{\n")
+        f.write(f'"{q_id}": ' + output_data + '\n')
     else:
-        f.write(f',\n"{current_q_type['id']}": ' + output_data + '\n')
+        f.write(f',\n"{q_id}": ' + output_data + '\n')
 
 # ટ્રેકર અપડેટ લોજીક (MCQ -> ખાલી જગ્યા -> ... 4 માર્ક્સ -> નવું ચેપ્ટર)
 tracker['current_type_index'] += 1

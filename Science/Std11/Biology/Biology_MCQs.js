@@ -2044,3 +2044,371 @@ var Std11_Biology_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "જૈવ અણુઓ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જીવંત પેશીના રાસાયણિક પૃથ્થકરણ માટે કયા એસિડનો ઉપયોગ થાય છે?\nA. હાઇડ્રોક્લોરિક એસિડ\nB. ટ્રાયક્લોરો એસિટિક એસિડ\nC. સલ્ફ્યુરિક એસિડ\nD. નાઈટ્રિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ટ્રાયક્લોરો એસિટિક એસિડ (Cl₃CCOOH). જીવંત પેશીને આ એસિડમાં વાટીને તેની પેસ્ટ બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T-C-A યાદ રાખો (Trichloroacetic Acid) - 'ટીકા' કરવા માટે એસિડ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જ્યારે જીવંત પેશીને ટ્રાયક્લોરો એસિટિક એસિડમાં વાટીને ગાળવામાં આવે ત્યારે ગાળણમાં જે ભાગ મળે છે તેને શું કહેવાય?\nA. એસિડ અદ્રાવ્ય જૂથ\nB. એસિડ દ્રાવ્ય જૂથ\nC. ભસ્મ\nD. ખનીજ તત્વો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. એસિડ દ્રાવ્ય જૂથ. ગાળણ (Filtrate) હંમેશા દ્રાવ્ય હોય તેને 'એસિડ સોલ્યુબલ પૂલ' કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાળણ = ગળી જાય (દ્રાવ્ય), ઉપર રહે તે અદ્રાવ્ય (Retentate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પેશીને બાળી નાખ્યા પછી વધતા પદાર્થને શું કહેવાય?\nA. કાર્બનિક પદાર્થ\nB. પાણી\nC. ભસ્મ (Ash)\nD. વાયુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ભસ્મ (Ash). અકાર્બનિક તત્વોના પૃથ્થકરણ માટે ભસ્મ કસોટી કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળી જાય તે કાર્બનિક (CO2 સ્વરૂપે), જે બચે તે અકાર્બનિક (ભસ્મ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેનામાંથી કયું તત્વ પૃથ્વીના પોપડા (Earth's crust) માં માનવ શરીર કરતા વધુ ટકાવારીમાં જોવા મળે છે?\nA. કાર્બન\nB. હાઇડ્રોજન\nC. નાઇટ્રોજન\nD. સિલિકોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. સિલિકોન. પૃથ્વીના પોપડામાં સિલિકોન વધુ છે, જ્યારે માનવ શરીરમાં તે નહિવત્ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સી' થી સિલિકોન અને 'સી' થી સેન્ડ (રેતી) - રેતી પૃથ્વી પર હોય, શરીરમાં નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એસિડ દ્રાવ્ય જૂથમાં અણુભારનો ગાળો સામાન્ય રીતે કેટલો હોય છે?\nA. 18 થી 800 ડાલ્ટન\nB. 1000 થી 10000 ડાલ્ટન\nC. 10000 થી વધુ\nD. 1 થી 10 ડાલ્ટન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 18 થી 800 ડાલ્ટન. તેને સૂક્ષ્મ જૈવ અણુઓ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 800 થી નાનું એટલે સૂક્ષ્મ (Micro).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીચેનામાંથી કયું એસિડ અદ્રાવ્ય જૂથ (Macromolecules) માં આવે છે?\nA. એમિનો એસિડ\nB. મોનોસેકેરાઇડ\nC. ન્યુક્લિક એસિડ\nD. નાઇટ્રોજન બેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ન્યુક્લિક એસિડ. પ્રોટીન, લિપિડ, પોલીસેકેરાઇડ અને ન્યુક્લિક એસિડ એ અદ્રાવ્ય જૂથમાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૌલી (Poly) અને પ્રોટીન હંમેશા મોટા હોય (Macro).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લિપિડનો અણુભાર 800 ડાલ્ટનથી ઓછો હોવા છતાં તે શા માટે અદ્રાવ્ય જૂથમાં મળે છે?\nA. તે બહુલીમર (Polymer) છે.\nB. તે પાણીમાં દ્રાવ્ય છે.\nC. તે કોષરસપટલની પુટિકાઓ બનાવે છે જે ગાળણમાંથી પસાર થતી નથી.\nD. તે ખૂબ જ જટિલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. લિપિડ કોષરસપટલ અને અન્ય અંગિકાઓના બંધારણમાં હોય છે. પેશી વાટતી વખતે તે પુટિકાઓ (Vesicles) બનાવે છે જે કદમાં મોટી હોવાથી ગાળણીમાં અટકી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિપિડ છે નાનું, પણ પુટિકા બનાવીને 'મોટા' જેવો દેખાવ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જીવંત કોષના સરેરાશ રાસાયણિક બંધારણમાં સૌથી વધુ પ્રમાણ કોનું હોય છે?\nA. પ્રોટીન\nB. પાણી\nC. ન્યુક્લિક એસિડ\nD. કાર્બોદિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાણી (70-90%). જીવંત દ્રવ્યમાં પાણીનું પ્રમાણ સૌથી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જળ એ જ જીવન' - સૌથી વધુ પાણી જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એમિનો એસિડના બંધારણમાં મધ્યસ્થ કાર્બન સાથે કેટલા ક્રિયાશીલ સમૂહો જોડાયેલા હોય છે?\nA. 2\nB. 3\nC. 4\nD. 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 4 (NH₂, COOH, H અને R સમૂહ). આ કાર્બનને આલ્ફા-કાર્બન કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બનનાં ચાર હાથ, ચારેય પર અલગ મેહમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સૌથી સરળ એમિનો એસિડ કયો છે, જેમાં 'R' સમૂહ તરીકે હાઇડ્રોજન (H) હોય છે?\nA. એલેનાઇન\nB. સેરીન\nC. ગ્લાયસીન\nD. વેલાઇન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગ્લાયસીન. ગ્લાયસીનમાં R = H હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્લાયસીન' એટલે 'G' - Ground લેવલનો સાદો (H).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "એલેનાઇનમાં 'R' સમૂહ તરીકે શું જોવા મળે છે?\nA. હાઇડ્રોક્સિ મિથાઇલ સમૂહ\nB. મિથાઇલ સમૂહ (-CH₃)\nC. હાઇડ્રોજન\nD. કાર્બોક્સિલ સમૂહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મિથાઇલ સમૂહ (-CH₃).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-M (Alanine - Methyl).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નીચેનામાંથી કયો એમિનો એસિડ એરોમેટિક છે?\nA. ટાયરોસીન\nB. ફિનાઇલ એલેનાઇન\nC. ટ્રિપ્ટોફન\nD. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ. ટાયરોસીન, ફિનાઇલ એલેનાઇન અને ટ્રિપ્ટોફન એ એરોમેટિક એમિનો એસિડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T-P-T (Tyrosine, Phenylalanine, Tryptophan) એરોમેટિક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્વિતર આયન (Zwitterion) માં એમિનો એસિડની સ્થિતિ કેવી હોય છે?\nA. માત્ર ધન ભાર\nB. માત્ર ઋણ ભાર\nC. ધન અને ઋણ બંને ભાર એકસાથે\nD. કોઈ ભાર નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ધન અને ઋણ બંને ભાર એકસાથે. -NH₃⁺ અને -COO⁻ બંને હાજર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝ્વિટર' એટલે 'ડબલ' (Hybrid) - પ્લસ અને માઈનસ બંને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લિપિડ મુખ્યત્વે કેવા હોય છે?\nA. પાણીમાં દ્રાવ્ય\nB. પાણીમાં અદ્રાવ્ય\nC. પ્રોટીનના બનેલા\nD. રિંગ આકારના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાણીમાં અદ્રાવ્ય. તે કાર્બનિક દ્રાવકોમાં દ્રાવ્ય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ (લિપિડ) અને પાણી ક્યારેય ભેગા ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ફેટી એસિડમાં કાર્બોક્સિલ સમૂહ સાથે જોડાયેલા કાર્બન પરમાણુઓની સંખ્યા કેટલી હોઈ શકે?\nA. 1 થી 19\nB. 20 થી 50\nC. 1 થી 5\nD. 100 થી વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 1 થી 19 કાર્બન (R ગ્રુપમાં). કુલ કાર્બન (COOH સાથે) 2 થી 20 હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પામીટિક એસિડ = 16 C, એરેકીડોનિક = 20 C (COOH સહિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પામીટિક એસિડમાં કુલ કેટલા કાર્બન હોય છે?\nA. 16\nB. 18\nC. 20\nD. 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 16 (15 મિથાઇલ કાર્બન + 1 COOH કાર્બન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P16 (Palm-16).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો ફેટી એસિડમાં એક પણ દ્વિબંધ (Double bond) ન હોય, તો તેને શું કહેવાય?\nA. અસંતૃપ્ત ફેટી એસિડ\nB. સંતૃપ્ત ફેટી એસિડ\nC. ગ્લિસરોલ\nD. ફોસ્ફોલિપિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સંતૃપ્ત (Saturated) ફેટી એસિડ. તેમાં માત્ર એકલ બંધ જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સિંગલ બોન્ડ, 'સ' થી સંતૃપ્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગ્લિસરોલનું રાસાયણિક નામ શું છે?\nA. ટ્રાયહાઇડ્રોક્સિ પ્રોપેન\nB. ડાયહાઇડ્રોક્સિ ઇથેન\nC. ટેટ્રાહાઇડ્રોક્સિ બ્યુટેન\nD. મોનોહાઇડ્રોક્સિ મિથેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ટ્રાયહાઇડ્રોક્સિ પ્રોપેન. તેમાં 3 કાર્બન અને 3 -OH સમૂહ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લિસરોલ = 3 Carbon + 3 OH (Try-Propane).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેનામાંથી કયું સંયોજન કોષરસપટલમાં જોવા મળે છે અને તેમાં ફોસ્ફરસ હોય છે?\nA. ટ્રાયગ્લિસરાઇડ\nB. લેસીથિન\nC. ગ્લાયસીન\nD. કોલેસ્ટરોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લેસીથિન. તે એક ફોસ્ફોલિપિડ છે જે કોષરસપટલમાં મુખ્યત્વે જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' for Lecithin, 'L' for Lipid membrane.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એડિનાઇન એ શું છે?\nA. ન્યુક્લિયોસાઇડ\nB. ન્યુક્લિયોટાઇડ\nC. નાઇટ્રોજન બેઝ (પ્યુરીન)\nD. એમિનો એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. નાઇટ્રોજન બેઝ. એડિનાઇન અને ગ્વાનીન પ્યુરીન પ્રકારના નાઇટ્રોજન બેઝ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A, G, C, T, U - આ બધા બેઝ (પાયા) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "એડિનોસાઇન એ શું છે?\nA. ન્યુક્લિયોસાઇડ\nB. ન્યુક્લિયોટાઇડ\nC. નાઇટ્રોજન બેઝ\nD. શર્કરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ન્યુક્લિયોસાઇડ. જ્યારે નાઇટ્રોજન બેઝ શર્કરા સાથે જોડાય ત્યારે તેને ન્યુક્લિયોસાઇડ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઝ + સુગર = સાઇડ (Side), બેઝ + સુગર + ફોસ્ફેટ = ટાઇડ (Tide).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "યુરીડીલિક એસિડ શું છે?\nA. ન્યુક્લિયોસાઇડ\nB. ન્યુક્લિયોટાઇડ\nC. ફેટી એસિડ\nD. પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ન્યુક્લિયોટાઇડ. ન્યુક્લિયોટાઇડના નામમાં પાછળ 'એસિડ' (acid) લાગે છે (જેમ કે એડિનાઇલિક એસિડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં 'ટાઇડ' આવે અથવા 'ઇલિક એસિડ' આવે તો તે ન્યુક્લિયોટાઇડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીચેનામાંથી કયું દ્વિતીયક ચયાપચયક (Secondary Metabolite) નથી?\nA. રબર\nB. ગુંદર\nC. ગ્લુકોઝ\nD. મોર્ફિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગ્લુકોઝ. ગ્લુકોઝ એ પ્રાથમિક ચયાપચયક છે જે પાયાની જૈવિક ક્રિયાઓમાં વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે જીવન જીવવા માટે 'સીધું' જરૂરી હોય તે પ્રાથમિક (ગ્લુકોઝ, એમિનો એસિડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મોર્ફિન અને કોડિન એ કયા પ્રકારના દ્વિતીયક ચયાપચયકો છે?\nA. આલ્કલોઇડ્સ\nB. ટેરપેનોઇડ્સ\nC. લેક્ટિન્સ\nD. ટોક્સિન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. આલ્કલોઇડ્સ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોર' અને 'કોડ' આલ્કલોઇડ્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કોનકેનાવેલીન-A (Concanavalin A) શું છે?\nA. રંજકદ્રવ્ય\nB. લેક્ટિન્સ\nC. ડ્રગ્સ\nD. આવશ્યક તેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લેક્ટિન્સ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Con-A' = Lectin (યાદ રાખો: લેક-કોન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિનબ્લાસ્ટિન અને કુરકુમિન કયા જૂથમાં આવે છે?\nA. ટોક્સિન્સ\nB. ડ્રગ્સ (ઔષધો)\nC. ટેરપેનોઇડ્સ\nD. રંજકદ્રવ્યો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ડ્રગ્સ (ઔષધો). વિનબ્લાસ્ટિન કેન્સરની સારવારમાં વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિન' એટલે કેન્સર સામે જીત (વિનબ્લાસ્ટિન), 'કુરકુમિન' એટલે હળદર (દવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પ્રોટીન એ કોનો વિષમપોલિમર (Heteropolymer) છે?\nA. ન્યુક્લિયોટાઇડ\nB. ફેટી એસિડ\nC. એમિનો એસિડ\nD. મોનોસેકેરાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. એમિનો એસિડ. પ્રોટીન 20 પ્રકારના એમિનો એસિડના બનેલા હોય છે, તેથી તે વિષમપોલિમર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન એટલે એમિનો એસિડની માળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પ્રાણીજ સૃષ્ટિમાં સૌથી વધુ પ્રમાણમાં જોવા મળતું પ્રોટીન કયું છે?\nA. રુબિસ્કો (RuBisCO)\nB. કોલેજન (Collagen)\nC. ઇન્સ્યુલિન\nD. હિમોગ્લોબિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કોલેજન. તે સંયોજક પેશીઓમાં પુષ્કળ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Animal - Collagen' (AC), 'World/Plant - RuBisCO'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સમગ્ર જીવાવરણ (Biosphere) માં સૌથી વધુ પ્રમાણમાં જોવા મળતું પ્રોટીન કયું છે?\nA. કોલેજન\nB. ટ્રિપ્સીન\nC. રુબિસ્કો (RuBisCO)\nD. એન્ટિબોડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. રુબિસ્કો (Ribulose bisphosphate Carboxylase-Oxygenase). તે વનસ્પતિઓમાં પ્રકાશસંશ્લેષણ માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી દુનિયામાં રુબિસ્કોનો જ દબદબો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કયું પ્રોટીન ગ્લુકોઝના કોષમાં વહનને પ્રેરે છે?\nA. GLUT-4\nB. ઇન્સ્યુલિન\nC. ટ્રિપ્સીન\nD. કોલેજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. GLUT-4. તે ગ્લુકોઝ ટ્રાન્સપોર્ટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GLU + T (Glucose Transport).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સેલ્યુલોઝ એ કેવા પ્રકારનો પોલીસેકેરાઇડ છે?\nA. વિષમપોલિમર\nB. સમપોલિમર (Homopolymer)\nC. ડાયસેકેરાઇડ\nD. લિપિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સમપોલિમર. તે માત્ર ગ્લુકોઝના એકમોનો જ બનેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ્યુલોઝ = ફક્ત ગ્લુકોઝ, ગ્લુકોઝ અને ગ્લુકોઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પ્રાણીઓમાં સંગ્રહિત પોલીસેકેરાઇડ કયો છે?\nA. સ્ટાર્ચ\nB. સેલ્યુલોઝ\nC. ગ્લાયકોજન\nD. ઇન્યુલિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગ્લાયકોજન. પ્રાણીઓના યકૃત અને સ્નાયુઓમાં ગ્લુકોઝ ગ્લાયકોજન સ્વરૂપે સંગ્રહાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાન્ટ = સ્ટાર્ચ, એનિમલ = ગ્લાયકોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઇન્યુલિન (Inulin) એ કોનો પોલિમર છે?\nA. ગ્લુકોઝ\nB. ફ્રુક્ટોઝ\nC. ગેલેક્ટોઝ\nD. એમીનો એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ફ્રુક્ટોઝ. ઇન્યુલિન એ ફ્રુક્ટોઝના એકમો ધરાવતો પોલીસેકેરાઇડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I-F' (Inulin-Fructose) - ઇનસાઇડ ફ્રુટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "પોલીસેકેરાઇડની શૃંખલામાં જમણો છેડો કયો છે?\nA. બિનરિડ્યુસિંગ\nB. રિડ્યુસિંગ\nC. ઓક્સિડાઇઝિંગ\nD. તટસ્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રિડ્યુસિંગ છેડો. ડાબો છેડો બિન-રિડ્યુસિંગ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'R' for Right, 'R' for Reducing.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સ્ટાર્ચ આયોડિન કસોટીમાં કયો રંગ આપે છે?\nA. લાલ\nB. લીલો\nC. ઘેરો વાદળી (Blue)\nD. પીળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઘેરો વાદળી. સ્ટાર્ચ તેની કુંતલમય સંરચનામાં આયોડિનના અણુઓને જકડી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટાર્ચ + આયોડિન = બ્લુ બેબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "શા માટે સેલ્યુલોઝ આયોડિન સાથે રંગ આપતું નથી?\nA. તે રંગહીન છે.\nB. તેમાં કુંતલો હોતા નથી.\nC. તે મોટો અણુ છે.\nD. તે ગ્લુકોઝનું બનેલું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સેલ્યુલોઝમાં જટિલ કુંતલો હોતા નથી, તેથી તે આયોડિનને જકડી શકતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાસે 'ખિસ્સા' (કુંતલ) નથી, તે 'પૈસા' (આયોડિન) રાખી શકે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સંધિપાદીઓના બાહ્ય કંકાલ શાના બનેલા હોય છે?\nA. સેલ્યુલોઝ\nB. કાઇટિન (Chitin)\nC. લિપિડ\nD. પેપ્ટિડોગ્લાયકેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કાઇટિન. કાઇટિન એ N-એસીટાઇલ ગ્લુકોસેમાઇનનો વિષમપોલિમર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાઇટિન' એ કીટકોનું કવચ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ન્યુક્લિક એસિડના બિલ્ડિંગ બ્લોક્સ કયા છે?\nA. એમિનો એસિડ\nB. ફેટી એસિડ\nC. ન્યુક્લિયોટાઇડ્સ\nD. ગ્લુકોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ન્યુક્લિયોટાઇડ્સ. ન્યુક્લિક એસિડ એ ન્યુક્લિયોટાઇડ્સનો બહુલીમર (Polynucleotide) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુક્લિક એસિડની ટ્રેન, ન્યુક્લિયોટાઇડના ડબ્બા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "DNA અને RNA માં કયા પ્રકારની શર્કરા હોય છે?\nA. હેક્ઝોઝ\nB. પેન્ટોઝ\nC. ટ્રાયોઝ\nD. ટેટ્રોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પેન્ટોઝ (5 કાર્બન ધરાવતી શર્કરા). DNA માં ડીઓક્સિ રીબોઝ અને RNA માં રીબોઝ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચ (5) એટલે પેન્ટોઝ - DNA નો પાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પ્રોટીનનું કયું બંધારણ તેની જૈવિક ક્રિયાશીલતા માટે અનિવાર્ય છે?\nA. પ્રાથમિક\nB. દ્વિતીયક\nC. તૃતીયક\nD. એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. તૃતીયક (Tertiary) બંધારણ. તે પ્રોટીનને ત્રિ-પરિમાણીય (3D) આકાર આપે છે જે ઉત્સેચકીય ક્રિયા માટે જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3D એટલે તૃતીયક - કામ કરવા માટે 3D માં આવવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "હિમોગ્લોબિનમાં કેટલા પેટાએકમો (Subunits) હોય છે?\nA. 2\nB. 3\nC. 4\nD. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 4 પેટાએકમો. 2 આલ્ફા અને 2 બીટા સાંકળો હોય છે. તે ચતુર્થક બંધારણ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hb = 2α + 2β = 4 (ચતુર્થક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "બે એમિનો એસિડ વચ્ચે કયો બંધ બને છે?\nA. ગ્લાયકોસિડિક બંધ\nB. પેપ્ટાઇડ બંધ\nC. ફોસ્ફોડાયએસ્ટર બંધ\nD. હાઇડ્રોજન બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પેપ્ટાઇડ બંધ (-CONH-). તે એક એમિનો એસિડના -COOH અને બીજાના -NH₂ વચ્ચે પાણીનો અણુ દૂર થઈને બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' for Protein, 'P' for Peptide.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "પોલીસેકેરાઇડમાં બે મોનોસેકેરાઇડ વચ્ચે કયો બંધ હોય છે?\nA. પેપ્ટાઇડ બંધ\nB. હાઇડ્રોજન બંધ\nC. ગ્લાયકોસિડિક બંધ\nD. આયોનિક બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગ્લાયકોસિડિક બંધ. બે કાર્બન પરમાણુઓ વચ્ચે ઓક્સિજન દ્વારા આ બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકો (Glyco) એટલે સુગર, તો બંધ પણ ગ્લાયકોસિડિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "DNA ની બે શૃંખલાઓ વચ્ચે નાઇટ્રોજન બેઝ કયા બંધથી જોડાયેલા હોય છે?\nA. પેપ્ટાઇડ બંધ\nB. હાઇડ્રોજન બંધ\nC. ફોસ્ફોડાયએસ્ટર બંધ\nD. ગ્લાયકોસિડિક બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હાઇડ્રોજન બંધ. A=T વચ્ચે 2 અને C≡G વચ્ચે 3 હાઇડ્રોજન બંધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઝ વચ્ચે 'પ્રેમ' (H-bond) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ન્યુક્લિક એસિડમાં બે ન્યુક્લિયોટાઇડ વચ્ચે કયો બંધ હોય છે?\nA. ફોસ્ફોડાયએસ્ટર બંધ\nB. પેપ્ટાઇડ બંધ\nC. ગ્લાયકોસિડિક બંધ\nD. હાઇડ્રોજન બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ફોસ્ફોડાયએસ્ટર બંધ. એક શર્કરાના 3'-OH અને બીજી શર્કરાના 5'-OH વચ્ચે ફોસ્ફેટ દ્વારા બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુક્લિયોટાઇડને 'ફોસ્ફેટ' જોડે એટલે 'ફોસ્ફોડાયએસ્ટર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વોટસન અને ક્રિક દ્વારા આપવામાં આવેલ DNA નું મોડેલ કયા પ્રકારનું છે?\nA. A-DNA\nB. B-DNA\nC. Z-DNA\nD. C-DNA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. B-DNA. તે જમણેરી કુંતલ (Right-handed helix) ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'B' for Best/Basic (Watson-Crick Model).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "B-DNA ના એક પૂર્ણ કુંતલ (Pitch) ની લંબાઈ કેટલી હોય છે?\nA. 3.4 Å\nB. 34 Å\nC. 20 Å\nD. 10 Å",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 34 Å (અથવા 3.4 nm). એક કુંતલમાં 10 બેઝ જોડી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 પગથિયાં = 34 ફૂટ (Å) - એક પગથિયું 3.4 Å.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ઉત્સેચકો રાસાયણિક પ્રક્રિયાના વેગમાં કેવી રીતે વધારો કરે છે?\nA. સક્રિય શક્તિ (Activation Energy) વધારીને\nB. સક્રિય શક્તિ ઘટાડીને\nC. તાપમાન વધારીને\nD. પ્રક્રિયાર્થીની સાંદ્રતા ઘટાડીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સક્રિય શક્તિ ઘટાડીને. ઉત્સેચકો પ્રક્રિયા માટે જરૂરી ઉર્જાનો પહાડ નાનો કરી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્સેચક એટલે 'Short-cut' રસ્તો, જેમાં ઓછી ઉર્જા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઉત્સેચકનો જે ભાગ પ્રક્રિયાર્થી (Substrate) સાથે જોડાય છે તેને શું કહેવાય?\nA. નિષ્ક્રિય સ્થાન\nB. સક્રિય સ્થાન (Active Site)\nC. એલોસ્ટેરિક સાઇટ\nD. પ્રોસ્થેટિક ગ્રુપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સક્રિય સ્થાન. તે ઉત્સેચકની સપાટી પર આવેલી ખાંચ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં કામ (Action) થાય તે 'Active' Site.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "નીચેનામાંથી કયો ઉત્સેચક પ્રોટીનનો બનેલો નથી (અપવાદ)?\nA. ટ્રિપ્સીન\nB. પેપ્સીન\nC. રાઇબોઝાઇમ\nD. એમાયલેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. રાઇબોઝાઇમ. તે ન્યુક્લિક એસિડ (RNA) નો બનેલો ઉત્સેચક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RNA + Enzyme = Ribozyme (પ્રોટીન વગરનો એન્ઝાઇમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "તાપમાનમાં વધારો કરવાથી ઉત્સેચકની પ્રતિક્રિયા પર શું અસર થાય છે?\nA. હંમેશા વધે છે\nB. હંમેશા ઘટે છે\nC. ચોક્કસ તાપમાન સુધી વધે અને પછી ઘટે\nD. કોઈ અસર થતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઉત્સેચકો 'ઇષ્ટતમ તાપમાન' (Optimum temperature) પર સૌથી વધુ સક્રિય હોય છે. ખૂબ ઊંચા તાપમાને તે વિનૈસર્ગીકરણ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેલ શેપ (Bell shape) ગ્રાફ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "Km (મિખાલિસ અચળાંક) ની કિંમત ઓછી હોય તો ઉત્સેચકની પ્રક્રિયાર્થી પ્રત્યેની આકર્ષણ શક્તિ (Affinity) કેવી હોય?\nA. વધુ\nB. ઓછી\nC. શૂન્ય\nD. બદલાતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. વધુ. ઓછી Km કિંમત એટલે ઉત્સેચક પ્રક્રિયાર્થી સાથે ઝડપથી અને મજબૂત રીતે જોડાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Km અને આકર્ષણ વચ્ચે 'દુશ્મની' (વ્યસ્ત સંબંધ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જ્યારે અવરોધકનું બંધારણ પ્રક્રિયાર્થી જેવું જ હોય, ત્યારે તેને શું કહેવાય?\nA. બિન-સ્પર્ધાત્મક અવરોધક\nB. સ્પર્ધાત્મક અવરોધક (Competitive inhibitor)\nC. ફીડબેક અવરોધક\nD. સહ-ઉત્સેચક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સ્પર્ધાત્મક અવરોધક. તે સક્રિય સ્થાન માટે પ્રક્રિયાર્થી સાથે સ્પર્ધા કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુપ્લીકેટ પ્રક્રિયાર્થી = કોમ્પિટિશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "સક્સિનિક ડીહાઇડ્રોજીનેઝ માટે મેલોનેટ એ શેનું ઉદાહરણ છે?\nA. સ્પર્ધાત્મક અવરોધ\nB. બિન-સ્પર્ધાત્મક અવરોધ\nC. સહ-કારક\nD. પ્રોસ્થેટિક જૂથ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સ્પર્ધાત્મક અવરોધ. મેલોનેટનું બંધારણ સક્સિનેટ જેવું જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સક્સિનેટ અને મેલોનેટ ભાઈ-ભાઈ (સ્પર્ધા કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ઉત્સેચકોના વર્ગીકરણમાં કુલ કેટલા વર્ગો પાડવામાં આવ્યા છે?\nA. 4\nB. 5\nC. 6\nD. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 6 વર્ગો (Oxidoreductases, Transferases, Hydrolases, Lyases, Isomerases, Ligases).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O-T-H-L-I-L (ઓથલીલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "બે સંયોજનોને જોડવા માટે કયો ઉત્સેચક વપરાય છે?\nA. લાયેઝ\nB. લિગેઝ\nC. આઇસોમરેઝ\nD. હાઇડ્રોલેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લિગેઝ (Ligase). તે C-O, C-S, C-N કે P-O બંધ જોડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-i-g-a-s-e = Gum (ગુંદર), જોડવાનું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ઉત્સેચકના પ્રોટીન ભાગને શું કહેવાય?\nA. એપોએન્ઝાઇમ (Apoenzyme)\nB. કો-ફેક્ટર\nC. હોલોએન્ઝાઇમ\nD. પ્રોસ્થેટિક ગ્રુપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. એપોએન્ઝાઇમ. તે ઉત્સેચકનો મુખ્ય પ્રોટીનયુક્ત ભાગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Apo = 'A' protein part.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "કાર્બનિક સંયોજન જે એપોએન્ઝાઇમ સાથે મજબૂત રીતે જોડાયેલ હોય તેને શું કહેવાય?\nA. સહ-ઉત્સેચક (Co-enzyme)\nB. પ્રોસ્થેટિક જૂથ\nC. ધાતુ આયન\nD. હોલોએન્ઝાઇમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પ્રોસ્થેટિક જૂથ. દા.ત. પેરોક્સિડેઝમાં 'હીમ' (Haem).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોસ્થેટિક એટલે 'કાયમી' ફેવિકોલ જેવો જોડાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "NAD અને NADP માં કયું વિટામિન હોય છે?\nA. વિટામિન B1\nB. નિયાસિન\nC. વિટામિન C\nD. વિટામિન A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નિયાસિન. ઘણા સહ-ઉત્સેચકો વિટામિન્સ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N in NAD = Niacin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "કાર્બોક્સિપેપ્ટિડેઝ ઉત્સેચક માટે કયો ધાતુ આયન સહ-કારક તરીકે કામ કરે છે?\nA. મેગ્નેશિયમ\nB. આયર્ન\nC. ઝિંક (Zn)\nD. કોપર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઝિંક (Zn++).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Carboxy + Zinc (CZ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ચયાપચયિક પથ કેવો હોઈ શકે?\nA. રેખીય\nB. ચક્રીય\nC. A અને B બંને\nD. માત્ર એકમાર્ગી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. A અને B બંને. ગ્લાયકોલિસિસ રેખીય છે, જ્યારે ક્રેબ્સ ચક્ર ચક્રીય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તા સીધા પણ હોય અને ગોળ પણ હોય (ટ્રાફિક સર્કલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "એનાબોલિક (Anabolic) પ્રક્રિયા એટલે શું?\nA. શક્તિ મુક્ત કરતી પ્રક્રિયા\nB. શક્તિ વપરાતી (ઉપભોગ) પ્રક્રિયા\nC. જટિલ અણુઓનું તૂટવું\nD. પાચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શક્તિ વપરાતી પ્રક્રિયા. તેને સંશ્લેષણ પ્રક્રિયા પણ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' for Add (ઉમેરવું/બનાવવું) - મહેનત (શક્તિ) લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ગ્લુકોઝમાંથી લેક્ટિક એસિડ બનવાની ક્રિયા (ગ્લાયકોલિસિસ) માં કેટલા તબક્કા હોય છે?\nA. 5\nB. 8\nC. 10\nD. 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 10 ચયાપચયિક તબક્કા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકોલિસિસ = 10 સ્ટેપ્સની સીડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જીવંત અવસ્થા (Living state) એ કેવી અવસ્થા છે?\nA. સંતુલિત સ્થાયી અવસ્થા\nB. અસંતુલિત અસ્થાયી અવસ્થા\nC. અસંતુલિત સ્થાયી અવસ્થા\nD. સંતુલિત અસ્થાયી અવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અસંતુલિત સ્થાયી અવસ્થા. જીવંત તંત્ર ક્યારેય સંતુલન પ્રાપ્ત કરતું નથી, કારણ કે સંતુલન એટલે મૃત્યુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવન એટલે 'બિન-સંતુલિત' દોડધામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "કોષમાં ન્યુક્લિક એસિડનું પ્રમાણ કેટલા ટકા હોય છે?\nA. 3%\nB. 5-7%\nC. 10-15%\nD. 1%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 5-7%. (NCERT ટેબલ મુજબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ન્યુક્લિક' માં અક્ષરો ગણો - 5 થી 7 ની આસપાસ સેટ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "નીચેનામાંથી કયું દ્વિતીયક ચયાપચયક ઝેર (Toxin) છે?\nA. એબ્રિન અને રિસીન\nB. મોર્ફિન\nC. રબર\nD. વિનબ્લાસ્ટિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. એબ્રિન અને રિસીન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એ' 'રી' ઝેર પી ગયા (Abrin-Ricin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "લેસીથિનમાં કયો ફોસ્ફોરિલેટેડ પદાર્થ જોવા મળે છે?\nA. કોલાઇન\nB. સેરીન\nC. ઇથેનોલેમાઇન\nD. ગ્લાયસીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. કોલાઇન (Choline). તે નાઇટ્રોજનયુક્ત બેઝ જેવો ભાગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lecithin + Choline.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "પ્રોટીનના પ્રાથમિક બંધારણમાં પ્રથમ એમિનો એસિડને શું કહેવાય?\nA. C-ટર્મિનલ એમિનો એસિડ\nB. N-ટર્મિનલ એમિનો એસિડ\nC. આલ્ફા એમિનો એસિડ\nD. ઝ્વિટર આયન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. N-ટર્મિનલ એમિનો એસિડ. કારણ કે ડાબા છેડે મુક્ત એમિનો સમૂહ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N-પહેલો, C-છેલ્લો (Alphabetical order).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "એમિનો એસિડના 'R' ગ્રુપમાં જો હાઇડ્રોક્સિ મિથાઇલ હોય, તો તે કયો એમિનો એસિડ છે?\nA. એલેનાઇન\nB. સેરીન\nC. ગ્લાયસીન\nD. વેલાઇન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સેરીન (Serine). (R = -CH₂OH).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S-OH (Serine has OH group).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "DNA નું બેકબોન (Backbone) શાનું બનેલું હોય છે?\nA. નાઇટ્રોજન બેઝ\nB. શર્કરા-ફોસ્ફેટ સાંકળ\nC. એમિનો એસિડ\nD. હાઇડ્રોજન બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શર્કરા-ફોસ્ફેટ સાંકળ. નાઇટ્રોજન બેઝ અંદરની તરફ પ્રક્ષેપિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA નો સ્તંભ = Sugar + Phosphate.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "ટ્રિપ્સીન શું છે?\nA. ઉત્સેચક\nB. હોર્મોન\nC. રંજકદ્રવ્ય\nD. માળખાગત પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ઉત્સેચક. તે પાચનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિન' (Sin) વાળા મોટાભાગે ઉત્સેચકો હોય - પેપ્સીન, ટ્રિપ્સીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "ગ્લિસરોલ સાથે ફેટી એસિડ એસ્ટર બંધથી જોડાય ત્યારે શું બને છે?\nA. પોલીસેકેરાઇડ\nB. મોનોગ્લિસરાઇડ/ટ્રાયગ્લિસરાઇડ\nC. ન્યુક્લિયોટાઇડ\nD. પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જો એક ફેટી એસિડ જોડાય તો મોનોગ્લિસરાઇડ અને ત્રણ જોડાય તો ટ્રાયગ્લિસરાઇડ બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લિસરોલ + ફેટી એસિડ = ગ્લિસરાઇડ.</p></div>"
+    }
+  ]
+}

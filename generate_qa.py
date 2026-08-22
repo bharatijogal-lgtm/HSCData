@@ -18,12 +18,12 @@ std11_bio_chapters = {
     18: "ચેતાકીય નિયંત્રણ અને સહનિયમન", 19: "રાસાયણિક સહનિયમન અને સંકલન"
 }
 
-# પ્રશ્નોના પ્રકાર અને તેનો મિનિમમ ટાર્ગેટ
+# પ્રશ્નોના પ્રકાર અને તેનો મિનિમમ ટાર્ગેટ (1 માર્ક માટે 70, બાકીના માટે 20)
 question_types = [
-    {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 30},
-    {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)", "marks": 1, "min_count": 30},
-    {"id": "OneWord", "name": "એક વાક્યમાં ઉત્તર", "marks": 1, "min_count": 30},
-    {"id": "MatchPairs", "name": "જોડકાં જોડો", "marks": 1, "min_count": 30},
+    {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 70},
+    {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)", "marks": 1, "min_count": 70},
+    {"id": "OneWord", "name": "એક વાક્યમાં ઉત્તર", "marks": 1, "min_count": 70},
+    {"id": "MatchPairs", "name": "જોડકાં જોડો", "marks": 1, "min_count": 70},
     {"id": "2_Marks", "name": "ટૂંક જવાબી પ્રશ્નો", "marks": 2, "min_count": 20},
     {"id": "3_Marks", "name": "મુદ્દાસર પ્રશ્નો", "marks": 3, "min_count": 20},
     {"id": "4_Marks", "name": "વિસ્તૃત પ્રશ્નો", "marks": 4, "min_count": 20}
@@ -59,7 +59,7 @@ prompt = f"""
 પ્રશ્નનો પ્રકાર: {current_q_type['name']} ({current_q_type['marks']} માર્ક)
 
 અત્યંત કડક નિયમો (STRICT QUALITY CONTROL):
-1. પ્રશ્નોની સંખ્યા (TARGET): ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. યાદ રાખો કે જો {current_q_type['min_count']} થી વધુ પ્રશ્નો બની શકતા હોય તો ફરજિયાત બનાવવાના છે જ. આખા ચેપ્ટરનો ખૂણેખૂણો કવર થઈ જવો જોઈએ.
+1. પ્રશ્નોની સંખ્યા (TARGET): ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. યાદ રાખો કે {current_q_type['min_count']} થી વધુ પ્રશ્નો બની શકતા હોય તો ફરજિયાત બનાવવાના જ છે. આખા ચેપ્ટરની દરેક લાઈન કવર થઈ જવી જોઈએ.
 2. પ્રકાર મુજબ શરત: {type_specific_rules}
 3. નો-રીપીટેશન: અગાઉના કોઈ પ્રશ્ન રીપીટ ન થવા જોઈએ. 
 4. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ.
@@ -129,7 +129,7 @@ with open(file_path, mode, encoding='utf-8') as f:
         f.write(f',\n"{ch_num}": ' + output_data + '\n')
 
 # ---------------------------------------------------------
-# નવું ટ્રેકર અપડેટ લોજીક: (બધા ચેપ્ટર પૂરા થાય પછી જ નવો પ્રકાર)
+# ટ્રેકર અપડેટ લોજીક: (બધા ચેપ્ટર પૂરા થાય પછી જ નવો પ્રકાર)
 # ---------------------------------------------------------
 tracker['current_chapter'] += 1
 
@@ -147,4 +147,4 @@ if tracker['current_type_index'] >= len(question_types):
 with open('system/progress_tracker.json', 'w') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Perfect Horizontal Format Applied.", flush=True)
+print("Task Completed Successfully! Minimum 70 Questions target applied.", flush=True)

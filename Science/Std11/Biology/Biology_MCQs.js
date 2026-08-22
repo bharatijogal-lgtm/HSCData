@@ -1676,3 +1676,371 @@ var Std11_Biology_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કોષ: જીવનનો એકમ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સૌપ્રથમ જીવંત કોષ જોનાર અને તેનું વર્ણન કરનાર વૈજ્ઞાનિક કોણ હતા? (A) રોબર્ટ બ્રાઉન (B) એન્ટોન વાન લ્યુવેનહોક (C) મેથિયાસ સ્લીડન (D) થિયોડોર શ્વાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એન્ટોન વાન લ્યુવેનહોક. તેમણે સૌપ્રથમ જીવંત કોષો જોયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' for Live, 'L' for Leeuwenhoek. જીવંત (Live) કોષ એટલે લ્યુવેનહોક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોષકેન્દ્રની શોધ કયા વૈજ્ઞાનિકે કરી હતી? (A) રોબર્ટ હૂક (B) રોબર્ટ બ્રાઉન (C) રુડોલ્ફ વિરશો (D) સ્લીડન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રોબર્ટ બ્રાઉન. ઈ.સ. 1831 માં તેમણે કોષકેન્દ્રની શોધ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર (Nucleus) હંમેશા 'Brown' રંગનું ઘટ્ટ ટપકું યાદ રાખવું, તેથી રોબર્ટ બ્રાઉન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોષવાદ (Cell Theory) રજૂ કરનાર વનસ્પતિશાસ્ત્રી મેથિયાસ સ્લીડન કયા દેશના હતા? (A) બ્રિટિશ (B) અમેરિકન (C) જર્મન (D) ફ્રેન્ચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જર્મન. 1838 માં જર્મન વનસ્પતિશાસ્ત્રી સ્લીડને જણાવ્યું કે વનસ્પતિઓ કોષોની બનેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્લીડન-જર્મની-વનસ્પતિ (S-G-V) નો ક્રમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કયા વૈજ્ઞાનિકે સ્પષ્ટ કર્યું કે 'કોષો વિભાજન પામે છે અને નવા કોષોનું સર્જન પૂર્વે અસ્તિત્વ ધરાવતા કોષોમાંથી થાય છે'? (A) સ્લીડન (B) શ્વાન (C) રુડોલ્ફ વિરશો (D) એરિસ્ટોટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રુડોલ્ફ વિરશો. તેમણે 1855 માં 'Omnis cellula-e cellula' નો સિદ્ધાંત આપ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિરશો' એટલે 'વિભાજન'. પૂર્વેના કોષમાંથી નવો કોષ એટલે વિરશો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૌથી નાના કોષો તરીકે જાણીતા માયકોપ્લાઝ્માની લંબાઈ કેટલી હોય છે? (A) 3.0 µm (B) 0.3 µm (C) 1.0 µm (D) 0.03 µm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0.3 µm. માયકોપ્લાઝ્મા એ સૌથી નાના જીવંત કોષો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયકો-નાના-0.3 (M-N-0.3) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કયા કોષો આકારમાં બહુકોણીય, સ્તંભીય, ક્યુબોઈડલ, દોરી જેવા અથવા અનિયમિત હોઈ શકે છે? (A) માત્ર આદિકોષકેન્દ્રીય (B) માત્ર સુકોષકેન્દ્રીય (C) તમામ કોષો (D) માત્ર રક્તકણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તમામ કોષો. કોષોનો આકાર તેમના કાર્ય સાથે સંબંધિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર = કાર્ય. જેવું કામ, એવો આકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માનવ રક્તકણો (RBC) નો વ્યાસ અંદાજે કેટલો હોય છે? (A) 7.0 µm (B) 0.7 µm (C) 17 µm (D) 70 µm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7.0 µm. રક્તકણો દ્વિઅંતર્ગોળ અને 7 માઈક્રોમીટર વ્યાસના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્તકણ એટલે સાત (7). સાતત્ય જાળવે લોહીનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેનામાંથી કયો કોષ સૌથી લાંબો હોઈ શકે છે? (A) રક્તકણ (B) શ્વેતકણ (C) ચેતાકોષ (D) સ્નાયુકોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચેતાકોષ (Nerve Cell). તે સંદેશાના વહન માટે ખૂબ લાંબા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી વાયરિંગ એટલે ચેતાકોષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આદિકોષકેન્દ્રીય કોષમાં આનુવંશિક દ્રવ્ય કેવું હોય છે? (A) કોષકેન્દ્ર પટલથી ઘેરાયેલું (B) નગ્ન (પટલ વગરનું) (C) હિસ્ટોન પ્રોટીન યુક્ત (D) જટિલ રંગસૂત્રો સ્વરૂપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નગ્ન. આદિકોષકેન્દ્રીયમાં કોષકેન્દ્ર પટલનો અભાવ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિ = આઝાદ. જેનું DNA પટલથી આઝાદ (નગ્ન) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બેક્ટેરિયામાં મુખ્ય DNA ઉપરાંત જોવા મળતા નાના વલયાકાર DNA ને શું કહે છે? (A) ન્યુક્લિઓઈડ (B) પ્લાઝમિડ (C) મેસોઝોમ (D) ઈન્ક્લુઝન બોડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્લાઝમિડ. આ વધારાનું DNA એન્ટિબાયોટિક સામે પ્રતિકાર શક્તિ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' for Plasmid, 'P' for Pocket DNA (વધારાનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આદિકોષકેન્દ્રીય કોષમાં કોષરસપટલના વિસ્તરણથી બનતી વિશિષ્ટ રચના કઈ છે? (A) રિબોઝોમ (B) પાયલી (C) મેસોઝોમ (D) કેપ્સ્યુલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મેસોઝોમ. તે પુટિકાઓ, નલિકાઓ કે પટલિકાઓ સ્વરૂપે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેસોઝોમ = મિટોકોન્ડ્રિયા જેવું કામ (આદિકોષકેન્દ્રીયમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગ્રામ સ્ટેનિંગ પદ્ધતિમાં અભિરંજક ગ્રહણ કરતા બેક્ટેરિયા કયા નામે ઓળખાય છે? (A) ગ્રામ નેગેટિવ (B) ગ્રામ પોઝિટિવ (C) નિરંજન (D) શૂન્ય ગ્રામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગ્રામ પોઝિટિવ. જે રંગ પકડી રાખે તે પોઝિટિવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ પકડ્યો (+) = પોઝિટિવ, રંગ છોડ્યો (-) = નેગેટિવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બેક્ટેરિયાનું સૌથી બહારનું પડ કયું છે? (A) કોષદીવાલ (B) કોષરસપટલ (C) ગ્લાયકોકેલિક્સ (D) કેપ્સ્યુલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગ્લાયકોકેલિક્સ. તે સૌથી બહારનું રક્ષણાત્મક પડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: ગ્લાયકો -> દીવાલ -> પટલ (G-W-M).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો ગ્લાયકોકેલિક્સ શિથિલ આવરણ સ્વરૂપે હોય તો તેને શું કહે છે? (A) કેપ્સ્યુલ (B) સ્લેષ્મ સ્તર (Slime layer) (C) મેસોઝોમ (D) પાયલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્લેષ્મ સ્તર. જો તે સખત હોય તો તેને કેપ્સ્યુલ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરમ (Soft) = Slime, કઠણ (Capsule) = દવા જેવું કઠણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બેક્ટેરિયલ કશા (Flagella) ના કયા ત્રણ ભાગો છે? (A) તંતુ, અંકુશ, તલકાય (B) શીર્ષ, પૂંછડી, મધ્યભાગ (C) પાયલી, ફિમ્બ્રી, તંતુ (D) મેસોઝોમ, રિબોઝોમ, પટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તંતુ, અંકુશ અને તલકાય (Filament, Hook, Basal body). તંતુ સૌથી લાંબો ભાગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F-H-B (Filament-Hook-Basal body).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કઈ રચના બેક્ટેરિયાને ખડકો કે યજમાન પેશી સાથે ચોંટવામાં મદદ કરે છે? (A) કશા (B) ફિમ્બ્રી (C) પાયલી (D) મેસોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફિમ્બ્રી. તે નાની બ્રશ જેવી રચનાઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'F' for Fimbriae, 'F' for Fixing (ચોંટવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આદિકોષકેન્દ્રીય કોષમાં રિબોઝોમ્સ કયા પ્રકારના હોય છે? (A) 80S (B) 70S (C) 60S (D) 40S",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 70S. જેમાં બે પેટા એકમો 50S અને 30S હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિ (નાના) = 70S, સુકોષી (મોટા) = 80S.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક જ mRNA સાથે અનેક રિબોઝોમ્સ જોડાયેલા હોય તે રચનાને શું કહેવાય? (A) મેસોઝોમ (B) પોલીઝોમ (Polyribosome) (C) સેન્ટ્રોઝોમ (D) લાયસોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પોલીઝોમ. તે પ્રોટીન સંશ્લેષણ માટેની હારમાળા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Poly' એટલે ઘણા, 'Some' એટલે રિબોઝોમ. ઘણા રિબોઝોમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેનામાંથી કયું આદિકોષકેન્દ્રીય કોષમાં સમાવેશિત કાય (Inclusion body) નથી? (A) ફોસ્ફેટ કણિકાઓ (B) સાયનોફાયસિયન કણિકાઓ (C) ગ્લાયકોજન કણિકાઓ (D) લિપિડ બિંદુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) લિપિડ બિંદુઓ (NCERT મુજબ A, B, C નો સમાવેશ થાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PSG = Phosphate, Syanophycean, Glycogen.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કોષરસપટલનો 'ફ્લુઈડ મોઝેક મોડેલ' (Fluid Mosaic Model) કોણે રજૂ કર્યો? (A) કેમિલિયો ગોલ્ગી (B) સિંગર અને નિકોલ્સન (C) રોબર્ટ હૂક (D) બેન્ડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સિંગર અને નિકોલ્સન (1972). આ સર્વસ્વીકૃત મોડેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિંગર' (Singer) ગાતા ગાતા 'ફ્લુઈડ' જેવો લય (Mosaic) બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કોષરસપટલમાં લિપિડના સ્તરમાં પૂંછડી કઈ તરફ હોય છે? (A) બહારની તરફ (B) અંદરની તરફ (C) પટલની લંબરૂપે (D) ગમે ત્યાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અંદરની તરફ. કારણ કે પૂંછડી જલવિતરાગી (Hydrophobic) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂંછડીને પાણીની બીક લાગે (Hydrophobic), એટલે તે અંદર સંતાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "માનવ રક્તકણના પટલમાં પ્રોટીનનું પ્રમાણ કેટલા ટકા હોય છે? (A) 40% (B) 52% (C) 10% (D) 90%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 52%. રક્તકણમાં 52% પ્રોટીન અને 40% લિપિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન વધુ (52), લિપિડ ઓછું (40).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કોષરસપટલ દ્વારા ઉર્જા આધારિત વહનને શું કહે છે? (A) મંદ વહન (B) સક્રિય વહન (C) પ્રસરણ (D) આશૃતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સક્રિય વહન (Active Transport). જેમાં ATP નો વપરાશ થાય છે (દા.ત. Na+/K+ પંપ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા (ATP) વાપરે તે 'Active' (સક્રિય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લીલ (Algae) ની કોષદીવાલ શેની બનેલી હોય છે? (A) સેલ્યુલોઝ, ગેલેક્ટન્સ, મેનન્સ અને કેલ્શિયમ કાર્બોનેટ (B) માત્ર સેલ્યુલોઝ (C) પેપ્ટીડોગ્લાયકેન (D) કાઈટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લીલની દીવાલમાં સેલ્યુલોઝ સાથે ગેલેક્ટન્સ, મેનન્સ અને CaCO3 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Algae = CGMC (Cellulose, Galactans, Mannans, CaCO3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બે નજીકના કોષોને જોડતા મધ્ય પટલ (Middle Lamella) માં મુખ્યત્વે શું હોય છે? (A) મેગ્નેશિયમ ક્લોરાઈડ (B) કેલ્શિયમ પેક્ટેટ (C) સોડિયમ કાર્બોનેટ (D) પોટેશિયમ નાઈટ્રેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કેલ્શિયમ પેક્ટેટ. તે કોષોને પરસ્પર ચોંટાડી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમાં 'કેલ્શિયમ' નો 'સીમેન્ટ' (Calcium Pectate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નીચેનામાંથી કઈ અંગિકા અંત:પટલમય તંત્ર (Endomembrane system) નો ભાગ નથી? (A) અંત:કોષરસજાળ (B) ગોલ્ગી પ્રસાધન (C) કણાભસૂત્ર (D) લાયસોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કણાભસૂત્ર. કણાભસૂત્ર, હરિતકણ અને પેરોક્સિઝોમ આ તંત્રનો ભાગ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E-G-L-V (ER, Golgi, Lysosome, Vacuole) જ અંત:પટલમય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ખરબચડી અંત:કોષરસજાળ (RER) નું મુખ્ય કાર્ય શું છે? (A) લિપિડ સંશ્લેષણ (B) પ્રોટીન સંશ્લેષણ (C) સ્ટીરોઈડ નિર્માણ (D) શક્તિ ઉત્પાદન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રોટીન સંશ્લેષણ. તેની સપાટી પર રિબોઝોમ્સ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RER = R for Ribosome, R for Rough, P for Protein.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "લિપિડ અને સ્ટીરોઈડલ હોર્મોન્સના સંશ્લેષણ માટેનું મુખ્ય સ્થાન કયું છે? (A) RER (B) SER (C) ગોલ્ગી કાય (D) ન્યુક્લિયોલસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) SER (લીસી અંત:કોષરસજાળ). તે લિપિડ સંશ્લેષણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Smooth (લીસી) = સ્ટીરોઈડ + લિપિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ગોલ્ગી પ્રસાધનની શોધ કોણે કરી હતી? (A) કેમિલિયો ગોલ્ગી (B) જ્યોર્જ પેલેડ (C) રોબર્ટ બ્રાઉન (D) ડી ડુવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કેમિલિયો ગોલ્ગી (1898). તેમણે ઘુવડના ચેતાકોષમાં આ અંગિકા જોઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ એનું કામ અને શોધક છે - ગોલ્ગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગોલ્ગી પ્રસાધનનો કયો ભાગ નિર્માણકારી (Forming) છે? (A) ટ્રાન્સ (Trans) (B) અંતર્મુખ (Concave) (C) સિસ (Cis) (D) પરિપક્વ ફેસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સિસ (Cis) ફેસ. તે બહિર્મુખ હોય છે અને કોષકેન્દ્ર તરફ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cis = Start (શરૂઆત), Trans = Transfer (બહાર કાઢવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ગ્લાયકોપ્રોટીન અને ગ્લાયકોલિપિડના નિર્માણ માટેનું મહત્ત્વનું સ્થાન કયું છે? (A) કણાભસૂત્ર (B) લાયસોઝોમ (C) ગોલ્ગી પ્રસાધન (D) હરિતકણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગોલ્ગી પ્રસાધન. તે પ્રોટીન અને લિપિડના 'ગ્લાયકોસાઇડેશન' નું કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' for Golgi, 'G' for Glyco (ગ્લાયકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "લાયસોઝોમમાં કયા પ્રકારના ઉત્સેચકો જોવા મળે છે? (A) ઓક્સિડેઝ (B) હાઈડ્રોલેઝિસ (C) સિન્થેટેઝ (D) લાઈગેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હાઈડ્રોલેઝિસ (લાઈપેઝ, પ્રોટીએઝ, કાર્બોહાઈડ્રેઝ). તે એસિડિક pH પર સક્રિય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાયસોઝોમ = હાઈડ્રો (પાણીથી તોડનાર) ઉત્સેચકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વનસ્પતિ કોષમાં રસધાનીના પટલને શું કહેવાય? (A) પ્લાઝ્મા પટલ (B) ટોનોપ્લાસ્ટ (C) લ્યુકોપ્લાસ્ટ (D) એલેરોપ્લાસ્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ટોનોપ્લાસ્ટ. તે એકસ્તરીય પટલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T' for Tonoplast, 'T' for Tank (રસધાની એક ટાંકી જેવી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "અમીબામાં ઉત્સર્જન માટે કઈ રસધાની મહત્ત્વની છે? (A) અન્નધાની (B) આંકુચક રસધાની (C) વાયુ રસધાની (D) રસધાની નથી હોતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આંકચુક રસધાની (Contractile Vacuole). તે જલનિયમન અને ઉત્સર્જનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકુચક = અમીબાનું કિડની જેવું કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કઈ અંગિકાને કોષનું 'પાવર હાઉસ' (Power House) કહેવામાં આવે છે? (A) ગોલ્ગી કાય (B) કણાભસૂત્ર (C) રિબોઝોમ (D) લાયસોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કણાભસૂત્ર (Mitochondria). તે ATP સ્વરૂપે શક્તિ ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્ર = કોષનું પાવર સ્ટેશન (ATP ફેક્ટરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કણાભસૂત્રના અંદરના પટલના પ્રવર્ધોને શું કહે છે? (A) થાઈલેકોઈડ (B) ક્રિસ્ટી (C) મેટ્રિક્સ (D) સ્ટ્રોમા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ક્રિસ્ટી (Cristae). તે સપાટીના વિસ્તારમાં વધારો કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્રમાં 'K'risti (ક્રિસ્ટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કણાભસૂત્રમાં કેવા પ્રકારના રિબોઝોમ્સ હોય છે? (A) 80S (B) 70S (C) 60S (D) 40S",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 70S. કણાભસૂત્ર પાસે પોતાનું DNA અને 70S રિબોઝોમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્ર અને હરિતકણ = 'બેટા' આદિકોષકેન્દ્રી જેવા (70S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "સ્ટાર્ચનો સંગ્રહ કરતા રંગહીન કણોને શું કહે છે? (A) ઈલાયોપ્લાસ્ટ (B) એમિલોપ્લાસ્ટ (C) એલ્યુરોપ્લાસ્ટ (D) ક્લોરોપ્લાસ્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એમિલોપ્લાસ્ટ (Amyloplast). બટાટામાં તે જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Amyl = Amylose (સ્ટાર્ચનો ઘટક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "તેલ અને ચરબીનો સંગ્રહ કરતા પ્લાસ્ટિડ કયા છે? (A) એમિલોપ્લાસ્ટ (B) એલ્યુરોપ્લાસ્ટ (C) ઈલાયોપ્લાસ્ટ (D) ક્રોમોપ્લાસ્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઈલાયોપ્લાસ્ટ (Elaioplasts). તે લિપિડ/તેલ સંગ્રહ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'E' for Elaioplast, 'O' for Oil.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પ્રોટીનનો સંગ્રહ કયા કણોમાં થાય છે? (A) એમિલોપ્લાસ્ટ (B) એલ્યુરોપ્લાસ્ટ (C) ઈલાયોપ્લાસ્ટ (D) હરિતકણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એલ્યુરોપ્લાસ્ટ (Aleuroplasts).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Aleuro = Protein. (A-P).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "હરિતકણના સ્ટ્રોમામાં જોવા મળતી ચપટી પટલમય કોથળીઓને શું કહે છે? (A) ક્રિસ્ટી (B) થાઈલેકોઈડ (C) ગ્રેના (D) મેટ્રિક્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) થાઈલેકોઈડ. સિક્કાની થપ્પી જેવી રચના એટલે ગ્રેના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાઈલેકોઈડ = થાળી જેવી રચના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ક્લોરોફિલ (હરિતદ્રવ્ય) હરિતકણમાં ક્યાં આવેલું હોય છે? (A) સ્ટ્રોમામાં (B) થાઈલેકોઈડમાં (C) બાહ્ય પટલમાં (D) આંતરપટલ અવકાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) થાઈલેકોઈડ. રંજકદ્રવ્યો થાઈલેકોઈડના પટલમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ સંશ્લેષણ 'થાઈ'લેકોઈડમાં 'થાય'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "રિબોઝોમ્સની શોધ કોણે કરી હતી? (A) કેમિલિયો ગોલ્ગી (B) જ્યોર્જ પેલેડ (C) રોબર્ટ હૂક (D) રુડોલ્ફ વિરશો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જ્યોર્જ પેલેડ (George Palade) (1953).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિબોઝોમ નાના 'પેલેટ' (Pallet) જેવા દેખાય એટલે પેલેડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "સુકોષકેન્દ્રીય કોષમાં રિબોઝોમનો પ્રકાર કયો છે? (A) 70S (B) 80S (C) 100S (D) 50S",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 80S. જેના બે પેટા એકમો 60S અને 40S છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 80S = 60 + 40 (બાયોલોજીનું ગણિત!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "Svedberg Unit (S) શું દર્શાવે છે? (A) કદ અને ઘનતા (B) માત્ર વજન (C) માત્ર લંબાઈ (D) માત્ર સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કદ અને ઘનતાનું પરોક્ષ માપન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' = Sedimentary (નિક્ષેપન) ગુણાંક, જે કદ અને ઘનતા સાથે જોડાયેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "કોષીય કંકાલ (Cytoskeleton) શેનું બનેલું હોય છે? (A) લિપિડ (B) પ્રોટીનયુક્ત તંતુઓ (C) કાર્બોદિત (D) કેલ્શિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રોટીનયુક્ત તંતુઓ. તે યાંત્રિક મજબૂતાઈ અને આકાર જાળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંકાલ (હાડપિંજર) હંમેશા મજબૂત પ્રોટીનનું બનેલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પક્ષ્મ (Cilia) અને કશા (Flagella) ના અક્ષસૂત્રમાં સૂક્ષ્મનલિકાઓની ગોઠવણી કેવી હોય છે? (A) 9+0 (B) 9+2 (C) 4+4 (D) 7+2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9+2. 9 જોડ પરિઘવર્તી અને 2 મધ્યમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુકોષીય હલનચલન = 9+2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "તારાકેન્દ્ર (Centriole) માં સૂક્ષ્મનલિકાઓની ગોઠવણી કેવી હોય છે? (A) 9+2 (B) 9+0 (C) 3+3 (D) 0+9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9+0. તેમાં પરિઘમાં 9 ત્રિપુટીઓ હોય છે પણ કેન્દ્રમાં સૂક્ષ્મનલિકા હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારાકેન્દ્ર = 9+0 (ગાડાના પૈડા જેવી રચના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "પક્ષ્મ અને કશા શેમાંથી ઉદભવે છે? (A) સેન્ટ્રોમીયર (B) તલકાય (Basal body) (C) ન્યુક્લિયોલસ (D) ગોલ્ગી કાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તલકાય. જે તારાકેન્દ્ર જેવી રચના ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તલ' (Base) માંથી પૂંછડી (Flagella) નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "કોષકેન્દ્રિકા (Nucleolus) નું કાર્ય શું છે? (A) DNA સંશ્લેષણ (B) rRNA સંશ્લેષણ (C) લિપિડ સંશ્લેષણ (D) પ્રોટીનનું પાચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) rRNA સંશ્લેષણ. તે રિબોઝોમ બનાવવાની ફેક્ટરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષકેન્દ્રિકા = રિબોઝોમ જનની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "રંગસૂત્ર દ્રવ્ય (Chromatin) માં DNA ઉપરાંત કયા પ્રોટીન હોય છે? (A) માત્ર હિસ્ટોન (B) હિસ્ટોન અને બિન-હિસ્ટોન (C) માત્ર આલ્બ્યુમિન (D) ઇન્સ્યુલિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હિસ્ટોન અને બિન-હિસ્ટોન પ્રોટીન (સાથે RNA પણ હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગસૂત્ર = DNA + પ્રોટીન (H + NH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "જે રંગસૂત્રમાં સેન્ટ્રોમીયર મધ્યમાં હોય અને બે સમાન ભુજાઓ બને તેને શું કહેવાય? (A) મેટાસેન્ટ્રિક (B) સબ-મેટાસેન્ટ્રિક (C) એક્રોસેન્ટ્રિક (D) ટીલોસેન્ટ્રિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મેટાસેન્ટ્રિક. તે 'V' આકારનું દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meta = Middle (મધ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ટીલોસેન્ટ્રિક રંગસૂત્રમાં સેન્ટ્રોમીયરનું સ્થાન ક્યાં હોય છે? (A) મધ્યમાં (B) મધ્યથી થોડું દૂર (C) અંતિમ છેડે (D) ક્યાંય પણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અંતિમ છેડે (Terminal). તેનાથી માત્ર એક જ ભુજા જેવું લાગે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T' for Telocentric, 'T' for Terminal (અંત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "કેટલાક રંગસૂત્રોમાં ચોક્કસ સ્થાને અ-અભિરંજિત દ્વિતીય સંકોચન જોવા મળે છે, જેને શું કહે છે? (A) સેન્ટ્રોમીયર (B) સેટેલાઈટ (C) કાઈનેટોકોર (D) ટેલોમીયર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સેટેલાઈટ. તે નાના ટુકડા જેવું દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગસૂત્રની ઉપર વધારાની 'સેટેલાઈટ' જેવી રચના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "નીચેનામાંથી કઈ અંગિકા વનસ્પતિ અને પ્રાણી બંને કોષોમાં જોવા મળે છે? (A) હરિતકણ (B) કોષદીવાલ (C) કણાભસૂત્ર (D) સેન્ટ્રીઓલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કણાભસૂત્ર. હરિતકણ અને દીવાલ માત્ર વનસ્પતિમાં, સેન્ટ્રીઓલ માત્ર પ્રાણીમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ તો બધા લે, એટલે કણાભસૂત્ર બધામાં હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "કોષકેન્દ્ર પટલની બે સ્તરો વચ્ચેના અવકાશને શું કહે છે? (A) સાયટોપ્લાઝમ (B) પરિકોષકેન્દ્રીય અવકાશ (Perinuclear space) (C) મેટ્રિક્સ (D) લ્યુમેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પરિકોષકેન્દ્રીય અવકાશ. તે 10 થી 50 nm જેટલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Peri = આજુબાજુ, Nuclear = કોષકેન્દ્ર. કોષકેન્દ્રની આજુબાજુની જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પુખ્ત અવસ્થાએ કયા કોષોમાં કોષકેન્દ્રનો અભાવ હોય છે? (A) લસિકાકણ (B) સ્તનધારીના રક્તકણ (C) ચેતાકોષ (D) સ્નાયુકોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્તનધારીના રક્તકણ (RBC). વધુ હિમોગ્લોબિન સમાવવા કોષકેન્દ્ર ગુમાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC = No Nucleus (પુખ્ત થાય ત્યારે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "સેન્ટ્રોમીયરની સપાટી પર આવેલી બિંબ (Disc) જેવી રચનાને શું કહેવાય? (A) ક્રોમેટિડ (B) કાઈનેટોકોર (C) સેટેલાઈટ (D) સેન્ટ્રોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાઈનેટોકોર. તેના પર કોષ વિભાજન વખતે ત્રાકતંતુઓ જોડાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'K'inetochore = 'K'onnector (જોડાણ સ્થાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "નીચેનામાંથી કયા કોષોમાં આંકુચક રસધાની જોવા મળતી નથી? (A) અમીબા (B) પેરામીશિયમ (C) વનસ્પતિ કોષો (D) પ્રોટીસ્ટા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વનસ્પતિ કોષો. તેમાં મોટી કેન્દ્રીય રસધાની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકુચક = માત્ર જલચર એકકોષી પ્રાણીઓ માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "એક્રોસેન્ટ્રિક રંગસૂત્ર કેવા આકારનું દેખાય છે? (A) V (B) L (C) J (D) I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) J આકારનું (અથવા લાકડી જેવું). તેમાં એક ભુજા ખૂબ ટૂંકી અને બીજી ખૂબ લાંબી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meta=V, Sub-meta=L, Acro=J, Telo=I.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "માઈક્રોબોડીઝ (Microbodies) ક્યાં જોવા મળે છે? (A) માત્ર વનસ્પતિ (B) માત્ર પ્રાણી (C) વનસ્પતિ અને પ્રાણી બંને (D) માત્ર બેક્ટેરિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વનસ્પતિ અને પ્રાણી બંને. તેમાં વિવિધ ઉત્સેચકો ધરાવતી નાની પુટિકાઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈક્રોબોડીઝ = નાના પેકેટ, બંને કોષોમાં પ્રેઝન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ચુલમિડોમોનાસ (લીલ) માં હરિતકણની સંખ્યા કેટલી હોય છે? (A) 20-40 (B) 1 (C) 100 (D) 5-10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1. એક કોષમાં એક જ હરિતકણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુલમિડોમોનાસ = એકલું હરિતકણ (1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ક્લોરોપ્લાસ્ટમાં કાર્બોદિત અને પ્રોટીન સંશ્લેષણ માટેના ઉત્સેચકો ક્યાં હોય છે? (A) ગ્રેના (B) સ્ટ્રોમા (C) થાઈલેકોઈડ પટલ (D) બાહ્ય પટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્ટ્રોમા (આધારક). અહીં અંધકાર પ્રક્રિયા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' for Stroma, 'S' for Synthesis of Sugar.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "રિબોઝોમ્સ શેના બનેલા હોય છે? (A) DNA + પ્રોટીન (B) RNA + પ્રોટીન (C) RNA + લિપિડ (D) DNA + RNA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) RNA અને પ્રોટીન. તેમાં કોઈ પટલ હોતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિબોઝોમ = 'R'ibo 'P'rotein (RP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "કોષદીવાલનું કાર્ય શું છે? (A) આકાર આપવો (B) યાંત્રિક નુકસાનથી રક્ષણ (C) કોષો વચ્ચેનો સંપર્ક (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ. તે રક્ષણાત્મક અને માળખાકીય અંગિકા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલ = સુરક્ષા + મજબૂતી + આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "નીચેનામાંથી કઈ અંગિકામાં DNA હોતું નથી? (A) કણાભસૂત્ર (B) હરિતકણ (C) લાયસોઝોમ (D) કોષકેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાયસોઝોમ. લાયસોઝોમ પટલમય કોથળી છે જેમાં માત્ર પાચક ઉત્સેચકો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA માત્ર 'કેન્દ્ર', 'કણાભ' અને 'હરિત' માં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "નીચેનામાંથી કયું વિધાન કોષરસપટલ માટે સાચું છે? (A) તે સંપૂર્ણ પ્રવેશશીલ છે (B) તે પસંદગીમાન પ્રવેશશીલ છે (C) તે અપ્રવેશશીલ છે (D) તે માત્ર પાણી માટે પ્રવેશશીલ છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તે પસંદગીમાન પ્રવેશશીલ (Selectively Permeable) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટલ એ 'ગાર્ડ' જેવું છે, જે પૂછીને અંદર જવા દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "જીવરસના અજૈવિક ઘટકોના સંગ્રહસ્થાનને શું કહેવાય? (A) રિબોઝોમ (B) રસધાની (C) કોષકેન્દ્ર (D) અંત:કોષરસજાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રસધાની. વનસ્પતિ કોષમાં તે 90% કદ રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારાનું બધું 'રસધાની' નામના સ્ટોર રૂમમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "કણાભસૂત્ર કઈ રીતે વિભાજન પામે છે? (A) મુકુલન (B) દ્વિભાજન (Fission) (C) લિંગી પ્રજનન (D) બીજાણુ સર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દ્વિભાજન (Fission). કણાભસૂત્ર પોતે જ વિભાજિત થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્ર = બેક્ટેરિયા જેવું (વિભાજન પણ એના જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "કોષકેન્દ્ર પટલ પર છિદ્રો (Pores) શા માટે હોય છે? (A) પ્રોટીન અને RNA ની અવરજવર માટે (B) કોષને હવા મળે તે માટે (C) ઉર્જા બનાવવા માટે (D) માત્ર પાણીના વહન માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) RNA અને પ્રોટીન અણુઓની બંને દિશામાં અવરજવર માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છિદ્રો = કોષકેન્દ્ર અને કોષરસ વચ્ચેનો 'ગેટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "રંગસૂત્રના પૃથ્થકરણ માટે કઈ અવસ્થા સૌથી ઉત્તમ છે? (A) પૂર્વાવસ્થા (B) ભાજનાવસ્થા (Metaphase) (C) અંત્યાવસ્થા (D) આંતરાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભાજનાવસ્થા. આ સમયે રંગસૂત્ર સ્પષ્ટ અને ઘટ્ટ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Metaphase = Morphology (બાહ્ય રચના) જોવા માટે બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "કઈ રચના વનસ્પતિ કોષોમાં કોષરસના જોડાણ (Communication) માં મદદ કરે છે? (A) મધ્યપટલ (B) પ્લાઝ્મોડેસ્માટા (C) કેપ્સ્યુલ (D) મેસોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્લાઝ્મોડેસ્માટા (કોષરસ તંતુ). તે બે કોષોના કોષરસને જોડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાઝ્મોડેસ્માટા = પડોશી કોષો વચ્ચેની 'બારી'.</p></div>"
+    }
+  ]
+}

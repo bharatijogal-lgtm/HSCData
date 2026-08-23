@@ -1147,3 +1147,386 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "પ્રાણી સૃષ્ટિ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સછિદ્ર સમુદાયના પ્રાણીઓ આયોજનનું _____ સ્તર ધરાવે છે. (કોષીય, પેશીય, અંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'સછિદ્ર' એટલે સૌથી સાદું, માટે સૌથી પ્રાથમિક એટલે કે 'કોષીય' સ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોષ્ઠાંત્રિ અને કંકતધરા સમુદાયમાં પ્રાણીઓ _____ આયોજન ધરાવે છે. (કોષીય, પેશીય, અંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેશીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કોષો ભેગા મળીને પેશી બનાવે, કોષ્ઠાંત્રિ અને કંકતધરા (C & C) પેશી ધરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પૃથુકૃમિ સમુદાયના પ્રાણીઓ _____ આયોજન ધરાવે છે. (અંગ, અંગતંત્ર, પેશીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'પૃથુકૃમિ' એટલે ચપટા કૃમિ, જેમાં અંગોની શરૂઆત થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જ્યારે શરીરના મધ્ય અક્ષમાંથી પસાર થતી રેખા શરીરને બે સરખા ભાગોમાં વિભાજીત ન કરે, તેને _____ કહેવાય. (અસમમિત, અરિય સમમિતિ, દ્વિપાર્શ્વ સમમિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસમમિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'અ' એટલે 'નહીં', જે સમમિત નથી તે અસમમિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "તારામાછલીમાં _____ પ્રકારની સમમિતિ જોવા મળે છે. (અસમમિતિ, અરિય સમમિતિ, દ્વિપાર્શ્વ સમમિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરિય સમમિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: તારા (Star) ના દરેક ખૂણેથી કાપો તો સમાન ભાગ મળે, એટલે 'અરિય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંધિપાદ અને નૂપુરક સમુદાયમાં _____ સમમિતિ જોવા મળે છે. (અસમમિતિ, અરિય સમમિતિ, દ્વિપાર્શ્વ સમમિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિપાર્શ્વ સમમિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: માણસ અને મોટા પ્રાણીઓ 'બે' (દ્વિ) ભાગમાં વહેંચાય, તેમ આ જટિલ સમુદાય પણ દ્વિપાર્શ્વ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જે પ્રાણીઓમાં ગર્ભસ્તરો બાહ્ય ગર્ભસ્તર અને અંતઃ ગર્ભસ્તરમાં ગોઠવાયેલા હોય, તેમને _____ કહેવાય. (દ્વિગર્ભસ્તરી, ત્રિગર્ભસ્તરી, અગર્ભસ્તરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિગર્ભસ્તરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: બાહ્ય + અંતઃ = 2 સ્તર, એટલે 'દ્વિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દ્વિગર્ભસ્તરી પ્રાણીઓમાં બાહ્ય અને અંતઃ ગર્ભસ્તરની વચ્ચે અવિભેદિત સ્તર _____ આવેલું હોય છે. (મધ્યસ્તર, મધ્યશ્લેષ સ્તર, અંતઃસ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યશ્લેષ સ્તર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કોષ્ઠાંત્રિમાં 'જેલી' જેવું (Mesoglea) એટલે મધ્યશ્લેષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પૃથુકૃમિથી મેરુદંડી સુધીના પ્રાણીઓ _____ હોય છે. (દ્વિગર્ભસ્તરી, ત્રિગર્ભસ્તરી, અગર્ભસ્તરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિગર્ભસ્તરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પૃથુકૃમિ (3) થી બધા જ એડવાન્સ પ્રાણીઓ 3 સ્તર વાળા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દેહકોષ્ઠની ગેરહાજરી ધરાવતા પ્રાણીઓને _____ કહે છે. (અદેહકોષ્ઠી, કૂટદેહકોષ્ઠી, દેહકોષ્ઠી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદેહકોષ્ઠી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'અ' એટલે ગેરહાજર. ઉદાહરણ: પૃથુકૃમિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આભાસી દેહકોષ્ઠ ધરાવતા સમુદાયનું નામ _____ છે. (પૃથુકૃમિ, સૂત્રકૃમિ, નૂપુરક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂત્રકૃમિ (Aschelminthes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: સૂત્રકૃમિ 'ખોટા' (Pseudo) છે, એટલે કૂટદેહકોષ્ઠી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શરીરના ક્રમિક ખંડનને _____ કહેવામાં આવે છે. (સમખંડતા, સમમિતિ, ગર્ભસ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમખંડતા (Metamerism)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: અળસિયાની જેમ ખંડો સમાન હોય તેને સમખંડતા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મેરુદંડ એ ગર્ભવિકાસ દરમિયાન _____ સ્તરમાંથી ઉદભવતી રચના છે. (બાહ્ય ગર્ભસ્તર, મધ્ય ગર્ભસ્તર, અંતઃ ગર્ભસ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્ય ગર્ભસ્તર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'M' for Mesoderm, 'M' for Mesodermal origin (મેરુદંડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સછિદ્ર સમુદાયના પ્રાણીઓને સામાન્ય રીતે _____ કહે છે. (જલીય જીવો, વાદળી, પરવાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળી (Sponges)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: છિદ્રાળુ શરીર એટલે સ્પંજ જેવી 'વાદળી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાદળીમાં પાણી નાના છિદ્રો _____ દ્વારા શરીરમાં પ્રવેશે છે. (આસ્યક, ઓસ્ટિયા, નિવાપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓસ્ટિયા (Ostia)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'O' for Open, 'O' for Ostia (એન્ટ્રી ગેટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વાદળીના શરીરમાં મધ્યમાં આવેલી ગુહાને _____ કહે છે. (આશય, જઠર-પરિવહન ગુહા, મધ્યગુહા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશય (Spongocoel)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: સ્પંજની કોયલ એટલે 'Spongocoel' (આશય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "_____ કોષો એ વાદળીના સમુદાયની વિશિષ્ટતા છે. (ડંખકોષો, કોલર કોષો, જ્યોત કોષો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોલર કોષો (Choanocytes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વાદળી (Sponges) 'કોલર' ઉંચા કરીને ફરે કારણકે તેની પાસે 'Choanocytes' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વાદળીમાં પાચન _____ હોય છે. (આંતરકોષીય, બાહ્યકોષીય, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરકોષીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કોષીય સ્તરનું આયોજન હોય તો પાચન પણ કોષની 'અંદર' (આંતર) જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "યુસ્પોન્જિયાને સામાન્ય રીતે _____ કહેવામાં આવે છે. (નવવધૂની પુષ્પછાબ, સ્નાન વાદળી, મીઠા જળની વાદળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્નાન વાદળી (Bath Sponge)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'Eu' એટલે 'યુ' (You), 'You' નાહવા માટે 'Bath' sponge વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કોષ્ઠાંત્રિ પ્રાણીઓનું નામ તેમના _____ કોષો પરથી પડ્યું છે. (જ્યોત, ડંખ, કોલર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડંખકોષો (Cnidoblasts)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: Cnidaria = Cnidoblast = ડંખ મારતા કોષો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કોષ્ઠાંત્રિઓમાં બે સ્વરૂપો જોવા મળે છે: પુષ્પક (Polyp) અને _____. (છત્રક, કલિકા, કોષક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છત્રક (Medusa)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: P for Polyp (પુષ્પક) અને M for Medusa (છત્રક - છત્રી જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઓબેલિયામાં જોવા મળતી એકાંતર જનનને _____ કહે છે. (મેટાસ્ટેસિસ, મેટાજીનેસીસ, મેટામિરીઝમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેટાજીનેસીસ (Metagenesis)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: જીનેસીસ એટલે ઉત્પત્તિ, પેઢીઓ બદલાય એટલે Metagenesis.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ફાઈસેલિયાને સામાન્ય રીતે _____ કહેવામાં આવે છે. (પોર્ટુગીઝ મેન ઓફ વોર, સમુદ્ર ફૂલ, મગજ પરવાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોર્ટુગીઝ મેન ઓફ વોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: ફાઈસેલિયા 'ફાઈટ' (Fight) કરવા તૈયાર પોર્ટુગીઝ સૈનિક જેવું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કંકતધરા સમુદાયના પ્રાણીઓ _____ પક્ષ્મધારી કંકત તકતીઓ ધરાવે છે. (છ, સાત, આઠ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આઠ (8)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'કંકત' (Comb) માં 8 દાંતા છે તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સજીવ દ્વારા પ્રકાશ ઉત્સર્જિત કરવાની ક્ષમતાને _____ કહે છે. (પ્રકાશ સંશ્લેષણ, જૈવિક દીપ્તિ, ફોસ્ફોરાયલેશન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૈવિક દીપ્તિ (Bioluminescence)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'Bio' એટલે સજીવ અને 'Luminescence' એટલે ચમકવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પૃથુકૃમિ સમુદાયના પ્રાણીઓમાં ઉત્સર્જન માટે _____ કોષો આવેલા હોય છે. (કોલર, ડંખ, જ્યોત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યોત કોષો (Flame cells)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પૃથુ (Flat) કૃમિ 'જ્યોત' (Flame) જેવું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પ્લેનેરિયામાં ઊંચી _____ શક્તિ જોવા મળે છે. (પાચન, પુનઃસર્જન, પ્રજનન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુનઃસર્જન (Regeneration)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પ્લેનેરિયાને ગમે તેટલો કાપો, તે ફરીથી ઊગી નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સૂત્રકૃમિ સમુદાયમાં નર અને માદા અલગ હોય છે, આ સ્થિતિને _____ કહે છે. (દ્વિલિંગી, એકલિંગી, ઉભયલિંગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકલિંગી (Dioecious)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: નર અને માદા અલગ એટલે 'એક' જ લિંગ ધરાવતા (એકલિંગી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વુચેરિરિયા એ _____ ફેલાવતો કૃમિ છે. (કરમિયું, હાથીપગો, પટ્ટીકીડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાથીપગો (Filaria)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વુચેરિરિયા (Wuchereria) = ફાઈલેરિયલ કૃમિ = હાથીપગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નૂપુરક સમુદાયનું નામ લેટિન શબ્દ 'Annulus' પરથી પડ્યું છે, જેનો અર્થ _____ થાય છે. (છિદ્ર, નાની વીંટી, સાંધો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાની વીંટી (Little Ring)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: Annulus = Ring (વીંટી), એટલે રિંગ જેવા ખંડો ધરાવતા પ્રાણીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રેતીકીડામાં તરવા માટે _____ અંગ આવેલા હોય છે. (પક્ષ્મ, અભિચરણપાદ, પાંખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભિચરણપાદ (Parapodia)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: રેતીકીડા (Nereis) નદીમાં તરવા માટે 'પગ' (Podia) વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નૂપુરકોમાં ઉત્સર્જન અને આશૃતિ નિયમન _____ દ્વારા થાય છે. (જ્યોતકોષો, ઉત્સર્ગિકાઓ, માલ્પિધિયન નલિકાઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્સર્ગિકાઓ (Nephridia)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: નૂપુરક (Annelida) પાસે Nephridia હોય (N-N).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પ્રાણી સૃષ્ટિનો સૌથી મોટો સમુદાય કયો છે? (નૂપુરક, સંધિપાદ, મૃદુકાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંધિપાદ (Arthropoda)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: દુનિયામાં 2/3 ભાગના તો કીટકો (સંધિપાદ) જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સંધિપાદ પ્રાણીઓનું શરીર _____ ના બનેલા બાહ્ય કંકાલથી ઢંકાયેલું હોય છે. (કેલ્શિયમ, સિલિકા, કાઈટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાઈટીન (Chitin)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વંદો કડક હોય કારણકે તે 'કાઈટીન'નું બખ્તર પહેરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સંધિપાદોમાં ઉત્સર્જન _____ દ્વારા થાય છે. (માલ્પિધિયન નલિકાઓ, ઉત્સર્ગિકાઓ, જઠર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માલ્પિધિયન નલિકાઓ (Malpighian tubules)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: સંધિપાદ (વંદો) 'માલ' (Malpighian) કાઢવા નલિકા વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "લિમ્યુલસને સામાન્ય રીતે _____ કહેવામાં આવે છે. (તિતીઘોડો, રાજ કરચલો, વંદો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ કરચલો (King Crab)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: લિમ્યુલસ (Limulus) એ 'જીવંત અશ્મિ' અને 'કિંગ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મૃદુકાય પ્રાણીઓમાં મુખમાં ખોરાકના ચાવવા માટે કરવત જેવું અંગ _____ આવેલું હોય છે. (રેત્રિકા, ચૂષક, જઠર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેત્રિકા (Radula)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'R' for Radula, 'R' for Rasping organ (રેત્રિકા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મૃદુકાય પ્રાણીઓમાં પ્રાવર અને શરીર વચ્ચેના અવકાશને _____ કહે છે. (દેહકોષ્ઠ, પ્રાવર ગુહા, આશય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાવર ગુહા (Mantle cavity)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પ્રાવર (Mantle) ની નીચેની જગ્યા એટલે પ્રાવર ગુહા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પિંકટાડા (Pinctada) ને સામાન્ય રીતે _____ કહે છે. (મોતી છીપ, સેપિયા, ઓક્ટોપસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોતી છીપ (Pearl Oyster)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પિંકટાડામાંથી 'મોતી' મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "શૂળત્વચી સમુદાયના પ્રાણીઓની સૌથી વિશિષ્ટ લાક્ષણિકતા _____ તંત્રની હાજરી છે. (રુધિરાભિસરણ, જલવાહક, પાચન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલવાહક (Water vascular system)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: શૂળત્વચી (તારામાછલી) પાણીના જોરે ચાલે (જલવાહક તંત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "શૂળત્વચી પ્રાણીઓમાં ઉત્સર્જન તંત્રનો _____ હોય છે. (વિકાસ, અભાવ, વધુ વિકાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: જલવાહક તંત્ર જ બધું કામ કરી લે, એટલે સ્પેશિયલ ઉત્સર્જન તંત્રની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "સામિમેરુદંડી પ્રાણીઓમાં ઉત્સર્જન અંગ તરીકે _____ ગ્રંથિ આવેલી હોય છે. (શૂંઢ, લાળ, મધ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂંઢ ગ્રંથિ (Proboscis gland)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: સામિમેરુદંડી (Balanoglossus) ની શૂંઢ (Proboscis) જ કચરો બહાર કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "મેરુદંડી પ્રાણીઓમાં રુધિરાભિસરણ તંત્ર _____ પ્રકારનું હોય છે. (ખુલ્લા, બંધ, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: મેરુદંડી (આપણે) હાઈ-લેવલ છીએ, આપણું લોહી પાઈપ (નળી) માં જ વહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પૃષ્ઠવંશીઓમાં મેરુદંડનું રૂપાંતર પુખ્તાવસ્થાએ _____ માં થાય છે. (મગજ, કરોડસ્તંભ, પાંસળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કરોડસ્તંભ (Vertebral column)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'પૃષ્ઠવંશી' એટલે જ જેની પાસે 'કરોડરજ્જુ/સ્તંભ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ચુષમુખા પ્રાણીઓ માછલીઓ પર _____ તરીકે જીવે છે. (અંતઃપરજીવી, બાહ્યપરજીવી, સહજીવી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્યપરજીવી (Ectoparasites)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: ચુષમુખા માછલીની 'બહાર' ચોંટીને લોહી ચૂસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ચુષમુખા સમુદાયનું ઉદાહરણ _____ છે. (લેમ્પ્રી, શાર્ક, રોહુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેમ્પ્રી (Petromyzon)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: લેમ્પ્રીનો 'લેમ્પ' (મોઢું) ગોળ અને ચૂસક જેવો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કાસ્થિમત્સ્યમાં ભીંગડા _____ પ્રકારના હોય છે. (પ્લેકોઇડ, સાયક્લોઇડ, ટીનોઇડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લેકોઇડ (Placoid)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કાસ્થિમત્સ્ય (Shark) પાસે 'પ્લેટ' (Placoid) જેવા અણીદાર ભીંગડા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કાસ્થિમત્સ્યમાં વાતાશયોની ગેરહાજરીને લીધે તેઓ _____ સતત તરવું પડે છે. (ડૂબતા બચવા, શ્વાસ લેવા, ખોરાક મેળવવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડૂબતા બચવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વાતાશય (Air bladder) ન હોય તો માછલી હેલિકોપ્ટરની જેમ નીચે બેસી જાય, એટલે તરવું જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઝેરી દંશ ધરાવતી માછલી _____ છે. (ટ્રાયગોન, ટોર્પિડો, શાર્ક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રાયગોન (Sting ray)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: ટ્રાયગોનનો 'ટ્રાય' (Try) કરશો તો 'ઝેર' (Sting) આપશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "અસ્થિમત્સ્યમાં મુખ સામાન્ય રીતે _____ સ્થાને હોય છે. (અગ્ર, વક્ષ, પૃષ્ઠ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગ્ર (Terminal)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: અસ્થિમત્સ્ય (રોહુ) મોઢું બિલકુલ આગળ (Terminal) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઉભયજીવીઓમાં શ્વસન ત્વચા, ઝાલરો અને _____ દ્વારા થાય છે. (હૃદય, ફેફસાં, મૂત્રપિંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: દેડકો જમીન પર આવે ત્યારે ફેફસાં વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "ઉભયજીવીઓનું હૃદય _____ ખંડોનું બનેલું હોય છે. (બે, ત્રણ, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણ (3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: માછલી(2) -> ઉભયજીવી(3) -> સરીસૃપ(3) -> વિહગ/સસ્તન(4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સરીસૃપ વર્ગના પ્રાણીઓમાં હૃદય સામાન્ય રીતે ત્રિખંડી હોય છે, પરંતુ _____ માં તે ચતુષ્ખંડી હોય છે. (કાચબો, મગર, સાપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મગર (Crocodile)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: મગર અપવાદ છે, તે મોટું પ્રાણી છે એટલે 4 ખંડનું હૃદય ધરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિહગ વર્ગના પ્રાણીઓના લાંબા અસ્થિઓ વાતાશયયુક્ત અને _____ હોય છે. (ભારે, પોલા, મજબૂત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોલા (Pneumatic)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પક્ષીઓને ઉડવું હોય તો હાડકાં 'હલકા' (પોલા) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "પક્ષીઓમાં ખોરાકના દળવા માટે _____ જેવી વધારાની રચના હોય છે. (પેષણી, અન્નસંગ્રહાશય, જઠર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેષણી (Gizzard)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પક્ષીઓને દાંત નથી હોતા, એટલે 'પેષણી' (Gizzard) માં ખોરાક દળાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "સસ્તન પ્રાણીઓની સૌથી મુખ્ય લાક્ષણિકતા _____ ની હાજરી છે. (પુચ્છ, સ્તનગ્રંથિ, પાંખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્તનગ્રંથિ (Mammary glands)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'સસ્તન' નામ જ 'સ્તન' ગ્રંથિ પરથી પડ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ઇંડા આપતું સસ્તન પ્રાણી કયું છે? (કાંગારૂ, બતકચાંચ, વ્હેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બતકચાંચ (Platypus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: Platypus એ અપવાદ છે, તે સસ્તન હોવા છતાં 'ઇંડા' આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ઉડતું સસ્તન પ્રાણી કયું છે? (શાહમૃગ, ચામાચીડિયું, પેન્ગ્વિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચામાચીડિયું (Bat)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: ચામાચીડિયું પક્ષી નથી, પણ ઉડતું સસ્તન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વાદળીમાં અપ્રજનન કયા પ્રકારે થાય છે? (કલિકાસર્જન, ખંડન, આપેલ તમામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખંડન (Fragmentation)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વાદળીના ટુકડા (ખંડ) થાય તો દરેકમાંથી નવો સજીવ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "હાઇડ્રા એ _____ સમુદાયનું પ્રાણી છે. (સછિદ્ર, કોષ્ઠાંત્રિ, કંકતધરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષ્ઠાંત્રિ (Coelenterata)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: હાઇડ્રા 'Hydra' એ કોષ્ઠાંત્રિનું પ્રખ્યાત ઉદાહરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "કયા પ્રાણીને 'સમુદ્ર અખરોટ' (Sea Walnut) કહે છે? (વાદળી, કંકતધરા, મૃદુકાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંકતધરા (Ctenophora)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કંકતધરાનો આકાર અખરોટ જેવો ગોળ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "પટ્ટીકીડો એ _____ સમુદાયનું પ્રાણી છે. (પૃથુકૃમિ, સૂત્રકૃમિ, નૂપુરક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથુકૃમિ (Platyhelminthes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પટ્ટી (Tape) જેવો ચપટો એટલે 'પૃથુ' (Flat).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "કરમિયું (Ascaris) એ _____ સમુદાયમાં આવે છે. (પૃથુકૃમિ, સૂત્રકૃમિ, સંધિપાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂત્રકૃમિ (Aschelminthes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કરમિયું નળાકાર દોરી (સૂત્ર) જેવું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "અળસિયું અને જળો કયા સમુદાયમાં આવે છે? (સંધિપાદ, મૃદુકાય, નૂપુરક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નૂપુરક (Annelida)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: જેમના શરીર પર વીંટી (Ring) જેવા ખંડો હોય તે નૂપુરક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "મધમાખી (Apis) એ _____ મહત્વનો કીટક છે. (આર્થિક, નુકસાનકારક, રોગવાહક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્થિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: મધમાખી મધ આપે, જે વેચીને પૈસા (આર્થિક લાભ) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "ઓક્ટોપસને સામાન્ય રીતે _____ કહે છે. (મોતી છીપ, ડેવિલ ફિશ, કટલ ફિશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડેવિલ ફિશ (Devil fish)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 8 હાથવાળો 'ડેવિલ' (રાક્ષસ) એટલે ઓક્ટોપસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "તારામાછલીમાં ઉત્સર્જન તંત્રનો _____ હોય છે. (વિકાસ, અભાવ, વધુ વિકાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: Echinodermata (શૂળત્વચી) માં ઉત્સર્જન તંત્ર હોતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "બેલાનોગ્લોસસ એ _____ સમુદાયનું પ્રાણી છે. (મેરુદંડી, સામિમેરુદંડી, શૂળત્વચી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામિમેરુદંડી (Hemichordata)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: બેલાનોગ્લોસસ 'અડધો' (Hemi) મેરુદંડ જેવી રચના ધરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "કાસ્થિમત્સ્યમાં રુધિર _____ હોય છે. (ગરમ, ઠંડુ, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડુ (Poikilothermous)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: માછલીઓ, ઉભયજીવી અને સરીસૃપ 'ઠંડા' (Cold blooded) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "પક્ષીઓ _____ પ્રાણીઓ છે. (શીત રુધિરવાળા, ઉષ્ણ રુધિરવાળા, અસમતાપી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્ણ રુધિરવાળા (Homeothermous)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વિહગ અને સસ્તન (V & S) જ ફક્ત 'ગરમ' લોહીવાળા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સૌથી મોટું કદ ધરાવતું પ્રાણી (સસ્તન) _____ છે. (હાથી, બ્લુ વ્હેલ, જીરાફ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્લુ વ્હેલ (Balaenoptera)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: દરિયાનું સૌથી મોટું સસ્તન બ્લુ વ્હેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "શાર્કમાં કયું અંગ ગેરહાજર હોય છે? (ઝાલર, હૃદય, વાતાશય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાશય (Air bladder)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: શાર્ક (કાસ્થિમત્સ્ય) માં હવા ભરેલી કોથળી નથી હોતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "કરચલો કયા સમુદાયનું પ્રાણી છે? (મૃદુકાય, સંધિપાદ, શૂળત્વચી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંધિપાદ (Arthropoda)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કરચલાને સાંધાવાળા પગ (Jointed legs) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "સજીવોનું વૈજ્ઞાનિક નામ કઈ પદ્ધતિથી અપાય છે? (એકનામ, દ્વિનામ, ત્રિનામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિનામ (Binomial)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વંશ અને જાતિ એમ 'બે' નામ એટલે દ્વિનામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "પેન્ગ્વિન એ કયા વર્ગનું પ્રાણી છે? (સસ્તન, ઉભયજીવી, વિહગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિહગ (Aves)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પેન્ગ્વિન ઉડી શકતું નથી પણ તે 'પક્ષી' જ છે.</p></div>"
+    }
+  ]
+}

@@ -4267,3 +4267,371 @@ var Std11_Biology_MCQs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "દેહજળ અને પરિવહન",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રુધિરના બંધારણમાં રુધિરરસ (Plasma) કેટલા ટકા હિસ્સો ધરાવે છે?\nA) 45%\nB) 55%\nC) 90%\nD) 10%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 55%. રુધિર એ એક પ્રવાહી સંયોજક પેશી છે જેમાં 55% રુધિરરસ અને 45% સંગઠિત ઘટકો (રુધિરકોષો) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિર = રુધિરરસ(55) + કોષો(45). પ પ્લાઝમા - પ પંચાવન (55)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રુધિરરસમાં રહેલા પ્રોટીન પૈકી કયું પ્રોટીન આશૃતિ સંતુલન (Osmotic Balance) માટે જવાબદાર છે?\nA) ફાઈબ્રિનોજન\nB) ગ્લોબ્યુલીન\nC) આલ્બ્યુમીન\nD) હિમોગ્લોબિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આલ્બ્યુમીન. ફાઈબ્રિનોજન રુધિર ગંઠાવવા માટે, ગ્લોબ્યુલીન રોગપ્રતિકારક શક્તિ માટે અને આલ્બ્યુમીન પાણીનું સંતુલન જાળવવા માટે વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-B-C યાદ રાખો: Albumin-Balance, Globulin-Guards (Defense), Fibrinogen-Fixing (Clotting).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પુખ્ત વ્યક્તિના રુધિરમાં રક્તકણો (RBC) ની સરેરાશ સંખ્યા કેટલી હોય છે?\nA) 5 થી 5.5 મિલિયન / mm³\nB) 6000 થી 8000 / mm³\nC) 1.5 થી 3.5 લાખ / mm³\nD) 10 થી 12 મિલિયન / mm³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5 થી 5.5 મિલિયન / mm³. રુધિરમાં સૌથી વધુ સંખ્યા રક્તકણોની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC મિલિયનમાં, Platelets લાખમાં અને WBC હજારોમાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રક્તકણોનું કબ્રસ્તાન (Graveyard of RBCs) કોને કહેવામાં આવે છે?\nA) યકૃત\nB) હૃદય\nC) બરોળ\nD) અસ્થિમજ્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બરોળ (Spleen). 120 દિવસના આયુષ્ય બાદ રક્તકણો બરોળમાં નાશ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC મરીને ક્યાં જાય? 'બ' થી બરોળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શ્વેતકણો (WBC) માં સૌથી વધુ પ્રમાણ કોનું હોય છે?\nA) લસિકાકણો\nB) એકકેન્દ્રી કણો\nC) તટસ્થ કણો\nD) અમ્લરાગી કણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તટસ્થ કણો (Neutrophils). તે કુલ શ્વેતકણોના 60-65% હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Never Let Monkeys Eat Bananas' (Neutrophils > Lymphocytes > Monocytes > Eosinophils > Basophils).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કયા શ્વેતકણો હિસ્ટામાઈન, સેરોટોનિન અને હિપેરીનનો સ્ત્રાવ કરે છે?\nA) તટસ્થ કણો\nB) અલ્કરાગી કણો\nC) અમ્લરાગી કણો\nD) લસિકાકણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અલ્કરાગી કણો (Basophils). આ કણો સોજાની પ્રતિક્રિયામાં ભાગ લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Basophils = B = Binds to Inflammation (હિસ્ટામાઈન/હિપેરીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રુધિર ગંઠાવવાની ક્રિયામાં કયા કોષો મહત્વનો ફાળો આપે છે?\nA) લ્યુકોસાઇટ્સ\nB) એરિથ્રોસાઇટ્સ\nC) થ્રોમ્બોસાઇટ્સ\nD) લિમ્ફોસાઇટ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) થ્રોમ્બોસાઇટ્સ (રુધિરકણિકાઓ). તેમની સંખ્યા ઘટે તો રુધિર ગંઠાવવામાં મુશ્કેલી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thrombocytes = Thrombo (ગઠ્ઠો) બનાવનારા કોષો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રુધિર જૂથ 'O' ધરાવતી વ્યક્તિમાં કયા એન્ટિબોડીઝ હાજર હોય છે?\nA) Anti-A\nB) Anti-B\nC) Anti-A અને Anti-B બંને\nD) એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Anti-A અને Anti-B બંને. O જૂથમાં કોઈ એન્ટિજન હોતા નથી પણ બંને એન્ટિબોડી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O એટલે 'Zero' એન્ટિજન, તો સામે 'Double' એન્ટિબોડી (a, b).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાર્વત્રિક દાતા (Universal Donor) કયું રુધિર જૂથ છે?\nA) AB\nB) A\nC) B\nD) O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) O. તેમાં કોઈ એન્ટિજન ન હોવાથી તે ગમે તેને રુધિર આપી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O = 'Open' (બધા માટે ખુલ્લું), AB = 'All-Buyer' (બધા પાસેથી લેનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એરિથ્રોબ્લાસ્ટોસિસ ફીટેલીસ કયા કિસ્સામાં જોવા મળે છે?\nA) Rh+ માતા અને Rh- ગર્ભ\nB) Rh- માતા અને Rh+ ગર્ભ\nC) Rh+ માતા અને Rh+ ગર્ભ\nD) Rh- માતા અને Rh- ગર્ભ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Rh- માતા અને Rh+ ગર્ભ. આ સ્થિતિમાં માતાના એન્ટિબોડી બાળકના રક્તકણોનો નાશ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા (-) નકારાત્મક, બાળક (+) સકારાત્મક = જોખમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રુધિર ગંઠાવવા માટે કયો આયન અનિવાર્ય છે?\nA) Na+\nB) K+\nC) Ca++\nD) Mg++",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Ca++ (કેલ્શિયમ). કેલ્શિયમ આયનો રુધિર જામી જવાની પ્રક્રિયામાં ચાવીરૂપ ભૂમિકા ભજવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ca++ = 'C'lotting factor!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લસિકા (Lymph) અને રુધિરમાં મુખ્ય તફાવત શું છે?\nA) લસિકામાં RBC હોતા નથી\nB) લસિકામાં શ્વેતકણો હોતા નથી\nC) લસિકામાં પ્રોટીન હોતા નથી\nD) લસિકામાં પાણી હોતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લસિકામાં RBC હોતા નથી. તે રંગહીન પ્રવાહી છે જેમાં રક્તકણોનો અભાવ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા = રુધિર - (રક્તકણો + મોટા પ્રોટીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખુલ્લું પરિવહન તંત્ર (Open Circulatory System) કયા પ્રાણીઓમાં જોવા મળે છે?\nA) સંધિપાદ અને મૃદુકાય\nB) નુપૂરક અને મેરુદંડી\nC) માછલી અને ઉભયજીવી\nD) પક્ષી અને સસ્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સંધિપાદ અને મૃદુકાય. આમાં રુધિર કોટરોમાં વહે છે, નળીઓમાં નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંદો (સંધિપાદ) માં ખુલ્લું તંત્ર હોય એટલે જ એને મારો તો રુધિર રેલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બે કર્ણકો અને એક ક્ષેપક ધરાવતું હૃદય કયા પ્રાણીમાં હોય છે?\nA) માછલી\nB) મગર\nC) દેડકો\nD) કબૂતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દેડકો (ઉભયજીવી). ઉભયજીવી અને સરીસૃપમાં (મગર સિવાય) 3 ખંડીય હૃદય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી-2, દેડકો-3, માણસ-4 (ખંડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "માનવ હૃદય કયા સ્તરોથી બનેલી કોથળીમાં સુરક્ષિત હોય છે?\nA) પ્લ્યુરા\nB) પેરીટોનિયમ\nC) પરિહૃદય આવરણ (Pericardium)\nD) મેનિન્જીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પરિહૃદય આવરણ (Pericardium). તે બે દીવાલવાળું સ્તર છે જેની વચ્ચે પરિહૃદય જળ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Peri = આસપાસ, Cardium = હૃદય. હૃદયની આસપાસનું આવરણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ત્રિદલ વાલ્વ (Tricuspid valve) ક્યાં આવેલો હોય છે?\nA) જમણા કર્ણક અને જમણા ક્ષેપક વચ્ચે\nB) ડાબા કર્ણક અને ડાબા ક્ષેપક વચ્ચે\nC) ડાબા ક્ષેપક અને ધમનીકાંડ વચ્ચે\nD) જમણા ક્ષેપક અને ફુપ્ફુસ ધમની વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જમણા કર્ણક અને જમણા ક્ષેપક વચ્ચે. ડાબી બાજુ દ્વિદલ (Mitral) વાલ્વ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'RAT' - Right Atrium Tricuspid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "હૃદયનો પેસમેકર (Pacemaker) કોને કહેવામાં આવે છે?\nA) AV Node\nB) SA Node\nC) Purkinje fibers\nD) Bundle of His",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) SA Node (શિરા-કર્ણક ગાંઠ). તે કુદરતી રીતે હૃદયના ધબકારા શરૂ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S.A. = Start Action!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક હૃદય ચક્ર (Cardiac Cycle) નો સમયગાળો કેટલો હોય છે?\nA) 0.1 સેકન્ડ\nB) 0.5 સેકન્ડ\nC) 0.8 સેકન્ડ\nD) 1.2 સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0.8 સેકન્ડ. જો હૃદય મિનિટમાં 75 વાર ધબકે, તો એક ચક્ર 60/75 = 0.8 સેકન્ડનું થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.1(કર્ણક સંકોચન) + 0.3(ક્ષેપક સંકોચન) + 0.4(સંયુક્ત શિથિલન) = 0.8 સેકન્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ક્ષેપક જ્યારે સંકોચાય ત્યારે દરેક ક્ષેપક કેટલું રુધિર બહાર ધકેલે છે (Stroke Volume)?\nA) 50 ml\nB) 70 ml\nC) 100 ml\nD) 5 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 70 ml. તેને 'સ્ટ્રોક વોલ્યુમ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક 'સ્ટ્રોક' માં 70 ml!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "હૃદયનો પ્રથમ અવાજ 'લબ' (Lubb) ક્યારે ઉત્પન્ન થાય છે?\nA) અર્ધચંદ્રાકાર વાલ્વના બંધ થવાથી\nB) ત્રિદલ અને દ્વિદલ વાલ્વના બંધ થવાથી\nC) કર્ણકોના સંકોચનથી\nD) ક્ષેપકોના શિથિલનથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ત્રિદલ અને દ્વિદલ (AV) વાલ્વના બંધ થવાથી. 'ડબ' અવાજ અર્ધચંદ્રાકાર વાલ્વ બંધ થવાથી આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AV બંધ = લબ, Semilunar બંધ = ડબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ECG માં 'P' તરંગ શું દર્શાવે છે?\nA) ક્ષેપકોનું વિધ્રુવીકરણ\nB) કર્ણકોનું વિધ્રુવીકરણ\nC) કર્ણકોનું પુનઃધ્રુવીકરણ\nD) ક્ષેપકોનું પુનઃધ્રુવીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કર્ણકોનું વિધ્રુવીકરણ (Depolarisation). જે કર્ણકોના સંકોચન તરફ દોરી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = Pumping of Atria!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ECG માં કયો ભાગ ક્ષેપકોના સંકોચનની શરૂઆત દર્શાવે છે?\nA) P તરંગ\nB) QRS સંકુલ\nC) T તરંગ\nD) PR અંતરાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) QRS સંકુલ. તે ક્ષેપકોનું વિધ્રુવીકરણ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: QRS મોટું છે કારણ કે ક્ષેપકો મોટા છે અને વધારે જોરથી સંકોચાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સામાન્ય બ્લડ પ્રેશર (BP) કેટલું હોય છે?\nA) 140/90 mm Hg\nB) 100/50 mm Hg\nC) 120/80 mm Hg\nD) 80/120 mm Hg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 120/80 mm Hg. જેમાં 120 સિસ્ટોલિક અને 80 ડાયાસ્ટોલિક દબાણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર (સંકોચન) વધુ = 120, નીચે (શિથિલન) ઓછું = 80.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "હૃદયના સ્નાયુઓને રુધિર પૂરું પાડતી ધમની કઈ છે?\nA) કેરોટિડ ધમની\nB) ફુપ્ફુસ ધમની\nC) હૃદ ધમની (Coronary Artery)\nD) યકૃત ધમની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હૃદ ધમની (Coronary Artery). તેમાં બ્લોકેજ આવવાથી હાર્ટ એટેક આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Corona એટલે મુગટ, હૃદયની ઉપર મુગટની જેમ વીંટળાયેલી ધમની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એન્જાઈના પેક્ટોરિસ (Angina Pectoris) નું મુખ્ય લક્ષણ કયું છે?\nA) વધુ પડતો તાવ\nB) છાતીમાં તીવ્ર દુખાવો\nC) લોહીનું નીચું દબાણ\nD) રુધિર ગંઠાઈ જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) છાતીમાં તીવ્ર દુખાવો. જ્યારે હૃદયના સ્નાયુઓને પૂરતો ઓક્સિજન ન મળે ત્યારે આ દુખાવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Angina = Pain, Pectoris = Chest. ચેસ્ટ પેઈન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રુધિરરસમાં કેટલા ટકા પાણી હોય છે?\nA) 55%\nB) 70%\nC) 90-92%\nD) 45%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90-92%. રુધિરરસ મુખ્યત્વે પાણીનો બનેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાઝમા એટલે રુધિરનું 'શરબત', જેમાં 90% થી વધુ પાણી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કયા કોષોમાં કોષકેન્દ્ર હોતું નથી?\nA) શ્વેતકણ\nB) લસિકાકણ\nC) પુખ્ત રક્તકણ\nD) એકકેન્દ્રી કણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પુખ્ત રક્તકણ. ઓક્સિજન વહન માટે વધુ જગ્યા મળી રહે તે માટે સસ્તનોના રક્તકણોમાં કોષકેન્દ્ર હોતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC = No Nucleus, No Mitochondria - Only Hemoglobin!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "100 ml રુધિરમાં હિમોગ્લોબિનનું પ્રમાણ કેટલું હોવું જોઈએ?\nA) 5-10 g\nB) 12-16 g\nC) 20-25 g\nD) 2-5 g",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12-16 g. તંદુરસ્ત પુખ્ત વ્યક્તિમાં આ આદર્શ પ્રમાણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમોગ્લોબિનનો આંકડો 12 થી 16 વચ્ચે જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ભક્ષક કોષો (Phagocytic cells) તરીકે કયા શ્વેતકણો કાર્ય કરે છે?\nA) તટસ્થ કણો અને એકકેન્દ્રી કણો\nB) લસિકાકણો અને અલ્કરાગી કણો\nC) અમ્લરાગી કણો અને તટસ્થ કણો\nD) માત્ર લસિકાકણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) તટસ્થ કણો (Neutrophils) અને એકકેન્દ્રી કણો (Monocytes). તેઓ શરીરમાં પ્રવેશતા બેક્ટેરિયાને ગળી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NM = 'N'ature's 'M'unchers (ગળી જનારા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "એલર્જીની પ્રતિક્રિયામાં કયા કોષોની સંખ્યા વધે છે?\nA) તટસ્થ કણો\nB) અમ્લરાગી કણો (Eosinophils)\nC) લસિકાકણો\nD) રક્તકણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અમ્લરાગી કણો (Eosinophils). તેઓ ચેપ અને એલર્જી સામે રક્ષણ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = Eosinophils, E = Eeee! (એલર્જી થાય ત્યારે આવો અવાજ નીકળે!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કયા પ્રકારના લસિકાકણો રોગપ્રતિકારક શક્તિ માટે જવાબદાર છે?\nA) A અને B\nB) B અને T\nC) α અને β\nD) X અને Y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) B અને T લસિકાકણો. B-કોષો એન્ટિબોડી બનાવે છે અને T-કોષો મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B-T (બીટી) કપાસ નહીં, બીટી લસિકાકણો યાદ રાખવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "થ્રોમ્બીન (Thrombin) નું કાર્ય શું છે?\nA) પ્રોથ્રોમ્બીનને સક્રિય કરવું\nB) ફાઈબ્રિનોજનને ફાઈબ્રિનમાં ફેરવવું\nC) હિપેરીનનો સ્ત્રાવ કરવો\nD) રક્તકણોનો નાશ કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફાઈબ્રિનોજનને ફાઈબ્રિનમાં ફેરવવું. ફાઈબ્રિનના તાંતણા રુધિર ગઠ્ઠો બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thrombin is like a 'Cutter' that cuts Fibrinogen to make Fibrin mesh.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "રુધિરરસ માંથી ગંઠાઈ જવાના કારકો (Clotting Factors) દૂર કરીએ તો તેને શું કહેવાય?\nA) પ્લાઝમા\nB) લસિકા\nC) સીરમ (Serum)\nD) હિમોગ્લોબિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સીરમ (Serum). સીરમ એ રુધિર ગંઠાવવાના કારકો વગરનો રુધિરરસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Serum = Plasma - Clotting Factors.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "લિમ્ફેટીક તંત્રમાં કયું પ્રવાહી વહન પામે છે?\nA) રુધિર\nB) સીરમ\nC) લસિકા (Lymph)\nD) પિત્તરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લસિકા (Lymph). તે પોષક દ્રવ્યો અને અંતઃસ્ત્રાવોના વહન માટેનું માધ્યમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિમ્ફેટીક = લસિકા. નામમાં જ જવાબ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ચોક્કસ રુધિરવાહિનીઓ દ્વારા થતું પરિવહન (Closed Circulatory System) કોનામાં જોવા મળે છે?\nA) નુપૂરક અને મેરુદંડી\nB) કીટકો\nC) ગોકળગાય\nD) તારામાછલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) નુપૂરક (અળસિયું) અને મેરુદંડી (માનવ વગેરે). આમાં રુધિર હંમેશા બંધ વાહિનીઓમાં જ વહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ તંત્ર એટલે 'પાઈપ લાઈન' (વાહિનીઓ) વાળું તંત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મગર (Crocodile) ના હૃદયમાં કેટલા ખંડો હોય છે?\nA) 2\nB) 3\nC) 4\nD) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 4. સામાન્ય રીતે સરીસૃપમાં 3 ખંડ હોય છે, પણ મગર અપવાદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગર મોટો એટલે ખંડો પણ સરીસૃપ કરતા વધારે (4)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "માનવ હૃદયમાં કયા ખંડની દીવાલ સૌથી જાડી હોય છે?\nA) જમણું કર્ણક\nB) જમણું ક્ષેપક\nC) ડાબું ક્ષેપક\nD) ડાબું કર્ણક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ડાબું ક્ષેપક. કારણ કે તેણે આખા શરીરમાં રુધિર પંપ કરવાનું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબું ક્ષેપક = 'Strongest Pump' (આખા શરીર માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "દ્વિદલ વાલ્વ (Bicuspid valve) નું બીજું નામ શું છે?\nA) સેમિલ્યુનર વાલ્વ\nB) માઈટ્રલ વાલ્વ (Mitral valve)\nC) ઓયોર્ટિક વાલ્વ\nD) પલ્મોનરી વાલ્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) માઈટ્રલ વાલ્વ (Mitral valve). તે ડાબા કર્ણક અને ક્ષેપક વચ્ચે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L-B-M' - Left Bicuspid Mitral.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "અર્ધચંદ્રાકાર વાલ્વ (Semilunar valves) ક્યાં આવેલા હોય છે?\nA) કર્ણકો અને ક્ષેપકો વચ્ચે\nB) ક્ષેપકો અને મુખ્ય ધમનીઓ વચ્ચે\nC) મહાશિરા અને કર્ણક વચ્ચે\nD) ફુપ્ફુસ શિરા અને કર્ણક વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ક્ષેપકો અને મુખ્ય ધમનીઓ (ફુપ્ફુસ ધમની અને મહાધમની) વચ્ચે. તે રુધિરને પાછું પડતું અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EXIT વાલ્વ = અર્ધચંદ્રાકાર વાલ્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "હૃદયના વિશિષ્ટ સ્નાયુલ પેશીના જથ્થા 'SA Node' નું સ્થાન ક્યાં છે?\nA) ડાબા કર્ણકના નીચેના ભાગમાં\nB) જમણા કર્ણકના ઉપરના જમણા ખૂણે\nC) ક્ષેપકોની વચ્ચેના પટલમાં\nD) હૃદયના અગ્ર ભાગમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જમણા કર્ણકના ઉપરના જમણા ખૂણે. તે રાયટ એટ્રિયમમાં ઉપરની તરફ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SAN = Superior Atrium (Right side).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "SA ગાંઠ પ્રતિ મિનિટે કેટલા સક્રિય કલાવીજસ્થિતિમાન (Action Potential) પેદા કરે છે?\nA) 40-50\nB) 100-120\nC) 70-75\nD) 10-20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 70-75. આથી જ આપણા હૃદયના ધબકારા પણ સરેરાશ 72 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SAN નો રેટ = હાર્ટ રેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ક્ષેપક સંકોચન (Ventricular Systole) દરમિયાન શું થાય છે?\nA) AV વાલ્વ ખુલે છે\nB) અર્ધચંદ્રાકાર વાલ્વ ખુલે છે\nC) કર્ણકોમાં રુધિર ભરાય છે\nD) હૃદય ધબકતું બંધ થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અર્ધચંદ્રાકાર વાલ્વ ખુલે છે. ક્ષેપકોના દબાણથી રુધિર ધમનીઓમાં ધકેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકોચન = રુધિર બહાર કાઢવું = Exit વાલ્વ (Semilunar) ખુલવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "કાર્ડિયાક આઉટપુટ (Cardiac Output) કેવી રીતે શોધાય?\nA) Stroke Volume + Heart Rate\nB) Stroke Volume × Heart Rate\nC) Stroke Volume / Heart Rate\nD) Heart Rate - Stroke Volume",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Stroke Volume × Heart Rate. એક મિનિટમાં હૃદય દ્વારા પંપ કરાતા રુધિરના જથ્થાને કાર્ડિયાક આઉટપુટ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO = SV × HR (70 ml × 72 bpm ≈ 5000 ml).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "તંદુરસ્ત વ્યક્તિમાં કાર્ડિયાક આઉટપુટ આશરે કેટલું હોય છે?\nA) 1 લિટર\nB) 2 લિટર\nC) 5 લિટર\nD) 10 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આશરે 5000 ml અથવા 5 લિટર. રમતવીરોમાં આનાથી ઘણું વધારે હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય મિનિટમાં આખી રુધિરની 'ડોલ' (5L) ખાલી કરી નાખે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ECG માં QRS સંકુલની સંખ્યા ગણીને શું જાણી શકાય છે?\nA) શ્વાસનો દર\nB) રુધિરનું દબાણ\nC) હૃદયના ધબકારાનો દર\nD) હિમોગ્લોબિનનું પ્રમાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હૃદયના ધબકારાનો દર. દરેક QRS એક ક્ષેપક સંકોચન (ધબકાર) દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: QRS એટલે હૃદયનો 'ધબકાર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "મનુષ્યમાં કેવા પ્રકારનું રુધિર પરિવહન જોવા મળે છે?\nA) એકમાર્ગી પરિવહન\nB) અપૂર્ણ બેવડું પરિવહન\nC) સંપૂર્ણ બેવડું પરિવહન\nD) ખુલ્લું પરિવહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સંપૂર્ણ બેવડું પરિવહન (Double Circulation). રુધિર હૃદયમાંથી બે વાર પસાર થાય છે (ફુપ્ફુસ અને દૈહિક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે બાજુ, બે રસ્તા = બેવડું પરિવહન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કઈ રુધિરવાહિનીમાં શુદ્ધ (ઓક્સિજનયુક્ત) રુધિર વહે છે?\nA) ફુપ્ફુસ ધમની\nB) મહાશિરા\nC) ફુપ્ફુસ શિરા\nD) યકૃત શિરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ફુપ્ફુસ શિરા (Pulmonary Vein). તે ફેફસામાંથી શુદ્ધ લોહી હૃદયમાં લાવે છે. (શિરાઓમાં અપવાદ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમની શુદ્ધ (+), શિરા અશુદ્ધ (-). પણ ફુપ્ફુસ (Pulmonary) લાગે તો ઊલટું કરી નાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "પાચનમાર્ગ અને યકૃત વચ્ચે કયું વિશિષ્ટ પરિવહન તંત્ર હોય છે?\nA) હૃદ પરિવહન\nB) યકૃત નિવાહિકા તંત્ર (Hepatic Portal System)\nC) લસિકા તંત્ર\nD) મૂત્રપિંડ પરિવહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) યકૃત નિવાહિકા તંત્ર. તે આંતરડામાંથી પોષક તત્વોને સીધા યકૃતમાં લઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Portal = Entry/Gate. ખોરાકની એન્ટ્રી યકૃતમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "હૃદયની ક્રિયાઓનું નિયમન મગજના કયા ભાગ દ્વારા થાય છે?\nA) બૃહદ મસ્તિષ્ક\nB) લંબમજ્જા (Medulla Oblongata)\nC) સેતુ\nD) અનુમસ્તિષ્ક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લંબમજ્જા. હૃદયના કેન્દ્રો લંબમજ્જામાં આવેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M for Medulla, M for Monitoring Heart!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "કયા ચેતાતંત્ર દ્વારા હૃદયના ધબકારા વધે છે?\nA) પરાનુકંપી ચેતાતંત્ર\nB) અનુકંપી ચેતાતંત્ર (Sympathetic)\nC) મધ્યવર્તી ચેતાતંત્ર\nD) ઐચ્છિક ચેતાતંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અનુકંપી ચેતાતંત્ર (Sympathetic NS). તે કટોકટીમાં ધબકારા અને કાર્ડિયાક આઉટપુટ વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sympathetic = Speed up! (S for S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "હાઈપરટેન્શન (Hypertension) માં રુધિરનું દબાણ કેટલું જોવા મળે છે?\nA) 120/80\nB) 110/70\nC) 140/90 કે તેથી વધુ\nD) 90/60",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 140/90 કે તેથી વધુ. સતત આવું દબાણ રહેવું તે હાઈપરટેન્શન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hyper = High! 120 થી વધીને 140.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "એથરોસ્ક્લેરોસિસ (Atherosclerosis) માં શું થાય છે?\nA) હૃદયના ધબકારા ઘટે છે\nB) ધમનીઓના પોલાણ સાંકડા થાય છે\nC) લોહી પાતળું થાય છે\nD) ફેફસામાં પાણી ભરાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધમનીઓના પોલાણ સાંકડા થાય છે. કેલ્શિયમ, ચરબી અને કોલેસ્ટ્રોલના જમા થવાથી ધમની સાંકડી બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CAD (Coronary Artery Disease) = પાઈપમાં કચરો જામવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જ્યારે હૃદય શરીરની જરૂરિયાત મુજબ રુધિર પંપ કરી શકતું નથી, ત્યારે તેને શું કહેવાય?\nA) હાર્ટ એટેક\nB) કાર્ડિયાક અરેસ્ટ\nC) હાર્ટ ફેલ્યોર (Heart Failure)\nD) એન્જાઈના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હાર્ટ ફેલ્યોર. તેને ઘણીવાર કન્જેસ્ટિવ હાર્ટ ફેલ્યોર પણ કહેવાય છે કારણ કે ફેફસામાં રુધિરનો ભરાવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Failure = નાપાસ થવું. હૃદય પંપ કરવામાં નાપાસ થાય તે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "રુધિરકણિકાઓ (Platelets) કયા કોષોના ટુકડા છે?\nA) મેગ્નેશિયમકોષો\nB) મેગાકેરિયોસાઇટ્સ\nC) લિમ્ફોસાઇટ્સ\nD) માસ્ટ કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મેગાકેરિયોસાઇટ્સ. આ અસ્થિમજ્જાના મોટા કોષો છે જેના ટુકડા થવાથી રુધિરકણિકાઓ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Mega' માંથી નાના ટુકડા = Platelets.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "કયા રુધિર જૂથમાં એક પણ એન્ટિજેન હોતા નથી?\nA) A\nB) B\nC) AB\nD) O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) O. O જૂથમાં RBC ની સપાટી પર A કે B કોઈ એન્ટિજેન હોતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O = Zero Antigens.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "રુધિરરસમાં રહેલા ગ્લોબ્યુલીન પ્રોટીનનું કાર્ય જણાવો.\nA) રુધિર ગંઠાવવું\nB) રક્ષણાત્મક પ્રક્રિયા (Defense Mechanism)\nC) ઓક્સિજન વહન\nD) ઉત્સેચક તરીકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રક્ષણાત્મક પ્રક્રિયા. ગ્લોબ્યુલીન એન્ટિબોડી તરીકે કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G for Globulin, G for Guards (રક્ષકો)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "રુધિર ગંઠાવવાની ક્રિયામાં ઉપયોગી ઉત્સેચકીય સંકુલ કયું છે?\nA) પેપ્સિન\nB) એમાઈલેઝ\nC) થ્રોમ્બોકાઈનેઝ\nD) રેનિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) થ્રોમ્બોકાઈનેઝ. તે પ્રોથ્રોમ્બીનને થ્રોમ્બીનમાં ફેરવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Clotting = Thrombo-series (Thrombocytes -> Thrombokinase -> Thrombin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પરિહૃદય જળ (Pericardial fluid) નું કાર્ય શું છે?\nA) હૃદયને પોષણ આપવું\nB) હૃદયમાં ઘર્ષણ ઘટાડવું\nC) રુધિરને શુદ્ધ કરવું\nD) ધબકારા શરૂ કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હૃદયમાં ઘર્ષણ ઘટાડવું. તે હૃદયના ધબકારા વખતે થતા ઘર્ષણ સામે રક્ષણ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fluid = Lubricant (ઓઈલિંગ જેવું કામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "બંને કર્ણકોને છૂટો પાડતો પાતળો સ્નાયુલ પટલ કયો છે?\nA) આંતરક્ષેપક પટલ\nB) આંતરકર્ણક પટલ\nC) કર્ણક-ક્ષેપક પટલ\nD) આશૃતિ પટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આંતરકર્ણક પટલ (Inter-atrial septum).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ અર્થ છે: આંતર (વચ્ચે) + કર્ણક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "શિરા-કર્ણક ગાંઠ (SAN) માંથી ઉત્પન્ન થયેલો આવેગ કોણ ગ્રહણ કરે છે?\nA) કર્ણક-ક્ષેપક ગાંઠ (AVN)\nB) પુરકિંજે તંતુઓ\nC) હિઝનો સમૂહ\nD) મહાધમની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કર્ણક-ક્ષેપક ગાંઠ (AVN). તે આવેગને આગળ ક્ષેપકો તરફ મોકલે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિલે રેસની જેમ: SAN -> AVN -> Bundle of His -> Purkinje.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "હૃદય ચક્ર દરમિયાન બંને કર્ણકો અને ક્ષેપકો જ્યારે શિથિલન અવસ્થામાં હોય તેને શું કહેવાય?\nA) કર્ણક સિસ્ટોલ\nB) ક્ષેપક સિસ્ટોલ\nC) સંયુક્ત ડાયાસ્ટોલ (Joint Diastole)\nD) હાર્ટ બ્લોક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સંયુક્ત ડાયાસ્ટોલ. આ સમયે રુધિર કર્ણકોમાં થઈ ક્ષેપકોમાં ભરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Joint = ભેગા, Diastole = રિલેક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ECG માં 'T' તરંગ શું સૂચવે છે?\nA) ક્ષેપકોનું વિધ્રુવીકરણ\nB) કર્ણકોનું સંકોચન\nC) ક્ષેપકોનું પુનઃધ્રુવીકરણ (Repolarisation)\nD) રુધિરનું દબાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ક્ષેપકોનું પુનઃધ્રુવીકરણ. તે ક્ષેપકોના સંકોચન પછીની સામાન્ય સ્થિતિ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = Terminate (સંકોચનનો અંત અને આરામની શરૂઆત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "દૈહિક પરિવહન (Systemic Circulation) ક્યાંથી શરૂ થાય છે?\nA) જમણું ક્ષેપક\nB) ડાબું ક્ષેપક\nC) જમણું કર્ણક\nD) ડાબું કર્ણક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ડાબું ક્ષેપક. અહીંથી શુદ્ધ લોહી મહાધમની દ્વારા અંગોમાં જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબું ક્ષેપક = દેશભરમાં (Body) લોહી મોકલનાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કયા હોર્મોન્સ કાર્ડિયાક આઉટપુટ વધારી શકે છે?\nA) ઇન્સ્યુલિન\nB) એડ્રીનલ મજ્જકના હોર્મોન્સ (એડ્રીનાલીન)\nC) થાઇરોક્સિન\nD) ઇસ્ટ્રોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એડ્રીનલ મજ્જકના હોર્મોન્સ. તે કટોકટીમાં હૃદયની કાર્યક્ષમતા વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભય કે ગુસ્સામાં ધબકારા વધે = એડ્રીનાલીન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "હૃદયના ધબકારા જ્યારે અચાનક બંધ થઈ જાય તેને શું કહેવાય?\nA) હાર્ટ ફેલ્યોર\nB) હાર્ટ એટેક\nC) કાર્ડિયાક અરેસ્ટ (Cardiac Arrest)\nD) હાઈપરટેન્શન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાર્ડિયાક અરેસ્ટ. આ સ્થિતિમાં હૃદય ધબકવાનું એકદમ બંધ કરી દે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Arrest = પકડાઈ જવું/થંભી જવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "રુધિરરસમાં રહેલા ખનીજ આયનો કયા છે?\nA) Na+, Ca++, Cl-\nB) Fe++, Cu++, Zn++\nC) K+, Mg++, P++\nD) માત્ર Na+",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Na+, Ca++, Cl- વગેરે. આ આયનો શરીરમાં પ્રવાહી સંતુલન જાળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું (NaCl) અને કેલ્શિયમ લોહીમાં હોય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "રક્તકણોનો આકાર કેવો હોય છે?\nA) અનિયમિત\nB) દ્વિ-અંતર્ગોળ (Biconcave)\nC) લંબગોળ\nD) ગોળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દ્વિ-અંતર્ગોળ. આ આકાર સપાટીનું ક્ષેત્રફળ વધારે છે જેથી ગેસ વિનિમય સરળ બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેંડા જેવો આકાર, વચ્ચેથી દબાયેલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "શ્વેતકણોનો સરેરાશ આયુષ્ય કેટલું હોય છે?\nA) 120 દિવસ\nB) 10-15 દિવસ (ટૂંકું આયુષ્ય)\nC) 1 વર્ષ\nD) 1 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ટૂંકું આયુષ્ય (સામાન્ય રીતે 10-20 દિવસ). તે સતત નવા બનતા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈનિકો (WBC) યુદ્ધમાં જલ્દી શહીદ થાય, એટલે આયુષ્ય ઓછું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "લસિકા દ્વારા શાનું શોષણ અને વહન થાય છે?\nA) ગ્લુકોઝ\nB) એમિનો એસિડ\nC) ચરબી (Fats)\nD) લોહતત્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચરબી. આંતરડાના રસાંકુરોમાં આવેલી લસિકાવાહિની (પયસ્વિની) ચરબીનું શોષણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lymph = Lipids (ચરબી) નું વહન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "મનુષ્યમાં હૃદય ક્યાં આવેલું હોય છે?\nA) ઉદર ગુહામાં\nB) ઉરસીય ગુહામાં (બે ફેફસાંની વચ્ચે)\nC) ગળાના ભાગમાં\nD) કરોડરજ્જુની પાછળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉરસીય ગુહામાં (Thoracic cavity). તે સહેજ ડાબી બાજુ નમેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાતીનું પંજરું (Thorax) = હૃદયનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "હૃદયના ધબકારા માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?\nA) સ્ફિગ્મોમેનોમીટર\nB) સ્ટેથોસ્કોપ\nC) ઈલેક્ટ્રોકાર્ડિયોગ્રાફ\nD) થર્મોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્ટેથોસ્કોપ. તે હૃદયના અવાજ સાંભળવા વપરાય છે. BP માપવા માટે સ્ફિગ્મોમેનોમીટર વપરાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટરના ગળામાં લટકે તે 'સ્ટેથોસ્કોપ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "હિમોગ્લોબિન શું છે?\nA) શ્વેતકણનો પ્રકાર\nB) લોહયુક્ત શ્વસન રંજકદ્રવ્ય\nC) રુધિર ગંઠાવતું પ્રોટીન\nD) કાર્બોદિત દ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોહયુક્ત શ્વસન રંજકદ્રવ્ય. તે ઓક્સિજનના વહન માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heme = Iron (લોહ), Globin = Protein.</p></div>"
+    }
+  ]
+}

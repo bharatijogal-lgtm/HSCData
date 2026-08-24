@@ -1913,3 +1913,386 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સપુષ્પી વનસ્પતિઓની અંતઃસ્થ રચના",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પેશી એ સમાન ઉત્પત્તિ ધરાવતા અને સામાન્ય રીતે સમાન કાર્ય કરતા _______ નો સમૂહ છે. (કોષો, પેશીતંત્રો, અંગો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશી એટલે કોષોનું 'ગૃપ' જે એક જ કામ માટે ભેગા થયા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વનસ્પતિમાં વૃદ્ધિ મુખ્યત્વે સક્રિય કોષવિભાજનના ચોક્કસ વિસ્તારો પૂરતી મર્યાદિત હોય છે, તેને _______ કહે છે. (સ્થાયી પેશી, વર્ધનશીલ પેશી, જટિલ પેશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ધનશીલ પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વર્ધન' એટલે વધવું, જે પેશી વધે તે વર્ધનશીલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મૂળ અને પ્રકાંડના અગ્રસ્થ ભાગે જોવા મળતી વર્ધનશીલ પેશીને _______ કહે છે. (અગ્રસ્થ વર્ધનશીલ પેશી, આંતરવિષ્ટ વર્ધનશીલ પેશી, પાર્શ્વીય વર્ધનશીલ પેશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગ્રસ્થ વર્ધનશીલ પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અગ્ર' એટલે ટોચ, જે ટોચ પર હોય તે અગ્રસ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઘાસમાં પુનઃનિર્માણ પામતા ભાગો માટે _______ વર્ધનશીલ પેશી જવાબદાર છે. (અગ્રસ્થ, આંતરવિષ્ટ, દ્વિતીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરવિષ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ ગાય ખાઈ જાય, પછી 'અંદર' થી ફૂટે તે આંતરવિષ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અગ્રસ્થ અને આંતરવિષ્ટ વર્ધનશીલ પેશીઓ _______ વર્ધનશીલ પેશીઓ છે. (પ્રાથમિક, દ્વિતીય, તૃતીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાથમિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે જીવનની શરૂઆતથી હાજર હોય તે 'પ્રાથમિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઘણી વનસ્પતિઓના મૂળ અને પ્રકાંડના પરિપક્વ પ્રદેશોમાં જોવા મળતી અને અક્ષની જાડાઈમાં વધારો કરતી પેશીને _______ કહે છે. (અગ્રસ્થ પેશી, પાર્શ્વીય વર્ધનશીલ પેશી, મૃદુતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાર્શ્વીય વર્ધનશીલ પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાડાઈ વધે તો 'પાર્શ્વ' (Side) માંથી વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પુલીય એધા અને ત્વક્ષૈધા એ _______ પેશીના ઉદાહરણો છે. (પ્રાથમિક વર્ધનશીલ, પાર્શ્વીય વર્ધનશીલ, સ્થાયી પેશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાર્શ્વીય વર્ધનશીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એધા (Cambium) હંમેશા દ્વિતીય વૃદ્ધિ અને પાર્શ્વીય વૃદ્ધિ સાથે સંકળાયેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જે પેશીના કોષોમાં વિભાજન પામવાની ક્ષમતા હોતી નથી તેને _______ પેશી કહે છે. (વર્ધનશીલ, સ્થાયી, પ્રાથમિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાયી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે 'સ્થિર' (Permanent) થઈ જાય, તે વિભાજન ન પામે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રચના અને કાર્યની દ્રષ્ટિએ સમાન કોષોની બનેલી પેશીને _______ પેશી કહે છે. (સરળ, જટિલ, વર્ધનશીલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ પ્રકારના કોષો = એકદમ 'Simple' (સરળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "_______ પેશીના કોષો જીવંત હોય છે અને તેમની કોષદીવાલ પાતળી અને સેલ્યુલોઝની બનેલી હોય છે. (મૃદુતક, દઢોતક, જલવાહિની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃદુતક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુ = નરમ/પાતળું. (Parenchyma).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "_______ પેશીના કોષોના ખૂણાના ભાગે સેલ્યુલોઝ, હેમીસેલ્યુલોઝ અને પેક્ટીનનું સ્થૂલન જોવા મળે છે. (મૃદુતક, સ્થૂલકોણક, દઢોતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થૂલકોણક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોણ' એટલે ખૂણા, ખૂણામાં સ્થૂલન એટલે સ્થૂલકોણક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વનસ્પતિના વધતા જતા અંગો જેમ કે કુમળું પ્રકાંડ અને પર્ણદંડને યાંત્રિક મજબૂતી _______ પેશી પૂરી પાડે છે. (સ્થૂલકોણક, મૃદુતક, વાયુતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થૂલકોણક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થૂલકોણક = લવચીક મજબૂતી (Flexibility).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "_______ પેશીના કોષો લાંબા, સાંકડા અને લિગ્નિનયુક્ત કોષદીવાલ ધરાવે છે અને સામાન્ય રીતે મૃત હોય છે. (મૃદુતક, સ્થૂલકોણક, દઢોતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દઢોતક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દઢ = મજબૂત/કઠણ. મૃત કોષો જ કઠણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નાળિયેરના કાચલામાં _______ જોવા મળે છે. (અસ્થિકોષો, મૃદુતક, સ્થૂલકોણક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસ્થિકોષો (Sclereids)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેર જેવું કઠણ એટલે અસ્થિ જેવું (Sclereids).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક કરતાં વધુ પ્રકારના કોષોની બનેલી પેશીને _______ પેશી કહે છે. (સરળ, જટિલ, વર્ધનશીલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જટિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિક્સચર (Mixed cells) = જટિલ (Complex).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જલવાહિનીકી અને જલવાહિની _______ પેશીના ઘટકો છે. (જલવાહક, અન્નવાહક, ત્વક્ષૈધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલવાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જલ' એટલે પાણી, જલનું વહન કરતી પેશી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જલવાહક પેશીનો કયો ઘટક જીવંત હોય છે? (જલવાહિનીકી, જલવાહિની, જલવાહક મૃદુતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલવાહક મૃદુતક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુતક હંમેશા જીવંત જ હોય, ભલે ગમે ત્યાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "_______ માં જલવાહિનીઓનો અભાવ હોય છે. (આવૃત બીજધારી, અનાવૃત બીજધારી, દ્વિદળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનાવૃત બીજધારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાવૃત (Gymno) પાસે 'વેસલ' (Vessel) નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સૌપ્રથમ બનેલી પ્રાથમિક જલવાહક પેશીને _______ કહે છે. (આદિજલવાહક, અનુજલવાહક, દ્વિતીય જલવાહક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદિજલવાહક (Protoxylem)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિ = જૂનું/પહેલું. (Proto).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પ્રકાંડમાં આદિજલવાહક કેન્દ્ર તરફ અને અનુજલવાહક પરિઘ તરફ હોય તેને _______ કહે છે. (અંતરારંભી, બહિરારંભી, મધ્યરંભી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતરારંભી (Endarch)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાંડ - અંદર - આદિ (P-A-A).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મૂળમાં આદિજલવાહક પરિઘ તરફ અને અનુજલવાહક કેન્દ્ર તરફ હોય તેને _______ કહે છે. (અંતરારંભી, બહિરારંભી, મધ્યરંભી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિરારંભી (Exarch)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ - બહાર - આદિ (M-B-A).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આવૃત બીજધારીઓમાં અન્નવાહક પેશી _______ ની બનેલી હોય છે. (ચાલનીનલિકા, સાથીકોષો, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phloem in Angiosperms = Sieve Tube + Companion Cells.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પુખ્ત ચાલનીનલિકામાં _______ હોતું નથી. (કોષરસ, પરિઘીય કોષરસ, કોષકેન્દ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષકેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાલનીનલિકા જીવંત છે પણ મગજ (કોષકેન્દ્ર) વગરની છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ચાલનીનલિકાના કાર્યોનું નિયમન _______ દ્વારા થાય છે. (જલવાહક મૃદુતક, સાથીકોષોનું કોષકેન્દ્ર, દઢોતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાથીકોષોનું કોષકેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથી (Companion) જ સાચા સમયે મદદ (કંટ્રોલ) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અન્નવાહક મૃદુતક _______ માં ગેરહાજર હોય છે. (મોટાભાગની દ્વિદળી, મોટાભાગની એકદળી, અનાવૃત બીજધારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટાભાગની એકદળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Monocots are simple, they don't have Phloem Parenchyma.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અન્નવાહક તંતુઓ _______ પેશીના બનેલા હોય છે. (મૃદુતક, સ્થૂલકોણક, દઢોતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દઢોતક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંતુ (Fibre) હંમેશા દઢોતક (Sclerenchyma) ના જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શણ, અળસી અને ભીંડાના અન્નવાહક તંતુઓનો વ્યાપારીક ઉપયોગ થાય છે, જે _______ અન્નવાહક પેશીના બનેલા છે. (પ્રાથમિક, દ્વિતીય, તૃતીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિતીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Secondary growth માં બનેલા તંતુઓ જ મજબૂત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અધિસ્તરના કોષો પર પાણીનો વ્યય અટકાવવા માટે _______ નું આવરણ આવેલું હોય છે. (સેલ્યુલોઝ, ક્યુટિકલ, પેક્ટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્યુટિકલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્યુટિકલ = 'Water-coat'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વાયુરંધ્રની રચના બે રક્ષક કોષો દ્વારા થાય છે, જે ઘાસમાં _______ આકારના હોય છે. (વૃક્કાકાર, ડમ્બેલ, લંબગોળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડમ્બેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ (Grass) ખાઈને 'ડમ્બેલ' ઉપાડવાના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પ્રકાંડ પર આવેલા અધિસ્તરીય રોમને _______ કહે છે. (મૂળરોમ, ત્વકરોમ, પર્ણરોમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્વકરોમ (Trichomes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stem features = Trichomes (બહુકોષીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અધિસ્તર અને વાહીપુલો સિવાયની તમામ પેશીઓ _______ પેશીતંત્ર બનાવે છે. (ભરણ, સંવહન, રક્ષણાત્મક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરણ (Ground tissue)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વધ્યું ઘટ્યું એ બધું 'ભરણ' માં ભરી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જ્યારે જલવાહક અને અન્નવાહક પેશીઓ વાહીપુલોમાં અલગ-અલગ ત્રિજ્યા પર ગોઠવાયેલી હોય, તેને _______ વાહીપુલ કહે છે. (અરીય, સહસ્થ, ઉભયગુણધર્મી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરીય (Radial)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીય - અલગ ત્રિજ્યા - મૂળ (Root/Radial).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જ્યારે જલવાહક અને અન્નવાહક એક જ ત્રિજ્યા પર આવેલા હોય, તેને _______ વાહીપુલ કહે છે. (અરીય, સહસ્થ, કેન્દ્રસ્થ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહસ્થ (Conjoint)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહસ્થ = સાથે (Same Radius).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો જલવાહક અને અન્નવાહક વચ્ચે એધા આવેલી હોય, તો તેવા વાહીપુલને _______ કહે છે. (વર્ધમાન, અવર્ધમાન, અરીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ધમાન (Open)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એધા છે તો વૃદ્ધિ થશે, એટલે 'વર્ધમાન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "એકદળી વનસ્પતિઓના વાહીપુલો સામાન્ય રીતે _______ હોય છે. (વર્ધમાન, અવર્ધમાન, અરીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવર્ધમાન (Closed)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીમાં એધા ના હોય, એટલે વૃદ્ધિ 'બંધ' (Closed).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સૂર્યમુખીના મૂળમાં (દ્વિદળી મૂળ) અંતઃસ્તરના કોષોમાં સુબેરીનનું સ્થૂલન જોવા મળે છે, જેને _______ પટ્ટીકાઓ કહે છે. (કેસ્પેરિયન, લિગ્નિન, પેક્ટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેસ્પેરિયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેસ્પેરિયન પટ્ટીકા = પાણી માટે નો એન્ટ્રી (Waterproof).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મૂળમાં પાશ્વિય મૂળ અને વાહી એધાની શરૂઆત _______ ના કોષોમાંથી થાય છે. (અંતઃસ્તર, પરિચક્ર, અધિસ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરિચક્ર (Pericycle)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિચક્ર એટલે સાઈકલ, જેમાંથી નવા 'મૂળ' ફૂટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "દ્વિદળી મૂળમાં જલવાહક અને અન્નવાહક વચ્ચે આવેલી પેશીને _______ પેશી કહે છે. (સંયોગી, ભરણ, અધઃસ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંયોગી (Conjunctive tissue)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે પેશીઓને જોડતી એટલે સંયોગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "એકદળી મૂળમાં જલવાહક જૂથોની સંખ્યા સામાન્ય રીતે _______ થી વધુ હોય છે. (બે, ચાર, છ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છ (Polyarch)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી મૂળ = Polyarch (ઘણી જલવાહક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "દ્વિદળી પ્રકાંડમાં અધિસ્તરની નીચે આવેલું _______ સ્થૂલકોણક કોષોનું બનેલું હોય છે. (બાહ્યક, અધઃસ્તર, અંતઃસ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધઃસ્તર (Hypodermis)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધિસ્તરની નીચે 'અધઃ'સ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "દ્વિદળી પ્રકાંડના અંતઃસ્તરના કોષો સ્ટાર્ચ કણોથી ભરપૂર હોવાથી તેને _______ કહે છે. (સ્ટાર્ચ સીથ, કેસ્પેરિયન પટ્ટી, લિગ્નિન સ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટાર્ચ સીથ (કાંજી સ્તર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટાર્ચનો સંગ્રહ = સ્ટાર્ચ શીથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "દ્વિદળી પ્રકાંડમાં વાહીપુલો _______ માં ગોઠવાયેલા હોય છે. (વલય, વિખરાયેલા, અરીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વલય (Ring arrangement)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી પ્રકાંડ = પરફેક્ટ રિંગ સેટીંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "એકદળી પ્રકાંડમાં વાહીપુલો _______ હોય છે. (વલયમાં, વિખરાયેલા, કેન્દ્રમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિખરાયેલા (Scattered)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીમાં બધું આડુંઅવળું (વિખરાયેલું) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "એકદળી પ્રકાંડમાં વાહીપુલોમાં આવેલી જલવાહકમાં પાણી ભરેલી _______ જોવા મળે છે. (ગુહા, નલિકા, રિક્તિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુહા (Water containing cavities)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીમાં પાણી માટે સ્પેશિયલ 'ગુહા' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "પૃષ્ઠવંશીય (દ્વિદળી) પર્ણમાં મધ્યપર્ણ પેશી _______ માં વિભેદિત હોય છે. (લંબોતક અને શિથિલોતક, મૃદુતક અને દઢોતક, જલવાહક અને અન્નવાહક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબોતક અને શિથિલોતક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી પર્ણ = બે પ્રકારના કોષો (લંબ અને શિથિલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "સમદ્વિપાર્શ્વ (એકદળી) પર્ણમાં અધિસ્તરના કેટલાક કોષો મોટા, ખાલી અને રંગહીન હોય છે, જેને _______ કોષો કહે છે. (ભેજગ્રાહી, રક્ષક, સહાયક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભેજગ્રાહી (Bulliform cells)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણ વળી જાય એ માટે 'ભેજગ્રાહી' (Bulliform) કોષો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "દ્વિદળી વનસ્પતિઓમાં ઘેરાવામાં થતા વધારાને _______ કહે છે. (પ્રાથમિક વૃદ્ધિ, દ્વિતીય વૃદ્ધિ, તૃતીય વૃદ્ધિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિતીય વૃદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ વધે તો પ્રાથમિક, જાડાઈ વધે તો દ્વિતીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વાહીપુલોની અંદર આવેલી એધાને _______ કહે છે. (આંતરપુલીય એધા, અંતઃપુલીય એધા, ત્વક્ષૈધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતઃપુલીય એધા (Intrafascicular cambium)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર એટલે 'અંતઃ' (Intra).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "એધા વલયની સક્રિયતાને કારણે અંદરની બાજુએ _______ બને છે. (દ્વિતીય જલવાહક, દ્વિતીય અન્નવાહક, બાહ્યક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિતીય જલવાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહક હંમેશા અંદર (Inward) જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વસંતઋતુમાં બનતા કાષ્ઠને _______ કાષ્ઠ કહે છે. (વસંત કાષ્ઠ, શરદ કાષ્ઠ, હૃદય કાષ્ઠ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસંત કાષ્ઠ (Early wood)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસંતમાં બને એ વસંત કાષ્ઠ, જે હળવું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "શિયાળામાં બનતા કાષ્ઠને _______ કાષ્ઠ કહે છે. (વસંત કાષ્ઠ, શરદ કાષ્ઠ, રસ કાષ્ઠ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરદ કાષ્ઠ (Late wood)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળો = શરદ (Late).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "એક વર્ષમાં બનેલા વસંત કાષ્ઠ અને શરદ કાષ્ઠના બે વલયોને સંયુક્ત રીતે _______ કહે છે. (વાર્ષિક વલય, દ્વિતીય વલય, વાહી વલય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાર્ષિક વલય (Annual ring)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વલય ગણીને વનસ્પતિની ઉંમર ખબર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "પ્રકાંડના મધ્ય ભાગમાં આવેલું ઘટ્ટ રંગનું અને અત્યંત સખત કાષ્ઠ _______ છે. (હૃદય કાષ્ઠ, રસ કાષ્ઠ, નરમ કાષ્ઠ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદય કાષ્ઠ (Heartwood)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય મધ્યમાં હોય, મજબૂત અને ડાર્ક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "દ્વિતીય જલવાહકનો પરિઘીય વિસ્તાર આછા રંગનો અને પાણીના વહન માટે સક્રિય હોય છે, તેને _______ કહે છે. (હૃદય કાષ્ઠ, રસ કાષ્ઠ, છાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસ કાષ્ઠ (Sapwood)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાં 'રસ' (પાણી) વહે તે રસ કાષ્ઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "બાહ્યક વિસ્તારમાં બનતી નવી વર્ધનશીલ પેશી જે છાલ બનાવે છે તેને _______ કહે છે. (ત્વક્ષૈધા, પરિચક્ર, વાહી એધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્વક્ષૈધા (Cork cambium)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્વચા (Skin) જેવી છાલ બનાવતી એધા એટલે ત્વક્ષૈધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ત્વક્ષૈધા દ્વારા બહારની તરફ બનેલા કોષો _______ માં વિભેદિત થાય છે. (ત્વક્ષા, ઉપત્વક્ષા, એધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્વક્ષા (Cork)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્વક્ષૈધા બહારની બાજુ 'ત્વક્ષા' (Cork) બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ત્વક્ષૈધા દ્વારા અંદરની તરફ બનેલા કોષો _______ માં વિભેદિત થાય છે. (ત્વક્ષા, ઉપત્વક્ષા, બાહ્યક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપત્વક્ષા (Phelloderm)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર 'ઉપ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ત્વક્ષા, ત્વક્ષૈધા અને ઉપત્વક્ષાને સંયુક્ત રીતે _______ કહે છે. (પરિત્વક્ષ, છાલ, રક્ષક સ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરિત્વક્ષ (Periderm)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P-P-P (Phellem, Phellogen, Phelloderm = Periderm).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "છાલના અમુક ભાગોમાં વાયુઓના વિનિમય માટે બહિર્ગોળ આકારની જે રચના બને છે તેને _______ કહે છે. (વાયુરંધ્ર, વાયુકોટર, વાતરંધ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતરંધ્ર (Lenticels)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાલ પર શ્વાસ લેવાની બારી એટલે 'વાત'રંધ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "મૂળમાં એધા વલય સંપૂર્ણપણે _______ ઉત્પત્તિ ધરાવે છે. (પ્રાથમિક, દ્વિતીય, તૃતીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિતીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળમાં એધા શરૂઆતથી હોતી નથી, પાછળથી બને એટલે દ્વિતીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "જલવાહક મૃદુતક પાણીનું વહન _______ દિશામાં કરે છે. (અરીય, ઊભી, નીચે તરફ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરીય (Radial conduction)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુતક હંમેશા સાઈડમાં (અરીય) પાણી પહોંચાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "દ્વિદળી પ્રકાંડમાં એધા વલયની બહારની તરફ બનેલી પેશી _______ છે. (દ્વિતીય જલવાહક, દ્વિતીય અન્નવાહક, મજ્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિતીય અન્નવાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્નવાહક બહાર (Out), જલવાહક અંદર (In).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "દઢોતક તંતુઓના છેડા _______ હોય છે. (ગોળાકાર, અણીદાર, ચપટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અણીદાર (Pointed)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંતુ (Fibre) હંમેશા સોય જેવો અણીદાર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "મૂળરોમ એ અધિસ્તરીય કોષોનું _______ વિસ્તરણ છે. (એકકોષીય, બહુકોષીય, દ્વિતીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકકોષીય (Unicellular)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળરોમ - એક (M-E), ત્વકરોમ - બહુ (T-B).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વાયુરંધ્રના રક્ષક કોષોની અંદરની દીવાલ _______ હોય છે. (પાતળી, જાડી, છિદ્રિષ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાડી (Thick)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્ષક કોષોની અંદરની દીવાલ મજબૂત (જાડી) હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "દ્વિદળી પ્રકાંડમાં ભરણ પેશીનું સૌથી અંદરનું સ્તર એટલે _______ . (બાહ્યક, અંતઃસ્તર, મજ્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતઃસ્તર (Endodermis)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે 'અંત' આવે, એટલે અંતઃસ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "અરીય વાહીપુલો _______ માં જોવા મળે છે. (પ્રકાંડ, મૂળ, પર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળ (Root)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R-R (Radial in Root).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "જલવાહિનીમાં કોષદીવાલ _______ થી બનેલી હોય છે. (સેલ્યુલોઝ, લિગ્નિન, ક્યુટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિગ્નિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહક મૃત અને કઠણ હોવા માટે 'લિગ્નિન' જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "દ્વિદળી મૂળમાં કેન્દ્રમાં મજ્જા _______ હોય છે. (ખૂબ જ વિકસિત, અલ્પ વિકસિત, ગેરહાજર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ્પ વિકસિત (Small or inconspicuous)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી મૂળ = નાની મજ્જા, એકદળી મૂળ = મોટી મજ્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "કિરણ મૃદુતક કોષો દ્વારા _______ નું નિર્માણ થાય છે. (વાહી એધા, આંતરપુલીય એધા, ત્વક્ષા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરપુલીય એધા (Interfascicular cambium)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે વાહીપુલોની 'વચ્ચે' કિરણો હોય, જે આંતરપુલીય એધા બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "કાર્બનિક દ્રવ્યો (ખોરાક) નું વહન _______ પેશી દ્વારા થાય છે. (જલવાહક, અન્નવાહક, વર્ધનશીલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અન્નવાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્ન એટલે ખોરાક, અન્નનું વહન એટલે અન્નવાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "રક્ષક કોષોની આસપાસ આવેલા વિશિષ્ટ અધિસ્તરીય કોષોને _______ કોષો કહે છે. (સહાયક, રક્ષક, વાયુરંધ્રીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહાયક (Subsidiary cells)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે રક્ષકને 'મદદ' (સહાય) કરે તે સહાયક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "સાથીકોષો અને ચાલનીનલિકા એકબીજા સાથે _______ દ્વારા જોડાયેલા હોય છે. (ગર્ત, છિદ્રો, એધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગર્ત (Pit fields)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથીઓ વચ્ચે સંવાદ માટે 'ખાડા' (ગર્ત) જેવા જોડાણો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "અનાવૃત બીજધારીઓમાં સાથીકોષોને બદલે _______ કોષો હોય છે. (આલ્બ્યુમિનયુક્ત, મૃદુતક, દઢોતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલ્બ્યુમિનયુક્ત (Albuminous cells)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાવૃત પાસે 'સાથી' નથી, પણ 'આલ્બ્યુમિન' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "હૃદય કાષ્ઠમાં _______ જેવા પદાર્થોનું જમાવટ થાય છે. (ટેનિન અને રેઝિન, સ્ટાર્ચ, ક્યુટિકલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેનિન અને રેઝિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેનિન (Tannin) = ટફ (Tough) બનાવે.</p></div>"
+    }
+  ]
+}

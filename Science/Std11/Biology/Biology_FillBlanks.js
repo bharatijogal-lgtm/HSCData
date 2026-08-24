@@ -2296,3 +2296,386 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાણીઓમાં રચનાકીય આયોજન",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સમાન ઉત્પત્તિ અને સમાન કાર્ય કરતા કોષોના સમૂહને _____ કહે છે. (પેશી, અંગ, તંત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશી = કોષોનું સંગઠન (Tissue = Team of Cells).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લાદીસમ અધિચ્છદના કોષો દેખાવમાં _____ હોય છે. (ઘન જેવા, ચપટા, સ્તંભાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચપટા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લાદી' એટલે ઘરમાં નીચે લગાવવાની ચપટી ટાઇલ્સ - લાદીસમ = ચપટા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રુધિરવાહિનીઓની દીવાલમાં _____ અધિચ્છદ પેશી જોવા મળે છે. (લાદીસમ, ઘનાકાર, સ્તંભાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાદીસમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી વહેવા માટે 'લીસી' અને 'પાતળી' જગ્યા જોઈએ - લાદીસમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઘનાકાર અધિચ્છદ કોષોનું મુખ્ય કાર્ય _____ અને શોષણ છે. (રક્ષણ, સ્ત્રાવ, સંવેદના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનાકાર = ગ્રંથિમય અને મૂત્રપિંડ નલિકા (સ્ત્રાવ + શોષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સ્તંભાકાર અધિચ્છદના કોષોમાં કોષકેન્દ્ર _____ ભાગમાં આવેલા હોય છે. (ટોચના, મધ્ય, તલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તલ (નીચેના)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તંભ (થાંભલો) મોટો હોય, એટલે પાયામાં (તલ ભાગે) વજન/કેન્દ્ર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પક્ષ્મલ અધિચ્છદ પેશી મુખ્યત્વે _____ માં જોવા મળે છે. (શ્વસનવાહિકાઓ, ત્વચા, રુધિરકેશિકાઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વસનવાહિકાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષ્મ = કચરો બહાર કાઢવા માટેની સાવરણી (ફેફસાં/અંડવાહિનીમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગોબલેટ કોષો એ _____ ગ્રંથિનું ઉદાહરણ છે. (બહુકોષીય, એકકોષીય, સંયુક્ત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકકોષીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોબલેટ = 'એકલો' જ મ્યુકસ કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લાળગ્રંથિ એ _____ ગ્રંથિ છે. (બહુકોષીય, એકકોષીય, અંત:સ્ત્રાવી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહુકોષીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢામાં લાળ ઘણી બધી જોઈએ, એટલે 'બહુ' બધા કોષો કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જે ગ્રંથિઓ નલિકાઓ દ્વારા સ્ત્રાવ કરે છે તેને _____ ગ્રંથિ કહે છે. (અંત:સ્ત્રાવી, બહિઃસ્ત્રાવી, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિઃસ્ત્રાવી (Exocrine)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળી હોય તો બહાર કાઢે (બહિઃસ્ત્રાવી), નળી ન હોય તો અંદર રુધિરમાં (અંત:સ્ત્રાવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંયુક્ત અધિચ્છદનું મુખ્ય કાર્ય _____ સામે રક્ષણ આપવાનું છે. (રાસાયણિક તણાવ, પાચન, શોષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાસાયણિક તણાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયુક્ત (Compound) = ઘણા સ્તર = મજબૂત રક્ષણ (Skin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કોષો વચ્ચે પદાર્થોના ગળતરને અટકાવવા માટે _____ જોડાણ હોય છે. (દ્રઢ જોડાણ, અભિલગ્ન જોડાણ, અંતરિત જોડાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રઢ જોડાણ (Tight Junction)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Tight' એટલે કશું જ લીક ન થાય (Stop Leaking).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાડોશી કોષોને એકબીજા સાથે વળગી રહેવામાં _____ મદદ કરે છે. (દ્રઢ જોડાણ, અભિલગ્ન જોડાણ, અંતરિત જોડાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભિલગ્ન જોડાણ (Adhering Junction)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adhesion એટલે ચીપકાવવું/જોડવું (Cements cells together).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આયનો અને અણુઓના ઝડપી સ્થળાંતર માટે _____ જવાબદાર છે. (અંતરિત જોડાણ, દ્રઢ જોડાણ, સ્તરીય જોડાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતરિત જોડાણ (Gap Junction)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Gap' હોય તો જ અવર-જવર (Communication) થઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શરીરમાં સૌથી વધુ પ્રમાણમાં મળી આવતી પેશી _____ છે. (અધિચ્છદ, સંયોજક, સ્નાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંયોજક પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયોજક = Connective = બધું જોડવા માટે બધે જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રુધિર સિવાયની બધી જ સંયોજક પેશીના કોષો _____ નામના પ્રોટીનના તંતુઓનો સ્ત્રાવ કરે છે. (હિમોગ્લોબિન, કોલેજન, કેરેટિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોલેજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોલેજન = મજબૂત દોરડા (Fiber) જે પેશીને પકડી રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ત્વચાની નીચે આવેલી શિથિલ સંયોજક પેશી _____ છે. (તંતુઘટક પેશી, અસ્થિ, કાસ્થિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંતુઘટક પેશી (Areolar Tissue)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્વચાની નીચેનું 'પેકિંગ' મટીરીયલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મેદપૂર્ણ પેશીનું મુખ્ય કાર્ય _____ નો સંગ્રહ કરવાનું છે. (પ્રોટીન, ચરબી, શર્કરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચરબી (Lipids/Fats)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેદ = ચરબી = Adipose.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્નાયુબંધ (Tendon) એ _____ ને હાડકા સાથે જોડે છે. (હાડકા, સ્નાયુ, ત્વચા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્નાયુ (Muscle)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-T-B (Muscle - Tendon - Bone).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અસ્થિબંધ (Ligament) એ _____ ને બીજા હાડકા સાથે જોડે છે. (સ્નાયુ, હાડકા, ધમની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાડકા (Bone)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B-L-B (Bone - Ligament - Bone).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાસ્થિના કોષોને _____ કહેવામાં આવે છે. (ઓસ્ટિયોસાઇટ્સ, કોન્ડ્રોસાઇટ્સ, લિમ્ફોસાઇટ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોન્ડ્રોસાઇટ્સ (Chondrocytes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C for Cartilage = C for Chondrocytes.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પુખ્ત પ્રાણીના હાડકાના કોષોને _____ કહે છે. (કોન્ડ્રોસાઇટ્સ, ઓસ્ટિયોસાઇટ્સ, ફાઇબ્રોબ્લાસ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓસ્ટિયોસાઇટ્સ (Osteocytes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Osteo = Bone (હાડકું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "હાડકાનું મુખ્ય દ્રવ્ય _____ ક્ષારોથી ભરપૂર હોય છે. (સોડિયમ, કેલ્શિયમ, પોટેશિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેલ્શિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજબૂત હાડકા માટે કેલ્શિયમ (Ca) અનિવાર્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રુધિર એ _____ સંયોજક પેશી છે. (શિથિલ, સઘન, પ્રવાહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી વહે છે, એટલે તે પ્રવાહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કંકાલ સ્નાયુઓ _____ સ્નાયુઓ તરીકે પણ ઓળખાય છે. (અૈચ્છિક, અનૈચ્છિક, હૃદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અૈચ્છિક (Voluntary)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંકાલ (હાડકા) સાથે જોડાયેલા સ્નાયુ આપણી મરજી મુજબ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લીસા સ્નાયુઓ _____ અંગોની દીવાલમાં જોવા મળે છે. (બાહ્ય, આંતરિક, હૃદય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરિક (Internal organs like Stomach)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરના અંગો (જઠર, આંતરડું) લપસણા એટલે કે લીસા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "હૃદ સ્નાયુઓ ક્યારેય _____ નથી. (સંકોચાતા, શિથિલ થતા, થાકતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થાકતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય થાકી જાય તો જીવન પૂરું, એટલે તે કાયમ કાર્યરત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ચેતા પેશીના મુખ્ય એકમને _____ કહે છે. (નેફ્રોન, ચેતાકોષ, શ્વેતકણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેતાકોષ (Neuron)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાતંત્રનો પાયો = ચેતાકોષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ચેતાતંત્રના અડધાથી વધુ કદની રચના _____ કોષો દ્વારા થાય છે. (ચેતાકોષ, ચેતાધાર કોષો, રુધિરકોષો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેતાધાર કોષો (Neuroglial cells)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાધાર = ચેતાને આધાર આપનાર 'સપોર્ટિંગ ટીમ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દેડકાનું વૈજ્ઞાનિક નામ _____ છે. (રાના ટાઇગ્રીના, પેરિપ્લેનેટા અમેરિકાના, લેમ્બિટો મોરીટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાના ટાઇગ્રીના (Rana tigrina)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાના (Rana) = દેડકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દેડકો એ _____ પ્રાણી છે. (ઉષ્ણરુધિરવાળું, શીતરુધિરવાળું, પક્ષીવર્ગનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શીતરુધિરવાળું (Poikilothermic)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડા લોહીવાળા (દેડકા) તાપમાન બદલાતા છુપાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "દેડકા દ્વારા રંગ બદલવાની ક્ષમતાને _____ કહે છે. (નિમજ્જન, મિમિક્રી, શીતનિદ્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિમિક્રી (Mimicry)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિમિક્રી = નકલ કરવી (આજુબાજુના પર્યાવરણ જેવો રંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "દેડકો શિયાળામાં રક્ષણ મેળવવા જમીનમાં દટાઈ જાય છે, તેને _____ કહે છે. (ગ્રીષ્મનિદ્રા, શીતનિદ્રા, મિશ્રનિદ્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શીતનિદ્રા (Hibernation)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીત = ઠંડી = શિયાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઉનાળામાં દેડકાની નિષ્ક્રિયતાને _____ કહેવાય છે. (શીતનિદ્રા, ગ્રીષ્મનિદ્રા, સુષુપ્તતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રીષ્મનિદ્રા (Aestivation)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રીષ્મ = ગરમી = ઉનાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "દેડકાની ત્વચા હંમેશા _____ રહે છે. (સૂકી, ભીની, ખરબચડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીની (શ્લેષ્મી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ્યુકસ (શ્લેષ્મ) ના કારણે ત્વચા લપસણી અને ભીની રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "દેડકાનું શરીર માથું અને _____ માં વહેંચાયેલું હોય છે. (પૂંછડી, ગરદન, ધડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધડ (Trunk)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકામાં ગરદન અને પૂંછડી હોતી નથી (No Neck, No Tail).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "દેડકામાં આંખોની પાછળ આવેલું _____ અવાજ ગ્રહણ કરવાનું કામ કરે છે. (નાસિકાછિદ્ર, કર્ણપટલ, મુખછિદ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કર્ણપટલ (Tympanum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકાને બહાર કાન (પિન્ના) નથી, ફક્ત કર્ણપટલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "નર દેડકાને માદા દેડકાથી અલગ ઓળખવા માટે _____ હોય છે. (વધારે મોટી આંખો, પૂંછડી, સ્વરકોથળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વરકોથળી (Vocal Sacs)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર દેડકા 'ડ્રાંઉ-ડ્રાંઉ' કરી શકે છે (સ્વરકોથળીથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નર દેડકાના અગ્રઉપાંગની પ્રથમ આંગળી પર _____ આવેલ હોય છે. (નખ, સંવનન ગાદી, પક્ષ્મ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંવનન ગાદી (Nuptial Pad)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પકડ મજબૂત બનાવવા ગાદી હોય (નર દેડકામાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "દેડકાની જીભ _____ હોય છે. (એકખંડીય, દ્વિખંડીય, ત્રિખંડીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિખંડીય (Bifid)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિકાર પકડવા જીભ છેડેથી બે ભાગમાં વહેંચાયેલી (Bifid) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "દેડકાના જઠરમાં ખોરાકનું પાચન _____ દ્વારા થાય છે. (HCl, લાળરસ, પિત્તરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> HCl અને જઠરરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસની જેમ દેડકામાં પણ એસિડ (HCl) પાચન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "જઠરમાંથી અર્ધપાચિત ખોરાક જે નાના આંતરડામાં આવે છે તેને _____ કહે છે. (આમપાક, પિત્તરસ, કાઈલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આમપાક (Chyme)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાચન થયેલો 'પાક' એટલે આમપાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "દેડકામાં પિત્તરસનો સંગ્રહ _____ માં થાય છે. (યકૃત, પિત્તાશય, સ્વાદુપિંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિત્તાશય (Gall bladder)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્તનું 'આશય' એટલે પિત્તાશય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "આંતરડામાં ખોરાકનું શોષણ _____ દ્વારા થાય છે. (પક્ષ્મો, રસાંકુરો, સ્નાયુબંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસાંકુરો (Villi and Microvilli)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી વધારવા માટે 'રૂંવાટી' જેવા રસાંકુરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "દેડકો જ્યારે પાણીમાં હોય ત્યારે _____ દ્વારા શ્વસન કરે છે. (ફેફસાં, ત્વચા, મુખગુહા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્વચા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં ત્વચા (Skin) કામ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ત્વચા દ્વારા થતા શ્વસનને _____ શ્વસન કહે છે. (ફુપ્ફુસીય, ત્વચીય, મુખગુહીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્વચીય (Cutaneous Respiration)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્વચા = ત્વચીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ફેફસાં દ્વારા થતા શ્વસનને _____ શ્વસન કહે છે. (ત્વચીય, ફુપ્ફુસીય, જલીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફુપ્ફુસીય (Pulmonary Respiration)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુપ્ફુસ = ફેફસાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "દેડકાનું હૃદય _____ ખંડોનું બનેલું હોય છે. (બે, ત્રણ, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણ (2 કર્ણક + 1 ક્ષેપક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભયજીવી (Amphibia) = 3 ખંડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "દેડકામાં રુધિરાભિસરણ તંત્ર _____ પ્રકારનું હોય છે. (ખુલ્લા, બંધ, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ (Closed)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠવંશી (Vertebrates) માં હંમેશા 'બંધ' તંત્ર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "યકૃત અને આંતરડા વચ્ચેના વિશિષ્ટ શિરા જોડાણને _____ કહે છે. (મૂત્રપિંડ પોર્ટલ તંત્ર, યકૃત પોર્ટલ તંત્ર, હૃદય પોર્ટલ તંત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યકૃત પોર્ટલ તંત્ર (Hepatic Portal System)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યકૃત (Hepatic) માં જતી નળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "દેડકાના રુધિરરસમાં _____ રક્તકણો આવેલા હોય છે. (કોષકેન્દ્રયુક્ત, કોષકેન્દ્રવિહીન, બહુકેન્દ્રીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષકેન્દ્રયુક્ત (Nucleated)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસ્તન સિવાયના પૃષ્ઠવંશીમાં RBC કોષકેન્દ્રયુક્ત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "દેડકાનું મુખ્ય ઉત્સર્જન દ્રવ્ય _____ છે. (એમોનિયા, યુરિયા, યુરિક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો યુરિયોટેલિક (Ureotelic) પ્રાણી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "દેડકામાં મુખ્ય ઉત્સર્જન અંગ _____ છે. (ત્વચા, મૂત્રપિંડ, ફેફસાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રપિંડ (Kidneys)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠવંશીઓનું ફિલ્ટર એટલે મૂત્રપિંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "નર દેડકામાં શુક્રકોષો _____ દ્વારા બહાર નીકળે છે. (મૂત્રમાર્ગ, અવસારણી, ત્વચા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસારણી (Cloaca)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવસારણી (Cloaca) = કોમન એક્ઝિટ (ઉત્સર્જન + પ્રજનન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "માદા દેડકામાં અંડવાહિનીઓ _____ માં ખુલે છે. (મૂત્રપિંડ, અવસારણી, મુખગુહા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસારણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ 'અવસારણી' માં ભેગું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "દેડકાનું મગજ ખોપરીની અંદર _____ માં સુરક્ષિત હોય છે. (મસ્તિષ્ક પેટી, ચેતાકાંડ, કરોડસ્તંભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મસ્તિષ્ક પેટી (Brain box/Cranium)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજ એક બોક્સમાં હોય, તેને મસ્તિષ્ક પેટી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "દેડકામાં મગજમાંથી _____ જોડ ચેતાઓ નીકળે છે. (10, 12, 31)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 જોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Frog = 10 Pairs (માણસમાં 12 જોડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "દેડકાના મધ્યમગજમાં _____ આવેલા હોય છે. (દ્રષ્ટિપિંડ, ઘ્રાણપિંડ, લંબમજ્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રષ્ટિપિંડ (Optic lobes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય (Middle) = જોવાનું કામ (Optic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "દેડકામાં ફલન _____ માધ્યમમાં થાય છે. (શરીરની અંદર, પાણીમાં, જમીન પર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીમાં (External fertilization)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકા પાણીમાં જ ઈંડા મૂકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "દેડકાના લાર્વાને _____ કહેવાય છે. (કેટરપિલર, ટેડપોલ, મેગટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેડપોલ (Tadpole)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો દેડકો = ટેડપોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ટેડપોલનું દેડકામાં રૂપાંતર થવાની પ્રક્રિયાને _____ કહે છે. (વિકૃતિ, કાયાંતરણ, પ્રજનન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયાંતરણ (Metamorphosis)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયા (શરીર) નું અંતર (બદલાવ) એટલે કાયાંતરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "નર દેડકામાં મૂત્રપિંડની ઉપર _____ પીળાશ પડતી રચના આવેલી હોય છે. (શુક્રપિંડ, અંડપિંડ, સ્વાદુપિંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શુક્રપિંડ (Testes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્રપિંડ પર ચીપકેલા પીળા શુક્રપિંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "બિડરની નલિકા (Bidder's canal) _____ ના ઉત્સર્જન તંત્રમાં જોવા મળે છે. (નર દેડકા, માદા દેડકા, અળસિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર દેડકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિડર (Bidder) = નર દેડકામાં શુક્રકોષોના વહન માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "દેડકાના હૃદયમાં જમણા કર્ણકમાં ખુલતી ત્રિકોણાકાર કોથળીને _____ કહે છે. (શિરાકોટર, ધમનીશંકુ, કર્ણકસેતુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિરાકોટર (Sinus venosus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિરાઓ જ્યાં ભેગી થાય તે 'શિરા-કોટર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "દેડકો ખેડૂત માટે _____ છે. (શત્રુ, મિત્ર, પરોપજીવી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીટકો ખાય એટલે ખેડૂતનો ભાઈ/મિત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "પેશીમાં આવેલા આંતરકોષીય દ્રવ્યને _____ કહે છે. (કોષરસ, આધારક, રુધિરરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધારક (Matrix)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશીનો પાયો/જમીન એટલે આધારક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "કઈ પેશીના કોષો સંકોચનશીલતા ધરાવે છે? (અધિચ્છદ, સ્નાયુ, સંયોજક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્નાયુ પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકોચન (Contract) = સ્નાયુ (Muscle).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "દેડકામાં લિંફ (લસિકા) માં _____ નો અભાવ હોય છે. (શ્વેતકણો, રક્તકણો અને કેટલાક પ્રોટીન, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રક્તકણો અને કેટલાક પ્રોટીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા એટલે 'રંગવિહીન' લોહી (No RBC).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "દેડકાના પશ્ચમગજમાં _____ અને લંબમજ્જા આવેલા હોય છે. (બૃહદમસ્તિષ્ક, અનુમસ્તિષ્ક, થેલેમસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુમસ્તિષ્ક (Cerebellum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચ (પાછળ) = અનુ (નાનું) મસ્તિષ્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "દેડકાના ઉત્સર્જન તંત્ર અને પ્રજનન તંત્રના સામાન્ય માર્ગને _____ કહે છે. (મૂત્રજનન માર્ગ, પાચન માર્ગ, શ્વસન માર્ગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રજનન માર્ગ (Urogenital duct)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્ર + જનન = મૂત્રજનન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "મેદપૂર્ણ પેશી કઈ પેશીનો પ્રકાર છે? (સઘન સંયોજક, શિથિલ સંયોજક, વિશિષ્ટ સંયોજક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિથિલ સંયોજક પેશી (Loose Connective Tissue)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિથિલ = લૂઝ (Loose) - ચરબી લૂઝ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "અસ્થિના પોલાણમાં આવેલ પેશી જે રુધિરકોષો બનાવે છે તેને _____ કહે છે. (અસ્થિમજ્જા, રુધિરરસ, લસિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસ્થિમજ્જા (Bone marrow)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાડકાની અંદરની 'ફેક્ટરી' જ્યાં લોહી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "દેડકાના હૃદયની નીચેની બાજુએ આવેલી શંકુ આકારની રચના _____ છે. (ધમની શંકુ, શિરા કોટર, ક્ષેપક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધમની શંકુ (Conus arteriosus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમની (Artery) ને લોહી મોકલતો શંકુ (Cone).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "દેડકામાં લંબમજ્જા મગજમાંથી નીકળી _____ દ્વારા કરોડરજ્જુમાં લંબાય છે. (મહારંધ્ર, શ્રવણ છિદ્ર, નાસિકા છિદ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારંધ્ર (Foramen magnum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું કાણું = મહારંધ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "દેડકાની ત્વચામાં _____ ગ્રંથિઓ આવેલી હોય છે જે તેને લપસણી બનાવે છે. (શ્લેષ્મ, તેલ, પ્રસ્વેદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્લેષ્મ ગ્રંથિઓ (Mucus glands)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાળ જેવું ચીકણું એટલે શ્લેષ્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "માદા દેડકો એક સમયે અંદાજે _____ ઈંડા મૂકે છે. (500-1000, 2500-3000, 10000-15000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2500-3000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકા ઘણા બધા ઈંડા મૂકે (હજારોમાં).</p></div>"
+    }
+  ]
+}

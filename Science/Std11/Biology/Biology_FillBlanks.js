@@ -5653,3 +5653,371 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "ઉત્સર્ગ પેદાશો અને તેનો નિકાલ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રાણીઓ દ્વારા નિકાલ કરવામાં આવતા મુખ્ય નાઇટ્રોજનયુક્ત ઉત્સર્ગ પદાર્થોમાં ____ સૌથી વધુ ઝેરી છે. (યુરિયા, એમોનિયા, યુરિક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમોનિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયા (A) સૌથી વધુ (High) ઝેરી છે કારણ કે તે સૌથી પહેલા બને છે. A = Awesome Toxicity!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એમોનિયાના નિકાલ માટે ____ પાણીની જરૂર પડે છે. (ખૂબ વધારે, મધ્યમ, ખૂબ ઓછી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ઝેર = વધુ પાણી જોઈએ ધોવા માટે! (More Toxic = More H2O)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "____ પદાર્થ સૌથી ઓછો ઝેરી છે અને તે પાણીના ન્યૂનતમ વ્યય સાથે દૂર કરી શકાય છે. (એમોનિયા, યુરિયા, યુરિક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Uric Acid = U (Under) Low toxicity. પક્ષીઓ આનો નિકાલ કરે જેથી વજન ઓછું રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એમોનિયાના ત્યાગની પ્રક્રિયાને ____ કહેવામાં આવે છે. (એમોનોટેલિઝમ, યુરિયોટેલિઝમ, યુરિકોટેલિઝમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમોનોટેલિઝમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ કામ છે - એમોનિયા = એમોનોટેલિઝમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઘણી અસ્થિમત્સ્યો અને જલજ ઉભયજીવીઓ ____ પ્રાણીઓ છે. (યુરિયોટેલિક, યુરિકોટેલિક, એમોનોટેલિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમોનોટેલિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પાણીમાં જ રહે છે, તેને પાણીની તંગી નથી, એટલે એમોનિયા કાઢશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સસ્તન પ્રાણીઓ અને ઘણા ભૂચર ઉભયજીવીઓ મુખ્યત્વે ____ ઉત્સર્જિત કરે છે. (એમોનિયા, યુરિયા, યુરિક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે (માનવ/સસ્તન) 'યુ' (You) થી 'યુરિયા' યાદ રાખીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "યકૃતમાં એમોનિયાનું રૂપાંતર ____ માં થાય છે. (યુરિક એસિડ, યુરિયા, ગ્લુકોઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Liver (યકૃત) એ યુરિયા બનાવવાની ફેક્ટરી છે. (Ornithine Cycle)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સરીસૃપો, પક્ષીઓ અને જમીન પરની ગોકળગાય ____ પ્રાણીઓ છે. (એમોનોટેલિક, યુરિયોટેલિક, યુરિકોટેલિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરિકોટેલિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓ પેસ્ટ (Past) જેવો યુરિક એસિડ ત્યાગે છે. Uric-O-telic!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્લેટીહેલ્મિન્થિસ (ચપટા કૃમિ) માં ઉત્સર્ગ અંગ તરીકે ____ જોવા મળે છે. (નેફ્રિડિયા, જ્યોતકોષો, માલ્પિધિયન નલિકાઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યોતકોષો (Flame cells)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેટ (Plate) માં જ્યોત (Flame) પ્રગટાવો. Platyhelminthes = Flame cells.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અળસિયામાં ઉત્સર્ગ અંગ તરીકે ____ આવેલા હોય છે. (જ્યોતકોષો, નેફ્રિડિયા, એન્ટેનલ ગ્રંથિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેફ્રિડિયા (ઉત્સર્ગિકાઓ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયું નળી (Nephridia) જેવું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વંદા જેવા કીટકોમાં ઉત્સર્ગ અંગ તરીકે ____ જોવા મળે છે. (નેફ્રિડિયા, માલ્પિધિયન નલિકાઓ, હરિત ગ્રંથિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માલ્પિધિયન નલિકાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંદો (Cockroach) 'માલ' (Malpighian) ખાઈ ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઝીંગા (Prawns) જેવા સંધિપાદોમાં ____ દ્વારા ઉત્સર્જન થાય છે. (માલ્પિધિયન નલિકાઓ, હરિત ગ્રંથિ, જ્યોતકોષો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિત ગ્રંથિ (Antennal glands)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રીન (Green) ઝીંગા! Green Glands = Prawns.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મનુષ્યમાં મૂત્રપિંડ ____ કશેરુકાની વચ્ચે આવેલા હોય છે. (T10-L2, T12-L3, T5-T12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> T12-L3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12-3 ની જોડી! (12 Thoracic to 3 Lumbar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મૂત્રપિંડની અંદરની અંતર્મુખ સપાટીના મધ્યમાં રહેલા ખાંચને ____ કહે છે. (કેલિક્સ, હિલમ, પેલ્વિસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિલમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિલમ (Hilum) = Hello! (પ્રવેશ દ્વાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હિલમની અંદરની તરફ વિસ્તરેલ ગળણી આકારના ભાગને ____ કહે છે. (બાહ્યક, મજ્જક, મૂત્રપિંડ નિવાપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રપિંડ નિવાપ (Pelvis)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલ્વિસ = ગળણી (Funnel). જે બધું ભેગું કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મૂત્રપિંડના બહારના ભાગને ____ અને અંદરના ભાગને ____ કહે છે. (મજ્જક-બાહ્યક, બાહ્યક-મજ્જક, નિવાપ-બાહ્યક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્યક-મજ્જક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ - થી બહાર (Cortex), મ - થી મધ્ય/અંદર (Medulla).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાહ્યકનો ભાગ જે મજ્જક પિરામિડોની વચ્ચે લંબાયેલ હોય છે તેને ____ કહે છે. (કેલિક્સ, બર્ટિનીના સ્તંભો, નિવાપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બર્ટિનીના સ્તંભો (Columns of Bertini)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્ટિનીના પિલર (Columns) પિરામિડની વચ્ચે ટેકો આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દરેક મૂત્રપિંડ આશરે ____ જેટલા જટિલ નલિકામય ઉત્સર્ગ એકમો (નેફ્રોન) ધરાવે છે. (10 લાખ, 1 લાખ, 50 લાખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 લાખ (1 Million)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક મૂત્રપિંડ = 10 લાખ (Millionaire Kidneys!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રુધિરકેશિકા ગુચ્છ અને બાઉમેનની કોથળીને સંયુક્ત રીતે ____ કહે છે. (માલ્પિધિયન કાય, પ્રોક્સિમલ ટ્યુબ્યુલ, હેનલેનો પાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માલ્પિધિયન કાય (Malpighian Body)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગૂચ્છ + કોથળી = 'કાય' (Body).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નજીકની ગૂંચળામય નલિકાને અંગ્રેજીમાં ટૂંકમાં ____ કહે છે. (DCT, PCT, LH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PCT (Proximal Convoluted Tubule)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = Proximal = પાસેની (નજીકની).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "હેનલેનો પાશ (Henle’s loop) ____ આકારનો હોય છે. (V, U, L)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> U</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Loop always looks like 'U' turn.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મોટાભાગના ઉત્સર્ગ એકમોમાં હેનલેનો પાશ ખૂબ ટૂંકો હોય છે, તેને ____ કહે છે. (જક્ષ્ટા મેડ્યુલરી, કોર્ટિકલ, નેફ્રિડિયલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટિકલ નેફ્રોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્યકમાં (Cortex) જ રહે એટલે કોર્ટિકલ. (Cortex = Common/Short Loop).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "હેનલેના પાશને સમાંતર ચાલતી 'U' આકારની રુધિરવાહિનીને ____ કહે છે. (વાસારેકટા, ધમની, શિરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાસારેકટા (Vasa recta)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Vessel (વાહિની) + Recta (સીધી) = Vasa recta.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મૂત્ર નિર્માણનો પ્રથમ તબક્કો ____ છે. (પુનઃશોષણ, સ્ત્રાવ, રુધિરકેશિકાગુચ્છ ગાળણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિરકેશિકાગુચ્છ ગાળણ (Glomerular Filtration)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા કચરો ગાળવો પડે, પછી સાફ-સફાઈ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તંદુરસ્ત વ્યક્તિમાં GFR આશરે ____ મિલી/મિનિટ હોય છે. (100, 125, 180)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 125</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 125 ml/min = 180 Liters/day. (એક સવાસો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બાઉમેનની કોથળીના અધિચ્છદ કોષોને ____ કહેવામાં આવે છે. (પોડોસાઇટ્સ, સ્તંભાકાર, પક્ષ્મલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોડોસાઇટ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Podo (પગ જેવા પ્રવર્ધો) ધરાવતા Cells.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "GFR ના નિયમન માટે મૂત્રપિંડમાં ____ ક્રિયાવિધિ કાર્યરત છે. (JGA, ADH, ANF)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> JGA (Juxta Glomerular Apparatus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: JGA એ મૂત્રપિંડનું સેન્સર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગાળણના આશરે ____ ટકા જેટલું પ્રવાહી નલિકાઓ દ્વારા પુનઃશોષણ પામે છે. (50, 75, 99)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 99%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 180 લીટર ગળાય પણ માત્ર 1.5 લીટર બહાર નીકળે, મતલબ 99% પાછું ખેંચાઈ ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ગ્લુકોઝ અને એમિનો એસિડનું પુનઃશોષણ ____ વહન દ્વારા થાય છે. (નિષ્ક્રિય, સક્રિય, પ્રસરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સક્રિય (Active)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામની વસ્તુઓ (ગ્લુકોઝ) ખેંચવા માટે શક્તિ (ATP) વાપરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નાઇટ્રોજનયુક્ત કચરાનું પુનઃશોષણ ____ વહન દ્વારા થાય છે. (નિષ્ક્રિય, સક્રિય, પંપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિષ્ક્રિય (Passive)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચરા માટે કોણ શક્તિ બગાડે? તે જાતે પ્રસરણ પામે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "____ માં ઘનાકાર બ્રશ બોર્ડર અધિચ્છદ જોવા મળે છે જે શોષણ સપાટી વધારે છે. (DCT, PCT, હેનલેનો પાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PCT</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCT = P (Power) of absorption with brush border!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "હેનલેના પાશની ____ બાજુ પાણી માટે અપ્રવેશ્ય છે. (આરોહી, અવરોહી, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આરોહી (Ascending limb)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર ચડતી (Ascending) વખતે 'પાણી' ના પીવાય! (H2O Impermeable).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "____ પાણી માટે પ્રવેશ્ય પરંતુ ઇલેક્ટ્રોલાઇટ્સ માટે લગભગ અપ્રવેશ્ય છે. (આરોહી ભુજા, અવરોહી ભુજા, DCT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવરોહી ભુજા (Descending limb)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે ઉતરો (Down/Descending) એટલે 'પાણી' (H2O) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ક્ષારનું સક્રિય કે નિષ્ક્રિય વહન હેનલેના પાશની ____ ભુજામાં થાય છે. (આરોહી, અવરોહી, સંગ્રહણ નલિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આરોહી (Ascending)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરોહીમાં ક્ષાર (NaCl) બહાર જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પાણીનું પુનઃશોષણ 'કન્ડિશનલ' (શરતી) રીતે ____ માં થાય છે. (PCT, DCT, બાઉમેનની કોથળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> DCT</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DCT = D (Depends) on hormones like ADH.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મૂત્રને સાંદ્ર બનાવવાની પદ્ધતિને ____ પ્રવાહ પદ્ધતિ કહે છે. (સિંગલ, કાઉન્ટર કરંટ, ડબલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાઉન્ટર કરંટ (Counter Current)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ દિશામાં વહન = કાઉન્ટર કરંટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બાહ્યક પ્રદેશમાં આસૃતિ સાંદ્રતા ____ mOsmol/L હોય છે. (300, 600, 1200)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 300</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર (Cortex) ઓછું (300), નીચે (Medulla) વધુ (1200).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મજ્જકના આંતરિક ભાગમાં સાંદ્રતા વધીને ____ mOsmol/L સુધી પહોંચે છે. (600, 900, 1200)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે જાવ એટલે ગાઢું (Concentrated) થતું જાય, 300 x 4 = 1200.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "મજ્જકની આસૃતિ સાંદ્રતા વધારવા માટે મુખ્યત્વે NaCl અને ____ જવાબદાર છે. (ગ્લુકોઝ, યુરિયા, પોટેશિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું (NaCl) અને કચરો (Urea) સાંદ્રતા વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મનુષ્યનું મૂત્રપિંડ શરૂઆતના ગાળણ કરતા ____ ગણું વધુ સાંદ્ર મૂત્ર ઉત્પન્ન કરી શકે છે. (2, 4, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 300 થી 1200 એટલે 4 ગણું (4 times).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "શરીરમાંથી વધુ પડતા પ્રવાહીના વ્યયથી ____ ઉત્તેજાય છે જે ADH મુક્ત કરે છે. (આસૃતિ ગ્રાહકો, રાસાયણિક ગ્રાહકો, દબાણ ગ્રાહકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આસૃતિ ગ્રાહકો (Osmoreceptors)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Osmolarity બદલાય એટલે Osmo-receptors જાગી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ADH ને ____ તરીકે પણ ઓળખવામાં આવે છે. (રેનિન, વેસોપ્રેસિન, ઓક્સિટોસિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેસોપ્રેસિન (Vasopressin)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Vasopressin = Vessel (વાહિની) + Press (દબાવવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જ્યારે રુધિરકેશિકાગુચ્છ રુધિર દબાણ ઘટે છે, ત્યારે JG કોષો ____ મુક્ત કરે છે. (રેનિન, એન્જિયોટેન્સિન, આલ્ડોસ્ટેરોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેનિન (Renin)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'R' for Renin, 'R' for Raise BP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "એન્જિયોટેન્સિન II ____ ગ્રંથિને આલ્ડોસ્ટેરોન મુક્ત કરવા ઉત્તેજે છે. (થાઇરોઇડ, એડ્રિનલ બાહ્યક, સ્વાદુપિંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એડ્રિનલ બાહ્યક (Adrenal Cortex)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ્રિનલ બાહ્યક એ આલ્ડોસ્ટેરોનનું ઘર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "હૃદયના કર્ણકો દ્વારા ____ મુક્ત થાય છે જે રુધિરવાહિનીઓને વિસ્તૃત કરે છે. (ADH, ANF, રેનિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ANF (Atrial Natriuretic Factor)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ANF એ RAAS નો વિરોધી (Check point) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "મૂત્રાશય મૂત્રથી ભરાય ત્યારે તેના દીવાલ પરના ____ ખેંચાય છે. (ગ્રાહકો, રજકણો, સ્નાયુઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેંચાણ ગ્રાહકો (Stretch receptors)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુગ્ગો ભરાય એટલે તે Stretch થાય, તેમ મૂત્રાશય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "મૂત્ર ત્યાગ કરવાની ક્રિયાને ____ કહે છે. (ગાળણ, સ્ત્રાવ, મૂત્રવિસર્જન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રવિસર્જન (Micturition)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mic-turition = મૂત્ર બહાર કાઢવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એક પુખ્ત મનુષ્ય દરરોજ સરેરાશ ____ લીટર મૂત્રનો ત્યાગ કરે છે. (1-1.5, 2-2.5, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 થી 1.5 લીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક પાણીની બોટલ જેટલું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "મૂત્રનો આછો પીળો રંગ ____ નામના રંજકદ્રવ્યને કારણે હોય છે. (બિલીરૂબિન, યુરોક્રોમ, હિમોગ્લોબિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરોક્રોમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Uro (Urine) + Chrome (Color) = Urochrome.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "મૂત્ર દ્વારા દરરોજ સરેરાશ ____ ગ્રામ યુરિયાનો ત્યાગ થાય છે. (10-15, 25-30, 50-60)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25-30 ગ્રામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25-30 = અડધી છાશની થેલી જેટલું વજન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "મૂત્રમાં ગ્લુકોઝની હાજરીને ____ કહેવામાં આવે છે. (કીટોન્યુરિયા, ગ્લાયકોસુરિયા, યુરેમિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોસુરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Glyco (Glucose) + uria (Urine) = Glycosuria.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "મૂત્રમાં કીટોન બોડીઝની હાજરીને ____ કહે છે. (ગ્લાયકોસુરિયા, કીટોન્યુરિયા, હેમેટુરિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કીટોન્યુરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ketone + uria = Ketonuria.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ફેફસાં દરરોજ મોટી માત્રામાં ____ (આશરે 18 L) અને પાણી દૂર કરે છે. (O2, CO2, N2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાંનું મુખ્ય કામ જ CO2 બહાર કાઢવાનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "પરસેવાનો મુખ્ય ઉદ્દેશ્ય શરીરની સપાટીને ____ રાખવાનો છે. (ગરમ, ઠંડી, ચીકણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડી (Cooling effect)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sweat = AC for Body.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "____ ગ્રંથિઓ સીબમ દ્વારા સ્ટીરોલ્સ અને હાઇડ્રોકાર્બન જેવા પદાર્થોનો નિકાલ કરે છે. (સ્વેદ, તેલ, લાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેલ ગ્રંથિઓ (Sebaceous glands)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ = ચીકણું = સીબમ (Sebum).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "રુધિરમાં યુરિયાના જમા થવાની સ્થિતિને ____ કહે છે. (યુરેમિયા, કિડની ફેલ્યોર, ગ્લાયકોસુરિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરેમિયા (Uremia)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Urea + emia (Blood) = Uremia.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "યુરેમિયાના દર્દીઓમાં યુરિયાને ____ પદ્ધતિ દ્વારા દૂર કરી શકાય છે. (હિમોડાયાલિસિસ, RAAS, ANF)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિમોડાયાલિસિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃત્રિમ મૂત્રપિંડ એટલે હિમોડાયાલિસિસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ડાયાલિસિસ એકમમાં ____ ની બનેલી ગૂંચળામય નળી હોય છે. (પ્લાસ્ટિક, સેલોફેન, રબર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેલોફેન (Cellophane)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલોફેન એ અર્ધપ્રવેશ્ય પટલ તરીકે કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ડાયાલિસિસ દરમિયાન રુધિર ગંઠાઈ ન જાય તે માટે તેમાં ____ ઉમેરવામાં આવે છે. (હિમોગ્લોબિન, હિપેરીન, એન્ટી-હિપેરીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિપેરીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heparin = 'H'elp 'P'revent clotting.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "મૂત્રપિંડમાં પથરી (Renal Calculi) મુખ્યત્વે ____ ના ક્ષારોની બનેલી હોય છે. (સોડિયમ ક્લોરાઈડ, ઓક્ઝેલેટ, કેલ્શિયમ કાર્બોનેટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્ઝેલેટ (Oxalate)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથરી = કેલ્શિયમ ઓક્ઝેલેટના સ્ફટિકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "મૂત્રપિંડના રુધિરકેશિકાગુચ્છમાં આવતા સોજાને ____ કહે છે. (યુરેમિયા, ગ્લોમેરુલોનેફ્રાઈટિસ, પથરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લોમેરુલોનેફ્રાઈટિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'itis' = સોજો (Inflammation). Glomerulus + itis.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "મૂત્રપિંડ નિષ્ફળતાની છેલ્લી સારવાર ____ છે. (ડાયાલિસિસ, મૂત્રપિંડ પ્રત્યારોપણ, દવાઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રપિંડ પ્રત્યારોપણ (Kidney Transplantation)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બધું ફેલ થાય, ત્યારે બદલવું (Replace) જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "એમોનિયા પાણીમાં ____ છે. (અદ્રાવ્ય, અત્યંત દ્રાવ્ય, અલ્પ દ્રાવ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અત્યંત દ્રાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયા પાણીમાં જલ્દી ઓગળી જાય (Easy soluble).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "રુધિરકેશિકાગુચ્છમાં રુધિર લાવતી ધમનીને ____ કહે છે. (અંતરવાહી ધમનિકા, બહિરવાહી ધમનિકા, રેનલ વેઈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતરવાહી ધમનિકા (Afferent arteriole)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = Arriving (આવવું) = અંતરવાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "રુધિરકેશિકાગુચ્છમાંથી રુધિર લઈ જતી ધમનીને ____ કહે છે. (અંતરવાહી, બહિરવાહી, શિરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિરવાહી ધમનિકા (Efferent arteriole)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = Exit (બહાર જવું) = બહિરવાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "જક્ષ્ટા મેડ્યુલરી નેફ્રોનમાં હેનલેનો પાશ ____ હોય છે. (ટૂંકો, લાંબો, ગેરહાજર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાંબો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેડ્યુલા (મજ્જક) માં ઊંડે સુધી જાય એટલે તે લાંબો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "મૂત્રપિંડ દ્વારા ____ આયનોના સ્ત્રાવથી રુધિરની pH જળવાય છે. (H+ અને K+, Na+ અને Cl-, ગ્લુકોઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H+ અને K+</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H+ (એસિડિક) બહાર કાઢો તો જ pH સચવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વાસારેકટા ____ નેફ્રોનમાં અત્યંત અલ્પવિકસિત કે ગેરહાજર હોય છે. (જક્ષ્ટા મેડ્યુલરી, કોર્ટિકલ, લિમ્ફેટિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટિકલ નેફ્રોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટૂંકો પાશ = વાસારેકટાની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "કયા ભાગમાં સૌથી વધુ (70-80%) ઇલેક્ટ્રોલાઇટ્સ અને પાણીનું પુનઃશોષણ થાય છે? (DCT, PCT, સંગ્રહણ નલિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PCT</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCT = Primary (મુખ્ય) શોષણ કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "એન્જિયોટેન્સિનોજનનું એન્જિયોટેન્સિન I માં રૂપાંતર ____ દ્વારા થાય છે. (રેનિન, ADH, ANF)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેનિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેનિન એ એન્જિન (Angio) સ્ટાર્ટ કરવાનું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "પક્ષીઓમાં નાઇટ્રોજનયુક્ત કચરો ____ સ્વરૂપે હોય છે. (યુરિયા, એમોનિયા, યુરિક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં ઉડવા માટે હળવું રહેવું પડે (ઓછું પાણી!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "ડાયાલિસિસ પ્રવાહીમાં ____ સિવાયના રુધિરરસના બધા ઘટકો હોય છે. (ગ્લુકોઝ, નાઇટ્રોજનયુક્ત કચરો, એમિનો એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાઇટ્રોજનયુક્ત કચરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પ્રવાહીમાં કચરો ન હોય, તો જ રુધિરનો કચરો પ્રસરણ પામીને બહાર આવશે.</p></div>"
+    }
+  ]
+}

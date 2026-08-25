@@ -4917,3 +4917,371 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "શ્વાસોચ્છવાસ અને વાયુઓનું વિનિમય",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગ્લુકોઝ જેવા પોષક ઘટકોના વિઘટન દ્વારા ઊર્જા મુક્ત કરવાની પ્રક્રિયાને _____ કહે છે. (પ્રસરણ, અપચય, સંચય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપચય (Catabolism)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અપચય' એટલે તોડવું (Breakdown). ખોરાક તૂટે તો જ ઉર્જા છૂટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચલી કક્ષાના અપૃષ્ઠવંશીઓ જેવા કે વાદળી અને કોષ્ઠાન્ત્રીઓમાં વાયુ વિનિમય _____ દ્વારા થાય છે. (ફેફસાં, શ્વાસનળી, સામાન્ય શરીર સપાટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય શરીર સપાટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું પ્રાણી, સાદું કામ - આખી સપાટીથી જ કરે કામ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અળસિયાં તેમની ભીની _____ દ્વારા શ્વસન કરે છે. (ત્વચા, ઝાલરો, ફેફસાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્વચા (Cuticle)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયું ભીનું કેમ? કારણ કે ત્વચાથી લે છે શ્વાસ એમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કીટકોમાં વાયુઓના વહન માટે _____ ની જાળી જેવી રચના હોય છે. (શ્વાસનળીઓ, ઝાલરો, વાયુકોષ્ઠો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસનળીઓ (Tracheal tubes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીટકો (Insects) = ટ્યુબ નેટવર્ક (Trachea).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જલીય સંધિપાદો અને મૃદુકાયોમાં શ્વસન માટે વિશિષ્ટ સંવાતિત રચના _____ હોય છે. (ફેફસાં, ઝાલરો, ત્વચા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝાલરો (Gills)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળમાં રહે તે ઝાલર (Gills) વાપરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગળાના ભાગમાં આવેલ નળી જે ખોરાક અને હવા બંને માટે સામાન્ય માર્ગ છે તેને _____ કહે છે. (કંઠનળી, સ્વરયંત્ર, શ્વાસનળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંઠનળી (Pharynx)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંઠનળી = 'કોમન' (Common) પેસેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્વરયંત્ર એ કાસ્થિમય પેટી છે જે _____ ઉત્પન્ન કરવામાં મદદ કરે છે. (ખોરાક, લોહી, અવાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવાજ (Sound)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વર (Voice) એટલે જ 'સ્વર'યંત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખોરાક ગળતી વખતે ઘાટીઢાંકણ દ્વારા _____ ને ઢાંકવામાં આવે છે. (મુખગુહા, કંઠનળી, શ્વાસદ્વાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસદ્વાર (Glottis)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળી જતી વખતે 'Glottis' ને 'Epiglottis' થી બંધ કરી દો જેથી ખાવાનું ફેફસાંમાં ના જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શ્વાસનળી _____ ઉરસિય કશેરુકાના સ્તરે બે શાખાઓમાં વિભાજીત થાય છે. (ચોથી, પાંચમી, સાતમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંચમી (5th)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T-5' (Thoracic 5) એટલે ટ્રેકિયા (શ્વાસનળી) ના બે ભાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શ્વાસનળીમાં આવેલી કાસ્થિની કડીઓ _____ આકારની હોય છે. (C, O, S)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cartilage starts with 'C' and shape is also 'C'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દરેક ફેફસું બે સ્તરના _____ થી ઘેરાયેલું હોય છે. (હૃદયાસ્તર, ફુપ્ફુસાવરણ, ઉદરાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફુપ્ફુસાવરણ (Pleura)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાં એટલે ફુપ્ફુસ, તો આવરણ એટલે ફુપ્ફુસાવરણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બંને ફુપ્ફુસાવરણોની વચ્ચે _____ પ્રવાહી ભરેલું હોય છે. (રુધિર, લસિકા, ફુપ્ફુસીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફુપ્ફુસીય (Pleural fluid)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેયુરાની વચ્ચે પ્લેયુરલ ફ્લુઈડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શ્વસનતંત્રનો _____ ભાગ વાયુઓના વાસ્તવિક પ્રસરણ માટેનું સ્થાન છે. (વહન, શ્વસન, કંઠનળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વસન (Exchange part)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠો (Alveoli) = એક્સચેન્જ ઓફિસર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ફેફસાં ઉરસિય ગુહામાં આવેલા છે જેની વક્ષ બાજુએ _____ આવેલું છે. (કરોડસ્તંભ, પાંસળીઓ, ઉરોસ્થિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરોસ્થિ (Sternum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વક્ષ (Front) = ઉરોસ્થિ, પૃષ્ઠ (Back) = કરોડસ્તંભ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઉરસિય ગુહાની નીચેની બાજુએ ગુંબજ આકારનો _____ આવેલો છે. (ઉરોદરપટલ, યકૃત, જઠર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરોદરપટલ (Diaphragm)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચેનો દરવાજો = ઉરોદરપટલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હવાને અંદર ખેંચવાની ક્રિયાને _____ કહે છે. (ઉચ્છવાસ, નિઃશ્વાસ, અંતઃશ્વાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતઃશ્વાસ (Inspiration)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃ (Inside) = હવા અંદર લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અંતઃશ્વાસ ત્યારે જ થાય છે જ્યારે ફેફસાંની અંદરનું દબાણ વાતાવરણના દબાણ કરતા _____ હોય. (વધુ, ઓછું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછું (Negative pressure)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા હમેશા વધુથી ઓછા દબાણ તરફ વહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઉરોદરપટલનું સંકોચન ઉરસિય ગુહાનું કદ _____ અક્ષ પર વધારે છે. (પૃષ્ઠ-વક્ષ, અગ્ર-પશ્ચ, પાર્શ્વ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગ્ર-પશ્ચ (Antero-posterior)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉરોદરપટલ ઉપર-નીચે જાય = અગ્ર-પશ્ચ વધારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બાહ્ય આંતરપાંસળી સ્નાયુઓનું સંકોચન ઉરસિય ગુહાનું કદ _____ અક્ષ પર વધારે છે. (અગ્ર-પશ્ચ, પૃષ્ઠ-વક્ષ, લંબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃષ્ઠ-વક્ષ (Dorso-ventral)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંસળીઓ આગળ-પાછળ ફૂલે = પૃષ્ઠ-વક્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક સ્વસ્થ મનુષ્ય પ્રતિ મિનિટ _____ વખત શ્વાસ લે છે. (5-10, 12-16, 20-25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12-16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 થી 16, શ્વાસની છે રેન્જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શ્વસન દરમિયાન વાયુના કદનું માપન કરવા માટે વપરાતા સાધનને _____ કહે છે. (સ્ફિગ્મોમેનોમીટર, સ્પાયરોમીટર, બેરોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પાયરોમીટર (Spirometer)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Spiro (શ્વસન) + Meter (માપવું) = Spirometer!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સામાન્ય શ્વાસોચ્છવાસ દરમિયાન વાયુના કદને _____ કહે છે. (TV, IRV, ERV)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> TV (Tidal Volume)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાની ભરતી-ઓટ (Tide) જેવું નોર્મલ કદ = Tidal Volume.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "TV નું મૂલ્ય અંદાજે _____ મિલી હોય છે. (500, 1000, 2500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 500 mL</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીવી (TV) જોતા જોતા અડધો લિટર પાણી પીવું (500ml)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વધારાની હવા જે વ્યક્તિ બળપૂર્વક અંતઃશ્વાસમાં લઈ શકે તેને _____ કહે છે. (ERV, IRV, RV)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> IRV (Inspiratory Reserve Volume)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' for Inspiration, 'R' for Reserve (વધારાનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "IRV નું મૂલ્ય સરેરાશ _____ મિલી હોય છે. (500-1000, 1100-1200, 2500-3000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2500-3000 mL</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળપૂર્વક શ્વાસ લેવો એટલે આખું 2.5 થી 3 લિટર ખેંચી લેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બળપૂર્વક ઉચ્છવાસ બાદ પણ ફેફસામાં બાકી રહેતી હવાને _____ કહે છે. (TV, VC, RV)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> RV (Residual Volume)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'R' for Residual, 'R' for Remaining (બાકી રહેલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "RV નું મૂલ્ય સરેરાશ _____ મિલી હોય છે. (500, 1100-1200, 2500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1100-1200 mL</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું કાઢી નાખો તો પણ 11-12સો (RV) તો રહે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "IC = TV + _____. (ERV, IRV, RV)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> IRV</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I'C માં 'I'RV જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ERV + RV ને _____ કહે છે. (IC, EC, FRC)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> FRC (Functional Residual Capacity)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રી (FRC) ટાઈમ માં એક્સ્ટ્રા (ERV) બાકી (RV) રહેલું કામ પૂરું કરવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બળપૂર્વક ઉચ્છવાસ બાદ મનુષ્ય દ્વારા લેવામાં આવતી હવાની મહત્તમ માત્રાને _____ કહે છે. (VC, TLC, IC)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> VC (Vital Capacity)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાઈટલ (Vital) એટલે જીવન માટે સૌથી જરૂરી અને મોટી કેપેસિટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "VC = ERV + TV + _____. (RV, IRV, IC)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> IRV</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: VC માં બધું જ આવે સિવાય કે RV (બાકી રહેલી હવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વાયુકોષ્ઠોમાં $O_2$ નું આંશિક દબાણ ($pO_2$) _____ mm Hg હોય છે. (40, 95, 104)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 104 mm Hg</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠો ઓક્સિજનના ઘર છે, ત્યાં તો સૌથી વધુ (104) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વાયુકોષ્ઠોમાં $CO_2$ નું આંશિક દબાણ ($pCO_2$) _____ mm Hg હોય છે. (40, 45, 104)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 40 mm Hg</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠોમાં શુદ્ધ હવા હોય એટલે $CO_2$ ઓછો (40) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "$O_2$ ની સાપેક્ષમાં $CO_2$ ની દ્રાવ્યતા _____ ગણી વધુ હોય છે. (2-5, 20-25, 100-200)",
+      "answer": "<div style='background-color:#f0f8ff; border-left:5px solid #16a085; border-radius:8px; padding:15px;'><p><strong>ઉકેલ/જવાબ:</strong> 20-25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $CO_2$ રુધિરમાં ઓગળવામાં $O_2$ કરતા 20-25 ગણો સુપરફાસ્ટ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પ્રસરણ દીવાલ મુખ્યત્વે _____ સ્તરોની બનેલી હોય છે. (બે, ત્રણ, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણ (Three)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાદી જેવું અધિચ્છદ + રુધિરવાહિનીનું અંતઃસ્તર + વચ્ચેનો આધારક (Basement) = 3 લેયર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "લગભગ _____ ટકા $O_2$ નું વહન રુધિરરસ દ્વારા દ્રાવ્ય અવસ્થામાં થાય છે. (3, 7, 97)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજનને રુધિરરસ ગમતું નથી, એટલે ખાલી 3% જ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "લગભગ 97% $O_2$ નું વહન _____ દ્વારા થાય છે. (રુધિરરસ, શ્વેતકણો, રક્તકણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રક્તકણો (RBCs)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજનની લક્ઝરી બસ એટલે રક્તકણ (Hemoglobin)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "રક્તકણોમાં આવેલું લાલ રંગનું લોહયુક્ત શ્વસનરંજક દ્રવ્ય _____ છે. (હિમોગ્લોબિન, હિમોસાયનિન, ક્લોરોફિલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિમોગ્લોબિન (Hemoglobin)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ લોહી = હિમોગ્લોબિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "હિમોગ્લોબિનનો એક અણુ મહત્તમ $O_2$ ના _____ અણુઓનું વહન કરી શકે છે. (એક, બે, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાર (Four)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમોગ્લોબિન એક 'કાર' (Car) છે જેમાં 4 સીટ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ઓક્સિજનનું હિમોગ્લોબિન સાથેનું જોડાણ મુખ્યત્વે _____ ના આંશિક દબાણ પર આધારિત છે. ($O_2, CO_2, N_2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $O_2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું વહન કરવાનું હોય, તેનું દબાણ જ મુખ્ય હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "હિમોગ્લોબિનની ઓક્સિજન સાથેની સંતૃપ્તતાની ટકાવારી દર્શાવતો આલેખ _____ આકારનો હોય છે. (રેખીય, વક્ર, સિગ્મોઈડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિગ્મોઈડ (Sigmoid - S shape)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસનનો 'S' એટલે 'S'igmoid curve!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નીચું $pH$ અને ઊંચું તાપમાન ઓક્સિહિમોગ્લોબિનના વિયોજન માટે _____ છે. (સાનુકૂળ, પ્રતિકૂળ, તટસ્થ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાનુકૂળ (Favourable)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશીઓમાં એસિડ (નીચું pH) અને ગરમી (વધુ તાપમાન) હોય ત્યારે જ ઓક્સિજન છૂટો પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સામાન્ય પરિસ્થિતિમાં 100 મિલી ઓક્સિજનયુક્ત રુધિર પેશીઓને આશરે _____ મિલી $O_2$ પૂરો પાડે છે. (5, 15, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5 mL</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 માંથી માત્ર 5 જ 'દાન' કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "લગભગ 20-25% $CO_2$ નું વહન _____ સ્વરૂપે થાય છે. (બાયકાર્બોનેટ, કાર્બએમિનો-હિમોગ્લોબિન, રુધિરરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બએમિનો-હિમોગ્લોબિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $CO_2$ + Hemoglobin = Carbamino-Hb.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "$CO_2$ ના વહનનો સૌથી મોટો હિસ્સો (લગભગ 70%) _____ સ્વરૂપે હોય છે. (બાયકાર્બોનેટ, કાર્બોનિક એસિડ, મુક્ત વાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાયકાર્બોનેટ ($HCO_3^-$)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 70% એટલે મોટો ભાગ, $CO_2$ 'બાય-બાય' કહેવા બાયકાર્બોનેટ બને છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "રક્તકણોમાં _____ ઉત્સેચકની સાંદ્રતા ઘણી વધારે હોય છે જે $CO_2$ ના વહનમાં મદદ કરે છે. (પેપ્સિન, કાર્બોનિક એનહાઈડ્રેઝ, એમાઈલેઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બોનિક એનહાઈડ્રેઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Carbonic Anhydrase = $CO_2$ નું હાઈડ્રેશન કરનાર એન્જિન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "દરેક 100 મિલી અશુદ્ધ રુધિર વાયુકોષ્ઠોમાં આશરે _____ મિલી $CO_2$ મુક્ત કરે છે. (4, 10, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 mL</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $O_2$ આપે 5, $CO_2$ કાઢે 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "શ્વસન લયકેન્દ્ર મગજના _____ પ્રદેશમાં આવેલું હોય છે. (મધ્યમગજ, લંબમજ્જા, સેતુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબમજ્જા (Medulla oblongata)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M for Medulla, M for Main center.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "શ્વસન લયકેન્દ્રના કાર્યોને મર્યાદિત કરતું 'શ્વાસાનુચલન કેન્દ્ર' (Pneumotaxic center) _____ માં આવેલું છે. (લંબમજ્જા, સેતુ, હાઈપોથલેમસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેતુ (Pons)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Pneumotaxic, P for Pons.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "શ્વસન લયકેન્દ્રની પાસે આવેલું રાસાયણિક સંવેદી વિસ્તાર _____ માટે અતિ સંવેદનશીલ છે. ($O_2, CO_2, N_2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $CO_2$ અને $H^+$ આયનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજ $CO_2$ ના વધારાને તરત પકડી પાડે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "શ્વાસનળીકાઓમાં થતા સોજાને કારણે શ્વાસ લેતી વખતે અવાજ આવે તેને _____ કહે છે. (એમ્ફિસેમા, અસ્થમા, સીલીકોસીસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસ્થમા (Asthma)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્થમા = એલર્જી + સોજો (Inflammation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "_____ એક એવી દીર્ઘકાલીન બીમારી છે જેમાં વાયુકોષ્ઠોની દીવાલને નુકસાન થાય છે. (અસ્થમા, એમ્ફિસેમા, હાઈપરટેન્શન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમ્ફિસેમા (Emphysema)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિગારેટ પીવાથી વાયુકોષ્ઠો ફાટી જાય (એમ્ફિસેમા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "એમ્ફિસેમા થવાનું મુખ્ય કારણ _____ છે. (ધૂળ, બેક્ટેરિયા, ધૂમ્રપાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધૂમ્રપાન (Cigarette smoking)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્મોકિંગ એટલે એમ્ફિસેમાનું આમંત્રણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "પથ્થર તોડવાના ઉદ્યોગોમાં કામ કરતા મજૂરોને _____ જેવા રોગ થવાની શક્યતા રહે છે. (ન્યુમોનિયા, વ્યાવસાયિક શ્વસન રોગ, અસ્થમા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યાવસાયિક શ્વસન રોગ (Occupational Respiratory Disorders)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યવસાય (Occupation) માંથી મળતી બીમારી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ફેફસાંમાં તંતુમયતા (Fibrosis) થવાને કારણે કયા અંગને ગંભીર નુકસાન થાય છે? (હૃદય, યકૃત, ફેફસાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંતુમયતા એટલે ફેફસાં કડક થઈ જવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "શ્વસન સપાટીનું ક્ષેત્રફળ ઘટાડતો રોગ કયો છે? (એમ્ફિસેમા, અસ્થમા, એનીમિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમ્ફિસેમા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલ તૂટે તો એરિયા ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વાયુકોષ્ઠોની દીવાલ કયા પ્રકારના કોષોની બનેલી હોય છે? (ઘનાકાર, લાદીસમ, સ્તંભાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાદીસમ અધિચ્છદ (Squamous epithelium)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાતળી લાદી (Squamous) માંથી ગેસ જલ્દી આરપાર જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "રુધિરકેશિકાઓના અંતઃસ્તરને _____ કહે છે. (એન્ડોથેલિયમ, એપિથેલિયમ, મેસોથેલિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એન્ડોથેલિયમ (Endothelium)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરનું (Endo) સ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ઓક્સિહિમોગ્લોબિનનું નિર્માણ _____ માં થાય છે. (પેશીઓમાં, વાયુકોષ્ઠોમાં, રુધિરરસમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠોમાં (Alveoli)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ઓક્સિજન મળે ત્યાં જ જોડાણ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "શ્વસન માર્ગને ભેજવાળો અને ગરમ રાખવાનું કામ _____ ભાગ કરે છે. (વહન, શ્વસન, કંઠનળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વહન (Conducting part)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો (વહન) હવાની કવોલિટી સુધારે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ઉરસિય ગુહામાં ફેફસાંની આસપાસ જે દબાણ ઉભું થાય છે તેને _____ કહે છે. (ઋણ દબાણ, ધન દબાણ, તટસ્થ દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ દબાણ (Negative pressure)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ લેવા માટે વેક્યુમ (ઋણ દબાણ) જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ફેફસાંની કુલ ક્ષમતા (TLC) એટલે _____. (VC+RV, TV+IRV, ERV+RV)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> VC + RV</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોટલ (TLC) એટલે બધું જ ભેગું કરી દેવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ઉચ્છવાસ દરમિયાન પાંસળીઓ કઈ તરફ ગતિ કરે છે? (ઉપર, નીચે, બહાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચે (Downwards)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા બહાર કાઢો એટલે છાતી નીચે બેસી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "રુધિરમાં $O_2$ ના વહન માટે મુખ્યત્વે કઈ ધાતુ જવાબદાર છે? (મેગ્નેશિયમ, આયર્ન, કોપર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયર્ન (Iron - Fe)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમોગ્લોબિનમાં 'હેમ' એટલે લોખંડ (Iron)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "પ્રસરણ સપાટીની કુલ જાડાઈ _____ કરતા ઘણી ઓછી હોય છે. (1 સેમી, 1 મીમી, 10 મીમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 મીમી (1 mm)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિલિમીટર કરતાંય પાતળું, એટલે તો ફટાફટ ગેસ બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "ઓક્સિજન વિયોજન વક્ર (Oxygen Dissociation Curve) ને જમણી તરફ ખસેડવા માટે શું જવાબદાર છે? (વધારે $O_2$, વધારે $CO_2$, નીચું તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે $CO_2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશીઓમાં $CO_2$ વધે એટલે હિમોગ્લોબિન $O_2$ ને ત્યજી દે (જમણી તરફ ખસે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "રુધિરરસમાં કેટલા ટકા $CO_2$ દ્રાવ્ય અવસ્થામાં વહન પામે છે? (3, 7, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $O_2$ માટે 3%, $CO_2$ થોડો વધારે 'સોલ્યુબલ' એટલે 7%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "બૃહદ ધમની ચાપ અને ગ્રીવા ધમની સાથે જોડાયેલા ગ્રાહકો _____ ના ફેરફારને ઓળખી શકે છે. ($O_2$, $CO_2$ અને $H^+$, $N_2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $CO_2$ અને $H^+$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમનીઓ પણ એસિડિટી (H+) અને કાર્બન ડાયોક્સાઈડને ચેક કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "શ્વસન લયના નિયમનમાં _____ ની ભૂમિકા બહુ મહત્વની હોતી નથી. ($CO_2, O_2, H^+$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $O_2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવાઈ લાગશે પણ નિયમન માટે ઓક્સિજન ગૌણ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "ફેફસાની કુલ ક્ષમતા (TLC) અંદાજે કેટલા મિલી હોય છે? (3000, 4500, 5800)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5800 mL</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ફેફસું ભરાય તો લગભગ 6 લિટર (5800ml) હવા સમાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "પાંસળીઓ અને ઉરોસ્થિને ઉપર તરફ ખેંચવાની ક્રિયા કયા સ્નાયુઓ કરે છે? (બાહ્ય આંતરપાંસળી સ્નાયુઓ, અંતઃ આંતરપાંસળી સ્નાયુઓ, ઉદરના સ્નાયુઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્ય આંતરપાંસળી સ્નાયુઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારના (External) સ્નાયુઓ પાંસળીને બહાર (ઉપર) ખેંચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "પેશીઓ પાસે $pCO_2$ વધુ હોવાથી _____ છૂટું પડે છે. (હિમોગ્લોબિન, ઓક્સિજન, નાઈટ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $CO_2$ આવે એટલે $O_2$ ને ભાગવું જ પડે!</p></div>"
+    }
+  ]
+}

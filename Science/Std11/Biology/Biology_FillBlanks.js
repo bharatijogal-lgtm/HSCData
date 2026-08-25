@@ -4549,3 +4549,371 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "વનસ્પતિ વૃદ્ધિ અને વિકાસ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જીવંત પદાર્થના કદમાં થતા અપરિવર્તનીય અને કાયમી વધારાને _____ કહેવામાં આવે છે. (વૃદ્ધિ, વિકાસ, વિભેદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ એટલે કાયમી 'વધારો' (Increase) જે પાછો ન ફરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સામાન્ય રીતે વૃદ્ધિ એ ચયાપચયની ક્રિયાઓ સાથે સંકળાયેલી છે જેમાં _____ ઉર્જાનો વપરાશ થાય છે. (ATP, ADP, AMP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ATP</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરનું કોઈપણ 'કામ' (વૃદ્ધિ) કરવું હોય તો ATP ના સિક્કા વાપરવા જ પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વનસ્પતિની વૃદ્ધિ અજોડ છે કારણ કે તેઓ જીવનપર્યંત વૃદ્ધિની ક્ષમતા ધરાવે છે, જેને _____ પ્રકારની વૃદ્ધિ કહે છે. (બંધ, ખુલ્લા, સીમિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ 'ખુલ્લા' દિલની છે, આજીવન વધતી જ રહે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વનસ્પતિના ચોક્કસ સ્થાને આવેલી _____ પેશીને કારણે વૃદ્ધિ શક્ય બને છે. (વર્ધનશીલ, મૃદુતક, દ્રઢોતક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ધનશીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ધનશીલ = 'વધવા' માટે જવાબદાર પેશી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મૂલાગ્ર અને પ્રરોહાગ્ર વર્ધનશીલ પેશી વનસ્પતિની _____ વૃદ્ધિ માટે જવાબદાર છે. (પ્રાથમિક, દ્વિતીયક, તૃતીયક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાથમિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર (ટોચ) વધે એટલે લંબાઈ વધે, જેને 'પ્રાથમિક' વૃદ્ધિ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દ્વિદળી અને અનાવૃત બીજધારીમાં વનસ્પતિની જાડાઈમાં થતો વધારો _____ ને કારણે હોય છે. (પાશ્વીય વર્ધનશીલ પેશી, અગ્રીય વર્ધનશીલ પેશી, આંતરવિષ્ટ વર્ધનશીલ પેશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાશ્વીય વર્ધનશીલ પેશી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાઈડ (પાશ્વ) માં વધે તો જ જાડાઈ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મકાઈના મૂળની અગ્રીય વર્ધનશીલ પેશી દર કલાકે આશરે _____ નવા કોષો ઉમેરે છે. (17,500, 3,50,000, 5,00,000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 17,500</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મકાઈ (Maize) ના અગિયાર (11) નહીં પણ સત્તર (17) હજાર પાંચસો કોષો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તરબૂચમાં કોષના કદમાં થતો વધારો તેના મૂળ કદ કરતા _____ ગણો હોઈ શકે છે. (3,50,000, 17,500, 1,00,000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3,50,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરબૂચ મોટું હોય એટલે આંકડો પણ મોટો (સાડા ત્રણ લાખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પરાગનલિકાની વૃદ્ધિને _____ માં માપવામાં આવે છે. (લંબાઈ, કદ, ક્ષેત્રફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળી (Tube) હંમેશા લાંબી થાય, એટલે લંબાઈ માપવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પૃષ્ઠવક્ષીય પર્ણની વૃદ્ધિ તેના _____ માં થતા વધારા દ્વારા માપી શકાય છે. (સપાટીનું ક્ષેત્રફળ, લંબાઈ, શુષ્ક વજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સપાટીનું ક્ષેત્રફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણ ચપટું હોય, એટલે તેનું ક્ષેત્રફળ (Area) જ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વૃદ્ધિના તબક્કાઓમાં, _____ તબક્કાના કોષોમાં ઘટ્ટ જીવરસ અને સ્પષ્ટ કોષકેન્દ્ર હોય છે. (વર્ધનશીલ, વિસ્તરણ, પરિપક્વન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ધનશીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કોષે વિભાજન પામવું હોય તેની પાસે માલ-સામાન (જીવરસ) વધુ હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વૃદ્ધિના કયા તબક્કામાં નવી કોષદીવાલનું નિક્ષેપન અને મોટી રસધાની જોવા મળે છે? (વિસ્તરણ, વર્ધનશીલ, પરિપક્વન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિસ્તરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુગ્ગામાં હવા ભરાય એમ રસધાની વધે એટલે કોષ 'વિસ્તરણ' પામે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમયના એકમ દીઠ થતા વધારાને _____ કહે છે. (વૃદ્ધિ દર, વિકાસ દર, વિભેદન દર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃદ્ધિ દર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ વસ્તુ છેદમાં 'સમય' આવે એટલે તે 'દર' (Rate) બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અંકગણિતીય વૃદ્ધિમાં, કોષ વિભાજન બાદ માત્ર _____ કોષ વિભાજન પામવાનું ચાલુ રાખે છે. (એક, બે, બધા જ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકગણિતમાં 1+1+1 થાય, એટલે દર વખતે 'એક' જ કોષ વિભાજન પામે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભૌમિતિક વૃદ્ધિ માટેનું સમીકરણ _____ છે. (W1 = W0 ert, Lt = L0 + rt, Wt = W0 + rt)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> W1 = W0 ert</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌમિતિક વૃદ્ધિમાં 'e' (exponential) પાવર આવે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભૌમિતિક વૃદ્ધિ વક્ર (S-Curve) માં શરૂઆતના ધીમા તબક્કાને _____ કહે છે. (લેગ ફેઝ, લોગ ફેઝ, સ્થિર ફેઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેગ ફેઝ (Lag phase)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lag એટલે લબડવું (ધીમું પડવું). શરૂઆત હંમેશા ધીમી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કુદરતી પરિસ્થિતિમાં જ્યારે પોષક દ્રવ્યો મર્યાદિત બને ત્યારે વૃદ્ધિ વક્ર _____ તબક્કામાં પહોંચે છે. (સ્થિર, લેગ, લોગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાવાનું (પોષણ) ખલાસ, એટલે વધવાનું બંધ (સ્થિર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "W1 = W0 ert સમીકરણમાં 'r' એ _____ દર્શાવે છે. (સાપેક્ષ વૃદ્ધિ દર, નિરપેક્ષ વૃદ્ધિ દર, સમય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપેક્ષ વૃદ્ધિ દર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r = Relative (સાપેક્ષ). તે વનસ્પતિની નવી ક્ષમતા બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એકમ સમયમાં થતી વૃદ્ધિની કુલ માપણીને _____ કહે છે. (નિરપેક્ષ વૃદ્ધિ દર, સાપેક્ષ વૃદ્ધિ દર, વૃદ્ધિ માપદંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિરપેક્ષ વૃદ્ધિ દર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિરપેક્ષ' (Absolute) એટલે પૂરેપૂરો વધારો, કોઈની સાથે સરખામણી વગર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વૃદ્ધિ માટે પાણી ઉપરાંત _____ વાયુ અત્યંત અનિવાર્ય છે જે ચયાપચયની શક્તિ મુક્ત કરવામાં મદદ કરે છે. (ઓક્સિજન, નાઈટ્રોજન, કાર્બન ડાયોક્સાઈડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શક્તિ (ATP) છૂટી પાડવા માટે O2 નો 'ધડાકો' (જારક શ્વસન) જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વર્ધનશીલ કોષોમાંથી ચોક્કસ કાર્ય માટે પુખ્ત બનવાની પ્રક્રિયાને _____ કહે છે. (વિભેદન, નિવિભેદન, પુનઃવિભેદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિભેદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભેદન એટલે 'વિશેષ' કાર્ય માટેની ટ્રેનિંગ લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જીવંત વિભેદિત કોષો જે વિભાજનની ક્ષમતા ગુમાવી ચૂક્યા હોય તે ફરીથી વિભાજનની ક્ષમતા મેળવે તેને _____ કહે છે. (નિવિભેદન, વિભેદન, પુનઃવિભેદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિવિભેદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ' એટલે 'નીકળી જવું' (સ્થાયી અવસ્થામાંથી બહાર નીકળીને ફરી વર્ધનશીલ બનવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આંતરપુલીય એધા અને છાલ એધા એ _____ દ્વારા બનેલી પેશીઓ છે. (નિવિભેદન, વિભેદન, વૃદ્ધિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિવિભેદન (Dedifferentiation)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુતક કોષો (સ્થાયી) પાછા એધા (વર્ધનશીલ) બને તેને નિવિભેદન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નિવિભેદિત કોષો દ્વારા નિર્માણ પામેલા કોષો ફરીથી વિભાજનની ક્ષમતા ગુમાવે અને પુખ્ત બને તેને _____ કહે છે. (પુનઃવિભેદન, વિભેદન, નિવિભેદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુનઃવિભેદન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પુનઃ' એટલે ફરીથી, 'વિભેદન' એટલે સ્થાયી બનવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વનસ્પતિ પર્યાવરણને અનુરૂપ અલગ અલગ પથ અપનાવે છે જેને _____ કહેવામાં આવે છે. (સુઘટ્યતા, વૃદ્ધિ, વિભેદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુઘટ્યતા (Plasticity)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેસ્ટિક (Plasticity) ને ગમે તેમ વાળી શકાય, તેમ પ્લાન્ટ પણ પરિસ્થિતિ મુજબ વળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કપાસ, કોથમીર અને લાર્કસપરમાં જોવા મળતી વિષમપર્ણીતા એ _____ નું ઉદાહરણ છે. (સુઘટ્યતા, વૃદ્ધિ દર, નિવિભેદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુઘટ્યતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપાસ (Cotton) અને કોથમીર (Coriander) બંને 'C' પરથી છે, તેમની 'Shape' બદલાય તે સુઘટ્યતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વનસ્પતિ વૃદ્ધિ નિયામકો (PGRs) એ નાના અને સરળ _____ અણુઓ છે. (રાસાયણિક, જૈવિક, ભૌતિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાસાયણિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃસ્ત્રાવો એટલે કેમિકલ્સ (રાસાયણિક અણુઓ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "IAA (ઈન્ડોલ-3-એસિટિક એસિડ) એ કયા જૂથનો અંતઃસ્ત્રાવ છે? (ઈન્ડોલ સંયોજનો, એડેનીન વ્યુત્પન્ન, ટર્પીન્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈન્ડોલ સંયોજનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' for Indole, 'I' for IAA.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કાયનેટિન (N6-ફરફ્યુરાઈલ એમિનો પ્યુરીન) એ કોના વ્યુત્પન્ન છે? (એડેનીન, કેરોટીનોઈડ્સ, ટેર્પીન્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એડેનીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્યુરીન એટલે DNA ના એડેનીન/ગ્વાનીન યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "એબ્સિસિક એસિડ (ABA) એ શેમાંથી ઉતરી આવેલા છે? (કેરોટીનોઈડ્સ, ઈન્ડોલ, વાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરોટીનોઈડ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABA અને Carotenoids - બંનેમાં 'A' અક્ષર મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "નીચેનામાંથી કયો અંતઃસ્ત્રાવ વાયુ સ્વરૂપમાં હોય છે? (ઇથિલિન, ઓક્સિન, જીબરેલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથિલિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલિન (Ethylene) એ ગેસ છે જે ફળો પકવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ઓક્સિનની શોધ સૌ પ્રથમ કોણે કરી હતી? (ચાર્લ્સ ડાર્વિન, એફ.ડબલ્યુ. વેન્ટ, કુરોસાવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાર્લ્સ ડાર્વિન (અને ફ્રાન્સિસ ડાર્વિન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાર્વિને કેનેરી ઘાસના બીજાંકુર ચોલ પર પ્રકાશનું 'ડાર્લિંગ' કામ જોયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઓઈટ (Oat) ના બીજાંકુર ચોલના અગ્ર ભાગેથી ઓક્સિનને કોણે અલગ કર્યું? (એફ.ડબલ્યુ. વેન્ટ, કુરોસાવા, મિલર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એફ.ડબલ્યુ. વેન્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેન્ટ (Went) એ ઓક્સિન કાઢીને 'વેન્ટ' (રસ્તો) આપ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ડાંગરના રોપામાં 'બેકેન' (મૂર્ખ રોપા) રોગ માટે _____ જવાબદાર છે. (જીબરેલા ફ્યુજિકુરોઈ, ઈથિલિન, એબીએ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીબરેલા ફ્યુજિકુરોઈ (ફૂગ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીબરેલા (GA) થી પ્લાન્ટ ગજબ (લાંબો) થઈ જાય, એટલે મૂર્ખ જેવો લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સ્કૂગ અને તેના સાથીદારોએ જોયું કે તમાકુના પ્રકાંડના આંતરગાંઠના ભાગમાં કોષો વિભાજિત થવા માટે _____ જરૂરી છે. (કાયનેટિન/સાયટોકાઈનિન, ઓક્સિન, એબીએ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયનેટિન/સાયટોકાઈનિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટોકાઈનિન એટલે 'સાયટોપ્લાઝમ' નું વિભાજન કરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ઓક્સિન (Auxin) શબ્દ ગ્રીક ભાષાના 'auxein' પરથી ઉતરી આવ્યો છે જેનો અર્થ _____ થાય છે. (વધવું, ટૂંકા થવું, પડવું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધવું (To grow)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન = ઑક્સિજન જેવો જરૂરી, વનસ્પતિને 'વધારવા' માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કૃત્રિમ ઓક્સિનનું ઉદાહરણ નીચેનામાંથી કયું છે? (2, 4-D, IAA, IBA)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: IAA અને IBA કુદરતી છે, 2,4-D ફેક્ટરીમાં બને (કૃત્રિમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મોટાભાગની ઉચ્ચ કક્ષાની વનસ્પતિમાં અગ્રીય કલિકાની હાજરીમાં પાશ્વીય કલિકાઓની વૃદ્ધિ અવરોધાય છે, તેને _____ કહે છે. (અગ્રીય પ્રભુતા, નિવિભેદન, સુઘટ્યતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગ્રીય પ્રભુતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચની કલિકા (અગ્ર) દાદાગીરી (પ્રભુતા) કરે, એટલે બાજુવાળી (પાશ્વ) ન ઉગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ચાના બગીચામાં કઈ પ્રક્રિયા અગ્રીય પ્રભુતાને દૂર કરવા માટે વપરાય છે? (કાપણી/ડીકેપિટેશન, સિંચાઈ, ખાતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાપણી (Decapitation)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથું (ટોચ) કાપી નાખો એટલે વનસ્પતિ બાજુમાં વધે અને ઝાડી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "_____ નો ઉપયોગ નીંદણનાશક તરીકે દ્વિદળી નીંદણને નાશ કરવા માટે થાય છે. (2, 4-D, GA3, કાયનેટિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2,4-D એટલે 'Dangerous' નીંદણ માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "અત્યાર સુધી _____ થી વધુ જીબરેલિન્સની ઓળખ થઈ છે. (100, 50, 200)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીબરેલિનની સેન્ચુરી (100) પૂરી થઈ ગઈ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "દ્રાક્ષની ધરીની લંબાઈ વધારવા માટે કયા અંતઃસ્ત્રાવનો ઉપયોગ થાય છે? (જીબરેલિન્સ, સાયટોકાઈનિન, ઇથિલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીબરેલિન્સ (GA)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GA = 'G'rapes માટે 'A'one અંતઃસ્ત્રાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "શેરડીના ખેતરમાં જીબરેલિનનો છંટકાવ કરવાથી એકર દીઠ ઉત્પાદનમાં આશરે _____ ટનનો વધારો થાય છે. (20, 10, 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરડી 20 ફૂટ લાંબી (માની લો) એટલે 20 ટન વધારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "બીટ, કોબીજ જેવી વનસ્પતિમાં પુષ્પસર્જન પૂર્વે આંતરગાંઠની લંબાઈ વધારવાને _____ કહે છે. (બોલ્ટિંગ, પ્રભુતા, જરાવસ્થા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બોલ્ટિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રનઆઉટ થાય ત્યારે 'બોલ્ટ' (Bolt) ઉડે તેમ આંતરગાંઠ ફટાફટ ઉંચી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ઝિએટિન (Zeatin) સૌ પ્રથમ શેમાંથી અલગ કરવામાં આવ્યું હતું? (મકાઈના દાણા, નાળિયેરનું દૂધ, સફરજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મકાઈના દાણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મકાઈનું વૈજ્ઞાનિક નામ *Zea mays* છે, એટલે નામ પડ્યું ઝિએટિન (Zeatin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "સાયટોકાઈનિન _____ ની હાજરીમાં નવીન પર્ણો અને હરિતકણનું નિર્માણ કરવામાં મદદ કરે છે. (ઓક્સિન, જીબરેલિન, એબીએ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન અને સાયટોકાઈનિન 'બેસ્ટ ફ્રેન્ડ્સ' છે, સાથે જ કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "સાયટોકાઈનિન પોષક તત્વોના સંચાલન દ્વારા _____ ને વિલંબિત કરવામાં મદદ કરે છે. (જરાવસ્થા, વૃદ્ધિ, અંકુરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જરાવસ્થા (Senescence)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટોકાઈનિન વનસ્પતિને 'જવાન' રાખે છે, ઘરડી (જરાવસ્થા) થવા દેતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ઇથિલિન એ કયા પ્રકારની અસરો માટે જાણીતું છે? (જરાવસ્થા અને પતન, અંકુરણ, કોષ વિભાજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જરાવસ્થા અને પતન (Abscission)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલિન ફળ પકવે એટલે કે હવે ફળ પડવાની (પતન) તૈયારીમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઇથિલિનના છંટકાવથી કાકડીમાં _____ પુષ્પોની સંખ્યા વધે છે. (માદા, નર, દ્વિલિંગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માદા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ 'માદા' પુષ્પ એટલે વધુ 'કાકડી' (ફળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "કૃષિમાં ઇથિલિનનો સૌથી વધુ વપરાશ થતો સ્ત્રોત કયો છે? (ઇથેફોન, આઈઆઈએ, જીએ3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથેફોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલિનનો 'ફોન' (ઇથેફોન) કરો એટલે ફળ પાકી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "કયો અંતઃસ્ત્રાવ વનસ્પતિમાં 'તણાવ અંતઃસ્ત્રાવ' (Stress Hormone) તરીકે ઓળખાય છે? (એબ્સિસિક એસિડ, ઇથિલિન, ઓક્સિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એબ્સિસિક એસિડ (ABA)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABA = આફત (Stress) વખતે કામ આવતો એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "ABA રંધ્રને _____ પ્રેરિત કરે છે જેથી બાષ્પોત્સર્જન ઘટે. (બંધ થવા, ખુલવા, મોટા થવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ થવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બચાવવા માટે બારી (રંધ્ર) 'બંધ' કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "મોટાભાગની પરિસ્થિતિમાં ABA એ _____ ની વિરુદ્ધમાં કાર્ય કરે છે. (જીબરેલિન્સ, ઇથિલિન, સાયટોકાઈનિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીબરેલિન્સ (GA)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GA જગાડે (અંકુરણ કરે), ABA સુવડાવે (સુષુપ્તતા પ્રેરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વનસ્પતિમાં દિવસ અને રાત (પ્રકાશ) ના ગાળા પ્રત્યેના પ્રતિભાવને _____ કહે છે. (પ્રકાશ અવધિકાળ, વસંતિકરણ, સુઘટ્યતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાશ અવધિકાળ (Photoperiodism)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટો (પ્રકાશ) અને પિરિયડ (સમયગાળો) = ફોટોપિરિયડિઝમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જે વનસ્પતિઓને પુષ્પસર્જન માટે ચોક્કસ કટોકટી સમયગાળાથી વધુ પ્રકાશની જરૂર હોય તેને _____ કહે છે. (દીર્ઘ દિવસી વનસ્પતિ, લઘુ દિવસી વનસ્પતિ, તટસ્થ દિવસી વનસ્પતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દીર્ઘ દિવસી વનસ્પતિ (Long Day Plants)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીર્ઘ = મોટો (વધુ પ્રકાશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ટામેટા અને મરચા કયા પ્રકારની વનસ્પતિ છે? (તટસ્થ દિવસી, લઘુ દિવસી, દીર્ઘ દિવસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તટસ્થ દિવસી વનસ્પતિ (Day Neutral Plants)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટામેટા-મરચા ગમે ત્યારે (ગમે તેટલા પ્રકાશમાં) મળે, એટલે તેઓ તટસ્થ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પ્રકાશના ગાળાનું ગ્રહણ વનસ્પતિના કયા અંગ દ્વારા થાય છે? (પર્ણો, મૂળ, પ્રકાંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્ણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણો એ સોલર પેનલ જેવા છે, જે પ્રકાશને 'કેચ' કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "નીચા તાપમાને પુષ્પસર્જનની પ્રક્રિયા ઝડપી બનાવવાની પદ્ધતિને _____ કહે છે. (વસંતિકરણ, પ્રકાશ અવધિકાળ, સુષુપ્તતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસંતિકરણ (Vernalization)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસંતિકરણ = ઠંડક આપીને પુષ્પ ઉગાડવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ઘઉંની શિયાળુ જાતને કઈ ઋતુમાં વાવવામાં આવે છે? (શિયાળામાં, ઉનાળામાં, ચોમાસામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિયાળામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળુ જાત એટલે શિયાળામાં વાવવાની, વસંતમાં લણવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "દ્વિવર્ષાયુ વનસ્પતિઓ સામાન્ય રીતે _____ વર્ષે પુષ્પ આપે છે અને નાશ પામે છે. (બીજા, પહેલા, ત્રીજા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિવર્ષાયુ = 2 વર્ષનું આયુષ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "બીજની સુષુપ્તતા માટે જવાબદાર મુખ્ય અવરોધક કયો છે? (એબ્સિસિક એસિડ, જીએ3, ઓક્સિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એબ્સિસિક એસિડ (ABA)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABA બીજને કહે છે: 'અત્યારે ઊંઘી જા (સુષુપ્તતા), બહાર વાતાવરણ ખરાબ છે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ફળોના અકાળે પતનને અટકાવવા કયા અંતઃસ્ત્રાવનો ઉપયોગ થાય છે? (ઓક્સિન, ઇથિલિન, એબીએ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન ફળને ડાળી પર 'પકડી' રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "અંકાગણિતીય વૃદ્ધિમાં આલેખનો આકાર કેવો હોય છે? (રેખીય, સિગ્મોઈડ, પરવલય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય (Linear)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકગણિતમાં 1, 2, 3... સીધી લીટીમાં વધારો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જઠરાગ્નિની પ્રક્રિયા દરમિયાન સ્ટાર્ચનું માલ્ટોઝમાં રૂપાંતર કરવા કયો અંતઃસ્ત્રાવ ઉદીપન પૂરું પાડે છે? (જીબરેલિન, સાયટોકાઈનિન, ઇથિલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીબરેલિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીબરેલિન પાચક ઉત્સેચકો (Alpha-amylase) સક્રિય કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "ફાઈટોક્રોમ (Phytochrome) રંજકદ્રવ્ય વનસ્પતિમાં _____ માટે જવાબદાર છે. (પ્રકાશ અવધિકાળ, પ્રકાશસંશ્લેષણ, શ્વસન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાશ અવધિકાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાઈટોક્રોમ એ વનસ્પતિની 'આંખ' છે જે પ્રકાશનો સમય માપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "સફરજનને લાંબો સમય રાખવા અને તેને આકાર આપવા કયો અંતઃસ્ત્રાવ છાંટવામાં આવે છે? (જીબરેલિન, ઇથિલિન, ABA)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીબરેલિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફરજનને 'ગજબ' (GA) દેખાવ આપવા માટે GA વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "શાખા વધારવા અને અગ્રીય પ્રભુતા ઘટાડવા કયો અંતઃસ્ત્રાવ ઓક્સિનની વિરુદ્ધ કામ કરે છે? (સાયટોકાઈનિન, જીબરેલિન, ABA)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયટોકાઈનિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન ઉપર વધારે, સાયટોકાઈનિન બાજુમાં (શાખાઓ) વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "અનાનસમાં પુષ્પસર્જન પ્રેરે અને એકસાથે ફળ આવે તે માટે શું વપરાય છે? (ઇથિલિન, ઓક્સિન, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાનસ માટે Auxin અને Ethylene બંને કામના છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "નીચેનામાંથી કયો વૃદ્ધિ અવરોધક નથી? (IAA, ABA, ઇથિલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> IAA</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: IAA (ઓક્સિન) એ વૃદ્ધિ પ્રેરક છે, અવરોધક નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વનસ્પતિમાં થતી બધી જ જૈવિક ક્રિયાઓનું નિયમન જનીનિક અને _____ પરિબળો દ્વારા થાય છે. (પર્યાવરણીય, કૃત્રિમ, ભૌતિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર જનીન અને બહાર પર્યાવરણ - આ બે જ વનસ્પતિને ચલાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "ચોખાના ખેતરોમાં ડાંગરના રોપામાં થતા 'ફુલીશ સીડલિંગ' રોગ માટે જવાબદાર ફૂગ કઈ છે? (જીબરેલા ફુજીકુરોઈ, રાઈઝોપસ, એસ્પરજીલસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીબરેલા ફુજીકુરોઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીબરેલા પરથી જીબરેલિન નામ પડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "કોષ વિભાજનની ક્રિયાને ઉત્તેજતો મુખ્ય અંતઃસ્ત્રાવ કયો છે? (સાયટોકાઈનિન, એબીએ, ઇથિલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયટોકાઈનિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cytokinesis = સાયટોપ્લાઝમનું વિભાજન, એટલે નામ સાયટોકાઈનિન.</p></div>"
+    }
+  ]
+}

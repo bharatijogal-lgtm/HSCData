@@ -3813,3 +3813,371 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઉચ્ચ કક્ષાની વનસ્પતિઓમાં પ્રકાશસંશ્લેષણ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રકાશસંશ્લેષણ એ એક _____ પ્રક્રિયા છે જેના દ્વારા કાર્બનિક સંયોજનોનું સંશ્લેષણ થાય છે. (ભૌતિક-રાસાયણિક, જૈવિક, રાસાયણિક-ભૌતિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૌતિક-રાસાયણિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ (Physic) + સંશ્લેષણ (Chemical) = ભૌતિક-રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જોસેફ પ્રિસ્ટલે 1770 માં દર્શાવ્યું કે વનસ્પતિના વિકાસમાં _____ ની ભૂમિકા મહત્વની છે. (પાણી, હવા, સૂર્યપ્રકાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રિસ્ટલે 'પ્રાણવાયુ' (હવા) ની વાત કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જોસેફ પ્રિસ્ટલે દ્વારા 1774 માં _____ વાયુની શોધ કરવામાં આવી હતી. (CO2, O2, N2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> O2 (ઓક્સિજન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રિસ્ટલે = પ્રાણવાયુ (Oxygen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "_____ એ દર્શાવ્યું કે માત્ર સૂર્યપ્રકાશની હાજરીમાં જ વનસ્પતિ દ્વારા હવા શુદ્ધ થાય છે. (જાન ઇન્જનહાઉસ, પ્રિસ્ટલે, સેક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાન ઇન્જનહાઉસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઉસ (In-house) માં 'પ્રકાશ' ની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જુલિયસ વોન સેક્સે 1854 માં પુરાવા આપ્યા કે વનસ્પતિમાં વૃદ્ધિ દરમિયાન _____ ઉત્પન્ન થાય છે. (ગ્લુકોઝ, પ્રોટીન, લિપિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લુકોઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સેક્સ' (Sachs) - 'સુગર' (Sugar/Glucose).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વનસ્પતિમાં ખોરાક સામાન્ય રીતે _____ સ્વરૂપે સંગ્રહિત થાય છે. (ગ્લુકોઝ, સ્ટાર્ચ, ફ્રુક્ટોઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટાર્ચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બને ગ્લુકોઝ, સંગ્રહાય સ્ટાર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટી. ડબલ્યુ. એન્ગેલમેને પ્રકાશસંશ્લેષણના પ્રથમ સક્રિય વર્ણપટ માટે _____ લીલનો ઉપયોગ કર્યો હતો. (યુલોથ્રિક્સ, ક્લેડોફોરા, સ્પાયરોગાયરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્લેડોફોરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ગેલમેન + ક્લેડોફોરા (E-C connection).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એન્ગેલમેને બેક્ટેરિયાના એકત્રીકરણ દ્વારા જાણ્યું કે _____ અને લાલ પ્રકાશમાં વધુ પ્રકાશસંશ્લેષણ થાય છે. (પીળા, લીલા, વાદળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B-R (Blue-Red) પર બેક્ટેરિયાની ભીડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કોર્નેલિયસ વાન નીલે દર્શાવ્યું કે પ્રકાશસંશ્લેષણમાં મુક્ત થતો O2 એ _____ માંથી આવે છે. (CO2, H2O, ગ્લુકોઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H2O (પાણી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલ (Niel) - નીર (પાણી) માંથી ઓક્સિજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જાંબલી અને લીલા સલ્ફર બેક્ટેરિયા H2O ને બદલે _____ નો ઉપયોગ હાઇડ્રોજન દાતા તરીકે કરે છે. (H2S, CH4, NH3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H2S (હાઇડ્રોજન સલ્ફાઇડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફર બેક્ટેરિયા એટલે 'S' વાળું સંયોજન (H2S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હરિતકણની અંદર _____ માં પ્રકાશ પ્રક્રિયાઓ થાય છે. (સ્ટ્રોમા, ગ્રાના, મેટ્રિક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાના (થાયલેકોઇડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-G (Light-Grana).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "હરિતકણના _____ માં અંધકાર પ્રક્રિયા (Dark Reaction) થાય છે. (ગ્રાના, લ્યુમેન, સ્ટ્રોમા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટ્રોમા (આધારક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: D-S (Dark-Stroma).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ક્રોમેટોગ્રામમાં ક્લોરોફિલ-એ (Chl-a) _____ રંગ દર્શાવે છે. (પીળો-લીલો, વાદળી-લીલો, પીળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળી-લીલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = Apple = Bright = વાદળી-લીલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઝેન્થોફિલ રંજકદ્રવ્ય _____ રંગ આપે છે. (લીલો, નારંગી, પીળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પીળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X-Y (Xanthophyll-Yellow).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કાર્બન ડાયોક્સાઇડના સ્થાપન માટે મુખ્ય રંજકદ્રવ્ય _____ છે. (ક્લોરોફિલ-બી, ક્લોરોફિલ-એ, કેરોટિનોઇડ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્લોરોફિલ-એ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' હંમેશા 'એક' નંબર પર (મુખ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પ્રકાશ પ્રક્રિયા દરમિયાન ફોટોસિસ્ટમ II માં પ્રતિક્રિયા કેન્દ્ર _____ nm તરંગલંબાઇ શોષે છે. (700, 680, 660)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 680 nm</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PS-II (નાનું નામ) - 680 (નાનો આંકડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ફોટોસિસ્ટમ I (PS I) નું પ્રતિક્રિયા કેન્દ્ર _____ તરીકે ઓળખાય છે. (P680, P700, P600)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P700</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PS-I (મોટું નામ) - 700 (મોટો આંકડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઇલેક્ટ્રોન પરિવહન તંત્રમાં ઇલેક્ટ્રોનનો પ્રવાહ _____ આકારનો હોય છે. (L, Z, S)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Z</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z-સ્કીમ (Z-Scheme).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાણીનું વિભાજન (Photolysis) _____ સાથે સંકળાયેલું છે. (PS I, PS II, NADP રિડક્ટેઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PS II</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા પાણી તૂટે (PS II) પછી ઇલેક્ટ્રોન જાય (PS I).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાણીના વિભાજનથી _____ મુક્ત થાય છે. (ઇલેક્ટ્રોન, પ્રોટોન અને O2, માત્ર પ્રોટોન, માત્ર O2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોન, પ્રોટોન અને O2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H2O = 2H+ + 2e- + [O]. બધું જ છૂટું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ADP માંથી ATP બનવાની પ્રક્રિયાને _____ કહેવાય છે. (ઓક્સિડેશન, ફોસ્ફોરાયલેશન, હાઇડ્રોલિસિસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફોસ્ફોરાયલેશન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' ઉમેરાય (Phosphate) એટલે Phosphorylation.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ચક્રીય ફોટોફોસ્ફોરાયલેશનમાં માત્ર _____ જ કાર્યરત હોય છે. (PS I, PS II, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PS I</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્ર - 1 (Cycle starts and ends at One).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અચક્રીય ફોસ્ફોરાયલેશનમાં _____ અને NADPH બંનેનું નિર્માણ થાય છે. (ADP, ATP, H2O)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ATP</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z-સ્કીમમાં બે પ્રોડક્ટ: ATP + NADPH.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ચક્રીય ફોટોફોસ્ફોરાયલેશન _____ માં જોવા મળે છે. (સ્ટ્રોમા લેમેલી, ગ્રાના લેમેલી, લ્યુમેન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટ્રોમા લેમેલી (આંતરગ્રાના પટલ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેમેલી (Lamellae) માં PS II હોતું નથી, તેથી માત્ર ચક્રીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રસાયણઆસૃતિ (Chemiosmosis) માટે _____ ની જરૂર પડે છે. (પટલ, પ્રોટોન પંપ અને પ્રોટોન ઢોળાંશ, આપેલ તમામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટલ + પંપ + ઢોળાંશ + ATPase = ATP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પ્રકાશ પ્રક્રિયા દરમિયાન થાઇલેકોઇડના _____ માં પ્રોટોન (H+) જમા થાય છે. (સ્ટ્રોમા, લ્યુમેન, મેટ્રિક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લ્યુમેન (પોલાણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર 'લ્યુમેન' માં 'પ્રોટોન' ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ATPase ઉત્સેચકનો _____ ભાગ પટલની અંદર ખૂંપેલો હોય છે. (CF0, CF1, CF2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CF0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CF0 (Zero) અંદર, CF1 બહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પ્રકાશસંશ્લેષણની જૈવ-સંશ્લેષણ તબક્કો (Biosynthetic phase) _____ પર આધારિત છે. (પ્રકાશ, પ્રકાશ પ્રક્રિયાની નીપજો, માત્ર CO2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાશ પ્રક્રિયાની નીપજો (ATP, NADPH)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઈટ રિએક્શનની કમાણી (ATP) ડાર્ક રિએક્શનમાં વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "C3 પથમાં CO2 સ્થાપનની પ્રથમ સ્થિર નીપજ _____ છે. (OAA, PGA, PEP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PGA (3-ફોસ્ફોગ્લિસરિક એસિડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C3 - ત્રણ કાર્બન - PGA.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કેલ્વિન ચક્રમાં CO2 ના ગ્રહણકર્તા તરીકે _____ હોય છે. (PEP, RuBP, OAA)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> RuBP (રિબ્યુલોઝ 1,5-બાયફોસ્ફેટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલ્વિનનો 'R' - RuBP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કેલ્વિન ચક્રનો સૌથી નિર્ણાયક તબક્કો _____ છે. (રિડક્શન, પુનઃનિર્માણ, કાર્બોક્સિલેશન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બોક્સિલેશન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત સારી તો કામ સારું (Carboxylation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગ્લુકોઝના એક અણુના નિર્માણ માટે કેલ્વિન ચક્ર _____ વખત ફરે છે. (1, 3, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝમાં 6 કાર્બન, એટલે 6 ચક્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "એક CO2 અણુના સ્થાપન માટે કેલ્વિન ચક્રમાં _____ ATP અને 2 NADPH વપરાય છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 ATP (2 રિડક્શન + 1 રીજનરેશન) : 2 NADPH.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "C4 વનસ્પતિમાં CO2 નો પ્રથમ ગ્રાહક _____ છે. (RuBP, PGA, PEP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PEP (ફોસ્ફોઇનોલ પાયરુવેટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં 'P' (PEP) પહેલા આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "C4 પથમાં પ્રથમ સ્થિર નીપજ _____ છે. (PGA, મૅલિક એસિડ, ઓક્ઝેલો એસેટિક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્ઝેલો એસેટિક એસિડ (OAA)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 - ચાર કાર્બન - OAA (4 અક્ષર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "C4 વનસ્પતિઓના પર્ણોમાં વિશિષ્ટ અંતઃસ્થ રચના _____ જોવા મળે છે. (ક્રેન્ઝ એનાટોમી, જાળીદાર, સમાંતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રેન્ઝ એનાટોમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 = ક્રેન્ઝ (Kranz).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "C4 પથમાં PEPcase ઉત્સેચક _____ કોષોમાં હાજર હોય છે. (પુલકંચુક, મધ્યપર્ણ, વાહીપેશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યપર્ણ કોષો (Mesophyll)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PEPcase - બહાર (Mesophyll), RuBisCO - અંદર (Bundle sheath).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "C4 વનસ્પતિમાં RuBisCO ઉત્સેચક _____ કોષોમાં જોવા મળે છે. (મધ્યપર્ણ, પુલકંચુક, અધિસ્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુલકંચુક (Bundle sheath)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RuBisCO સુરક્ષિત અંદર (Bundle sheath) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "_____ પ્રક્રિયામાં ATP અને NADPH વપરાય છે પરંતુ શર્કરાનું સંશ્લેષણ થતું નથી. (પ્રકાશસંશ્લેષણ, શ્વસન, પ્રકાશશ્વસન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાશશ્વસન (Photorespiration)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટોરેસ્પિરેશન = વેસ્ટ (Waste) પ્રક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "RuBisCO જ્યારે ઓક્સિજન સાથે જોડાય ત્યારે RuBP નું વિભાજન એક PGA અને એક _____ માં થાય છે. (OAA, ફોસ્ફોગ્લાયકોલેટ, ગ્લુકોઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફોસ્ફોગ્લાયકોલેટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 + RuBisCO = ગ્લાયકોલેટ (2 Carbon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "_____ વનસ્પતિઓમાં પ્રકાશશ્વસન થતું નથી. (C3, C4, C2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 છે 'સ્માર્ટ' એટલે વેસ્ટ (Photorespiration) ન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "બ્લેકમેનનો લઘુત્તમ પરિબળનો નિયમ (Law of Limiting Factors) _____ માં આપવામાં આવ્યો હતો. (1905, 1860, 1920)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1905</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લેકમેન - 1905 (બ-પાંચ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "પ્રકાશની તીવ્રતા વધારતા પ્રકાશસંશ્લેષણનો દર _____ છે. (ઘટે છે, વધે છે, સ્થિર રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પ્રકાશ = વધુ ખોરાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પૂર્ણ સૂર્યપ્રકાશના _____ ટકા એ પ્રકાશ સંતૃપ્તિ (Light saturation) આવે છે. (5, 10, 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બસ 10% જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વાતાવરણમાં CO2 ની સાંદ્રતા _____ ટકાની વચ્ચે હોય છે. (0.03 - 0.04, 0.3 - 0.4, 0.003)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.03 - 0.04</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.03 (ત્રણ) થી 0.04 (ચાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "C3 વનસ્પતિઓ _____ ppm CO2 સાંદ્રતાએ સંતૃપ્તિ દર્શાવે છે. (360, 450, 500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 450 ppm</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C3 ભૂખી છે (વધુ CO2 - 450 જોઈએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "C4 વનસ્પતિઓ આશરે _____ ppm CO2 સાંદ્રતાએ સંતૃપ્તિ દર્શાવે છે. (360, 450, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 360 ppm</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 કાર્યક્ષમ છે (ઓછા CO2 - 360 એ કામ પતાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ગ્રીનહાઉસ પાકો જેવા કે ટામેટા અને બેલ મરી (Bell pepper) ને _____ ના વધુ જથ્થામાં ઉગાડવામાં આવે છે. (O2, CO2, N2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 વધારો - ઉત્પાદન વધારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "પ્રકાશસંશ્લેષણની અંધકાર પ્રક્રિયા _____ દ્વારા નિયંત્રિત હોવાથી તાપમાન પ્રત્યે સંવેદનશીલ છે. (પટલ, લિપિડ, ઉત્સેચકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્સેચકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ઝાઇમ (Enzymes) + તાપમાન = અસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "પાણીની અછતને કારણે _____ બંધ થઈ જાય છે, જેથી CO2 ની પ્રાપ્યતા ઘટે છે. (મૂળરોમ, વાયુરંધ્ર, અન્નવાહક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુરંધ્ર (Stomata)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નથી - બારી (Stomata) બંધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "PS II માંથી મુક્ત થયેલા ઇલેક્ટ્રોન સૌપ્રથમ _____ દ્વારા સ્વીકારવામાં આવે છે. (સાઇટોક્રોમ, પ્લાસ્ટોક્વિનોન, ઇલેક્ટ્રોન ગ્રાહક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોન ગ્રાહક (Electron acceptor)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે છોડે એને પકડવા વાળો (Acceptor) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "PS I અને PS II બંને _____ માં આવેલા હોય છે. (સ્ટ્રોમા, થાયલેકોઇડ પટલ, બાહ્ય પટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થાયલેકોઇડ પટલ (Thylakoid membrane)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેમ્બ્રેન માં મશીનરી (PS) ગોઠવાયેલી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "પ્રકાશ પ્રક્રિયામાં NADPH નું નિર્માણ _____ પર થાય છે. (લ્યુમેન બાજુ, સ્ટ્રોમા બાજુ, પટલની અંદર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટ્રોમા બાજુ (Stroma side)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NADPH ને બહાર (Stroma) જવાનું છે, એટલે બહાર જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "એક ગ્લુકોઝ બનાવવા માટે કુલ _____ ATP ની જરૂર પડે છે (C3 પથ મુજબ). (12, 18, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 CO2 x 3 ATP = 18 ATP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "C4 વનસ્પતિમાં એક ગ્લુકોઝ માટે કુલ _____ ATP વપરાય છે. (18, 30, 38)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં મોંઘવારી વધુ (12 ATP વધારાના) = 18 + 12 = 30.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ક્લોરોફિલ-બી _____ પ્રકાશનું મહત્તમ શોષણ કરે છે. (વાદળી અને લાલ, પીળો, લીલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળી અને લાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા જ હરિતદ્રવ્ય વાદળી-લાલ પ્રેમી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "RuBisCO એ વિશ્વમાં સૌથી વધુ પ્રમાણમાં મળી આવતો _____ છે. (લિપિડ, શર્કરા, પ્રોટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટીન (ઉત્સેચક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્સેચક એટલે પ્રોટીન, RuBisCO નંબર 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "C4 વનસ્પતિના ઉદાહરણમાં _____ નો સમાવેશ થાય છે. (ઘઉં, ચોખા, મકાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મકાઈ (અને શેરડી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ વિસ્તારના પાક - મકાઈ/શેરડી = C4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "સૂર્યપ્રકાશમાં દ્રશ્ય વર્ણપટની તરંગલંબાઇ _____ nm ની વચ્ચે હોય છે. (100-400, 400-700, 700-1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 400-700 nm</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: VIBGYOR = 400 થી 700.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "LHC (Light Harvesting Complex) માં સેંકડો રંજકદ્રવ્યો _____ સાથે જોડાયેલા હોય છે. (લિપિડ, પ્રોટીન, વિટામિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ટેના (LHC) પ્રોટીન ના બનેલા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "કેરોટીનોઈડ્સ રંજકદ્રવ્યો વનસ્પતિને _____ થી બચાવે છે. (વરસાદ, ફોટો-ઓક્સિડેશન, બેક્ટેરિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફોટો-ઓક્સિડેશન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરોટીનોઈડ્સ = સનસ્ક્રીન (Sunscreens) ઓફ પ્લાન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "C3 વનસ્પતિમાં RuBisCO ની O2 પ્રત્યેની બંધુતા _____ વધતા વધે છે. (તાપમાન, ભેજ, દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધે - RuBisCO ભૂલ કરે (O2 સાથે જોડાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "પ્રકાશસંશ્લેષણનો દર માપવા માટે વપરાતો પ્રયોગ 'બેલ જાર' (Bell Jar) _____ એ કર્યો હતો. (ઇન્જનહાઉસ, પ્રિસ્ટલે, વાન નીલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રિસ્ટલે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રિસ્ટલે + ઉંદર + મીણબત્તી + બેલ જાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કાર્બન ડાયોક્સાઇડના સ્થાપનનો 'કેલ્વિન પથ' _____ દ્વારા શોધાયો હતો. (રેડિયોએક્ટિવ C14, રેડિયોએક્ટિવ O18, N15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડિયોએક્ટિવ C14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન ચક્ર શોધવા કાર્બન (C14) જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "પુલકંચુકના કોષોમાં _____ ની સંખ્યા વધુ હોય છે. (કણાભસૂત્ર, હરિતકણ, રિબોઝોમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિતકણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં 'પુલ' (Bundle) માં પણ હરિતકણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "ચક્રીય ફોટોફોસ્ફોરાયલેશનમાં _____ નું સંશ્લેષણ થતું નથી. (ATP, NADPH, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> NADPH</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્રમાં માત્ર 'A' (ATP) બને, 'N' (NADPH) નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "_____ એ પ્રકાશસંશ્લેષણ માટેનું સૌથી મર્યાદિત પરિબળ છે. (સૂર્યપ્રકાશ, CO2, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણમાં CO2 બહુ ઓછો (0.03%) છે, એટલે લિમિટીંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "કેલ્વિન ચક્રના પુનઃનિર્માણ (Regeneration) તબક્કામાં એક RuBP માટે _____ ATP વપરાય છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રી-જનરેશન = રી-ચાર્જ (1 ATP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "હરિતકણમાં પાણીના વિભાજનનો ઉત્સેચક _____ બાજુએ આવેલો હોય છે. (સ્ટ્રોમા, લ્યુમેન, બાહ્ય પટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લ્યુમેન (અંદરની બાજુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી લ્યુમેનમાં તૂટે તો જ પ્રોટોન ત્યાં ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "ક્રેન્ઝ પેશી રચના ધરાવતી વનસ્પતિમાં મધ્યપર્ણ કોષોમાં _____ ઉત્સેચકનો અભાવ હોય છે. (PEPcase, RuBisCO, ATPase)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> RuBisCO</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં મધ્યપર્ણમાં RuBisCO હોતું નથી (તે પુલકંચુકમાં હોય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "પ્રકાશસંશ્લેષણ માટે અનુકૂળ તાપમાન C4 વનસ્પતિઓ માટે _____ ડિગ્રી સેલ્સિયસ છે. (10-20, 20-25, 30-40)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 30-40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 = Tropical = ગરમી પ્રેમી (High Temp).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "પ્રકાશ પ્રક્રિયામાં ઇલેક્ટ્રોન પરિવહન દરમિયાન પ્રોટોન ઢોળાંશ _____ દ્વારા તૂટે છે. (ATP સિન્થેટેઝ, સાઇટોક્રોમ, હરિતદ્રવ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ATP સિન્થેટેઝ (ATPase)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢોળાંશ તૂટે - શક્તિ છૂટે (ATP બને).</p></div>"
+    }
+  ]
+}

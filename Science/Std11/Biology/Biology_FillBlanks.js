@@ -6389,3 +6389,371 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "ચેતાકીય નિયંત્રણ અને સહનિયમન",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એવી પ્રક્રિયા જેના દ્વારા બે અથવા વધુ અંગો એકબીજા સાથે આંતરક્રિયા કરે અને તેમના કાર્યોને પૂરક બનાવે તેને _____ કહે છે. (નિયંત્રણ, સહનિયમન, પરિવહન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહનિયમન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સહ' એટલે સાથે અને 'નિયમન' એટલે મેનેજમેન્ટ - સાથે મળીને કામ કરવું એટલે સહનિયમન (Coordination).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હાઈડ્રા જેવા નિમ્ન કક્ષાના અપૃષ્ઠવંશીઓમાં ચેતાતંત્ર _____ નું બનેલું હોય છે. (ચેતાકોષોની જાળી, મગજ, કરોડરજ્જુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેતાકોષોની જાળી (Nerve Net)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રા પાણીમાં રહે છે અને તેની જાળી (Net) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માનવ ચેતાતંત્ર મુખ્યત્વે _____ ભાગોમાં વહેંચાયેલું છે. (બે, ત્રણ, ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે (CNS અને PNS)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખ્ય બે જ - સેન્ટ્રલ (CNS) અને પેરીફેરલ (PNS).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મગજ અને કરોડરજ્જુનો સમાવેશ _____ માં થાય છે. (PNS, CNS, ANS)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CNS (મધ્યવર્તી ચેતાતંત્ર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટ્રલ એટલે મધ્યમાં આવેલું - મગજ અને કરોડરજ્જુ શરીરની મધ્ય ધરી પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંવેદી અંગોથી CNS તરફ ઉર્મિવેગનું વહન કરતી ચેતાતંતુઓને _____ કહે છે. (અંતર્વાહી, બહિર્વાહી, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર્વાહી (Afferent)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' એટલે અંદર (CNS ની અંદર જવું) = અંતર્વાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "CNS માંથી ઉર્મિવેગનું વહન પેરિફેરલ અંગો કે પેશીઓ તરફ કરતી તંતુઓને _____ કહે છે. (અંતર્વાહી, બહિર્વાહી, સંવેદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિર્વાહી (Efferent)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' એટલે બહાર (CNS ની બહાર નીકળવું) = બહિર્વાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઐચ્છિક અંગો અને કંકાલ સ્નાયુઓનું નિયંત્રણ _____ ચેતાતંત્ર કરે છે. (સ્વયંવર્તી, કાયિક, અંતરંગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયિક ચેતાતંત્ર (Somatic Nervous System)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયા (શરીર) ના હાલચલ માટે 'કાયિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અનૈચ્છિક અંગો અને લીસા સ્નાયુઓનું નિયંત્રણ _____ ચેતાતંત્ર દ્વારા થાય છે. (કાયિક, સ્વયંવર્તી, કેન્દ્રીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વયંવર્તી ચેતાતંત્ર (Autonomic Nervous System)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓટોમેટિક કામ કરે એટલે ઓટોનોમિક (સ્વયંવર્તી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્વયંવર્તી ચેતાતંત્રના બે ભાગો અનુકંપી અને _____ છે. (પરાનુકંપી, કેન્દ્રીય, લિમ્બિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાનુકંપી (Parasympathetic)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુકંપી (Sympathetic) અને પરાનુકંપી (Parasympathetic) એકબીજાના જોડીદાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચેતાકોષના કોષકાયમાં રહેલી ઘટ્ટ રંગીન કણિકાઓને _____ કહે છે. (ગોલ્ગી કાય, નિસલની કણિકાઓ, રીબોઝોમ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિસલની કણિકાઓ (Nissl's granules)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'N'euron માં 'N'issl's granules હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "એક અક્ષતંતુ અને બે કે તેથી વધુ શિખાતંતુ ધરાવતા ચેતાકોષને _____ કહે છે. (એકધ્રુવીય, દ્વિધ્રુવીય, બહુધ્રુવીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહુધ્રુવીય (Multipolar)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણા બધા તંતુઓ (1 અક્ષ + 2+ શિખા) = બહુ (Multi).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બહુધ્રુવીય ચેતાકોષો મુખ્યત્વે _____ માં જોવા મળે છે. (રેટિના, ભ્રૂણાવસ્થા, મસ્તિષ્ક બાહ્યક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મસ્તિષ્ક બાહ્યક (Cerebral Cortex)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજ (Cerebrum) માં બહુ બુદ્ધિ જોઈએ એટલે ત્યાં બહુધ્રુવીય કોષો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આંખના નેત્રપટલમાં (Retina) _____ ચેતાકોષો જોવા મળે છે. (એકધ્રુવીય, દ્વિધ્રુવીય, બહુધ્રુવીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિધ્રુવીય (Bipolar)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણી પાસે 2 (દ્વિ) આંખો છે, તો નેત્રપટલમાં દ્વિધ્રુવીય ચેતાકોષ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "માત્ર એક અક્ષતંતુ ધરાવતા ચેતાકોષને _____ કહે છે. (એકધ્રુવીય, દ્વિધ્રુવીય, બહુધ્રુવીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકધ્રુવીય (Unipolar)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર 1 અક્ષતંતુ = 1 = એકધ્રુવીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મજ્જિત ચેતાતંતુઓમાં સ્વાનના કોષો અક્ષતંતુની ફરતે _____ નું પડ બનાવે છે. (પ્રોટીન, લિપિડ, મજ્જાપડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મજ્જાપડ (Myelin Sheath)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજ્જિત (Myelinated) એટલે જેના પર મજ્જાપડ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બે ક્રમિક મજ્જાપડ વચ્ચેના અવકાશને _____ કહે છે. (સિનેપ્સ, રેનવિયરની ગાંઠ, નિસલની કણિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેનવિયરની ગાંઠ (Nodes of Ranvier)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજ્જાપડની વચ્ચે 'ગેપ' એટલે રેનવિયરનો 'સ્ટોપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જ્યારે ચેતાકોષ કોઈ પણ ઉર્મિવેગનું વહન ન કરતો હોય ત્યારે તેને _____ અવસ્થામાં કહેવાય. (સક્રિય, વિશ્રામી, વિધ્રુવીકૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્રામી (Resting)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહન નથી કરતો એટલે 'આરામ' (Resting) કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિશ્રામી અવસ્થામાં અક્ષતંતુની અંદરની બાજુ _____ આયનો માટે વધુ પ્રવેશશીલ હોય છે. (Na+, K+, Cl-)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> K+ (પોટેશિયમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'K' એટલે કે અંદર 'K' માટે રસ્તો ખુલ્લો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Na-K પંપ દ્વારા 3 Na+ બહાર અને _____ K+ અંદર તરફ વહન પામે છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 32 (ત્રણ Na બહાર, બે K અંદર) - લક્કી નંબર 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિશ્રામી અવસ્થામાં અક્ષતંતુના પટલની બહારની સપાટી _____ વીજભાર ધરાવે છે. (ધન, ઋણ, તટસ્થ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન (+ve)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર Na+ વધારે એટલે બહાર પ્લસ (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઉત્તેજના આપતા Na+ માટે પટલ પ્રવેશશીલ બને છે, જેના પરિણામે અંદરની સપાટી ધન બને છે, આ સ્થિતિને _____ કહે છે. (ધ્રુવીકરણ, વિધ્રુવીકરણ, પુનઃધ્રુવીકરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધ્રુવીકરણ (Depolarization)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલારિટી ઉલટાઈ એટલે 'De'polarization.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિધ્રુવીકરણ દરમિયાન સર્જાતા વિદ્યુતસ્થિતિમાનના તફાવતને _____ કહે છે. (વિશ્રામી કલા વીજસ્થિતિમાન, સક્રિય કલા વીજસ્થિતિમાન, અંતિમ વીજસ્થિતિમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સક્રિય કલા વીજસ્થિતિમાન (Action Potential)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ ચાલુ થયું એટલે 'એક્શન' પોટેન્શિયલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બે ચેતાકોષો વચ્ચેના જોડાણને _____ કહે છે. (ગાંઠ, સિનેપ્સ, પટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિનેપ્સ (Synapse - ચેતાપાગમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ચેતાકોષો વચ્ચેની 'ગેપ' કે 'મેળ' એટલે સિનેપ્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સિનેપ્સના પ્રકારોમાં વિદ્યુતીય સિનેપ્સ અને _____ સિનેપ્સનો સમાવેશ થાય છે. (ભૌતિક, રાસાયણિક, યાંત્રિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાસાયણિક (Chemical)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંદેશો આપવા કાં તો વીજળી (Electric) જોઈએ અથવા રસાયણ (Chemical).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રાસાયણિક સિનેપ્સમાં ઉપયોગમાં લેવાતા રસાયણોને _____ કહે છે. (હોર્મોન્સ, ન્યુરોટ્રાન્સમીટર, એન્ઝાઇમ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુરોટ્રાન્સમીટર (Neurotransmitters)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુરો એટલે ચેતા, ટ્રાન્સમીટર એટલે મેસેજ મોકલનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "માનવ મગજ _____ દ્વારા રક્ષાયેલું હોય છે. (કરોડસ્તંભ, ખોપરી, પાંસળીપિંજર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોપરી (Skull)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજનું હેલ્મેટ એટલે ખોપરી (Cranium).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મગજના બહારના આવરણને _____ કહે છે. (બાહ્ય તનિકા, મધ્ય તનિકા, અંતઃ તનિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્ય તનિકા (Dura mater)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: D-A-P યાદ રાખો: Dura (બહાર), Arachnoid (મધ્ય), Pia (અંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મગજનો મુખ્ય મોટો ભાગ _____ છે. (અનુમસ્તિષ્ક, બૃહદમસ્તિષ્ક, સેતુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૃહદમસ્તિષ્ક (Cerebrum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બૃહદ' એટલે મોટું, માટે મગજનો મોટો ભાગ બૃહદમસ્તિષ્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બૃહદમસ્તિષ્ક ગોળાર્ધો _____ પટ્ટી દ્વારા જોડાયેલા હોય છે. (કોર્પસ લ્યુટિયમ, કોર્પસ કેલોસમ, થેલેમસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્પસ કેલોસમ (Corpus callosum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C'onnecting 'C'allosum - જે બંને બાજુને જોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બૃહદમસ્તિષ્કનો બહારનો ભાગ _____ દ્રવ્યનો બનેલો છે. (શ્વેત, ભૂખરું, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂખરું (Grey Matter)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજમાં બહાર ગ્રે (Grey) અને અંદર વ્હાઈટ (White).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ભૂખરું દ્રવ્ય _____ ની હાજરીને કારણે ભૂખરું દેખાય છે. (અક્ષતંતુ, ચેતાકોષકાય, સ્વાન કોષો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેતાકોષકાય (Cell bodies)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષકાયામાં કણિકાઓ હોય એટલે તે ઘટ્ટ અને ભૂખરું લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બૃહદમસ્તિષ્ક બાહ્યકમાં રહેલા એવા વિસ્તારો જે ન તો સંવેદી છે ન તો પ્રેરક, તેમને _____ કહે છે. (સહચર્ય વિસ્તારો, પ્રેરક વિસ્તારો, દ્રશ્ય વિસ્તારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહચર્ય વિસ્તારો (Association Areas)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવેદી અને પ્રેરક વચ્ચે 'એસોસિએશન' (સહચર્ય) કરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સંવેદી અને પ્રેરક સંકેતો માટેનું મુખ્ય રિલે સેન્ટર _____ છે. (હાયપોથેલેમસ, થેલેમસ, પોન્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થેલેમસ (Thalamus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T'halamus acts as a 'T'raffic controller (રિલે સેન્ટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "શરીરનું તાપમાન, ભૂખ અને તરસનું નિયંત્રણ _____ દ્વારા થાય છે. (થેલેમસ, હાયપોથેલેમસ, મેડ્યુલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાયપોથેલેમસ (Hypothalamus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H'ypothalamus = 'H'omeostasis (તાપમાન/ભૂખ/તરસનું સંતુલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "લાગણીઓ (જેમ કે ભય અને ઉત્તેજના) નું નિયંત્રણ લિમ્બિક તંત્ર અને _____ દ્વારા થાય છે. (હાયપોથેલેમસ, અનુમસ્તિષ્ક, સેતુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાયપોથેલેમસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિમ્બિક તંત્ર (ભાવાત્મક મગજ) સાથે હંમેશા હાયપોથેલેમસ જોડાયેલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મધ્યમગજ અને પશ્ચમગજ વચ્ચેથી પસાર થતી નળીને _____ કહે છે. (ચેતા નળી, મસ્તિષ્ક જલવાહિની, રુધિરવાહિની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મસ્તિષ્ક જલવાહિની (Cerebral Aqueduct)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજમાં પાણી (જલ) જવાની પાઈપ એટલે 'Aqueduct'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મધ્યમગજની પૃષ્ઠ બાજુએ ચાર ઉપસેલા ગોળાર્ધો આવેલા છે, જેને _____ કહે છે. (કોર્પસ કેલોસમ, કોર્પોરા ક્વાડ્રિજેમિના, પોન્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્પોરા ક્વાડ્રિજેમિના (Corpora quadrigemina)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Quad' એટલે 4 (ચાર ગોળાર્ધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પશ્ચમગજમાં સેતુ, લંબમજ્જા અને _____ નો સમાવેશ થાય છે. (થેલેમસ, અનુમસ્તિષ્ક, હાયપોથેલેમસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુમસ્તિષ્ક (Cerebellum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચ એટલે પાછળ - પાછળ નાનું મગજ (અનુમસ્તિષ્ક) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વધારે ચેતાકોષો સમાવવા માટે ખુબ જ ગૂંચળામય સપાટી _____ ધરાવે છે. (બૃહદમસ્તિષ્ક, અનુમસ્તિષ્ક, લંબમજ્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુમસ્તિષ્ક (Cerebellum)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધા ચાલવા (Balance) માટે અનુમસ્તિષ્કને વધુ જગ્યા જોઈએ, એટલે તે ગૂંચળામય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "શ્વસન, હૃદયના ધબકારા અને જઠરના સ્ત્રાવનું નિયંત્રણ કેન્દ્ર _____ માં આવેલું છે. (પોન્સ, લંબમજ્જા, થેલેમસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબમજ્જા (Medulla oblongata)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'M'edulla = 'M'ain functions (શ્વસન, હૃદય) જે જીવવા માટે જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "મધ્યમગજ અને પશ્ચમગજ ભેગા મળીને _____ બનાવે છે. (લિમ્બિક તંત્ર, મગજકાંડ, મસ્તિષ્ક ગોળાર્ધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મગજકાંડ (Brain Stem)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજનું થડ (Stem) એટલે મધ્ય + પશ્ચમગજ (અનુમસ્તિષ્ક સિવાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પરાવર્તી ક્રિયામાં સંવેદી અંગ અને પ્રતિસાદી અંગને જોડતા માર્ગને _____ કહે છે. (ચેતા માર્ગ, પરાવર્તી કમાન, પરાવર્તી પ્રક્રિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાવર્તી કમાન (Reflex Arc)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેસેજ જાય અને પાછો આવે એ રસ્તો 'કમાન' (Arc) જેવો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "આંખના ડોળાનું સૌથી બહારનું પડ _____ નું બનેલું છે. (કોરોઈડ, શ્વેતપટલ, નેત્રપટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વેતપટલ (Sclera)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંખનો સફેદ ભાગ એટલે શ્વેતપટલ (Sclera).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "શ્વેતપટલના આગળના પારદર્શક ભાગને _____ કહે છે. (કનિનિકા, પારદર્શક પટલ, નેત્રમણિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પારદર્શક પટલ (Cornea)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમાંથી પ્રકાશ અંદર જાય તે 'C'lear 'C'ornea.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "આંખનું મધ્ય પડ રુધિરવાહિનીઓથી સભર અને ભૂરા રંગનું હોય છે, જેને _____ કહે છે. (શ્વેતપટલ, રુધિરકેશિકાપટલ, નેત્રપટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિરકેશિકાપટલ (Choroid)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Choroid = Colored (ભૂરું) અને રુધિરવાહિની ધરાવતું મધ્ય પડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "આંખના ડોળાનો રંગીન ભાગ જે કીકીના કદનું નિયંત્રણ કરે છે તેને _____ કહે છે. (કનિનિકા, પક્ષ્મકાય, નેત્રમણિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કનિનિકા (Iris)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Iris એટલે 'I' - Eye નો રંગ આપનાર ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "નેત્રપટલ (Retina) માં પ્રકાશગ્રાહી કોષો તરીકે દંડકોષો અને _____ આવેલા હોય છે. (શંકુકોષો, ચેતાકોષો, આડી કોષો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકુકોષો (Cones)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C'ones for 'C'olor (રંગીન પ્રકાશ માટે શંકુકોષો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "દંડકોષોમાં જાંબલી-લાલ રંગનું પ્રોટીન હોય છે જેને _____ કહે છે. (રેટિનાલ, રોડોપ્સિન, મેલેનિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોડોપ્સિન (Rhodopsin)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'R'ods માં 'R'hodopsin હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "નેત્રપટલના જે ભાગમાં દ્રષ્ટિની તીવ્રતા સૌથી વધુ હોય છે તેને _____ કહે છે. (અંધબિંદુ, પિત્તબિંદુ, ફોવિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફોવિયા (Fovea / ગર્ત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'F'ovea provides 'F'ocused (તીવ્ર) vision.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "પારદર્શક પટલ અને નેત્રમણિ વચ્ચેના અવકાશને _____ કહે છે. (કાચરસ કોટર, તરલરસ કોટર, મધ્ય કોટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરલરસ કોટર (Aqueous Chamber)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળ (A) ની બાજુ Aqueous (તરલરસ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "માનવ કાનને ત્રણ મુખ્ય ભાગોમાં વહેંચી શકાય: બાહ્યકર્ણ, મધ્યકર્ણ અને _____ . (અંતઃકર્ણ, અસ્થિકર્ણ, કર્ણપલ્લવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતઃકર્ણ (Inner Ear)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાનમાં 1, 2, 3 - બહાર, વચ્ચે, અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "બાહ્ય શ્રવણ નલિકાના છેડે _____ આવેલું હોય છે, જેને કાનનો પડદો પણ કહે છે. (કર્ણપલ્લવ, કર્ણપટલ, યુસ્ટેકિયન નલિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કર્ણપટલ (Tympanic Membrane)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Tympanum' એટલે ડ્રમ - કાનનો પડદો ડ્રમ જેવો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "મધ્યકર્ણમાં ત્રણ અસ્થિઓ: હથોડી, એરણ અને _____ આવેલી છે. (પેંગડું, મણિ, રકાબી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેંગડું (Stapes)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MIS - Malleus (હથોડી), Incus (એરણ), Stapes (પેંગડું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "મધ્યકર્ણના પોલાણને કંઠનળી સાથે જોડતી નલિકાને _____ કહે છે. (શ્રવણ નલિકા, યુસ્ટેકિયન નલિકા, કોક્લિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુસ્ટેકિયન નલિકા (Eustachian Tube)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાન અને ગળા (E-N-T) ને જોડતી ટ્યુબ એટલે 'યુસ્ટેકિયન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "અંતઃકર્ણના ગૂંચળામય ભાગને _____ કહે છે. (કર્ણશંખ, કર્ણપલ્લવ, વેસ્ટિબ્યુલર સાધન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કર્ણશંખ (Cochlea)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શંખ' જેવો ગૂંચળામય આકાર એટલે કર્ણશંખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "કર્ણશંખમાં આવેલ સાંભળવા માટેનું મુખ્ય અંગ _____ છે. (કોર્ટીકાય, વેસ્ટિબ્યુલર, મેક્યુલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટીકાય (Organ of Corti)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C'ochlea ની અંદર 'C'orti - જે સાંભળવાનું કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "શરીરનું સંતુલન જાળવવા માટે અંતઃકર્ણમાં _____ આવેલું હોય છે. (કર્ણશંખ, વેસ્ટિબ્યુલર એપરેટસ, કર્ણપટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેસ્ટિબ્યુલર એપરેટસ (Vestibular Apparatus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંભળવા માટે 'Cochlea', સંતુલન માટે 'Vestibule'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "અર્ધવર્તુળી નળીઓના ફૂલેલા ભાગને _____ કહે છે. (મેક્યુલા, એમ્પ્યુલા, સેક્યુલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમ્પ્યુલા (Ampulla)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A'mpulla એટલે 'A'mple (મોટો/ફૂલેલો) ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "શરીરના સ્થિર સંતુલન માટે જવાબદાર અંગ _____ છે. (એમ્પ્યુલા, મેક્યુલા, કર્ણશંખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેક્યુલા (Macula)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'M'acula maintain 'M'otionless (સ્થિર) balance.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ઉર્મિવેગનું વહન એક ચેતાકોષમાંથી બીજા ચેતાકોષમાં રાસાયણિક સિનેપ્સમાં _____ દ્વારા થાય છે. (લિપિડ, ન્યુરોટ્રાન્સમીટર, ઉત્સેચક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુરોટ્રાન્સમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રાન્સમીટર એટલે જે મોકલે - અહીં ચેતાકીય સંદેશો મોકલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "સંવેદી ન્યુરોન્સ ઉર્મિવેગને _____ થી CNS તરફ લઈ જાય છે. (CNS, ગ્રાહી અંગો, સ્નાયુઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાહી અંગો (Receptors)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવેદના હંમેશા બહારથી (ગ્રાહી અંગ) અંદર (મગજ) જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ચેતાપટલની વિશ્રામી અવસ્થામાં અંદરની બાજુ _____ ચાર્જ ધરાવે છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ (-ve)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિશ્રામી અવસ્થામાં અંદર 'Negative' (ઋણ) વાતાવરણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "નેત્રપટલમાં રંગ પારખવા માટે _____ જવાબદાર છે. (દંડકોષો, શંકુકોષો, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકુકોષો (Cones)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકુ = 'શ' એટલે 'શો' (Show) - દુનિયાના રંગો જોવા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પેંગડું (Stapes) અસ્થિ અંતઃકર્ણના _____ સાથે જોડાયેલું હોય છે. (ગોળાકાર બારી, અંડાકાર બારી, કર્ણપટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંડાકાર બારી (Oval Window)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stapes 'O'val window સાથે - સો (SO) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "મનુષ્યમાં દ્વિધ્રુવીય ચેતાકોષો ક્યાં જોવા મળે છે? (મસ્તિષ્ક બાહ્યક, નેત્રપટલ, કરોડરજ્જુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેત્રપટલ (Retina)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 આંખો = દ્વિધ્રુવીય (Bipolar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "રાત્રિ દ્રષ્ટિ (ઝાંખા પ્રકાશમાં જોવું) માટે _____ જવાબદાર છે. (શંકુકોષો, દંડકોષો, લેન્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દંડકોષો (Rods)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાત્રે લાકડી (દંડ) લઈને ચાલવું પડે - દંડકોષો રાત્રે કામ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "કોર્પોરા ક્વાડ્રિજેમિના _____ મગજનો ભાગ છે. (અગ્ર, મધ્ય, પશ્ચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્ય (Midbrain)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્વાડ્રિજેમિના મધ્યમાં 'સેન્ડવિચ' થયેલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "એસીટાઇલકોલીન એક _____ છે. (ઉત્સેચક, ન્યુરોટ્રાન્સમીટર, અંતઃસ્ત્રાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુરોટ્રાન્સમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી કોમન 'મેસેન્જર' એટલે એસીટાઇલકોલીન (ACh).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "મજ્જિત ચેતાતંતુઓમાં ઉર્મિવેગનું વહન અમજ્જિત કરતા _____ હોય છે. (ધીમું, ઝડપી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપી (Fast)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજ્જાપડ હોય તો ઉર્મિવેગ કુદકા (Saltatory) મારીને જાય, એટલે ફાસ્ટ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "રેનવિયરની ગાંઠ _____ પર જોવા મળે છે. (શિખાતંતુ, અક્ષતંતુ, કોષકાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અક્ષતંતુ (Axon)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબો રોડ એટલે અક્ષતંતુ અને તેના પરના ખાડા એટલે રેનવિયરની ગાંઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "ઉર્મિવેગ હંમેશા શિખાતંતુથી _____ તરફ વહન પામે છે. (કોષકાય, અક્ષતંતુ, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને (ક્રમશઃ કોષકાય અને પછી અક્ષતંતુ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વન-વે ટ્રાફિક: શિખાતંતુ -> કોષકાય -> અક્ષતંતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "મગજની અંદરના ભાગમાં રહેલું શ્વેત દ્રવ્ય _____ ની હાજરીને કારણે સફેદ દેખાય છે. (અક્ષતંતુ, મજ્જાપડ, ન્યુરોપ્લાઝમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મજ્જાપડ (Myelin Sheath)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરબીયુક્ત મજ્જાપડ સફેદ રંગનું હોય, એટલે તે શ્વેત દ્રવ્ય બનાવે.</p></div>"
+    }
+  ]
+}

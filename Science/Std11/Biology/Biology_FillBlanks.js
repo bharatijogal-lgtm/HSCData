@@ -6021,3 +6021,371 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "પ્રચલન અને હલનચલન",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અમીબામાં જોવા મળતું હલનચલન _____ પ્રકારનું છે. (પક્ષ્મલ, અમીબીય, સ્નાયુલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીબા એટલે અમીબીય! આમાં કોષરસનું પ્રવર્ધન (ખોટા પગ) બને છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "માનવ શરીરમાં શ્વેતકણો અને મેક્રોફેજ _____ હલનચલન દર્શાવે છે. (પક્ષ્મલ, અમીબીય, સ્નાયુલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'W'BC અને 'M'acrophage 'A'moeboid હલનચલન કરે. યાદ રાખો: WMA (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શ્વાસનળીમાં ધૂળના રજકણોને બહાર કાઢવા માટે _____ હલનચલન મદદરૂપ છે. (પક્ષ્મલ, અમીબીય, કશાધારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પક્ષ્મલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષ્મ એટલે નાની સાવરણી જે કચરો (ધૂળ) બહાર કાઢે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શરીરના વજનના લગભગ _____ ટકા હિસ્સો સ્નાયુઓ ધરાવે છે. (20-30, 40-50, 60-70)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 40-50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું શરીર સ્નાયુનું બનેલું છે એમ યાદ રાખો (50%). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સ્નાયુઓના સંકુલના ઉપરના સંયોજક પેશીના આવરણને _____ કહે છે. (ફેશિયા, સાર્કોલેમા, સાર્કોપ્લાઝમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેશિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નાયુ 'ફેશ'નેબલ (ફેશિયા) કવર પહેરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્નાયુતંતુના કોષરસપટલને _____ કહેવામાં આવે છે. (સાર્કોપ્લાઝમ, સાર્કોલેમા, એન્ડોપ્લાઝમિક રેટીક્યુલમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાર્કોલેમા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેમા (Lemma) = લેયર (Layer) એટલે કે પડ/પટલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્નાયુતંતુ પ્રરસજાળ (Sarcoplasmic Reticulum) એ _____ આયનોનો સંગ્રહસ્થાન છે. (Na+, K+, Ca++)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ca++</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Calcium 'C'ontraction માટે જરૂરી અને તે 'S'arcoplasmic 'R'eticulum માં રહે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સ્નાયુતંતુકોમાં રહેલા ઘેરા પટ્ટાને _____ કહે છે. (I-પટ્ટો, A-પટ્ટો, Z-રેખા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-પટ્ટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = Anisotropic (ઘેરો/વિષમદૈશિક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્નાયુતંતુકોમાં રહેલા આછા પટ્ટાને _____ કહે છે. (I-પટ્ટો, A-પટ્ટો, H-વિસ્તાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> I-પટ્ટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I = Isotropic (આછો/સમદૈશિક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બે ક્રમિક Z-રેખાઓ વચ્ચેના ભાગને _____ કહે છે. (સ્નાયુતંતુક, સાર્કોમીયર, માયોસીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાર્કોમીયર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z થી Z સુધીનો વિસ્તાર એટલે સાર્કોમીયર - સ્નાયુનો ક્રિયાત્મક એકમ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "એક્ટિન તંતુ મુખ્યત્વે _____ પ્રકારના પ્રોટીનનો બનેલો હોય છે. (ટ્રોપોનીન, ટ્રોપોમાયોસીન, F-એક્ટિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F-એક્ટિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Filamentous (તંતુમય) એક્ટિન એટલે F-એક્ટિન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "માયોસીનના શીર્ષ પર _____ ના જોડાણ માટેના સક્રિય સ્થાનો આવેલા હોય છે. (ATP, ગ્લુકોઝ, વિટામિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ATP</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયોસીનનું માથું (Head) શક્તિ (ATP) માંગે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિશ્રામી અવસ્થામાં, _____ પ્રોટીન એક્ટિન પરના માયોસીન બાઈન્ડિંગ સાઈટને ઢાંકે છે. (મેરોમાયોસીન, ટ્રોપોનીન, આલ્બ્યુમિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રોપોનીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રોપોનીન એટલે ટ્રાફિક પોલીસ, જે રસ્તો (સક્રિય સ્થાન) રોકી રાખે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્નાયુ સંકોચનની ક્રિયાવિધિને _____ થી સમજાવી શકાય છે. (સ્લાઈડિંગ ફિલામેન્ટ થિયરી, સેલ થિયરી, લોક એન્ડ કી મોડેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લાઈડિંગ ફિલામેન્ટ થિયરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નાયુમાં તંતુઓ એકબીજા પર 'સરકે' (Slide) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પ્રેરક ચેતાકોષ અને સ્નાયુતંતુના જોડાણસ્થાનને _____ કહે છે. (સેપ્ટમ, ન્યુરોમસ્ક્યુલર જંકશન, સિનેપ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુરોમસ્ક્યુલર જંકશન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Neuro (ચેતા) + Muscular (સ્નાયુ) = NMJ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચેતાક્ષના અંત છેડેથી મુક્ત થતા ચેતાપ્રેષક દ્રવ્યનું નામ _____ છે. (એડ્રેનાલિન, એસીટાઈલકોલીન, ડોપામાઈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસીટાઈલકોલીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ACh - સ્નાયુને 'Action' માં લાવતો કોલીન! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સ્નાયુ સંકોચન દરમિયાન કયો વિસ્તાર ટૂંકો થતો નથી? (A-પટ્ટો, I-પટ્ટો, H-વિસ્તાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-પટ્ટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = Always Same (હંમેશા સરખો જ રહે). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લાલ સ્નાયુતંતુઓમાં ઓક્સિજનનો સંગ્રહ કરતા લાલ રંગના રંજકદ્રવ્યને _____ કહે છે. (હિમોગ્લોબિન, માયોગ્લોબિન, સાયટોક્રોમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માયોગ્લોબિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Myo = Muscle + Globin = Protein. સ્નાયુનું હિમોગ્લોબિન એટલે માયોગ્લોબિન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સફેદ સ્નાયુતંતુઓમાં _____ નું પ્રમાણ ખૂબ ઓછું હોય છે. (કણાભસૂત્ર, સાર્કોપ્લાઝમિક રેટીક્યુલમ, ગ્લાયકોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કણાભસૂત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ સ્નાયુ એટલે 'આળસુ' - કણાભસૂત્ર (પાવર હાઉસ) ઓછા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અક્ષીય કંકાલતંત્રમાં કુલ _____ હાડકાં હોય છે. (80, 126, 206)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 80</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષીય એટલે મધ્ય અક્ષ, જે '80' ના આંકડા જેવી સીધી લાઈન યાદ રાખો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મસ્તક (Cranium) ના હાડકાંઓની સંખ્યા _____ છે. (8, 14, 22)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મસ્તક - આઠ (8) અક્ષર જેવો ગોળ આકાર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ચહેરા (Facial) ના ભાગમાં કુલ _____ અસ્થિઓ હોય છે. (10, 12, 14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચૌદમું ચાંદ' જેવો ચહેરો (Face = 14). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મુખગુહાના તળિયે આવેલ U-આકારના અસ્થિને _____ કહે છે. (હાયોઇડ, એટલાસ, મેક્સિલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાયોઇડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hyoid = Hanging (લટકતું) એકલું હાડકું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "માનવ ખોપરીમાં બે ઓક્સિપિટલ કોન્ડાઈલ હોવાથી તેને _____ ખોપરી કહે છે. (મોનોકોન્ડાયલિક, ડાયકોન્ડાયલિક, પોલીકોન્ડાયલિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયકોન્ડાયલિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Di' એટલે 'બે'. માનવમાં 2 કોન્ડાઈલ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગ્રીવા કશેરૂકાઓની સંખ્યા લગભગ તમામ સસ્તનોમાં _____ હોય છે. (5, 7, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગળામાં 7 પથ્થર (કશેરૂકા) ગોઠવેલા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પ્રથમ ગ્રીવા કશેરૂકાને _____ કહેવામાં આવે છે. (એક્સિસ, એટલાસ, સેક્રમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એટલાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીનો નકશો (Atlas) માથા પર ઉઠાવેલો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ઉરોસ્થિ (Sternum) શરીરની _____ બાજુએ આવેલું છે. (પૃષ્ઠ, વક્ષ, પાર્શ્વ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉરોસ્થિ એટલે 'ટાઈ' જેવું હાડકું જે આગળ (વક્ષ) હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પાંસળીઓની પ્રથમ _____ જોડને સાચી પાંસળીઓ કહે છે. (5, 7, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી 7 જોડ ડાયરેક્ટ જોડાયેલી એટલે સાચી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "8મી, 9મી અને 10મી પાંસળીઓની જોડને _____ પાંસળીઓ કહે છે. (સાચી, તરતી, ખોટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8, 9, 10 સાતમી સાથે જોડાય છે, સીધી ઉરોસ્થિ સાથે નહીં, એટલે 'ખોટી' (Vertebrochondral). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "11મી અને 12મી પાંસળીઓની જોડને _____ પાંસળીઓ કહે છે. (સાચી, ખોટી, તરતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11 અને 12 આગળથી છૂટી છે, એટલે 'તરે' છે (Floating). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "દરેક હાથ (અગ્ર ઉપાંગ) માં કુલ _____ હાડકાં હોય છે. (25, 30, 35)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હાથમાં 30, બેમાં 60. યાદ રાખો: ઉપાંગ = 30 નો આંકડો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કાંડાના અસ્થિઓ (Carpals) ની સંખ્યા _____ છે. (5, 7, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંડામાં '8' અસ્થિ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "હથેળીના અસ્થિઓ (Metacarpals) ની સંખ્યા _____ છે. (5, 7, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 આંગળીઓ માટે 5 મેટાકાર્પલ્સ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "શરીરનું સૌથી લાંબુ હાડકું _____ છે. (ટીબિયા, ફિબ્યુલા, ફીમર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફીમર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથળનું હાડકું (Femur) 'F'or 'F'ormidable (સૌથી મોટું). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ઘૂંટણના રક્ષણ માટે આવેલી વાટકી જેવી રચનાને _____ કહે છે. (પેટાલા, ટેલ્સ, ફાલેન્જિસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેટાલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘૂંટણની પ્લેટ એટલે પેટાલા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પગના ઘૂંટી (Ankle) ના અસ્થિઓને _____ કહે છે. (કાર્પલ્સ, ટાર્સલ્સ, મેટાટાર્સલ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાર્સલ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = Toe (પગ) માટે Tarsals. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સ્કંધમેખલામાં બે અસ્થિઓ હોય છે: ક્લેવિકલ અને _____. (સ્ક્રેપ્યુલા, સ્કેપ્યુલા, ઇલિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્કેપ્યુલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખભામાં પાછળ ત્રિકોણાકાર હાડકું એટલે 'સ્કેપ્યુલા'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પગનું ફીમર હાડકું નિતંબમેખલાના _____ ખાડામાં જોડાય છે. (ગ્લેનોઇડ, એસીટાબુલમ, ફોરામેન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસીટાબુલમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A'cetabulum માં પગ ફિટ થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "હાથનું હ્યુમરસ અસ્થિ સ્કંધમેખલાના _____ ખાડામાં જોડાય છે. (ગ્લેનોઇડ, એસીટાબુલમ, સિમ્ફાયસીસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લેનોઇડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G'lenoid for 'G'rip (હાથની પકડ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ખોપરીના અસ્થિઓ વચ્ચે જોવા મળતા સાંધા _____ સાંધા છે. (તંતુમય, કાસ્થિમય, સાયનોવિયલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંતુમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોપરી હલતી નથી (અચલ) એટલે કે તે તંતુઓથી સીવાયેલી (Sutures) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કરોડસ્તંભની બે પાસપાસેની કશેરૂકાઓ વચ્ચે _____ સાંધો હોય છે. (તંતુમય, કાસ્થિમય, સાયનોવિયલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાસ્થિમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરોડરજ્જુ થોડી લવચીક (Flexibile) હોય એટલે કાસ્થિ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ખભાનો સાંધો _____ પ્રકારનો સાંધો છે. (ઉખળી, મિજાગરો, કંદુક-ખલલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંદુક-ખલલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ball and Socket = બોલ જેવું માથું અને સોકેટ જેવો ખાડો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ઘૂંટણનો સાંધો એ _____ સાંધાનું ઉદાહરણ છે. (મિજાગરો, ઉખળી, સરકતો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિજાગરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારણાના મિજાગરાની જેમ એક જ દિશામાં ખુલે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "એટલાસ અને એક્સિસ વચ્ચે _____ સાંધો આવેલો હોય છે. (મિજાગરો, ઉખળી, સેડલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉખળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથું 'ઉખળી' (Pivot) સાંધા પર ગોળ ફરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "અંગૂઠાના કાર્પલ અને મેટાકાર્પલ વચ્ચે _____ સાંધો હોય છે. (સરકતો, સેડલ, ઉખળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેડલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગૂઠો 'S'hape માં ફરે એટલે 'S'addle. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "સ્વ-પ્રતિરક્ષા રોગ જેમાં ન્યુરોમસ્ક્યુલર જંકશનને અસર થાય છે, તેને _____ કહે છે. (ટિટિની, માયસ્થેનિયા ગ્રેવિસ, ગાઉટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માયસ્થેનિયા ગ્રેવિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MG (Myasthenia Gravis) = Muscle Grave (સ્નાયુની કબર/નબળાઈ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "શરીરના પ્રવાહીમાં કેલ્શિયમનું પ્રમાણ ઘટવાથી થતા સ્નાયુના ખેંચાણને _____ કહે છે. (ટિટિની, આર્થરાઈટિસ, ઓસ્ટિઓપોરોસિસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટિટિની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Low Ca++ = Tetany (ટીટેની). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "સાંધાઓમાં યુરિક એસિડના સ્ફટિકો જમા થવાથી થતા સોજાને _____ કહે છે. (આર્થરાઈટિસ, ગાઉટ, ઓસ્ટિઓપોરોસિસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાઉટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુરિક એસિડ = 'યુ' ગાઉટ (Gout). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વધતી ઉંમર સાથે હાડકાંનું દ્રવ્ય ઘટવું અને ફ્રેક્ચરની શક્યતા વધવી તેને _____ કહે છે. (આર્થરાઈટિસ, ઓસ્ટિઓપોરોસિસ, ટિટિની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓસ્ટિઓપોરોસિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Osteo (હાડકું) + Porosis (પોલાણ/કાણાં). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "સ્ત્રીઓમાં ઓસ્ટિઓપોરોસિસ થવાનું મુખ્ય કારણ _____ ના સ્તરમાં ઘટાડો છે. (પ્રોજેસ્ટેરોન, એસ્ટ્રોજન, ઇન્સ્યુલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસ્ટ્રોજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસ્ટ્રોજન હાડકાંનું રક્ષણ કરે, તે ઘટે તો હાડકાં પોલા થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "સાંધાનો સોજો (Inflammation of joints) એટલે _____. (આર્થરાઈટિસ, ગાઉટ, ટિટિની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્થરાઈટિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Itis = સોજો. Arthro = સાંધો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "માયોસીન તંતુના મધ્ય ભાગમાં જ્યાં એક્ટિન તંતુઓ નથી હોતા, તેને _____ કહે છે. (M-રેખા, H-વિસ્તાર, Z-રેખા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H-વિસ્તાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H = Hello (ખાલી જગ્યા) જ્યાં એક્ટિન નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સ્નાયુઓના થાક માટે _____ જવાબદાર છે. (પાયરુવિક એસિડ, લેક્ટિક એસિડ, એસીટીક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેક્ટિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારે કસરત -> લેક્ટિક એસિડ જમા -> થાક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "કાનની અંદરના ત્રણ અસ્થિઓને _____ કહે છે. (કાર્પલ્સ, કર્ણ અસ્થિઓ, ટાર્સલ્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કર્ણ અસ્થિઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાન (કર્ણ) ના હાડકાં = MIS (Malleus, Incus, Stapes). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "કરોડસ્તંભમાં લમ્બર (કટિ) કશેરૂકાઓની સંખ્યા _____ છે. (5, 7, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C7, T12, L5, S1, Co1. L = 5. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "નિતંબમેખલાના બે અર્ધભાગો વક્ષ બાજુએ _____ દ્વારા જોડાય છે. (પ્યુબિક સિમ્ફાયસીસ, ગ્લેનોઇડ, એટલાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્યુબિક સિમ્ફાયસીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S'ymphysis = 'S'upport (આધાર/જોડાણ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "માયોસીનના પૂંછડીવાળા ભાગને _____ કહે છે. (HMM, LMM, સાર્કોમીયર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> LMM</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LMM = Light (હળવું) જે પૂંછડી છે. HMM = Heavy જે માથું છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "સ્નાયુ સંકોચન માટે _____ ઉદ્દીપન આપે છે. (સંવેદી ચેતાકોષ, પ્રેરક ચેતાકોષ, મિશ્ર ચેતાકોષ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રેરક ચેતાકોષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટર (Motor/પ્રેરક) ચાલુ થાય તો જ સ્નાયુ ચાલે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ઉપાંગીય કંકાલતંત્રમાં કુલ _____ અસ્થિઓ હોય છે. (80, 126, 206)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 126</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 206 - 80 (અક્ષીય) = 126 (ઉપાંગીય). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "મણકાઓ (કશેરૂકા) ની વચ્ચેનો મધ્યસ્થ પોલા ભાગને _____ કહે છે. (ન્યુરલ કેનાલ, સેન્ટ્રમ, હાઈપોફિસિસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુરલ કેનાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ નળી (Canal) માંથી ચેતા (Neural) પસાર થાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "પાંસળી પિંજર _____ થી બનેલું છે. (ઉરોસ્થિ + કશેરૂકા + પાંસળીઓ, ફક્ત પાંસળીઓ, ખોપરી + પાંસળીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરોસ્થિ + કશેરૂકા + પાંસળીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંસળીઓ પાછળ કશેરૂકા અને આગળ ઉરોસ્થિ સાથે જોડાયેલી હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "જીવરસનું વહન (Streaming of Protoplasm) એ _____ નું લક્ષણ છે. (અમીબા, હાઈડ્રા, માછલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીબાનું હલનચલન કોષરસના વહનથી જ થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "માયોસીનના અણુમાં ક્રોસ-બ્રિજ (સેતુ) _____ ના બનેલા હોય છે. (માથું અને ટૂંકી ભુજા, પૂંછડી, ફક્ત માથું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માથું અને ટૂંકી ભુજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બહાર નીકળે તે જ સેતુ બનાવે (Head + Arm). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "ઉરસિય કશેરૂકાઓની સંખ્યા _____ છે. (7, 12, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thoracic (T) = 12 (જેટલી પાંસળીઓની જોડ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "નીચેનામાંથી કયું અસ્થિ નિતંબમેખલાનું નથી? (ઇલિયમ, ઇસ્ચિયમ, સ્કેપ્યુલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્કેપ્યુલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કેપ્યુલા ખભામાં હોય, કમરમાં (નિતંબમાં) નહીં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "કાર્પલ્સ વચ્ચે કયા પ્રકારનો સાંધો હોય છે? (ઉખળી, સરકતો, મિજાગરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરકતો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Carpals Glide (સરકવું) over each other. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "સફેદ સ્નાયુતંતુઓ મુખ્યત્વે _____ શ્વસન પર આધાર રાખે છે. (જારક, અજારક, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અજારક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ = શક્તિ ઓછી = અજારક શ્વસન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "માયોસીનના શીર્ષમાં _____ એન્ઝાઇમની પ્રવૃત્તિ હોય છે. (લિપેઝ, ATPase, એમાયલેઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ATPase</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ATP તોડવા માટે ATPase તો જોઈએ જ ને! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "માયોસીન એ _____ ફિલામેન્ટ છે. (જાડો, પાતળો, અત્યંત પાતળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'M'yosin is 'M'ighty (જાડો/મજબૂત). 'A'ctin is 'A'adha (પાતળો). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "તમામ પ્રચલન એ હલનચલન છે, પણ તમામ હલનચલન એ પ્રચલન નથી. આ વિધાન _____ છે. (સાચું, ખોટું, અધૂરું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાલવું (પ્રચલન) એ હલનચલન છે, પણ પલક ઝપકાવવી એ પ્રચલન નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સ્નાયુઓના સંકોચનશીલ એકમ તરીકે _____ ઓળખાય છે. (સાર્કોમીયર, એક્ટિન, ટ્રોપોનીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાર્કોમીયર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S'arcomere = 'S'mallest 'S'tructural unit. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "મનુષ્યમાં કરોડસ્તંભના છેલ્લા અસ્થિ (પૂંછ) ને _____ કહે છે. (સેક્રમ, કોક્સિક્સ, લમ્બર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોક્સિક્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tail bone = Coccyx. (NJ Classes)</p></div>"
+    }
+  ]
+}

@@ -6757,3 +6757,371 @@ var Std11_Biology_FillBlanks = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "રાસાયણિક સહનિયમન અને સંકલન",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અંતઃસ્ત્રાવી ગ્રંથિઓને નલિકાઓ હોતી નથી, તેથી તેને _____ ગ્રંથિઓ કહેવામાં આવે છે. (નલિકાયુક્ત, નલિકાહીન, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નલિકાહીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃસ્ત્રાવી = અંદર જ સ્ત્રાવ (No pipe/Duct required) એટલે નલિકાહીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અંતઃસ્ત્રાવો એ સૂક્ષ્મ માત્રામાં ઉત્પન્ન થતા _____ રસાયણો છે. (પોષક, બિન-પોષક, ઝેરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિન-પોષક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃસ્ત્રાવ ખોરાક નથી, તે માત્ર સંદેશવાહક છે, તેથી તે 'બિન-પોષક' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અંતઃસ્ત્રાવો કોષો વચ્ચે સંદેશાવાહક તરીકે કાર્ય કરે છે, તેથી તેને _____ સંદેશાવાહકો કહે છે. (આંતરકોષીય, અંતઃકોષીય, બાહ્યકોષીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરકોષીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે કોષો વચ્ચે (Between) વાતચીત કરાવે એટલે 'આંતર' (Inter).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હાઈપોથેલેમસ એ _____ ના તળિયાનો ભાગ છે. (મધ્યમગજ, આંતર મસ્તિષ્ક, લંબમજ્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતર મસ્તિષ્ક (Diencephalon)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપોથેલેમસ = મગજનું તળિયું (Diencephalon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હાઈપોથેલેમસ દ્વારા સ્ત્રવતો _____ પિચ્યુટરી ગ્રંથિમાંથી વૃદ્ધિ અંતઃસ્ત્રાવના સ્ત્રાવને અવરોધે છે. (GHRH, સોમેટોસ્ટેટીન, GnRH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોમેટોસ્ટેટીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેટીન = Stop (અટકાવવું). વૃદ્ધિને સ્ટોપ કરે તે સોમેટોસ્ટેટીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હાઈપોથેલેમિક અંતઃસ્ત્રાવો પિચ્યુટરી ગ્રંથિ સુધી _____ પરિવહન તંત્ર દ્વારા પહોંચે છે. (નિવાહિકા, ચેતાકીય, લસિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિવાહિકા (Portal)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિચ્યુટરી અને હાઈપોથેલેમસ વચ્ચેનું 'શોર્ટકટ કનેક્શન' એટલે પોર્ટલ સિસ્ટમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પિચ્યુટરી ગ્રંથિ અસ્થિમય ગુહામાં આવેલી છે જેને _____ કહે છે. (સેલા ટર્સિકા, ફોરામેન મેગ્નમ, એસિટબુલમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેલા ટર્સિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિચ્યુટરી એક 'સેલ' (Sella) જેવી ગુહામાં સુરક્ષિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એડેનોહાઈપોફાઈસિસના બે ભાગ છે: પાર્સ ડિસ્ટાલિસ અને _____. (પાર્સ નર્વોઝા, પાર્સ ઇન્ટરમીડિયા, ન્યુરોહાઈપોફાઈસિસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાર્સ ઇન્ટરમીડિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડેનો-ના બે ભાઈ: ડિસ્ટાલિસ (આગળ) અને ઇન્ટરમીડિયા (વચ્ચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાર્સ ડિસ્ટાલિસને સામાન્ય રીતે _____ પિચ્યુટરી કહેવાય છે. (અગ્ર, પશ્ચિમ, મધ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A for Adenohypophysis, A for Anterior (અગ્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પશ્ચિમ પિચ્યુટરીને _____ તરીકે પણ ઓળખવામાં આવે છે. (પાર્સ ડિસ્ટાલિસ, ન્યુરોહાઈપોફાઈસિસ, થાઈમસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુરોહાઈપોફાઈસિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ પિચ્યુટરી સીધી ચેતા (Neuro) સાથે જોડાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વૃદ્ધિ અંતઃસ્ત્રાવના વધુ પડતા સ્ત્રાવથી શરીરની અસાધારણ વૃદ્ધિ થાય છે જેને _____ કહે છે. (વામનતા, વિરાટતા, એડીસન રોગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિરાટતા (Gigantism)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વૃદ્ધિ = વિરાટ રૂપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પુખ્ત વયે જો GH નો સ્ત્રાવ વધુ થાય તો ચહેરા પર વિકૃતિ આવે છે જેને _____ કહેવાય. (એક્રોમેગાલી, ગોઈટર, ડાયાબિટીસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક્રોમેગાલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુખ્ત વયે GH વધે તો 'એકદમ મોટું' (Acro-mega) મોઢું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દૂધના સ્ત્રાવ અને સ્તન ગ્રંથિઓની વૃદ્ધિનું નિયમન _____ કરે છે. (ઓક્સિટોસિન, પ્રોલેક્ટીન, વેસોપ્રેસિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોલેક્ટીન (PRL)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pro-Lactin = Lactin (દૂધ) માટે પ્રોત્સાહન આપતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નરમાં _____ શુક્રપિંડમાંથી એન્ડ્રોજન્સના સંશ્લેષણ અને સ્ત્રાવને ઉત્તેજે છે. (FSH, LH, MSH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> LH (લ્યુટેનાઇઝિંગ હોર્મોન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L for Leydig cells, L for LH. લેડિગ કોષો એન્ડ્રોજન બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "માદામાં _____ પૂર્ણ વિકસિત પુટિકાઓમાંથી અંડપાત (Ovulation) પ્રેરે છે. (LH, FSH, TSH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> LH</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LH Surge = અંડપાત (Ovulation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ત્વચાના રંગદ્રવ્યનું નિયમન _____ દ્વારા થાય છે. (LH, MSH, ADH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> MSH (મેલેનોસાઇટ સ્ટીમ્યુલેટીંગ હોર્મોન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M for Melanin (રંગદ્રવ્ય), M for MSH.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાળકના જન્મ સમયે ગર્ભાશયનું સંકોચન _____ પ્રેરે છે. (વેસોપ્રેસિન, ઓક્સિટોસિન, રિલેક્સિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિટોસિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Oxytocin = Birth Hormone (ઝડપી સંકોચન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગૂંચળામય નલિકામાંથી પાણીના પુનઃશોષણ માટે _____ જવાબદાર છે. (ADH, TCT, PTH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ADH (એન્ટી ડાયયુરેટિક હોર્મોન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH = પાણીને બચાવનારો (Anti-Diuretic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ADH ના સ્ત્રાવમાં ઉણપ સર્જાય તો કયો રોગ થાય છે? (ડાયાબિટીસ મેલિટસ, ડાયાબિટીસ ઇન્સિપિડસ, ગોઇટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયાબિટીસ ઇન્સિપિડસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH ઓછો તો પાણી વધુ બહાર જાય = ઇન્સિપિડસ (મોળું મૂત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પિનિયલ ગ્રંથિ _____ નામના અંતઃસ્ત્રાવનો સ્ત્રાવ કરે છે. (મેલેનિન, મેલેટોનિન, થાયમોસિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેલેટોનિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિનિયલ ઊંઘાડે = મેલેટોનિન (Sleep hormone).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શરીરના 24 કલાકના લયબદ્ધ ચક્રનું નિયમન કોણ કરે છે? (મેલેટોનિન, થાયરોક્સિન, એડ્રિનાલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેલેટોનિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેલેટોનિન = Body Clock (જૈવિક ઘડિયાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "થાયરોઇડ ગ્રંથિના બે ખંડો _____ દ્વારા જોડાયેલા હોય છે. (સેતુ, ઇસ્થમસ, ચેતાસેતુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇસ્થમસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાયરોઇડનો બ્રિજ = ઇસ્થમસ (Isthmus).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "થાયરોઇડ અંતઃસ્ત્રાવોના સંશ્લેષણ માટે _____ અનિવાર્ય છે. (કેલ્શિયમ, આયોડિન, આયર્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયોડિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન યુક્ત નમક = થાયરોઇડ હેલ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગર્ભાવસ્થા દરમિયાન હાઈપોથાયરોડિઝમને કારણે બાળકમાં _____ રોગ થઈ શકે છે. (ક્રેટિનિઝમ, ગોઇટર, વિરાટતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રેટિનિઝમ (Cretinism)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળક માં થાયરોઇડ ઓછું = ક્રેટિનિઝમ (મંદબુદ્ધિ બાળક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "થાયરોઇડ ગ્રંથિના કેન્સરથી અંતઃસ્ત્રાવોનું પ્રમાણ વધી જાય છે, જેને _____ કહે છે. (હાઈપોથાયરોડિઝમ, હાઈપરથાયરોડિઝમ, ગોઇટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈપરથાયરોડિઝમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપર (Hyper) એટલે વધુ સ્ત્રાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કિલોરી ચયાપચય (BMR) નું નિયમન _____ કરે છે. (થાયરોઇડ અંતઃસ્ત્રાવ, થાયમોસિન, ઇન્સ્યુલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થાયરોઇડ અંતઃસ્ત્રાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાયરોઇડ = શરીરનું એન્જિન (BMR Regulator).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રુધિરમાં કેલ્શિયમનું સ્તર ઘટાડતો થાયરોઇડનો પેપ્ટાઈડ અંતઃસ્ત્રાવ કયો છે? (T4, T3, TCT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> TCT (થાયરોકેલ્સિટોનિન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલ્સિટોનિન = કેલ્શિયમને Tone down (ઘટાડે) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પેરાથાયરોઇડ ગ્રંથિઓની સંખ્યા કેટલી હોય છે? (2, 4, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 (બે જોડી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાયરોઇડના બે લોબ અને દરેક લોબમાં 2 પેરાથાયરોઇડ = કુલ 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રુધિરમાં Ca++ નું પ્રમાણ વધારતો અંતઃસ્ત્રાવ કયો છે? (TCT, PTH, PRL)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PTH (પેરાથોર્મોન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PTH = Pulls (ખેંચે) Ca++ લોહીમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "હાઈપરકેલ્સિમિક અંતઃસ્ત્રાવ કોને કહેવાય? (PTH, TCT, ઇન્સ્યુલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PTH</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપર (વધારે) + કેલ્સિમિક (કેલ્શિયમ) = PTH.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "થાયમસ ગ્રંથિ હૃદયની _____ બાજુએ આવેલી છે. (પૃષ્ઠ, વક્ષ, પાર્શ્વ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વક્ષ (Ventral)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છાતીના ભાગમાં (આગળ) એટલે વક્ષ બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "T-કોષોના વિભેદનમાં મુખ્ય ફાળો કોણ આપે છે? (થાયમોસિન, ઇન્સ્યુલિન, એડ્રિનાલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થાયમોસિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T for Thymus, T for T-Cells.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "એડ્રિનલ ગ્રંથિ મૂત્રપિંડના કયા ભાગમાં આવેલી છે? (પશ્ચિમ, અગ્ર, મધ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગ્ર (Anterior)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ્રિનલ = કિડનીની ઉપરની ટોપી (અગ્ર ભાગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એડ્રિનલ મજ્જકમાંથી સ્ત્રવતા એડ્રિનાલિન અને નોર-એડ્રિનાલિનને સંયુક્ત રીતે _____ કહે છે. (સ્ટીરોઇડ્સ, કેટેકોલેમાઇન્સ, પ્રોટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટેકોલેમાઇન્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ્રિનલ મજ્જકના 'જોડિયા બાળકો' = કેટેકોલેમાઇન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કયા અંતઃસ્ત્રાવોને '3F' (Fight, Flight, Fright) કહેવાય છે? (થાયરોક્સિન, કેટેકોલેમાઇન્સ, ઇન્સ્યુલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટેકોલેમાઇન્સ (એડ્રિનાલિન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૂતરો પાછળ પડે ત્યારે જે સ્ત્રવે તે એડ્રિનાલિન (Emergency hormone).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એડ્રિનલ બાહ્યકનું સૌથી અંદરનું સ્તર કયું છે? (ઝોના રેટિક્યુલેરિસ, ઝોના ફેસીક્યુલાટા, ઝોના ગ્લોમેરુલોસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝોના રેટિક્યુલેરિસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GFR (G-બહાર, F-મધ્ય, R-અંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "આપણા શરીરમાં મુખ્ય ગ્લુકોકોર્ટિકોઇડ કયો છે? (કોર્ટિસોલ, એલ્ડોસ્ટેરોન, એડ્રિનાલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટિસોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gluco-Cortisol (G and C together).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મુખ્ય મિનરેલોકોર્ટિકોઇડ કયો છે? (કોર્ટિસોલ, એલ્ડોસ્ટેરોન, ટેસ્ટોસ્ટેરોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એલ્ડોસ્ટેરોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિનરલ (ક્ષાર) = એલ્ડોસ્ટેરોન (Na+ નું શોષણ કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "એલ્ડોસ્ટેરોન મૂત્રપિંડ નલિકામાં મુખ્યત્વે કયા આયનોના પુનઃશોષણ માટે કાર્ય કરે છે? (K+, Na+, Ca++)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Na+ (સોડિયમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એલ્ડો ભાઈ મીઠું (Na+) બહુ ભાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "એડ્રિનલ બાહ્યકના અંતઃસ્ત્રાવોની ઉણપથી કયો રોગ થાય છે? (ગોઇટર, એડીસન રોગ, ટેટાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એડીસન રોગ (Addison’s disease)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adrenal down = Addison (Ad-Ad match).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સ્વાદુપિંડ એ _____ ગ્રંથિ છે. (બહિઃસ્ત્રાવી, અંતઃસ્ત્રાવી, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિશ્ર (Composite)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદુપિંડ = All in one (અંતઃ + બાહ્ય બંને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "લેંગરહાન્સના કોષપુંજમાં આલ્ફા (α) કોષો કયો અંતઃસ્ત્રાવ સ્ત્રવે છે? (ઇન્સ્યુલિન, ગ્લુકાગોન, સોમેટોસ્ટેટીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લુકાગોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્ફા-ગ્લુકાગોન (A for Apple, G for Gun - AG).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "બિટા (β) કોષો દ્વારા કયો અંતઃસ્ત્રાવ મુક્ત થાય છે? (ઇન્સ્યુલિન, ગ્લુકાગોન, એડ્રિનાલિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્સ્યુલિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Beta-Insulin (BI - બુદ્ધિશાળી ઇન્સ્યુલિન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "રુધિરમાં શર્કરાનું પ્રમાણ વધારે તેને _____ કહેવાય. (હાઈપોગ્લાયસેમિક, હાઈપરગ્લાયસેમિક, હાઈપોકેલ્સિમિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈપરગ્લાયસેમિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપર = વધારે, ગ્લાયસેમિક = સુગર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ઇન્સ્યુલિન મુખ્યત્વે કયા કોષો પર કાર્ય કરે છે? (હિપેટોસાઇટ્સ, એડિપોસાઇટ્સ, આપેલ બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સ્યુલિન લીવર (Hepatocytes) અને ચરબી (Adipocytes) બંનેમાં સુગર ભરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "લાંબા સમય સુધી હાઈપરગ્લાયસેમિયા રહેવાથી કયો રોગ થાય છે? (ડાયાબિટીસ ઇન્સિપિડસ, ડાયાબિટીસ મેલિટસ, ક્રેટિનિઝમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયાબિટીસ મેલિટસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mellitus = Honey (ગળ્યું), સુગર વધે તો મેલિટસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "શુક્રપિંડના આંતરકોષીય અવકાશમાં આવેલા _____ કોષો એન્ડ્રોજન્સ ઉત્પન્ન કરે છે. (લેડિગના કોષો, સેર્ટૉલી કોષો, જનન કોષો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેડિગના કોષો (Leydig cells)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેડિગ કોષો = Testosterone ની ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એન્ડ્રોજન્સ નરમાં _____ ગ્રંથિઓની વૃદ્ધિ અને કાર્યનું નિયમન કરે છે. (પ્રોસ્ટેટ, થાયમસ, પિનિયલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોસ્ટેટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુરુષ પ્રજનન અંગો માટે એન્ડ્રોજન્સ જવાબદાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "અંડપાત પછી તૂટેલી પુટિકા _____ માં ફેરવાય છે. (કોર્પસ લ્યુટિયમ, ગ્રાફિયન પુટિકા, એન્ટ્રમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્પસ લ્યુટિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇંડું નીકળી ગયા પછી જે વધે તે 'પીળો પિંડ' = કોર્પસ લ્યુટિયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "કોર્પસ લ્યુટિયમ મુખ્યત્વે કયા અંતઃસ્ત્રાવનો સ્ત્રાવ કરે છે? (ઇસ્ટ્રોજન, પ્રોજેસ્ટેરોન, એચસીજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-color:#16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોજેસ્ટેરોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Progesterone, P for Pregnancy supporter.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ગર્ભાવસ્થાને ટેકો આપવા માટે કયો અંતઃસ્ત્રાવ મુખ્ય છે? (ઇસ્ટ્રોજન, પ્રોજેસ્ટેરોન, થાયરોક્સિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોજેસ્ટેરોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રો'-ગર્ભાવસ્થા = પ્રોજેસ્ટેરોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "સ્તન ગ્રંથિમાં દૂધના સંગ્રહ માટે વાયુકોષ્ઠોની રચનાને ઉત્તેજિત કરે છે? (પ્રોજેસ્ટેરોન, ઇસ્ટ્રોજન, ઓક્સિટોસિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોજેસ્ટેરોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તન ગ્રંથિની રચના માટે પણ પ્રોજેસ્ટેરોન જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "હૃદયની કર્ણકની દીવાલ કયો પેપ્ટાઈડ અંતઃસ્ત્રાવ મુક્ત કરે છે? (ADH, ANF, GIP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ANF (Atrial Natriuretic Factor)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A for Atrial (કર્ણક), A for ANF.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ANF રુધિરદાબમાં _____ કરે છે. (વધારો, ઘટાડો, ફેરફાર નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ANF રુધિરવાહિનીઓને પોળી કરે, એટલે BP ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "મૂત્રપિંડના જેજી (JG) કોષો કયો અંતઃસ્ત્રાવ બનાવે છે? (રેનિન, એરિથ્રોપોએટિન, થાયમોસિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરિથ્રોપોએટિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરિથ્રો = RBC, પોએટિન = બનાવવું. કિડની લોહી બનાવવામાં મદદ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જઠરમાં જઠરરસના સ્ત્રાવને ઉત્તેજિત કરતો અંતઃસ્ત્રાવ કયો? (ગેસ્ટ્રીન, સિક્રેટિન, સીસીકે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગેસ્ટ્રીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gastric = Gastrin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "સિક્રેટિન સ્વાદુપિંડના કયા ભાગ પર કાર્ય કરે છે? (બહિઃસ્ત્રાવી, અંતઃસ્ત્રાવી, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહિઃસ્ત્રાવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્રેટિન પાણી અને બાયકાર્બોનેટનો સ્ત્રાવ કરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પિત્તાશયના સંકોચનને કોણ ઉત્તેજે છે? (ગેસ્ટ્રીન, CCK, સિક્રેટિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CCK (કોલેસિસ્ટોકાઈનિન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chole = પિત્ત, Kinin = હલનચલન (સંકોચન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જઠરની ગતિશીલતાને અવરોધતો અંતઃસ્ત્રાવ કયો છે? (CCK, સિક્રેટિન, GIP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> GIP (ગેસ્ટ્રિક ઇન્હિબિટરી પેપ્ટાઈડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Inhibitory = અવરોધવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "નીચેનામાંથી કયો અંતઃસ્ત્રાવ સ્ટીરોઇડ છે? (ઇન્સ્યુલિન, કોર્ટિસોલ, એપીનેફ્રિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટિસોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે અંતે 'ol' કે 'one' ધરાવે તે સ્ટીરોઇડ (Cortisol, Aldosterone, Testosterone).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ઇન્સ્યુલિન અને ગ્લુકાગોન રાસાયણિક રીતે _____ છે. (સ્ટીરોઇડ, પેપ્ટાઈડ, એમિનો એસિડ વ્યુત્પન્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેપ્ટાઈડ (પ્રોટીન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદુપિંડના અંતઃસ્ત્રાવો પ્રોટીન ચેઈન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "થાયરોઇડ અંતઃસ્ત્રાવો (T3, T4) રાસાયણિક રીતે _____ છે. (પેપ્ટાઈડ, સ્ટીરોઇડ, આયોડોથાયરોનીન્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયોડોથાયરોનીન્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ માં જ આયોડો અને થાયરો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "એપીનેફ્રિન (એડ્રિનાલિન) કયા પ્રકારનો અંતઃસ્ત્રાવ છે? (સ્ટીરોઇડ, પેપ્ટાઈડ, એમિનો એસિડ વ્યુત્પન્ન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમિનો એસિડ વ્યુત્પન્ન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાયરોસીન એમિનો એસિડમાંથી બને એટલે વ્યુત્પન્ન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પેપ્ટાઈડ અંતઃસ્ત્રાવોના ગ્રાહકો કોષમાં ક્યાં આવેલા હોય છે? (કોષરસમાં, કોષકેન્દ્રમાં, કોષરસપટલ પર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષરસપટલ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન લિપિડ પટલને ઓળંગી શકતા નથી, એટલે દરવાજે (પટલ પર) મળવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "સ્ટીરોઇડ અંતઃસ્ત્રાવોના ગ્રાહકો સામાન્ય રીતે _____ હોય છે. (પટલમય, અંતઃકોષીય, બાહ્યકોષીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતઃકોષીય (Intracellular)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરબી (સ્ટીરોઇડ) પટલમાં થઈને અંદર ઘૂસી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "દ્વિતીય સંદેશાવાહક (Second Messenger) તરીકે કોણ કાર્ય કરે છે? (ATP, cAMP, DNA)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> cAMP (સાયક્લિક AMP)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Messenger always 'CAMP' inside the cell.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "કયો અંતઃસ્ત્રાવ સીધો જ જનીન અભિવ્યક્તિનું નિયમન કરે છે? (ઇન્સ્યુલિન, ઇસ્ટ્રોજન, એપીનેફ્રિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇસ્ટ્રોજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીરોઇડ અંતઃસ્ત્રાવો સીધા કોષકેન્દ્રમાં જઈ જનીન બદલી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "Ca++ આયનો કઈ પ્રક્રિયામાં દ્વિતીય સંદેશાવાહક તરીકે વર્તે છે? (સ્ટીરોઇડ ક્રિયાવિધિ, પ્રોટીન અંતઃસ્ત્રાવ ક્રિયાવિધિ, પ્રકાશસંશ્લેષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટીન અંતઃસ્ત્રાવ ક્રિયાવિધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: cAMP, IP3 અને Ca++ એ પેપ્ટાઈડ હોર્મોનના 'સંદેશાવાહક' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "શરીરના તાપમાનનું નિયમન કોણ કરે છે? (હાઈપોથેલેમસ, પિચ્યુટરી, એડ્રિનલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈપોથેલેમસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપોથેલેમસ = Master Clock + Thermostat.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "ગોનાડોટ્રોપિન રીલીઝીંગ હોર્મોન (GnRH) ક્યાંથી સ્ત્રવે છે? (પિચ્યુટરી, હાઈપોથેલેમસ, શુક્રપિંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈપોથેલેમસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાછળ 'Releasing' લાગે તે બધા હાઈપોથેલેમસના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "પાર ઇન્ટરમીડિયા દ્વારા કયો અંતઃસ્ત્રાવ સ્ત્રવે છે? (TSH, PRL, MSH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> MSH</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય (Intermediate) માંથી MSH.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "ન્યુરોહાઈપોફાઈસિસ કયા અંતઃસ્ત્રાવોનો સંગ્રહ અને મુક્તિ કરે છે? (ADH અને ઓક્સિટોસિન, GH અને LH, TSH અને ACTH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ADH અને ઓક્સિટોસિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ પિચ્યુટરી માત્ર સ્ટોરરૂમ છે, બનાવનાર તો હાઈપોથેલેમસ છે.</p></div>"
+    }
+  ]
+}

@@ -366,3 +366,371 @@ var Std11_Biology_OneWord = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "જૈવિક વર્ગીકરણ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વર્ગીકરણની પદ્ધતિનો સર્વપ્રથમ વૈજ્ઞાનિક આધાર કોણે આપ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરિસ્ટોટલે (Aristotle) બાહ્ય રચનાકીય લક્ષણોનો ઉપયોગ કરીને વનસ્પતિ અને પ્રાણીઓનું વર્ગીકરણ કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = A (Aristotle = Ancient/First scientist).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એરિસ્ટોટલે વનસ્પતિઓને કયા ત્રણ જૂથોમાં વહેંચી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરિસ્ટોટલે વનસ્પતિઓને છોડ, ક્ષુપ અને વૃક્ષ - એમ ત્રણ જૂથોમાં વહેંચી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'છો-ક્ષુ-વૃ' (છોડ, ક્ષુપ, વૃક્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એરિસ્ટોટલે પ્રાણીઓનું વર્ગીકરણ કયા આધારે કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરિસ્ટોટલે લાલ રંગનું રુધિર ધરાવતા અને લાલ રંગનું રુધિર ન ધરાવતા - એમ બે જૂથમાં પ્રાણીઓને વહેંચ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Red Blood vs No Red Blood.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દ્વિસૃષ્ટિ વર્ગીકરણ પદ્ધતિ કોણે આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીનિયસે (Carolus Linnaeus) વનસ્પતિસૃષ્ટિ અને પ્રાણીસૃષ્ટિ એમ બે સૃષ્ટિ આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L for Linnaeus, L for Long division (2 parts).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાંચ સૃષ્ટિ વર્ગીકરણ પદ્ધતિ કઈ સાલમાં અને કોણે આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર. એચ. વ્હીટેકરે (R.H. Whittaker) વર્ષ 1969 માં પાંચ સૃષ્ટિ વર્ગીકરણ પદ્ધતિ આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1969 માં વ્હીટેકરે પંજો (5) માર્યો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાંચ સૃષ્ટિઓના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોનેરા, પ્રોટિસ્ટા, ફૂગ, વનસ્પતિસૃષ્ટિ અને પ્રાણીસૃષ્ટિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mo-Pro-Fu-Va-Pra.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વ્હીટેકર દ્વારા ઉપયોગમાં લેવાયેલ વર્ગીકરણના મુખ્ય પાંચ માપદંડો કયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષરચના, સુકાય આયોજન, પોષણની પદ્ધતિ, પ્રજનન અને જાતિવિકાસીય સંબંધો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોષ-શરીર-ખોરાક-બાળક-સંબંધ' (Cell-Body-Mode-Repro-Phylo).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ત્રણ ક્ષેત્રીય વર્ગીકરણ પદ્ધતિ કોણે આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્લ વુઝ (Carl Woese) એ ત્રણ ક્ષેત્ર (Domains) વાળી વર્ગીકરણ પદ્ધતિ આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Woese = 3 letters (W-O-E-se) ≈ 3 Domains.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મોનેરા સૃષ્ટિના મુખ્ય સભ્યો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેક્ટેરિયા એ મોનેરા સૃષ્ટિના મુખ્ય સભ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોનેરા એટલે બેક્ટેરિયાનો અડ્ડો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બેક્ટેરિયાના આકારને આધારે કયા ચાર સમૂહો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોલાણુ (Coccus), દંડાણુ (Bacillus), વક્રાણુ (Vibrio) અને સર્પાણુ (Spirillum).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોકો-બાસી-વિબ્રિ-સ્પાઈ' (Coccus, Bacillus, Vibrio, Spirillum).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કયા બેક્ટેરિયા અતિશય ક્ષારયુક્ત વિસ્તારમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેલોફિલ્સ (Halophiles) બેક્ટેરિયા અતિશય ક્ષારયુક્ત વિસ્તારમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Halo = Salt (Halo-gens like Salt).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગરમ પાણીના ઝરામાં જોવા મળતા આદિ બેક્ટેરિયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થર્મોએસીડોફિલ્સ (Thermoacidophiles) બેક્ટેરિયા ગરમ પાણીના ઝરામાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thermo = Heat (Temperature).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાય અને ભેંસ જેવા ચરતા પ્રાણીઓના આંતરડામાં કયા બેક્ટેરિયા જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેથેનોજેન્સ (Methanogens) બેક્ટેરિયા જોવા મળે છે, જે મીથેન વાયુ ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Methanogen = Methane Generator.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સત્ય બેક્ટેરિયા તરીકે કોણ ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુબેક્ટેરિયા (Eubacteria) ને સત્ય બેક્ટેરિયા કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Eu = True (યુ એટલે સાચું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નીલહરિત લીલ (Cyanobacteria) માં કયું રંજકદ્રવ્ય વનસ્પતિ જેવું જ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિતદ્રવ્ય-એ (Chlorophyll-a) ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyanobacteria = Green (Chl-a).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નોસ્ટોક અને એનાબીના નાઈટ્રોજન સ્થાપન માટે કઈ વિશિષ્ટ કોષ રચના ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે નાઈટ્રોજન સ્થાપન માટે અભિકોષ (Heterocyst) નામની વિશિષ્ટ રચના ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heterocyst = N2 Fixation center.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રસાયણસંશ્લેષી સ્વયંપોષી બેક્ટેરિયા કયા પદાર્થોનું ઓક્સિડેશન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેઓ નાઈટ્રેટ, નાઈટ્રાઈટ અને એમોનિયા જેવા અકાર્બનિક પદાર્થોનું ઓક્સિડેશન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અકાર્બનિક માંથી એનર્જી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દૂધમાંથી દહીં બનાવવા કયા બેક્ટેરિયા જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેક્ટોબેસીલસ (Lactobacillus) બેક્ટેરિયા (વિષમપોષી બેક્ટેરિયા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lacto = Milk.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બેક્ટેરિયા દ્વારા થતા બે રોગોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોલેરા, ટાઈફોઈડ, ધનુષ અને લીંબુના ટપકાં (Citrus Canker).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કો-ટા-ધ-લી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સૌથી નાના જીવંત કોષો કયા છે, જે ઓક્સિજન વગર જીવી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માયકોપ્લાઝ્મા (Mycoplasma) જે કોષદીવાલ વિહોણા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mycoplasma = Minimalist (No wall, No O2 needed).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પ્રોટિસ્ટા સૃષ્ટિમાં કેવા સજીવોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટિસ્ટા સૃષ્ટિમાં તમામ એકકોષીય સુકોષકેન્દ્રી સજીવોનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Protista = 1 Cell + 1 True Nucleus.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ક્રાયસોફાઈટ્સમાં કયા સજીવોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયટમ્સ અને સોનેરી લીલ (ડેસ્મિડ્સ) નો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chrysler = Golden Car (Chrysophytes = Golden Algae).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ડાયટમ્સની કોષદીવાલ શેની બનેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયટમ્સની કોષદીવાલ સિલિકા (Silica) ની બનેલી હોય છે, જે સાબુના દાબડા જેવી રચના બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Silica = Stone (Indestructible wall).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "'ડાયટોમેસિયસ અર્થ' (Diatomaceous Earth) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયટમ્સના મૃત્યુ પછી તેમના નિક્ષેપોથી જે કણો જમા થાય છે તેને ડાયટોમેસિયસ અર્થ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયટમ્સની રાખ = માટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મહાસાગરોના મુખ્ય ઉત્પાદકો કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયટમ્સ એ મહાસાગરોના મુખ્ય ઉત્પાદકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ocean Producers = Diatoms.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "'રેડ ટાઈડ્સ' (રાતો ભરતી ઓટ) કયા સજીવને કારણે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોન્યાલેક્સ (Gonyaulax) નામના રાતા ડાયનોફ્લેજેલેટ્સના ઝડપી બહુગુણનથી દરિયો લાલ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Go-Red = Gonyaulax.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "યુગ્લીનોઈડ્સમાં કોષદીવાલને બદલે કયું પ્રોટીનયુક્ત સ્તર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાબલ્લી (Pellicle) નામનું પ્રોટીન સભર સ્તર હોય છે, જે શરીરને વળી શકે તેવું નરમ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pellicle = Protein layer.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "યુગ્લીના કયા પ્રકારનું પોષણ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિશ્રપોષી (સૂર્યપ્રકાશમાં સ્વયંપોષી અને અંધકારમાં પરપોષી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mixotrophic (Dual role).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સ્લાઈમ મોલ્ડ્સ પ્રતિકૂળ પરિસ્થિતિમાં શાનું નિર્માણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિકૂળ પરિસ્થિતિમાં તે ફળકાય (Fruiting bodies) બનાવે છે, જેની ટોચ પર બીજાણુઓ (Spores) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bad times = Spores formation.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પ્રજીવો (Protozoans) ના ચાર મુખ્ય જૂથો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીબાસમ પ્રજીવો, કશાધારી પ્રજીવો, પક્ષ્મધારી પ્રજીવો અને બીજાણુધારી પ્રજીવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-Ka-Pa-Bi (અમીબા, કશા, પક્ષ્મ, બીજાણુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અમીબાસમ પ્રજીવો ખોરાક પકડવા શેનો ઉપયોગ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટા પગ (Pseudopodia) નો ઉપયોગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pseudo = False, Podia = Feet.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નિદ્રા રોગ (Sleeping sickness) કયા પ્રજીવ દ્વારા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રાયપેનોસોમા (Trypanosoma) નામના કશાધારી પ્રજીવ દ્વારા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Try to Sleep = Try-panosoma.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પક્ષ્મધારી પ્રજીવનું ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરામિશિયમ (Paramoecium).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Paramoecium, P for Paksma (Cilia).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "મલેરિયા કયા પ્રજીવને કારણે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાઝમોડિયમ (Plasmodium) નામના બીજાણુધારી (Sporozoa) પ્રજીવ દ્વારા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Malaria = Plasmodium Spores.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ફૂગની કોષદીવાલ શેની બનેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂગની કોષદીવાલ કાઈટિન (Chitin) અને પોલીસેકેરાઈડ્સની બનેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fungus-Chitin (FC).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એકકોષીય ફૂગનું નામ આપો જેનો ઉપયોગ બ્રેડ અને જવના દારૂ બનાવવા થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈસ્ટ (Yeast).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Yeast = Bakery buddy.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઘઉંમાં ગેરુ (Rust) રોગ કરતી ફૂગ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પકસિનિયા (Puccinia).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Puccinia, P for Plant rust.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "કઈ ફૂગમાંથી એન્ટિબાયોટિક્સ મેળવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેનિસિલિયમ (Penicillium).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Penicillium = Penicillin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ફૂગમાં કવકતંતુઓના જાળાને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવકજાળ (Mycelium).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Network of Hyphae = Mycelium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સહજીવી ફૂગના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાઈકેન (લીલ સાથે) અને માયકોરાઈઝા (ઉચ્ચ કક્ષાની વનસ્પતિના મૂળ સાથે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lichen & Myco-root.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ફૂગમાં લિંગી ચક્રના ત્રણ તબક્કા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) જીવરસ સંયુગ્મન (Plasmogamy), (2) કોષકેન્દ્ર સંયુગ્મન (Karyogamy), (3) અર્ધીકરણ (Meiosis).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Plasmo -> Karyo -> Meio.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ડાયકેરિયોફેઝ (Dikaryophase) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂગમાં એવી અવસ્થા જેમાં એક કોષમાં બે કોષકેન્દ્રો (n+n) જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Di = 2, Karyo = Nucleus.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ફાઈકોમાયસેટિસના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મ્યુકર, રાઈઝોપસ (બ્રેડ મોલ્ડ) અને આલ્બ્યુગો (રાઈ પરની પરોપજીવી ફૂગ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RAM (Rhizopus, Albugo, Mucor).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કોથળીમય ફૂગ (Sac-fungi) તરીકે કોણ ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસ્કોમાયસેટિસ (Ascomycetes).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Asco = Sacco (Sac).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "જૈવ રાસાયણિક અને જનીન કાર્યમાં કઈ ફૂગનો વધુ ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુરોસ્પોરા (Neurospora).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Neuro = Genetics research.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "બેસીડિયોમાયસેટિસના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મશરૂમ (એગેરિકસ), અંગારિયો (Ustilago) અને ગેરુ (Puccinia).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Base = Mushroom (Basidio).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "અપૂર્ણ ફૂગ (Imperfect Fungi) તરીકે કોણ ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડ્યુટેરોમાયસેટિસ (Deuteromycetes), કારણ કે તેમાં માત્ર અલિંગી અવસ્થા જ જાણીતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Deute-no-sex (No sexual stage).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ડ્યુટેરોમાયસેટિસના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓલ્ટરનેરિયા, કોલેટોટ્રાઈકમ અને ટ્રાયકોડર્મા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CAT (Colletotrichum, Alternaria, Trichoderma).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "કીટભક્ષી વનસ્પતિઓના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્કજ્વર (Bladderwort) અને વિનસનો મક્ષીપાશ (Venus fly trap).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Insect-eaters = Venus & Bladder.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "એક સંપૂર્ણ પરોપજીવી વનસ્પતિનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમરવેલ (Cuscuta).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Amar-vel = Always on others.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "પ્રાણીસૃષ્ટિમાં પોષણનો પ્રકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હોલોઝોઈક (પ્રાણીસમ) અથવા અંતઃગ્રહણ દ્વારા વિષમપોષી પોષણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Eat then Digest = Holozoic.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વાયરસ (Virus) નામનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયરસ એટલે ઝેર અથવા વિષારી પ્રવાહી (Venom or poisonous fluid).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Virus = Venom.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "તમાકુમાં મોઝેક રોગ કરતા સૂક્ષ્મજીવોને વાયરસ નામ કોણે આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દમિત્રી ઈવાનોવસ્કીએ (Dimitri Ivanowsky) 1892 માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I for Ivanowsky, I for Identifier.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "'Contagium vivum fluidum' (ચેપી જીવંત પ્રવાહી) શબ્દ કોણે પ્રયોજ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમ. ડબલ્યુ. બેજેરીન્કે (M.W. Beijerinck).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Beijerinck = Beverage (Fluid).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વાયરસને સ્ફટિકમય બનાવી શકાય છે તેવું કોણે દર્શાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડબલ્યુ. એમ. સ્ટેનલીએ (W.M. Stanley) 1935 માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stanley = Stone (Crystals).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વાયરસનું પ્રોટીન આવરણ કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેપ્સીડ (Capsid).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Protein Cap = Capsid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "બેક્ટેરિયોફેઝ (Bacteriophage) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વાયરસ બેક્ટેરિયા પર ચેપ લગાડે છે તેને બેક્ટેરિયોફેઝ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phage = To eat (Bacteria eater).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વનસ્પતિમાં વાયરસ દ્વારા થતા બે લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્ણ વલન, પર્ણ કુંચન, પાંડુરોગ, શિરા સ્પષ્ટતા, વામન વૃદ્ધિ વગેરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Leaf-rolling & Dwarfing.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વાયરોઈડ્સ (Viroids) ની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટી. ઓ. ડાયનરે (T.O. Diener) 1971 માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Diener discovered Dinner (Viroids) size particles.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વાયરોઈડ્સ કયો રોગ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બટાટામાં ત્રાકમય ગ્રંથિલ (Potato spindle tuber) રોગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Potato + Spindle = Viroid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વાયરોઈડ્સ અને વાયરસ વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયરોઈડ્સમાં પ્રોટીન આવરણ (Capsid) નો અભાવ હોય છે અને તે માત્ર મુક્ત RNA ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Viroid = Naked RNA.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "પ્રાયોન્સ (Prions) શેના બનેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાયોન્સ અસામાન્ય રીતે ગડી વળેલા (misfolded) પ્રોટીનના બનેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Prions, P for Proteins.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "પ્રાયોન્સ દ્વારા મનુષ્યમાં કયો રોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cr-Jacob રોગ (CJD).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CJD in Humans.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પ્રાયોન્સ દ્વારા પશુઓમાં થતો પ્રખ્યાત રોગ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બોવાઈન સ્પોન્જીફોર્મ એન્સેફાલોપથી (BSE), જેને 'મેડ કાઉ ડિસીઝ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mad Cow = Prions.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "લાઈકેન એ કયા બે ઘટકોનું સહજીવન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલ (Phycobiont) અને ફૂગ (Mycobiont).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L+F = Lichen (Algae + Fungi).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "લાઈકેનમાં લીલ ઘટકનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલ પ્રકાશસંશ્લેષણ દ્વારા ફૂગ માટે ખોરાક તૈયાર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Algae = Chef (Cooks food).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "લાઈકેનમાં ફૂગના ઘટકનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂગ આશ્રય આપે છે અને ખનીજ તત્ત્વો તેમજ પાણીનું શોષણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fungi = House & Delivery (Shelter & Water).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "લાઈકેન કયા પ્રદૂષણના શ્રેષ્ઠ સૂચકો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાઈકેન હવાના પ્રદૂષણના (ખાસ કરીને SO2) ઉત્તમ સૂચકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pollution = No Lichen.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વ્હીટેકરના વર્ગીકરણમાં કયા સજીવોને સ્થાન મળ્યું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયરસ, વાયરોઈડ્સ, પ્રાયોન્સ અને લાઈકેન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Non-living/Acellular excluded.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "પ્લાઝમોડિયમ (સ્લાઈમ મોલ્ડ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુકૂળ પરિસ્થિતિમાં સ્લાઈમ મોલ્ડ એકત્રિત થઈને જે જૂથ બનાવે છે તેને પ્લાઝમોડિયમ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Aggregation = Plasmodium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "યુબેક્ટેરિયા શેના દ્વારા પ્રચલન કરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો તે ચલિત હોય, તો તેઓ સખત કોષદીવાલ અને કશા (Flagella) ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Movement = Flagella.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "કીમોસિન્થેટીક ઓટોટ્રોફ્સ કયા ચક્રમાં મહત્વનો ફાળો આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાઈટ્રોજન, ફોસ્ફરસ, આયર્ન અને સલ્ફર જેવા પોષકતત્ત્વોના પુનઃચક્રણમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N-P-S-Fe recycling.</p></div>"
+    }
+  ]
+}

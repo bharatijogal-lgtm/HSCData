@@ -3370,3 +3370,371 @@ var Std11_Biology_OneWord = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "કોષચક્ર અને કોષવિભાજન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષવિભાજન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિતૃકોષ વિભાજન પામીને નવા બાળકોષોનું નિર્માણ કરે તે પ્રક્રિયાને કોષવિભાજન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 માંથી 2 બનવું = વિભાજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોષચક્ર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષ પોતાના જનીનદ્રવ્યનું દ્વિગુણન કરે, અન્ય ઘટકોનું સંશ્લેષણ કરે અને છેવટે બે બાળકોષોમાં વિભાજિત થાય તે ઘટનાક્રમને કોષચક્ર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ + દ્વિગુણન + વિભાજન = ચક્ર (Cycle).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મનુષ્યના કોષોમાં કોષચક્રનો સરેરાશ સમયગાળો કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુષ્યના કોષોમાં કોષચક્રનો સરેરાશ સમયગાળો લગભગ 24 કલાકનો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Human = Full Day (24 Hours).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઈસ્ટમાં કોષચક્ર પૂર્ણ થવા માટે કેટલો સમય લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈસ્ટમાં કોષચક્ર માત્ર 90 મિનિટમાં પૂર્ણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્ટ = દોઢ કલાક (90 min).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કોષચક્રના મુખ્ય બે તબક્કાઓ કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષચક્રના મુખ્ય બે તબક્કાઓ (1) આંતરાવસ્થા અને (2) M-તબક્કો (ભાજનાવસ્થા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I-M (આઈ એમ રેડી ફોર ડિવિઝન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કોષચક્રના કુલ સમયગાળામાં આંતરાવસ્થા કેટલા ટકા સમય રોકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરાવસ્થા કોષચક્રના કુલ સમયગાળાના 95% થી વધુ સમય રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરાવસ્થા = મેરેથોન તૈયારી (95%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "M-તબક્કાની શરૂઆત શેનાથી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> M-તબક્કાની શરૂઆત કેન્દ્રવિભાજન (કેરિયોકાઈનેસિસ) થી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા 'કેન્દ્ર' પછી 'કોષરસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કોષરસ વિભાજનને અંગ્રેજીમાં શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષરસ વિભાજનને 'સાયટોકાઈનેસિસ' (Cytokinesis) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyto = કોષરસ, Kinesis = વિભાજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આંતરાવસ્થાના ત્રણ પેટા તબક્કાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરાવસ્થાના ત્રણ તબક્કા: G1 (ગેપ-1), S (સંશ્લેષણ તબક્કો) અને G2 (ગેપ-2) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G1 -> S -> G2 (ક્રમ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "G1 તબક્કામાં કોષ કઈ રીતે સક્રિય હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> G1 તબક્કામાં કોષ ચયાપચયિક રીતે સક્રિય હોય છે અને સતત વૃદ્ધિ કરે છે પણ DNA નું સ્વયંજનન કરતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G1 = Growth (વૃદ્ધિ), No DNA Copy.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "S તબક્કાનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> S તબક્કામાં DNA નું સંશ્લેષણ અને તેનું દ્વિગુણન (સ્વયંજનન) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S = Synthesis = DNA ડબલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "S તબક્કા પછી જો DNA ની શરૂઆતની માત્રા 2C હોય, તો તે વધીને કેટલી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> S તબક્કા પછી DNA ની માત્રા 2C થી વધીને 4C થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 નું ડબલ 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શું S તબક્કા પછી રંગસૂત્રોની સંખ્યામાં વધારો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, રંગસૂત્રોની સંખ્યામાં કોઈ વધારો થતો નથી, તે 2n જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA ડબલ, પણ રંગસૂત્ર સેમ (Same).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પ્રાણીકોષમાં S તબક્કા દરમિયાન કોષરસમાં કઈ અંગિકાનું બેવડાવવું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીકોષમાં S તબક્કા દરમિયાન તારાકેન્દ્ર (Centriole) નું દ્વિગુણન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S-Phase = DNA (કેન્દ્રમાં) + તારાકેન્દ્ર (કોષરસમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "G2 તબક્કા દરમિયાન શાનું નિર્માણ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> G2 તબક્કા દરમિયાન સમભાજન માટે જરૂરી પ્રોટીનનું સંશ્લેષણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G2 = Protein for M-phase.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શાંત અવસ્થા (G0 Phase) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે કોષો વિભાજન પામતા નથી તેઓ G1 તબક્કામાંથી નીકળી નિષ્ક્રિય અવસ્થામાં પ્રવેશે છે, જેને શાંત અવસ્થા (Quiescent stage) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G0 = ગેટ આઉટ (વિભાજન માંથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પ્રાણીઓમાં સમભાજન ફક્ત કયા કોષોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓમાં સમભાજન ફક્ત દ્વિકીય (2n) દૈહિક કોષોમાં જ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણી = 2n સમભાજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમભાજનને 'સમીકરણ વિભાજન' કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે બાળકોષોમાં રંગસૂત્રોની સંખ્યા પિતૃકોષ જેટલી જ જળવાઈ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમભાજન = સમાન રંગસૂત્રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કેન્દ્રવિભાજન (M-તબક્કા) ના ચાર તબક્કાઓ કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પૂર્વાવસ્થા (2) ભાજનાવસ્થા (3) ભાજનોત્તરાવસ્થા (4) અંત્યાવસ્થા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PMAT (Pro, Meta, Ana, Telo).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પૂર્વાવસ્થાની મુખ્ય લાક્ષણિકતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રંગસૂત્રીય દ્રવ્યનું ઘનીકરણ (Condensation) થવું અને રંગસૂત્રો સ્પષ્ટ બનવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વાવસ્થા = ગૂંચ ઉકેલવી + સંકોચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તારાકિરણો (Asters) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક તારાકેન્દ્રમાંથી નીકળતી સૂક્ષ્મ નલિકાઓને તારાકિરણો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારાકેન્દ્રના કિરણો = Asters.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દ્વિધ્રુવીય ત્રાક (Mitotic Spindle) શેનું બનેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે તારાકેન્દ્રો અને તારાકિરણો સાથે મળીને દ્વિધ્રુવીય ત્રાકની રચના કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 Asters + Spindle Fibres = Spindle Apparatus.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પૂર્વાવસ્થાના અંતે કઈ અંગિકાઓ અદ્રશ્ય થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોલ્ગી પ્રસાધન, અંતઃકોષરસજાળ, કોષકેન્દ્રિકા અને કોષકેન્દ્રપટલ અદ્રશ્ય થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બધું ગાયબ' તબક્કો = પૂર્વાવસ્થાનો અંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભાજનાવસ્થાની શરૂઆતની ઓળખ કઈ ઘટનાથી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષકેન્દ્રપટલના સંપૂર્ણ વિઘટન થવાથી ભાજનાવસ્થાની શરૂઆત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટલ ગયું, ભાજનાવસ્થા આવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રંગસૂત્રોના બાહ્યકાર વિજ્ઞાન (Morphology) ના અભ્યાસ માટે કયો તબક્કો શ્રેષ્ઠ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાજનાવસ્થા (Metaphase) રંગસૂત્રોના આકારના અભ્યાસ માટે શ્રેષ્ઠ તબક્કો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meta = Morphology (બાહ્ય દેખાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કાઈનેટોકોર (Kinetochore) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેન્ટ્રોમીયરની સપાટી પર આવેલી બિંબ (Disc) જેવી રચનાને કાઈનેટોકોર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રાકતંતુનું હેન્ડલ = કાઈનેટોકોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ભાજનાવસ્થા પટ્ટીકા (Metaphase Plate) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાજનાવસ્થામાં બધા જ રંગસૂત્રો વિષુવવૃત્તીય તલ પર એક લાઈનમાં ગોઠવાય છે, જેને ભાજનાવસ્થા પટ્ટીકા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમાં ગોઠવણી = Meta Plate.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ભાજનોત્તરાવસ્થા (Anaphase) ની મુખ્ય ઘટના કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેન્ટ્રોમીયરનું વિભાજન થવું અને રંગસૂત્રિકાઓનું સામસામેના ધ્રુવો તરફ ગતિ કરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ana = Apart (છૂટા પડવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "અંત્યાવસ્થા (Telophase) માં રંગસૂત્રોની સ્થિતિ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રંગસૂત્રો ધ્રુવો પર એકત્રિત થઈ પોતાની વ્યક્તિગત ઓળખ ગુમાવે છે અને વિઘનીકરણ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Telo = Termination (છેલ્લો તબક્કો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પ્રાણીકોષમાં કોષરસ વિભાજન કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીકોષમાં કોષરસસ્તરમાં ખાંચ (Furrow) પડવાથી બહારથી કેન્દ્ર તરફ વિભાજન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણી = ખાંચ (Centripetal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વનસ્પતિ કોષમાં કોષરસ વિભાજનની શરૂઆત ક્યાંથી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિ કોષમાં કોષકેન્દ્રથી શરૂ થઈ બહારની તરફ 'કોષપટ્ટીકા' (Cell plate) ના નિર્માણથી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ = પટ્ટીકા (Centrifugal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બહુકોષકેન્દ્રીય સ્થિતિ (Syncytium) ક્યારે સર્જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કેન્દ્રવિભાજન પછી કોષરસ વિભાજન ન થાય ત્યારે બહુકોષકેન્દ્રીય સ્થિતિ સર્જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર કેન્દ્ર વધે, કોષ ન વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "બહુકોષકેન્દ્રીય કોષનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાળિયેરનું પ્રવાહી ભ્રૂણપોષ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેર પાણી = Liquid Syncytium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સમભાજનનું મહત્વ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સજીવોની વૃદ્ધિ, કોષોનું સમારકામ અને જનીનિક સમાનતા જાળવી રાખવા માટે સમભાજન મહત્વનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ + રિપેરિંગ = સમભાજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "અર્ધીકરણ (Meiosis) કયા કોષોમાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણ પ્રજનન કોષો (જનન કોષો) ના નિર્માણ સમયે દ્વિકીય કોષોમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેક્સ્યુઅલ રીપ્રોડક્શન = અર્ધીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "અર્ધીકરણમાં DNA નું સ્વયંજનન કેટલી વાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણમાં DNA નું સ્વયંજનન માત્ર એક જ વાર (S-તબક્કામાં) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભાજન બે વાર, DNA કોપી એક વાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પૂર્વાવસ્થા-I ના પાંચ પેટા તબક્કાઓ ક્રમમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) લેપ્ટોટીન (2) ઝાયગોટીન (3) પેકીટીન (4) ડિપ્લોટીન (5) ડાયાકાઈનેસિસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-Z-P-D-D (Lata Zara Pani De-Do).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લેપ્ટોટીન તબક્કાની વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રંગસૂત્રો ધીરે ધીરે સ્પષ્ટ બને છે અને સંકોચન પામવાનું ચાલુ રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેપ્ટોટીન = લાઈટમાં દેખાવું (Visible).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સાંનિધ્ય (Synapsis) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝાયગોટીન તબક્કામાં સમજાત રંગસૂત્રોની જોડી બનાવવાની પ્રક્રિયાને સાંનિધ્ય કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Synapsis = જોડી બનાવવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સિનપ્ટોનીમલ સંકુલ (Synaptonemal Complex) કયા તબક્કામાં બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝાયગોટીન (Zygotene) તબક્કામાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z = Zip (ચેઈન બંધ થવી = સંકુલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "દ્વિસૂત્રી (Bivalent) કે ચતુઃસૂત્રી (Tetrad) ક્યારે સ્પષ્ટ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેકીટીન તબક્કામાં ચતુઃસૂત્રી સ્પષ્ટ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Packytene = Packing of 4 (Tetrad).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વ્યતિકરણ (Crossing over) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે સમજાત રંગસૂત્રોની નોન-સિસ્ટર રંગસૂત્રિકાઓ વચ્ચે જનીનિક દ્રવ્યની અદલાબદલીને વ્યતિકરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યતિકરણ = જનીનોનું એક્સચેન્જ (Exchange).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વ્યતિકરણમાં કયો ઉત્સેચક ભાગ લે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યતિકરણમાં 'રિકોમ્બિનેઝ' (Recombinase) ઉત્સેચક ભાગ લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Recombination = Recombinase.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "સ્વસ્તિક ચોકડી (Chiasmata) કયા તબક્કામાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડિપ્લોટીન (Diplotene) તબક્કામાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'X' આકાર = સ્વસ્તિક = ડિપ્લોટીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "કયા પ્રાણીઓના અંડકોષોમાં ડિપ્લોટીન તબક્કો મહિનાઓ કે વર્ષો સુધી ચાલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલાક પૃષ્ઠવંશી પ્રાણીઓના અંડકોષોમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબો આરામ = ડિપ્લોટીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ડાયાકાઈનેસિસની મુખ્ય લાક્ષણિકતા કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વસ્તિક ચોકડીઓનું અંતિમિકરણ (Terminalization) થવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાકાઈનેસિસ = છેડો (End of Prophase-I).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "ભાજનાવસ્થા-I માં રંગસૂત્રો કેવી રીતે ગોઠવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિસૂત્રી રંગસૂત્રો (Bivalents) વિષુવવૃત્તીય પટ્ટીકા પર ગોઠવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડીમાં ગોઠવણી = Meta-I.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ભાજનોત્તરાવસ્થા-I માં શું છૂટું પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમજાત રંગસૂત્રો છૂટા પડે છે, પરંતુ રંગસૂત્રિકાઓ સેન્ટ્રોમીયરથી જોડાયેલી જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા રંગસૂત્ર છૂટા પડે, નહિ કે પાંખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "કોષ દ્વિક (Dyad of cells) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત્યાવસ્થા-I ના અંતે બે કોષોનું નિર્માણ થાય તેને કોષ દ્વિક કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dyad = 2 Cells.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "આંતરકોષવિભાજન (Interkinesis) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે અર્ધીકરણ (અર્ધીકરણ-I અને અર્ધીકરણ-II) વચ્ચેના ટૂંકાગાળાના તબક્કાને આંતરકોષવિભાજન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરામ સમય (Interval).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "શું આંતરકોષવિભાજનમાં DNA નું સ્વયંજનન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, આંતરકોષવિભાજનમાં DNA નું સ્વયંજનન થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No DNA Copy in Interval.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "અર્ધીકરણ-II કોના જેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણ-II સામાન્ય સમભાજન જેવું જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meiosis II = Mitosis.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ભાજનોત્તરાવસ્થા-II ની મુખ્ય ઘટના કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેન્ટ્રોમીયરનું વિભાજન થવું અને એકાકી રંગસૂત્રિકાઓનું ધ્રુવો તરફ ગતિ કરવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ana-II = સેન્ટ્રોમીયર તૂટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "અર્ધીકરણના અંતે કેટલા બાળકોષો બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણના અંતે ચાર એકકીય (n) બાળકોષો બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 માંથી 4 (અર્ધીકરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "અર્ધીકરણનું મહત્વ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેઢી દર પેઢી રંગસૂત્રોની સંખ્યા જાળવી રાખવા અને જનીનિક ભિન્નતા લાવવા માટે મહત્વનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધીકરણ = કોન્સ્ટન્ટ નંબર + વેરીએશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ઉત્ક્રાંતિ માટે કઈ પ્રક્રિયા જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણ દરમિયાન થતું વ્યતિકરણ (Crossing over) ઉત્ક્રાંતિ માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યતિકરણ = ભિન્નતા = ઉત્ક્રાંતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "કઈ અવસ્થામાં કોષકેન્દ્રિકા પુનઃ પ્રગટ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત્યાવસ્થા (Telophase) માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વાવસ્થાનું ઉલટું = અંત્યાવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "રંગસૂત્ર દ્રવ્યનું ગૂંચળું ક્યારે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વાવસ્થામાં રંગસૂત્ર દ્રવ્યના ઘનીકરણથી ગૂંચળું બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વાવસ્થા = પેકિંગ સ્ટાર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ભાજનાવસ્થા પટ્ટીકા પર રંગસૂત્રોને કોણ પકડી રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને ધ્રુવોના ત્રાકતંતુઓ જે કાઈનેટોકોર સાથે જોડાયેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રાકતંતુ = રસ્સી (Rope).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "S તબક્કો કયા બે તબક્કાની વચ્ચે આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> G1 અને G2 તબક્કાની વચ્ચે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G1 - S - G2 (સેન્ડવીચ ટ્રીક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "કિડનીના કોષોમાં કયા પ્રકારનું વિભાજન જોવા મળશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમભાજન (કારણ કે તે દૈહિક કોષો છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોડી પાર્ટ = સમભાજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "અર્ધીકરણ-I ને કયા પ્રકારનું વિભાજન કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યૂનકારી વિભાજન (Reductional Division).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2n થી n થવું = ઘટાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "સેન્ટ્રોમીયરનું વિભાજન કયા તબક્કામાં થતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાજનોત્તરાવસ્થા-I (Anaphase-I) માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ana-I માં સેન્ટ્રોમીયર સલામત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કયા તબક્કે કોષકેન્દ્રપટલ ફરીથી બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત્યાવસ્થા (Telophase) માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Telo = Welcome Back Nuclear Membrane.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "જનીન સંયોજન (Recombination) શેના લીધે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણમાં થતા વ્યતિકરણ (Crossing over) ના લીધે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિક્સિંગ = રીકોમ્બિનેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વનસ્પતિમાં કયા કોષોમાં અર્ધીકરણ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લઘુબીજાણુ માતૃકોષ અને મહાબીજાણુ માતૃકોષમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજાણુ જનન = અર્ધીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "M-તબક્કા પછી તરત આવતા આંતરાવસ્થાના તબક્કાનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> G1 તબક્કો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M પૂરો -> G1 શરૂ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "કયા કોષોમાં ક્યારેય વિભાજન થતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદયના કોષો અને ચેતાકોષોમાં સામાન્ય રીતે વિભાજન થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય અને ચેતા = No Division (G0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "રંગસૂત્રની કઈ અવસ્થામાં તે 'L' કે 'J' આકારના દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાજનોત્તરાવસ્થા (Anaphase) માં જ્યારે તે ધ્રુવો તરફ ગતિ કરે ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ana = આકાર (Shape).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "કોષચક્રનું જનીનિક નિયંત્રણ કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષચક્રનું નિયંત્રણ વિવિધ પ્રોટીન (જેમ કે સાયક્લીન્સ) અને ઉત્સેચકો દ્વારા જનીનિક સ્તરે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન = ટ્રાફિક પોલીસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "પુનઃસંયોજિત ગ્રંથિકાઓ (Recombination nodules) ક્યારે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેકીટીન તબક્કામાં વ્યતિકરણના સ્થાને બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેકીટીન = ગાંઠ (Nodule).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "અર્ધીકરણ-I ના અંતે રંગસૂત્રોની સંખ્યામાં શું ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રંગસૂત્રોની સંખ્યા અડધી (2n માંથી n) થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meiosis-I = Real reduction.</p></div>"
+    }
+  ]
+}

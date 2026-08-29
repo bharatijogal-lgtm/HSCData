@@ -4106,3 +4106,386 @@ var Std11_Biology_OneWord = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વનસ્પતિઓમાં શ્વસન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષીય શ્વસન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષની અંદર ખોરાકનાં ઘટકોનું ઓક્સિડેશન થઈ શક્તિ મુક્ત થવાની પ્રક્રિયાને કોષીય શ્વસન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસન = ખોરાકનું દહન + શક્તિ મુક્તિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કયા સંયોજનોના ઓક્સિડેશનથી કોષમાં શક્તિ મુક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વસન પ્રક્રિયા દરમિયાન કાર્બનિક સંયોજનો (મુખ્યત્વે કાર્બોદિત) ના ઓક્સિડેશનથી શક્તિ મુક્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસનીય પદાર્થો (Substrates) = શક્તિના સ્ત્રોત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોષનું શક્તિચલણ (Energy Currency) કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ATP (એડિનોસાઇન ટ્રાય ફોસ્ફેટ) ને કોષનું શક્તિચલણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ATP = બાયોલોજીનું 'રૂપિયું' (ચલણ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વનસ્પતિમાં વાયુ વિનિમય માટે કઈ રચનાઓ આવેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિમાં વાયુ વિનિમય માટે પર્ણરંધ્રો (Stomata) અને વાતરંધ્રો (Lenticels) આવેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણ = પર્ણરંધ્ર, થડ = વાતરંધ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગ્લાયકોલિસીસ પ્રક્રિયા કોષના કયા ભાગમાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસીસની પ્રક્રિયા કોષના કોષરસ (Cytoplasm) માં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્લાયકો' થાય 'રસ' માં (કોષરસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગ્લાયકોલિસીસને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસીસને EMP પથ (Embden-Meyerhof-Parnas pathway) તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૈજ્ઞાનિકોના નામનો પ્રથમ અક્ષર = EMP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગ્લાયકોલિસીસની પ્રક્રિયાના અંતે કઈ છેલ્લી નીપજ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસીસના અંતે પાયરુવિક એસિડના બે અણુઓ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાુકોઝ (6C) → 2 પાયરુવિક એસિડ (3C).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સુક્રોઝનું ગ્લુકોઝ અને ફ્રુક્ટોઝમાં રૂપાંતર કયા ઉત્સેચકની મદદથી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્વર્ટેઝ (Invertase) ઉત્સેચકની મદદથી સુક્રોઝનું ગ્લુકોઝ અને ફ્રુક્ટોઝમાં રૂપાંતર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુક્રોઝ ઉલટાય (Invert) → ઇન્વર્ટેઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગ્લાયકોલિસીસમાં ગ્લુકોઝનું ફોસ્ફોરાયલેશન કરી ગ્લુકોઝ-6-ફોસ્ફેટ બનાવતો ઉત્સેચક કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેક્ઝોકાઈનેઝ (Hexokinase) ઉત્સેચક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેક્ઝો (6 કાર્બન) + કાઈનેઝ (ફોસ્ફેટ ઉમેરનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગ્લાયકોલિસીસમાં કુલ કેટલા એટીપી (ATP) નો વપરાશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસીસના શરૂઆતના તબક્કામાં કુલ 2 ATP વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધંધો શરૂ કરવા મૂડી જોઈએ = 2 ATP રોકાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગ્લાયકોલિસીસમાં કુલ કેટલા એટીપી (ATP) સીધી રીતે ઉત્પન્ન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસીસમાં સીધી રીતે 4 ATP ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 બન્યા - 2 વપરાયા = 2 ચોખ્ખો નફો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગ્લાયકોલિસીસમાં કયા તબક્કે NADH + H+ નું નિર્માણ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે 3-ફોસ્ફોગ્લિસરાલ્ડિહાઇડ (PGAL) નું 1,3-બિસફોસ્ફોગ્લિસરિક એસિડ (BPGA) માં રૂપાંતર થાય ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AL (Aldehyde) માંથી IC (Acid) બને ત્યારે NADH બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અજારક શ્વસન (આથવણ) ના બે પ્રકારો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. લેક્ટિક એસિડ આથવણ અને 2. આલ્કોહોલિક આથવણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દહીં (લેક્ટિક) અને દારૂ (આલ્કોહોલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આલ્કોહોલિક આથવણમાં પાયરુવિક એસિડમાંથી શું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈથેનોલ અને CO2 બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કોહોલ + પરપોટા (CO2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેક્ટિક એસિડ આથવણ ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓના સ્નાયુકોષોમાં (કસરત દરમિયાન) અને કેટલાક બેક્ટેરિયામાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નાયુમાં થાક = લેક્ટિક એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઈસ્ટ માટે આલ્કોહોલની કેટલી ટકાવારી ઝેરી (ઘાતક) બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે આલ્કોહોલનું પ્રમાણ 13% કે તેથી વધુ થાય ત્યારે ઈસ્ટ માટે તે ઘાતક બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશુભ આંકડો 13 = ઈસ્ટ માટે ખતરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જારક શ્વસન ક્યાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જારક શ્વસન કણાભસૂત્ર (Mitochondria) ની અંદર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જારક = કણાભસૂત્ર (Power House).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લિંક રિએક્શન (Link Reaction) માં પાયરુવિક એસિડનું શું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાયરુવિક એસિડનું એસિટાઈલ Co-A (Acetyl Co-A) માં રૂપાંતર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકોલિસીસ અને ક્રેબ્સ ચક્રને જોડતી કડી = એસિટાઈલ Co-A.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ક્રેબ્સ ચક્રના પ્રથમ પ્રક્રિયકનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્ઝેલો એસેટિક એસિડ (OAA - 4 Carbon).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: OAA + એસિટાઈલ Co-A = સાઈટ્રિક એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ક્રેબ્સ ચક્રને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાઈટ્રિક એસિડ ચક્ર (TCA Cycle - Tricarboxylic Acid Cycle).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ નીપજ સાઈટ્રિક એસિડ હોવાથી TCA ચક્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ક્રેબ્સ ચક્રમાં એક ગ્લુકોઝના અણુ દીઠ કેટલા FADH2 બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ગ્લુકોઝ માટે બે ક્રેબ્સ ચક્ર થાય, તેથી કુલ 2 FADH2 બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ચક્ર = 1 FADH2, 2 ચક્ર = 2 FADH2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ક્રેબ્સ ચક્ર કણાભસૂત્રના કયા ભાગમાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કણાભસૂત્રના આધારક (Matrix) માં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રેબ્સ 'આધાર' રાખે છે (આધારક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ETS (Electron Transport System) ક્યાં આવેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કણાભસૂત્રના અંતઃપટલ (Inner mitochondrial membrane) માં આવેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ETS = અંદરનું પટલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એક NADH ના અણુના ઓક્સિડેશનથી કેટલા ATP મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 ATP મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N-A-D-H (3 સ્વર જેવા) = 3 ATP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક FADH2 ના અણુના ઓક્સિડેશનથી કેટલા ATP મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 ATP મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FADH-2 માં છેલ્લે 2 છે = 2 ATP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ETS માં અંતિમ ઇલેક્ટ્રોન ગ્રાહક કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન (O2) એ અંતિમ ઇલેક્ટ્રોન ગ્રાહક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસનનો અંત ઓક્સિજનથી જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ATP સિન્થેટેઝ ઉત્સેચકના બે ભાગ કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F0 (પટલમાં ખૂંપેલો ભાગ) અને F1 (શીર્ષ ભાગ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 (Zero) અંદર, 1 (One) બહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જારક શ્વસનમાં એક ગ્લુકોઝના સંપૂર્ણ ઓક્સિડેશનથી કુલ કેટલા ATP મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 36 અથવા 38 ATP મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું બેલેન્સ શીટ = 36/38.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શ્વસન આંક (RQ - Respiratory Quotient) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> RQ = મુક્ત થતા CO2 નું કદ / વપરાતા O2 નું કદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RQ = Out / In (CO2/O2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કાર્બોદિત પદાર્થો માટે RQ નું મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બોદિત માટે RQ = 1 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોદિત = 'એક' નંબર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ચરબી (Fats) માટે RQ નું મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચરબી માટે RQ 1 થી ઓછું (દા.ત. ટ્રાઈપામિટિન માટે 0.7) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરબી ભારી હોય પણ RQ ઓછો (0.7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પ્રોટીન માટે RQ નું અંદાજિત મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટીન માટે RQ અંદાજે 0.9 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન = પોઇન્ટ નાઈન (0.9).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કયો પથ જારક અને અજારક બંને શ્વસનમાં સમાન (સામાન્ય) છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસીસ (Glycolysis).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકોલિસીસ એ શ્વસનનો 'કોમન રૂટ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સાયટોક્રોમ 'c' નું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે કોમ્પ્લેક્સ III અને કોમ્પ્લેક્સ IV વચ્ચે ઇલેક્ટ્રોનનું વહન કરતું મોબાઈલ કેરિયર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટોક્રોમ c = કુરિયર બોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "શ્વસનને 'એમ્ફિબોલિક પથ' (Amphibolic Pathway) કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તેમાં કેટાબોલિઝમ (અપચય) અને એનાબોલિઝમ (ચય) બંને પ્રક્રિયાઓ સંકળાયેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમ્ફિ = બંને (ચય + અપચય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ક્રેબ્સ ચક્રમાં CO2 ના કેટલા અણુઓ મુક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ક્રેબ્સ ચક્રમાં 2 CO2 અને આખી પ્રક્રિયામાં (2 પાયરુવિક એસિડ માટે) 4 CO2 મુક્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 કાર્બન ગયા, 2 CO2 આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઓક્સિડેટિવ ફોસ્ફોરાયલેશન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> O2 ની હાજરીમાં અને પ્રોટોન ઢોળાંશની મદદથી ATP બનવાની પ્રક્રિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન + ફોસ્ફેટ ઉમેરવો = ઓક્સિડેટિવ ફોસ્ફોરાયલેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ગ્લાયકોલિસીસમાં કયા ઉત્સેચક દ્વારા ATP સીધું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાયરુવેટ કાઈનેઝ અને ફોસ્ફોગ્લિસરેટ કાઈનેઝ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઈનેઝ = ATP નો વ્યવહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ક્રેબ્સ ચક્રમાં GTP ક્યાં બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સક્સિનાઈલ Co-A નું સક્સિનિક એસિડમાં રૂપાંતર થાય ત્યારે GTP બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સક્સિ' માંથી 'સક્સિ' બને ત્યારે શક્તિ (GTP) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ક્રેબ્સ ચક્રમાં NADH ના કેટલા અણુઓ બને છે (એક પાયરુવિક એસિડ દીઠ)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 NADH બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રેબ્સમાં 3 NADH, 1 FADH2, 1 GTP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કણાભસૂત્રના કયા ભાગમાં પ્રોટોન જમા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરપટલ અવકાશ (Intermembrane space) માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટોનનું વેઇટિંગ રૂમ = પટલો વચ્ચેની જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ETS માં કોમ્પ્લેક્સ IV નું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયટોક્રોમ c ઓક્સિડેઝ કોમ્પ્લેક્સ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: IV = છેલ્લું સ્ટેશન = ઓક્સિડેઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ગ્લુકોઝના એક અણુમાંથી આથવણ દરમિયાન કેટલી શક્તિ મુક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7% થી પણ ઓછી શક્તિ મુક્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આથવણ = ઓછી કાર્યક્ષમતા (< 7%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "આથવણ દરમિયાન પાયરુવિક એસિડનું NADH દ્વારા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રિડક્શન (Reduction) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NADH હાઇડ્રોજન આપે એટલે રિડક્શન જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ETS માં કોમ્પ્લેક્સ V કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ATP સિન્થેટેઝ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: V = Victory = ATP ની જીત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પાયરુવેટ ડીહાઈડ્રોજીનેઝ ઉત્સેચકને કયા સહકારકની જરૂર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mg2+ (મેગ્નેશિયમ આયન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસનમાં Mg2+ 'મહારાજા' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જો શ્વસનીય પદાર્થ તરીકે ફેટી એસિડ હોય, તો તે કયા સ્વરૂપે ક્રેબ્સ ચક્રમાં પ્રવેશે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિટાઈલ Co-A ના સ્વરૂપે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા રસ્તા એસિટાઈલ Co-A તરફ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ગ્લિસરોલ કયા સ્વરૂપે શ્વસન પથમાં પ્રવેશે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PGAL (Phosphoglyceraldehyde) ના સ્વરૂપે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લિસરોલ → PGAL (G for G).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "પ્રોટીનનું વિઘટન થઈ શું બને છે જે શ્વસનમાં પ્રવેશે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમિનો એસિડ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીનનો પાયો = એમિનો એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ગ્લાયકોલિસીસની શોધ ક્યારે થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1930 ના દાયકામાં (ગુજરાત બોર્ડ/NCERT મુજબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EMP - 1930.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "સાઈટ્રિક એસિડમાં કેટલા કાર્બન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6 કાર્બન (4 OAA ના + 2 એસિટાઈલ Co-A ના).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 + 2 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "આલ્ફા-કેટોગ્લુટેરિક એસિડમાં કેટલા કાર્બન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5 કાર્બન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા ચક્રમાં એકમાત્ર 5-C કમ્પાઉન્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ક્રેબ્સ ચક્રમાં કયા તબક્કે FADH2 બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સક્સિનિક એસિડનું ફ્યુમેરિક એસિડમાં રૂપાંતર થાય ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Succinate to Fumarate (S to F).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ETS માં મોબાઇલ ઇલેક્ટ્રોન વાહક તરીકે કોણ કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુબિક્વિનોન (UQ) અને સાયટોક્રોમ c.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: UQ અને Cyt-c એ પટલના 'રખડુ' (મોબાઈલ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "પાયરુવિક એસિડનું ડીકાર્બોક્સિલેશન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાયરુવિક એસિડમાંથી CO2 મુક્ત થવાની પ્રક્રિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડી-કાર્બોક્સિલેશન = CO2 દૂર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ગ્લાયકોલિસીસમાં કયા બે ત્રણ કાર્બનયુક્ત આઇસોમર્સ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PGAL અને DHAP (Dihydroxyacetone phosphate).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકોલિસીસના બે 'જોડિયા ભાઈઓ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ATP સિન્થેટેઝના F1 ભાગમાં શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ADP અને અકાર્બનિક ફોસ્ફેટ (Pi) માંથી ATP નું સંશ્લેષણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F1 = Factory of ATP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "શ્વસન સબસ્ટ્રેટ તરીકે પ્રોટીનનો ઉપયોગ ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કાર્બોદિત અને ચરબી ખલાસ થઈ જાય (ભૂખમરા જેવી સ્થિતિમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન = છેલ્લો વિકલ્પ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ક્રેબ્સ ચક્રમાં કયા તબક્કે પ્રથમવાર CO2 મુક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આઇસોસાઇટ્રિક એસિડમાંથી આલ્ફા-કેટોગ્લુટેરિક એસિડ બને ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6-C માંથી 5-C બને ત્યારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "શ્વસન માટે ઓક્સિજનની અનિવાર્યતા કયા તબક્કે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોન પરિવહન તંત્ર (ETS) ના અંતે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન = ક્લાઇમેક્સ (છેલ્લે જોઈએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "1,3-બિસફોસ્ફોગ્લિસરિક એસિડમાં કેટલા ફોસ્ફેટ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે ફોસ્ફેટ (નામમાં જ 'બિસ' એટલે કે 'બે' છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિસ = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "એટીપી (ATP) નું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એડિનોસાઇન ટ્રાય ફોસ્ફેટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-T-P.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ટ્રાઈપામિટિન નું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C51H98O6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 51-98-6 (યાદ રાખો ફોન નંબરની જેમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "ગ્લાયકોલિસીસ માં કયા તબક્કે પાણીનો અણુ મુક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2-ફોસ્ફોગ્લિસરેટ માંથી ફોસ્ફોઇનોલ પાયરુવેટ (PEP) બને ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PEP બને ત્યારે તરસ લાગે (પાણી મુક્ત થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "પાયરુવિક એસિડમાં કેટલા કાર્બન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 કાર્બન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ (6) / 2 = પાયરુવિક (3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "કાર્બનિક એસિડ (દા.ત. મેલિક એસિડ) માટે RQ નું મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 થી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન વધુ હોય એટલે RQ > 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "ETS માં કોમ્પ્લેક્સ II નું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સક્સિનેટ ડીહાઈડ્રોજીનેઝ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ક્રેબ્સ ચક્રનો ઉત્સેચક પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "આથવણમાં કયા ઉત્સેચક દ્વારા ઈથેનોલ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલ્કોહોલ ડીહાઈડ્રોજીનેઝ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કોહોલ બનાવવા માટે આલ્કોહોલ ઉત્સેચક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "શા માટે વનસ્પતિને શ્વસનતંત્ર (Lungs) ની જરૂર હોતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિનો દરેક ભાગ પોતાના વાયુ વિનિમયની જરૂરિયાત જાતે પૂરી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ = સેલ્ફ સર્વિસ (Self-service).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "સાયટોક્રોમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયટોક્રોમ એ આયર્ન (Fe) ધરાવતા પ્રોટીન છે જે ઇલેક્ટ્રોન વાહક તરીકે કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટોક્રોમ = Fe કન્ટેનર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "જારક શ્વસનની પ્રક્રિયાનું રાસાયણિક સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C6H12O6 + 6O2 → 6CO2 + 6H2O + Energy (ATP).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશસંશ્લેષણનું ઊલટું સમીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "ક્રેબ્સ ચક્ર દરમિયાન કયા તબક્કે ATP (GTP) સીધું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સબસ્ટ્રેટ લેવલ ફોસ્ફોરાયલેશન દ્વારા સક્સિનાઈલ Co-A માંથી સક્સિનિક એસિડના નિર્માણ વખતે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SLP (Substrate Level Phosphorylation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "ધાર્મિક રીતે 'શ્વસન' કઈ પ્રક્રિયા ગણાય - ચય કે અપચય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરંપરાગત રીતે અપચય (Catabolic) પ્રક્રિયા ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોડવું = અપચય (C for Cut/Catabolism).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "સુક્રોઝ શેમાંથી બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુક્રોઝ એ ગ્લુકોઝ અને ફ્રુક્ટોઝના જોડાણથી બનેલો ડાયસેકેરાઇડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GF = Sucrose (Glucose + Fructose).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "કયા પ્રકારના શ્વસનમાં વધુ શક્તિ મુક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જારક શ્વસન (Aerobic Respiration) માં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજનની હાજરી = ફૂલ પાવર!</p></div>"
+    }
+  ]
+}

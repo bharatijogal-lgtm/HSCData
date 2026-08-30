@@ -4857,3 +4857,371 @@ var Std11_Biology_OneWord = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "શ્વાસોચ્છવાસ અને વાયુઓનું વિનિમય",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "શ્વાસોચ્છવાસ (Breathing) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાંની હવા અંદર લેવાની અને વાયુકોષ્ઠોમાંની CO2 યુક્ત હવા બહાર કાઢવાની પ્રક્રિયાને શ્વાસોચ્છવાસ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 ઈન, CO2 આઉટ = શ્વાસોચ્છવાસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચલી કક્ષાના અપૃષ્ઠવંશી પ્રાણીઓ (જેમ કે વાદળી) માં શ્વસન કઈ રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેઓ આખા શરીરની સપાટી દ્વારા સરળ પ્રસરણથી O2 અને CO2 નું વિનિમય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું શરીર = સાદું પ્રસરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અળસિયામાં શ્વસન અંગ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અળસિયું તેની ભીની ત્વચા (ક્યુટિકલ) દ્વારા શ્વસન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અળસિયું = ભીની સ્કીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કીટકોમાં વાયુઓના પરિવહન માટે કઈ વ્યવસ્થા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કીટકોમાં નલિકાઓનું જાળું હોય છે જેને શ્વાસનળીતંત્ર (Tracheal tubes) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીટક = કાચબા જેવું નહીં, પણ નળી જેવું નેટવર્ક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઝાલરો (Gills) દ્વારા થતા શ્વસનને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝાલરો દ્વારા થતા શ્વસનને ઝાલર શ્વસન (Branchial Respiration) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાલર = જળચર પ્રાણીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ફેફસાં દ્વારા થતા શ્વસનને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં દ્વારા થતા શ્વસનને ફુપ્ફુસીય શ્વસન (Pulmonary Respiration) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલ્મોનરી એટલે ફેફસાં સાથે સંબંધિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દેડકા કઈ રીતે શ્વસન કરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકા ભીની ત્વચા (ત્વચીય શ્વસન) અને ફેફસાં બંને દ્વારા શ્વસન કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો = ડ્યુઅલ મોડ (સ્કીન + ફેફસાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કંઠનળીનો કયો ભાગ ખોરાક અને હવા બંને માટે સામાન્ય માર્ગ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંઠનળી (Pharynx) એ ખોરાક અને હવા બંને માટેનો સામાન્ય માર્ગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંઠનળી = કોમન જંક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્વરયંત્ર (Larynx) શાનું બનેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વરયંત્ર એ કાસ્થિમય પેટી છે જે અવાજ ઉત્પન્ન કરવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Larynx = Sound Box.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઘાટી ઢાંકણ (Epiglottis) નું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાક ગળતી વખતે તે શ્વાસદ્વારને ઢાંકી દે છે, જેથી ખોરાક શ્વાસનળીમાં પ્રવેશી ન શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાટી ઢાંકણ = ટ્રાફિક પોલીસ (ખોરાકને ખોટા રસ્તે જતો અટકાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શ્વાસનળી કયા સ્તરે બે પ્રાથમિક શ્વાસવાહિનીમાં વિભાજિત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5 મા ઉરસિય કશેરુકા (5th Thoracic Vertebra) ના સ્તરે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T5 પર ટર્ન લે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શ્વાસનળીમાં જોવા મળતી કાસ્થિની કડીઓ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે અપૂર્ણ કાસ્થિમય સી (C) આકારની કડીઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C' ફોર કાસ્થિ અને કડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વાયુકોષ્ઠો (Alveoli) ની દીવાલ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠો અત્યંત પાતળી, અનિયમિત દીવાલ ધરાવતી અને રુધિરકેશિકાઓથી ઘેરાયેલી કોથળી જેવી રચના છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠો = ગેસ એક્સચેન્જ સેન્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ફેફસાંને ઘેરતા બેવડા પડના આવરણને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાંને ઘેરતા આવરણને ફુપ્ફુસ આવરણ (Pleura) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાંનું કવર = પ્લુરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ફુપ્ફુસીય પ્રવાહી (Pleural fluid) નું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે ફેફસાંની સપાટી પરનું ઘર્ષણ ઘટાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લુરા ફ્લુઈડ = લુબ્રિકન્ટ (ઘર્ષણ મુક્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શ્વસનતંત્રનો કયો ભાગ 'વાહક ભાગ' (Conducting part) તરીકે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્ય નાસિકા છિદ્રોથી અંતિમ શ્વાસવાહિકાઓ સુધીનો ભાગ વાહક ભાગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નસકોરાં થી શરૂ કરી છેલ્લી નળી સુધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વાહક ભાગના મુખ્ય કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવાને વાયુકોષ્ઠો સુધી પહોંચાડવી, હવાને શુદ્ધ કરવી, ભેજયુક્ત બનાવવી અને શરીરના તાપમાન સુધી લાવવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિલ્ટર + એસી + હ્યુમિડિફાયર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શ્વસનતંત્રનો કયો ભાગ 'વિનિમય ભાગ' (Exchange part) છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠો અને તેમની નલિકાઓ વિનિમય ભાગ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં આદાન-પ્રદાન થાય તે વિનિમય ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઉરસિય ગુહાની પૃષ્ઠ બાજુએ શું આવેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરસિય ગુહાની પૃષ્ઠ (પાછળની) બાજુએ કરોડસ્તંભ (Vertebral column) આવેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠ = પાછળ = કરોડસ્તંભ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઉરસિય ગુહાની વક્ષ બાજુએ શું આવેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરસિય ગુહાની વક્ષ (આગળની) બાજુએ ઉરોસ્થિ (Sternum) આવેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વક્ષ = વચમાં (આગળ) = ઉરોસ્થિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઉરસિય ગુહાની નીચેની બાજુએ કઈ રચના હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચેની બાજુએ ગુંબજ આકારનો ઉરોદરપટલ (Diaphragm) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાફ્રામ = બેઝમેન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શ્વાસ (Inspiration) ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ફેફસાંની અંદરનું દબાણ વાતાવરણના દબાણ કરતા ઓછું હોય (ઋણ દબાણ) ત્યારે શ્વાસ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર લો-પ્રેશર, બહાર હાઈ-પ્રેશર = હવા અંદર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઉચ્છવાસ (Expiration) ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ફુપ્ફુસીય દબાણ વાતાવરણના દબાણ કરતા વધારે હોય ત્યારે ઉચ્છવાસ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર હાઈ-પ્રેશર = હવા બહાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શ્વાસ લેવામાં મદદ કરતા મુખ્ય સ્નાયુઓ કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરોદરપટલ અને પાંસળીઓ વચ્ચે આવેલા બાહ્ય આંતરપાંસળી સ્નાયુઓ (External Intercostals).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ = ઉરોદરપટલનું સંકોચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શ્વાસ દરમિયાન ઉરોદરપટલની સ્થિતિ શું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસ દરમિયાન ઉરોદરપટલ સંકોચાય છે અને ચપટો બને છે, જેથી ઉરસિય ગુહાનું કદ અગ્ર-પશ્ચ ધરીએ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકોચન = સપાટ = જગ્યા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સામાન્ય રીતે તંદુરસ્ત માણસ એક મિનિટમાં કેટલી વાર શ્વાસોચ્છવાસ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક મિનિટમાં 12 થી 16 વખત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12-16 (હૃદયના ધબકારા કરતા ઓછા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શ્વાસોચ્છવાસના કદના માપન માટે કયા સાધનનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પાયરોમીટર (Spirometer).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ માપવાનું મીટર = સ્પાયરોમીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ટાઈડલ વોલ્યુમ (TV - શ્વસન કદ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય શ્વાસોચ્છવાસ દરમિયાન હવાનું જે કદ અંદર લેવાય કે બહાર કઢાય તેને TV કહે છે. જે લગભગ 500 mL હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોર્મલ શ્વાસ = 500 mL.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઇન્સ્પાયરેટરી રિઝર્વ વોલ્યુમ (IRV) ની સરેરાશ કિંમત કેટલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2500 mL થી 3000 mL.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: IRV = ઊંડો શ્વાસ (અઢી થી ત્રણ લીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "એક્સપાયરેટરી રિઝર્વ વોલ્યુમ (ERV) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યક્તિ દ્વારા બળપૂર્વક બહાર કાઢવામાં આવતી હવાનું વધારાનું કદ, જે લગભગ 1000 થી 1100 mL હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળપૂર્વક ઉચ્છવાસ = 1 લીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રેસિડ્યુઅલ વોલ્યુમ (RV - બાકી રહેલ કદ) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળપૂર્વક ઉચ્છવાસ બાદ પણ ફેફસાંમાં બાકી રહેતી હવાનું કદ. જે 1100 થી 1200 mL હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RV = 'રહી ગયેલું' વોલ્યુમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વાઈટલ કેપેસિટી (VC - જૈવિક ક્ષમતા) નું સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> VC = ERV + TV + IRV.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: VC = E + T + I.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ટોટલ લંગ કેપેસિટી (TLC - ફેફસાંની કુલ ક્ષમતા) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળપૂર્વક શ્વાસ લીધા બાદ ફેફસાંમાં સમાવી શકાતી હવાનું કુલ કદ (RV + ERV + TV + IRV).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TLC = બધું જ ભેગું (Total).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વાયુઓના વિનિમય માટેનું મુખ્ય સ્થાન કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠો (Alveoli).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠો = ફેફસાંનું રસોડું (જ્યાં કામ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "આંશિક દબાણ (Partial Pressure) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુઓના મિશ્રણમાં કોઈ એક વ્યક્તિગત વાયુ દ્વારા લાગતા દબાણને તેનું આંશિક દબાણ કહે છે (જેને pO2 કે pCO2 તરીકે દર્શાવાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાનું વ્યક્તિગત દબાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વાયુકોષ્ઠોમાં pO2 અને pCO2 ના મૂલ્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠોમાં pO2 = 104 mmHg અને pCO2 = 40 mmHg હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 104 (વધુ O2) અને 40 (ઓછો CO2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "O2 ની સરખામણીમાં CO2 ની દ્રાવ્યતા કેટલી વધુ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO2 ની દ્રાવ્યતા O2 કરતા 20 થી 25 ગણી વધારે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 એ O2 કરતા 20-25 ગણી સ્પીડમાં ઓગળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પ્રસરણ સપાટી (Diffusion membrane) કેટલા સ્તરોની બનેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્ય ત્રણ સ્તરો: (1) વાયુકોષ્ઠોનું પાતળું લાદીસમ અધિચ્છદ, (2) રુધિરકેશિકાઓનું અંતઃચ્છદ, (3) બંને વચ્ચેનું આધારક દ્રવ્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૩ લેયર = સેન્ડવીચ જેવી રચના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "રુધિર દ્વારા O2 નું પરિવહન કઈ બે રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 97% રક્તકણો (Hb) દ્વારા અને (2) 3% રુધિરરસમાં દ્રાવ્ય અવસ્થામાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 97% Hb સાથે, 3% એકલા (પ્લાઝ્મામાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "હિમોગ્લોબિનનો એક અણુ વધુમાં વધુ કેટલા O2 ના અણુઓનું વહન કરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 અણુઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 Hb = 4 O2 (ચોગ્ગો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ઓક્સિજન વિયોજન વક્ર (Oxygen Dissociation Curve) નો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિગ્મોઇડ (Sigmoid - S આકારનો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 વક્ર = S આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વાયુકોષ્ઠોમાં ઓક્સિહિમોગ્લોબિન બનવા માટે કયા પરિબળો સાનુકૂળ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ pO2, ઓછું pCO2, ઓછી H+ સાંદ્રતા અને નીચું તાપમાન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠોમાં O2 હાઈ, બાકી બધું લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "પેશીઓમાં ઓક્સિહિમોગ્લોબિનમાંથી O2 મુક્ત થવા માટે કયા પરિબળો જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચું pO2, ઊંચું pCO2, વધુ H+ સાંદ્રતા અને ઊંચું તાપમાન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશીમાં O2 લો, બાકી બધું હાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "દર 100 mL ઓક્સિજનયુક્ત રુધિર પેશીઓને આશરે કેટલો O2 પહોંચાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશરે 5 mL.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ml લોહી = 5 ml ઓક્સિજન ગિફ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "CO2 નું વહન રુધિરમાં કયા ત્રણ સ્વરૂપે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) બાયકાર્બોનેટ સ્વરૂપે (70%), (2) કાર્બેમિનો-હિમોગ્લોબિન તરીકે (20-25%), (3) દ્રાવ્ય અવસ્થામાં (7%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેજોરિટી બાયકાર્બોનેટમાં (70%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "કાર્બોનિક એનહાઈડ્રેઝ ઉત્સેચક ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે રક્તકણો (RBC) માં ખૂબ ઊંચી સાંદ્રતામાં અને રુધિરરસમાં અલ્પ માત્રામાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોનિક એનહાઈડ્રેઝ = RBC નો સ્પેશિયલ ઉત્સેચક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કાર્બોનિક એનહાઈડ્રેઝની હાજરીમાં CO2 અને પાણી જોડાઈને શું બનાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H2CO3 (કાર્બોનિક એસિડ), જે પછી HCO3- (બાયકાર્બોનેટ) અને H+ માં ફેરવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 + H2O → H2CO3 → HCO3-.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "દર 100 mL અશુદ્ધ (CO2 યુક્ત) રુધિર વાયુકોષ્ઠોમાં કેટલો CO2 મુક્ત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશરે 4 mL.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 આપે 5, CO2 કાઢે 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "શ્વસન લય કેન્દ્ર (Respiratory Rhythm Centre) ક્યાં આવેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્ચ મગજના લંબમજ્જા (Medulla oblongata) વિસ્તારમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લય = લંબમજ્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "શ્વસન અનુચલન કેન્દ્ર (Pneumotaxic Centre) ક્યાં આવેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મગજના સેતુ (Pons) વિસ્તારમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ - પ (ન્યુમોટેક્સિક - પોન્સ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ન્યુમોટેક્સિક કેન્દ્રનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે શ્વાસના સમયગાળામાં ઘટાડો કરી શ્વસન દરમાં ફેરફાર કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુમોટેક્સિક = શ્વાસની બ્રેક (સમય ઘટાડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "રસાયણ સંવેદી વિસ્તાર (Chemosensitive area) કયા પદાર્થો માટે અત્યંત સંવેદનશીલ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO2 અને હાઈડ્રોજન આયનો (H+) માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલ સેન્સર = CO2 અને H+.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "શ્વસન લયના નિયમનમાં ઓક્સિજનની ભૂમિકા કેવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વસન લયના નિયમનમાં ઓક્સિજનની ભૂમિકા નોંધપાત્ર નથી (નજીવી છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંટ્રોલ CO2 ના હાથમાં છે, O2 ના નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "દમ (Asthma) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસવાહિની અને શ્વાસવાહિકાઓમાં બળતરા (Inflammation) ને કારણે શ્વાસ લેવામાં તકલીફ પડવી અને અવાજ આવવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્થમા = સોજો + સીટી જેવો અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "એમ્ફિસીમા (Emphysema) રોગનું મુખ્ય લક્ષણ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠોની દીવાલને નુકસાન થવું, જેનાથી શ્વસન સપાટીમાં ઘટાડો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમ્ફિસીમા = વાયુકોષ્ઠો ડેમેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "એમ્ફિસીમા થવાનું મુખ્ય કારણ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધૂમ્રપાન (Sygarette Smoking).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્મોકિંગ = એમ્ફિસીમાની ટિકિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વ્યવસાયિક શ્વસન રોગો (Occupational Respiratory Disorders) ના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિલિકોસિસ (Silicosis) અને એસ્બેસ્ટોસિસ (Asbestosis).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર અને રેતી ઉદ્યોગના રોગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વ્યવસાયિક શ્વસન રોગોમાં શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાંબા ગાળાના ધૂળના કણોના સંસર્ગથી ફેફસાંમાં તંતુમયતા (Fibrosis) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડસ્ટ = ફાઈબ્રોસિસ = ફેફસાં કડક થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "શ્વસન પ્રક્રિયાનું પ્રથમ સોપાન કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસોચ્છવાસ (વાતાવરણની હવા અંદર લેવી અને CO2 બહાર કાઢવો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુરૂઆત શ્વાસથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "કાર્બેમિનો-હિમોગ્લોબિન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે CO2 હિમોગ્લોબિનના એમીનો સમૂહ સાથે જોડાય છે ત્યારે બનતા સંયોજનને કાર્બેમિનો-હિમોગ્લોબિન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 + Hb = કાર્બેમિનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "પેશીઓ પાસે pCO2 કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપચયની પ્રક્રિયાને કારણે પેશીઓ પાસે pCO2 ઊંચું (લગભગ 45 mmHg) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશી = CO2 ફેક્ટરી (વધુ દબાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ઉરસિય પિંજર (Thoracic cage) શાનું બનેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કરોડસ્તંભ, ઉરોસ્થિ, પાંસળીઓ અને ઉરોદરપટલનું બનેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચારે બાજુથી પ્રોટેક્શન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "શ્વાસ દરમિયાન અંતઃફુપ્ફુસીય દબાણ કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણના દબાણ કરતા ઓછું (Negative pressure).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ = અંદર વેક્યૂમ જેવું દબાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "મનુષ્યમાં ફેફસાં ક્યાં આવેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરસિય ગુહામાં (Thoracic cavity).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાંનું સરનામું = છાતીનું પિંજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "શ્વાસનળી (Trachea) ની લંબાઈમાં કઈ રચનાઓ હવાને પસાર થવા દે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસનળી, પ્રાથમિક, દ્વિતીયક અને તૃતીયક શ્વાસવાહિનીઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું 'શ્વાસવૃક્ષ' (Respiratory Tree).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "ઓક્સિજનયુક્ત રુધિરમાં pO2 અને pCO2 કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> pO2 = 95 mmHg અને pCO2 = 40 mmHg.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોખ્ખું લોહી = 95/40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "ઓક્સિજનવિહીન રુધિરમાં pO2 અને pCO2 કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> pO2 = 40 mmHg અને pCO2 = 45 mmHg.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ લોહી = 40/45.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "કયા વિસ્તારના ચેતાગ્રાહી કેન્દ્રો (Receptors) CO2 અને H+ ના ફેરફારને ઓળખી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાધમની કમાન (Aortic arch) અને ગ્રીવા ધમની (Carotid artery) સાથે જોડાયેલા ગ્રાહકો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમનીઓમાં પણ સેન્સર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "શરીરમાં વાયુઓનું વહન કયા માધ્યમ દ્વારા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિર (Blood) દ્વારા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લડ = ટ્રાન્સપોર્ટ બસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "ફેફસાંમાં હવાની અવરજવર માટે શું જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં અને વાતાવરણ વચ્ચે દબાણનો તફાવત (Pressure Gradient).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણનો તફાવત = હવાનો પ્રવાહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "કયા પ્રકારના પ્રાણીઓમાં વાયુઓનું વિનિમય સીધું રુધિર દ્વારા નથી થતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કીટકોમાં, કારણ કે તેઓ શ્વાસનળીતંત્ર ધરાવે છે જે સીધી પેશીઓ સુધી હવા પહોંચાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીટક = ડાયરેક્ટ એર સપ્લાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "પ્રસરણ સપાટીની કુલ જાડાઈ કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક મિલીમીટર (1 mm) કરતા પણ ઘણી ઓછી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિ પાતળું (< 1 mm).</p></div>"
+    }
+  ]
+}

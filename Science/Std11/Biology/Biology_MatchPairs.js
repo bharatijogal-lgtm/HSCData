@@ -729,3 +729,371 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "વનસ્પતિ સૃષ્ટિ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (વર્ગીકરણ પદ્ધતિ) — વિભાગ B: (આધારિત બાબત) \n (1) કૃત્રિમ પદ્ધતિ — (A) નૈસર્ગિક સંબંધો \n (2) નૈસર્ગિક પદ્ધતિ — (B) બાહ્ય લક્ષણો (પુષ્પની રચના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃત્રિમ = કાચું (ફક્ત બહારનું), નૈસર્ગિક = સાચું (બધુ જ અંદર-બહારનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (વર્ગીકરણ વિદ્યા) — વિભાગ B: (માહિતીનો સ્ત્રોત) \n (1) આંકડાકીય વર્ગીકરણ — (A) રાસાયણિક ઘટકો \n (2) રસાયણ વર્ગીકરણ — (B) કોમ્પ્યુટર દ્વારા સંખ્યા અને સંકેતો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડા એટલે Numbers (Computer), રસાયણ એટલે Chemicals.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (લીલના સ્વરૂપ) — વિભાગ B: (ઉદાહરણ) \n (1) એકકોષીય — (A) વોલ્વોક્સ \n (2) વસાહતી — (B) ક્લેમિડોમોનાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોલ્વોક્સ 'V' પરથી 'V'સાહતી (Colonial).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (તંતુમય લીલ) — વિભાગ B: (ઉદાહરણ) \n (1) સ્પાયરોગાયરા — (A) તંતુમય \n (2) યુલોથ્રિક્સ — (B) તંતુમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B) (બંને તંતુમય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' અને 'U' તંતુ (Filament) જેવા લાંબા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (જન્યુઓના પ્રકાર) — વિભાગ B: (લાક્ષણિકતા) \n (1) સમજન્યુક (ચલિત) — (A) યુલોથ્રિક્સ \n (2) સમજન્યુક (અચલિત) — (B) સ્પાયરોગાયરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પાયરોગાયરા 'સ્થિર' (અચલિત) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (અંડજન્યુક લીલ) — વિભાગ B: (ઉદાહરણ) \n (1) વોલ્વોક્સ — (A) અંડજન્યુક \n (2) ફ્યુકસ — (B) અંડજન્યુક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: VF (Volvox, Fucus) = Very Fine Oogamous.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (લીલના ઉપયોગ) — વિભાગ B: (ઉત્પાદન) \n (1) હાઈડ્રોકોલોઈડ્સ (કથ્થઈ લીલ) — (A) આલ્જીન \n (2) હાઈડ્રોકોલોઈડ્સ (રાતી લીલ) — (B) કેરાજીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Brown Algin (BA), Red Carrageen (RC).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (અગર-અગર ઉત્પાદક) — વિભાગ B: (લીલ) \n (1) ગ્રેસીલેરિયા — (A) રાતી લીલ \n (2) જેલીડીયમ — (B) રાતી લીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GG (Gelidium, Gracilaria) થી બને 'અગર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (અવકાશયાત્રીઓ માટે ખોરાક) — વિભાગ B: (લીલ) \n (1) ક્લોરેલા — (A) એકકોષી પ્રોટીનયુક્ત \n (2) સ્પાયરુલિના — (B) પૂરક આહાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશમાં 'ક્લો' (Chlorella) લઈને જાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (હરિત લીલ - રંજકદ્રવ્યો) — વિભાગ B: (પ્રકાર) \n (1) ક્લોરોફાઈસી — (A) ક્લોરોફિલ a અને b \n (2) રંજકદ્રવ્ય કણ — (B) હરિતકણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Green (હરિત) = A + B (બેસ્ટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (સંગ્રહિત ખોરાક) — વિભાગ B: (લીલનો વર્ગ) \n (1) સ્ટાર્ચ — (A) ક્લોરોફાઈસી \n (2) લેમિનારીન / મેનિટોલ — (B) ફીઓફાઈસી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Brown (કથ્થઈ) 'મેન' (Mannitol) લેમિનેશન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (લીલના કોષદીવાલ) — વિભાગ B: (બંધારણ) \n (1) ક્લોરોફાઈસી — (A) સેલ્યુલોઝ + પેક્ટોઝ \n (2) ફીઓફાઈસી — (B) સેલ્યુલોઝ + આલ્જીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિત લીલ = CP (Cellulose-Pectose).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (કથ્થઈ લીલના અંગો) — વિભાગ B: (કાર્ય) \n (1) સ્થાપક અંગ (Holdfast) — (A) આધાર સાથે જકડવું \n (2) છત્રિકા વૃંત (Stipe) — (B) દાંડી જેવો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hold = પકડી રાખવું (સ્થાપક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (કથ્થઈ લીલ - ઉદાહરણ) — વિભાગ B: (વિશેષતા) \n (1) એક્ટોકાર્પસ — (A) સાદા શાખિત, તંતુમય \n (2) કેલ્પ — (B) વિશાળ દરિયાઈ વનસ્પતિ (100m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેલ્પ' એટલે 'કિલોમીટર' જેવી ઊંચી (યાદ રાખવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (કશાઓની સંખ્યા) — વિભાગ B: (વર્ગ) \n (1) 2-8, સમાન, અગ્રસ્થ — (A) ક્લોરોફાઈસી \n (2) 2, અસમાન, પાર્શ્વિય — (B) ફીઓફાઈસી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Green = Equal (સમાન), Brown = Un-equal (અસમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (રાતી લીલ - રંજકદ્રવ્ય) — વિભાગ B: (મુખ્ય દ્રવ્ય) \n (1) રોડોફાઈસી — (A) r-ફાયકોઈરીથ્રીન \n (2) લાલ રંગ — (B) ક્લોરોફિલ a અને d",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Red = r-Phycoerythrin (R-R).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (સંગ્રહિત ખોરાક) — વિભાગ B: (રાતી લીલ) \n (1) ફ્લોરિડિયન સ્ટાર્ચ — (A) રોડોફાઈસી \n (2) બંધારણ — (B) એમાયલોપેક્ટીન અને ગ્લાયકોજન જેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'F'loridian = 'F'lower જેવું રાતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (દ્વિઅંગી વનસ્પતિ) — વિભાગ B: (ઓળખ) \n (1) વનસ્પતિ સૃષ્ટિના ઉભયજીવી — (A) બ્રાયોફાઈટા \n (2) જમીન પર રહે પણ ફલન માટે પાણી જરૂરી — (B) દ્વિઅંગી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિઅંગી = બે દુનિયા (પાણી અને જમીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (દ્વિઅંગીના અંગો) — વિભાગ B: (રચના) \n (1) મૂલાંગો — (A) મૂળ જેવી રચના \n (2) પ્રસૂન (Thallus) — (B) સુકાયક દેહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂલાંગ = મૂળ ના અંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (નર જન્યુધાની) — વિભાગ B: (માદા જન્યુધાની) \n (1) એન્થેરીડીયમ — (A) ચલપુંજન્યુ ઉત્પન્ન કરે \n (2) આર્કિગોનીયમ — (B) ચંબુ આકારની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A'nth (નર), 'A'rchi (માદા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (લિવરવર્ટ - ઉદાહરણ) — વિભાગ B: (પ્રજનન અંગ) \n (1) માર્કેન્શિયા — (A) કુડમલી પ્યાલા (Gemma cups) \n (2) કુડમલી — (B) લીલી, બહુકોષીય, અલિિંગી કલિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માર્કેન્શિયામાં 'કપ' (Gemma cup) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (મોસના તબક્કા) — વિભાગ B: (લાક્ષણિકતા) \n (1) પ્રથમ તબક્કો (પ્રતંતુ) — (A) લીલો, તંતુમય, ભૂશાયી \n (2) દ્વિતીય તબક્કો (પર્ણમય) — (B) કુંતલાકાર પર્ણો ધરાવતી ધરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતંતુ (Protonema) = પેલો તબક્કો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (મોસ - ઉદાહરણ) — વિભાગ B: (નામ) \n (1) ફ્યુનારિયા — (A) મોસ \n (2) સ્ફગ્નમ — (B) પીટ મોસ (બળતણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્ફગ્નમ' નો ઉપયોગ 'પેકિંગ' માટે થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (ત્રિઅંગી વનસ્પતિ) — વિભાગ B: (મહત્વ) \n (1) પ્રથમ ભૂનિવાસી — (A) વાહક પેશીધારી (અન્નવાહક-જલવાહક) \n (2) ઉપયોગ — (B) ઔષધીય અને ભૂમિ સંરક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિઅંગી = ત્રણ વસ્તુ (મૂળ, પ્રકાંડ, પર્ણ) + વાહક પેશી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (ત્રિઅંગી પર્ણો) — વિભાગ B: (ઉદાહરણ) \n (1) સૂક્ષ્મપર્ણી (Microphylls) — (A) સેલાજીનેલા \n (2) મહાપર્ણી (Macrophylls) — (B) હંસરાજ (Ferns)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સેલા' નાની (Micro), 'હંસ' મોટા (Macro).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (શંકુ - Cones) — વિભાગ B: (ઉદાહરણ) \n (1) સંગઠિત શંકુ — (A) સેલાજીનેલા \n (2) અશ્વપુચ્છ — (B) ઇક્વિસેટમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SE (Selaginella, Equisetum) માં શંકુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (ત્રિઅંગીના પ્રકાર) — વિભાગ B: (બીજાણુ) \n (1) સમબીજાણુક — (A) મોટાભાગની ત્રિઅંગી \n (2) વિષમબીજાણુક — (B) સેલાજીનેલા અને સાલ્વીનીયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'SS' (Selaginella-Salvinia) = વિષમ (Heterosporous).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (ત્રિઅંગી વર્ગો) — વિભાગ B: (ઉદાહરણ) \n (1) સાયલોપ્સીડા — (A) સાયલોટમ \n (2) લાયકોપ્સીડા — (B) સેલાજીનેલા, લાયકોપોડિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે: સાયલો-સાયલો, લાયકો-લાયકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (ત્રિઅંગી વર્ગો) — વિભાગ B: (ઉદાહરણ) \n (1) સ્ફીનોપ્સીડા — (A) ઇક્વિસેટમ \n (2) ટેરોપ્સીડા — (B) એડિએન્ટમ, ડ્રાયોપ્ટેરિસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેરોપ્સીડા = Pteris વાળા બધા (Pteropsida).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (અનાવૃત બીજધારી) — વિભાગ B: (અર્થ) \n (1) Gymnos — (A) નગ્ન (Naked) \n (2) Sperma — (B) બીજ (Seed)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gym (ખુલ્લું) + Sperma (બીજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (અનાવૃત - મૂળ) — વિભાગ B: (ઉદાહરણ) \n (1) કવકર્મૂળ (Mycorrhiza) — (A) પાઈનસ \n (2) પ્રવાળમૂળ (Coralloid roots) — (B) સાયકસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PM (Pinus Mycorrhiza), CC (Cycas Coralloid).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (અનાવૃત - પ્રકાંડ) — વિભાગ B: (પ્રકાર) \n (1) અશાખિત — (A) સાયકસ \n (2) શાખિત — (B) પાઈનસ, સેડ્રસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાયકસ' સીધું (અશાખિત), 'પાઈનસ' પથરાયેલું (શાખિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (અનાવૃત - અનુકૂલન) — વિભાગ B: (વિશેષતા) \n (1) સોય જેવા પર્ણો — (A) સપાટી વિસ્તાર ઘટાડે \n (2) નિમજ્જિત રંધ્રો — (B) પાણીનો વ્યય ઘટાડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોય = પાતળું (ઓછી જગ્યા), અંદર રંધ્ર = ઓછું બાષ્પીભવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (અનાવૃત - શંકુ) — વિભાગ B: (બીજાણુ પર્ણ) \n (1) નર શંકુ — (A) લઘુબીજાણુ પર્ણ \n (2) માદા શંકુ — (B) મહાબીજાણુ પર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર (નાનું-લઘુ), માદા (મોટું-મહા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (વસવાટ) — વિભાગ B: (છોડ) \n (1) એકગૃહી (Monoecious) — (A) પાઈનસ \n (2) દ્વિગૃહી (Dioecious) — (B) સાયકસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P (Pinus) = P (Pariwar - બધા સાથે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (આવૃત બીજધારી) — વિભાગ B: (કદ) \n (1) વુલ્ફિયા — (A) અતિસૂક્ષ્મ \n (2) નીલગિરી (Eucalyptus) — (B) 100 મીટરથી વધુ ઊંચાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વુલ્ફિયા (W) - વિઝીબલ માંડ માંડ, યુકેલિપ્ટસ (E) - એવરેસ્ટ જેવું ઊંચું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (આવૃત બીજધારી - વર્ગો) — વિભાગ B: (બીજપત્ર) \n (1) દ્વિદળી — (A) બે બીજપત્રો \n (2) એકદળી — (B) એક જ બીજપત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ માં જ જવાબ છે: દ્વિ (2), એક (1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (જીવનચક્ર) — વિભાગ B: (ઉદાહરણ) \n (1) એકવિધ જીવનચક્ર — (A) વોલ્વોક્સ, સ્પાયરોગાયરા \n (2) દ્વિવિધ જીવનચક્ર — (B) ફ્યુકસ, જીમનોસ્પર્મ, એન્જીયોસ્પર્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉચ્ચ વનસ્પતિ = 2n (દ્વિવિધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (એક-દ્વિવિધ જીવનચક્ર) — વિભાગ B: (ઉદાહરણ) \n (1) દ્વિઅંગી અને ત્રિઅંગી — (A) એક-દ્વિવિધ (Haplo-diplontic) \n (2) એક્ટોકાર્પસ, કેલ્પ — (B) એક-દ્વિવિધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમ વનસ્પતિ = મધ્યમ જીવનચક્ર (Haplo-Diplontic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (હરિત લીલ) — વિભાગ B: (હરિતકણનો આકાર) \n (1) સ્પાયરોગાયરા — (A) કુંતલાકાર \n (2) યુલોથ્રિક્સ — (B) મેખલાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S'pyro = 'S'piral (કુંતલાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (લીલના વર્ગો) — વિભાગ B: (કશાઓનું સ્થાન) \n (1) રોડોફાઈસી — (A) ગેરહાજર \n (2) ક્લોરોફાઈસી — (B) અગ્રસ્થ (Apical)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Red Algae No Flagella (રાતીને પાંખો નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (વનસ્પતિ દેહ) — વિભાગ B: (મુખ્ય અવસ્થા) \n (1) લીલ અને દ્વિઅંગી — (A) જન્યુજનક (n) \n (2) ત્રિઅંગી, અનાવૃત, આવૃત — (B) બીજાણુજનક (2n)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચલી કક્ષા = n, ઉચ્ચ કક્ષા = 2n.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (બીજાણુધાની પર્ણો) — વિભાગ B: (વ્યાખ્યા) \n (1) બીજાણુ પર્ણો — (A) બીજાણુધાની ધરાવતા પર્ણો \n (2) શંકુ — (B) બીજાણુપર્ણોનું સંગઠિત જૂથ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણ + બીજાણુ = બીજાણુપર્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (જીમનોસ્પર્મ) — વિભાગ B: (અન્ય નામ) \n (1) સેડ્રસ — (A) દેવદાર \n (2) સીક્વોયા — (B) રેડ વૂડ ટ્રી (સૌથી ઊંચું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sequoia = Second (સૌથી ઊંચામાં બીજું નહીં પણ મોટું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (જલવાહિનીનો અભાવ) — વિભાગ B: (જૂથ) \n (1) અનાવૃત બીજધારી — (A) જલવાહિનીનો અભાવ \n (2) સાથીકોષોનો અભાવ — (B) અનાવૃત બીજધારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gymno = No Vessels (નગ્ન એટલે પાત્રો વગરનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (આવૃત બીજધારી - નર) — વિભાગ B: (રચના) \n (1) પુંકેસર — (A) પરાગાશય અને તંતુ \n (2) પરાગરજ — (B) નર જન્યુજનક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાગરજ = પુરૂષ જન્યુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (આવૃત બીજધારી - માદા) — વિભાગ B: (રચના) \n (1) સ્ત્રીકેસર — (A) પરાગાસન, પરાગવાહિની, બીજાશય \n (2) ભ્રૂણપુટ — (B) માદા જન્યુજનક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભ્રૂણપુટ = સ્ત્રી ઘર (માદા જન્યુજનક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (આવૃત બીજધારી - ફલન) — વિભાગ B: (પરિણામ) \n (1) બેવડું ફલન — (A) આવૃત બીજધારીની લાક્ષણિકતા \n (2) PEN (3n) — (B) ભ્રૂણપોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Angio = Double (બેવડું) ફલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (ભ્રૂણપુટના કોષો) — વિભાગ B: (સંખ્યા) \n (1) પ્રતિમુખ કોષો — (A) 3 \n (2) સહાયક કોષો — (B) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 પ્રતિ, 2 સહાયક, 1 અંડકોષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (લીલના વર્ગ - સાચું નામ) — વિભાગ B: (સાચું નામ) \n (1) Chlorophyceae — (A) Green Algae \n (2) Phaeophyceae — (B) Brown Algae",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chloro = Chlorophyll (લીલું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (રોડોફાઈસી - ઉદાહરણ) — વિભાગ B: (નામ) \n (1) પોરફાયરા — (A) લાલ લીલ \n (2) પોલીસેફોનિયા — (B) લાલ લીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PPPP = Porphyra, Polysiphonia, P-Red.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (દ્વિઅંગી જીવનચક્ર) — વિભાગ B: (અવસ્થા) \n (1) જન્યુજનક — (A) પ્રભાવી, સ્વતંત્ર, પ્રકાશસંશ્લેષી \n (2) બીજાણુજનક — (B) જન્યુજનક પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રાયોફાઈટામાં જન્યુજનક 'બોસ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (ત્રિઅંગી જીવનચક્ર) — વિભાગ B: (અવસ્થા) \n (1) બીજાણુજનક — (A) પ્રભાવી અને વાહક પેશીધારી \n (2) જન્યુજનક (પ્રોથેલસ) — (B) ટૂંકા જીવી, અસ્પષ્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિઅંગીમાં બીજાણુજનક 'બોસ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (પાઈનસ) — વિભાગ B: (જન્યુજનક) \n (1) નર જન્યુજનક — (A) પરાગરજ (અતિશય ઘટાડો પામેલ) \n (2) પરાગનયન — (B) પવન દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાવૃત માં પવન એટલે 'Air-mail'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (બીજનું નિર્માણ) — વિભાગ B: (રૂપાંતર) \n (1) અંડક — (A) બીજ \n (2) બીજાશય — (B) ફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંડક-બીજ, બીજાશય-ફળ (યાદ રાખવા: O-S, O-F).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (આવૃત બીજધારી) — વિભાગ B: (ફલન) \n (1) યુગ્મનજ (2n) — (A) ભ્રૂણ \n (2) પ્રાયમિક ભ્રૂણપોષ કોષ (3n) — (B) ભ્રૂણપોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2n = બેબી (ભ્રૂણ), 3n = બ્રેડ (ખોરાક-ભ્રૂણપોષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (લીલ - ખોરાક સંગ્રહ) — વિભાગ B: (પાયરેનોઈડ્સ) \n (1) પાયરેનોઈડ્સ — (A) સ્ટાર્ચ + પ્રોટીન \n (2) સ્થાન — (B) હરિતકણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયરેનોઈડ્સ = પ્રોટીનનું કેન્દ્ર + સ્ટાર્ચનું કવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (લિવરવર્ટ - બીજાણુજનક) — વિભાગ B: (ભાગો) \n (1) ભાગો — (A) પાદ, પ્રકાંડ (વૃંત), કેપ્સ્યુલ (પ્રાવર) \n (2) પ્રાવર (Capsule) — (B) અર્ધસૂત્રીભાજન દ્વારા બીજાણુ બને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SFC (Seta, Foot, Capsule) - બીજાણુજનક ના અંગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (હંસરાજ) — વિભાગ B: (બીજાણુધાની પૂંજ) \n (1) સોરસ (Sorus) — (B) બીજાણુધાનીઓનો સમૂહ \n (2) ત્રિઅંગી — (A) હંસરાજ (Ferns)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોરસ એટલે બીજાણુઓનું ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (બીજધારી વનસ્પતિ) — વિભાગ B: (જૂથો) \n (1) અનાવૃત — (A) ખુલ્લા બીજ \n (2) આવૃત — (B) ફળની અંદર બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાવૃત = આવરણ વગરનું (નગ્ન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (ક્લેમિડોમોનાસ) — વિભાગ B: (લક્ષણ) \n (1) ક્લેમિડોમોનાસ — (A) એકકોષીય લીલ \n (2) કશાધારી — (B) ચલિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાલતું ક્લેમિડોમોનાસ (Motile).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (પાઈનસના બીજ) — વિભાગ B: (લાક્ષણિકતા) \n (1) પાઈનસના બીજ — (A) સપક્ષ (પાંખવાળા) \n (2) પવન — (B) વિકિરણ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઈનસ પાસે પાંખો (Wings) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (નૈસર્ગિક વર્ગીકરણ) — વિભાગ B: (વૈજ્ઞાનિક) \n (1) કૃત્રિમ — (A) લિનિયસ \n (2) નૈસર્ગિક — (B) બેન્થામ અને હૂકર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિનિયસ = Limited (કૃત્રિમ), BH (Bentham Hooker) = Best Habit (નૈસર્ગિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (કોષ વર્ગીકરણ) — વિભાગ B: (માહિતી) \n (1) કોષવર્ગીકરણ વિદ્યા — (A) રંગસૂત્રોની સંખ્યા અને રચના \n (2) જાતિવિકાસીય — (B) ઉદવિકાસીય સંબંધો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyto = Cell (કોષ) -> Chromosome.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (દ્વિઅંગીનું મહત્વ) — વિભાગ B: (ઉપયોગ) \n (1) સ્ફગ્નમ — (A) બળતણ (પીટ) \n (2) લાઈકેન સાથે મોસ — (B) ખડકો પર જીવનની શરૂઆત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ફગ્નમ = સળગાવવા માટે (પીટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (ખાસ ઉદાહરણ) — વિભાગ B: (જીવનચક્ર) \n (1) ફ્યુકસ — (A) દ્વિવિધ \n (2) એક્ટોકાર્પસ — (B) એક-દ્વિવિધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fucus = Full Diplontic (લીલ હોવા છતાં!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (વિષમ બીજાણુ ત્રિઅંગી) — વિભાગ B: (બીજાણુના પ્રકાર) \n (1) મહાબીજાણુ — (A) માદા જન્યુજનક \n (2) લઘુબીજાણુ — (B) નર જન્યુજનક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહા = મમ્મી (માદા), લઘુ = લાલો (નર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (મોસ - પ્રજનન) — વિભાગ B: (રીત) \n (1) પ્રતંતુનું અવખંડન — (A) વાનસ્પતિક પ્રજનન \n (2) દ્વિતીય પ્રતંતુ પર કલિકાસર્જન — (B) અલિિંગી પ્રજનન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસ માં પ્રતંતુ ટુકડા થઈને ઉગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (વનસ્પતિ સૃષ્ટિ - વર્ગો) — વિભાગ B: (ક્રમ) \n (1) એકાંગી — (A) લીલ \n (2) દ્વિઅંગી — (B) મોસ અને લિવરવર્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 (એકાંગી-લીલ), 2 (દ્વિઅંગી), 3 (ત્રિઅંગી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (જીમનોસ્પર્મ - પર્ણો) — વિભાગ B: (પ્રકાર) \n (1) સાયકસ — (A) પિચ્છાકાર પર્ણો \n (2) કોનિફર્સ — (B) સોયાકાર પર્ણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cycas = C (Chid-Pinnate), Conifers = Needle.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: (હરિત લીલના ઉદાહરણ) — વિભાગ B: (ક્રમ) \n (1) કારા (Chara) — (A) લીલ \n (2) ડિક્ટયોટા — (B) કથ્થઈ લીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કારા' લીલી છે, 'ડિક્ટયોટા' કથ્થઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A: (જીવનચક્રના ફેરફારો) — વિભાગ B: (વનસ્પતિ) \n (1) હરિતકણ — (A) લીલ \n (2) બીજધારી — (B) અનાવૃત અને આવૃત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ એટલે સીડ્સ (Seeds) જે જીમનો-એન્જીયો માં જ હોય.</p></div>"
+    }
+  ]
+}

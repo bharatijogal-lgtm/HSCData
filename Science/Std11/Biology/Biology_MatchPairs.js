@@ -1455,3 +1455,371 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સપુષ્પી વનસ્પતિઓની બાહ્યાકાર વિદ્યા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ-A (મૂળના પ્રકાર) ને વિભાગ-B (ઉદાહરણ) સાથે જોડો:<br>1. સોટીમય મૂળ <br>2. તંતુમય મૂળ <br>3. અસ્થાનિક મૂળ <br><br>વિભાગ-B:<br>A. મકાઈ, વડ<br>B. રાઈ<br>C. ઘઉં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોટી જેવી રાઈ, ઘઉંના તંતુ, વડના ટેટા (અસ્થાનિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મૂળના પ્રદેશોને તેના કાર્યો સાથે જોડો:<br>1. મૂળટોપ <br>2. વર્ધનશીલ પ્રદેશ <br>3. વિસ્તરણ પ્રદેશ <br>4. પરિપક્વન પ્રદેશ <br><br>વિભાગ-B:<br>A. કોષોની લંબાઈમાં વધારો<br>B. મૂળના અગ્રભાગનું રક્ષણ<br>C. કોષવિભાજન પામતા કોષો<br>D. મૂળરોમની હાજરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોપ રક્ષણ કરે, વર્ધન વિભાજન કરે, વિસ્તરણ લંબાઈ વધારે, પરિપક્વન રોમ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ખોરાક સંગ્રહી મૂળને ઉદાહરણ સાથે જોડો:<br>1. ગાજર <br>2. શક્કરિયું <br>3. બીટ <br><br>વિભાગ-B:<br>A. સોટીમય મૂળ<br>B. અસ્થાનિક મૂળ<br>C. સોટીમય મૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાજર-બીટ સોટી (Straight), શક્કરિયું અસ્થાનિક (Sweet & Strange).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આધાર આપતા મૂળને ઉદાહરણ સાથે જોડો:<br>1. સ્તંભમૂળ <br>2. અવલંબન મૂળ <br><br>વિભાગ-B:<br>A. મકાઈ, શેરડી<br>B. વડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડનો સ્તંભ, શેરડીનું અવલંબન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મૂળના વિશિષ્ટ કાર્યોને ઉદાહરણ સાથે જોડો:<br>1. શ્વસનમૂળ <br>2. ખોરાક સંગ્રહ <br><br>વિભાગ-B:<br>A. રાઈઝોફોરા<br>B. શલગમ (ટર્નિપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ લેવા 'રાઈઝ' (ઊંચા) થવું પડે, શલગમ ખાવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભૂગર્ભીય પ્રકાંડને ઉદાહરણ સાથે જોડો:<br>1. બટાટા <br>2. આદુ <br>3. અળવી <br>4. જમીકંદ <br><br>વિભાગ-B:<br>A. વ્રજકંદ<br>B. ગ્રંથિલ<br>C. ગાંઠામૂળી<br>D. વ્રજકંદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-D, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાટા ગ્રંથિ, આદુ ગાંઠ (Rhizome), અળવી-જમીકંદ વ્રજ જેવા (Corm).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પ્રકાંડના રૂપાંતરણોને ઉદાહરણ સાથે જોડો:<br>1. પ્રકાંડસૂત્ર <br>2. પ્રકાંડકંટક <br><br>વિભાગ-B:<br>A. લીંબુ, બોગનવેલ<br>B. કાકડી, કોળું, તરબૂચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્રથી વેલો ચઢે, કાંટાથી રક્ષણ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પ્રકાશસંશ્લેષી પ્રકાંડને વનસ્પતિ સાથે જોડો:<br>1. ચપટું પ્રકાંડ <br>2. નળાકાર પ્રકાંડ <br><br>વિભાગ-B:<br>A. યુફોર્બિયા<br>B. ફાફડાથોર (Opuntia)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાફડા 'ચપટા' હોય, યુફોર્બિયા 'નળાકાર' (U-Tube).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાનસ્પતિક પ્રજનન માટેના રૂપાંતરણો જોડો:<br>1. ભૂસ્તારી (Runner) <br>2. અધોભૂસ્તારી (Sucker) <br>3. ભૂસ્તારિકા (Offset) <br>4. ઉપરી ભૂસ્તારી (Stolon) <br><br>વિભાગ-B:<br>A. ફુદીનો, ગુલાબવતારા<br>B. જલકુંભી (Eichhornia)<br>C. કેળા, અનાનસ, ગુલદાઉદી<br>D. ઘાસ, સ્ટ્રોબેરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-C, 3-B, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાસ દોડે (Runner), પાણીમાં ઓફસેટ, કેળા ચૂસે (Sucker), ગુલાબવતારા (Stolon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પર્ણના ભાગોને તેના વર્ણન સાથે જોડો:<br>1. પર્ણતલ <br>2. પર્ણદંડ <br>3. પર્ણપત્ર <br><br>વિભાગ-B:<br>A. પર્ણને પ્રકાશમાં રાખે છે<br>B. પ્રકાશસંશ્લેષણનો મુખ્ય ભાગ<br>C. પ્રકાંડ સાથેનું જોડાણ સ્થાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તલ (તળિયું) જોડે, દંડ પકડી રાખે, પત્ર (કાગળ) કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શિરાવિન્યાસને તેના જૂથ સાથે જોડો:<br>1. જાલાકાર શિરાવિન્યાસ <br>2. સમાંતર શિરાવિન્યાસ <br><br>વિભાગ-B:<br>A. એકદળી વનસ્પતિ<br>B. દ્વિદળી વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ = જાળ (D-Net), એક = સમાંતર (M-Parallel).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંયુક્ત પર્ણના પ્રકારોને ઉદાહરણ સાથે જોડો:<br>1. પિચ્છાકાર સંયુક્ત પર્ણ <br>2. પંજાકાર સંયુક્ત પર્ણ <br><br>વિભાગ-B:<br>A. શીમળો (Silk Cotton)<br>B. લીમડો (Neem)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીમડો લાંબો (Pinnate), શીમળો પંજો (Palmate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પર્ણવિન્યાસને ઉદાહરણ સાથે જોડો:<br>1. એકાંતરિત <br>2. સંમુખ <br>3. ભ્રમીરૂપ (ચક્રાકાર) <br><br>વિભાગ-B:<br>A. આંકડો, જામફળ<br>B. કરેણ, સપ્તપર્ણી<br>C. જાસૂદ, રાઈ, સૂર્યમુખી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાસૂદ એકલું, આંકડો સામે સામે, સપ્તપર્ણી ચકરાવે ચઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પર્ણના રૂપાંતરણોને કાર્યો સાથે જોડો:<br>1. પર્ણસૂત્ર <br>2. પર્ણકંટક <br>3. માંસલ પર્ણ <br><br>વિભાગ-B:<br>A. રક્ષણ માટે<br>B. આરોહણ માટે<br>C. ખોરાક સંગ્રહ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર ચઢાવે, કાંટો બચાવે, માંસ ખવડાવે (સંગ્રહ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રૂપાંતરિત પર્ણોને ઉદાહરણ સાથે જોડો:<br>1. પર્ણસૂત્ર <br>2. પર્ણકંટક <br>3. કીટભક્ષી પર્ણ <br><br>વિભાગ-B:<br>A. થોર (Cactus)<br>B. વટાણા<br>C. કળશપર્ણ, વિનસ મક્ષીપાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણાનો તાર (સૂત્ર), થોરનો કાંટો, કળશનો ખોરાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પુષ્પવિન્યાસના પ્રકારોને લાક્ષણિકતા સાથે જોડો:<br>1. અપરિમિત <br>2. પરિમિત <br><br>વિભાગ-B:<br>A. મુખ્ય અક્ષ પુષ્પમાં અગ્ર ભાગે પૂરો થાય<br>B. મુખ્ય અક્ષ સતત વૃદ્ધિ પામે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપરિમિત = અનંત (No end), પરિમિત = મર્યાદિત (End).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પુષ્પની સંમિતિને ઉદાહરણ સાથે જોડો:<br>1. નિયમિત (ત્રિજ્યાવર્તી) <br>2. અનિયમિત (પાર્શ્વસ્થ) <br>3. અસમમિત <br><br>વિભાગ-B:<br>A. વટાણા, વાલ, ગુલમહોર<br>B. રાઈ, ધતૂરો, મરચાં<br>C. કેન્ના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાઈ-ધતૂરો રાઉન્ડ (Actino), કઠોળ એકબાજુ (Zygo), કેન્ના કાંઈ નહીં (Asym).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પુષ્પાસન પર બીજાશયના સ્થાનને આધારે જોડો:<br>1. અધોજાયી (Hypogynous) <br>2. પરિજાયી (Perigynous) <br>3. ઉપરીજાયી (Epigynous) <br><br>વિભાગ-B:<br>A. ગુલાબ, પીચ, પ્લમ<br>B. જાસૂદ, રાઈ, રીંગણ<br>C. જામફળ, કાકડી, સૂર્યમુખી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધો (Superior) = રાઈ-જાસૂદ, પરિ (Half) = ગુલાબ, ઉપરી (Inferior) = કાકડી-જામફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કલિકાંતરવિન્યાસને તેના પ્રકાર સાથે જોડો:<br>1. ધારાસ્પર્શી <br>2. વ્યાવૃત <br>3. આચ્છાદિત <br>4. પતંગિયાકાર <br><br>વિભાગ-B:<br>A. જાસૂદ, ભીંડા, કપાસ<br>B. આંકડો (Calotropis)<br>C. વટાણા, વાલ<br>D. ગુલમહોર, કેસિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડાની ધાર, જાસૂદની વળ (Twisted), કેસિયા ઢંકાયેલું, વટાણા પતંગિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પુંકેસર ચક્રની ગોઠવણીને જોડો:<br>1. એકગુચ્છી <br>2. દ્વિગુચ્છી <br>3. બહુગુચ્છી <br><br>વિભાગ-B:<br>A. લીંબુ<br>B. જાસૂદ<br>C. વટાણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાસૂદ એકલું, વટાણા બે (9+1), લીંબુ ઘણા બધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સ્ત્રીકેસરની સ્થિતિને ઉદાહરણ સાથે જોડો:<br>1. મુક્ત સ્ત્રીકેસરી (Apocarpous) <br>2. યુક્ત સ્ત્રીકેસરી (Syncarpous) <br><br>વિભાગ-B:<br>A. રાઈ, ટામેટા<br>B. કમળ, ગુલાબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમળ-ગુલાબ છુટા (Free), રાઈ-ટામેટા ભેગા (Fused).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જરાયુવિન્યાસના પ્રકારોને ઉદાહરણ સાથે જોડો:<br>1. ધારાવર્તી <br>2. અક્ષવર્તી <br>3. ચર્મવર્તી <br>4. મુક્ત કેન્દ્રસ્થ <br>5. તલસ્થ <br><br>વિભાગ-B:<br>A. રાઈ, દારૂડી<br>B. વટાણા<br>C. સૂર્યમુખી, ગલગોટા<br>D. જાસૂદ, ટામેટા, લીંબુ<br>E. ડાયાન્થસ, પ્રિમરોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-E, 5-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વટાણાની ધાર, લીંબુની અક્ષ, રાઈની ચામડી, પ્રિમરોઝ મુક્ત, ગલગોટાનું તળિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ફળના ભાગોને જોડો:<br>1. બાહ્ય ફલાવરણ <br>2. મધ્ય ફલાવરણ <br>3. અંતઃ ફલાવરણ <br><br>વિભાગ-B:<br>A. પથ્થર જેવું સખત (નારિયેળમાં)<br>B. સૌથી બહારનું પાતળું સ્તર<br>C. માંસલ અને ખાવાલાયક (કેરીમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર છાલ, વચ્ચે માવો, અંદર ગોટલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બીજના પ્રકારોને ઉદાહરણ સાથે જોડો:<br>1. અભ્રૂણપોષી દ્વિદળી બીજ <br>2. ભ્રૂણપોષી દ્વિદળી બીજ <br>3. ભ્રૂણપોષી એકદળી બીજ <br>4. અભ્રૂણપોષી એકદળી બીજ <br><br>વિભાગ-B:<br>A. દિવેલા (Castor)<br>B. મકાઈ, ઘઉં<br>C. વટાણા, વાલ, ચણા<br>D. ઓર્કિડ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઠોળ અભ્રૂણ, દિવેલા અપવાદ (ભ્રૂણ), અનાજ ભ્રૂણ, ઓર્કિડ અપવાદ (અભ્રૂણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પુષ્પસૂત્રના સંકેતો જોડો:<br>1. Br <br>2. K <br>3. C <br>4. P <br><br>વિભાગ-B:<br>A. દલચક્ર<br>B. વજ્રચક્ર<br>C. નિપત્ર<br>D. પરિપુષ્પચક્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K = Kalix (Vajra), C = Corolla (Dal), P = Perianth.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પુષ્પસૂત્રના ચિન્હો જોડો:<br>1. G <br>2. <u>G</u> <br>3. G̅ <br>4. A <br><br>વિભાગ-B:<br>A. સ્ત્રીકેસરચક્ર<br>B. અધઃસ્થ બીજાશય<br>C. ઉચ્ચસ્થ બીજાશય<br>D. પુંકેસરચક્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-C, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે લીટી તો ઉપર (Superior), ઉપર લીટી તો નીચે (Inferior).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કુળ (Families) ને તેના ઉદાહરણ સાથે જોડો:<br>1. ફેબેસી <br>2. સોલેનેસી <br>3. લીલીએસી <br><br>વિભાગ-B:<br>A. બટાટા, ટામેટા, મરચાં<br>B. વટાણા, મગ, સોયાબીન<br>C. ડુંગળી, લસણ, એલોવેરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેબેસી = ફળી (Legumes), સોલેનેસી = શાકભાજી, લીલીએસી = લસણ-ડુંગળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પુંકેસરની લંબાઈમાં તફાવત ધરાવતી વનસ્પતિ જોડો:<br>1. સાલ્વિયા <br>2. રાઈ <br><br>વિભાગ-B:<br>A. બે ટૂંકા, ચાર લાંબા<br>B. તંતુઓની લંબાઈમાં વિવિધતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાલ્વિયા અને રાઈમાં લંબાઈ સરખી હોતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દ્વિદળી બીજના ભાગોને જોડો:<br>1. બીજકેન્દ્ર <br>2. બીજછિદ્ર <br>3. ભ્રૂણધરી <br><br>વિભાગ-B:<br>A. બીજાવરણ પરનું નાનું છિદ્ર<br>B. બીજાવરણ પરનો ડાઘ (Scar)<br>C. આદિમૂળ અને ભ્રૂણાગ્ર ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર એટલે ડાઘ, છિદ્ર એટલે હોલ, ધરી એટલે અક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "એકદળી બીજના વિશિષ્ટ ભાગો જોડો:<br>1. વરુથિકા <br>2. ભ્રૂણમૂળચોલ <br>3. ભ્રૂણાગ્રચોલ <br>4. એલ્યુરોન સ્તર <br><br>વિભાગ-B:<br>A. ભ્રૂણમૂળનું રક્ષણાત્મક આવરણ<br>B. ઢાલ આકારનું બીજપત્ર<br>C. પ્રોટીનયુક્ત સ્તર<br>D. ભ્રૂણાગ્રનું રક્ષણાત્મક આવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરુથિકા ઢાલ છે, મૂલ-ચોલ નીચે, અગ્ર-ચોલ ઉપર, એલ્યુરોન પ્રોટીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વનસ્પતિના આયુષ્ય અને પ્રકાંડના રૂપાંતરણ જોડો:<br>1. બહુવર્ષાયુ વનસ્પતિ <br>2. પ્રતિકૂળ પરિસ્થિતિમાં જીવંત રહેવું <br><br>વિભાગ-B:<br>A. ભૂગર્ભીય પ્રકાંડ (Perennation)<br>B. જમીકંદ, આદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતાઈને (ભૂગર્ભમાં) જીવવું એટલે રૂપાંતરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પર્ણના વિશિષ્ટ લક્ષણો જોડો:<br>1. ઉપપર્ણો (Stipules) <br>2. પર્ણતલ (Pulvinus) <br><br>વિભાગ-B:<br>A. શિમ્બી કુળમાં ફૂલેલો પર્ણતલ<br>B. પર્ણતલની પાર્શ્વ બાજુએ આવેલા નાના પર્ણ જેવી રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલ્વિનસ = ફૂલેલું પલ્લું (શિમ્બી કુળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "અષ્ઠિલ (Drupe) ફળના ઉદાહરણ જોડો:<br>1. કેરી <br>2. નારિયેળ <br><br>વિભાગ-B:<br>A. રેસામય મધ્ય ફલાવરણ<br>B. માંસલ મધ્ય ફલાવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરીનો રસ (માંસલ), નારિયેળના કાતરા (રેસા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વજ્રચક્રની સ્થિતિ જોડો:<br>1. યુક્તવજ્રપત્રી <br>2. મુક્તવજ્રપત્રી <br><br>વિભાગ-B:<br>A. વજ્રપત્રો છૂટા હોય<br>B. વજ્રપત્રો જોડાયેલા હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુક્ત એટલે જોડાયેલું (United), મુક્ત એટલે છૂટું (Free).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "દલચક્રના આકારો જોડો:<br>1. નળાકાર <br>2. ઘંટાકાર <br>3. ગળણી આકાર <br>4. ચક્રાકાર <br><br>વિભાગ-B:<br>A. ગળણી જેવું<br>B. ટ્યુબ જેવું<br>C. વ્હીલ જેવું<br>D. બેલ જેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ તેવા જ ગુણ અને આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ફેબેસી કુળના આર્થિક અગત્યના પ્લાન્ટ જોડો:<br>1. તેલ <br>2. રંગ <br>3. રેસા <br>4. ચારો (Fodder) <br><br>વિભાગ-B:<br>A. ગળી (Indigofera)<br>B. સણ (Sunhemp)<br>C. મગફળી, સોયાબીન<br>D. સેસબાનિયા, ટ્રાયફોલિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ માટે મગફળી, રંગ ગળી, રેસા સણ, ચારો સેસબાનિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સોલેનેસી કુળના છોડ અને તેના ઉપયોગ જોડો:<br>1. ઔષધ <br>2. મસાલા <br>3. ધૂમ્રક <br>4. સુશોભન <br><br>વિભાગ-B:<br>A. મરચાં<br>B. બેલાડોના, અશ્વગંધા<br>C. પેટુનિયા<br>D. તમાકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અશ્વ-બેલા દવા, મરચું તીખું, તમાકુ ધુમાડો, પેટુનિયા ફૂલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લીલીએસી કુળના છોડ જોડો:<br>1. સુશોભન <br>2. ઔષધ <br>3. શાકભાજી <br>4. કોલ્ચીસીન <br><br>વિભાગ-B:<br>A. એલોવેરા (કુવારપાઠું)<br>B. ટ્યુલિપ, ગ્લોરીઓઝા<br>C. કોલ્ચીકમ ઓટોમનેલ<br>D. એસ્પારેગસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્યુલિપ સુંદર, એલોવેરા દવા, એસ્પારેગસ શાક, કોલ્ચીકમ નામમાં જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પુંકેસર અને દલપત્રના જોડાણ જોડો:<br>1. દલલગ્ન (Epipetalous) <br>2. પરિપુષ્પલગ્ન (Epiphyllous) <br><br>વિભાગ-B:<br>A. લીલી (Liliaceae)<br>B. રીંગણ (Solanaceae)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દલ (Petal) + રીંગણ, પરિ (Perianth) + લીલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પુષ્પના ભાગોના ચક્ર જોડો:<br>1. વજ્રચક્ર <br>2. દલચક્ર <br>3. પુંકેસરચક્ર <br>4. સ્ત્રીકેસરચક્ર <br><br>વિભાગ-B:<br>A. દલપત્રો (Petals)<br>B. વજ્રપત્રો (Sepals)<br>C. સ્ત્રીકેસર (Carpels)<br>D. પુંકેસર (Stamens)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજ્ર-પત્ર, દલ-પત્ર, પું-કેસર, સ્ત્રી-કેસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વંધ્ય પુંકેસરને શું કહેવાય?<br>1. વંધ્ય પુંકેસર <br>2. પુંકેસરચક્ર વગરનું પુષ્પ <br><br>વિભાગ-B:<br>A. સ્ત્રીકેસરી પુષ્પ<br>B. પુંકેસરબદ્ધ (Staminode)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંધ્ય પુંકેસર = Staminode.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પતંગિયાકાર દલચક્રના ભાગો જોડો:<br>1. ધ્વજક (Standard) <br>2. પક્ષકો (Wings) <br>3. નૌતલ (Keel) <br><br>વિભાગ-B:<br>A. બે પાર્શ્વીય પાંખડીઓ<br>B. સૌથી મોટી પાછળની પાંખડી<br>C. બે સૌથી અંદરની જોડાયેલી પાંખડીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્વજ મોટો, પક્ષ બાજુમાં, નૌતલ નીચે અને અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "બીજની લાક્ષણિકતા જોડો:<br>1. દ્વિદળી <br>2. એકદળી <br><br>વિભાગ-B:<br>A. સમાંતર શિરાવિન્યાસ, તંતુમય મૂળ<br>B. જાલાકાર શિરાવિન્યાસ, સોટીમય મૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ = જાલાકાર, એક = સમાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કુળના લાક્ષણિક લક્ષણો જોડો:<br>1. ફેબેસી <br>2. સોલેનેસી <br>3. લીલીએસી <br><br>વિભાગ-B:<br>A. અક્ષવર્તી જરાયુવિન્યાસ, માંસલ ફળ<br>B. ધારાવર્તી જરાયુવિન્યાસ, કઠોળ ફળ<br>C. ત્રિઅવયવી પુષ્પ, પરિપુષ્પ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેબેસી = ધાર, સોલેનેસી = અક્ષ, લીલીએસી = 3 (ત્રિઅવયવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "પુષ્પની લિંગીય સ્થિતિ જોડો:<br>1. દ્વિલિંગી <br>2. એકલિંગી <br><br>વિભાગ-B:<br>A. કાં તો માત્ર પુંકેસર અથવા માત્ર સ્ત્રીકેસર ધરાવે<br>B. પુંકેસર અને સ્ત્રીકેસર બંને ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ = બે (Both), એક = એક (Single).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પર્ણ પત્રની છેદન સ્થિતિ જોડો:<br>1. સાદું પર્ણ <br>2. સંયુક્ત પર્ણ <br><br>વિભાગ-B:<br>A. છેદન મધ્યશિરા સુધી પહોંચે અને પર્ણિકાઓ બનાવે<br>B. છેદન મધ્યશિરા સુધી પહોંચતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું હોય તો સાદું, કટકા હોય તો સંયુક્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પ્રકાંડના કાર્યો જોડો:<br>1. શાખાઓ ફેલાવવી <br>2. પાણીનું વહન <br>3. ખોરાક સંગ્રહ <br><br>વિભાગ-B:<br>A. જલવાહક પેશી દ્વારા<br>B. ગાંઠ અને આંતરગાંઠ ધરાવતું અંગ<br>C. બટાટા અને આદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાંડ પાયો છે, જલવાહક પાઈપ છે, બટાટા સ્ટોર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "નિપત્ર (Bract) ની હાજરી જોડો:<br>1. નિપત્રી પુષ્પ <br>2. અનિપત્રી પુષ્પ <br><br>વિભાગ-B:<br>A. Ebracteate<br>B. Bracteate",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Br = Bracteate, Ebr = Ebracteate.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "પુંકેસરના જોડાણના પ્રકાર જોડો:<br>1. એડેલ્ફસ (Adelphous) <br>2. સિન્જેનેશિયસ (Syngenesious) <br><br>વિભાગ-B:<br>A. પરાગાશય જોડાયેલા, તંતુઓ મુક્ત<br>B. તંતુઓ જોડાયેલા, પરાગાશય મુક્ત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડેલ્ફસમાં તંતુ (Filament) જોડાયેલા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "બીજપત્રોની સંખ્યા જોડો:<br>1. મકાઈ <br>2. ચણા <br><br>વિભાગ-B:<br>A. બે બીજપત્રો<br>B. એક બીજપત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજ (એકદળી) = 1, કઠોળ (દ્વિદળી) = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "પરિપુષ્પચક્ર (Perianth) નું ઉદાહરણ જોડો:<br>1. વજ્ર અને દલ સમાન <br>2. ઉદાહરણ <br><br>વિભાગ-B:<br>A. લીલી (Lily)<br>B. પરિપુષ્પ (Perianth)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલીમાં વજ્ર-દલ ભેગા (P).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પુષ્પીય ચક્રોની ગોઠવણી જોડો:<br>1. ચતુરાવયવી (Tetramerous) <br>2. ત્રિઅવયવી (Trimerous) <br>3. પંચાવયવી (Pentamerous) <br><br>વિભાગ-B:<br>A. 3 ના ગુણકમાં અવયવો<br>B. 4 ના ગુણકમાં અવયવો<br>C. 5 ના ગુણકમાં અવયવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા મુજબ નામ (Tri=3, Tetra=4, Penta=5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સંમિતિય સંકેતો જોડો:<br>1. ⊕ <br>2. % <br><br>વિભાગ-B:<br>A. એકવ્યાસ સંમિત (Zygomorphic)<br>B. ત્રિજ્યાવર્તી સંમિત (Actinomorphic)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ⊕ ગોળ (ચારે બાજુ), % એક જ બાજુ (એકવ્યાસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "લિંગ સંકેતો જોડો:<br>1. ♀ <br>2. ♂ <br>3. ⚥ <br><br>વિભાગ-B:<br>A. નર પુષ્પ<br>B. માદા પુષ્પ<br>C. દ્વિલિંગી પુષ્પ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીર નરનું, વત્તા માદાનું, બંને ભેગા દ્વિલિંગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ફલાવરણના પ્રકારો જોડો:<br>1. શુષ્ક ફલાવરણ <br>2. માંસલ ફલાવરણ <br><br>વિભાગ-B:<br>A. કેરી, નારિયેળ<br>B. મગફળી, રાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાઈ-મગફળી સુકા, કેરી રસવાળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ભ્રૂણના ભાગો જોડો:<br>1. ભ્રૂણાગ્ર <br>2. આદિમૂળ <br><br>વિભાગ-B:<br>A. મૂળતંત્ર બનાવે<br>B. પ્રકાંડતંત્ર બનાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર (Top) = પ્રકાંડ, મૂળ (Root) = મૂળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "દલપત્રની ગોઠવણી (Aestivation) અને આકૃતિની લાક્ષણિકતા જોડો:<br>1. ધારાસ્પર્શી <br>2. વ્યાવૃત <br>3. આચ્છાદિત <br><br>વિભાગ-B:<br>A. એક છેડો દબાયેલો, એક છેડો બહાર<br>B. પાંખડીઓ સ્પર્શ કરે પણ ઢાંકે નહીં<br>C. પાંખડીઓ અનિયમિત રીતે એકબીજાને ઢાંકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પર્શ (Valvate), વળ (Twisted), ઢાંકવું (Imbricate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જરાયુવિન્યાસની વ્યાખ્યા જોડો:<br>1. જરાયુ <br>2. જરાયુવિન્યાસ <br><br>વિભાગ-B:<br>A. બીજાશયમાં અંડકોની ગોઠવણી<br>B. બીજાશયની અંદરની માંસલ ગાદી જેવી રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરાયુ ગાદી છે, વિન્યાસ ગોઠવણી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "પરાગાશયની લાક્ષણિકતા જોડો:<br>1. દ્વિખંડી પરાગાશય <br>2. પરાગકોટર <br><br>વિભાગ-B:<br>A. પરાગરજ ઉત્પન્ન કરતી જગ્યા<br>B. બે ખંડો ધરાવતું પરાગાશય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોટર એટલે રૂમ (જ્યાં પરાગરજ રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ફલિતાંડ અને તેના રૂપાંતરણ જોડો:<br>1. અંડક <br>2. બીજાશય <br><br>વિભાગ-B:<br>A. ફળ<br>B. બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંડક-બીજ, બીજાશય-ફળ (Ovule-Seed, Ovary-Fruit).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "અષ્ઠિલ ફળની લાક્ષણિકતા જોડો:<br>1. કેરી <br>2. નારિયેળ <br><br>વિભાગ-B:<br>A. મેસોકાર્પ માંસલ છે<br>B. મેસોકાર્પ તાંતણીય (Fibrous) છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરીનો ગર ખવાય, નારિયેળના રેસા નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "પુષ્પસૂત્રના કૌંસ (Bracket) નો અર્થ જોડો:<br>1. (5) <br>2. 5 <br><br>વિભાગ-B:<br>A. મુક્ત (Free)<br>B. યુક્ત (Fused)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસ એટલે કેદ (જોડાયેલું), કૌંસ વગર આઝાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ભ્રૂણપોષની હાજરી જોડો:<br>1. એન્ડોસ્પર્મિક <br>2. નોન-એન્ડોસ્પર્મિક <br><br>વિભાગ-B:<br>A. ભ્રૂણપોષનો ઉપયોગ થઈ ગયો હોય (વાલ)<br>B. ભ્રૂણપોષ હાજર હોય (મકાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ડો = અંદર ખોરાક છે, નોન = ખોરાક વપરાઈ ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પર્ણ પત્રના પ્રકાર જોડો:<br>1. લંબચોરસ <br>2. હૃદયાકાર <br><br>વિભાગ-B:<br>A. પીપળો<br>B. કેળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેળનું પાન લાંબુ, પીપળાનું પાન હૃદય જેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "પ્રકાંડના વિશિષ્ટ કાર્યો જોડો:<br>1. રક્ષણ <br>2. આરોહણ <br><br>વિભાગ-B:<br>A. કાંટા (Thorns)<br>B. સૂત્ર (Tendrils)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંટો વાગે તો રક્ષણ, સૂત્ર પકડે તો ઉપર ચઢાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "ફેબેસી કુળનું પુષ્પસૂત્ર જોડો:<br>1. સંમિતિ <br>2. પુંકેસર <br><br>વિભાગ-B:<br>A. A(9)+1<br>B. %",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેબેસી એટલે એકવ્યાસ (%), 9+1 ની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "સોલેનેસી કુળનું પુષ્પસૂત્ર જોડો:<br>1. સંમિતિ <br>2. વજ્રચક્ર <br><br>વિભાગ-B:<br>A. K(5)<br>B. ⊕",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોલેનેસી એટલે ગોળ (⊕), 5 પાંખડી જોડાયેલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "લીલીએસી કુળનું પુષ્પસૂત્ર જોડો:<br>1. પરિપુષ્પ <br>2. બીજાશય <br><br>વિભાગ-B:<br>A. G(3) ઉચ્ચસ્થ<br>B. P(3+3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલીએસીમાં બધું 3 ના ગુણકમાં (3+3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "મૂળના લક્ષણો જોડો:<br>1. ધન ભૂવર્તી <br>2. ઋણ પ્રકાશાવર્તી <br><br>વિભાગ-B:<br>A. પ્રકાશથી દૂર જવું<br>B. જમીન તરફ જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ જમીનનો પ્રેમી (+Geotropic) અને સૂર્યનો દુશ્મન (-Phototropic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "પ્રકાંડના લક્ષણો જોડો:<br>1. ગાંઠ <br>2. આંતરગાંઠ <br><br>વિભાગ-B:<br>A. બે ગાંઠ વચ્ચેનો પ્રદેશ<br>B. જ્યાંથી પર્ણ ઉદ્ભવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંઠમાંથી પાન નીકળે, વચ્ચેની જગ્યા એટલે આંતરગાંઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "બીજાવરણના સ્તરો જોડો:<br>1. બીજચોલ (Testa) <br>2. બીજદેહશેષ (Tegmen) <br><br>વિભાગ-B:<br>A. અંદરનું સ્તર<br>B. બહારનું સ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Testa is Tough (Outer), Tegmen is Thin (Inner).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "ખોરાક સંગ્રહી પર્ણ જોડો:<br>1. ડુંગળી <br>2. લસણ <br><br>વિભાગ-B:<br>A. માંસલ પર્ણતલ<br>B. માંસલ શલ્કપર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુંગળીના પડ એટલે માંસલ પર્ણો.</p></div>"
+    }
+  ]
+}

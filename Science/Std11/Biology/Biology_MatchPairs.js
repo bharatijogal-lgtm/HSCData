@@ -2544,3 +2544,366 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કોષ: જીવનનો એકમ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A | વિભાગ B\n(1) એન્ટોન વાન લ્યુવેનહોક | (A) કોષવાદમાં સુધારો (Omnis cellula-e cellula)\n(2) રોબર્ટ બ્રાઉન | (B) પ્રથમ જીવંત કોષનું નિરીક્ષણ\n(3) રુડોલ્ફ વિર્ચો | (C) કોષકેન્દ્રની શોધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લ્યુવેન-લાઈવ (L-L), બ્રાઉન-ન્યુક્લિયસ (B-N), વિર્ચો-વિભાજન (V-V).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A | વિભાગ B\n(1) મેથિયસ સ્લીડન | (A) બ્રિટિશ પ્રાણીશાસ્ત્રી\n(2) થિયોડોર શ્વાન | (B) જર્મન વનસ્પતિશાસ્ત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્લીડન-શાસ્ત્રી' (વનસ્પતિ), 'શ્વાન' એટલે કુતરું (પ્રાણીશાસ્ત્રી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A (કદ) | વિભાગ B (સજીવ/કોષ)\n(1) 0.3 µm લંબાઈ | (A) બેક્ટેરિયા\n(2) 3 થી 5 µm લંબાઈ | (B) માયકોપ્લાઝ્મા\n(3) 7.0 µm વ્યાસ | (C) રક્તકણ (RBC)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી નાનું માયકો (0.3), RBC નો 'સાત' (7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A (આકાર) | વિભાગ B (કોષનો પ્રકાર)\n(1) અમીબા જેવો આકાર | (A) રક્તકણ (RBC)\n(2) દ્વિઅંતર્ગોળ | (B) શ્વેતકણ (WBC)\n(3) લાંબા અને સાંકડા | (C) સ્તંભાકાર અધિચ્છદ કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WBC બદલે આકાર (અમીબા), RBC ગોળ-ચપટા (દ્વિઅંતર્ગોળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A | વિભાગ B\n(1) શાખિત કોષ | (A) મધ્યપર્ણ કોષો\n(2) ગોળાકાર અને અંડાકાર | (B) ચેતાકોષ\n(3) લાંબા અને નળાકાર | (C) જલવાહિનીકી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતા-શાખા, મધ્યપર્ણ-ગોળ, જલવાહિનીકી-નળી (લાંબી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A (આદિકોષકેન્દ્રી આવરણ) | વિભાગ B (વિશેષતા)\n(1) ગ્લાયકોકેલિક્સ | (A) કોષનો આકાર નક્કી કરે\n(2) કોષદીવાલ | (B) સૌથી બહારનું ચીકણું સ્તર\n(3) કોષરસપટલ | (C) પસંદગીમાન પ્રવેશશીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકો-ગુંદર (ચીકણું), દીવાલ-ઢાંચો (આકાર), પટલ-ગેટકીપર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A | વિભાગ B\n(1) શિથિલ આવરણ | (A) કેપ્સ્યુલ (કેપ્સુલ)\n(2) સખત અને મજબૂત આવરણ | (B) સ્લેષ્મ સ્તર (Slime layer)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્લેષ્મ-સોફ્ટ (S-S), કેપ્સ્યુલ-કઠણ (K-K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A (બેક્ટેરિયલ કશા) | વિભાગ B (ભાગ)\n(1) લાંબો તંતુમય ભાગ | (A) તંતુ (Filament)\n(2) કોષદીવાલ સાથે જોડાણ | (B) અંકુશ (Hook)\n(3) સૌથી નીચેનો ભાગ | (C) તલકાય (Basal body)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંતુ-લાંબો, અંકુશ-જોડાણ, તલ-તળિયે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A | વિભાગ B\n(1) પીલી (Pili) | (A) ખડકો કે યજમાન પેશી સાથે ચોંટવા\n(2) ફિમ્બ્રી (Fimbriae) | (B) નળાકાર પ્રોટીનમય રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિમ્બ્રી-ફિક્સ (ચોંટવું), પીલી-પાઈપ (નળાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A | વિભાગ B\n(1) મેસોઝોમ્સ | (A) શ્વસન અને સ્ત્રાવમાં મદદ\n(2) રંગકણધર (Chromatophores) | (B) સાયનોબેક્ટેરિયામાં રંજકદ્રવ્યો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેસો-માઈટોકોન્ડ્રિયા જેવું (શ્વસન), ક્રોમેટો-કલર (રંજકદ્રવ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A | વિભાગ B\n(1) પ્રોકેરિયોટિક રીબોઝોમ | (A) 80S\n(2) યુકેરિયોટિક રીબોઝોમ | (B) 70S",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદિ-ઓછું (70), સુકોષ-વધારે (80).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (70S પેટાએકમ) | વિભાગ B (માપ)\n(1) મોટો પેટાએકમ | (A) 30S\n(2) નાનો પેટાએકમ | (B) 50S",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50 + 30 = 70 (બાયોલોજીમાં સરવાળો અલગ હોય!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A (સંગ્રહિત કણો) | વિભાગ B (દ્રવ્ય)\n(1) ફોસ્ફેટ કણિકાઓ | (A) સ્ટાર્ચ સંગ્રહ\n(2) સાયનોફાયસીયન કણિકાઓ | (B) ફોસ્ફરસ સંગ્રહ\n(3) ગ્લાયકોજન કણિકાઓ | (C) કાર્બોદિત સંગ્રહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ તેવા ગુણ - ફોસ્ફેટ-ફોસ્ફરસ, ગ્લાયકોજન-કાર્બોદિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A | વિભાગ B\n(1) પોલિઝોમ | (A) કોષરસમાં મુક્ત કણો\n(2) સમાવેશી કાય | (B) mRNA પર ગોઠવાયેલા ઘણા રીબોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલિ એટલે 'ઘણા' રીબોઝોમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A | વિભાગ B\n(1) લિપિડનું મુખ્ય ઘટક | (A) ફોસ્ફોગ્લિસરાઈડ્સ\n(2) લિપિડની ગોઠવણી | (B) દ્વિસ્તરીય (Bilayer)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિપિડ-બે પડ (Bilayer).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A | વિભાગ B\n(1) અધ્રુવીય પૂંછડી | (A) જલનુરાગી (Hydrophilic)\n(2) ધ્રુવીય શીર્ષ | (B) જલવિતરાગી (Hydrophobic)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂંછડી પાણીથી ડરે (Hydrophobic-પૂંછડી અંદર રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (માનવ રક્તકણ પટલ) | વિભાગ B (ટકાવારી)\n(1) પ્રોટીન | (A) 40%\n(2) લિપિડ | (B) 52%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P (Protein) > L (Lipid) (52 > 40).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A | વિભાગ B\n(1) સિંગર અને નિકોલ્સન | (A) એકમ પટલવાદ\n(2) ફ્લુઇડ મોઝેઈક મોડેલ | (B) 1972",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-B) - [બંનેમાં વર્ષ/વૈજ્ઞાનિકનો સંબંધ છે]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગર-નિકોલ્સન-72 નું મોડેલ સુપરહિટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A (વહન) | વિભાગ B (ઉર્જા)\n(1) નિષ્ક્રિય વહન | (A) ATP ની જરૂર પડે\n(2) સક્રિય વહન | (B) ઉર્જાની જરૂર પડતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સક્રિય-શક્તિ (ATP), નિષ્ક્રિય-નવરું (No ATP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A | વિભાગ B\n(1) આશૃતિ (Osmosis) | (A) ઉચ્ચ સાંદ્રતાથી ઓછી તરફ પાણીનું વહન\n(2) સાનુકૂલિત પ્રસરણ | (B) વાહક પ્રોટીન દ્વારા વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી માટે આશૃતિ, પ્રોટીન માટે સાનુકૂલિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A (લીલની કોષદીવાલ) | વિભાગ B (ઘટકો)\n(1) સેલ્યુલોઝ, ગેલેક્ટન્સ | (A) કેલ્શિયમ કાર્બોનેટ\n(2) મેનાન્સ | (B) ખનીજો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-B) [બધા લીલના ઘટકો છે]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલ-ગેલેક્ટન્સ-મેનાન્સ-CaCO3 (યાદ રાખો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A | વિભાગ B\n(1) મધ્યપટલ (Middle lamella) | (A) પડોશી કોષોના કોષરસને જોડે\n(2) કોષરસતંતુ (Plasmodesmata) | (B) કેલ્શિયમ પેક્ટેટનું બનેલું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય-પેક્ટેટ, તંતુ-ટ્રાન્સફર (જોડાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A | વિભાગ B\n(1) RER (કણિકામય ER) | (A) લિપિડ સંશ્લેષણ\n(2) SER (લીસી ER) | (B) પ્રોટીન સંશ્લેષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R (Rough)-Ribosome-Protein, S (Smooth)-Steroid-Lipid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A | વિભાગ B\n(1) કેમિલો ગોલ્ગી | (A) 1898\n(2) સિસ્ટર્નીનો વ્યાસ | (B) 0.5 µm થી 1.0 µm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલ્ગી ભાઈ 98 માં આવ્યા, સિસ્ટર્ની 0.5-1.0 લાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A (ગોલ્ગી પ્રસાધન) | વિભાગ B (અભિમુખ)\n(1) સિસ (Cis) ફેસ | (A) પરિપક્વ બાજુ (Concave)\n(2) ટ્રાન્સ (Trans) ફેસ | (B) નિર્માણકારી બાજુ (Convex)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cis-Convex-Create (નિર્માણ), Trans-Tear/Mature (પરિપક્વ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A | વિભાગ B\n(1) લાયસોઝોમ | (A) ગ્લાયકોપ્રોટીન નિર્માણનું મુખ્ય સ્થાન\n(2) ગોલ્ગી પ્રસાધન | (B) હાઇડ્રોલેઝ ઉત્સેચકો (Acidic pH)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાયસો-લાઈઝ (પાચન), ગોલ્ગી-ગ્લાયકોસાઈલેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A (ઉત્સેચકો) | વિભાગ B (કાર્ય)\n(1) લિપેઝ | (A) કાર્બોદિતનું પાચન\n(2) પ્રોટીએઝ | (B) લિપિડનું પાચન\n(3) કાર્બોહાઇડ્રેઝ | (C) પ્રોટીનનું પાચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ મુજબ કામ (લિપિડ-લિપેઝ, પ્રોટીન-પ્રોટીએઝ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A | વિભાગ B\n(1) ટોનોપ્લાસ્ટ (Tonoplast) | (A) અમીબામાં ઉત્સર્જન\n(2) આંકુચક રસધાની | (B) રસધાનીનું પટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસધાનીનું પટલ = ટોનોપ્લાસ્ટ (Very Imp!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A (માઈટોકોન્ડ્રિયા) | વિભાગ B (વર્ણન)\n(1) બાહ્ય પટલ | (A) પ્રવર્ધો (Cristae) ધરાવે\n(2) અંતઃ પટલ | (B) સતત સીમા બનાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરની બાજુ ગડીઓ (ક્રિસ્ટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A | વિભાગ B\n(1) રંજકદ્રવ્ય કણ (Plastids) | (A) વનસ્પતિ કોષનું પાવર હાઉસ\n(2) કણાભસૂત્ર | (B) રંજકદ્રવ્યો ધરાવતી અંગિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્ર = પાવર, રંજકકણ = કલર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A (રંજકકણો) | વિભાગ B (સંગ્રહ)\n(1) એમાયલોપ્લાસ્ટ | (A) પ્રોટીન સંગ્રહ\n(2) ઈલાયોપ્લાસ્ટ | (B) સ્ટાર્ચ સંગ્રહ\n(3) એલ્યુરોપ્લાસ્ટ | (C) તેલ કે ચરબી સંગ્રહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમાયલો-બટાટા(સ્ટાર્ચ), ઈલાયો-ઓઈલ, એલ્યુરો-પ્રોટીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A (હરિતકણ) | વિભાગ B (સંખ્યા)\n(1) ક્લેમિડોમોનાસ | (A) 20 થી 40\n(2) મધ્યપર્ણ કોષો | (B) 1 (એક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લેમિડો-નાનું-1, પાંદડું-મોટું-20-40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A (હરિતકણની રચના) | વિભાગ B (ઓળખ)\n(1) થાઈલેકોઈડ | (A) થાઈલેકોઈડની થપ્પીઓ\n(2) ગ્રેના | (B) સિક્કા જેવી ચપટી કોથળીઓ\n(3) સ્ટ્રોમા લેમેલી | (C) ગ્રેનાને જોડતી નલિકાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કો-થાઈલેકોઈડ, થપ્પી-ગ્રેના, પુલ-લેમેલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A | વિભાગ B\n(1) જ્યોર્જ પેલેડ | (A) રીબોઝોમની શોધ (1953)\n(2) રીબોઝોમનું બંધારણ | (B) RNA અને પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલેડ-પેલેટ (નાના કણો/રીબોઝોમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A (80S પેટાએકમ) | વિભાગ B (માપ)\n(1) મોટો પેટાએકમ | (A) 40S\n(2) નાનો પેટાએકમ | (B) 60S",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 60 + 40 = 80 (સુકોષકેન્દ્રીમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A | વિભાગ B\n(1) પક્ષ્મ (Cilia) | (A) હલેસા જેવું કાર્ય\n(2) કશા (Flagella) | (B) લાંબી અને સંખ્યામાં ઓછી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષ્મ-નાના (હલેસા), કશા-મોટી (ચાબુક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A (અક્ષસૂત્ર) | વિભાગ B (રચના)\n(1) પક્ષ્મ/કશાનું અક્ષસૂત્ર | (A) 9 + 0 રચના\n(2) તારાકેન્દ્ર | (B) 9 + 2 રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષ્મમાં 2 વચ્ચે હોય, તારાકેન્દ્રમાં વચ્ચે શૂન્ય (પોલાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A | વિભાગ B\n(1) સેન્ટ્રોઝોમ | (A) પ્રોટીનમય હબ (Hub)\n(2) તારાકેન્દ્રનો મધ્ય ભાગ | (B) બે પરસ્પર લંબ તારાકેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટ્રોઝોમ એટલે 'બે' તારાકેન્દ્ર લંબ રૂપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A | વિભાગ B\n(1) કોષકેન્દ્રિકા | (A) ફ્લેમિંગ\n(2) ક્રોમેટિન શબ્દ | (B) પટલરહિત રચના (rRNA સંશ્લેષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લેમિંગ-કલર-ક્રોમેટિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A (રંગસૂત્રના પ્રકાર) | વિભાગ B (સેન્ટ્રોમીયરનું સ્થાન)\n(1) મેટાસેન્ટ્રિક | (A) મધ્યથી થોડું દૂર\n(2) સબ-મેટાસેન્ટ્રિક | (B) મધ્યમાં (બે સમાન ભુજાઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેટા-મિડલ (સમાન ભુજા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A (રંગસૂત્રના પ્રકાર) | વિભાગ B (સ્થાન)\n(1) એક્રોસેન્ટ્રિક | (A) છેડાના ભાગે (Terminal)\n(2) ટીલોસેન્ટ્રિક | (B) અંતિમ છેડાની નજીક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીલો-ટર્મિનલ (છેડે), એક્રો-એકદમ નજીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A | વિભાગ B\n(1) કાઇનેટોકોર | (A) સેન્ટ્રોમીયર પર આવેલી તકતી જેવી રચના\n(2) સેટેલાઇટ | (B) દ્વિતીય સંકોચન પછીનો નાનો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઇનેટો-કવર (સેન્ટ્રોમીયર પર), સેટેલાઇટ-સાઈડમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A | વિભાગ B\n(1) સૂક્ષ્મકાય (Microbodies) | (A) પ્રાણી અને વનસ્પતિ બંનેમાં\n(2) કોષકેન્દ્ર આવરણ | (B) બે સમાંતર પટલ (10-50 nm અવકાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈક્રો-બંનેમાં (P+V), આવરણ-બેવડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A | વિભાગ B\n(1) હરિતકણ DNA | (A) બેવડું, રેખીય\n(2) કણાભસૂત્ર DNA | (B) નાનું, ગોળાકાર, નગ્ન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-B) [બંનેમાં ગોળાકાર DNA હોય]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્ર અને હરિતકણ = બેક્ટેરિયા જેવા (ગોળાકાર DNA).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A | વિભાગ B\n(1) પ્લાઝમિડ | (A) એન્ટિબાયોટિક સામે પ્રતિકાર\n(2) ન્યુક્લિઓઇડ | (B) આદિકોષકેન્દ્રીનું જનીન દ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાઝમિડ-પાવર (પ્રતિકાર), ન્યુક્લિઓઇડ-નગ્ન DNA.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A | વિભાગ B\n(1) લાયસોઝોમની pH | (A) બેઝિક\n(2) કોષરસની pH | (B) એસિડિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A) [સાપેક્ષ રીતે]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ-પાચન-લાયસોઝોમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A (કોષદિવાલ) | વિભાગ B (કાર્ય)\n(1) પ્રાથમિક દીવાલ | (A) વૃદ્ધિ ક્ષમતા ગુમાવે\n(2) દ્વિતીયક દીવાલ | (B) વૃદ્ધિની ક્ષમતા ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાયમરી-વૃદ્ધિ, સેકન્ડરી-સ્થગિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A | વિભાગ B\n(1) સ્ટીરોઈડલ અંતઃસ્ત્રાવો | (A) RER માં સંશ્લેષણ\n(2) સ્ત્રાવી પ્રોટીન | (B) SER માં સંશ્લેષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીરોઈડ-લીસી (Smooth), પ્રોટીન-ખરબચડી (Rough).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A | વિભાગ B\n(1) અંતઃપટલમય તંત્ર | (A) કણાભસૂત્ર, હરિતકણ\n(2) તંત્રનો ભાગ નથી | (B) ER, ગોલ્ગી, લાયસોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GELV (Golgi, ER, Lysosome, Vacuole) = તંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A (પ્લાસ્ટિડ) | વિભાગ B (રંગ)\n(1) હરિતકણ | (A) કેરોટિનોઈડ (લાલ-પીળો)\n(2) રંગકણ (Chromoplast) | (B) ક્લોરોફિલ (લીલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિત-લીલું, ક્રોમો-રંગીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A | વિભાગ B\n(1) 9 પરિઘીય નલિકા (ત્રિપુટી) | (A) પક્ષ્મ\n(2) 9 પરિઘીય નલિકા (જોડકી) | (B) તારાકેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારાકેન્દ્રમાં 'ત્રણ' (Triple), પક્ષ્મમાં 'બે' (Doublet).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A | વિભાગ B\n(1) લિપિડ પટલની બહાર | (A) ધ્રુવીય છેડો\n(2) લિપિડ પટલની અંદર | (B) અધ્રુવીય પૂંછડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂંછડી પાણીથી ડરે એટલે અંદર છુપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A | વિભાગ B\n(1) અર્ધસ્વાયત્ત અંગિકા | (A) રીબોઝોમ\n(2) પટલરહિત અંગિકા | (B) કણાભસૂત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાની રસોઈ (DNA) બનાવે તે અર્ધસ્વાયત્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A | વિભાગ B\n(1) કોષવાદ | (A) શ્લીડન અને શ્વાન\n(2) કોષવાદનો અંતિમ ઓપ | (B) રુડોલ્ફ વિર્ચો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત શ્લીડન-શ્વાન, ફિનિશિંગ વિર્ચો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A | વિભાગ B\n(1) પ્રોટીન સંશ્લેષણ | (A) હરિતકણ\n(2) પ્રકાશસંશ્લેષણ | (B) રીબોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીબોઝોમ-પ્રોટીન ફેક્ટરી, હરિતકણ-રસોડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A (જોડાણ) | વિભાગ B (રચના)\n(1) ત્રિપુટીઓનું જોડાણ | (A) ત્રિજ્યાવર્તી તંતુકો (Radial spokes)\n(2) કેન્દ્ર અને પરિઘનું જોડાણ | (B) આંતર-ત્રિપુટી જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રથી પરિઘ તરફ જાય તે 'ત્રિજ્યા' (Radial).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A | વિભાગ B\n(1) અંતઃકોષરસ જાળ | (A) કોષનો શક્તિગ્રાહ્ય પંપ\n(2) કોષરસ કંકાલ | (B) કોષીય આધાર અને હલનચલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B) [કોષરસ કંકાલ માટે], (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંકાલ-આધાર (Skeleton-Support).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A | વિભાગ B\n(1) પ્રોકેરિયોટિક કોષ | (A) કોષકેન્દ્ર પટલ હાજર\n(2) યુકેરિયોટિક કોષ | (B) કોષકેન્દ્ર પટલ ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રો-પહેલાના (પટલ વગરના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A | વિભાગ B\n(1) કોષકેન્દ્ર છિદ્ર | (A) RNA અને પ્રોટીનનું બંને દિશામાં વહન\n(2) પેરીન્યુક્લિયર અવકાશ | (B) બે પટલો વચ્ચેની જગ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છિદ્ર-રસ્તો (વહન), અવકાશ-ખાલી જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A (રંગસૂત્ર સંખ્યા) | વિભાગ B (સજીવ)\n(1) ડુંગળીના કોષો | (A) 23 જોડ\n(2) મનુષ્યના કોષો | (B) 16 રંગસૂત્રો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુંગળી-16, મનુષ્ય-46 (23 જોડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A | વિભાગ B\n(1) હીસ્ટોન પ્રોટીન | (A) કોષકેન્દ્રમાં રંગસૂત્ર દ્રવ્ય\n(2) બીન-હીસ્ટોન પ્રોટીન | (B) ધન ભારિત પ્રોટીન (DNA પેકેજિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A) [બંને હાજર હોય]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીસ્ટોન-હેલ્પ-DNA (ધન ભાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A | વિભાગ B\n(1) અંતઃપટલમય સંકુલ | (A) રસોઈ અને શક્તિ\n(2) કણાભસૂત્ર અને હરિતકણ | (B) સંકલિત કાર્યો (GELV)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીમમાં કામ કરે તે અંતઃપટલમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A | વિભાગ B\n(1) બેક્ટેરિયાનું કદ | (A) 0.02 - 0.2 µm\n(2) વાયરસનું કદ | (B) 3 - 5 µm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયરસ-સૌથી ઝીણા (0.02).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A | વિભાગ B\n(1) હાઈડ્રોલાઈટિક ઉત્સેચકો | (A) સ્ટાર્ચ કણ\n(2) સંગ્રહિત ખોરાક | (B) પાચન ઉત્સેચકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રો-પાણી-પાચન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A (રંગસૂત્ર ભુજા) | વિભાગ B (નામ)\n(1) ટૂંકી ભુજા | (A) q-ભુજા\n(2) લાંબી ભુજા | (B) p-ભુજા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p - 'petit' (નાનું), q - 'queue' (લાંબુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A | વિભાગ B\n(1) દ્વિપટલીય અંગિકા | (A) રીબોઝોમ\n(2) એકપટલીય અંગિકા | (B) હરિતકણ\n(3) પટલરહિત અંગિકા | (C) લાયસોઝોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ-MCH (Mito, Chloro, Nucleus), રહિ-RC (Ribo, Centriole).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A | વિભાગ B\n(1) મધ્યપર્ણ કોષો | (A) ઓક્સિજનનું વહન\n(2) રક્તકણો | (B) પ્રકાશસંશ્લેષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાન-પ્રકાશ, લોહી-O2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A | વિભાગ B\n(1) ટ્રાન્સપોર્ટ (વહન) | (A) કોષરસપટલ\n(2) આધાર (Support) | (B) કોષદીવાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટલ-વહન, દીવાલ-મજબૂતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A | વિભાગ B\n(1) ગ્લાયકોલિપિડ | (A) લિપિડ + પ્રોટીન\n(2) ગ્લાયકોપ્રોટીન | (B) લિપિડ + શર્કરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A) [સામાન્ય રીતે શર્કરા + પ્રોટીન]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકો એટલે ગ્લુકોઝ (શર્કરા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A | વિભાગ B\n(1) જીવંત કોષના દર્શન | (A) રોબર્ટ હૂક (મૃત કોષ)\n(2) કોષ શબ્દ આપ્યો | (B) એન્ટોન વાન લ્યુવેનહોક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૂક-બૂચ(મૃત), લ્યુવેન-લાઈવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A | વિભાગ B\n(1) અંતઃકોષરસ જાળ | (A) પેકેજિંગ મટીરીયલ\n(2) ગોલ્ગી પ્રસાધન | (B) આંતરકોષીય પરિવહન માર્ગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ER-રસ્તો, ગોલ્ગી-પેકિંગ.</p></div>"
+    }
+  ]
+}

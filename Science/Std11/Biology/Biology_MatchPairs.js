@@ -2907,3 +2907,366 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "જૈવ અણુઓ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (i) કાર્બનિક સંયોજનો (ii) અકાર્બનિક સંયોજનો | વિભાગ B: (a) રાખ (Ash) માં જોવા મળે (b) જીવંત પેશીના એસિડ દ્રાવ્ય ભાગમાં મળે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાખ (Ash) હંમેશા અકાર્બનિક (Inorganic) હોય કારણ કે કાર્બન બળી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (i) હાઈડ્રોજન (ii) ઓક્સિજન | વિભાગ B: (a) પૃથ્વીના પોપડામાં વધુ (b) માનવ શરીરમાં વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (b) [નોંધ: પૃથ્વીના પોપડાની સાપેક્ષે બંને માનવ શરીરમાં વધુ છે]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવ શરીરમાં 'H' અને 'O' ની ટકાવારી પૃથ્વીના પોપડા કરતા ઘણી વધારે હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (i) એસિડ દ્રાવ્ય ભાગ (ii) એસિડ અદ્રાવ્ય ભાગ | વિભાગ B: (a) ગાળણ (Filtrate) (b) અવશેષ (Retentate)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રાવ્ય હોય તે ગળાઈ જાય (Filtrate), અદ્રાવ્ય હોય તે ઉપર રહી જાય (Retentate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (i) એમિનો એસિડ (ii) લિપિડ્સ | વિભાગ B: (a) એસિડ દ્રાવ્ય પુલ (b) એસિડ અદ્રાવ્ય પુલ (પરંતુ અણુભાર ઓછો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિપિડ્સ અપવાદ છે, અણુભાર ઓછો છતાં અદ્રાવ્યમાં મળે કારણ કે તે કુટિકાઓ (Vesicles) બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (i) ગ્લાયસીન (ii) એલેનીન | વિભાગ B: (a) R જૂથ તરીકે -H (b) R જૂથ તરીકે -CH3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G-H (Glycine-Hydrogen), A-M (Alanine-Methyl).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (i) સેરીન (ii) ગ્લુટામિક એસિડ | વિભાગ B: (a) હાઈડ્રોક્સિલ મિથાઈલ (-CH2OH) (b) એસિડિક એમિનો એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેરીન માં 'OH' છે, ગ્લુટામિક માં 'Acid' નામમાં જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (i) લાયસીન (ii) વેલાઇન | વિભાગ B: (a) બેઝિક એમિનો એસિડ (b) તટસ્થ એમિનો એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' for Lysine is Laxmi (Basic), Valine is Very Neutral.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (i) એરોમેટિક એમિનો એસિડ (ii) ઝ્વિટર આયન | વિભાગ B: (a) ટાયરોસીન, ટ્રિપ્ટોફેન (b) એમિનો અને કાર્બોક્સિલ બંને જૂથનું આયનીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરોમેટિક એટલે 'સુગંધિત' -> PTT (Phenylalanine, Tyrosine, Tryptophan).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (i) પામિટિક એસિડ (ii) એરેકીડોનિક એસિડ | વિભાગ B: (a) 16 કાર્બન (b) 20 કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' for Palmitic = 16, 'A' for Arachidonic = 20 (કાર્બોક્સિલ કાર્બન સહિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (i) ગ્લિસરોલ (ii) લેસીથિન | વિભાગ B: (a) ટ્રાયહાઈડ્રોક્સી પ્રોપેન (b) ફોસ્ફોલિપિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લિસરોલ = 3 OH (ટ્રાયહાઈડ્રોક્સી), લેસીથિન = કોષરસસ્તરનું ફોસ્ફોલિપિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (i) એડેનીન, ગ્વાનીન (ii) સાયટોસીન, યુરેસીલ | વિભાગ B: (a) પ્યુરીન (b) પિરિમીડીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AG is Pure (Adenine-Guanine: Purine), CUT the Pie (Cytosine, Uracil, Thymine: Pyrimidine).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (i) એડેનોસાઇન (ii) એડેનાયલિક એસિડ | વિભાગ B: (a) ન્યુક્લિઓસાઇડ (b) ન્યુક્લિઓટાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામની પાછળ 'Acid' લાગે તો તે ન્યુક્લિઓટાઇડ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (i) આલ્કલોઇડ્સ (ii) ટેરપેનોઇડ્સ | વિભાગ B: (a) મોર્ફિન, કોડીન (b) મોનોટેરપીન્સ, ડાયટેરપીન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'M' for Morphine = 'A' for Alkaloid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (i) ઝેરી દ્રવ્યો (ii) લેક્ટિન્સ | વિભાગ B: (a) એબ્રિન, રિસીન (b) કોનકેનાવેલીન-A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એબ્રિન (Abrin) ખાઈએ તો 'ઝેર' ચડે, લેક્ટિન માટે 'Con-A' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (i) ડ્રગ્સ (ii) પોલિમર પદાર્થો | વિભાગ B: (a) વિનબ્લાસ્ટિન, કર્ક્યુમિન (b) રબર, ગુંદર, સેલ્યુલોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હળદર (Curcumin) એ દવા (Drug) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (i) કોલેજન (ii) ટ્રિપ્સીન | વિભાગ B: (a) આંતરકોષીય આધારક પદાર્થ (b) ઉત્સેચક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C' for Collagen = 'C' for Cement (આધારક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (i) ઇન્સ્યુલિન (ii) એન્ટીબોડી | વિભાગ B: (a) અંતઃસ્ત્રાવ (b) ચેપ સામે રક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સ્યુલિન સુગર કંટ્રોલ કરે (Hormone), એન્ટીબોડી લડાઈ કરે (Defense).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (i) ગ્રાહકો (Receptors) (ii) GLUT-4 | વિભાગ B: (a) સંવેદના ગ્રાહક (ગંધ, સ્વાદ) (b) ગ્લુકોઝનું કોષમાં વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GLUT-4 = GLUcose Transport.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (i) પ્રાણીસૃષ્ટિમાં સૌથી વધુ પ્રોટીન (ii) સમગ્ર જીવાવરણમાં સૌથી વધુ પ્રોટીન | વિભાગ B: (a) કોલેજન (b) RuBisCO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C' (Collagen) for Creatures (Animals), 'R' (RuBisCO) for Real-world (Biosphere).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (i) ઇન્યુલિન (ii) ગ્લાયકોજન | વિભાગ B: (a) ફ્રુક્ટોઝનો પોલિમર (b) પ્રાણીઓમાં સંગ્રહિત ખોરાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' for Inulin = 'F' for Fructose.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (i) સ્ટાર્ચ (ii) સેલ્યુલોઝ | વિભાગ B: (a) આયોડિન સાથે વાદળી રંગ આપે (b) વનસ્પતિ કોષદીવાલનો ઘટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટાર્ચ પાસે કુંતલો (Helices) હોય એટલે તે Iodine ને પકડી શકે (વાદળી રંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (i) કાઈટિન (ii) વિષમ પોલિમર (Heteropolymer) | વિભાગ B: (a) સંધિપાદીનું બાહ્ય કંકાલ (b) પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન ક્યારેય હોમોપોલિમર હોતા નથી, હંમેશા Heteropolymer હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (i) પ્રાથમિક રચના (ii) તૃતીયક રચના | વિભાગ B: (a) એમિનો એસિડનો ક્રમ (રેખીય) (b) પ્રોટીનનું 3D સ્વરૂપ (ગોળાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Primary = Line (Sequence), Tertiary = 3D (Functionality).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (i) પેપ્ટાઈડ બંધ (ii) ગ્લાયકોસિડિક બંધ | વિભાગ B: (a) એમિનો એસિડ વચ્ચે (b) શર્કરાના અણુઓ વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Protein = P for Peptide.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (i) ફોસ્ફોડાયએસ્ટર બંધ (ii) હાઈડ્રોજન બંધ | વિભાગ B: (a) ન્યુક્લિઓટાઇડ્સ વચ્ચે (3'-5') (b) નાઇટ્રોજન બેઝ વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H' for Hydrogen = 'H' for Holding Bases (A=T, G≡C).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (i) B-DNA નું એક કુંતલ (ii) બે પાસપાસેના બેઝ જોડ વચ્ચેનું અંતર | વિભાગ B: (a) 34 Å (3.4 nm) (b) 3.4 Å (0.34 nm)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક કુંતલમાં 10 બેઝ પેર હોય, એટલે 34 ને 10 થી ભાગો તો 3.4 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (i) એનાબોલિક પથ (ii) કેટાબોલિક પથ | વિભાગ B: (a) શક્તિનો વપરાશ (ઉર્જાલક્ષી) (b) શક્તિ મુક્ત થાય (ઉર્જા ત્યાગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' for Add (બનાવવું) = શક્તિ જોઈએ, 'C' for Cut (તોડવું) = શક્તિ છૂટી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (i) એન્ઝાઇમ (ઉત્સેચક) (ii) રિબોઝાઇમ | વિભાગ B: (a) પ્રોટીન પ્રકૃતિ (b) ન્યુક્લિક એસિડ પ્રકૃતિ (RNA)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Ribozyme' ના નામમાં જ 'Ribo' (RNA) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (i) ઓક્સિડોરિડક્ટેઝ (ii) ટ્રાન્સફરેઝ | વિભાગ B: (a) ઓક્સિડેશન-રિડક્શન પ્રક્રિયા (b) સમૂહની ફેરબદલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ કામ દર્શાવે છે. Transferase = Transfer of Group.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (i) હાઈડ્રોલેઝ (ii) લાયેઝ | વિભાગ B: (a) પાણીના ઉમેરા દ્વારા બંધ તોડવા (b) પાણી વગર સમૂહ દૂર કરી દ્વિબંધ બનાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hydro = Water (પાણીથી તોડવું), Lyase = Leaving group (દ્વિબંધ બનાવવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (i) આઈસોમરેઝ (ii) લિગેઝ | વિભાગ B: (a) સમઘટકોનું આંતરરૂપાંતરણ (b) બે સંયોજનોને જોડવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ligase = Gum (ગુંદર જેવું કામ, જોડવાનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (i) પ્રોસ્થેટિક જૂથ (ii) કો-એન્ઝાઇમ | વિભાગ B: (a) એપોએન્ઝાઇમ સાથે મજબૂત રીતે જોડાયેલ (b) ક્ષણિક જોડાણ (દા.ત. NAD, NADP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Prosthetic = Permanent (મજબૂત), Co-enzyme = Cosmetic (ક્ષણિક/ઉપરછલ્લું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (i) હીમ (Heme) (ii) ઝિંક (Zn) | વિભાગ B: (a) પેરોક્સિડેઝ અને કેટાલેઝ (b) કાર્બોક્સિપેપ્ટિડેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Zn' for 'C' (Zinc for Carboxypeptidase).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (i) સ્પર્ધાત્મક અવરોધક (ii) સક્રિય સ્થાન | વિભાગ B: (a) મેલોનેટ (b) ઉત્સેચકની ખાંચ જ્યાં સબસ્ટ્રેટ જોડાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેલોનેટ એ સક્સિનેટનો 'સ્પર્ધક' (Competitor) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (i) એપોએન્ઝાઇમ (ii) હોલોએન્ઝાઇમ | વિભાગ B: (a) ઉત્સેચકનો પ્રોટીન ભાગ (b) પ્રોટીન ભાગ + સહકારક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Holo = Whole (આખો ઉત્સેચક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (i) ન્યુક્લિઓટાઇડ (ii) ન્યુક્લિઓસાઇડ | વિભાગ B: (a) બેઝ + શર્કરા + ફોસ્ફેટ (b) બેઝ + શર્કરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Nucleo-T-ide has 'T' for Three (Base+Sugar+Phosphate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (i) કાર્બોહાઈડ્રેટ્સ (ii) ન્યુક્લિક એસિડ | વિભાગ B: (a) કોષનું 3% વજન (b) કોષનું 5-7% વજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોહાઈડ્રેટ 3% અને ન્યુક્લિક એસિડ 5-7% (C3N57).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (i) પાણી (ii) પ્રોટીન | વિભાગ B: (a) કોષનું 70-90% વજન (b) કોષનું 10-15% વજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષમાં સૌથી વધુ પાણી અને પછી પ્રોટીન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (i) માલ્ટોઝ (ii) લેક્ટોઝ | વિભાગ B: (a) ગ્લુકોઝ + ગ્લુકોઝ (b) ગ્લુકોઝ + ગેલેક્ટોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lactose has Galactose (નામમાં સામ્યતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (i) સુક્રોઝ (ii) ફ્રુક્ટોઝ | વિભાગ B: (a) ગ્લુકોઝ + ફ્રુક્ટોઝ (b) સૌથી મીઠી કુદરતી શર્કરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fruit sugar is Fructose, Cane sugar is Sucrose.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (i) સંતૃપ્ત ફેટી એસિડ (ii) અસંતૃપ્ત ફેટી એસિડ | વિભાગ B: (a) દ્વિબંધ હોતા નથી (b) એક કે તેથી વધુ દ્વિબંધ ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Saturated = Single bond only (બધે જ સંતોષ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (i) સજીવમાં અકાર્બનિક ક્ષાર (ii) સજીવમાં સૌથી વધુ પ્રમાણ ધરાવતું તત્વ (વજનથી) | વિભાગ B: (a) કેલ્શિયમ, મેગ્નેશિયમ, સોડિયમ (b) ઓક્સિજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવ શરીરમાં 65% ઓક્સિજન હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (i) આવશ્યક એમિનો એસિડ (ii) બિન-આવશ્યક એમિનો એસિડ | વિભાગ B: (a) આહાર દ્વારા લેવા જ પડે (b) શરીર જાતે બનાવી શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બહારથી લાવવું પડે તે જ 'આવશ્યક' (Essential).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (i) રંજકદ્રવ્યો (ii) સુગંધિત તેલ | વિભાગ B: (a) કેરોટીનોઈડ્સ, એન્થોસાયનિન (b) લેમન ગ્રાસ ઓઈલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંજકદ્રવ્યો એટલે રંગ આપનારા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (i) ડાયપેપ્ટાઈડ (ii) ટ્રાયગ્લિસરાઈડ | વિભાગ B: (a) બે એમિનો એસિડ (b) ગ્લિસરોલ + 3 ફેટી એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Di = 2, Tri = 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (i) ન્યુક્લિઓટાઇડનો અણુભાર (ii) પ્રોટીનનો અણુભાર | વિભાગ B: (a) 800 ડાલ્ટનથી ઓછો (b) 10,000 ડાલ્ટનથી વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મહાઅણુ (Macromolecule) છે તેનો અણુભાર હંમેશા 10,000+ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (i) જમણો છેડો (પોલીસેકેરાઈડ) (ii) ડાબો છેડો (પોલીસેકેરાઈડ) | વિભાગ B: (a) રિડ્યુસિંગ છેડો (b) નોન-રિડ્યુસિંગ છેડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Right is Reducing (RR).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (i) દ્વિતીયક રચના (ii) ચતુર્થક રચના | વિભાગ B: (a) આલ્ફા હેલિક્સ (b) એક કરતા વધુ પોલીપેપ્ટાઈડ પેટાએકમો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિતીયક (Secondary) માં હેલિક્સ (ગૂંચળું) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (i) હિમોગ્લોબિન (ii) પુખ્ત માનવ હિમોગ્લોબિન પેટાએકમો | વિભાગ B: (a) ચતુર્થક રચના (b) 2-આલ્ફા અને 2-બીટા સાંકળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hb માં 4 સાંકળ હોય (2 Alpha + 2 Beta).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (i) ઉત્સેચક પ્રક્રિયાનો દર બમણો (ii) ઉત્સેચક પ્રક્રિયાનો દર અડધો | વિભાગ B: (a) દર 10°C તાપમાન વધારતા (b) દર 10°C તાપમાન ઘટાડતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ડિગ્રી નો ફેરફાર = દર ડબલ અથવા અડધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (i) પ્રક્રિયક (Substrate) (ii) નીપજ (Product) | વિભાગ B: (a) ઉત્સેચક દ્વારા બદલાતું રસાયણ (b) પ્રક્રિયાના અંતે બનતું દ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S (Start with Substrate) -> P (Produce Product).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (i) એક્ટિવેશન એનર્જી (સક્રિયકરણ ઉર્જા) (ii) સંક્રાંતિ અવસ્થા (Transition State) | વિભાગ B: (a) અવરોધ પાર કરવા જરૂરી વધારાની ઉર્જા (b) પ્રક્રિયક અને નીપજ વચ્ચેની અસ્થિર અવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્સેચક સક્રિયકરણ ઉર્જા 'ઘટાડીને' પ્રક્રિયા ઝડપી બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (i) બાહ્ય ઉષ્મીય (Exothermic) (ii) અંતઃ ઉષ્મીય (Endothermic) | વિભાગ B: (a) નીપજની ઉર્જા પ્રક્રિયક કરતા ઓછી (b) નીપજની ઉર્જા પ્રક્રિયક કરતા વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Exo = Exit (ઉર્જા બહાર નીકળી), Endo = Enter (ઉર્જા અંદર આવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (i) Km (માઈકેલીસ અચળાંક) (ii) Vmax | વિભાગ B: (a) અડધી મહત્તમ ગતિએ પ્રક્રિયકની સાંદ્રતા (b) ઉત્સેચક પ્રક્રિયાની મહત્તમ ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Km ઓછો એટલે ઉત્સેચકની પ્રક્રિયક પ્રત્યે આકર્ષણ વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (i) ઊંચું તાપમાન (ii) નીચું તાપમાન | વિભાગ B: (a) ઉત્સેચકનું વિનૈસર્ગીકરણ (Denaturation) (b) ઉત્સેચકની અસ્થાયી નિષ્ક્રિયતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી પ્રોટીન (ઉત્સેચક) ને તોડી નાખે, ઠંડી તેને ઊંઘાડી દે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (i) NAD / NADP (ii) વિટામિન્સ | વિભાગ B: (a) નિયાસિન (Niacin) ધરાવે (b) સહ-ઉત્સેચકોના મુખ્ય ઘટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NAD માં 'N' એટલે Niacin (Vitamin B3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (i) જીવંત અવસ્થા (ii) ચયાપચય | વિભાગ B: (a) અસંતુલિત સ્થાયી અવસ્થા (b) શરીરમાં થતી બધી જ રાસાયણિક પ્રક્રિયાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવંત રહેવા માટે 'અસંતુલન' (Non-equilibrium) જરૂરી છે, સંતુલન એટલે મૃત્યુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (i) ગ્લુકોઝ -> લેક્ટિક એસિડ (ii) એમિનો એસિડ -> પ્રોટીન | વિભાગ B: (a) કેટાબોલિક પથ (બહાર કાઢવી) (b) એનાબોલિક પથ (સંશ્લેષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું તોડી નાનું બનાવવું = કેટાબોલિક, નાનું જોડી મોટું બનાવવું = એનાબોલિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (i) મોનોસેકેરાઈડ (ii) પોલીસેકેરાઈડ | વિભાગ B: (a) ગ્લુકોઝ, રીબોઝ (b) સ્ટાર્ચ, સેલ્યુલોઝ, ગ્લાયકોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોનો = સિંગલ યુનિટ, પોલી = ઘણી બધી શર્કરાની સાંકળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (i) તેલ (Oil) (ii) ચરબી (Fat) | વિભાગ B: (a) નીચું ગલનબિંદુ (શિયાળામાં થીજતું નથી) (b) ઊંચું ગલનબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તલનું તેલ (Gingelly oil) શિયાળામાં પણ પ્રવાહી જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (i) DNA (ii) RNA | વિભાગ B: (a) થાયમીન (T) હાજર (b) યુરેસીલ (U) હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA = T, RNA = U.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (i) પ્રાથમિક ચયાપચયિતો (ii) દ્વિતીયક ચયાપચયિતો | વિભાગ B: (a) શર્કરા, એમિનો એસિડ (જરૂરી કાર્યો માટે) (b) રબર, ઔષધ, મસાલા (આર્થિક મહત્વ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સીધા વૃદ્ધિમાં વપરાય તે પ્રાથમિક, જે રક્ષણ કે અન્ય કામમાં વપરાય તે દ્વિતીયક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (i) નાઈટ્રોજન બેઝ અને શર્કરા વચ્ચેનો બંધ (ii) પ્રોટીનની હેલિક્સ રચનામાં બંધ | વિભાગ B: (a) N-ગ્લાયકોસિડિક બંધ (b) હાઈડ્રોજન બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઝ + શર્કરા = 'N' (નાઈટ્રોજન) થી જોડાયેલ બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (i) ઉત્સેચક વગર CO2 + H2O પ્રક્રિયા (ii) કાર્બોનિક એનહાઈડ્રેઝની હાજરીમાં પ્રક્રિયા | વિભાગ B: (a) 200 અણુ/કલાક (b) 6,00,000 અણુ/સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્સેચક પ્રક્રિયાનો વેગ 10 મિલિયન ગણો વધારી શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (i) એક શર્કરા (ii) બે શર્કરા | વિભાગ B: (a) ગ્લુકોઝ (b) માલ્ટોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Glucose is Monosaccharide, Maltose is Disaccharide.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (i) DNA પિચ (Pitch) (ii) બેઝ પેરની સંખ્યા પ્રતિ કુંતલ | વિભાગ B: (a) 3.4 nm (b) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 પગથિયાં (Base pair) = 1 આખું ચક્કર (Pitch).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (i) લિગેઝ (ii) હાઈડ્રોલેઝ | વિભાગ B: (a) C-O, C-N, C-S, P-O બંધ બનાવવા (b) એસ્ટર, ઈથર, પેપ્ટાઈડ બંધ તોડવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ligase = Linking (જોડવું), Hydrolase = Hydrolysis (તોડવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (i) કાર્બોનિક એનહાઈડ્રેઝ (ii) પેરોક્સિડેઝ | વિભાગ B: (a) સૌથી ઝડપી ઉત્સેચક (b) હીમ (Heme) પ્રોસ્થેટિક જૂથ ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 નું વહન કરતો ઉત્સેચક સૌથી સુપરફાસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (i) એડિનાયલિક એસિડ (ii) ગ્વાનોસાઇન | વિભાગ B: (a) ન્યુક્લિઓટાઇડ (b) ન્યુક્લિઓસાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ine' છેડે આવે તો ન્યુક્લિઓસાઇડ, 'acid' છેડે આવે તો ન્યુક્લિઓટાઇડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (i) સેલ્યુલોઝ (ii) કાઈટિન | વિભાગ B: (a) ગ્લુકોઝનો હોમોપોલિમર (b) N-એસીટાઈલ ગ્લુકોસેમાઈનનો પોલિમર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઈટિન એટલે જટિલ નાઈટ્રોજનયુક્ત પોલીસેકેરાઈડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: (i) ન્યુક્લિક એસિડની મોનોમર ઈકાઈ (ii) પ્રોટીનની મોનોમર ઈકાઈ | વિભાગ B: (a) ન્યુક્લિઓટાઇડ (b) એમિનો એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માળાના મણકા એટલે મોનોમર, આખી માળા એટલે પોલિમર.</p></div>"
+    }
+  ]
+}

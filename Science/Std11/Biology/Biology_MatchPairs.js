@@ -2181,3 +2181,366 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાણીઓમાં રચનાકીય આયોજન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: પેશીના પ્રકાર | વિભાગ B: કોષોનો આકાર <br> (1) લાદીસમ અધિચ્છદ - (i) ઘન આકારના કોષો <br> (2) ઘનાકાર અધિચ્છદ - (ii) સ્તંભ જેવા લાંબા કોષો <br> (3) સ્તંભાકાર અધિચ્છદ - (iii) ચપટા અને અનિયમિત કિનારીવાળા કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(iii), (2)-(i), (3)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાદી હંમેશા 'ચપટી' હોય (લાદીસમ-ચપટા), 'ઘન' એટલે 'Cube' (ઘનાકાર), અને 'સ્તંભ' એટલે 'થાંભલો' (સ્તંભાકાર-લાંબા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: અધિચ્છદ પેશી | વિભાગ B: સ્થાન <br> (1) લાદીસમ અધિચ્છદ - (i) લાળગ્રંથિની નલિકા <br> (2) ઘનાકાર અધિચ્છદ - (ii) રુધિરવાહિનીની દીવાલ <br> (3) સ્તંભાકાર અધિચ્છદ - (iii) જઠરનું અંતઃસ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિર વહેવા માટે 'લીસી લાદી' જોઈએ, ગ્રંથિમાં 'ઘન' (Gland-Cuboidal), અને પાચનમાર્ગમાં 'સ્તંભ' (સ્તંભાકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: વિશિષ્ટ અધિચ્છદ | વિભાગ B: કાર્ય/સ્થાન <br> (1) પક્ષ્મલ અધિચ્છદ - (i) અંડવાહિની <br> (2) ગ્રંથિમય અધિચ્છદ - (ii) દ્રવ્યોનો સ્ત્રાવ <br> (3) સંયુક્ત અધિચ્છદ - (iii) ત્વચાની શુષ્ક સપાટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પક્ષ્મ' અંડકોષને ધક્કો મારે (પક્ષ્મલ-અંડવાહિની), 'ગ્રંથિ' હંમેશા 'સ્ત્રાવ' કરે, અને ત્વચા 'બહુસ્તરીય' (સંયુક્ત) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: કોષીય જોડાણ | વિભાગ B: મુખ્ય કાર્ય <br> (1) દ્રઢ જોડાણ - (i) પાડોશી કોષોને જોડવા <br> (2) અભિલગ્ન જોડાણ - (ii) પદાર્થોને બહાર નીકળતા અટકાવવા <br> (3) અંતરાલીય જોડાણ - (iii) આયનોની આપ-લે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રઢ (Tight) = Leakage બંધ, અભિલગ્ન (Adhering) = સિમેન્ટ જેવું કામ, અંતરાલ (Gap) = ટ્રાફિકની અવરજવર (આયનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: શિથિલ સંયોજક પેશી | વિભાગ B: લક્ષણ/સ્થાન <br> (1) તંતુઘટક પેશી - (i) ત્વચાની નીચે ચરબીનો સંગ્રહ <br> (2) મેદપૂર્ણ પેશી - (ii) અધિચ્છદ માટે આધાર માળખું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેદ' એટલે ચરબી (Adipose), 'તંતુ' એટલે જાળી જેવો આધાર (Areolar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: સઘન સંયોજક પેશી | વિભાગ B: ઉદાહરણ <br> (1) સઘન નિયમિત - (i) ત્વચા (Dermis) <br> (2) સઘન અનિયમિત - (ii) સ્નાયુબંધ (Tendon)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત ગોઠવણી સ્નાયુબંધમાં હોય, જ્યારે ત્વચામાં ફાઈબર્સ ગમે તેમ (અનિયમિત) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: વિશિષ્ટ સંયોજક પેશી | વિભાગ B: કોષોના પ્રકાર <br> (1) કાસ્થિ - (i) ઓસ્ટિઓસાઇટ્સ <br> (2) અસ્થિ - (ii) કોન્ડ્રોસાઇટ્સ <br> (3) રુધિર - (iii) RBC, WBC, પ્લેટલેટ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાસ્થિ' એટલે 'કોન્ડ્રો' (C-C match), 'અસ્થિ' એટલે 'ઓસ્ટિઓ' (Bone Doctor-Orthopedic/Osteo).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: સ્નાયુ પેશી | વિભાગ B: લક્ષણ <br> (1) કંકાલ સ્નાયુ - (i) નળાકાર, શાખિત, એકકોષકેન્દ્રી <br> (2) સરળ સ્નાયુ - (ii) નળાકાર, અશાખિત, બહુકોષકેન્દ્રી <br> (3) હૃદ સ્નાયુ - (iii) ત્રાકાકાર, અરેખિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(iii), (3)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કંકાલ' એટલે હડ્ડી સાથે (રેખિત), 'સરળ' એટલે 'Soft' (ત્રાકાકાર), 'હૃદ' એટલે હૃદય (શાખિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: ચેતા પેશીના ઘટકો | વિભાગ B: કાર્ય <br> (1) ચેતાકોષ (Neuron) - (i) રક્ષણ અને આધાર આપવો <br> (2) ચેતાધાર કોષો (Neuroglia) - (ii) ઉત્તેજનાનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાકોષ મુખ્ય 'હીરો' છે (વહન કરે), ગ્લિયા કોષો 'બોડીગાર્ડ' છે (રક્ષણ કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: દેડકાનું બાહ્ય લક્ષણ | વિભાગ B: વર્ણન <br> (1) નિક્સક પટલ - (i) અવાજ ઉત્પન્ન કરવા <br> (2) કર્ણપટલ - (ii) પાણીમાં આંખનું રક્ષણ <br> (3) સ્વરકોથળી - (iii) અવાજ સાંભળવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(iii), (3)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિક્સક' એટલે 'Nictitating' (આંખ), 'પટલ' એટલે કાન (Tympanum), 'સ્વર' એટલે અવાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: દેડકાનું મુખ | વિભાગ B: લક્ષણ/કાર્ય <br> (1) દ્વિશાખિત જીભ - (i) દેડકાનું વૈજ્ઞાનિક નામ <br> (2) રાના ટાઈગ્રીના - (ii) શિકાર પકડવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાના ટાઈગ્રીના એ દેડકાનું 'ઈન્ટરનેશનલ' નામ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: દેડકાની ત્વચા | વિભાગ B: કાર્ય/લક્ષણ <br> (1) શ્લેષ્મ ગ્રંથિ - (i) ત્વચાનો ઉપરનો રંગ <br> (2) ઘેરો લીલો - (ii) ત્વચાને ભીની રાખવી <br> (3) પીળો રંગ - (iii) નીચેની સપાટીનો રંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર 'ઘેરો' (પૃષ્ઠ), નીચે 'પીળો' (વક્ષ) અને શ્લેષ્મ એટલે 'ચીકણું' (ભીનું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: પાચનતંત્રના અંગો | વિભાગ B: કાર્ય <br> (1) પિત્તાશય - (i) પાચક ઉત્સેચકોનો સ્ત્રાવ <br> (2) સ્વાદુપિંડ - (ii) પિત્તનો સંગ્રહ <br> (3) જઠર - (iii) HCl અને જઠરરસનો સ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્તાશય એટલે 'ગોડાઉન' (સંગ્રહ), સ્વાદુપિંડ એટલે 'ફેક્ટરી' (સ્ત્રાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: દેડકાની શ્વસન પદ્ધતિ | વિભાગ B: અંગ <br> (1) ત્વચીય શ્વસન - (i) ફેફસાં <br> (2) મુખગુહા શ્વસન - (ii) ત્વચા <br> (3) ફુપ્ફુસીય શ્વસન - (iii) મુખગુહાનું અસ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(iii), (3)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુપ્ફુસ = ફેફસાં, ત્વચીય = સ્કીન, મુખગુહા = મોઢું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: રુધિરાભિસરણ તંત્ર | વિભાગ B: ભાગો <br> (1) હૃદય - (i) રુધિરકણિકાઓ <br> (2) રુધિર - (ii) ત્રણ ખંડો <br> (3) લસિકા - (iii) પ્રોટીન અને RBC નો અભાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકાનું હૃદય 'ત્રિકોણ' (3 ખંડો) જેવું હોય, લસિકા એટલે 'સફેદ રુધિર' (No RBC).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: નિવાહિકા તંત્ર | વિભાગ B: જોડાણ <br> (1) યકૃત નિવાહિકા તંત્ર - (i) મૂત્રપિંડ અને પશ્વ ભાગો <br> (2) મૂત્રપિંડ નિવાહિકા તંત્ર - (ii) યકૃત અને આંતરડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યકૃત-આંતરડું (Hepatic-Gut) અને મૂત્રપિંડ-પગ (Renal-Lower body).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: ઉત્સર્જન તંત્ર | વિભાગ B: અંગ/એકમ <br> (1) મૂત્રપિંડ - (i) મૂત્રાશય <br> (2) ઉત્સર્ગ એકમ - (ii) ઘેરા લાલ અને વાલ આકારના <br> (3) યુરિયોટેલિક - (iii) યુરિયાનો ત્યાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો યુરિયા કાઢે એટલે યુરિયોટેલિક, મૂત્રપિંડ હંમેશા લાલ/વાલ આકારના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: મગજના ભાગો | વિભાગ B: સમાવિષ્ટ અંગો <br> (1) અગ્ર મગજ - (i) લંબમજ્જા <br> (2) મધ્ય મગજ - (ii) ધ્રાણપિંડ અને બૃહદમસ્તિષ્ક <br> (3) પશ્વ મગજ - (iii) દ્રષ્ટિખંડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(iii), (3)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર એટલે આગળ (ધ્રાણ), મધ્ય એટલે આંખ (દ્રષ્ટિ), પશ્વ એટલે પાછળ (લંબમજ્જા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: પ્રજનન તંત્ર (નર) | વિભાગ B: સ્થાન/જોડાણ <br> (1) શુક્રપિંડ - (i) મૂત્રપિંડ સાથે જોડાણ <br> (2) શુક્રવાહિકા - (ii) મૂત્રપિંડના ઉપરના ભાગે <br> (3) બિડરની નલિકા - (iii) 10 થી 12 નલિકાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(iii), (3)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિડર (Bidder) હંમેશા મૂત્રપિંડની અંદર હોય (નર દેડકામાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: દેડકાનો વિકાસ | વિભાગ B: અવસ્થા <br> (1) ફલન - (i) ટેડપોલ <br> (2) લાર્વા - (ii) બાહ્ય ફલન (પાણીમાં) <br> (3) રૂપાંતરણ - (iii) પુખ્ત દેડકો બનવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો પાણીમાં 'ઈંડા' મૂકે (બાહ્ય), નાનો દેડકો એટલે 'ટેડપોલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: પેશીના કોષો | વિભાગ B: મુખ્ય ઘટક <br> (1) ફાઈબ્રોબ્લાસ્ટ - (i) હિસ્ટામાઈનનો સ્ત્રાવ <br> (2) માસ્ટ કોષો - (ii) તંતુઓનું નિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફાઈબ્રો' એટલે ફાઈબર (તંતુ), 'માસ્ટ' એટલે એલર્જી/સ્ત્રાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: હૃદયના ખંડો | વિભાગ B: સંખ્યા <br> (1) કર્ણકો - (i) એક <br> (2) ક્ષેપક - (ii) બે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો: 2 કાન (કર્ણક) અને 1 પગ (ક્ષેપક - યાદ રાખવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: અધિચ્છદના રૂપાંતરણ | વિભાગ B: ઉદાહરણ <br> (1) એકકોષીય ગ્રંથિ - (i) લાળગ્રંથિ <br> (2) બહુકોષીય ગ્રંથિ - (ii) ગોબ્લેટ કોષો (અન્નમાર્ગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોબ્લેટ (Goblet) એકલો હોય, લાળગ્રંથિ આખું ઝૂમખું (બહુકોષીય) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: સ્નાયુ તંતુ | વિભાગ B: નામ <br> (1) કંકાલ સ્નાયુ - (i) અનૈચ્છિક સ્નાયુ <br> (2) હૃદ સ્નાયુ - (ii) ઐચ્છિક સ્નાયુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથ-પગ (કંકાલ) આપણી મરજીથી હલે, હૃદય એની મરજીથી હલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: અધિચ્છદ પેશી | વિભાગ B: વિશિષ્ટતા <br> (1) લાદીસમ - (i) સ્ત્રાવ અને શોષણ <br> (2) સ્તંભાકાર - (ii) પ્રસરણ સીમા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાદી પાતળી એટલે 'આરપાર' (Diffusion), સ્તંભ ઊંચા એટલે 'સ્ટોરેજ/શોષણ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: ચેતાતંત્ર | વિભાગ B: ઘટકો <br> (1) મધ્યસ્થ ચેતાતંત્ર - (i) મગજ અને કરોડરજ્જુ <br> (2) પરિઘવર્તી ચેતાતંત્ર - (ii) મસ્તિષ્ક અને કરોડરજ્જુ ચેતાઓ <br> (3) સ્વયંવર્તી ચેતાતંત્ર - (iii) અનુકંપી અને પરાનુકંપી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય (Center) માં મગજ, પરિઘ (Periphery) માં ચેતાઓ, સ્વયંવર્તી એટલે Auto-control.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: દેડકાના અંગો | વિભાગ B: વૈજ્ઞાનિક શબ્દ <br> (1) મળદ્વાર (સામાન્ય) - (i) અવસારણી (Cloaca) <br> (2) શિશ્ન - (ii) ગેરહાજર (નર દેડકામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકામાં બધું જ એક જ કાણામાંથી બહાર નીકળે - અવસારણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: કંકાલ સ્નાયુના આવરણ | વિભાગ B: પેશી પ્રકાર <br> (1) સ્નાયુબદ્ધ - (i) સઘન નિયમિત સંયોજક પેશી <br> (2) અસ્થિબંધ - (ii) સઘન નિયમિત સંયોજક પેશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેન્ડન (સ્નાયુબંધ) અને લિગામેન્ટ (અસ્થિબંધ) બંને 'નિયમિત' શિસ્તબદ્ધ પેશીઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: ઉત્સર્ગ દ્રવ્ય | વિભાગ B: પ્રાણી <br> (1) એમોનિયા - (i) દેડકાનું ટેડપોલ <br> (2) યુરિયા - (ii) પુખ્ત દેડકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં રહે તે 'એમોનિયા' કાઢે (ટેડપોલ), જમીન પર આવે તે 'યુરિયા' કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: રુધિરના કોષો | વિભાગ B: કાર્ય <br> (1) રક્તકણો (RBC) - (i) રુધિર ગંઠાવવું <br> (2) શ્વેતકણો (WBC) - (ii) ઓક્સિજનનું વહન <br> (3) રુધિર કણિકાઓ - (iii) રોગપ્રતિકારક શક્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(iii), (3)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC = Red = Oxygen, WBC = White = Warrior, કણિકાઓ = પ્લેટલેટ્સ = Clotting.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: અધિચ્છદ કોષોના મુક્ત છેડા | વિભાગ B: વિશેષતા <br> (1) સૂક્ષ્મ રસાંકુરો - (i) હલનચલન માટે <br> (2) પક્ષ્મો - (ii) સપાટી વિસ્તાર વધારવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસાંકુરો (Microvilli) શોષણ માટે 'વિસ્તાર' વધારે, પક્ષ્મો (Cilia) સાવરણીની જેમ 'ગતિ' કરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: ગ્રંથિઓના પ્રકાર | વિભાગ B: સ્ત્રાવની રીત <br> (1) બાહ્યસ્ત્રાવી ગ્રંથિ - (i) હોર્મોન્સ (નલિકા વગર) <br> (2) અંતઃસ્ત્રાવી ગ્રંથિ - (ii) ઉત્સેચકો (નલિકા દ્વારા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય એટલે નળી (Duct), અંતઃ એટલે સીધું રુધિરમાં (Ductless).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: સંયોજક પેશીના તંતુઓ | વિભાગ B: પ્રોટીન <br> (1) શ્વેત તંતુઓ - (i) ઈલાસ્ટિન <br> (2) પીળા તંતુઓ - (ii) કોલેજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોલેજન એટલે 'મજબૂત સફેદ', ઈલાસ્ટિન એટલે 'લવચીક પીળું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: દેડકાના અંગોનું સ્થાન | વિભાગ B: વિગત <br> (1) મૂત્રપિંડ - (i) દેહગુહામાં પૃષ્ઠ બાજુએ <br> (2) હૃદય - (ii) દેહગુહાના અગ્ર ભાગમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય આગળ (Ant.) હોય, કિડની પાછળ (Post.) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: દેડકાની જ્ઞાનેન્દ્રિયો | વિભાગ B: પ્રકાર <br> (1) સ્પર્શ - (i) સ્વાદ કલિકા <br> (2) સ્વાદ - (ii) સંવેદી અંકુરકો <br> (3) ગંધ - (iii) નાસિકા અધિચ્છદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પર્શ-અંકુર, સ્વાદ-જીભ (કલિકા), ગંધ-નાક (નાસિકા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: સંયોજક પેશી | વિભાગ B: મુખ્ય કાર્ય <br> (1) રુધિર - (i) શરીરનું માળખું <br> (2) અસ્થિ - (ii) પોષક દ્રવ્યોનું વહન <br> (3) કાસ્થિ - (iii) સાંધામાં ઘર્ષણ ઘટાડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિર એટલે 'ટ્રાન્સપોર્ટ', અસ્થિ એટલે 'થાંભલો', કાસ્થિ એટલે 'કુશન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: હૃદયની રચના | વિભાગ B: કાર્ય <br> (1) શિરાકોટર - (ii) જમણા કર્ણકમાં ખુલે <br> (2) ધમનીકાંડ - (i) ક્ષેપકમાંથી બહાર નીકળે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિરા (Sinus) કર્ણકમાં જાય, ધમની (Conus) ક્ષેપકમાંથી આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: દેડકાના ઉપાંગો | વિભાગ B: લક્ષણ <br> (1) અગ્ર ઉપાંગ - (i) પાંચ આંગળીઓ અને જાળપાદ <br> (2) પશ્વ ઉપાંગ - (ii) ચાર આંગળીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળ ઓછા (4), પાછળ વધારે (5). પાછળના પગ તરવા માટે જાળીવાળા (Webbed) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: અંતઃસ્ત્રાવી ગ્રંથિઓ | વિભાગ B: ઉદાહરણ <br> (1) પીટ્યુટરી - (i) થાઇરોઇડ <br> (2) થાઇરોઇડ - (ii) પીટ્યુટરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બધી જ નલિકા વગરની (Endocrine) ગ્રંથિઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: અધિચ્છદના કોષો | વિભાગ B: કાર્ય <br> (1) સ્ત્રાવી કોષો - (i) રાસાયણિક સંદેશા <br> (2) સંવેદી કોષો - (ii) બાહ્ય ઉત્તેજના ગ્રહણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રાવ એટલે કંઈક ફેંકવું, સંવેદના એટલે કંઈક ઝીલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: દેડકાનો ખોરાક | વિભાગ B: પાચન <br> (1) જઠર - (i) પ્રોટીનનું પાચન <br> (2) આંતરડું - (ii) અંતિમ પાચન અને શોષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જઠર એટલે 'શરૂઆત' (HCl), આંતરડું એટલે 'સમાપ્તિ' (Absorption).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: મગજની ગુહા | વિભાગ B: જોડાણ <br> (1) ફોરામેન ઓફ મેગ્નમ - (i) કરોડરજ્જુ સાથે જોડાણ <br> (2) વેન્ટ્રિકલ્સ - (ii) મગજની અંદરની ગુહા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેગ્નમ' એટલે મોટું કાણું જ્યાંથી કરોડરજ્જુ નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: રુધિરવાહિની | વિભાગ B: રુધિરનો પ્રકાર <br> (1) ધમની - (i) અશુદ્ધ રુધિર (હૃદય તરફ) <br> (2) શિરા - (ii) શુદ્ધ રુધિર (હૃદયથી દૂર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધ' થી ધમની, 'ધ' થી દુર (હૃદયથી દુર જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: લાળગ્રંથિ - (i) બહુકોષીય <br> વિભાગ B: સ્વાદુપિંડ - (ii) મિશ્ર ગ્રંથિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદુપિંડ 'બંને' કામ કરે (Exo + Endo), એટલે મિશ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: કંકાલ સ્નાયુ - (i) નળાકાર <br> વિભાગ B: હૃદ સ્નાયુ - (ii) સંચાર મણકા (Intercalated discs)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Intercalated Disc' એ હૃદયની પેશીનું VIP ઓળખપત્ર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: કાસ્થિનું સ્થાન | વિભાગ B: ઉદાહરણ <br> (1) નાકનું ટેરવું - (i) કાસ્થિ <br> (2) કરોડસ્તંભના અસ્થિ વચ્ચે - (ii) કાસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાક, કાન અને સાંધામાં 'નરમ હાડકું' એટલે કાસ્થિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: દેડકાની ક્રેનિયલ નર્વ્સ | વિભાગ B: સંખ્યા <br> (1) મસ્તિષ્ક ચેતાઓ - (i) 10 જોડ <br> (2) કરોડરજ્જુ ચેતાઓ - (ii) 10 જોડ (સામાન્ય રીતે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકામાં '10' નો આંકડો મગજ માટે ફિક્સ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: દેડકાની માદા પ્રજનન અંગ | વિભાગ B: વિગત <br> (1) અંડપિંડ - (i) મૂત્રપિંડ સાથે કાર્યાત્મક જોડાણ નથી <br> (2) અંડવાહિની - (ii) અવસારણીમાં અલગથી ખુલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરમાં કિડની અને ટેસ્ટીસ જોડાયેલા હોય, માદામાં 'નો કનેક્શન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: શ્વસન રંજકદ્રવ્ય | વિભાગ B: સ્થાન <br> (1) હિમોગ્લોબિન - (i) રક્તકણો (RBC) <br> (2) રક્તકણોનો આકાર - (ii) લંબગોળ અને કોષકેન્દ્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસમાં RBC માં કોષકેન્દ્ર ના હોય, પણ દેડકામાં 'હોય' (Nucleated).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: ચેતાકોષના ભાગો | વિભાગ B: કાર્ય <br> (1) શિખાતંતુ - (i) ઉર્મિવેગ ગ્રહણ કરવા <br> (2) અક્ષતંતુ - (ii) ઉર્મિવેગ આગળ મોકલવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિખા' એટલે શિખર (ટોચ) થી એન્ટ્રી, 'અક્ષ' એટલે એક્ઝિટ (બહાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: પાચન માર્ગ | વિભાગ B: ક્રમ <br> (1) અન્નનળી - (i) ટૂંકી નલિકા <br> (2) પક્વાશય - (ii) આંતરડાનો શરૂઆતનો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકામાં ગરદન નથી એટલે અન્નનળી પણ 'ટૂંકી'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: નર દેડકાની ઓળખ | વિભાગ B: અંગ <br> (1) મેથુન અંગ - (i) અગ્ર ઉપાંગની પહેલી આંગળી પર <br> (2) સ્વરકોથળી - (ii) ગળાના ભાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફક્ત 'નર' દેડકો જ ગીતો ગાઈ શકે અને સ્પેશિયલ પેડ ધરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: શીતસુપ્તતા | વિભાગ B: મોસમ <br> (1) શિયાળો - (i) શીતસુપ્તતા (Hibernation) <br> (2) ઉનાળો - (ii) ગ્રીષ્મસુપ્તતા (Aestivation)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળો-શીત, ઉનાળો-ગ્રીષ્મ. આરામ કરવાની નિન્જા ટેકનિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: સંયોજક પેશીનું આધારદ્રવ્ય | વિભાગ B: રાસાયણિક સ્વરૂપ <br> (1) મેટ્રિક્સ - (i) રૂપાંતરિત પોલીસેકેરાઈડ્સ <br> (2) તંતુઓ - (ii) પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેટ્રિક્સ એટલે 'જેલી' (Sugar), તંતુ એટલે 'દોરી' (Protein).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: દેડકાની આંતરડી | વિભાગ B: શોષણ સપાટી <br> (1) આંતરડાનું અસ્તર - (i) રસાંકુરો અને સૂક્ષ્મરસાંકુરો <br> (2) મળાશય - (ii) અવસારણીમાં ખુલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસાંકુરો (Villi) શોષણ માટેનું 'સરફેસ એરિયા' વધારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: ગ્રંથિમય અધિચ્છદ | વિભાગ B: સ્ત્રાવનો પ્રકાર <br> (1) શ્લેષ્મ - (ii) ગોબ્લેટ કોષો <br> (2) દૂધ, તેલ - (i) બહુકોષીય ગ્રંથિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(ii), (2)-(i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્લેષ્મ (Mucus) માટે ગોબ્લેટ 'Best' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: દેડકાની આંખો | વિભાગ B: વિશેષતા <br> (1) પોપચાં - (i) સ્થિર <br> (2) નિક્સક પટલ - (ii) હલનચલન કરી શકે તેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો આંખ પટપટાવી શકતો નથી, પણ પટલ હલાવી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: ત્વચાનું કાર્ય | વિભાગ B: ઉદાહરણ <br> (1) રક્ષણ - (i) પરભક્ષીઓથી બચવું (છદ્માવરણ) <br> (2) શ્વસન - (ii) પાણીમાં ઓક્સિજન મેળવવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છદ્માવરણ (Mimicry) એટલે દુશ્મનને ઉલ્લુ બનાવવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: લસીકા તંત્ર | વિભાગ B: ગેરહાજર <br> (1) રુધિર - (i) RBC હાજર <br> (2) લસીકા - (ii) RBC ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસીકા એટલે રુધિર માઇનસ RBC.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: પેશી | વિભાગ B: ઉદ્ભવ <br> (1) અધિચ્છદ - (i) ત્રણેય સ્તરોમાંથી <br> (2) સંયોજક, સ્નાયુ - (ii) મધ્યગર્ભસ્તર <br> (3) ચેતા પેશી - (iii) બાહ્યગર્ભસ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii), (3)-(iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધિચ્છદ 'ઓલરાઉન્ડર' છે, ચેતા હંમેશા 'બહાર' (Ecto) થી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: દેડકાની લંબમજ્જા | વિભાગ B: અંત <br> (1) લંબમજ્જા - (i) કરોડરજ્જુમાં પરિણમે <br> (2) કરોડરજ્જુ - (ii) કરોડસ્તંભમાં સુરક્ષિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજની પૂંછડી એટલે કરોડરજ્જુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: શુક્રકોષોનો માર્ગ | વિભાગ B: અંગ <br> (1) શુક્રવાહિકા - (i) બિડરની નલિકામાં ખુલે <br> (2) મૂત્રજનન નલિકા - (ii) મૂત્ર અને શુક્રકોષ બંનેનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર દેડકામાં પેશાબ અને શુક્રકોષો માટે એક જ 'હાઈવે' (નલિકા) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: દેડકાની ઉપયોગિતા | વિભાગ B: કારણ <br> (1) કીટકોનું ભક્ષણ - (i) પાકનું રક્ષણ <br> (2) ઇકોલોજીકલ બેલેન્સ - (ii) આહાર શૃંખલાની કડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો ખેડૂતનો મિત્ર છે કારણ કે તે જીવડાં ખાઈ જાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: અસ્થિનું બંધારણ | વિભાગ B: ઘટક <br> (1) અકાર્બનિક ક્ષારો - (i) કેલ્શિયમ ફોસ્ફેટ <br> (2) સ્થિતિસ્થાપકતા - (ii) ઓછું (ખૂબ ઓછી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાડકાં 'કેલ્શિયમ' ને લીધે પથ્થર જેવા મજબૂત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: લાદીસમ અધિચ્છદ | વિભાગ B: કાર્ય <br> (1) ફેફસાના વાયુકોષ્ઠો - (i) વાયુ વિનિમય <br> (2) રુધિરકેશિકા - (ii) ગાળણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં પણ 'પાતળું' સ્તર જોઈએ ત્યાં લાદીસમ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: દેડકાની યકૃત અને પિત્ત | વિભાગ B: કાર્ય <br> (1) યકૃત - (i) પિત્તનો સ્ત્રાવ <br> (2) પિત્ત - (ii) ચરબીનું તૈલોદીકરણ (Emulsification)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિત્ત (Bile) એટલે ચરબીનો દુશ્મન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: સ્તંભાકાર પક્ષ્મલ અધિચ્છદ | વિભાગ B: સ્થાન <br> (1) શ્વાસવાહિકા - (i) ચીકણા દ્રવ્યો દૂર કરવા <br> (2) અંડવાહિની - (ii) અંડકોષને ગતિ આપવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષ્મ (Cilia) એટલે 'બોટના હલેસા' જેવો ધક્કો મારવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: દેડકાનું ઉત્સર્જન | વિભાગ B: પદાર્થ <br> (1) પ્રોટીન ચયાપચય - (i) નાઈટ્રોજનયુક્ત કચરો <br> (2) યુરિયા - (ii) મુખ્ય ઉત્સર્ગ દ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો જમીન પર 'યુરિયા' કાઢીને પાણી બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: મિશ્ર ગ્રંથિ | વિભાગ B: ઉદાહરણ <br> (1) સ્વાદુપિંડ - (i) ઇન્સ્યુલિન અને સ્વાદુરસ <br> (2) અંડપિંડ/શુક્રપિંડ - (ii) જનનકોષો અને અંતઃસ્ત્રાવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિશ્ર એટલે 'બેવડું કામ' (Double Role).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: દેડકાના કાન | વિભાગ B: કાર્ય <br> (1) ટિમ્પેનમ - (i) સાંભળવું <br> (2) અંતઃકર્ણ - (ii) સંતુલન જાળવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાન ફક્ત સાંભળવા માટે નથી, શરીરનું બેલેન્સ રાખવા માટે પણ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: સંયોજક પેશીના કોષો | વિભાગ B: નામ <br> (1) અસ્થિ કોષો - (i) ઓસ્ટિઓસાઇટ્સ <br> (2) કાસ્થિ કોષો - (ii) કોન્ડ્રોસાઇટ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(i), (2)-(ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાસ્થિ-કોન્ડ્રો (K-K sound), અસ્થિ-ઓસ્ટિઓ (A-O sound).</p></div>"
+    }
+  ]
+}

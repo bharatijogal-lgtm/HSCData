@@ -1097,3 +1097,361 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "પ્રાણી સૃષ્ટિ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A (આયોજનનું સ્તર) ને વિભાગ B (ઉદાહરણ) સાથે જોડો: <br>1. કોષીય સ્તર <br>2. પેશી સ્તર <br>3. અંગ સ્તર <br>4. અંગતંત્ર સ્તર <br><br>વિભાગ B: <br>A. પ્લેટીહેલ્મિન્થિસ <br>B. સછિદ્ર <br>C. અન્નપૂરક થી મેરુદંડી <br>D. કોષ્ઠાંત્રિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોષી-સ' (સછિદ્ર), 'પેશી-કો' (કોષ્ઠાંત્રિ), 'અંગ-પ્લે' (પ્લેટી), બાકી બધામાં તંત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A (સમિત્તિ) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. અસમમિત્તિ <br>2. અરિય સમમિત્તિ <br>3. દ્વિપાર્શ્વ સમમિત્તિ <br><br>વિભાગ B: <br>A. કરચલો <br>B. વાદળી (મોટાભાગની) <br>C. તારામાછલી (પુખ્ત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળી વાંકીચૂંકી (અસમ), ગોળ હોય તે અરિય, બે ભાગ થાય તે દ્વિપાર્શ્વ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A (દેહકોષ્ઠ) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. અદેહકોષ્ઠી <br>2. કૂટદેહકોષ્ઠી <br>3. દેહકોષ્ઠી <br><br>વિભાગ B: <br>A. નૂપુરક <br>B. પૃથુકૃમિ <br>C. સૂત્રકૃમિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથુ એટલે પાતળું (અદેહ), સૂત્ર એટલે દોરી જેવું ખોટું (કૂટ), નૂપુર એટલે સાચું (દેહકોષ્ઠી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A (વિશિષ્ટ કોષો) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. કોલર કોષો <br>2. ડંખ કોષો <br>3. જ્યોત કોષો <br>4. કંકત પથ્થર <br><br>વિભાગ B: <br>A. પૃથુકૃમિ <br>B. કંકતધરા <br>C. સછિદ્ર <br>D. કોષ્ઠાંત્રિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-D, 3-A, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સછિદ્રની કોલર ટાઈટ, કોષ્ઠાંત્રિ ડંખ મારે, પૃથુ જ્યોત સળગાવે, કંકતમાં કંકત પથ્થર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A (વૈજ્ઞાનિક નામ) ને વિભાગ B (સામાન્ય નામ) સાથે જોડો: <br>1. સાયકોન <br>2. સ્પોન્જીલા <br>3. યુસ્પોન્જીયા <br><br>વિભાગ B: <br>A. નવરાશની વાદળી <br>B. સ્કાયફા <br>C. મીઠા જળની વાદળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયકોન-સ્કાયફા, જીલા-જળ, યુ એટલે નવરાશ (Bath)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A (કોષ્ઠાંત્રિ) ને વિભાગ B (નામ) સાથે જોડો: <br>1. ફાઈસેલિયા <br>2. એડેમ્સિયા <br>3. પેન્નાટુલા <br>4. ગોર્ગોનિયા <br><br>વિભાગ B: <br>A. સમુદ્ર ફૂલ <br>B. પોર્ટુગીઝ મેન ઓફ વોર <br>C. સમુદ્ર પંખો <br>D. સમુદ્ર પેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાઈ-ફાઈટિંગ (War), પેન્ના-પેન, ગોર્ગો-ગોળ પંખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A (સ્વરૂપ) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. પુષ્પક (Polyp) <br>2. છત્રક (Medusa) <br>3. બંને ધરાવતું (Metagenesis) <br><br>વિભાગ B: <br>A. ઓબેલિયા <br>B. હાઈડ્રા <br>C. જેલીફિશ (ઓરેલિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુષ્પ હાઈડ્રા જેવું સ્થિર, છત્ર જેલી જેવું તરે, ઓબેલિયા બંને કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A (પૃથુકૃમિ) ને વિભાગ B (સામાન્ય નામ) સાથે જોડો: <br>1. ટીનિયા <br>2. ફેસિઓલા <br><br>વિભાગ B: <br>A. યકૃત કૃમિ <br>B. પટ્ટી કીડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીનિયા-પટ્ટી, ફેસિઓલા-ફેશિયલ (યકૃત)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A (સૂત્રકૃમિ) ને વિભાગ B (નામ) સાથે જોડો: <br>1. એસ્કેરિસ <br>2. વુકેરેરિયા <br>3. એન્સાયલોસ્ટોમા <br><br>વિભાગ B: <br>A. ફિલારિયલ કૃમિ <br>B. કરમિયું <br>C. હૂકવોર્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસ્કેરિસ એટલે પેટનું કરમિયું, વુકેરિયા હાથીપગો (ફિલારિયા), સ્ટોમા એટલે હૂક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A (નૂપુરક) ને વિભાગ B (લક્ષણ) સાથે જોડો: <br>1. રેતીકીડો <br>2. અળસિયું <br>3. જળો <br><br>વિભાગ B: <br>A. રુધિર ચૂસનાર <br>B. જલજ અને પાર્શ્વપાદ ધરાવતું <br>C. દ્વિલિંગી અને જમીન પર રહેતું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતીકીડો-પાણીમાં, જળો-લોહીમાં, અળસિયું-ખેતરમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A (સંધિપાદના આર્થિક રીતે ઉપયોગી કીટકો) ને વિભાગ B (નામ) સાથે જોડો: <br>1. મધમાખી <br>2. રેશમનો કીડો <br>3. લાખ આપતો કીડો <br><br>વિભાગ B: <br>A. લેસિફર <br>B. બોમ્બેક્સ <br>C. એપિસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એપિસ-હની, બોમ્બે-સિલ્ક, લેસિફર-લાખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (સંધિપાદના રોગવાહકો) ને વિભાગ B (રોગ) સાથે જોડો: <br>1. એનોફિલિસ મચ્છર <br>2. ક્યુલેક્સ મચ્છર <br>3. એડીસ મચ્છર <br><br>વિભાગ B: <br>A. ફિલારિયાસિસ <br>B. મેલેરિયા <br>C. ડેન્ગ્યુ/ચિકનગુનિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એનો-મેલ, ક્યુ-ફી, એડીસ-ડેન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A (મૃદુકાય) ને વિભાગ B (સામાન્ય નામ) સાથે જોડો: <br>1. પિન્કટાડા <br>2. સેપિયા <br>3. લોલિગો <br>4. ઓકટોપસ <br><br>વિભાગ B: <br>A. ડેવિલ ફિશ <br>B. પર્લ ઓયસ્ટર (મોતી છીપ) <br>C. સ્ક્વિડ <br>D. કટલ ફિશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-C, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિન્ક મોતી, સેપિયા કટલ, ઓકટો-ડેવિલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A (શૂળત્વચી) ને વિભાગ B (નામ) સાથે જોડો: <br>1. એસ્ટેરિયાસ <br>2. એકીનસ <br>3. એન્ટીડોન <br>4. કુકુમેરિયા <br><br>વિભાગ B: <br>A. સમુદ્ર કાકડી <br>B. સમુદ્ર કુમુદ (લીલી) <br>C. તારા માછલી <br>D. સમુદ્ર અર્ચિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-D, 3-B, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસ્ટેર-સ્ટાર, એકીનસ-અર્ચિન, કુકુ-કાકડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A (મેરુદંડીના પેટા સમુદાય) ને વિભાગ B (લક્ષણ) સાથે જોડો: <br>1. પૂચ્છમેરુદંડી <br>2. શીર્ષમેરુદંડી <br>3. પૃષ્ઠવંશી <br><br>વિભાગ B: <br>A. મેરુદંડ શીર્ષથી પૂંછડી સુધી આજીવન <br>B. મેરુદંડ માત્ર ડિંભની પૂંછડીમાં <br>C. મેરુદંડનું કરોડસ્તંભમાં રૂપાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂચ્છ-પૂંછડી, શીર્ષ-આખું શરીર, પૃષ્ઠવંશી-કરોડસ્તંભ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A (વર્ગ) ને વિભાગ B (ઉદાહરણ) સાથે જોડો: <br>1. ચુષમુખા <br>2. કાસ્થિમત્સ્ય <br>3. અસ્થિમત્સ્ય <br>4. ઉભયજીવી <br><br>વિભાગ B: <br>A. લેબિયો (રોહુ) <br>B. લેમ્પ્રી <br>C. સાલામાન્ડર <br>D. સ્કોલિયોડોન (કુતરા માછલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; border-left:5px solid #16a085; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુષ-લેમ્પ્રી, કાસ્થિ-ડોગ, અસ્થિ-રોહુ, ઉભય-સાલા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (શ્વસન અંગ) ને વિભાગ B (સમુદાય/પ્રાણી) સાથે જોડો: <br>1. શરીર સપાટી <br>2. ઝાલરો <br>3. ફેફસાં <br>4. બુક લંગ્સ (પુસ્તક ફેફસાં) <br><br>વિભાગ B: <br>A. પક્ષીઓ/સસ્તન <br>B. સછિદ્ર/કોષ્ઠાંત્રિ <br>C. વીંછી <br>D. માછલીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીનું શરીર-સપાટી, પાણી-ઝાલર, જમીન-ફેફસાં, વીંછી-પુસ્તક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A (ઉત્સર્ગ અંગ) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. જ્યોત કોષો <br>2. ઉત્સર્ગિકા <br>3. માલપિધિયન નલિકા <br>4. પ્રોબોસિસ ગ્રંથિ <br><br>વિભાગ B: <br>A. વંદો <br>B. પ્લેનેરિયા <br>C. બાલાનોગ્લોસસ <br>D. અળસિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યોત-પ્લેનેરિયા, ઉત્સર્ગિકા-અળસિયું, માલ-વંદો, સૂંઢ-બાલાનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A (હૃદયના ખંડો) ને વિભાગ B (વર્ગ) સાથે જોડો: <br>1. દ્વિખંડી <br>2. ત્રિખંડી <br>3. ચતુષ્ખંડી <br><br>વિભાગ B: <br>A. સસ્તન અને પક્ષીઓ <br>B. મત્સ્ય <br>C. ઉભયજીવી અને સરીસૃપ (મગર સિવાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી 2, દેડકો-સાપ 3, પક્ષી-માણસ 4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A (ઉત્સર્જન) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. મૂત્રપિંડ <br>2. રુધિર ગંઠાઈ જવું (હિરુડિન) <br>3. ઉત્સર્ગિકા <br><br>વિભાગ B: <br>A. નૂપુરક <br>B. મેરુદંડી <br>C. મૃદુકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટામાં મૂત્રપિંડ, લીચ (જળો) નૂપુરકમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A (સસ્તન) ને વિભાગ B (નામ) સાથે જોડો: <br>1. ઈંડા આપતા સસ્તન <br>2. કોથળી ધરાવતા સસ્તન <br>3. ઉડતા સસ્તન <br>4. જલજ સસ્તન <br><br>વિભાગ B: <br>A. ચામાચીડિયું <br>B. બતકચાંચ <br>C. વ્હેલ <br>D. કાંગારુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈંડા-બતક, કોથળી-કાંગારુ, ઉડતું-ચામાચીડિયું, પાણી-વ્હેલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A (સરીસૃપ) ને વિભાગ B (નામ) સાથે જોડો: <br>1. કેલોટ્સ <br>2. ટેસ્ટુડો <br>3. હેમીડેક્ટાઇલસ <br>4. વાઈપેરા <br><br>વિભાગ B: <br>A. ઘરની ગરોળી <br>B. બગીચાની ગરોળી <br>C. વાઈપર (ઝેરી સાપ) <br>D. કાચબો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલો-ગાર્ડન, હેમી-હોમ, વાઈપર-ઝેર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A (પરિવહન તંત્ર) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. ખુલ્લું પરિવહન <br>2. બંધ પરિવહન <br><br>વિભાગ B: <br>A. નૂપુરક અને મેરુદંડી <br>B. સંધિપાદ અને મૃદુકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંધિપાદ-મૃદુકાય ખુલ્લા દિલના (Open), નૂપુરક-મેરુદંડી શિસ્તબદ્ધ (Closed)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A (પાચનમાર્ગ) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. અપૂર્ણ પાચનમાર્ગ <br>2. પૂર્ણ પાચનમાર્ગ <br><br>વિભાગ B: <br>A. પૃથુકૃમિ <br>B. એસ્કેલમિન્થિસ (સૂત્રકૃમિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથુ માં એક જ કાણું (અપૂર્ણ), સૂત્ર માં બે છેડા (પૂર્ણ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A (ફલન) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. અંતઃફલન <br>2. બાહ્ય ફલન <br><br>વિભાગ B: <br>A. સછિદ્ર, પૃથુકૃમિ, સસ્તન <br>B. કોષ્ઠાંત્રિ, કંકતધરા, મત્સ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં રહેતા મોટાભાગે બહાર (બાહ્ય), જમીન પર અંદર (અંતઃ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A (ગર્ભસ્તર) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. દ્વિગર્ભસ્તરી <br>2. ત્રિગર્ભસ્તરી <br><br>વિભાગ B: <br>A. કોષ્ઠાંત્રિ, કંકતધરા <br>B. પૃથુકૃમિ થી મેરુદંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતના બે 'C' (Cnidaria, Ctenophora) દ્વિસ્તરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A (પક્ષીઓ) ને વિભાગ B (વૈજ્ઞાનિક નામ) સાથે જોડો: <br>1. કાગડો <br>2. કબૂતર <br>3. પોપટ <br>4. મોર <br><br>વિભાગ B: <br>A. સીટાકુલા <br>B. કોર્વસ <br>C. પાવો <br>D. કોલમ્બા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોર્વસ-કાગડો, કોલમ્બા-કબૂતર, પાવો-પાંખ (મોર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A (મૃદુકાય - મુખ અંગ) ને વિભાગ B (લક્ષણ) સાથે જોડો: <br>1. રેત્રિકા (Radula) <br>2. પ્રાવર (Mantle) <br><br>વિભાગ B: <br>A. નરમ ત્વચાનું સ્તર <br>B. કરવત જેવું અંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેત્રિકા - રેતવાની કરવત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A (સજીવ) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. સી-પેન <br>2. સી-લીલી <br>3. સી-ફેન <br>4. સી-અર્ચિન <br><br>વિભાગ B: <br>A. શૂળત્વચી <br>B. કોષ્ઠાંત્રિ <br>C. શૂળત્વચી <br>D. કોષ્ઠાંત્રિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેન અને પંખો કોષ્ઠાંત્રિમાં, લીલી અને અર્ચિન શૂળત્વચીમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A (તાપમાન નિયમન) ને વિભાગ B (વર્ગ) સાથે જોડો: <br>1. અસમતાપી (Poikilotherm) <br>2. સમતાપી (Homeotherm) <br><br>વિભાગ B: <br>A. પક્ષીઓ અને સસ્તન <br>B. મત્સ્ય, ઉભયજીવી, સરીસૃપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ લોહીવાળા (સમતાપી) - ઉડી શકે અને દૂધ પીવડાવે તે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A (સૂત્રકૃમિ રોગ) ને વિભાગ B (કારક) સાથે જોડો: <br>1. હાથીપગો <br>2. કરમિયાં <br><br>વિભાગ B: <br>A. એસ્કેરિસ <br>B. વુકેરેરિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વુકેરિયા = હાથી જેવો વજનદાર પગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A (અસ્થિમત્સ્ય) ને વિભાગ B (નામ) સાથે જોડો: <br>1. એક્ઝોસીટસ <br>2. હીપ્પોકેમ્પસ <br>3. કટલા <br>4. ટેરોફાયલમ <br><br>વિભાગ B: <br>A. સમુદ્ર ઘોડો <br>B. ઉડતી માછલી <br>C. એન્જલ ફિશ <br>D. કટલા (મીઠું જળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક્ઝો-એક્ઝિટ (ઉડવું), હીપ્પો-ઘોડો, ટેરો-એન્જલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A (ખંડન) ને વિભાગ B (ઉદાહરણ) સાથે જોડો: <br>1. સાચું ખંડન (Metamerism) <br>2. ખંડન ગેરહાજર <br><br>વિભાગ B: <br>A. મૃદુકાય <br>B. નૂપુરક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૂપુર (ઝાંઝર) માં કડીઓ (ખંડ) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A (પરજીવી) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. અંતઃપરજીવી <br>2. બાહ્યપરજીવી <br><br>વિભાગ B: <br>A. માછલી પરની ચુષમુખા <br>B. પૃથુકૃમિ (પટ્ટીકીડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃમિ પેટની અંદર, ચુષમુખા માછલીની બહાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A (મત્સ્યના પ્રકાર) ને વિભાગ B (લક્ષણ) સાથે જોડો: <br>1. કાસ્થિમત્સ્ય <br>2. અસ્થિમત્સ્ય <br><br>વિભાગ B: <br>A. વાતાશય હાજર <br>B. વાતાશય ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્થિવાળી માછલી (રોહુ) તરે, કાસ્થિવાળી (શાર્ક) ડૂબી જાય જો તરવાનું બંધ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A (જડબા) ને વિભાગ B (જૂથ) સાથે જોડો: <br>1. હનુવિહીન (Agnatha) <br>2. હનુધારી (Gnathostomata) <br><br>વિભાગ B: <br>A. ચુષમુખા <br>B. મત્સ્ય થી સસ્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્નાથા - No Jaw, જ્ઞાથો - With Jaw!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A (સંધિપાદના શ્વસન અંગ) ને વિભાગ B (ઉદાહરણ) સાથે જોડો: <br>1. ઝાલરો (Gills) <br>2. બુક ગિલ્સ (Pustak Jalar) <br>3. શ્વાસનલિકા તંત્ર <br><br>વિભાગ B: <br>A. વંદો <br>B. કરચલો <br>C. કિંગ ક્રેબ (લિમુલસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિંગ પાસે બુક હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A (કવચ) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. કેલ્શિયમનું કવચ <br>2. કાઈટિનનું બહિકંકાલ <br>3. અસ્થિનું બહિકંકાલ (ભીંગડા) <br><br>વિભાગ B: <br>A. માછલી <br>B. મૃદુકાય <br>C. સંધિપાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુ-કેલ્શિયમ, સંધિ-કાઈટિન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A (પ્રજનન) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. અંડપ્રસવી <br>2. અપત્યપ્રસવી <br><br>વિભાગ B: <br>A. કાંગારુ, માણસ <br>B. પક્ષી, મગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંડ - ઈંડા, અપત્ય - બચ્ચા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A (લક્ષણ) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. જૈવ-પ્રદીપ્તિ (Bioluminescence) <br>2. જળ પરિવહન તંત્ર <br>3. જલવાહક તંત્ર <br><br>વિભાગ B: <br>A. શૂળત્વચી <br>B. કંકતધરા <br>C. સછિદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંકત ચમકે (Light), શૂળત્વચીમાં નહેર (Water Vascular), સછિદ્રમાં કેનાલ (Water Canal)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A (વર્ગ) ને વિભાગ B (વિશિષ્ટ લક્ષણ) સાથે જોડો: <br>1. ઉભયજીવી <br>2. સરીસૃપ <br>3. વિહગ <br>4. સસ્તન <br><br>વિભાગ B: <br>A. ત્વચા પર વાળ <br>B. વાતાશય ધરાવતા હાડકાં (વાતલ) <br>C. લપલપતી ત્વચા <br>D. શુષ્ક અને શૃંગીય ત્વચા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-D, 3-B, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભય-ભીનું, સરીસૃપ-સૂકું, પક્ષી-હલકું, સસ્તન-વાળાળું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A (સામાન્ય નામ) ને વિભાગ B (વૈજ્ઞાનિક નામ) સાથે જોડો: <br>1. કરચલો <br>2. વંદો <br>3. તીડ <br>4. વીંછી <br><br>વિભાગ B: <br>A. પેરીપ્લેનેટા <br>B. લિમોનસ <br>C. લોકસ્ટા <br>D. પેલેમનિયસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરી-વંદો, લોકસ્ટ-તીડ, પેલેમનિયસ-વીંછી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A (લક્ષણ) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. સમખંડતા <br>2. સાંધાવાળા ઉપાંગો <br>3. કોમળ શરીર <br><br>વિભાગ B: <br>A. મૃદુકાય <br>B. સંધિપાદ <br>C. નૂપુરક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંધિ એટલે સાંધા, મૃદુ એટલે કોમળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A (સસ્તન - વૈજ્ઞાનિક નામ) ને વિભાગ B (સામાન્ય નામ) સાથે જોડો: <br>1. પેન્થેરા લીઓ <br>2. પેન્થેરા ટાઈગ્રીસ <br>3. કેનિસ <br>4. ફેલિસ <br><br>વિભાગ B: <br>A. વાઘ <br>B. સિંહ <br>C. બિલાડી <br>D. કુતરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીઓ-લાયન, ટાઈગ્રીસ-ટાઈગર, કેનિસ-કેનાઈન (કુતરો)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A (સ્થાન) ને વિભાગ B (પ્રાણી) સાથે જોડો: <br>1. સામુદ્રિક <br>2. મીઠા જળ <br>3. બંને (સ્થળજ/જલજ) <br><br>વિભાગ B: <br>A. દેડકો <br>B. શાર્ક <br>C. હાઈડ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મત્સ્ય દરિયામાં, હાઈડ્રા નદીમાં, દેડકો બંનેમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A (પૃથુકૃમિ લક્ષણ) ને વિભાગ B (કાર્ય) સાથે જોડો: <br>1. અંકુશ (Hooks) <br>2. ચુષકો (Suckers) <br><br>વિભાગ B: <br>A. પોષકતત્ત્વોનું શોષણ <br>B. યજમાન સાથે ચોંટવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકુશ ભરાવવા માટે, ચુષક લોહી પીવા માટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A (શૂળત્વચી) ને વિભાગ B (ગતિવિધિ) સાથે જોડો: <br>1. પ્રચલન <br>2. ખોરાક પકડવો <br>3. શ્વસન <br><br>વિભાગ B: <br>A. જલવાહક તંત્ર દ્વારા <br>B. નાલપાદ (Tube feet) દ્વારા <br>C. જલવાહક તંત્ર દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાલપાદ એટલે 'પગ' જે ચાલવામાં મદદ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A (સાસ્થિમત્સ્ય ઝાલર) ને વિભાગ B (સંખ્યા/લક્ષણ) સાથે જોડો: <br>1. કાસ્થિમત્સ્ય ઝાલર <br>2. અસ્થિમત્સ્ય ઝાલર <br><br>વિભાગ B: <br>A. 4 જોડ, ઝાલર ઢાંકણ ધરાવે <br>B. 5-7 જોડ, ઝાલર ઢાંકણ વગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્થિ (Advanced) - ઢાંકણવાળી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A (મેરુદંડી લક્ષણ) ને વિભાગ B (વર્ણન) સાથે જોડો: <br>1. પૃષ્ઠ ચેતારજ્જુ <br>2. ઝાલરફાટ <br>3. હૃદય <br><br>વિભાગ B: <br>A. કંઠનાલીય સ્તરે <br>B. વક્ષ બાજુએ <br>C. પોલા અને એકવડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતા પાછળ (Back), હૃદય આગળ (Front)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A (ઉભયજીવી અંગ) ને વિભાગ B (કાર્ય) સાથે જોડો: <br>1. કર્ણપટલ <br>2. અવસારણી <br>3. પલ્મોનરી <br><br>વિભાગ B: <br>A. ઉત્સર્જન અને પ્રજનન માર્ગનું જોડાણ <br>B. કાન તરીકે કાર્ય <br>C. ફેફસાં દ્વારા શ્વસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કર્ણ - કાન, અવસારણી - કોમન હોલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A (મૃદુકાય - વર્ગ) ને વિભાગ B (ઉદાહરણ) સાથે જોડો: <br>1. એપ્લાયસિયા <br>2. ડેન્ટેલિયમ <br>3. ચાેટોપ્લુરા <br><br>વિભાગ B: <br>A. હાથીદાંત જેવું કવચ <br>B. સમુદ્ર સસલું <br>C. કાઈટોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એપ્લાયસિયા-રેબિટ, ડેન્ટા-દાંત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A (સજીવ) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. સી-એનિમોન <br>2. સી-વોલનટ <br><br>વિભાગ B: <br>A. કંકતધરા <br>B. કોષ્ઠાંત્રિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અખરોટ (Walnut) કંકતધરામાં હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A (સસ્તન ઉદાહરણ) ને વિભાગ B (નામ) સાથે જોડો: <br>1. મેક્રોપસ <br>2. ટેરોપસ <br>3. કેમલસ <br>4. મેકાકા <br><br>વિભાગ B: <br>A. ચામાચીડિયું <br>B. કાંગારુ <br>C. વાંદરો <br>D. ઊંટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેક્રો-કાંગારુ, ટેરો-ફ્લાઈંગ, કેમલ-ઊંટ, મેકાકા-મંકી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A (મેરુદંડી) ને વિભાગ B (ઉદાહરણ) સાથે જોડો: <br>1. એસિડિયા <br>2. એમ્ફિઓક્સસ <br><br>વિભાગ B: <br>A. શીર્ષમેરુદંડી <br>B. પૂચ્છમેરુદંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એ' 'સી' માં પૂંછડી, એમ્ફિ માં આખું શરીર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A (ચુષમુખા) ને વિભાગ B (નામ) સાથે જોડો: <br>1. પેટ્રોમાયઝોન <br>2. મિક્સિન <br><br>વિભાગ B: <br>A. હેગ ફિશ <br>B. લેમ્પ્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટ્રો-લેમ્પ (પેટ્રોલનો લેમ્પ), મિક્સિન-હેગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A (સરીસૃપ) ને વિભાગ B (નામ) સાથે જોડો: <br>1. કેલોન <br>2. હેમીડેક્ટાઇલસ <br>3. ક્રોકોડાયલસ <br><br>વિભાગ B: <br>A. મગર <br>B. દરિયાઈ કાચબો <br>C. ગરોળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોકો-મગર, કેલોન-ટર્ટલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A (વિહગ) ને વિભાગ B (નામ) સાથે જોડો: <br>1. સ્ટ્રુથિયો <br>2. એપ્ટેનોડાઈટ્સ <br>3. ન્યોફ્રોન <br><br>વિભાગ B: <br>A. ગીધ <br>B. શાહમૃગ <br>C. પેંગ્વિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટ્રુ-શાહમૃગ, એપ્ટે-પેંગ્વિન, ન્યો-ગીધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A (સાપ) ને વિભાગ B (પ્રકાર) સાથે જોડો: <br>1. નાજા (નાગ) <br>2. બંગારસ (કિલ્લત) <br>3. વાઈપેરા <br><br>વિભાગ B: <br>A. ઝેરી <br>B. ઝેરી <br>C. ઝેરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C (ત્રણેય ઝેરી સાપ છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાગ-કરૈત-વાઈપર, ત્રણેય કરે હાઈપર (ઝેરી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A (દેહજળ) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. પાણીનો પ્રવાહ (Canal system) <br>2. રુધિરાભિસરણ તંત્ર <br><br>વિભાગ B: <br>A. નૂપુરક થી મેરુદંડી <br>B. સછિદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળીમાં પાણી, વંદામાં લોહી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A (પ્લેટીહેલ્મિન્થિસ) ને વિભાગ B (લક્ષણ) સાથે જોડો: <br>1. પૃષ્ઠ-વક્ષીય ચપટું શરીર <br>2. પુનઃજનન શક્તિ <br><br>વિભાગ B: <br>A. પ્લેનેરિયા <br>B. પૃથુકૃમિ સમુદાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચપટું એટલે પૃથુ, ફરી ઉગે તે પ્લેનેરિયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A (ગર્ભસ્તરીય આયોજન) ને વિભાગ B (મધ્યસ્તરની સ્થિતિ) સાથે જોડો: <br>1. દ્વિગર્ભસ્તરી <br>2. ત્રિગર્ભસ્તરી <br><br>વિભાગ B: <br>A. મધ્યસ્તર હાજર <br>B. મધ્યશ્લેષ સ્તર (Mesoglea)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેલી જેવું સ્તર એટલે દ્વિગર્ભસ્તરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A (કાસ્થિમત્સ્ય પ્રજનન) ને વિભાગ B (લક્ષણ) સાથે જોડો: <br>1. નર પેલ્વિક ફિન ક્લેસ્પર્સ ધરાવે <br>2. અંતઃફલન અને અપત્યપ્રસવી <br><br>વિભાગ B: <br>A. પ્રજનન પદ્ધતિ <br>B. નરની ઓળખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લેસ્પર્સ એટલે નર શાર્ક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A (અસ્થિમત્સ્ય હૃદય) ને વિભાગ B (ખંડો) સાથે જોડો: <br>1. કર્ણક <br>2. ક્ષેપક <br><br>વિભાગ B: <br>A. એક <br>B. એક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B (કુલ 2 ખંડો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મત્સ્યમાં 1K + 1X = 2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A (સજીવ) ને વિભાગ B (કંકાલ) સાથે જોડો: <br>1. સછિદ્ર <br>2. શૂળત્વચી <br>3. પૃષ્ઠવંશી <br><br>વિભાગ B: <br>A. કેલ્શિયમયુક્ત અસ્થિકાઓ <br>B. કરોડસ્તંભ <br>C. સ્પોન્જીન રેસા/કંટિકાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પોન્જ-વાદળી, શૂળ-કેલ્શિયમ, વંશી-સ્તંભ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A (સસ્તન - પાદ) ને વિભાગ B (રૂપાંતર) સાથે જોડો: <br>1. ચાલવા, દોડવા <br>2. તરવા માટે <br>3. ઉડવા માટે <br><br>વિભાગ B: <br>A. ચામાચીડિયું <br>B. વ્હેલ <br>C. સિંહ/ઘોડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવો દેશ એવો વેશ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A (સમુદાય) ને વિભાગ B (લાર્વા/ડિંભ) સાથે જોડો: <br>1. અપ્રત્યક્ષ વિકાસ <br>2. પ્રત્યક્ષ વિકાસ <br><br>વિભાગ B: <br>A. ડિંભ અવસ્થા ગેરહાજર <br>B. ડિંભ અવસ્થા હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રત્યક્ષ એટલે સીધું (No Larva)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A (હેમીકોર્ડેટા) ને વિભાગ B (શરીરના ભાગો) સાથે જોડો: <br>1. સુંઢ (Proboscis) <br>2. ગ્રીવા (Collar) <br>3. ધડ (Trunk) <br><br>વિભાગ B: <br>A. મધ્ય ભાગ <br>B. અગ્ર ભાગ <br>C. પશ્ચ ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુંઢ આગળ, ગ્રીવા વચ્ચે, ધડ પાછળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A (કાસ્થિમત્સ્ય) ને વિભાગ B (વિશિષ્ટ અંગ) સાથે જોડો: <br>1. ટોર્પિડો <br>2. ટ્રાયગોન <br><br>વિભાગ B: <br>A. ઝેરી ડંખ <br>B. ઇલેક્ટ્રિક અંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોર્પિડો - ટોર્ચ (Current), ટ્રાયગોન - ટીપ (ઝેર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A (સંવેદી અંગ) ને વિભાગ B (સમુદાય) સાથે જોડો: <br>1. સ્પર્શકો અને સાદા/સંયુક્ત નેત્ર <br>2. સ્ટેટોસિટ્સ (સંતુલન અંગ) <br><br>વિભાગ B: <br>A. સંધિપાદ <br>B. મૃદુકાય અને સંધિપાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેટોસિટ્સ એટલે સંતુલન રાખતી સીટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A (સછિદ્ર નહેર તંત્ર) ને વિભાગ B (પાણીનો માર્ગ) સાથે જોડો: <br>1. ઓસ્ટિયા <br>2. સ્પોન્જોસીલ <br>3. ઓસ્કુલમ <br><br>વિભાગ B: <br>A. મધ્યસ્થ ગુહા <br>B. બહાર જવાનો માર્ગ <br>C. અંદર આવવાનો માર્ગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' for In (Ostia), 'O' for Out (Osculum)!</p></div>"
+    }
+  ]
+}

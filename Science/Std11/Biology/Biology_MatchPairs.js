@@ -1823,3 +1823,361 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સપુષ્પી વનસ્પતિઓની અંતઃસ્થ રચના",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: વર્ધનશીલ પેશીના પ્રકાર | વિભાગ B: સ્થાન\n(1) અગ્રસ્થ વર્ધનશીલ પેશી (A) પરિપક્વ પેશીઓની વચ્ચે\n(2) આંતરવિષ્ટ વર્ધનશીલ પેશી (B) મૂળ અને પ્રરોહના અગ્રભાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અગ્ર' એટલે આગળનો ભાગ (ટોચ) અને 'આંતર' એટલે વચ્ચેનો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: પેશીના પ્રકાર | વિભાગ B: લાક્ષણિકતા\n(1) સાદી પેશી (A) એક કરતા વધુ પ્રકારના કોષોની બનેલી\n(2) જટિલ પેશી (B) રચના અને કાર્યમાં સમાન કોષોની બનેલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદું એટલે 'Same' (સમાન), જટિલ એટલે 'Jumble' (વિવિધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: મૃદૂતક પેશી | વિભાગ B: કાર્ય\n(1) હરિતકણો ધરાવતી મૃદૂતક (A) ખોરાક સંગ્રહ, સ્ત્રાવ\n(2) સામાન્ય મૃદૂતક (B) પ્રકાશસંશ્લેષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરિત' એટલે લીલું, જે પ્રકાશસંશ્લેષણ માટે જવાબદાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: સ્થૂલકોણક પેશી | વિભાગ B: સ્થૂલન દ્રવ્ય\n(1) ખૂણાના ભાગે સ્થૂલન (A) લિગ્નિન\n(2) કોષદીવાલ પર જમાવટ (B) સેલ્યુલોઝ, હેમીસેલ્યુલોઝ અને પેક્ટિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A (નોંધ: સ્થૂલકોણકમાં પેક્ટિન મુખ્ય છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થૂલ-પેક્ટિન' (સ્થૂલકોણક માં પેક્ટિન હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: દ્રઢોતક પેશીના પ્રકાર | વિભાગ B: આકાર\n(1) તંતુઓ (A) ગોળાકાર, અંડાકાર કે નળાકાર\n(2) અષ્ઠિકોષો (Sclereids) (B) લાંબા અને અણીદાર છેડાવાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તંતુ' એટલે દોરી જેવું લાંબુ, 'અષ્ઠિ' એટલે પથ્થર જેવું ગોળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: જલવાહક પેશીના ઘટકો | વિભાગ B: જીવંત/નિર્જીવ\n(1) જલવાહક મૃદૂતક (A) નિર્જીવ કોષો\n(2) જલવાહિની અને જલવાહિનિકી (B) જીવંત કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશીમાં 'મૃદૂતક' શબ્દ આવે એટલે તે હંમેશા જીવંત જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: જલવાહિનિકી | વિભાગ B: લક્ષણ\n(1) જલવાહિનિકી (A) નળાકાર છિદ્રિષ્ટ રચના\n(2) જલવાહિની (B) અણીદાર છેડાવાળી નલિકાકાર રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિકી' નાની અને અણીદાર, 'વાહિની' મોટી અને નળાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: અન્નવાહક પેશીના ઘટકો | વિભાગ B: કાર્ય\n(1) ચાલની નલિકા (A) ચાલની નલિકાના દાબ ઢોળાંશનું નિયંત્રણ\n(2) સાથી કોષો (B) ખોરાકનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથી કોષો 'સાથ' આપે છે (નિયંત્રણમાં મદદ કરે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: જલવાહકનું ગોઠવણી | વિભાગ B: ઉદાહરણ\n(1) અંતરારંભી (Endarch) (A) મૂળ\n(2) બહિરારંભી (Exarch) (B) પ્રકાંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Stem' માં 'E' (Endarch), 'Root' માં 'Ex' (Exarch) - રિવર્સ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: અન્નવાહક મૃદૂતક | વિભાગ B: ગેરહાજરી\n(1) દ્વિદળી વનસ્પતિ (A) અન્નવાહક મૃદૂતક ગેરહાજર\n(2) મોટાભાગની એકદળી વનસ્પતિ (B) અન્નવાહક મૃદૂતક હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીમાં અન્નવાહક મૃદૂતક 'એબ્સન્ટ' (Absent) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: અધિસ્તરીય અંગિકાઓ | વિભાગ B: કાર્ય\n(1) વાયુરંધ્ર (A) બાષ્પોત્સર્જન અટકાવવું\n(2) ક્યુટિકલ (B) વાયુ વિનિમય અને બાષ્પોત્સર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંધ્ર એટલે કાણું, જેમાંથી ગેસની આપ-લે થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: રક્ષક કોષોનો આકાર | વિભાગ B: વનસ્પતિનો પ્રકાર\n(1) વાલ આકારના (A) ઘાસ (એકદળી)\n(2) ડમ્બેલ આકારના (B) દ્વિદળી વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘાસ-ડમ્બેલ' (ઘાસ ઉગાડવા ડમ્બેલ ઉંચકવા પડે એમ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: અધિસ્તરીય રોમ | વિભાગ B: વિશેષતા\n(1) મૂળરોમ (A) બહુકોષીય અને શાખિત/અશાખિત\n(2) ત્વચા રોમ (Trichomes) (B) એકકોષીય અને શોષણકર્તા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ 'એક' જ હોય (એકકોષીય), પ્રકાંડ રોમ 'બહુ' હોય (બહુકોષીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: વાહીપુલોના પ્રકાર | વિભાગ B: લાક્ષણિકતા\n(1) અરીય વાહીપુલ (A) જલવાહક અને અન્નવાહક એક જ ત્રિજ્યા પર\n(2) સહસ્થ વાહીપુલ (B) જલવાહક અને અન્નવાહક જુદી જુદી ત્રિજ્યા પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીય = અલગ-અલગ (Radius).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: વાહીપુલ | વિભાગ B: વનસ્પતિ અંગ\n(1) વર્ધમાન વાહીપુલ (A) એકદળી પ્રકાંડ\n(2) અવર્ધમાન વાહીપુલ (B) દ્વિદળી પ્રકાંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ધમાન = એધા હાજર = દ્વિદળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: દ્વિદળી મૂળ | વિભાગ B: સ્તરનું નામ\n(1) અંતઃસ્તર (A) કેસ્પેરિયન પટ્ટિકાઓ ધરાવે\n(2) પરિચક્ર (B) પાશ્વીય મૂળનો ઉદ્ભવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃસ્તર = એન્ટ્રી ગેટ (કેસ્પેરિયન પટ્ટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: જલવાહક પુલોની સંખ્યા | વિભાગ B: ઉદાહરણ\n(1) દ્વિસૂત્રી થી ચતુસૂત્રી (A) એકદળી મૂળ\n(2) બહુસૂત્રી (Polyarch) (B) દ્વિદળી મૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીમાં 'એકડા' જેવું નહીં પણ 'બહુ' બધા પુલો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: પ્રકાંડ અધઃસ્તર | વિભાગ B: પેશીનો પ્રકાર\n(1) દ્વિદળી પ્રકાંડ (A) દ્રઢોતક પેશી\n(2) એકદળી પ્રકાંડ (B) સ્થૂલકોણક પેશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી - સ્થૂલકોણક (D-S), એકદળી - દ્રઢોતક (E-D).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: મધ્યગર્ભ (Pith) | વિભાગ B: હાજરી/વિકાસ\n(1) દ્વિદળી મૂળ (A) સુવિકસિત અને મોટું\n(2) એકદળી મૂળ (B) અલ્પવિકસિત કે નાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળમાં એકદળીનું મધ્યગર્ભ મોટું હોય (M-M).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: દ્વિદળી પ્રકાંડના વાહીપુલ | વિભાગ B: ગોઠવણી\n(1) વલય આકારની ગોઠવણી (A) એકદળી પ્રકાંડ\n(2) વિખરાયેલા વાહીપુલો (B) દ્વિદળી પ્રકાંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી શિસ્તબદ્ધ (વલય), એકદળી અસ્તવ્યસ્ત (વિખરાયેલા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: પર્ણના પ્રકાર | વિભાગ B: નામ\n(1) પૃષ્ઠવક્ષીય પર્ણ (A) એકદળી પર્ણ\n(2) સમદ્વિપાર્શ્વ પર્ણ (B) દ્વિદળી પર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠવક્ષીય (Dorsiventral) = D = Dicot.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: મધ્યપર્ણ પેશી (Mesophyll) | વિભાગ B: કોષોના પ્રકાર\n(1) લંબોતક અને શિથિલોતક (A) એકદળી પર્ણ\n(2) અવિભેદિત મધ્યપર્ણ પેશી (B) દ્વિદળી પર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળીમાં બે પ્રકારના કોષો (લંબોતક + શિથિલોતક) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: ભેજગ્રાહી કોષો (Bulliform cells) | વિભાગ B: કાર્ય\n(1) ઘાસના પર્ણોનું વલન (A) પર્ણ ફેલાયેલું રહે\n(2) કોષો આશૂન હોય ત્યારે (B) પર્ણ વળી જાય (પાણી બચાવવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bulliform = Balloon (પાણી ભરાય તો ફૂલે/ફેલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: એધા વલય | વિભાગ B: ઉદ્ભવ\n(1) અંતઃપુલિય એધા (A) મજ્જાકિરણોના કોષોમાંથી\n(2) આંતરપુલિય એધા (B) જલવાહક અને અન્નવાહકની વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતઃ' એટલે અંદર (વાહીપુલની અંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: કાષ્ઠના પ્રકાર | વિભાગ B: સમયગાળો\n(1) વસંત કાષ્ઠ (A) શિયાળામાં (ઓછી સક્રિય એધા)\n(2) શરદ કાષ્ઠ (B) વસંતઋતુમાં (વધુ સક્રિય એધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસંતમાં બધું ખીલે (વધુ સક્રિય), શરદમાં સુકાય (ઓછી સક્રિય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: મધ્યકાષ્ઠ અને રસકાષ્ઠ | વિભાગ B: ગુણધર્મ\n(1) મધ્યકાષ્ઠ (Heartwood) (A) આછા રંગનું અને વહનક્ષમ\n(2) રસકાષ્ઠ (Sapwood) (B) ઘેરા રંગનું અને મજબૂત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heart (હૃદય) અંદર હોય અને મજબૂત હોય (મધ્યકાષ્ઠ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: ત્વક્ષૈધાના સ્તરો | વિભાગ B: અન્ય નામ\n(1) ત્વક્ષા (A) ફેલોડર્મ\n(2) દ્વિતીયક બાહ્યક (B) ફેલમ (Cork)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phellem (ત્વક્ષા) બહાર, Phelloderm (બાહ્યક) અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: વાયુરંધ્ર જેવા પ્રકાંડના છિદ્રો | વિભાગ B: નામ\n(1) પર્ણ પરના છિદ્રો (A) વાયુરંધ્ર (Stomata)\n(2) કાષ્ઠીય પ્રકાંડના છિદ્રો (B) વાતરંધ્ર (Lenticels)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતરંધ્ર 'વાત' (વાયુ) ની આપ-લે પ્રકાંડમાં કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: પેશી તંત્ર | વિભાગ B: પેશીઓનો સમાવેશ\n(1) અધિસ્તરીય પેશીતંત્ર (A) બાહ્યક, મધ્યગર્ભ, પરિચક્ર\n(2) મૂળભૂત પેશીતંત્ર (B) અધિસ્તર, રોમ, વાયુરંધ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધિસ્તર એટલે 'સ્કિન' (Skin), મૂળભૂત એટલે બાકીનું બધું 'માંસ' (Flesh).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: દ્વિદળી મૂળમાં એધા | વિભાગ B: સ્થાન\n(1) દ્વિતીયક એધાનો ઉદ્ભવ (A) સંપૂર્ણપણે દ્વિતીયક\n(2) પ્રાથમિક એધાની હાજરી (B) ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળમાં એધા પહેલેથી હોતી નથી, પછી બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: જલવાહક મૃદૂતક | વિભાગ B: પદાર્થ સંગ્રહ\n(1) મુખ્ય સંગ્રહ (A) ટેનિન\n(2) અન્ય પદાર્થો (B) સ્ટાર્ચ કે ચરબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃદુ' કોષો હંમેશા 'સ્ટાર્ચ' સંગ્રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: પ્રકાંડના વાહીપુલ | વિભાગ B: પ્રકાર\n(1) દ્વિદળી પ્રકાંડ (A) સહસ્થ અને વિવૃત (Open)\n(2) એકદળી પ્રકાંડ (B) સહસ્થ અને સંવૃત (Closed)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી 'Open-minded' (વિવૃત) કારણ કે તેમાં એધા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: જલવાહક અને અન્નવાહક | વિભાગ B: અન્ય નામ\n(1) જલવાહક (A) લેપ્ટોમ (Leptome)\n(2) અન્નવાહક (B) હેડ્રોમ (Hadrome)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H for Hadrome, H for H2O (જલવાહક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: કાષ્ઠીય વનસ્પતિની છાલ | વિભાગ B: પ્રકાર\n(1) વહેલી છાલ (A) સખત (Hard bark)\n(2) પાછલી છાલ (B) નરમ (Soft bark)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહેલા ઉઠો તો 'નરમ' મન હોય, મોડા (પાછળથી) ઉઠો તો મગજ 'સખત' (ગરમ) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: જલવાહિની અને જલવાહિનિકી | વિભાગ B: હાજરી\n(1) આવૃત બીજધારી (A) માત્ર જલવાહિનિકી (મોટેભાગે)\n(2) અનાવૃત બીજધારી (B) જલવાહિની અને જલવાહિનિકી બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાવૃત પાસે જલવાહિની હોતી નથી (અપવાદ સિવાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: અન્નવાહક પેશીના ઘટકો | વિભાગ B: કોષકેન્દ્રની સ્થિતિ\n(1) પરિપક્વ ચાલની નલિકા (A) કોષકેન્દ્ર હાજર\n(2) સાથી કોષો (B) કોષકેન્દ્ર ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાલની નલિકા 'ખોખલી' હોય છે, સાથી કોષ પાસે મગજ (કેન્દ્ર) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: અન્નવાહકના પ્રકાર | વિભાગ B: પ્રથમ નિર્મિત\n(1) પ્રોટોફ્લોએમ (A) મોટા વ્યાસવાળી ચાલની નલિકા\n(2) મેટાફ્લોએમ (B) સાંકડી ચાલની નલિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રોટો' એટલે પહેલાનું અને નાનું, 'મેટા' એટલે મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: જલવાહકના પ્રકાર | વિભાગ B: પ્રોટોઝાયલમનું સ્થાન\n(1) અંતરારંભી (A) પરિઘ તરફ\n(2) બહિરારંભી (B) કેન્દ્ર તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતરારંભી = અંદર (કેન્દ્ર) તરફ પ્રોટોઝાયલમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: સૂર્યમુખી પ્રકાંડ | વિભાગ B: અધઃસ્તરની પેશી\n(1) સૂર્યમુખી (દ્વિદળી) (A) દ્રઢોતક\n(2) મકાઈ (एकદળી) (B) સ્થૂલકોણક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યમુખી 'સ' થી શરૂ થાય તો જવાબ 'સ્થૂલકોણક' (સ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: વાહીપુલ ફરતે આવેલું આવરણ | વિભાગ B: નામ\n(1) એકદળી પ્રકાંડ (A) વાહીપુલ આચ્છાદ (Bundle sheath)\n(2) દ્વિદળી પ્રકાંડ (B) આવરણ ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીમાં રક્ષણ માટે બંડલ શીથ (કવર) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: દ્વિદળી પ્રકાંડ | વિભાગ B: સ્તરના લક્ષણો\n(1) અંતઃસ્તર (A) અર્ધચંદ્રાકાર દ્રઢોતક પેશીના સમૂહ\n(2) પરિચક્ર (B) સ્ટાર્ચ કણ સ્તર (Starch sheath)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાંડના અંતઃસ્તરમાં સ્ટાર્ચ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: દ્વિદળી પર્ણ (ઉપર-નીચેનું અધિસ્તર) | વિભાગ B: વાયુરંધ્રની સંખ્યા\n(1) ઉપરી અધિસ્તર (A) વધુ સંખ્યામાં વાયુરંધ્ર\n(2) અધઃ અધિસ્તર (B) ઓછા અથવા ગેરહાજર વાયુરંધ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચેના ભાગે (અધઃ) છાંયો હોય એટલે પાણી બચાવવા ત્યાં વધુ વાયુરંધ્ર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: વનસ્પતિ કોષો | વિભાગ B: આકાર\n(1) લંબોતક મૃદૂતક (A) લંબગોળ કે ગોળ, શિથિલ ગોઠવણી\n(2) શિથિલોતક મૃદૂતક (B) લાંબા અને સ્તંભાકાર, ચુસ્ત ગોઠવણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબોતક = લાંબા (Pillar like).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: કાષ્ઠીય વલયો | વિભાગ B: ગણતરી\n(1) વાર્ષિક વલયો (A) વનસ્પતિની ઊંચાઈ\n(2) વલયોની સંખ્યા (B) વનસ્પતિની ઉંમર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - B (બંને ઉંમર દર્શાવે છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વલય = વર્ષ (Dendrochronology).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: દ્વિતીયક વૃદ્ધિ | વિભાગ B: જવાબદાર પેશી\n(1) ઘેરાવામાં વૃદ્ધિ (A) અગ્રસ્થ વર્ધનશીલ પેશી\n(2) ઊંચાઈમાં વૃદ્ધિ (B) પાશ્વીય વર્ધનશીલ પેશી (એધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાશ્વીય (Lateral) એટલે જાડાઈ વધારવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: પરિચક્રનું કાર્ય | વિભાગ B: અંગ\n(1) મૂળનું પરિચક્ર (A) માત્ર યાંત્રિક મજબૂતી\n(2) પ્રકાંડનું પરિચક્ર (B) એધા અને પાશ્વીય મૂળનું નિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળમાં પરિચક્ર 'બહુકામી' (Multi-tasker) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: પેશીની જીવંતતા | વિભાગ B: ઘટકો\n(1) અન્નવાહક તંતુઓ (A) જીવંત ઘટક\n(2) અન્નવાહક મૃદૂતક (B) નિર્જીવ ઘટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ 'તંતુ' (Fiber) હંમેશા નિર્જીવ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: દ્વિદળી પ્રકાંડના બાહ્યક સ્તરો (બહારથી અંદર) | વિભાગ B: સ્તર\n(1) પ્રથમ સ્તર (A) સામાન્ય બાહ્યક (મૃદૂતક)\n(2) દ્વિતીય સ્તર (B) અધઃસ્તર (સ્થૂલકોણક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધિસ્તરની તરત નીચે 'અધઃ'સ્તર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: વાહીપુલની સંખ્યા | વિભાગ B: વનસ્પતિ\n(1) 2 થી 4 વાહીપુલ (A) એકદળી મૂળ\n(2) 6 થી વધુ વાહીપુલ (B) દ્વિદળી મૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી મૂળ = ઓછા (2-4), એકદળી મૂળ = ઘણા બધા (Polyarch).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: અન્નવાહક તંતુઓનું અન્ય નામ | વિભાગ B: નામ\n(1) અન્નવાહક તંતુઓ (A) કાષ્ઠ તંતુઓ\n(2) જલવાહક તંતુઓ (B) બાસ્ટ તંતુઓ (Bast fibers)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phloem - Ph - Fibers (Bast Fibers).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: એધા વલયની સક્રિયતા | વિભાગ B: નિર્માણ\n(1) અંદરની તરફ (A) દ્વિતીયક અન્નવાહક\n(2) બહારની તરફ (B) દ્વિતીયક જલવાહક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહક (પાણી) મૂળમાંથી અંદરથી ઉપર જાય એટલે અંદર બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: ટેનિન, રેઝિન અને ગુંદર | વિભાગ B: સ્થાન\n(1) સંચય સ્થાન (A) રસકાષ્ઠ\n(2) જમાવટનું સ્થાન (B) મધ્યકાષ્ઠ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - B (બંને મધ્યકાષ્ઠમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યકાષ્ઠ = કચરાપેટી (બધા નકામા પદાર્થો ત્યાં જમા થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: પર્ણના વાહીપુલ | વિભાગ B: કદ\n(1) મધ્યશિરામાં (A) નાના કદના વાહીપુલ\n(2) અન્ય શિરાઓમાં (B) મોટા કદના વાહીપુલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઈન રોડ (મધ્યશિરા) મોટો હોય, ગલીઓ (શિરાઓ) નાની હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: વાતરંધ્રનો આકાર | વિભાગ B: આકાર\n(1) વાતરંધ્ર (A) વર્તુળાકાર\n(2) લેન્સ આકારના (B) વાતરંધ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lenticels = Lens shaped.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: એકદળી પ્રકાંડના વાહીપુલ | વિભાગ B: વિશિષ્ટતા\n(1) પરિઘવર્તી વાહીપુલો (A) કદમાં મોટા\n(2) કેન્દ્રસ્થ વાહીપુલો (B) કદમાં નાના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રમાં સુરક્ષિત અને મોટા હોય, પરિઘ પર ગીચ અને નાના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: કેસ્પેરિયન પટ્ટિકા | વિભાગ B: પદાર્થ\n(1) મીણ જેવો પદાર્થ (A) ક્યુટિન\n(2) જલ-અભેદ્ય પદાર્થ (B) સુબેરીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુબેરીન = Sab (સબ) પાણી રોકી લે (જલ-અભેદ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: દ્વિદળી અને એકદળી પર્ણ | વિભાગ B: શિરાવિન્યાસ\n(1) દ્વિદળી પર્ણ (A) સમાંતર શિરાવિન્યાસ\n(2) એકદળી પર્ણ (B) જલાકાર શિરાવિન્યાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી (ઘાસ) માં લીટીઓ સીધી (સમાંતર) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: પેશી તંત્રનો હિસ્સો | વિભાગ B: પેશી\n(1) જલવાહક અને અન્નવાહક (A) મૂળભૂત પેશી તંત્ર\n(2) મૃદૂતક, સ્થૂલકોણક (B) સંવહન પેશી તંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વહન કરે તે સંવહન (Vascular).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: મજ્જાકિરણો | વિભાગ B: પેશી\n(1) પ્રાથમિક મજ્જાકિરણો (A) મૃદૂતક કોષો\n(2) દ્વિતીયક મજ્જાકિરણો (B) વર્ધનશીલ કોષો (પછી બનેલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિરણો હંમેશા મૃદૂતક કોષોના જ બનેલા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: કાષ્ઠ અને છાલ (Bark) | વિભાગ B: સમાવેશ\n(1) છાલ (Bark) (A) માત્ર જલવાહક\n(2) લાકડું (Wood) (B) સંવહન એધાની બહારની બધી પેશીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A (દ્વિતીયક જલવાહક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bark = બાહ્યક + અન્નવાહક + ત્વક્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: અસ્થિ કોષો (Sclereids) | વિભાગ B: પ્રાપ્તિસ્થાન\n(1) પિઅર (નાસપતી) (A) સખત બીજાવરણ\n(2) કઠોળ (B) માવાદાર ફળના કણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિઅર ખાતી વખતે જે કણીઓ લાગે તે જ અસ્થિકોષો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: જલવાહિની | વિભાગ B: રચનાત્મક એકમ\n(1) જલવાહિની (A) અનેક કોષોના જોડાણથી બનેલી લાંબી નળી\n(2) જલવાહિનિકી (B) એક જ લાંબો કોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાહિની' એ પાઈપલાઈન જેવી છે, જે ઘણા કોષો ભેગા મળીને બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: પ્રોટોઝાયલમનું ભવિષ્ય | વિભાગ B: પ્રકાંડ પ્રકાર\n(1) વિઘટન પામી પોલાણ બનાવે (A) એકદળી પ્રકાંડ (મકાઈ)\n(2) અકબંધ રહે (B) દ્વિદળી પ્રકાંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળીમાં પાણીના પોલાણ (Water cavities) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: હરિતકણ ધરાવતા કોષો | વિભાગ B: પેશી\n(1) રક્ષક કોષો (A) હરિતકણો ધરાવે\n(2) અન્ય અધિસ્તરીય કોષો (B) સામાન્ય રીતે હરિતકણનો અભાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધિસ્તરમાં માત્ર 'રક્ષક' પાસે જ 'રંગ' (હરિતકણ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: મૂળભૂત પેશીના ઘટકો | વિભાગ B: પર્ણ\n(1) પર્ણની મૂળભૂત પેશી (A) મધ્યપર્ણ પેશી (Mesophyll)\n(2) પ્રકાંડની મૂળભૂત પેશી (B) બાહ્યક અને મજ્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણના કિસ્સામાં ગ્રાઉન્ડ ટિશ્યુ એટલે મેસોફિલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: દ્વિદળી મૂળ | વિભાગ B: સ્તર\n(1) અંતઃસ્તરની અંદરનો ભાગ (A) મધ્યરંભ (Stele)\n(2) વાહીપુલોની વચ્ચેની પેશી (B) સંયોગી પેશી (Conjunctive tissue)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહક અને અન્નવાહકને જોડતી પેશી = સંયોગી (Joiner).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: પર્ણ વાહીપુલ આચ્છાદ | વિભાગ B: લાક્ષણિકતા\n(1) Bundle Sheath (A) મૃદૂતક કોષોનું બનેલું\n(2) એધા (Cambium) (B) પર્ણમાં ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણમાં ક્યારેય જાડાઈ વધતી નથી (એધા હોતી નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: વનસ્પતિના અંગો | વિભાગ B: મુખ્ય કાર્ય\n(1) મૂળ (A) ખોરાક નિર્માણ\n(2) પર્ણ (B) પાણી અને ખનિજોનું શોષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ નીચેથી લે, પર્ણ ઉપર બનાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: વર્ધનશીલ પેશીના કોષો | વિભાગ B: લક્ષણ\n(1) કોષદીવાલ (A) ઘટ્ટ અને જીવંત\n(2) જીવરસ (B) પાતળી અને સેલ્યુલોઝયુક્ત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ધનશીલ એટલે જેણે સતત વિભાજન પામવાનું છે, તેની દીવાલ પાતળી જ હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: દ્વિતીયક જલવાહક | વિભાગ B: કાષ્ઠના ગુણધર્મો\n(1) વધુ જલવાહિનીઓ (A) શરદ કાષ્ઠ\n(2) ઓછી અને સાંકડી જલવાહિનીઓ (B) વસંત કાષ્ઠ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસંત = વધારો (વધારે જલવાહિની).</p></div>"
+    }
+  ]
+}

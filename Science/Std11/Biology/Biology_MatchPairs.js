@@ -3991,3 +3991,371 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વનસ્પતિઓમાં શ્વસન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે યોગ્ય રીતે જોડો: <br> વિભાગ-A: (i) ગ્લાયકોલિસિસ, (ii) ક્રેબ્સ ચક્ર <br> વિભાગ-B: (a) આધારક (Matrix), (b) કોષરસ (Cytoplasm)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' for Glycolysis and 'G' for Gali (કોષરસની ગલી), 'K' for Krebs and 'M' for Matrix (KM - કિલોમીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે યોગ્ય રીતે જોડો: <br> વિભાગ-A: (i) EMP પથ, (ii) TCA ચક્ર <br> વિભાગ-B: (a) હંસ ક્રેબ્સ, (b) એમ્બડેન, મેયરહોફ, પાર્નાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EMP એ વૈજ્ઞાનિકોના નામના પ્રથમ અક્ષર છે (Embden, Meyerhof, Parnas).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ-A (ઉત્સેચક) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) હેક્ઝોકાઈનેઝ, (ii) પાયરુવેટ કાઈનેઝ <br> વિભાગ-B: (a) PEP માંથી પાયરુવિક એસિડ, (b) ગ્લુકોઝમાંથી ગ્લુકોઝ-6-ફોસ્ફેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Hexo' એટલે 6 કાર્બન વાળો ગ્લુકોઝ, 'Pyruvate Kinase' એટલે પાયરુવેટ બનાવનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ-A (કાર્બન સંખ્યા) અને વિભાગ-B (અણુ) જોડો: <br> વિભાગ-A: (i) પાયરુવિક એસિડ, (ii) એસિટાઇલ CoA <br> વિભાગ-B: (a) 2-કાર્બન, (b) 3-કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pyruvate (3 અક્ષર જેવું લાગે) = 3C, Acetyl = 2C.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ-A (પ્રક્રિયા) અને વિભાગ-B (સ્થાન) જોડો: <br> વિભાગ-A: (i) ETS, (ii) ઓક્સિડેટિવ ડેકાર્બોક્સિલેશન <br> વિભાગ-B: (a) કણાભસૂત્રનું અંતઃપટલ, (b) કણાભસૂત્રનું આધારક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ETS પટલ (Membrane) પર ચાલે, બાકી બધું અંદર (Matrix) માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ-A (નીપજ) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) લેક્ટિક એસિડ, (ii) ઇથેનોલ + CO2 <br> વિભાગ-B: (a) ઈસ્ટમાં આથવણ, (b) સ્નાયુકોષોમાં આથવણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નાયુમાં લેક્ટિક એસિડ જમા થાય તો થાક લાગે (Muscle - Lactic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ-A (સંકેન્દ્રણ) અને વિભાગ-B (અસર) જોડો: <br> વિભાગ-A: (i) આલ્કોહોલ 13% થી વધુ, (ii) ઓક્સિજનનો અભાવ <br> વિભાગ-B: (a) અજારક શ્વસન, (b) ઈસ્ટ માટે ઝેરી (મૃત્યુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 13 નંબર અશુભ - ઈસ્ટ મરી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ-A (RQ મૂલ્ય) અને વિભાગ-B (પદાર્થ) જોડો: <br> વિભાગ-A: (i) RQ = 1.0, (ii) RQ < 1.0 <br> વિભાગ-B: (a) ચરબી (ટ્રાયપાલ્મિટિન), (b) કાર્બોદિત (ગ્લુકોઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Carbs = 1 (Best fuel), Fats = 0.7 (Less than 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ-A (ETS કોમ્પ્લેક્સ) અને વિભાગ-B (નામ) જોડો: <br> વિભાગ-A: (i) કોમ્પ્લેક્સ I, (ii) કોમ્પ્લેક્સ II <br> વિભાગ-B: (a) FADH2 ડીહાઇડ્રોજીનેઝ, (b) NADH ડીહાઇડ્રોજીનેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NADH પેલા આવે એટલે 1, FADH2 પછી આવે એટલે 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ-A (ETS કોમ્પ્લેક્સ) અને વિભાગ-B (નામ) જોડો: <br> વિભાગ-A: (i) કોમ્પ્લેક્સ III, (ii) કોમ્પ્લેક્સ IV <br> વિભાગ-B: (a) સાયટોક્રોમ c ઓક્સિડેઝ, (b) સાયટોક્રોમ bc1 સંકુલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 માં 'b' અને 'c' બંને છે, 4 માં 'ઓક્સિડેઝ' (છેલ્લું પગથિયું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ-A અને વિભાગ-B જોડો: <br> વિભાગ-A: (i) સાયટોક્રોમ c, (ii) યુબિક્વિનોન <br> વિભાગ-B: (a) ઇલેક્ટ્રોન વાહક (નાનું પ્રોટીન), (b) હાઇડ્રોજન ગ્રાહક (મેમ્બ્રેનમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyt 'c' is 'c'ompact (નાનું પ્રોટીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ-A (ઉર્જા ચલણ) અને વિભાગ-B (ઉર્જા ગ્રાહક) જોડો: <br> વિભાગ-A: (i) ATP, (ii) NADP <br> વિભાગ-B: (a) પ્રકાશસંશ્લેષણ, (b) કોષીય શ્વસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Photosynthesis, so NADP is for Photosynthesis.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ-A (મધ્યવર્તી સંયોજન) અને વિભાગ-B (કાર્બન સંખ્યા) જોડો: <br> વિભાગ-A: (i) સાઇટ્રિક એસિડ, (ii) α-કિટોગ્લુટેરિક એસિડ <br> વિભાગ-B: (a) 5-કાર્બન, (b) 6-કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાઇટ્રિક એસિડ પ્રથમ નીપજ (6C), આલ્ફા-કેટો એકમાત્ર 5C વાળો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ-A (મધ્યવર્તી સંયોજન) અને વિભાગ-B (કાર્બન સંખ્યા) જોડો: <br> વિભાગ-A: (i) સક્સિનિક એસિડ, (ii) ઓક્ઝેલો એસેટિક એસિડ (OAA) <br> વિભાગ-B: (a) 4-કાર્બન, (b) 4-કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રેબ્સ ચક્રના પાછળના બધા (Succinate, Fumarate, Malate, OAA) 4C ના જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ-A (પ્રક્રિયા) અને વિભાગ-B (ઉત્સેચક) જોડો: <br> વિભાગ-A: (i) આલ્કોહોલિક આથવણ, (ii) લેક્ટિક એસિડ આથવણ <br> વિભાગ-B: (a) લેક્ટ્રેટ ડીહાઇડ્રોજીનેઝ, (b) પાયરુવિક એસિડ ડેકાર્બોક્સિલેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કોહોલ બને ત્યારે CO2 નીકળે એટલે 'Decarboxylase' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ-A (અવરોધક) અને વિભાગ-B (અસર) જોડો: <br> વિભાગ-A: (i) સાયનાઇડ, (ii) ઓલિગોમાયસિન <br> વિભાગ-B: (a) ATP સિન્થેટેઝ રોકે, (b) સાયટોક્રોમ ઓક્સિડેઝ રોકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયનાઇડ છેલ્લું સ્ટેપ (Complex IV) બંધ કરી દે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ-A (ATP ગણતરી) અને વિભાગ-B (ઉર્જા સ્ત્રોત) જોડો: <br> વિભાગ-A: (i) 1 NADH, (ii) 1 FADH2 <br> વિભાગ-B: (a) 2 ATP, (b) 3 ATP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NADH મોટું (3 ATP), FADH2 નાનું (2 ATP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ-A (સ્થાન) અને વિભાગ-B (ભાગ) જોડો: <br> વિભાગ-A: (i) F0 ભાગ, (ii) F1 ભાગ <br> વિભાગ-B: (a) પરિઘીય પ્રોટીન સંકુલ (શીર્ષ), (b) અંતઃપટલમાં ખૂંપેલું (માર્ગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F0 = '0' જેવો હોલ (Channel), F1 = '1' જેવું માથું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ-A (RQ મૂલ્ય) અને વિભાગ-B (પદાર્થ) જોડો: <br> વિભાગ-A: (i) RQ = 0.9, (ii) RQ = 0.7 <br> વિભાગ-B: (a) ચરબી, (b) પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Protein starts with 'P' (Point 9), Fat is lower (0.7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ-A (પદાર્થ) અને વિભાગ-B (બીજું નામ) જોડો: <br> વિભાગ-A: (i) DHAP, (ii) PGAL <br> વિભાગ-B: (a) ટ્રાયોઝ ફોસ્ફેટ (G3P), (b) ડાયહાઇડ્રોક્સી એસિટોન ફોસ્ફેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DHAP માં 'A' ફોર 'Acetone'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ-A (પ્રક્રિયા) અને વિભાગ-B (ઉપયોગ/મુક્તિ) જોડો: <br> વિભાગ-A: (i) ગ્લુકોઝ માંથી G-6-P, (ii) PEP માંથી પાયરુવેટ <br> વિભાગ-B: (a) ATP મુક્ત થાય, (b) ATP વપરાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં ઇન્વેસ્ટમેન્ટ (વપરાશ), અંતમાં નફો (મુક્તિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ-A (સહ-ઉત્સેચક) અને વિભાગ-B (ધાતુ આયન) જોડો: <br> વિભાગ-A: (i) હેક્ઝોકાઈનેઝ, (ii) આલ્કોહોલ ડીહાઇડ્રોજીનેઝ <br> વિભાગ-B: (a) Zn2+, (b) Mg2+",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકોલિસિસમાં Mg મેઈન છે, આલ્કોહોલ માટે ઝિંક (Zn).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ-A (શબ્દ) અને વિભાગ-B (અર્થ) જોડો: <br> વિભાગ-A: (i) કેટાબોલિઝમ, (ii) એનાબોલિઝમ <br> વિભાગ-B: (a) સંશ્લેષણની પ્રક્રિયા, (b) વિખંડનની પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C' for Cut (Catabolism), 'A' for Add (Anabolism).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ-A (શ્વસન પ્રકાર) અને વિભાગ-B (ATP સંખ્યા) જોડો: <br> વિભાગ-A: (i) અજારક શ્વસન (ચોખ્ખો લાભ), (ii) જારક શ્વસન (સંપૂર્ણ) <br> વિભાગ-B: (a) 36 કે 38 ATP, (b) 2 ATP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જારક એટલે ફૂલ પાવર (30+), અજારક એટલે ગરીબ (માત્ર 2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ-A (અંગિકા) અને વિભાગ-B (કાર્ય) જોડો: <br> વિભાગ-A: (i) કણાભસૂત્ર, (ii) વાયુરંધ્ર <br> વિભાગ-B: (a) વાયુ વિનિમય, (b) એરોબિક શ્વસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્ર એટલે કોષનું પાવરહાઉસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ-A (પદાર્થ) અને વિભાગ-B (કાર્બન) જોડો: <br> વિભાગ-A: (i) ગ્લુકોઝ, (ii) ટ્રાયોઝ ફોસ્ફેટ <br> વિભાગ-B: (a) 3-કાર્બન, (b) 6-કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Triose = Tri (3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ-A (તબક્કો) અને વિભાગ-B (થતી પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) જોડાણ પ્રક્રિયા (Link Reaction), (ii) ક્રેબ્સ ચક્ર <br> વિભાગ-B: (a) સાઇટ્રિક એસિડનું નિર્માણ, (b) એસિટાઇલ CoA નું નિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિંક એટલે જોડવું (ગ્લાયકોલિસિસ અને ક્રેબ્સને જોડતો Acetyl CoA).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ-A (વાહક) અને વિભાગ-B (સ્થાન) જોડો: <br> વિભાગ-A: (i) સાયટોક્રોમ c, (ii) પ્રોટોન પંપ <br> વિભાગ-B: (a) અંતઃપટલની બહારની સપાટી, (b) સમગ્ર અંતઃપટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyto 'c' બહારની સાઈડ લટકેલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ-A (ઉર્જા નીપજ) અને વિભાગ-B (ક્રેબ્સ ચક્રનું એક ચક્ર) જોડો: <br> વિભાગ-A: (i) NADH + H+, (ii) FADH2 <br> વિભાગ-B: (a) 1 અણુ, (b) 3 અણુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રેબ્સમાં 3 NADH અને 1 FADH2 બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ-A (RQ સૂત્ર) અને વિભાગ-B (ઘટક) જોડો: <br> વિભાગ-A: (i) અંશ (Numerator), (ii) છેદ (Denominator) <br> વિભાગ-B: (a) વપરાયેલ O2 નું કદ, (b) મુક્ત થયેલ CO2 નું કદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RQ = CO2 / O2 (C પેલા O પછી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ-A (ઉત્સેચક) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) એકોનિટેઝ, (ii) મેલેટ ડીહાઇડ્રોજીનેઝ <br> વિભાગ-B: (a) મેલિક એસિડ માંથી OAA, (b) સાઇટ્રિક એસિડ માંથી આઇસોસાઇટ્રિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Malate' થી 'OAA' એટલે 'Malate dehydrogenase'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ-A (શબ્દ) અને વિભાગ-B (વૈજ્ઞાનિક ફાળો) જોડો: <br> વિભાગ-A: (i) ફર્મેન્ટેશન, (ii) ક્રેબ્સ ચક્ર <br> વિભાગ-B: (a) લુઈ પાશ્ચર, (b) હંસ ક્રેબ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આથવણ એટલે પાશ્ચર (દૂધ પાશ્ચરાઈઝેશન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ-A (અવરોધક) અને વિભાગ-B (લક્ષ્ય) જોડો: <br> વિભાગ-A: (i) મેલોનેટ, (ii) સાયનાઇડ <br> વિભાગ-B: (a) સક્સિનિક ડીહાઇડ્રોજીનેઝ, (b) સાયટોક્રોમ aa3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Malonate looks like Succinate (સ્પર્ધાત્મક અવરોધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ-A (ઉર્જા) અને વિભાગ-B (સ્ત્રોત) જોડો: <br> વિભાગ-A: (i) ડાયરેક્ટ ATP (GTP), (ii) મેટાબોલિક વોટર <br> વિભાગ-B: (a) ETS ના અંતે, (b) સક્સિનાઇલ CoA માંથી સક્સિનેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ETS ના અંતે જન્મે જ્યારે O2 ઇલેક્ટ્રોન લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ-A (પદાર્થ) અને વિભાગ-B (ગ્લાયકોલિસિસ સ્ટેપ) જોડો: <br> વિભાગ-A: (i) ફ્રુક્ટોઝ-1,6-બાયફોસ્ફેટ, (ii) 2-ફોસ્ફોગ્લિસરેટ <br> વિભાગ-B: (a) સ્ટેપ 4 (વિખંડન પહેલા), (b) સ્ટેપ 9 (પાણી મુક્ત થતા પહેલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રુક્ટોઝ ડબલ ફોસ્ફેટ એટલે સ્ટેપ 4, પાયરુવેટની નજીક એટલે 9.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ-A (ATP ખર્ચ) અને વિભાગ-B (ગ્લાયકોલિસિસ પ્રતિક્રિયા) જોડો: <br> વિભાગ-A: (i) પ્રથમ ATP ખર્ચ, (ii) બીજો ATP ખર્ચ <br> વિભાગ-B: (a) F-6-P માંથી F-1,6-BP, (b) ગ્લુકોઝ માંથી G-6-P",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝ ને પકડવા માટે પેલો ખર્ચો કરવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ-A (ઉત્સેચક) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) આલ્ડોલેઝ, (ii) ઈનોલેઝ <br> વિભાગ-B: (a) 2-PGA માંથી PEP, (b) F-1,6-BP માંથી PGAL + DHAP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Aldolase અડધું (Half) કરે, Enolase માંથી 'Enol' (PEP) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ-A (અણુ) અને વિભાગ-B (લક્ષણ) જોડો: <br> વિભાગ-A: (i) OAA, (ii) એસિટાઇલ CoA <br> વિભાગ-B: (a) ગ્રાહક અણુ (Acceptor), (b) પ્રવેશક અણુ (Entrant)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: OAA ઘરે હાજર હોય (ગ્રાહક), Acetyl બહારથી આવે (પ્રવેશક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ-A (વાત-વિનિમય અંગ) અને વિભાગ-B (વનસ્પતિ ભાગ) જોડો: <br> વિભાગ-A: (i) વાયુરંધ્ર, (ii) વાતછિદ્ર (Lenticels) <br> વિભાગ-B: (a) પ્રકાંડ (કાષ્ઠીય), (b) પર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lenticels લાકડા (L-L) પર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ-A (ETS ઘટક) અને વિભાગ-B (વિશેષતા) જોડો: <br> વિભાગ-A: (i) સાયટોક્રોમ a અને a3, (ii) બે કોપર (Cu) કેન્દ્રો <br> વિભાગ-B: (a) કોમ્પ્લેક્સ IV નો ભાગ, (b) કોમ્પ્લેક્સ IV નો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Complex IV માં 'A' અને 'Cu' બંને યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ-A (ATP) અને વિભાગ-B (ગ્લાયકોલિસિસ) જોડો: <br> વિભાગ-A: (i) વપરાયેલ ATP, (ii) ઉત્પન્ન થયેલ કુલ ATP <br> વિભાગ-B: (a) 4 ATP, (b) 2 ATP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 બને, 2 વપરાય, નેટ 2 વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ-A (RQ મૂલ્ય) અને વિભાગ-B (સંયોજન) જોડો: <br> વિભાગ-A: (i) RQ = 4.0, (ii) RQ = 1.33 <br> વિભાગ-B: (a) મેલિક એસિડ, (b) ઓક્ઝેલો એસેટિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બનિક એસિડમાં RQ હંમેશા 1 થી વધુ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ-A (શ્વસન પ્રક્રિયા) અને વિભાગ-B (ઉર્જા મુક્તિ %) જોડો: <br> વિભાગ-A: (i) આથવણ, (ii) જારક શ્વસન <br> વિભાગ-B: (a) > 90%, (b) < 7%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આથવણ એટલે વેસ્ટ પ્રક્રિયા (ઉર્જાની દ્રષ્ટિએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ-A (અણુ) અને વિભાગ-B (સંખ્યા) જોડો: <br> વિભાગ-A: (i) ગ્લુકોઝના 1 અણુ માટે ક્રેબ્સ ચક્રના ફેરા, (ii) 1 ક્રેબ્સ ચક્રમાં મુક્ત થતા CO2 <br> વિભાગ-B: (a) 2 અણુ, (b) 2 વખત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ગ્લુકોઝ એટલે બે પાયરુવેટ એટલે બે વાર ક્રેબ્સ ચક્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ-A (ETS ઇલેક્ટ્રોન વહન) અને વિભાગ-B (ક્રમ) જોડો: <br> વિભાગ-A: (i) સાયટોક્રોમ b થી c1, (ii) સાયટોક્રોમ c થી a <br> વિભાગ-B: (a) કોમ્પ્લેક્સ IV તરફ, (b) કોમ્પ્લેક્સ III ની અંદર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: b-c1-c-a-a3 (ABCD નો ક્રમ યાદ રાખવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ-A (પદાર્થ) અને વિભાગ-B (ઉપયોગ) જોડો: <br> વિભાગ-A: (i) એસિટાઇલ CoA, (ii) સક્સિનાઇલ CoA <br> વિભાગ-B: (a) ક્લોરોફિલ સંશ્લેષણ, (b) ફેટી એસિડ સંશ્લેષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Acetyl = Lipid/Fat, Succinyl = Chlorophyll.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ-A (ઉત્સેચક) અને વિભાગ-B (ક્રિયા) જોડો: <br> વિભાગ-A: (i) મ્યુટેઝ (Phosphoglyceromutase), (ii) આઈસોમરેઝ <br> વિભાગ-B: (a) G-6-P માંથી F-6-P, (b) 3-PGA માંથી 2-PGA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mutase એટલે જગ્યા બદલવી (3 થી 2), Isomerase એટલે રૂપ બદલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ-A (અંતિમ ગ્રાહક) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) ઓક્સિજન (O2), (ii) પાયરુવિક એસિડ <br> વિભાગ-B: (a) લેક્ટિક એસિડ આથવણ, (b) ઇલેક્ટ્રોન ટ્રાન્સપોર્ટ સિસ્ટમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જારકમાં છેલ્લે O2 હોય, અજારકમાં પાયરુવેટ પોતે H+ સ્વીકારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ-A (વપરાતો O2) અને વિભાગ-B (બહાર આવતો CO2) જોડો (ટ્રાયપાલ્મિટિન): <br> વિભાગ-A: (i) O2 અણુઓ, (ii) CO2 અણુઓ <br> વિભાગ-B: (a) 102, (b) 145",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 102/145 = 0.7 (ચરબીનો RQ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ-A (સ્થાન) અને વિભાગ-B (ઘટના) જોડો: <br> વિભાગ-A: (i) આંતરપટલ અવકાશ (Intermembrane Space), (ii) આધારક (Matrix) <br> વિભાગ-B: (a) પ્રોટોન જમા થવા, (b) પ્રોટોનનું ઓછું સંકેન્દ્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંકડી ગલી (Space) માં ગિરદી (Protons) વધારે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ-A (પાયરુવેટનું ભાવિ) અને વિભાગ-B (પરિસ્થિતિ) જોડો: <br> વિભાગ-A: (i) જારક શ્વસન, (ii) અજારક શ્વસન <br> વિભાગ-B: (a) ક્રેબ્સ ચક્રમાં પ્રવેશ, (b) આથવણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન હોય તો ક્રેબ્સના મહેમાન બનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ-A (વિશિષ્ટ નામ) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) સબસ્ટ્રેટ લેવલ ફોસ્ફોરાઈલેશન, (ii) ઓક્સિડેટીવ ફોસ્ફોરાઈલેશન <br> વિભાગ-B: (a) ETS દ્વારા ATP નિર્માણ, (b) સીધું જ ATP નિર્માણ (Glycolysis/Krebs)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સબસ્ટ્રેટ એટલે 'રોકડા' (Direct), ઓક્સિડેટીવ એટલે 'ચેક' (ETS માં વટાવવા પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ-A (ગ્લાયકોલિસિસની નીપજ) અને વિભાગ-B (સંખ્યા) જોડો: <br> વિભાગ-A: (i) પાયરુવિક એસિડ, (ii) NADH <br> વિભાગ-B: (a) 2 અણુ, (b) 2 અણુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકોલિસિસમાં બધું બબ્બે હોય (2 Pyruvate, 2 ATP, 2 NADH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ-A (ઉત્સેચક) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) ઇન્વર્ટેઝ, (ii) ઝાયમેઝ <br> વિભાગ-B: (a) ગ્લુકોઝ માંથી ઇથેનોલ (ઈસ્ટમાં), (b) સુક્રોઝ માંથી ગ્લુકોઝ + ફ્રુક્ટોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Invertase 'Inverts' Sugar.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ-A (ક્રેબ્સ ચક્રના પગલાં) અને વિભાગ-B (ઉત્સેચક) જોડો: <br> વિભાગ-A: (i) આઇસોસાઇટ્રેટ -> α-કેટોગ્લુટરેટ, (ii) α-કેટોગ્લુટરેટ -> સક્સિનાઇલ CoA <br> વિભાગ-B: (a) α-કેટોગ્લુટરેટ ડીહાઇડ્રોજીનેઝ, (b) આઇસોસાઇટ્રેટ ડીહાઇડ્રોજીનેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રક્રિયકનું નામ + ડીહાઇડ્રોજીનેઝ = ઉત્સેચક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ-A (RQ) અને વિભાગ-B (પદાર્થ) જોડો: <br> વિભાગ-A: (i) અનંત (Infinite), (ii) શૂન્ય (Zero) <br> વિભાગ-B: (a) રાત્રે કેક્ટસ (CAM plants), (b) અજારક શ્વસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજારકમાં O2 = 0, એટલે છેદ 0 હોય તો જવાબ અનંત આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ-A (કણાભસૂત્ર ભાગ) અને વિભાગ-B (ઘટક) જોડો: <br> વિભાગ-A: (i) ક્રિસ્ટી (Cristae), (ii) મેટ્રિક્સ <br> વિભાગ-B: (a) દ્રાવ્ય ઉત્સેચકો, (b) ETS ના ઘટકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિસ્ટી એટલે ફોલ્ડિંગ્સ, ત્યાં મશીનરી (ETS) ગોઠવાયેલી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ-A (અણુ) અને વિભાગ-B (ઉર્જા તુલના) જોડો: <br> વિભાગ-A: (i) 1 ગ્લુકોઝ, (ii) 1 પાયરુવિક એસિડ (જારક) <br> વિભાગ-B: (a) 15 કે 18 ATP, (b) 36 કે 38 ATP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક પાયરુવેટ એટલે અડધો ગ્લુકોઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ-A (શ્વસન પ્રકાર) અને વિભાગ-B (મુખ્ય લાક્ષણિકતા) જોડો: <br> વિભાગ-A: (i) પ્લોટિંગ શ્વસન (Floating), (ii) પ્રોટોપ્લાઝમિક શ્વસન <br> વિભાગ-B: (a) પ્રોટીનનો ઉપયોગ, (b) કાર્બોદિત કે ચરબીનો ઉપયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય શ્વસન એટલે 'ફ્લોટિંગ', પ્રોટીન વપરાય તો 'પ્રોટોપ્લાઝમિક' (ખતરનાક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ-A (ATP નિર્માણ) અને વિભાગ-B (સ્થાન) જોડો: <br> વિભાગ-A: (i) પ્રકાશ-ફોસ્ફોરાઈલેશન, (ii) ઓક્સિડેટીવ ફોસ્ફોરાઈલેશન <br> વિભાગ-B: (a) કણાભસૂત્ર, (b) હરિતકણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રકાશ' એટલે હરિતકણ (Photosynthesis).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ-A (અણુ) અને વિભાગ-B (બીજું નામ) જોડો: <br> વિભાગ-A: (i) 3-PGA, (ii) PEP <br> વિભાગ-B: (a) ફોસ્ફોઈનોલ પાયરુવેટ, (b) 3-ફોસ્ફોગ્લિસરીક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PGA એટલે 'P'hospho'G'lyceric 'A'cid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ-A (ક્રેબ્સ ચક્રનું સ્થાન) અને વિભાગ-B (CO2 મુક્તિ) જોડો: <br> વિભાગ-A: (i) પ્રથમ CO2 મુક્તિ, (ii) બીજી CO2 મુક્તિ <br> વિભાગ-B: (a) α-કેટોગ્લુટરેટ બનતી વખતે, (b) સક્સિનાઇલ CoA બનતી વખતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6C -> 5C (પેલો CO2), 5C -> 4C (બીજો CO2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ-A (ATP સિન્થેટેઝ) અને વિભાગ-B (ઘટક) જોડો: <br> વિભાગ-A: (i) માથું (Headpiece), (ii) નળી (Stalk) <br> વિભાગ-B: (a) F1 ઘટક, (b) F0 નો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F1 બહારની તરફ પ્રોટ્રુડિંગ માથું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ-A (અજારક નીપજ) અને વિભાગ-B (ઉદાહરણ) જોડો: <br> વિભાગ-A: (i) લેક્ટિક એસિડ, (ii) ઇથેનોલ <br> વિભાગ-B: (a) વાઈન / બીયર, (b) દહીં / સ્નાયુનો થાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂધ માંથી દહીં એટલે લેક્ટિક એસિડ બેક્ટેરિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ-A (પ્રક્રિયા) અને વિભાગ-B (ઉર્જા વાહક) જોડો: <br> વિભાગ-A: (i) ગ્લાયકોલિસિસમાં ઓક્સિડેશન, (ii) ક્રેબ્સમાં સક્સિનેટનું ઓક્સિડેશન <br> વિભાગ-B: (a) FAD માંથી FADH2, (b) NAD માંથી NADH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S'uccinate માંથી 'F'umarate બને ત્યારે 'F'ADH2 બને (S-F-F).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ-A (ક્રેબ્સ ચક્ર) અને વિભાગ-B (અણુ) જોડો: <br> વિભાગ-A: (i) સૌથી મોટો અણુ, (ii) સૌથી નાનો અણુ (મધ્યવર્તી) <br> વિભાગ-B: (a) ઓક્ઝેલો એસેટિક એસિડ (4C), (b) સાઇટ્રિક એસિડ (6C)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાઇટ્રિક એસિડ 6C સાથે 'મોટો ભાઈ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ-A (પરિવહન) અને વિભાગ-B (દિશા) જોડો: <br> વિભાગ-A: (i) પ્રોટોન (H+) વહન (ETS), (ii) ATP સંશ્લેષણ (Chemiosmosis) <br> વિભાગ-B: (a) આધારક થી આંતરપટલ અવકાશ, (b) આંતરપટલ અવકાશ થી આધારક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ETS પંપ જેવું છે (બહાર ફેંકે), ATP સિન્થેટેઝ ટર્બાઇન જેવું છે (અંદર લાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ-A (NAD+) અને વિભાગ-B (પુનઃનિર્માણ) જોડો: <br> વિભાગ-A: (i) જારક શ્વસનમાં, (ii) અજારક શ્વસનમાં <br> વિભાગ-B: (a) આથવણ દરમિયાન, (b) ETS દરમિયાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NAD+ ખાલી ન થાય તો ગ્લાયકોલિસિસ અટકી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ-A (ક્રેબ્સ ચક્ર) અને વિભાગ-B (ઉર્જા ગણતરી) જોડો: <br> વિભાગ-A: (i) 1 એસિટાઇલ CoA માંથી ATP (ETS સહિત), (ii) 1 પાયરુવેટ માંથી ATP (ETS સહિત) <br> વિભાગ-B: (a) 15 ATP, (b) 12 ATP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયરુવેટ = લિંક રિએક્શન (3) + ક્રેબ્સ (12) = 15 ATP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ-A (શ્વસન) અને વિભાગ-B (વ્યાખ્યા) જોડો: <br> વિભાગ-A: (i) એમ્ફિબોલિક પથ, (ii) શ્વસન ગુણાંક <br> વિભાગ-B: (a) CO2/O2 નો ગુણોત્તર, (b) કેટાબોલિક + એનાબોલિક બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Amphi' એટલે બંને (Both sides).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ-A (GTP નિર્માણ) અને વિભાગ-B (પ્રક્રિયા) જોડો: <br> વિભાગ-A: (i) ક્રેબ્સ ચક્રમાં GTP, (ii) ગ્લાયકોલિસિસમાં ATP <br> વિભાગ-B: (a) સબસ્ટ્રેટ લેવલ ફોસ્ફોરાઈલેશન, (b) સબસ્ટ્રેટ લેવલ ફોસ્ફોરાઈલેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (a), (ii) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને સીધા જ બને છે એટલે SLP કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ-A (અંતઃપટલ) અને વિભાગ-B (પારગમ્યતા) જોડો: <br> વિભાગ-A: (i) બાહ્ય પટલ, (ii) અંતઃપટલ <br> વિભાગ-B: (a) પ્રોટોન માટે અપ્રવેશશીલ, (b) પ્રોટોન માટે પ્રવેશશીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (b), (ii) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃપટલ સ્ટ્રિક્ટ છે, એટલે જ ગ્રેડિયન્ટ બને છે.</p></div>"
+    }
+  ]
+}

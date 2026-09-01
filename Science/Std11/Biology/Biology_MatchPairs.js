@@ -3270,3 +3270,366 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "કોષચક્ર અને કોષવિભાજન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. મનુષ્યના કોષનું કોષચક્ર<br>2. યીસ્ટના કોષનું કોષચક્ર<br>વિભાગ B:<br>A. 90 મિનિટ<br>B. 24 કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુષ્ય '24' કલાક કામ કરે (24 Hr), અને યીસ્ટ '90' ના દાયકાની સ્પીડે વિભાજન પામે (90 Min)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. આંતરાવસ્થા (Interphase)<br>2. M તબક્કો (M Phase)<br>વિભાગ B:<br>A. કોષચક્રના કુલ સમયના 5% થી ઓછો સમય<br>B. કોષચક્રના કુલ સમયના 95% થી વધુ સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેમાનની તૈયારીમાં 95% સમય લાગે (Interphase), પણ જમવામાં (M phase) તો 5% જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. G1 તબક્કો<br>2. S તબક્કો<br>3. G2 તબક્કો<br>વિભાગ B:<br>A. DNA નું સ્વયંજનન<br>B. કોષની વૃદ્ધિ અને ચયાપચયની રીતે સક્રિય<br>C. પ્રોટીનનું સંશ્લેષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G1 = Growth, S = Synthesis (DNA), G2 = Gap for Protein!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કોષકેન્દ્ર વિભાજન<br>2. કોષરસ વિભાજન<br>વિભાગ B:<br>A. સાયટોકાઈનેસીસ<br>B. કેરિયોકાઈનેસીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K = Karyon (Nucleus), C = Cytoplasm!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. G0 તબક્કો<br>2. G1 તબક્કો<br>વિભાગ B:<br>A. ગેપ-1 (પૂર્વ DNA સંશ્લેષણ)<br>B. શાંત અવસ્થા (Quiescent stage)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '0' એટલે 'ઝીરો' કામ એટલે કે શાંત અવસ્થા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પ્રારંભિક પૂર્વાવસ્થા<br>2. અંત્ય પૂર્વાવસ્થા<br>વિભાગ B:<br>A. ગોલ્ગી પ્રસાધન, અંતઃકોષરસજાળ અદ્રશ્ય<br>B. રંગસૂત્રીય દ્રવ્યનું ઘનીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં ગૂંચળું વળે (Condensation), અંતમાં ઘરવખરી (Organelles) પેક થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ભાજનાવસ્થા (Metaphase)<br>2. ભાજનોત્તરાવસ્થા (Anaphase)<br>વિભાગ B:<br>A. સેન્ટ્રોમીયરનું વિભાજન<br>B. મધ્યસ્થ પટ્ટીકા (Metaphase plate)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M = Middle (Plate), A = Apart (દૂર જવું - વિભાજન)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ભાજનાવસ્થા<br>2. અંત્યાવસ્થા<br>વિભાગ B:<br>A. રંગસૂત્રોની બાહ્યકારવિદ્યાનો અભ્યાસ<br>B. કોષકેન્દ્રિકા, ગોલ્ગી અને ER નું પુનઃનિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટા પાડવા હોય (Morphology) તો લાઈનમાં (Metaphase) ઊભા રહો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પ્રાણીકોષમાં કોષરસ વિભાજન<br>2. વનસ્પતિ કોષમાં કોષરસ વિભાજન<br>વિભાગ B:<br>A. કોષ પટ્ટીકા (Cell Plate)<br>B. ખાંચ પદ્ધતિ (Cell Furrow)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણી નરમ એટલે 'ખાંચ', વનસ્પતિ કઠણ એટલે વચમાં 'પટ્ટી' (Plate)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. બહુકોષકેન્દ્રીય અવસ્થા<br>2. સમભાજનનું મહત્વ<br>વિભાગ B:<br>A. પ્રવાહી ભ્રૂણપોષ (નાળિયેર)<br>B. કોષની મરામત (Repair)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેરનું પાણી એટલે ઘણા બધા કોષકેન્દ્રોનો મેળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. લિપ્ટોટીન<br>2. ઝાયગોટીન<br>વિભાગ B:<br>A. જોડી બનવી (Synapsis)<br>B. રંગસૂત્રો ગૂંચળા જેવા સ્પષ્ટ બને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z = Zipper (ચેઈન) લગાડવી એટલે જોડી બનાવવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પેકિટીન<br>2. ડિપ્લોટીન<br>વિભાગ B:<br>A. વ્યતિકરણ (Crossing over)<br>B. સ્વસ્તિક ચોકડી (Chiasmata)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = Pachytene = Pair (Crossing over), D = Diplotene = Dissolution (Chiasmata visible)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ડાયાકાઈનેસીસ<br>2. ઈન્ટરકાઈનેસીસ<br>વિભાગ B:<br>A. અર્ધસૂત્રણ-I અને II વચ્ચેનો સમય<br>B. સ્વસ્તિક ચોકડીઓનું અંતિમ છેડા તરફ ખસવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Terminalization એટલે ડાયાકાઈનેસીસમાં ટર્મિનસ (છેડે) જવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. વ્યતિકરણમાં મદદરૂપ ઉત્સેચક<br>2. સિનેપ્ટોનિમલ સંકુલનું નિર્માણ<br>વિભાગ B:<br>A. ઝાયગોટીન<br>B. રીકોમ્બિનેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Recombination માટે Recombinase જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ભાજનોત્તરાવસ્થા-I<br>2. ભાજનોત્તરાવસ્થા-II<br>વિભાગ B:<br>A. સેન્ટ્રોમીયરનું વિભાજન<br>B. સમજાત રંગસૂત્રોનું છૂટા પડવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phase I માં જોડી તૂટે, Phase II માં રંગસૂત્ર પોતે તૂટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. દ્વિસૂત્રી રંગસૂત્ર (Bivalent)<br>2. ચતુઃસૂત્રી રંગસૂત્ર (Tetrad)<br>વિભાગ B:<br>A. પેકિટીનમાં વધુ સ્પષ્ટ<br>B. ઝાયગોટીનમાં નિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બને ઝાયગોટીનમાં, પણ દેખાય પેકિટીનમાં 'Tetrad' તરીકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સમભાજન (Mitosis)<br>2. અર્ધસૂત્રણ (Meiosis)<br>વિભાગ B:<br>A. જનીનિક ભિન્નતા સર્જે<br>B. સમાન જનીનિક દ્રવ્ય જાળવી રાખે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સરખું, 'અર્ધ' એટલે અડધું (ભિન્નતા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. તારાકેન્દ્રનું બેવડાવું<br>2. ટ્યુબ્યુલીન પ્રોટીન સંશ્લેષણ<br>વિભાગ B:<br>A. G2 તબક્કો<br>B. S તબક્કો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DNA અને તારાકેન્દ્ર બંને 'S' તબક્કામાં જ ડબલ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કાઈનેટોકોર<br>2. ત્રાકતંતુ<br>વિભાગ B:<br>A. માઈક્રોટ્યુબ્યુલ્સના બનેલા<br>B. સેન્ટ્રોમીયર પર આવેલી તકતી જેવી રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઈનેટોકોર એટલે રંગસૂત્રનું 'હેન્ડલ' જ્યાં ત્રાકતંતુ ભરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. હૃદયના કોષો<br>2. ડુંગળીના મૂળાગ્રના કોષો<br>વિભાગ B:<br>A. સતત વિભાજન પામે (સમભાજન)<br>B. વિભાજન પામતા નથી (G0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય તૂટે (Injury), પણ કોષો નવા ન બને (G0)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. રંગસૂત્રિકાનું છૂટા પડવું<br>2. રંગસૂત્રોનું મધ્ય અવસ્થા પટ્ટીકા પર ગોઠવવું<br>વિભાગ B:<br>A. ભાજનાવસ્થા<br>B. ભાજનોત્તરાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોઠવણ = ભાજનાવસ્થા, છૂટા પડવું = ભાજનોત્તરાવસ્થા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. રંગસૂત્રીય દ્રવ્યનું ઉકેલાવવું<br>2. રંગસૂત્રીય દ્રવ્યનું ઘનીકરણ<br>વિભાગ B:<br>A. પૂર્વાવસ્થા<br>B. અંત્યાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં પેકિંગ (ઘનીકરણ), અંતમાં અનપેકિંગ (ઉકેલાવવું)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. અર્ધસૂત્રણ-I<br>2. અર્ધસૂત્રણ-II<br>વિભાગ B:<br>A. સમભાજન જેવું જ વિભાજન<br>B. ન્યુનનકારી વિભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I = Important (Reduction), II = Identical to Mitosis!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. DNA ની માત્રા 2C માંથી 4C થવી<br>2. રંગસૂત્રોની સંખ્યા 2n રહેવી<br>વિભાગ B:<br>A. S તબક્કો<br>B. S તબક્કો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S તબક્કામાં DNA ડબલ થાય પણ રંગસૂત્રોની સંખ્યા ન વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. વ્યતિકરણ (Crossing over)<br>2. સમજાત રંગસૂત્રોની જોડી (Synapsis)<br>વિભાગ B:<br>A. ઝાયગોટીન<br>B. પેકિટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા 'સાથ' (Synapsis) પછી 'અદલાબદલી' (Crossing over)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. નર મધમાખીમાં કોષવિભાજન<br>2. વનસ્પતિના વર્ધનશીલ પેશીમાં વિભાજન<br>વિભાગ B:<br>A. એકકીય સમભાજન<br>B. દ્વિકીય સમભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધમાખીનો નર (Drone) અપવાદ છે, એકકીય હોવા છતાં સમભાજન કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. રંગસૂત્રોના બે જૂથોનું નિર્માણ<br>2. વિષુવવૃત્તીય પટ્ટી પર ગોઠવણી<br>વિભાગ B:<br>A. અંત્યાવસ્થા-I<br>B. ભાજનાવસ્થા-I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંત એટલે બે છેડે નવા જૂથો બની જવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ભિન્નતા (Variation)<br>2. પેઢી દર પેઢી રંગસૂત્રોની સંખ્યાની જાળવણી<br>વિભાગ B:<br>A. અર્ધસૂત્રણની લાક્ષણિકતા<br>B. અર્ધસૂત્રણનું મહત્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધસૂત્રણ છે તો જ ઉત્ક્રાંતિ અને ભિન્નતા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. તારાકેન્દ્રનું ધ્રુવો તરફ ખસવું<br>2. રંગસૂત્રિકાઓનું ધ્રુવો તરફ ખસવું<br>વિભાગ B:<br>A. પૂર્વાવસ્થા<br>B. ભાજનોત્તરાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા મશીન (Centriole) ખસે, પછી માલ (Chromatid) ખસે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. 2n માંથી 2n કોષો<br>2. 2n માંથી n કોષો<br>વિભાગ B:<br>A. અર્ધસૂત્રણ<br>B. સમભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમ = સમાન, અર્ધ = અડધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. એસ્ટર (Aster)<br>2. ત્રાક સાધન (Spindle apparatus)<br>વિભાગ B:<br>A. બે એસ્ટર અને ત્રાકતંતુઓ<br>B. તારાકેન્દ્ર અને તેના કિરણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Aster એટલે તારો, તારાકેન્દ્રમાંથી નીકળતા કિરણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સિનેપ્ટોનિમલ સંકુલનું વિઘટન<br>2. કોષકેન્દ્ર પટલનું સંપૂર્ણ વિઘટન<br>વિભાગ B:<br>A. ડાયાકાઈનેસીસ<br>B. ડિપ્લોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિપ્લોટીનમાં 'ડિઝોલ્યુશન' (Dissolution) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. જીવંત જથ્થામાં વધારો<br>2. જથ્થાત્મક વધારો<br>વિભાગ B:<br>A. કોષવૃદ્ધિ<br>B. કોષવિભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ એટલે સાઈઝ વધવી, વિભાજન એટલે સંખ્યા વધવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. બહુકોષીય સજીવોમાં વૃદ્ધિ<br>2. જન્યુઓનું નિર્માણ<br>વિભાગ B:<br>A. અર્ધસૂત્રણ<br>B. સમભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોડી વધારવા સમભાજન, બેબી લાવવા (Gametes) અર્ધસૂત્રણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. મેટાફેઝ પ્લેટ<br>2. સેન્ટ્રોમીયર વિભાજન<br>વિભાગ B:<br>A. એનાફેઝ<br>B. મેટાફેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-M (Metaphase-Middle), A-A (Anaphase-Away)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કોષકેન્દ્રિકાનું પુનઃનિર્માણ<br>2. તારાકેન્દ્રનું વિરુદ્ધ ધ્રુવો તરફ જવું<br>વિભાગ B:<br>A. પૂર્વાવસ્થા<br>B. અંત્યાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંત્યાવસ્થા એ પૂર્વાવસ્થાની એકદમ ઉંધી પ્રક્રિયા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કાયાઝ્મેટા (Chiasmata)<br>2. સિનેપ્સીસ (Synapsis)<br>વિભાગ B:<br>A. X આકારની રચના<br>B. સમજાત રંગસૂત્રોનું જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chiasmata માં 'X' દેખાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ટર્મિનેલાઇઝેશન<br>2. સ્વસ્તિક ચોકડી દૃશ્યમાન થવી<br>વિભાગ B:<br>A. ડિપ્લોટીન<br>B. ડાયાકાઈનેસીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાકાઈનેસીસ એટલે 'The End' (Terminalization)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કોષચક્રનો સૌથી લાંબો તબક્કો<br>2. કોષચક્રનો સૌથી ટૂંકો તબક્કો<br>વિભાગ B:<br>A. M તબક્કો<br>B. આંતરાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તૈયારી લાંબી ચાલે, એક્ઝામ (M phase) તો 3 કલાકની જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કોષરસ સ્તરના પરિઘથી કેન્દ્ર તરફ ખાંચ<br>2. કોષના કેન્દ્રથી પરિઘ તરફ પટ્ટીકા<br>વિભાગ B:<br>A. વનસ્પતિ કોષરસ વિભાજન<br>B. પ્રાણી કોષરસ વિભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણી = બહારથી અંદર (Centripetal), વનસ્પતિ = અંદરથી બહાર (Centrifugal)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. રીકોમ્બિનેશન નોડ્યુલ્સ<br>2. બાયવેલન્ટ રંગસૂત્રો<br>વિભાગ B:<br>A. ઝાયગોટીન<br>B. પેકિટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેકિટીનમાં વ્યતિકરણ માટે 'ગાંઠો' (Nodules) બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. આંતરાવસ્થાનો પ્રથમ પેટા તબક્કો<br>2. આંતરાવસ્થાનો અંતિમ પેટા તબક્કો<br>વિભાગ B:<br>A. G2 તબક્કો<br>B. G1 તબક્કો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: G1 -> S -> G2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કેન્દ્રત્યાગી વિભાજન<br>2. કેન્દ્રગામી વિભાજન<br>વિભાગ B:<br>A. પ્રાણી કોષરસ વિભાજન<br>B. વનસ્પતિ કોષરસ વિભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિમાં પટ્ટીકા 'કેન્દ્રથી બહાર' (ત્યાગી) જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. મેટામિઅર<br>2. સેન્ટ્રોમીયર<br>વિભાગ B:<br>A. ખંડતા (અળસિયામાં)<br>B. રંગસૂત્રનું પ્રાથમિક ખાંચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટ્રોમીયર એટલે રંગસૂત્રનો 'સેન્ટર' નો ભાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. એકકીય સજીવ<br>2. દ્વિકીય સજીવ<br>વિભાગ B:<br>A. 2n<br>B. n",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક એટલે n, બે એટલે 2n!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. દ્વિસૂત્રી (Bivalent)<br>2. ચતુઃસૂત્રી (Tetrad)<br>વિભાગ B:<br>A. 4 રંગસૂત્રિકાઓ<br>B. 2 રંગસૂત્રો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bi = 2, Tetra = 4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. DNA નું પ્રમાણ (2C -> 4C)<br>2. રંગસૂત્રોની સંખ્યા (2n -> 2n)<br>વિભાગ B:<br>A. DNA સ્વયંજનનનો ગુણધર્મ<br>B. S તબક્કાની ખાસિયત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S તબક્કામાં DNA 'ડબલ' થાય, પણ રંગસૂત્ર 'સ્ટેબલ' રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. મિટોસીસ (Mitosis)<br>2. મિયોસીસ (Meiosis)<br>વિભાગ B:<br>A. ફ્લેમિંગે આપેલું નામ<br>B. ફાર્મર અને મૂરે આપેલું નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લેમિંગે મિટોસીસ આપ્યું (M-F), ફાર્મરે મિયોસીસ (ખેતરમાં અડધું કામ - Meiosis)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સમભાજનનો શ્રેષ્ઠ અભ્યાસ<br>2. અર્ધસૂત્રણનો શ્રેષ્ઠ અભ્યાસ<br>વિભાગ B:<br>A. પરાગાશય (Anther)<br>B. મૂળાગ્ર (Root tip)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ સતત વધે (Mitosis), પરાગાશય જન્યુ બનાવે (Meiosis)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સિસ્ટર ક્રોમેટિડ્સ<br>2. નોન-સિસ્ટર ક્રોમેટિડ્સ<br>વિભાગ B:<br>A. વ્યતિકરણમાં ભાગ લે<br>B. એક જ રંગસૂત્રની બે ભુજાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યતિકરણ હંમેશા પડોશી (Non-sister) વચ્ચે જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કોષકેન્દ્ર પટલનું અદ્રશ્ય થવું<br>2. કોષકેન્દ્ર પટલનું પુનઃનિર્માણ<br>વિભાગ B:<br>A. પૂર્વાવસ્થા<br>B. અંત્યાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pro = First (Bye Bye nucleus), Telo = Last (Welcome back nucleus)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પંચાવસ્થા (Prophase I) નો સૌથી લાંબો તબક્કો<br>2. પ્રોટીન સંશ્લેષણનો તબક્કો<br>વિભાગ B:<br>A. પેકિટીન<br>B. G2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' for Pachytene, 'P' for Prolonged (લાંબો)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. રંગસૂત્રોની સંખ્યા અડધી થવી<br>2. રંગસૂત્રોની સંખ્યા સમાન રહેવી<br>વિભાગ B:<br>A. સમભાજન<br>B. અર્ધસૂત્રણ-I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meiosis-I એ અસલી Reduction Division છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. જનન કોષો (Germ cells)<br>2. દૈહિક કોષો (Somatic cells)<br>વિભાગ B:<br>A. સમભાજન<br>B. અર્ધસૂત્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોડી સેલ્સ (Somatic) માં હંમેશા 'સમ' વિભાજન થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ડાયાડ (Dyad) કોષોનું નિર્માણ<br>2. ટેટ્રાડ (Tetrad) કોષોનું નિર્માણ<br>વિભાગ B:<br>A. અર્ધસૂત્રણ-II ના અંતે<br>B. અર્ધસૂત્રણ-I ના અંતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dyad એટલે 2 કોષો (Step 1), Tetrad એટલે 4 કોષો (Step 2)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કોષ કેન્દ્ર - કોષરસ ગુણોત્તર (N/C ratio)<br>2. બહુકોષકેન્દ્રી અવસ્થા<br>વિભાગ B:<br>A. સાયટોકાઈનેસીસ ન થવાથી<br>B. સમભાજન દ્વારા પુનઃસ્થાપિત થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષ મોટો થાય તો કંટ્રોલ (N/C) ખોરવાય, એટલે વિભાજન જરૂરી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સમજાત રંગસૂત્રોનું અલગીકરણ<br>2. રંગસૂત્રિકાઓનું અલગીકરણ<br>વિભાગ B:<br>A. એનાફેઝ-II<br>B. એનાફેઝ-I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phase I માં કપલ છૂટા પડે, Phase II માં હાથ-પગ (Chromatids) છૂટા પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ડીપ્લોટીનનું આયુષ્ય મહિનાઓ કે વર્ષો સુધી<br>2. મનુષ્યના કોષોમાં DNA સ્વયંજનનનો સમય<br>વિભાગ B:<br>A. S-તબક્કો<br>B. કેટલાક પૃષ્ઠવંશીઓના અંડકોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટલીક માદાઓમાં ઈંડા વર્ષો સુધી ડિપ્લોટીનમાં 'વેઈટ' કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સેન્ટ્રોમીયર<br>2. ક્રોમેટિડ<br>વિભાગ B:<br>A. રંગસૂત્રની ભુજા<br>B. બે ક્રોમેટિડને જોડતું સ્થાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટ્રોમીયર એટલે 'ગુંદર' જે બે ભુજાઓને જોડી રાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. લિપ્ટોટીન<br>2. ઝાયગોટીન<br>3. પેકિટીન<br>4. ડિપ્લોટીન<br>વિભાગ B:<br>A. Crossing over<br>B. Chiasmata<br>C. Synapsis<br>D. Compact chromosomes",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-C, 3-A, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-Z-P-D-D (Lata Zara Pani De-De) ક્રમ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ત્રાકતંતુઓનું નિર્માણ<br>2. ત્રાકતંતુઓનું અદ્રશ્ય થવું<br>વિભાગ B:<br>A. અંત્યાવસ્થા<br>B. પૂર્વાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વાવસ્થામાં શસ્ત્રો (Spindles) તૈયાર થાય, અંત્યાવસ્થામાં મુકાઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ગોલ્ગી પ્રસાધન, ER પુનઃનિર્માણ<br>2. રંગસૂત્રોનો આકાર સ્પષ્ટ દેખાય<br>વિભાગ B:<br>A. મેટાફેઝ<br>B. ટીલોફેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેટાફેઝ એટલે 'માઈક્રોસ્કોપ' માં જોવાનો બેસ્ટ ટાઈમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સેન્ટ્રિઓલનું દ્વિગુણન<br>2. રંગસૂત્રનું ઘનીકરણ<br>વિભાગ B:<br>A. પૂર્વાવસ્થા<br>B. S-તબક્કો (કોષરસમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S માં DNA કેન્દ્રમાં અને સેન્ટ્રિઓલ કોષરસમાં ડબલ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. ઉત્ક્રાંતિ માટે જવાબદાર<br>2. આનુવંશિક સાતત્ય માટે જવાબદાર<br>વિભાગ B:<br>A. સમભાજન<br>B. અર્ધસૂત્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભિન્નતા (Meiosis) જ ઉત્ક્રાંતિની માતા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કાઈનેટોકોર સાથે ત્રાકતંતુ જોડાણ<br>2. રંગસૂત્રિકાઓનું ધ્રુવો તરફ ગમન<br>વિભાગ B:<br>A. એનાફેઝ<br>B. મેટાફેઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડાણ હંમેશા ગોઠવણી (Metaphase) વખતે જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. અર્ધસૂત્રણ-I માં મેટાફેઝ પ્લેટની સંખ્યા<br>2. સમભાજનમાં મેટાફેઝ પ્લેટની સંખ્યા<br>વિભાગ B:<br>A. એક<br>B. બે (બમણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meiosis-I માં જોડીઓ (Pairs) ગોઠવાય એટલે બે પ્લેટ જેવું લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. Phragmoplast<br>2. Contractile ring<br>વિભાગ B:<br>A. પ્રાણી કોષરસ વિભાજન<br>B. વનસ્પતિ કોષરસ વિભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ring એટલે સંકોચન જે માત્ર પ્રાણીકોષમાં જ શક્ય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. કોષચક્રનું નિયંત્રણ ગુમાવવું<br>2. કોષનો નાશ થવો<br>વિભાગ B:<br>A. એપિટોસીસ<br>B. કેન્સર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંટ્રોલ વગરનું વિભાજન એટલે જ કેન્સર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. આંતરાવસ્થા (Resting phase)<br>2. વાસ્તવિક વિભાજન અવસ્થા<br>વિભાગ B:<br>A. M-તબક્કો<br>B. આંતરાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરાવસ્થાને આરામની અવસ્થા કહેવાય પણ કોષ તેમાં સૌથી વધુ બિઝી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. સમભાજન (Equational)<br>2. અર્ધસૂત્રણ (Reductional)<br>વિભાગ B:<br>A. જનનકોષોમાં<br>B. વૃદ્ધિ અને સમારકામમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવું છે તેવું જ રાખવા (Repair) સમભાજન જરૂરી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પ્રોટીન અને RNA સંશ્લેષણ (G1)<br>2. ત્રાકતંતુ પ્રોટીન સંશ્લેષણ (G2)<br>વિભાગ B:<br>A. ટ્યુબ્યુલીન<br>B. એન્ઝાઇમ્સ અને અંગિકાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્યુબ્યુલીન એ 'G2' નું સ્પેશિયલ પ્રોડક્ટ છે!</p></div>"
+    }
+  ]
+}

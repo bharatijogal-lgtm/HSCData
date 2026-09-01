@@ -4359,3 +4359,386 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "વનસ્પતિ વૃદ્ધિ અને વિકાસ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જોડકાં જોડો: (A) વર્ધનશીલ તબક્કો (B) વિસ્તરણ તબક્કો | (1) કોષદીવાલનું નવું નિક્ષેપણ (2) સમભાજન પામતા કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વ' થી વર્ધનશીલ અને 'વ' થી વિભાજન (સમભાજન). વિસ્તરણ એટલે મોટું થવું જેમાં નવી દીવાલ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જોડકાં જોડો: (A) અંકગણિતીય વૃદ્ધિ (B) ભૌમિતિક વૃદ્ધિ | (1) Lt = L0 + rt (2) W1 = W0 ert",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકગણિતમાં સરવાળો (+) આવે, ભૌમિતિકમાં ઘાતાંકીય (e) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જોડકાં જોડો: (A) પ્લાસ્ટિસિટી (B) પરિપક્વતા તબક્કો | (1) કોષદીવાલનું સ્થૂલન (2) પર્યાવરણ મુજબ બંધારણમાં ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિકને જેમ વાળીએ તેમ વળે (ફેરફાર), પરિપક્વ એટલે ફાઇનલ સ્થૂલન થઈ ગયું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જોડકાં જોડો: (A) ઓક્સિન (B) જિબરેલિન્સ | (1) ટર્પીન્સ (2) ઇન્ડોલ સંયોજનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન = ઇન્ડોલ (IAA), જિબરેલિન = ટર્પીન્સ (G-T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જોડકાં જોડો: (A) સાયટોકાઇનિન (B) એબ્સિસિક એસિડ | (1) કેરોટીનોઇડ્સના વ્યુત્પન્ન (2) એડેનિનના વ્યુત્પન્ન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટો = સેલ ડિવિઝન = DNA/Adenine. ABA = A-B-C (Carotenoids).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જોડકાં જોડો: (A) ચાર્લ્સ ડાર્વિન (B) એફ. ડબ્લ્યુ. વેન્ટ | (1) ઓક્સિનનું અલગીકરણ (2) પ્રકાશાનુવર્તનનો પ્રયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાર્વિને જોયું (પ્રકાશ), વેન્ટે કાઢ્યું (અલગીકરણ - Avena curvature test).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જોડકાં જોડો: (A) કુરોસાવા (B) સ્કૂગ અને મિલર | (1) કાઇનેટિન (2) ફૂગ Gibberella fujikuroi",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુરોસાવા = ફૂગ/બકાને રોગ. સ્કૂગ-મિલર = કાઇનેટિન (S-M-K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જોડકાં જોડો: (A) કઝીન્સ (B) એચ. એચ. કઝીન્સ | (1) ઇથિલીન (2) બાષ્પશીલ પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઝીન્સે સડેલી નારંગીમાંથી ઇથિલીન શોધ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જોડકાં જોડો: (A) કુદરતી ઓક્સિન (B) કૃત્રિમ ઓક્સિન | (1) NAA, 2,4-D (2) IAA, IBA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I થી શરૂ થાય તે મોટેભાગે ઇન્ડોલ/Natural (IAA/IBA). N અને D કૃત્રિમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જોડકાં જોડો: (A) અગ્રીય પ્રભાવીતા (B) પર્ણપતન અટકાવવું | (1) કુમળા પર્ણોમાં ઓક્સિન (2) અગ્રકલિકા દ્વારા પાર્શ્વ કલિકાનો અવરોધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર એટલે ટોચ. ટોચ વધે એટલે બાજુની કલિકા દબાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જોડકાં જોડો: (A) નીંદણ નાશક (B) અનાનસમાં પુષ્પસર્જન | (1) ઓક્સિન (2) 2,4-D",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2,4-D = દ્વિદળી નીંદણ ખતમ. અનાનસ (Pineapple) માં ઓક્સિન અને ઇથિલીન બંને કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જોડકાં જોડો: (A) શેરડીની લંબાઈ વધારવી (B) અક્ષની લંબાઈ વધારવી | (1) દ્રાક્ષ (2) જિબરેલિન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિબરેલિન એટલે 'Giant' (મોટું કરવું) - શેરડી અને દ્રાક્ષમાં વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જોડકાં જોડો: (A) મોલ્ટિંગ પ્રક્રિયા (B) બોલ્ટિંગ પ્રક્રિયા | (1) જિબરેલિન્સ (2) દારૂની ભઠ્ઠી (Brewing industry)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ્ટિંગ = દારૂ (Barley), બોલ્ટિંગ = આંતરગાંઠની લંબાઈ વધારવી (બીટ/કોબીજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જોડકાં જોડો: (A) ફળ પાકવાની ક્રિયા (B) ફળની શ્વસન દરમાં વધારો | (1) ક્લાઇમેક્ટીક શ્વસન (2) ઇથિલીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલીન ગેસ ફળ પકવે અને શ્વસન વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જોડકાં જોડો: (A) કાકડીમાં માદા પુષ્પો (B) મગફળીમાં અંકુરણ | (1) ઇથિલીન (2) ફળની સંખ્યામાં વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલીન સ્ત્રી (માદા પુષ્પ) વધારે એટલે ફળ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જોડકાં જોડો: (A) તણાવ અંતઃસ્ત્રાવ (B) રંધ્ર બંધ થવાની ક્રિયા | (1) ABA (2) પ્રતિકૂળ પરિસ્થિતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABA = Stress hormone. તણાવ આવે તો બધું બંધ (રંધ્ર બંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જોડકાં જોડો: (A) લઘુ દિવસી વનસ્પતિ (B) દીર્ઘ દિવસી વનસ્પતિ | (1) હેનબેન (2) તમાકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમાકુ (Tobacco) - નાનો દિવસ, હેનબેન (Henbane) - મોટો દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જોડકાં જોડો: (A) વસંતીકરણ (B) પ્રકાશકાલાવધિ | (1) નીચું તાપમાન (2) પ્રકાશનો સમયગાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસંત = ઠંડક (Cold), પ્રકાશકાલાવધિ = ફોટોપીરિયડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જોડકાં જોડો: (A) કોપરુ (B) શુક્રકોષનું DNA | (1) કાઇનેટિન (2) સાયટોકાઇનિન જેવું પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઇનેટિન શુક્રકોષ (Herring sperm) માંથી મળ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જોડકાં જોડો: (A) ઝિએટિન (B) મકાઈના દાણા | (1) નેચરલ સાયટોકાઇનિન (2) સ્ત્રોત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zeatin = Zea mays (મકાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જોડકાં જોડો: (A) વિભેદન (B) નિવિભેદન | (1) સ્થાયી કોષોમાંથી વર્ધનશીલતા (2) વર્ધનશીલમાંથી સ્થાયી કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભેદન એટલે 'Fix' થવું. નિવિભેદન એટલે 'ફરીથી વિભાજન' શરૂ કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જોડકાં જોડો: (A) પુનઃવિભેદન (B) આંતરપુલીય એધા | (1) નિવિભેદનનું પરિણામ (2) ફરીથી સ્થાયી કોષો બનવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુનઃ એટલે ત્રીજી વાર. એધા (Cambium) હંમેશા નિવિભેદનથી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જોડકાં જોડો: (A) કપાસના પાન (B) બટરકપ | (1) વિકાસના તબક્કા મુજબ પ્લાસ્ટિસિટી (2) પર્યાવરણ મુજબ પ્લાસ્ટિસિટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપાસ-કોથમીર-લાર્કસ્પર (વિકાસ). બટરકપ એટલે પાણી/હવા (પર્યાવરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જોડકાં જોડો: (A) વૃદ્ધિ અવરોધક (B) વૃદ્ધિ પ્રેરક | (1) સાયટોકાઇનિન (2) ABA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેરક એટલે 'ખુશ' (Growth), અવરોધક એટલે 'ગુસ્સો/તણાવ' (ABA).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જોડકાં જોડો: (A) બીજ સુષુપ્તતા (B) કલિકા સુષુપ્તતા | (1) ABA (2) વૃદ્ધિ અટકી જવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABA ઉંઘાડી દે (સુષુપ્તતા), જિબરેલિન જગાડી દે (અંકુરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જોડકાં જોડો: (A) પર્ણરંધ્ર ખુલવા (B) પર્ણરંધ્ર બંધ થવા | (1) સાયટોકાઇનિન (2) ABA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટોકાઇનિન 'Open' કરે, ABA 'Close' કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જોડકાં જોડો: (A) ઇથિલીન સ્ત્રોત (B) કૃષિમાં ઉપયોગ | (1) ઇથેફોન (2) ફળ પકવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથેફોન એ પ્રવાહી છે જે ગેસ (ઇથિલીન) મુક્ત કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જોડકાં જોડો: (A) વસંત ઘઉં (B) શિયાળુ ઘઉં | (1) વસંત ઋતુના અંતે લણણી (2) ઉનાળાના અંતે લણણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસંત ઘઉં ઉનાળામાં પૂરા થાય, શિયાળુ ઘઉં વસંતમાં પૂરા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જોડકાં જોડો: (A) પ્રકાશ ગ્રહણનું સ્થાન (B) વસંતીકરણ ઉત્તેજનાનું સ્થાન | (1) પર્ણ (2) પ્રરોહાગ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ પાંદડા (Leaf) પર પડે, ઠંડી ટોચ (Apex) પર લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જોડકાં જોડો: (A) દ્વિતીયક વર્ધનશીલ પેશી (B) પ્રાથમિક વર્ધનશીલ પેશી | (1) નિવિભેદન (2) ગર્ભીય કોષો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાથમિક એટલે જે જન્મથી હોય. દ્વિતીયક એટલે જે વચ્ચેથી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જોડકાં જોડો: (A) ટામેટામાં બીજવિહીન ફળ (B) કલમમાં મૂળ ફૂટવા | (1) ઓક્સિન (2) પાર્થેનોકાર્પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન મૂળ લાવે અને ટામેટામાં બીજ કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જોડકાં જોડો: (A) જીર્ણતામાં વિલંબ (B) પોષક દ્રવ્યોનું વહન | (1) સાયટોકાઇનિન (2) પાન ખરતા અટકાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટોકાઇનિન એટલે 'યુવાની' જાળવી રાખતો હોર્મોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જોડકાં જોડો: (A) GA3 (B) IAA | (1) પ્રથમ શોધાયેલ જિબરેલિન (2) કુદરતી ઓક્સિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GA3 સૌથી વધુ જાણીતું અને પ્રથમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જોડકાં જોડો: (A) પર્ણ પતન (Abscission) (B) જીર્ણતા (Senescence) | (1) ઇથિલીન (2) વૃદ્ધત્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલીન અને ABA પાન પાડે અને ડોસા (વૃદ્ધ) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જોડકાં જોડો: (A) ડાંગરના છોડમાં લંબાઈ (B) જલપ્લાવિત ડાંગર | (1) ઇથિલીન (2) આંતરગાંઠનું વિસ્તરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં ડૂબેલા ડાંગરને ઇથિલીન બહાર લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જોડકાં જોડો: (A) તટસ્થ દિવસી વનસ્પતિ (B) ટામેટા, મરચા, સૂર્યમુખી | (1) DNP (2) પ્રકાશની અસર વગર પુષ્પસર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તટસ્થ એટલે ગમે ત્યારે (ટામેટા-મરચા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જોડકાં જોડો: (A) અંકગણિતીય આલેખ (B) સિગ્મોઇડ આલેખ | (1) રેખીય (2) S-આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકગણિત = લાઈન, ભૌમિતિક (વસ્તી/વૃદ્ધિ) = S આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જોડકાં જોડો: (A) લઘુતમ તાપમાન (B) અનુકૂળ તાપમાન | (1) વૃદ્ધિ અટકી જાય (2) મહત્તમ વૃદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ માટે 25-35°C બેસ્ટ (Optimum).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જોડકાં જોડો: (A) 2,4-D (B) ડાયકોટ નીંદણ | (1) નાશ કરે (2) સિન્થેટિક ઓક્સિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2,4-D ઘાસ (એકદળી) ને નુકસાન નથી કરતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જોડકાં જોડો: (A) લેગ ફેઝ (B) લોગ ફેઝ | (1) ધીમી વૃદ્ધિ (2) ઝડપી વૃદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેગ (Lag) એટલે પાછળ રહેવું/ધીમું, લોગ (Log) એટલે રોકેટની જેમ ઉપર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "જોડકાં જોડો: (A) સ્થાયી ફેઝ (B) વૃદ્ધિનો અંત | (1) શૂન્ય વૃદ્ધિ દર (2) સ્ત્રોતની મર્યાદા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાવાનું પૂરું એટલે વૃદ્ધિ પૂરી (Stationary phase).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "જોડકાં જોડો: (A) નિરપેક્ષ વૃદ્ધિ દર (B) સાપેક્ષ વૃદ્ધિ દર | (1) કુલ વૃદ્ધિ (2) પ્રારંભિકના આધારે વૃદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરપેક્ષ = Absolute (Total), સાપેક્ષ = Relative (%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જોડકાં જોડો: (A) મૂળાગ્ર વર્ધનશીલ પેશી (B) અગ્રીય વર્ધનશીલ પેશી | (1) મૂળની લંબાઈ (2) પ્રરોહની લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળાગ્ર એટલે મૂળની ટોચ, અગ્રીય એટલે પ્રરોહની ટોચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જોડકાં જોડો: (A) વાહિની પેશીનું નિર્માણ (B) પાણીનું વહન | (1) લિગ્નિનનું સ્થૂલન (2) વિભેદન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહિનીમાં લિગ્નિન હોય તો જ તે પાણી ખેંચી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "જોડકાં જોડો: (A) જ્વલનશીલ નારંગી (B) ઇથિલીન | (1) બાષ્પશીલ હોર્મોન (2) ગેસ સ્વરૂપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સડેલી નારંગી = ઇથિલીન ગેસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જોડકાં જોડો: (A) વસંત ઋતુ (B) શરદ ઋતુ | (1) વૃદ્ધિ માટે અનુકૂળ (2) પર્ણપતન માટે જાણીતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાનખર (શરદ) એટલે ABA અને ઇથિલીનનો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જોડકાં જોડો: (A) પ્રકાશ (B) ગુરુત્વાકર્ષણ | (1) પર્યાવરણીય પરિબળ (2) વૃદ્ધિની દિશા નક્કી કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ અને ગુરુત્વ બંને બાહ્ય પરિબળો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "જોડકાં જોડો: (A) પ્રસરણ (B) વહન | (1) વાયુરૂપ PGR (2) વાહક દ્વારા PGR",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુ હંમેશા પ્રસરણ (Diffusion) પામે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જોડકાં જોડો: (A) ડાંગરના ફૂલ (B) જિબરેલા ફુજિકુરોઈ | (1) બકાને રોગ (2) કુરોસાવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બકાને એટલે 'મૂર્ખ છોડ' (Foolish seedling).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જોડકાં જોડો: (A) એડેનિન (B) પ્યુરિન વ્યુત્પન્ન | (1) કાઇનેટિન (2) સાયટોકાઇનિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઇનેટિન અને એડેનિન જોડિયા ભાઈઓ જેવા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જોડકાં જોડો: (A) ABA (B) જિબરેલિન્સ | (1) વિરોધી અસરો (2) અંકુરણ અવરોધ / ઉત્તેજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABA અને GA દુશ્મન છે (Antagonistic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "જોડકાં જોડો: (A) શુષ્કતા (B) વધુ ક્ષાર | (1) ABA નું પ્રમાણ વધવું (2) તણાવ સહન કરવાની ક્ષમતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોબ્લેમ આવે એટલે ABA હાજર થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જોડકાં જોડો: (A) ટૂંકા દિવસી (B) લાંબા દિવસી | (1) જટિલ પ્રકાશ અવધિ (2) પુષ્પસર્જન માટે પ્રકાશ જરૂરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબા દિવસીને વધુ પ્રકાશ જોઈએ, ટૂંકાને ઓછો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "જોડકાં જોડો: (A) ગાજર (B) કોબીજ | (1) દ્વિ વર્ષાયુ વનસ્પતિ (2) વસંતીકરણ જરૂરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાજર, કોબીજ, બીટ - આ ત્રણેય દ્વિ વર્ષાયુ અને વસંતીકરણ વાળા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જોડકાં જોડો: (A) બીજાવરણ (B) ભ્રૂણ | (1) અપરિપક્વતા (2) સખતપણું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ કેમ નથી ઉગતું? કાં તો કવર કઠણ હોય અથવા બાળક (ભ્રૂણ) કાચું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જોડકાં જોડો: (A) લેવિકાલ (B) જિબરેલિક એસિડ | (1) બીજ સુષુપ્તતા તોડવી (2) કાચ પેપરથી ઘસવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિઝિકલ રીતે ઘસવું એટલે Scarification, કેમિકલ એટલે GA.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "જોડકાં જોડો: (A) ઓક્સિજન (B) પાણી | (1) ચયાપચયિક ઉર્જા (2) કોષનું વિસ્તરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસન (O2) થી ઉર્જા મળે, પાણીથી કોષ ફૂલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જોડકાં જોડો: (A) વનસ્પતિ વૃદ્ધિ (B) પ્રાણી વૃદ્ધિ | (1) અમર્યાદિત (2) મર્યાદિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાડ આખી જીંદગી વધે, આપણે 21 વર્ષે અટકી જઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જોડકાં જોડો: (A) લેટરલ મેરિસ્ટેમ (B) પ્રાઇમરી મેરિસ્ટેમ | (1) ઘેરાવો વધારવો (2) લંબાઈ વધારવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેટરલ = જાડું (Lateral), અગ્રીય/પ્રાથમિક = લાંબુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "જોડકાં જોડો: (A) આંકડાકીય વૃદ્ધિ (B) પ્રાયોગિક વૃદ્ધિ | (1) ભૌમિતિક (2) અંકગણિતીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-2, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતમાં મોટેભાગે ભૌમિતિક (Geometric) જોવા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "જોડકાં જોડો: (A) 0.5 cm (B) 5.0 cm | (1) 10 ગણી વૃદ્ધિ (2) સાપેક્ષ વૃદ્ધિની ગણતરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની વસ્તુમાં થોડી વૃદ્ધિ પણ % માં મોટી દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "જોડકાં જોડો: (A) પેશી સંવર્ધન (B) કેલસ | (1) નિવિભેદન (2) અવિભેદિત કોષોનો સમૂહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલસ એટલે એવો સમૂહ જે હજી નક્કી નથી કે શું બનશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "જોડકાં જોડો: (A) વૃદ્ધિ માપન (B) ઓક્ઝેનોમીટર | (1) લંબાઈ માપવી (2) સાધન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિન પરથી ઓક્ઝેનોમીટર નામ આવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જોડકાં જોડો: (A) હેટરોફિલી (B) વિષમપર્ણી | (1) ધાણા, કપાસ (2) પર્યાવરણ મુજબ ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેટરો = અલગ, ફિલી = પર્ણ. અલગ અલગ પાન હોવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "જોડકાં જોડો: (A) અગ્રકલિકા (B) પાર્શ્વકલિકા | (1) ઓક્સિન દ્વારા ઉત્તેજન (2) ઓક્સિન દ્વારા અવરોધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા (અગ્રકલિકા) જીવે ત્યાં સુધી પ્રધાન (પાર્શ્વકલિકા) દબાયેલો રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "જોડકાં જોડો: (A) બટાકાના ટ્યુબર (B) ગ્રંથિલમાં અંકુરણ | (1) ઇથિલીન (2) સુષુપ્તતા તોડવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાકાને જગાડવા માટે ઇથિલીનનો છંટકાવ કરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "જોડકાં જોડો: (A) શ્વસન વેગ (B) ફળનો દેખાવ | (1) ઇથિલીન (2) પકવવાની ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલીન શ્વાસ વધારે એટલે ફળ જલ્દી પાકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "જોડકાં જોડો: (A) ચાના બગીચા (B) હેજ મેકિંગ | (1) અગ્રકલિકા દૂર કરવી (2) ઓક્સિનની અસર ઘટાડવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ કાપી નાખો એટલે છોડ બાજુમાં ફેલાય (Decapitation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જોડકાં જોડો: (A) અબરિત વૃદ્ધિ (B) ક્લોઝ્ડ ફોર્મ ગ્રોથ | (1) વનસ્પતિ (2) પ્રાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપન ફોર્મ = પ્લાન્ટ, ક્લોઝ્ડ ફોર્મ = એનિમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "જોડકાં જોડો: (A) પર્ણનું ક્ષેત્રફળ (B) સૂકું વજન | (1) વૃદ્ધિ માપનનો માપદંડ (2) જૈવભારમાં વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ એટલે વજન વધવું અથવા કદ વધવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "જોડકાં જોડો: (A) ફ્લોરિજન (B) કાલ્પનિક હોર્મોન | (1) પુષ્પસર્જન (2) પર્ણમાંથી પ્રરોહાગ્ર તરફ વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિજન હજી સુધી લેબમાં અલગ કરી શકાયો નથી, તે માત્ર એક કલ્પના છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "જોડકાં જોડો: (A) રાંધણ ગેસ (B) ફળોનો ગેસ | (1) મિથેન (2) ઇથિલીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ માટેનો ગેસ માત્ર 'ઇથિલીન' જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "જોડકાં જોડો: (A) કાઇનેટિન (B) સાયટોકાઇનિન | (1) કુદરતી રીતે મળતું નથી (2) નાળિયેરના પાણીમાં હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઇનેટિન આર્ટિફિશિયલ છે, ઝિએટિન નેચરલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "જોડકાં જોડો: (A) વર્ધનશીલ કોષો (B) વિસ્તરણ કોષો | (1) ઘટ્ટ જીવરસ (2) મોટી રસધાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળક (વર્ધનશીલ) પાસે જીવરસ વધુ હોય, ઘરડો (વિસ્તરણ) થાય તેમ વેક્યુલ (રસધાની) મોટી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "જોડકાં જોડો: (A) શંકુદ્રુમ વૃક્ષો (B) તરુણાવસ્થાનો અંત | (1) જિબરેલિન્સ (2) વહેલું બીજ નિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A-1, B-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોનિફર્સમાં જલ્દી બીજ લાવવા માટે GA છંટાય છે.</p></div>"
+    }
+  ]
+}

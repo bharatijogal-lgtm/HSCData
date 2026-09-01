@@ -3633,3 +3633,361 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઉચ્ચ કક્ષાની વનસ્પતિઓમાં પ્રકાશસંશ્લેષણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) જોસેફ પ્રિસ્ટલી (2) જાન ઇન્જનહાઉસ | વિભાગ B: (i) પ્રકાશની અનિવાર્યતા (ii) O2 ની શોધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રિસ્ટલીએ 'પ્રાણવાયુ' (O2) આપ્યો, ઇન્જનહાઉસે 'એન્જિન' ચલાવવા પ્રકાશ આપ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) જુલિયસ વોન સેક્સ (2) ટી.ડબલ્યુ. એન્ગલમેન | વિભાગ B: (i) પ્રકાશસંશ્લેષણનું સક્રિય વર્ણપટ (ii) ગ્લુકોઝ અને સ્ટાર્ચનું ઉત્પાદન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેક્સ (Sachs) = સ્ટાર્ચ (Starch), એન્ગલમેન = એન્ગલ (ખૂણો) અને સ્પેક્ટ્રમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) કાર્નેલિયસ વાન નીલ (2) ક્લેડોફોરા | વિભાગ B: (i) લીલી લીલ (ii) પ્રકાશસંશ્લેષણ એક પ્રકાશ આધારિત પ્રક્રિયા છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલ (Niel) એ 'નીલ' (Blue) બેક્ટેરિયા પર કામ કર્યું અને H2O ની થીયરી આપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) ક્લોરોફિલ-a (2) ક્લોરોફિલ-b | વિભાગ B: (i) પીળાશ પડતો લીલો (ii) તેજસ્વી અથવા વાદળી પડતો લીલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a = 'આ'કાશ જેવો વાદળી, b = 'બી'માર જેવો પીળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) ઝેન્થોફિલ (2) કેરોટીનોઇડ્સ | વિભાગ B: (i) પીળાથી પીળા-નારંગી (ii) પીળો રંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝેન્થો (Xantho) એટલે જ પીળો, કેરોટીન એટલે ગાજર (નારંગી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) ગ્રાના (2) સ્ટ્રોમા | વિભાગ B: (i) અપ્રકાશ પ્રક્રિયા (ii) પ્રકાશ પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G for Grana - G for 'G'low (Light), S for Stroma - S for 'S'hadow (Dark).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) PS I (2) PS II | વિભાગ B: (i) P680 (ii) P700",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 નંબર મોટો હોય (700), 2 નંબર નાનો (680).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) ચક્રીય ફોટોફોસ્ફોરાયલેશન (2) અચક્રીય ફોટોફોસ્ફોરાયલેશન | વિભાગ B: (i) Z-સ્કીમ (ii) માત્ર PS I કાર્યરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ (ચક્રીય) ફરે એ 1 જ હોય, જે સીધો (Z) જાય એમાં 1 અને 2 બંને હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) પાણીનું વિભાજન (2) NADPH નું નિર્માણ | વિભાગ B: (i) થાઇલેકોઇડના પટલની બહારની તરફ (ii) લ્યુમેનની અંદરની તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી અંદર (Lumen) તૂટે, શક્તિ બહાર (Stroma) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) મેલ્વિન કેલ્વિન (2) હેચ અને સ્લેક | વિભાગ B: (i) C4 પથ (ii) C3 પથ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલ્વિન = 3 અક્ષર (C3), હેચ-સ્લેક = 2 નામ (C4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) કાર્બોક્સિલેશન (2) રિડક્શન | વિભાગ B: (i) 2 ATP અને 2 NADPH નો વપરાશ (ii) RuBP + CO2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન ઉમેરો એટલે કાર્બોક્સિલેશન, શક્તિ વાપરો એટલે રિડક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) પુનઃસર્જન (Regeneration) (2) ગ્લુકોઝ નિર્માણ | વિભાગ B: (i) 1 ATP નો વપરાશ (ii) 6 કેલ્વિન ચક્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરીથી RuBP બનાવવા 'એક' શક્તિ જોઈએ, આખો ગ્લુકોઝ બનાવવા '6' ફેરા ફરવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) C3 વનસ્પતિ (2) C4 વનસ્પતિ | વિભાગ B: (i) મકાઈ, શેરડી (ii) ઘઉં, ચોખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 = ગરમ પ્રદેશના 'મ' (મકાઈ, શેરડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) ક્રૅન્ઝ પેશીસંરચના (2) રુબિસ્કો (RuBisCO) | વિભાગ B: (i) સૌથી વધુ માત્રામાં મળી આવતું પ્રોટીન (ii) માળખા જેવી ગોઠવણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રૅન્ઝ એટલે 'માળા' (Wreath), રુબિસ્કો એટલે વર્લ્ડ ફેમસ 'પ્રોટીન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) પ્રાથમિક CO2 ગ્રાહક (C3) (2) પ્રાથમિક CO2 ગ્રાહક (C4) | વિભાગ B: (i) PEP (ફોસ્ફોઇનોલ પાયરુવેટ) (ii) RuBP (રુબ્યુલોઝ બાયફોસ્ફેટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C3 માટે R (RuBP), C4 માટે P (PEP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) પ્રથમ સ્થાયી નીપજ (C3) (2) પ્રથમ સ્થાયી નીપજ (C4) | વિભાગ B: (i) OAA (ઓક્ઝેલો એસેટિક એસિડ) (ii) 3-PGA (ફોસ્ફોગ્લિસરીક એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C3 = 3-PGA (3 કાર્બન), C4 = OAA (4 કાર્બન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) પ્રકાશ શ્વસન (2) પ્રકાશસંશ્લેષણ | વિભાગ B: (i) એનાબોલિક પ્રક્રિયા (ii) કેટાબોલિક અને વેડફાતી પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટોસિન્થેસિસ બધું 'બનાવે', ફોટોરેસ્પિરેશન બધું 'બગાડે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) બ્લેકમેન (2) વન નીલ | વિભાગ B: (i) મર્યાદિત કારકોનો નિયમ (ii) જાંબલી અને લીલા સલ્ફર બેક્ટેરિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લેકમેન = લો (Law), નીલ = બેક્ટેરિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) ઓછી પ્રકાશ તીવ્રતા (2) વધુ પ્રકાશ તીવ્રતા | વિભાગ B: (i) પ્રકાશ મર્યાદિત કારક બને (ii) અન્ય કારકો મર્યાદિત બને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઓછું હોય એ જ 'મર્યાદિત' (Limiting) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) C3 વનસ્પતિ માટે CO2 સંતૃપ્તિ (2) C4 વનસ્પતિ માટે CO2 સંતૃપ્તિ | વિભાગ B: (i) 360 µl/L (ii) 450 µl/L",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 સ્માર્ટ છે, ઓછામાં ધરાઈ જાય (360), C3 ને વધુ જોઈએ (450).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) તાપમાન (2) પાણી | વિભાગ B: (i) પર્ણવલન અને ઉત્સ્વેદન (ii) ઉત્સેચકીય પ્રક્રિયાઓ પર અસર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન એન્ઝાઇમ બગાડે, પાણી પર્ણ કરમાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) પ્રકાશસંશ્લેષણનો દર (2) પ્રકાશ સંતૃપ્તિ | વિભાગ B: (i) પૂર્ણ સૂર્યપ્રકાશના 10% (ii) CO2 ના સ્થાપનનો દર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતૃપ્તિ (Saturation) માત્ર 10% એ જ આવી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) કઈ પ્રક્રિયામાં H2O દાતા છે? (2) કઈ પ્રક્રિયામાં H2S દાતા છે? | વિભાગ B: (i) જાંબલી સલ્ફર બેક્ટેરિયા (ii) ઉચ્ચ કક્ષાની વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-ii), (2-i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફર બેક્ટેરિયા 'S' (H2S) આપે, વનસ્પતિ 'O' (H2O) આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) સ્ટ્રોમા લેમેલી (2) ગ્રાના લેમેલી | વિભાગ B: (i) માત્ર PS I ધરાવે (ii) PS I અને PS II બંને ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાનામાં બધું હોય (G for Great), સ્ટ્રોમા પટલમાં માત્ર 1 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) માલિક એસિડનું નિર્માણ (2) OAA નું નિર્માણ | વિભાગ B: (i) મધ્યપર્ણ કોષોમાં (C4) (ii) મધ્યપર્ણ કોષોમાં (C4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં શરુઆતની બધી ક્રિયા 'મધ્યપર્ણ' (Mesophyll) માં થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) RuBisCO ની ઓક્સિજનેઝ પ્રવૃત્તિ (2) RuBisCO ની કાર્બોક્સિલેઝ પ્રવૃત્તિ | વિભાગ B: (i) ફોટોરેસ્પિરેશન (ii) કેલ્વિન ચક્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 સાથે જોડાય તો ઓક્સિજનેઝ (Photorespiration), CO2 સાથે તો કાર્બોક્સિલેઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) પ્રોટોન ગ્રેડિયન્ટ (2) પ્રોટોન પંપ | વિભાગ B: (i) ATP સિન્થેટેઝ (ii) સાયટોક્રોમ b6f સંકુલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંપ એટલે સાયટોક્રોમ (ઇલેક્ટ્રોન વાહક), ગ્રેડિયન્ટથી ATP બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) F0 ભાગ (2) F1 ભાગ | વિભાગ B: (i) પટલમાં ખૂંપેલો (ii) સ્ટ્રોમા તરફ ઉપસેલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 (શૂન્ય) અંદર હોય, 1 (એક) બહાર દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) પ્રકાશના કયા રંગમાં સૌથી વધુ પ્રકાશસંશ્લેષણ? (2) પ્રકાશના કયા રંગમાં સૌથી ઓછું? | વિભાગ B: (i) લાલ અને વાદળી (ii) લીલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ-વાદળી માં 'મોજ', લીલામાં 'ખોજ' (લીલો રંગ પરાવર્તિત થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) ગ્લુકોઝના 1 અણુ માટે ATP (C3) (2) ગ્લુકોઝના 1 અણુ માટે NADPH (C3) | વિભાગ B: (i) 18 ATP (ii) 12 NADPH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 : 2 નો રેશિયો. 6 CO2 માટે 6x3=18 અને 6x2=12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (1) C4 પથમાં વધારાના ATP (2) C4 પથમાં કુલ ATP | વિભાગ B: (i) 12 ATP (ii) 30 ATP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 મોંઘી છે, 18 માં બીજા 12 નાખો એટલે 30 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (1) રુબિસ્કોની હાજરી (C4) (2) PEPcase ની હાજરી (C4) | વિભાગ B: (i) પુલકંચુકના કોષોમાં (ii) મધ્યપર્ણ કોષોમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PEP બહાર ચોકીદારી કરે (Mesophyll), RuBisCO અંદર સેફ રહે (Bundle Sheath).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (1) PS II થી ઇલેક્ટ્રોન કોણ સ્વીકારે? (2) PS I થી ઇલેક્ટ્રોન કોણ સ્વીકારે? | વિભાગ B: (i) પ્લાસ્ટોક્વિનોન (PQ) (ii) ફેરેડોક્સિન (Fd) / પ્રાથમિક ગ્રાહક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 પછી Q આવે (PQ), 1 પછી F આવે (Fd).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (1) ગ્રીનહાઉસ પાકો (2) ઉચ્ચ તાપમાન અનુકૂલન | વિભાગ B: (i) ટામેટા અને બેલ પેપર (ii) C4 વનસ્પતિઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રીનહાઉસમાં 'લાલ' ટામેટા ઉગાડાય, C4 ને ગરમી ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (1) લ્યુમેનમાં H+ નું સંકેન્દ્રણ (2) સ્ટ્રોમામાં H+ નું સંકેન્દ્રણ | વિભાગ B: (i) વધે (ii) ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લ્યુમેન એટલે 'તિજોરી', ત્યાં પ્રોટોન ભેગા થાય (વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (1) NADP રિડક્ટેઝ (2) ATP સિન્થેટેઝ | વિભાગ B: (i) થાઇલેકોઇડની બહારની બાજુએ (ii) થાઇલેકોઇડ પટલની આરપાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શક્તિ બનાવવા માટે પટલ તોડવું પડે (આરપાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (1) 1 CO2 સ્થાપન (C3) (2) 1 CO2 સ્થાપન (C4) | વિભાગ B: (i) 3 ATP + 2 NADPH (ii) 5 ATP + 2 NADPH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં દરેક CO2 દીઠ 2 ATP એક્સ્ટ્રા લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (1) પર્ણરંધ્ર બંધ થવા (2) પર્ણરંધ્ર ખુલવા | વિભાગ B: (i) પાણીની અછત (ii) પૂરતું પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નથી તો બારી (પર્ણરંધ્ર) બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (1) ફોસ્ફોગ્લાયકોલેટ (2) ફોસ્ફોગ્લિસરેટ | વિભાગ B: (i) 2 કાર્બન યુક્ત (ii) 3 કાર્બન યુક્ત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકોલેટ = નાનું (2C), ગ્લિસરેટ = મોટું (3C).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (1) ક્લોરોપ્લાસ્ટમાં પ્રકાશ શોષણ (2) ક્લોરોપ્લાસ્ટમાં અંધકાર પ્રક્રિયા | વિભાગ B: (i) મેમ્બ્રેનસ સિસ્ટમ (ii) સ્ટ્રોમા મેટ્રિક્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટલમાં પ્રકાશ, પ્રવાહીમાં રાંધવાનું (સ્ટ્રોમા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (1) ઇલેક્ટ્રોન ટ્રાન્સપોર્ટ ચેઇન (2) કેમીઓસ્મોસિસ | વિભાગ B: (i) સાયટોક્રોમ્સ (ii) પ્રોટોન ઢોળાંશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેઇન એટલે સાયકલ (સાયટોક્રોમ), ઓસ્મોસિસ એટલે ઢોળાંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (1) પાયરુવિક એસિડ (2) મેલિક એસિડ | વિભાગ B: (i) 3-કાર્બન (ii) 4-કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયરુવિક એસિડ હંમેશા 3C જ હોય, મેલિક C4 માં બને (4C).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (1) ઓક્સિજન મુક્ત થવો (2) કાર્બન ડાયોક્સાઈડ મુક્ત થવો | વિભાગ B: (i) PS II (પ્રકાશ પ્રક્રિયા) (ii) પ્રકાશ શ્વસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 કાઢે એ ફાયદો, CO2 કાઢે એ નુકસાન (શ્વસન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (1) કઈ વનસ્પતિમાં રુબિસ્કો નથી? (2) કઈ વનસ્પતિમાં ફોટોરેસ્પિરેશન નથી? | વિભાગ B: (i) કોઈ પણ વનસ્પતિમાં રુબિસ્કો ગેરહાજર નથી (ii) C4 વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુબિસ્કો સાર્વત્રિક છે, પણ C4 વનસ્પતિ ચાલાક છે (શ્વસન ટાળે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (1) થાઇલેકોઇડ (2) ગ્રાના | વિભાગ B: (i) ચપટી કોથળી જેવી રચના (ii) સિક્કાની થપ્પી જેવી રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાઇલેકોઇડ = એક સિક્કો, ગ્રાના = આખી થપ્પી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (1) શોષણ વર્ણપટ (2) કાર્ય વર્ણપટ | વિભાગ B: (i) શોષાયેલા પ્રકાશની તરંગલંબાઈ (ii) પ્રકાશસંશ્લેષણનો દર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોષણ = Absorption, કાર્ય = Action (Rate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (1) એન્ટિના (2) પ્રક્રિયા કેન્દ્ર | વિભાગ B: (i) સહાયક રંજકદ્રવ્યો (ii) મુખ્ય ક્લોરોફિલ-a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ટિના સિગ્નલ પકડે, સેન્ટર (કેન્દ્ર) કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (1) અચક્રીય (Non-cyclic) (2) ચક્રીય (Cyclic) | વિભાગ B: (i) ATP અને NADPH બંને બને (ii) માત્ર ATP બને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચ'ક્રીય માં 'ચ'ોખ્ખું માત્ર ATP જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (1) પટલની બહાર H+ નો નિકાલ (2) પાણીનું વિભાજન | વિભાગ B: (i) NADP+ ના રિડક્શન માટે (ii) પ્રોટોન ઢોળાંશ બનાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર H+ વપરાય અને અંદર H+ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (1) રેડિયોએક્ટિવ 14C (2) રેડિયોએક્ટિવ O18 | વિભાગ B: (i) કેલ્વિન ચક્રના સંશોધનમાં (ii) O2 પાણીમાંથી આવે છે તે સાબિત કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન માટે 14C, ઓક્સિજન માટે O18.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (1) ક્લોરોપ્લાસ્ટની સંખ્યા (C4) (2) ક્લોરોપ્લાસ્ટની સંખ્યા (C3) | વિભાગ B: (i) પુલકંચુકમાં વધુ (ii) મધ્યપર્ણમાં વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં 'પુલ' (Bundle Sheath) મજબૂત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (1) ઉચ્ચ પ્રકાશની તીવ્રતા (2) અતિ ઉચ્ચ પ્રકાશની તીવ્રતા | વિભાગ B: (i) પ્રકાશસંશ્લેષણ વધે (ii) ક્લોરોફિલનું વિઘટન (Solarization)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિ સર્વત્ર વર્જયેત - બહુ પ્રકાશ ક્લોરોફિલ બાળી નાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (1) PEPcase (2) RuBisCO | વિભાગ B: (i) ઓક્સિજન પ્રત્યે સંવેદનશીલ નથી (ii) ઓક્સિજન પ્રત્યે સંવેદનશીલ છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PEPcase વફાદાર છે (માત્ર CO2), રુબિસ્કો બેવફા છે (O2 સાથે પણ ફરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (1) ઉત્સેચક સક્રિયતા માટે તાપમાન (C3) (2) ઉત્સેચક સક્રિયતા માટે તાપમાન (C4) | વિભાગ B: (i) નીચું (ii) ઊંચું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 = Hot Plants, C3 = Cool Plants.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (1) પ્રથમ તબક્કો (2) બીજો તબક્કો | વિભાગ B: (i) પ્રકાશ રાસાયણિક તબક્કો (ii) જૈવ સંશ્લેષણ તબક્કો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા લાઇટ ચાલુ કરો (પ્રકાશ), પછી રસોઈ બનાવો (જૈવ સંશ્લેષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (1) વેરીગ્રેટેડ લીફ પ્રયોગ (2) KOH ધરાવતી કસનળીનો પ્રયોગ | વિભાગ B: (i) ક્લોરોફિલની જરૂરિયાત (ii) CO2 ની જરૂરિયાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: KOH CO2 ને ખાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (1) મોહલનો અડધા પર્ણનો પ્રયોગ (2) બેલ જાર પ્રયોગ | વિભાગ B: (i) CO2 જરૂરી છે (ii) હવા શુદ્ધિકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોહલ = CO2, પ્રિસ્ટલી (બેલ જાર) = O2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (1) રંજકદ્રવ્ય તંત્ર I (2) રંજકદ્રવ્ય તંત્ર II | વિભાગ B: (i) પટલની સપાટી પર (ii) પટલની અંદરની બાજુએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PS I પહેલા બહાર દેખાય, PS II અંદર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (1) પર્ણના આંતરિક પરિબળો (2) બાહ્ય પરિબળો | વિભાગ B: (i) ક્લોરોફિલનું પ્રમાણ (ii) સૂર્યપ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પર્ણની અંદર હોય એ આંતરિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (1) કાર્બોક્સિલેશન (2) ડીકાર્બોક્સિલેશન | વિભાગ B: (i) CO2 ઉમેરવો (ii) CO2 દૂર કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડી' એટલે દૂર કરવું (Delete).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (1) કેલ્વિન ચક્રનું સ્થાન (C4) (2) હેચ-સ્લેક ચક્રનું સ્થાન (C4) | વિભાગ B: (i) પુલકંચુક (ii) મધ્યપર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 માં C3 ચક્ર 'સલામત' જગ્યાએ (પુલકંચુક) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (1) માલિક એસિડનું વહન (2) પાયરુવિક એસિડનું વહન | વિભાગ B: (i) મધ્યપર્ણથી પુલકંચુક (ii) પુલકંચુકથી મધ્યપર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલિક એસિડ 'માલ' (CO2) લઈને અંદર જાય, પાયરુવિક ખાલી હાથે બહાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (1) ફોસ્ફોગ્લિસરેટ (2) રુબ્યુલોઝ 1,5 બાયફોસ્ફેટ | વિભાગ B: (i) 3 કાર્બન (ii) 5 કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RuBP = 5 કાર્બન (Pentose sugar derivative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (1) હાઇડ્રોજન ગ્રાહક (2) અંતિમ ઇલેક્ટ્રોન ગ્રાહક | વિભાગ B: (i) NADP+ (ii) NADP+",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NADP+ જ બધું પકડે છે છેલ્લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (1) સૂર્યપ્રકાશ (2) ક્લોરોફિલ | વિભાગ B: (i) શક્તિનો સ્ત્રોત (ii) પ્રકાશ ગ્રાહક રંજકદ્રવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય પાવર આપે, ક્લોરોફિલ એને પકડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (1) O2 મુક્તિ (2) ATP + NADPH વપરાશ | વિભાગ B: (i) પ્રકાશ પ્રક્રિયા (ii) અંધકાર પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઇટમાં ગેસ નીકળે, અંધારામાં શક્તિ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (1) લાલ પ્રકાશ (2) વાદળી પ્રકાશ | વિભાગ B: (i) 680-700 nm (ii) 430-470 nm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ એટલે લાંબી તરંગલંબાઈ (વધારે નંબર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (1) થાઇલેકોઇડ લ્યુમેન (2) સ્ટ્રોમા | વિભાગ B: (i) ઊંચી H+ સાંદ્રતા (ii) નીચી H+ સાંદ્રતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લ્યુમેન = એસિડિક (વધારે H+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (1) C3 પથના શોધક (2) C4 પથના શોધક | વિભાગ B: (i) રેડિયોએક્ટિવ ટ્રેસર ટેકનિક (ii) શેરડીના પર્ણોમાં અભ્યાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલ્વિને ટ્રેસર વાપર્યું, હેચ-સ્લેકે શેરડી જોઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (1) ATP સિન્થેસિસ માટે જરૂરી (2) પ્રકાશસંશ્લેષણ માટે જરૂરી | વિભાગ B: (i) પ્રોટોન ઢોળાંશ (ii) હરિતદ્રવ્ય, પ્રકાશ, CO2, H2O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-i), (2-ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢોળાંશ વગર ATP ન બને.</p></div>"
+    }
+  ]
+}

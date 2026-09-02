@@ -5100,3 +5100,366 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "દેહજળ અને પરિવહન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: રુધિરરસના પ્રોટીન | વિભાગ B: તેમનું કાર્ય \n(1) ફાઈબ્રિનોજન | (A) સંરક્ષણ ક્રિયાવિધિ \n(2) ગ્લોબ્યુલિન્સ | (B) આશૃતિ સંતુલન \n(3) આલ્બ્યુમિન્સ | (C) રુધિર ગંઠાવવાની ક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F-A-G (Fibrinogen-Albumin-Globulin) -> C-O-D (Clotting-Osmotic-Defense). ફાઈબ્રિનોજન એટલે ફાઈબર (ગંઠાવવું), ગ્લોબ્યુલિન એટલે ગાર્ડ (સંરક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: રુધિર કોષો | વિભાગ B: આયુષ્ય/સંખ્યા \n(1) રકતકણો (RBC) | (A) 1,50,000 - 3,50,000 /mm³ \n(2) શ્વેતકણો (WBC) | (B) 120 દિવસ \n(3) ત્રાકકણો (Platelets) | (C) 6000 - 8000 /mm³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC લાંબુ જીવે (120), WBC સૈનિકો ઓછા (6-8 હજાર), ત્રાકકણો લાખોમાં (દોઢથી સાડા ત્રણ લાખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: શ્વેતકણોના પ્રકાર | વિભાગ B: ટકાવારી પ્રમાણ \n(1) ન્યુટ્રોફિલ્સ | (A) 0.5 - 1 % \n(2) બેઝોફિલ્સ | (B) 60 - 65 % \n(3) મોનોસાઇટ્સ | (C) 6 - 8 %",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Never Let Monkeys Eat Bananas' (Neutrophils સૌથી વધુ, Basophils સૌથી ઓછા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: શ્વેતકણો | વિભાગ B: વિશિષ્ટ કાર્ય \n(1) ઇઓસિનિફિલ્સ | (A) હિપેરીન, હિસ્ટામાઈનનો સ્ત્રાવ \n(2) બેઝોફિલ્સ | (B) એન્ટિબોડીનું નિર્માણ \n(3) લિમ્ફોસાઇટ્સ | (C) એલર્જી પ્રતિક્રિયા સાથે સંકળાયેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = E (Eosinophil = E-lergy), B = B (Basophil = Base/Chemicals), L = L (Lymphocyte = L-ymph system defense).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: રુધિરજૂથ | વિભાગ B: રકતકણ પરના એન્ટિજન \n(1) રુધિરજૂથ A | (A) કોઈ પણ નહીં \n(2) રુધિરજૂથ AB | (B) A અને B બંને \n(3) રુધિરજૂથ O | (C) માત્ર A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-B), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નામ તે એન્ટિજન. O એટલે '0' એન્ટિજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: રુધિરજૂથ | વિભાગ B: રુધિરરસમાં એન્ટિબોડી \n(1) રુધિરજૂથ A | (A) anti-A, anti-B \n(2) રુધિરજૂથ B | (B) anti-B \n(3) રુધિરજૂથ O | (C) anti-A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ટિબોડી હંમેશા નામથી ઉલટી હોય. A માં anti-B, B માં anti-A.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: રુધિર ગંઠાવવાની પ્રક્રિયા | વિભાગ B: ઘટકો/કારકો \n(1) પ્રોથ્રોમ્બિનેઝ | (A) રકતકણો ફસાય તેવું જાળું \n(2) ફાઈબ્રિન | (B) પ્રોથ્રોમ્બિનનું થ્રોમ્બિનમાં રૂપાંતર \n(3) કેલ્શિયમ આયન | (C) ગંઠાવવા માટે અનિવાર્ય ખનીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ca++ વગર રુધિર ન ગંઠાય. ફાઈબ્રિન એટલે ફાઈબરનું નેટવર્ક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: હૃદયના ખંડો | વિભાગ B: પ્રાણીઓ \n(1) બે ખંડો (એક કર્ણક, એક ક્ષેપક) | (A) સસ્તન અને પક્ષીઓ \n(2) ત્રણ ખંડો (બે કર્ણક, એક ક્ષેપક) | (B) માછલીઓ \n(3) ચાર ખંડો (બે કર્ણક, બે ક્ષેપક) | (C) ઉભયજીવી અને સરીસૃપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-A-R (Mammal-Amphibian-Reptile) -> 4-3-3. Fish = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: હૃદયના વાલ્વ | વિભાગ B: સ્થાન \n(1) ત્રિદલ વાલ્વ | (A) ડાબું કર્ણક અને ડાબું ક્ષેપક \n(2) દ્વિદલ વાલ્વ (મિત્રલ) | (B) જમણું કર્ણક અને જમણું ક્ષેપક \n(3) અર્ધચંદ્રાકાર વાલ્વ | (C) ધમનીકાંડના ઉદગમ સ્થાને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Right is Tri' (જમણી બાજુ ત્રિદલ) અને 'Left is Bi' (ડાબી બાજુ દ્વિદલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: હૃદયના પેશી ઘટકો | વિભાગ B: સ્થાન \n(1) સાયનો એટ્રિયલ નોડ (SAN) | (A) આંતરક્ષેપક પટલની ઉપર \n(2) એટ્રિયો વેન્ટ્રિક્યુલર નોડ (AVN) | (B) જમણા કર્ણકનો ઉપરનો જમણો ખૂણો \n(3) હિસનું જૂથ (Bundle of His) | (C) જમણા કર્ણકનો નીચેનો ડાબો ખૂણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SAN = Upper-Right (પેસમેકર), AVN = Lower-Left.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: હૃદય ચક્રના તબક્કા | વિભાગ B: સમયગાળો (સેકન્ડમાં) \n(1) હૃદય ચક્રનો કુલ સમય | (A) 0.1 sec \n(2) કર્ણક સંકોચન | (B) 0.8 sec \n(3) ક્ષેપક સંકોચન | (C) 0.3 sec",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1-3-4 યાદ રાખો. કર્ણક 0.1, ક્ષેપક 0.3, સંયુક્ત શિથિલન 0.4. ટોટલ 0.8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: ECG ના તરંગો | વિભાગ B: વિદ્યુત પ્રક્રિયા \n(1) P-તરંગ | (A) ક્ષેપકોનું વિધ્રુવીકરણ \n(2) QRS સંકુલ | (B) ક્ષેપકોનું પુનઃધ્રુવીકરણ \n(3) T-તરંગ | (C) કર્ણકોનું વિધ્રુવીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P (Push) = Atrial Depol, QRS (Quick) = Ventricle Depol, T (Terminal) = Repol.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: હૃદયના રોગો | વિભાગ B: લક્ષણો \n(1) હાઈપરટેન્શન | (A) હૃદયના સ્નાયુઓને અપૂરતો ઓક્સિજન \n(2) એન્જાઈના પેકટોરીસ | (B) 140/90 mmHg થી વધુ દબાણ \n(3) હાર્ટ ફેઈલ્યોર | (C) હૃદય શરીરની જરૂરિયાત મુજબ રુધિર પંપ કરી શકતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જાઈના = ચેસ્ટ પેઈન (દુખાવો), હાર્ટ ફેઈલ = પંપિંગ ફેઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: પરિવહનના પ્રકાર | વિભાગ B: ઉદાહરણ \n(1) ખુલ્લું પરિવહન તંત્ર | (A) નુપૂરક અને પૃષ્ઠવંશી \n(2) બંધ પરિવહન તંત્ર | (B) માછલી \n(3) એકવડું પરિવહન | (C) સંધિપાદ અને મૃદુકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Open (ખુલ્લું) = Cockroach (સંધિપાદ), Closed (બંધ) = Human (પૃષ્ઠવંશી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: હૃદયના અવાજો | વિભાગ B: કારણ \n(1) પ્રથમ અવાજ (લબ) | (A) ક્ષેપક શિથિલનનો પ્રારંભ \n(2) દ્વિતીય અવાજ (ડબ) | (B) ત્રિદલ અને દ્વિદલ વાલ્વ બંધ થવા \n(3) મર્મર (Murmur) | (C) અર્ધચંદ્રાકાર વાલ્વ બંધ થવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A માં લાગુ પડતું નથી, પણ લબ/ડબ મહત્વના છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-AV (Lubb = AV valves close), D-SL (Dubb = Semi-lunar valves close).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: રુધિર નળીઓ | વિભાગ B: દીવાલનું સ્તર \n(1) ટ્યુનિકા ઇન્ટરના | (A) મધ્ય સ્તર (સરળ સ્નાયુ) \n(2) ટ્યુનિકા મીડિયા | (B) અંદરનું સ્તર (અંતઃછદ) \n(3) ટ્યુનિકા એક્સટર્ના | (C) બહારનું સ્તર (સંયોજક પેશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Internal-In, Media-Middle, External-Ex (Outside).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: રુધિર ઘટકો | વિભાગ B: રંગ/સ્વરૂપ \n(1) રુધિરરસ (Plasma) | (A) રતાશ પડતા રંગના કોષો \n(2) રકતકણો (Erythrocytes) | (B) રંગવિહીન કોષો \n(3) શ્વેતકણો (Leucocytes) | (C) આછો પીળો, સ્નિગ્ધ પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિરરસ = પીળો (Straw color), Erythro = Red, Leuco = White/Colorless.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: શ્વેતકણોનો પ્રકાર | વિભાગ B: ન્યુક્લિયસનો આકાર \n(1) ન્યુટ્રોફિલ્સ | (A) કિડની (વૃક્ક) આકારનું \n(2) બેઝોફિલ્સ | (B) બહુખંડીય \n(3) મોનોસાઇટ્સ | (C) S આકારનું (અસ્પષ્ટ ખંડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ-મ (મોનોસાઇટ - મગફળી/કિડની જેવું), ન્યુટ્રો-બહુ (ન્યુટ્રોફિલ - બહુખંડીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: લસિકા તંત્ર | વિભાગ B: વિશિષ્ટતા \n(1) લસિકા | (A) લસિકાવાહિનીમાં ચરબીનું શોષણ \n(2) પયસ્વિની (Lacteals) | (B) કોષો વચ્ચેનું પ્રવાહી \n(3) લસિકા ગાંઠો | (C) પ્રતિકાર શક્તિ માટેનું કેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lacteals = Lipid (ચરબી), Lymph = Middle man (વચેટિયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: હૃદયના રોગો | વિભાગ B: અન્ય નામ \n(1) હૃદય રોગનો હુમલો | (A) એન્જાઈના પેકટોરીસ \n(2) છાતીમાં તીવ્ર દુખાવો | (B) એથરોસ્ક્લેરોસિસ \n(3) કોરોનરી આર્ટરી ડિસીઝ (CAD) | (C) માયોકાર્ડિયલ ઇન્ફાર્કશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heart Attack = MI, CAD = Atherosclerosis (નળીમાં ક્ષાર જામવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: રુધિરરસના આયનો | વિભાગ B: અગત્યના કાર્ય \n(1) સોડિયમ (Na+) | (A) જૈવિક ક્રિયાઓનું નિયમન \n(2) બાયકાર્બોનેટ (HCO3-) | (B) ચેતાકીય આવેગ વહન \n(3) મેગ્નેશિયમ (Mg++) | (C) pH નું જાળવણી/બફર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Na-K પંપ (ચેતા), બાયકાર્બોનેટ એટલે રુધિરની એસિડિટી બેલેન્સ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: રક્તકણો (RBC) | વિભાગ B: નિર્માણ અને નાશ \n(1) નિર્માણ સ્થાન (પુખ્ત) | (A) રક્તકણોનું કબ્રસ્તાન \n(2) વિઘટન સ્થાન (બરોળ) | (B) હિમોગ્લોબિન \n(3) લાલ રંગ માટે જવાબદાર | (C) લાલ અસ્થિમજ્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC બને 'મજ્જા' (Marrow) માં અને મરે 'બરોળ' (Spleen) માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: શ્વેતકણો (WBC) | વિભાગ B: પ્રકારો \n(1) કણિકામય | (A) લિમ્ફોસાઇટ્સ, મોનોસાઇટ્સ \n(2) કણિકાવિહીન | (B) રક્તકણો, ત્રાકકણો \n(3) સંગઠિત ઘટકો | (C) ન્યુટ્રોફિલ્સ, બેઝોફિલ્સ, ઇઓસિનિફિલ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: BEN (Baso-Eosino-Neutro) = Granules (કણિકા). ML = Agranules.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: રક્ષણાત્મક કોષો | વિભાગ B: ક્રિયા \n(1) ન્યુટ્રોફિલ્સ | (A) ભક્ષક કોષો (Phagocytic) \n(2) મોનોસાઇટ્સ | (B) એલર્જી પ્રતિકાર \n(3) ઇઓસિનિફિલ્સ | (C) સોજાની પ્રતિક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NM = Phagocytes (ભક્ષકો). ઇઓસિનિફિલ = ઇન્ફેક્શન સામે રક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: રુધિરદાતા | વિભાગ B: ગ્રાહી \n(1) રુધિરજૂથ O | (A) માત્ર AB પાસેથી લે \n(2) રુધિરજૂથ AB | (B) સર્વદાતા \n(3) રુધિરજૂથ B | (C) સર્વગ્રાહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A માં B જૂથ B અને O પાસેથી લે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O = 'O'-ffering (આપે), AB = 'A'll 'B'ring (લે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: Rh કારક (Rh factor) | વિભાગ B: લાક્ષણિકતા \n(1) Rh+ વ્યક્તિ | (A) રકતકણ પર Rh એન્ટિજન નથી \n(2) Rh- વ્યક્તિ | (B) રકતકણ પર Rh એન્ટિજન હાજર \n(3) ઇરિથ્રોબ્લાસ્ટોસિસ ફીટેલિસ | (C) ગર્ભ અને માતા વચ્ચે Rh અસંગતતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rh Positive = Presence of antigen. Rh Negative = No antigen.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: રુધિર ગંઠાવવાની પ્રક્રિયા | વિભાગ B: પદાર્થ \n(1) ક્ષતિગ્રસ્ત પેશી | (A) થ્રોમ્બિન \n(2) સક્રિય પ્રોટીન | (B) થ્રોમ્બોપ્લાસ્ટિન \n(3) નિષ્ક્રિય પ્રોટીન | (C) પ્રોથ્રોમ્બિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pro-થ્રોમ્બિન એટલે પહેલાનું (નિષ્ક્રિય). થ્રોમ્બિન એટલે એક્ટિવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: સજીવ | વિભાગ B: હૃદય રચના \n(1) મગર | (A) ત્રણ ખંડીય હૃદય \n(2) દેડકો | (B) ચાર ખંડીય હૃદય \n(3) રોહુ માછલી | (C) બે ખંડીય હૃદય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગર અપવાદ છે - સરીસૃપ હોવા છતાં 4 ખંડીય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: હૃદયનું સ્થાન | વિભાગ B: વર્ણન \n(1) હૃદય | (A) બે ફેફસાની વચ્ચે (મધ્યવકાશ) \n(2) રદ આવરણ | (B) હૃદયની બહારની બેવડી દીવાલ \n(3) રદ પ્રવાહી | (C) ઘર્ષણ ઘટાડવાનું કાર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pericardium = Pari (Around) + Cardium (Heart). એટલે કે હૃદયની ફરતેનું આવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: વાલ્વ | વિભાગ B: અન્ય નામ \n(1) મિત્રલ વાલ્વ | (A) ત્રિદલ વાલ્વ \n(2) ડાબું એટ્રિયોવેન્ટ્રિક્યુલર વાલ્વ | (B) અર્ધચંદ્રાકાર વાલ્વ \n(3) જમણું એટ્રિયોવેન્ટ્રિક્યુલર વાલ્વ | (C) દ્વિદલ વાલ્વ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાઈ' (Bicuspid) અને 'મિત્રલ' બંને ડાબી બાજુએ (Left) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: હૃદય ચક્રની ઘટના | વિભાગ B: અવસ્થા \n(1) સંયુક્ત ડાયાસ્ટોલ | (A) બધા 4 ખંડો શિથિલ \n(2) એટ્રિયલ સિસ્ટોલ | (B) ક્ષેપકોનું રુધિર ધમનીમાં જાય \n(3) વેન્ટ્રિક્યુલર સિસ્ટોલ | (C) 30% રુધિર ક્ષેપકોમાં ધકેલાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-C), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિસ્ટોલ (Systole) = સંકોચન, ડાયાસ્ટોલ (Diastole) = આરામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: રુધિરના જથ્થાનું માપન | વિભાગ B: મૂલ્ય \n(1) સ્ટ્રોક વોલ્યુમ | (A) 5000 mL \n(2) હૃદયના ધબકારા | (B) 70 mL \n(3) રદ આઉટપુટ (Cardiac Output) | (C) 72 / મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stroke Volume x Heart Rate = Cardiac Output (70 x 72 ≈ 5000).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: ECG સાધન | વિભાગ B: ઉપયોગ \n(1) ઇલેક્ટ્રોકાર્ડિયોગ્રાફ | (A) હૃદયની વિદ્યુત પ્રવૃત્તિનો આલેખ \n(2) ઇલેક્ટ્રોકાર્ડિયોગ્રામ | (B) દર્દીની રદ ક્રિયાનું નિરીક્ષણ કરતું મશીન \n(3) ત્રણ ઇલેક્ટ્રોડ્સ | (C) બંને કાંડા અને ડાબા ઘૂંટી પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાફ એટલે 'મશીન' (સાધન) અને ગ્રામ એટલે 'રિપોર્ટ' (આલેખ). ઉલટું યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: બેવડું પરિવહન | વિભાગ B: રુધિરનો પ્રવાહ \n(1) ફુપ્ફુસીય પરિવહન | (A) જમણા ક્ષેપકથી ફેફસા થઈ ડાબા કર્ણકમાં \n(2) દૈહિક પરિવહન | (B) ડાબા ક્ષેપકથી અંગો થઈ જમણા કર્ણકમાં \n(3) યકૃત પોર્ટલ તંત્ર | (C) પાચનમાર્ગ અને યકૃત વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pulmonary = Lungs (ફેફસા), Systemic = Body (અંગો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: રદ ક્રિયાનું નિયમન | વિભાગ B: અસરો \n(1) અનુકંપી ચેતાતંત્ર | (A) હૃદયના ધબકારા ઘટાડે \n(2) પરાનુકંપી ચેતાતંત્ર | (B) હૃદયના ધબકારા વધારે \n(3) એડ્રિનલ મજ્જકના અંતઃસ્ત્રાવો | (C) રદ ક્ષમતામાં વધારો કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુકંપી = 'Anu' excited (વધારો), પરાનુકંપી = 'Para' (શાંત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: પ્રોટીન ટકાવારી | વિભાગ B: રુધિરરસના ઘટકો \n(1) રુધિરરસમાં પાણી | (A) 6 થી 8 % \n(2) રુધિરરસમાં પ્રોટીન | (B) 90 થી 92 % \n(3) રુધિરમાં રુધિરરસ | (C) 55 %",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિરરસ મુખ્યત્વે પાણી છે (90%+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: હિમોગ્લોબિન | વિભાગ B: માહિતી \n(1) 100 ml રુધિરમાં Hb | (A) લોહયુક્ત જટિલ પ્રોટીન \n(2) Hb નું સ્વરૂપ | (B) 12 - 16 ગ્રામ \n(3) વાયુઓનું વહન | (C) ઓક્સિજન અને કાર્બન ડાયોક્સાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 થી 16 ગ્રામ Hb હોય તો તમે હેલ્ધી છો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: શ્વેતકણો | વિભાગ B: જીવનકાળ \n(1) રકતકણો | (A) ખૂબ જ ટૂંકો સમય (દિવસો) \n(2) શ્વેતકણો | (B) 120 દિવસ \n(3) ત્રાકકણો | (C) લગભગ એક અઠવાડિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC મેરેથોન રનર (120 દિવસ), WBC ટૂંકી ડ્યુટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: રુધિર ગંઠાવવાના સ્ટેપ્સ | વિભાગ B: ક્રમ \n(1) પ્રથમ તબક્કો | (A) ફાઈબ્રિનોજનમાંથી ફાઈબ્રિન \n(2) દ્વિતીય તબક્કો | (B) પ્રોથ્રોમ્બિનમાંથી થ્રોમ્બિન \n(3) તૃતીય તબક્કો | (C) થ્રોમ્બોપ્લાસ્ટિનનું મુક્ત થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-B), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈજા (Tissue damage) -> Enzyme (Thrombin) -> Fiber (Fibrin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: પરિવહન તંત્રના ઘટકો | વિભાગ B: કાર્ય \n(1) ધમનીઓ | (A) રુધિર અને કોષો વચ્ચે દ્રવ્ય વિનિમય \n(2) શિરાઓ | (B) રુધિરને હૃદયથી દૂર લઈ જાય \n(3) રુધિરકેશિકાઓ | (C) રુધિરને હૃદય તરફ લાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = Away (ધમની), V = Visit (શિરા હૃદયની મુલાકાતે આવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: હૃદયના ધબકારાનું ઉદગમ | વિભાગ B: વિશેષતા \n(1) પેસમેકર | (A) હિસના જૂથના ફેલાયેલા તંતુઓ \n(2) પેસ સેટર | (B) SAN \n(3) પુરકિંજે તંતુઓ | (C) AVN",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SAN એ મેઈન એન્જિન છે (Pacemaker).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: રક્તચિપટીકા (Platelets) | વિભાગ B: અન્ય નામ \n(1) રક્તકણો | (A) લ્યુકોસાઇટ્સ \n(2) શ્વેતકણો | (B) થ્રોમ્બોસાઇટ્સ \n(3) ત્રાકકણો | (C) ઇરિથ્રોસાઇટ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E-L-T (RBC-WBC-Platelets) ક્રમમાં યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: હૃદયના વાલ્વ | વિભાગ B: પાંખિયાની સંખ્યા \n(1) ત્રિદલ વાલ્વ | (A) બે પાંખિયા (Cusps) \n(2) દ્વિદલ વાલ્વ | (B) ત્રણ અર્ધચંદ્રાકાર પાંખિયા \n(3) અર્ધચંદ્રાકાર વાલ્વ | (C) ત્રણ પાંખિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ સંખ્યા છે. ત્રિ=3, દ્વિ=2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: રુધિરવાહિનીની દીવાલ | વિભાગ B: પેશીનો પ્રકાર \n(1) ટ્યુનિકા ઇન્ટરના | (A) સ્થિતિસ્થાપક સંયોજક પેશી \n(2) ટ્યુનિકા મીડિયા | (B) લાદીસમ અંતઃછદ \n(3) ટ્યુનિકા એક્સટર્ના | (C) સરળ સ્નાયુ પેશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર (In) સ્મૂથ લાદી (Endothelium), વચ્ચે (Middle) મજબૂત મસલ્સ (Muscle).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: હૃદયનો ધબકાર | વિભાગ B: વિદ્યુત માર્ગ \n(1) પ્રથમ આવેગ | (A) પુર્કિન્જે તંતુઓ \n(2) મધ્યસ્થી આવેગ | (B) SAN \n(3) અંતિમ ફેલાવો | (C) AVN",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S -> A -> B -> P (SAN-AVN-Bundle-Purkinje).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: રુધિર દબાણના ઘટકો | વિભાગ B: સ્થિતિ \n(1) સિસ્ટોલિક દબાણ | (A) હૃદયના આરામ સમયનું દબાણ (80) \n(2) ડાયાસ્ટોલિક દબાણ | (B) ધમનીમાં ક્ષાર જામવો \n(3) એથરોસ્ક્લેરોસિસ | (C) હૃદયના સંકોચન સમયનું દબાણ (120)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S = Super (High/120), D = Down (Low/80).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: હૃદય નિષ્ફળતા | વિભાગ B: લાક્ષણિકતા \n(1) હાર્ટ એટેક | (A) હૃદયના ધબકારા અચાનક બંધ થવા \n(2) હાર્ટ ફેઈલ્યોર | (B) હૃદયના સ્નાયુને નુકસાન \n(3) કાર્ડિયાક એરેસ્ટ | (C) ફેફસામાં રુધિર ભરાવો (Congestion)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Arrest = Stop (ધબકારા બંધ), Failure = Congestion (ભરાવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: વાયુ વહન | વિભાગ B: રુધિરવાહિની \n(1) ફુપ્ફુસીય ધમની | (A) શુદ્ધ રુધિર (ઓક્સિજનયુક્ત) હૃદયમાં લાવે \n(2) ફુપ્ફુસીય શિરા | (B) અશુદ્ધ રુધિર ફેફસામાં લઈ જાય \n(3) મહાધમની | (C) શુદ્ધ રુધિર આખા શરીરમાં મોકલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pulmonary (ફુપ્ફુસીય) માં ધમની-શિરાનું કામ ઉલટું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: લ્યુકોસાઇટ્સની વિશેષતા | વિભાગ B: કોષનું પ્રકાર \n(1) એન્ટીહિસ્ટામાઈન ગુણ | (A) ન્યુટ્રોફિલ્સ \n(2) સૌથી મોટા કદના | (B) ઇઓસિનિફિલ્સ \n(3) સૌથી વધુ સંખ્યામાં | (C) મોનોસાઇટ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોનો (Mono) = મેક્રો (Macro/મોટું). ન્યુટ્રો (Neutro) = ન્યુમરસ (Numerous/વધુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: રુધિર અને લસિકા | વિભાગ B: તફાવત \n(1) રુધિર | (A) RBC હોતા નથી, માત્ર WBC \n(2) લસિકા | (B) કેલ્શિયમ ધરાવે છે \n(3) રુધિર ગંઠાવવાની ક્રિયા | (C) હિમોગ્લોબિન અને પ્રોટીનયુક્ત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા = લોહી - (RBC + મોટા પ્રોટીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: સંયોજક પેશી | વિભાગ B: ઉદાહરણ \n(1) પ્રવાહી સંયોજક પેશી | (A) સ્નાયુઓ \n(2) રક્ષણાત્મક આવરણ | (B) રુધિર \n(3) સંકોચનશીલ પેશી | (C) રદ આવરણ (Pericardium)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું શરીર જે જોડે તે બ્લડ (પ્રવાહી સંયોજક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: હૃદયના ધબકારા | વિભાગ B: પરિસ્થિતિ \n(1) ટેકીકાર્ડિયા | (A) ધબકારા સામાન્યથી ઘટવા \n(2) બ્રેડીકાર્ડિયા | (B) ધબકારા સામાન્યથી વધવા \n(3) નોર્મલ | (C) 72 ધબકારા/મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = Tall (વધારે), B = Below (ઓછા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: હૃદયની દીવાલના સ્તરો | વિભાગ B: સ્થાન \n(1) એપિકાર્ડિયમ | (B) મધ્ય સ્નાયુલ સ્તર \n(2) માયોકાર્ડિયમ | (A) સૌથી બહારનું સ્તર \n(3) એન્ડોકાર્ડિયમ | (C) સૌથી અંદરનું સ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-B), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Epi (Upon/Out), Myo (Muscle/Middle), Endo (Inside).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: અન્ય તંત્રો | વિભાગ B: કાર્ય \n(1) લસિકા તંત્ર | (A) નાઈટ્રોજનયુક્ત કચરાનું નિકાલ \n(2) ઉત્સર્જન તંત્ર | (B) વાયુઓનું વહન \n(3) પરિવહન તંત્ર | (C) પ્રવાહીનું સંતુલન અને સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા એટલે રુધિરનું ફિલ્ટર અને સપોર્ટ સિસ્ટમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: હૃદયના ધબકારાનું નિયમન | વિભાગ B: કેન્દ્ર \n(1) લંબમજ્જા (Medulla) | (A) રદ ક્રિયાનું ચેતાકીય નિયમન \n(2) હાઈપોથેલેમસ | (B) ઓક્સિજનના સ્તરનું નિયમન \n(3) એરોટિક આર્ક | (C) તાપમાન અને દબાણનું નિયમન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-C), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબમજ્જા એટલે 'Life center' (હૃદય અને શ્વાસોશ્વાસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: એન્ટિજન અને એન્ટિબોડી | વિભાગ B: સ્થાન \n(1) એન્ટિજન | (A) રુધિરરસ (Plasma) માં \n(2) એન્ટિબોડી | (B) રકતકણની સપાટી પર \n(3) Rh કારક | (C) રકતકણની સપાટી પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ટિજન હંમેશા 'સરફેસ' (સપાટી) પર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: નળીનો લ્યુમેન (પોલાણ) | વિભાગ B: રુધિરવાહિની \n(1) સાંકડું પોલાણ | (A) શિરા \n(2) પહોળું પોલાણ | (B) ધમની \n(3) અત્યંત પાતળી દીવાલ | (C) રુધિરકેશિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમનીમાં પ્રેશર વધુ એટલે પોલાણ સાંકડું. શિરામાં પ્રેશર ઓછું એટલે પોલાણ પહોળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: થ્રોમ્બોસાઇટ્સનું નિર્માણ | વિભાગ B: કોષો \n(1) રક્તકણો | (A) મેગ્નેશિયમ \n(2) ત્રાકકણો | (B) મેગાકેરિયોસાઇટ્સ \n(3) ખનિજ | (C) એરિથ્રોબ્લાસ્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-B), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગા (Mega) કોષો તૂટીને ત્રાકકણો બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: પરિવહન તંત્રના શોધક | વિભાગ B: વિજ્ઞાની \n(1) રુધિર પરિવહન | (A) કાર્લ લેન્ડસ્ટીનર \n(2) રુધિર જૂથો (ABO) | (B) વિલિયમ હાર્વે \n(3) Rh કારક | (C) લેન્ડસ્ટીનર અને વિનર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાર્વે એ હૃદયનું પરિવહન શોધ્યું. લેન્ડસ્ટીનર એ બ્લડ ગ્રુપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: ક્ષેપક અને કર્ણક | વિભાગ B: દીવાલની જાડાઈ \n(1) જમણું કર્ણક | (A) સૌથી જાડી દીવાલ \n(2) ડાબું ક્ષેપક | (B) પાતળી દીવાલ \n(3) જમણું ક્ષેપક | (C) મધ્યમ જાડી દીવાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબા ક્ષેપકે આખા શરીરમાં લોહી પંપ કરવાનું હોય, એટલે તે સૌથી 'સ્ટ્રોંગ' અને જાડું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: રુધિરરસના અકાર્બનિક ક્ષારો | વિભાગ B: આયન \n(1) ક્લોરાઈડ | (A) Mg++ \n(2) સોડિયમ | (B) Cl- \n(3) મેગ્નેશિયમ | (C) Na+",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ આયનો રુધિરનું આશૃતિ દબાણ જાળવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: હૃદય ચક્રની સ્થિતિ | વિભાગ B: વાલ્વની સ્થિતિ \n(1) ક્ષેપક સંકોચન | (A) અર્ધચંદ્રાકાર વાલ્વ ખુલે \n(2) ક્ષેપક શિથિલન | (B) AV વાલ્વ બંધ થાય \n(3) કર્ણક સંકોચન | (C) AV વાલ્વ ખુલ્લા હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકોચન થાય એટલે પાછળનો દરવાજો બંધ અને આગળનો ખુલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: હૃદયના ધબકારાની સંખ્યા | વિભાગ B: સજીવ \n(1) પુખ્ત મનુષ્ય | (A) 12-16 વખત/મિનિટ (શ્વસન દર) \n(2) નવજાત શિશુ | (B) 70-75 વખત/મિનિટ \n(3) એથ્લેટ (રમતવીર) | (C) ઘણું વધારે (100+)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A માં રમતવીરનું રદ આઉટપુટ વધારે હોય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું બાળક = ફાસ્ટ હાર્ટ રેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: રક્તકણોની સંખ્યામાં ફેરફાર | વિભાગ B: સ્થિતિ \n(1) એરિથ્રોસાયટોપેનિયા | (A) RBC માં વધારો \n(2) પોલીસાયથેમિયા | (B) RBC માં ઘટાડો \n(3) લ્યુકોસાઇટોસિસ | (C) WBC માં વધારો (ચેપ વખતે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Penia = ઘટાડો, Cythemia/Osis = વધારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: રુધિર કોષોના આકાર | વિભાગ B: કોષ \n(1) દ્વિઅંતર્ગોળ | (A) શ્વેતકણ \n(2) અનિયમિત (અમીબા જેવો) | (B) ત્રાકકણ \n(3) નાના કોષીય ટુકડાઓ | (C) રક્તકણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC = Biconcave (વચ્ચેથી ચપટા) જેથી સપાટી વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: રુધિર જામવાના કારકો | વિભાગ B: નંબર \n(1) ફાઈબ્રિનોજન | (A) કારક II \n(2) પ્રોથ્રોમ્બિન | (B) કારક IV \n(3) કેલ્શિયમ | (C) કારક I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Foolish People Can Try' (Fibrinogen-Prothrombin-Calcium-Thromboplastin = 1-2-4-3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: હૃદયના ધબકારા માપવા | વિભાગ B: સાધન \n(1) ધબકારા સાંભળવા | (A) સ્ફિગ્મોમેનોમીટર \n(2) રુધિર દબાણ માપવા | (B) સ્ટેથોસ્કોપ \n(3) હૃદયનો ગ્રાફ | (C) ECG મશીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: BP માપવા માટે 'સ્ફિગ્મો' (યાદ રાખવા અઘરું નામ એટલે મશીન મોટું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: પ્રવાહી | વિભાગ B: બંધારણ \n(1) સીરમ (Serum) | (A) પેશી પ્રવાહી \n(2) લસિકા | (B) રુધિરરસ - રુધિર ગંઠાવવાના કારકો \n(3) રુધિરરસ | (C) રુધિર - સંગઠિત ઘટકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીરમ એટલે પ્લાઝ્મામાંથી ક્લોટિંગ ફેક્ટર કાઢી નાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: રુધિર ગંઠાવવા વિરોધી પદાર્થ | વિભાગ B: પદાર્થ \n(1) કુદરતી (શરીરમાં) | (A) સોડિયમ સાઇટ્રેટ \n(2) કૃત્રિમ (લેબમાં) | (B) હિપેરીન \n(3) જળોમાં | (C) હિરુડિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિપેરીન શરીરની અંદર લોહી જામવા ન દે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: હૃદયના કર્ણકો | વિભાગ B: રુધિરનો પ્રકાર \n(1) જમણું કર્ણક | (A) O2 યુક્ત રુધિર (શુદ્ધ) \n(2) ડાબું કર્ણક | (B) મિશ્ર રુધિર \n(3) માછલીનું કર્ણક | (C) CO2 યુક્ત રુધિર (અશુદ્ધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Right is Wrong' (જમણી બાજુ અશુદ્ધ લોહી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: હૃદયના વાલ્વનું સંકોચન | વિભાગ B: અસરો \n(1) પેપિલરી સ્નાયુઓ | (A) અર્ધચંદ્રાકાર વાલ્વ સાથે જોડાયેલ \n(2) રદ રજ્જુ (Chordae tendineae) | (B) ક્ષેપકની દીવાલમાં આવેલા \n(3) સ્તંભાકાર સ્નાયુઓ | (C) વાલ્વને ઉલટાતા અટકાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A માં ક્ષેપકમાં હોય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Chordae tendineae એ હૃદયના તાર છે જે વાલ્વને પકડી રાખે છે.</p></div>"
+    }
+  ]
+}

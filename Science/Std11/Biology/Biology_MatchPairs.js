@@ -5821,3 +5821,386 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "પ્રચલન અને હલનચલન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. અમીબીય હલનચલન<br>2. પક્ષ્મલ હલનચલન<br>3. સ્નાયુલ હલનચલન<br><br>વિભાગ-B:<br>A. શ્વાસનળી અને અંડવાહિની<br>B. મેક્રોફેજ અને શ્વેતકણો<br>C. જડબાં અને જીભ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અમીબા-મેક્રો' (Amoeboid-Macrophage), 'શ્વાસ-પક્ષ્મ' (Cilia-Trachea).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ-A (સ્નાયુના પ્રકાર) ને વિભાગ-B (લાક્ષણિકતા) સાથે જોડો:<br>1. કંકાલ સ્નાયુ<br>2. કોષ્ઠાંતર સ્નાયુ<br>3. હૃદ સ્નાયુ<br><br>વિભાગ-B:<br>A. અરેખિત અને અનૈચ્છિક<br>B. શાખિત અને રેખિત<br>C. રેખિત અને ઐચ્છિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંકાલ-ઈચ્છા (Skeletal-Voluntary), હૃદય-શાખા (Heart-Branch).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. ફેસિયા (Fascia)<br>2. સ્નાયુતંતુ પડ<br>3. સ્નાયુરસ જાળ<br><br>વિભાગ-B:<br>A. સ્નાયુતંતુનું જીવરસપડ<br>B. કેલ્શિયમ આયનોનો સંગ્રહસ્થાન<br>C. સંયોજક પેશીનું સ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાળ-કેલ્શિયમ' (Reticulum-Calcium store).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ-A (બિંબ) ને વિભાગ-B (પ્રોટીન) સાથે જોડો:<br>1. 'A' બિંબ<br>2. 'I' બિંબ<br>3. 'H' વિસ્તાર<br><br>વિભાગ-B:<br>A. માત્ર એક્ટિન<br>B. એક્ટિન અને માયોસિન બંને<br>C. માત્ર માયોસિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' એટલે Isotropic (પાતળું-એક્ટિન), 'A' એટલે Anisotropic (જાડું-માયોસિન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. Z-રેખા<br>2. M-રેખા<br>3. સાર્કોમિયર<br><br>વિભાગ-B:<br>A. 'A' બિંબની મધ્યમાં આવેલ પટલ<br>B. બે ક્રમિક Z-રેખા વચ્ચેનો ભાગ<br>C. 'I' બિંબની મધ્યમાં આવેલ સ્થિતિસ્થાપક તંતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z-I (ઝી), M-A (માં). સાર્કોમિયર = ક્રમિક Z-Z.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ-A (પ્રોટીન) ને વિભાગ-B (લાક્ષણિકતા) સાથે જોડો:<br>1. G-એક્ટિન<br>2. ટ્રોપોમાયોસિન<br>3. ટ્રોપોનિન<br><br>વિભાગ-B:<br>A. માયોસિન બાઈન્ડિંગ સાઈટને ઢાંકે છે<br>B. ગોળાકાર એક્ટિન એકમ<br>C. જટિલ પ્રોટીન જે અંતરાલે ગોઠવાયેલ હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' for Globular (ગોળાકાર), 'Tropo' ઢાંકવાનું કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ-A (માયોસિન ભાગ) ને વિભાગ-B (નામ) સાથે જોડો:<br>1. ભારે મેરોમાયોસિન (HMM)<br>2. હલકું મેરોમાયોસિન (LMM)<br>3. ક્રોસ આર્મ (Cross Arm)<br><br>વિભાગ-B:<br>A. પૂંછડી<br>B. શીર્ષ અને ટૂંકી ભુજા<br>C. બહારની તરફ ઉપસેલો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heavy (ભારે) એટલે માથું (HMM), Light (હલકું) એટલે પૂંછડી (LMM).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. સરકતા તંતુનો સિદ્ધાંત<br>2. ન્યુરોમસ્ક્યુલર જંકશન<br>3. એસિટાઇલ કોલિન<br><br>વિભાગ-B:<br>A. ચેતાપ્રેષક દ્રવ્ય<br>B. હકસલે અને હકસલે<br>C. પ્રેરક ચેતાક્ષ અને સ્નાયુતંતુ વચ્ચેનું જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H' for Huxley - Sliding theory.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ-A (સ્નાયુ સંકોચન સ્થિતિ) ને વિભાગ-B (ફેરફાર) સાથે જોડો:<br>1. સ્નાયુ સંકોચન દરમિયાન<br>2. I-બિંબની લંબાઈ<br>3. A-બિંબની લંબાઈ<br><br>વિભાગ-B:<br>A. ઘટે છે<br>B. અચળ રહે છે<br>C. Z-રેખા અંદરની તરફ ખેંચાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' stands for Always same (લંબાઈ બદલાતી નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ-A (સ્નાયુ પ્રકાર) ને વિભાગ-B (લાક્ષણિકતા) સાથે જોડો:<br>1. લાલ સ્નાયુતંતુ<br>2. સફેદ સ્નાયુતંતુ<br>3. માયોપ્લોબિન<br><br>વિભાગ-B:<br>A. વધુ કણભસૂત્ર, જારક શ્વસન<br>B. ઓક્સિજન સંગ્રાહક રંજકદ્રવ્ય<br>C. ઓછું માયોપ્લોબિન, અજારક શ્વસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-C, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Red = Rich (Mitochondria & Myoglobin), White = Weak (less Myoglobin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ-A (અક્ષીય કંકાલ) ને વિભાગ-B (અસ્થિ સંખ્યા) સાથે જોડો:<br>1. ખોપરી (Skull)<br>2. કરોડસ્તંભ (Vertebrae)<br>3. છાતીનું અસ્થિ (Sternum)<br><br>વિભાગ-B:<br>A. 26<br>B. 1<br>C. 22 (મુખ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરોડરજ્જુ 26 વર્ષે મજબૂત થાય (26 vertebrae).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ-A (ખોપરીના અસ્થિ) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. મસ્તક અસ્થિ (Cranial)<br>2. ચહેરાના અસ્થિ (Facial)<br>3. દ્વિતીયક હાયોઈડ (Hyoid)<br><br>વિભાગ-B:<br>A. 14<br>B. 1<br>C. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથું-8, મોઢું-14.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ-A (કર્ણ અસ્થિ) ને વિભાગ-B (ક્રમ) સાથે જોડો:<br>1. હથોડી (Malleus)<br>2. એરણ (Incus)<br>3. પેંગડું (Stapes)<br><br>વિભાગ-B:<br>A. અંદરનું અસ્થિ<br>B. બહારનું અસ્થિ<br>C. મધ્યનું અસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'MIS' (Malleus-Incus-Stapes) - બહારથી અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ-A (કરોડસ્તંભના પ્રકાર) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. ગ્રીવા (Cervical)<br>2. ઉરસીય (Thoracic)<br>3. કટિ (Lumbar)<br><br>વિભાગ-B:<br>A. 12<br>B. 5<br>C. 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેકફાસ્ટ-7, લંચ-12, ડિનર-5 (C7, T12, L5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. સાચી પાંસળીઓ<br>2. ખોટી પાંસળીઓ<br>3. તરતી પાંસળીઓ<br><br>વિભાગ-B:<br>A. 8, 9 અને 10મી જોડ<br>B. 11 અને 12મી જોડ<br>C. 1 થી 7મી જોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7-સાચી, 3-ખોટી (8,9,10), 2-તરતી (11,12).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ-A (અગ્ર ઉપાંગ અસ્થિ) ને વિભાગ-B (નામ) સાથે જોડો:<br>1. ભુજાસ્થિ<br>2. મણિબંધાસ્થિ<br>3. અંગુલ્યાસ્થિ<br><br>વિભાગ-B:<br>A. કાંડાના અસ્થિ (8)<br>B. આંગળીઓના અસ્થિ (14)<br>C. ઉપરના હાથનું અસ્થિ (1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મણિબંધ-8 (Carpals), અંગુલ્યા-14 (Phalanges).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ-A (પશ્ચ ઉપાંગ અસ્થિ) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. ઉર્વસ્થિ (Femur)<br>2. ગુલ્ફાસ્થિ (Tarsals)<br>3. પ્રગુલ્ફાસ્થિ (Metatarsals)<br><br>વિભાગ-B:<br>A. 5<br>B. 7<br>C. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથે કાંડામાં 8 પણ પગમાં ઘૂંટીમાં 7 (એક અસ્થિ પટ્ટિકામાં ગયું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ-A (સંધિ/સાંધા) ને વિભાગ-B (ઉદાહરણ) સાથે જોડો:<br>1. મિજાગરાનો સાંધો<br>2. ઉખળી સાંધો<br>3. કંદુક ખલ સાંધો<br><br>વિભાગ-B:<br>A. એટલાસ અને અક્ષ વચ્ચે<br>B. ખભાનો સાંધો<br>C. કોણીનો સાંધો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાલ-ખભા' (Ball-Shoulder), 'મિજાગરા-કોણી' (Hinge-Elbow).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ-A (સાંધા પ્રકાર) ને વિભાગ-B (ગતિશીલતા) સાથે જોડો:<br>1. તંતુમય સાંધા<br>2. કાસ્થિમય સાંધા<br>3. સાયનોવિયલ સાંધા<br><br>વિભાગ-B:<br>A. અત્યંત ગતિશીલતા<br>B. ગતિશીલતાનો અભાવ (અચલ)<br>C. મર્યાદિત ગતિશીલતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંતુ-No, કાસ્થિ-Little, સાયનોવિયલ-Full.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ-A (રોગો) ને વિભાગ-B (લક્ષણ) સાથે જોડો:<br>1. માયસ્થેનિયા ગ્રેવિસ<br>2. મસ્ક્યુલર ડિસ્ટ્રોફી<br>3. ટેટેની<br><br>વિભાગ-B:<br>A. સ્નાયુઓમાં તીવ્ર સંકોચન (Ca++ ઉણપ)<br>B. સ્વ-પ્રતિરક્ષા રોગ (ચેતા-સ્નાયુ જોડાણ)<br>C. જનીનિક ખામીને લીધે સ્નાયુનો હ્રાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્રેવિસ-સ્વ' (Autoimmune), 'ડિસ્ટ્રોફી-જનીન' (Genetic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ-A (સ્થાન) ને વિભાગ-B (સાંધાનો પ્રકાર) સાથે જોડો:<br>1. ઘૂંટણનો સાંધો<br>2. અંગૂઠાનો સાંધો<br>3. મણિબંધાસ્થિ વચ્ચે<br><br>વિભાગ-B:<br>A. સડલ સાંધો (Saddle)<br>B. મિજાગરા સાંધો (Hinge)<br>C. લપસતો સાંધો (Gliding)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘૂંટણ-મિજાગરો, અંગૂઠો-સડલ (Thumbs up for Saddle).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (મેખલા) સાથે જોડો:<br>1. ક્લેવિકલ (અક્ષક)<br>2. સ્કેપ્યુલા (સ્કંધાસ્થિ)<br>3. ઈલિયમ, ઈશ્ચિયમ, પ્યુબિસ<br><br>વિભાગ-B:<br>A. સ્કંધ મેખલા (પાછળનો ત્રિકોણાકાર ભાગ)<br>B. નિતંબ મેખલા<br>C. સ્કંધ મેખલા (કોલર બોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Clavicle = Collar (C-C), Pelvic = 3 parts.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ-A (ખોપરીના અસ્થિ) ને વિભાગ-B (વિગત) સાથે જોડો:<br>1. ફ્રન્ટલ (Frontal)<br>2. પેરાઈટલ (Parietal)<br>3. ઓક્સિપિટલ (Occipital)<br><br>વિભાગ-B:<br>A. ખોપરીનો પાછળનો ભાગ<br>B. કપાળનું અસ્થિ<br>C. ખોપરીની ઉપરની બાજુ (જોડમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Frontal-Front (આગળ), Occipital-Back (પાછળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. અસ્થિ સુષિરતા (Osteoporosis)<br>2. ગાઉટ (Gout)<br>3. આર્થરાઈટિસ (Arthritis)<br><br>વિભાગ-B:<br>A. સાંધાનો સોજો<br>B. ઇસ્ટ્રોજનના ઘટાડાથી અસ્થિદ્રવ્ય ઘટવું<br>C. યુરિક એસિડના સ્ફટિકો જમા થવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gout-Uric acid (GU), Osteo-Estrogen (OE).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ-A (અસ્થિ છિદ્ર/ખાડો) ને વિભાગ-B (સાંધો) સાથે જોડો:<br>1. ગ્લેનોઈડ ગુહા<br>2. એસીટાબુલમ<br>3. ફોરામેન મેગ્નમ<br><br>વિભાગ-B:<br>A. નિતંબ મેખલા અને ઉર્વસ્થિ<br>B. ખોપરીના તળિયે મોટું છિદ્ર<br>C. સ્કંધ મેખલા અને ભુજાસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્કડ ટ્રીક: Glenoid-Shoulder, Acetabulum-Hip.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ-A (પાંસળીઓ) ને વિભાગ-B (જોડાણ) સાથે જોડો:<br>1. વર્ટેબ્રો-સ્ટર્નલ<br>2. વર્ટેબ્રો-કોન્ડ્રલ<br>3. તરતી પાંસળીઓ<br><br>વિભાગ-B:<br>A. 8, 9, 10મી જોડ<br>B. 11, 12મી જોડ<br>C. 1 થી 7મી જોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sternum (છાતી) સુધી પહોંચે તે સાચી (1-7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ-A (સંખ્યા) ને વિભાગ-B (અસ્થિ) સાથે જોડો:<br>1. કરાડસ્તંભના અસ્થિ (પુખ્ત)<br>2. હાથના કુલ અસ્થિ (બંને)<br>3. ચહેરાના અસ્થિ<br><br>વિભાગ-B:<br>A. 60<br>B. 14<br>C. 26",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હાથમાં 30, બે માં 60.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ-A (ગુણધર્મ) ને વિભાગ-B (પેશી) સાથે જોડો:<br>1. ઉત્તેજનાશીલતા અને સંકોચનશીલતા<br>2. સખત અને બિન-સ્થિતિસ્થાપક<br>3. અર્ધ-સખત અને સ્થિતિસ્થાપક<br><br>વિભાગ-B:<br>A. કાસ્થિ<br>B. સ્નાયુ<br>C. અસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્થિ-પથ્થર જેવું, કાસ્થિ-રબર જેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. એટલાસ (Atlas)<br>2. એક્સિસ (Axis)<br>3. ટેલ બોન (Coccyx)<br><br>વિભાગ-B:<br>A. દ્વિતીય ગ્રીવા કશેરુકા<br>B. છેલ્લી પૂંછડી જેવી કશેરુકા<br>C. પ્રથમ ગ્રીવા કશેરુકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Atlas પૃથ્વી ઉપાડે, તેમ તે માથું ઉપાડે (1st).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ-A (સ્નાયુ ઘટક) ને વિભાગ-B (વર્ણન) સાથે જોડો:<br>1. સ્નાયુતંતુખંડ (Sarcomere)<br>2. સ્નાયુરસ (Sarcoplasm)<br>3. સ્નાયુતંતુક (Myofibril)<br><br>વિભાગ-B:<br>A. સ્નાયુતંતુમાં સમાંતર ગોઠવાયેલા તંતુકો<br>B. કાર્યકારી એકમ<br>C. સ્નાયુતંતુનું કોષરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sarcomere = Unit (એકમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (સ્થાન) સાથે જોડો:<br>1. અરિય અને અંતઃપ્રકોષ્ઠાસ્થિ<br>2. ટિબિયા અને ફિબ્યુલા<br>3. જાનુફલક (Patella)<br><br>વિભાગ-B:<br>A. ઘૂંટણની ઢાંકણી<br>B. નીચેનો હાથ (Forearm)<br>C. નીચેનો પગ (Shank)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Radius-Ulna (હાથ), Tibia-Fibula (પગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. એક્ટિન<br>2. માયોસિન<br>3. સ્ટીલમ (ATP)<br><br>વિભાગ-B:<br>A. ઉર્જા પૂરી પાડે<br>B. જાડા તંતુકો<br>C. પાતળા તંતુકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Actin-Thin (પાતળું), Myosin-Thick (જાડું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ-A (વૈજ્ઞાનિક નામ) ને વિભાગ-B (સામાન્ય નામ) સાથે જોડો:<br>1. ક્લેવિકલ<br>2. પ્યુબિક સિમ્ફાયસિસ<br>3. સ્કેપ્યુલા<br><br>વિભાગ-B:<br>A. નિતંબ મેખલાનું જોડાણસ્થાન<br>B. અક્ષક (કોલર બોન)<br>C. સ્કંધાસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Scapula = Shoulder blade (ત્રિકોણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ-A (પ્રોટીન અણુ) ને વિભાગ-B (રચના) સાથે જોડો:<br>1. F-એક્ટિન<br>2. ટ્રોપોનિન<br>3. મેરોમાયોસિન<br><br>વિભાગ-B:<br>A. માયોસિનનો એકમ<br>B. બે સર્પાકાર રીતે વીંટળાયેલા તંતુઓ<br>C. ત્રણ ગોળાકાર પ્રોટીનનો બનેલો સમૂહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meromyosin is monomer of Myosin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ-A (સંકોચન તબક્કો) ને વિભાગ-B (ઘટના) સાથે જોડો:<br>1. ઉત્તેજના<br>2. ક્રોસ બ્રિજ રચના<br>3. રિલેક્સેશન (શિથિલન)<br><br>વિભાગ-B:<br>A. માયોસિન શીર્ષ એક્ટિન સાથે જોડાય<br>B. Ca++ નું પાછું ખેંચાવું<br>C. એસિટાઇલ કોલિન મુક્ત થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ca++ પાછું જાય તો સ્નાયુ શાંત (Relax) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. હથેળી (Metacarpals)<br>2. કાંડું (Carpals)<br>3. આંગળીઓ (Phalanges)<br><br>વિભાગ-B:<br>A. 8<br>B. 14<br>C. 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંડું-8, હથેળી-5, આંગળી-14.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ-A (ખોપરીના અસ્થિ) ને વિભાગ-B (જોડમાં છે કે નહીં) સાથે જોડો:<br>1. ટેમ્પોરલ (Temporal)<br>2. સ્ફીનોઈડ (Sphenoid)<br>3. એથમોઈડ (Ethmoid)<br><br>વિભાગ-B:<br>A. અયુગ્મિત (1)<br>B. યુગ્મિત (2)<br>C. અયુગ્મિત (1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' and 'T' are 2 (Parietal & Temporal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ-A (સ્નાયુના ગુણધર્મો) ને વિભાગ-B (અર્થ) સાથે જોડો:<br>1. ઉત્તેજનાશીલતા<br>2. સંકોચનશીલતા<br>3. સ્થિતિસ્થાપકતા<br><br>વિભાગ-B:<br>A. ટૂંકા થવાની ક્ષમતા<br>B. મૂળ સ્થિતિમાં પાછા આવવાની ક્ષમતા<br>C. પ્રતિભાવ આપવાની ક્ષમતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકોચન-નાનું થવું, સ્થિતિસ્થાપક-પાછું ફરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. હંસડી (Clavicle)<br>2. ઉરોસ્થિ (Sternum)<br>3. તાલવ્ય (Palatine)<br><br>વિભાગ-B:<br>A. ચહેરાનું અસ્થિ<br>B. અક્ષક<br>C. છાતીનું મધ્ય અસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sternum = છાતીની ટાઈ (Tie).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ-A (હલનચલન) ને વિભાગ-B (ઉદાહરણ) સાથે જોડો:<br>1. કશાધારી હલનચલન<br>2. પક્ષ્મલ હલનચલન<br>3. અમીબીય હલનચલન<br><br>વિભાગ-B:<br>A. અંડકોષનું વહન<br>B. શુક્રકોષનું વહન<br>C. શ્વેતકણો (WBC)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુક્રકોષ-પૂંછડી (Flagella), અંડકોષ-નળી (Cilia).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ-A (અસ્થિની સંખ્યા) ને વિભાગ-B (ભાગ) સાથે જોડો:<br>1. 80<br>2. 126<br>3. 206<br><br>વિભાગ-B:<br>A. ઉપાંગીય કંકાલ<br>B. પુખ્ત માનવમાં કુલ અસ્થિ<br>C. અક્ષીય કંકાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષીય (Axis) - સીધી રેખામાં 80, બાકીના 126 બાજુમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. પેંગડું (Stapes)<br>2. ઉર્વસ્થિ (Femur)<br>3. મિજાગરા સાંધો<br><br>વિભાગ-B:<br>A. સૌથી લાંબુ અસ્થિ<br>B. એક દિશામાં ગતિ<br>C. સૌથી નાનું અસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાનમાં નાનું (Stapes), સાથળમાં મોટું (Femur).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ-A (કરોડરજ્જુ ભાગ) ને વિભાગ-B (ચિહ્ન) સાથે જોડો:<br>1. સેક્રલ (ત્રિકાસ્થિ)<br>2. કોક્સિજિયલ (પૂચ્છાસ્થિ)<br>3. થોરાસિક (ઉરસીય)<br><br>વિભાગ-B:<br>A. Co<br>B. S<br>C. T",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેક્રલ-S, થોરાસિક-T (સરળ છે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. માયોસિન શીર્ષ<br>2. ATP બાઈન્ડિંગ સાઈટ<br>3. એક્ટિન બાઈન્ડિંગ સાઈટ<br><br>વિભાગ-B:<br>A. માયોસિન પર આવેલ<br>B. સક્રિય એટીપેઝ ઉત્સેચક તરીકે વર્તે<br>C. માયોસિન શીર્ષ પર આવેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયોસિન શીર્ષ = એન્જિન (ATPase).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ-A (સંખ્યા) ને વિભાગ-B (પાંસળીઓ) સાથે જોડો:<br>1. 24<br>2. 12<br>3. 2<br><br>વિભાગ-B:<br>A. તરતી પાંસળીઓની જોડ<br>B. પાંસળીઓની કુલ સંખ્યા<br>C. પાંસળીઓની કુલ જોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડ 12, સંખ્યા 24.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ-A (ઉર્જા સ્ત્રોત) ને વિભાગ-B (ઉપયોગ) સાથે જોડો:<br>1. ATP<br>2. ક્રિએટાઈન ફોસ્ફેટ<br>3. ગ્લાયકોજન<br><br>વિભાગ-B:<br>A. ઉર્જાનો સંગ્રહિત ખોરાક<br>B. તાત્કાલિક ઉર્જા સ્ત્રોત (સંકોચન માટે)<br>C. ઝડપી ATP પુનઃનિર્માણ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ATP-કરન્સી, ગ્લાયકોજન-બેંક બેલેન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. લાઈટ મેરોમાયોસિન<br>2. હેવી મેરોમાયોસિન<br>3. ક્રોસ આર્મ<br><br>વિભાગ-B:<br>A. લંબાયેલ ભુજા<br>B. પૂંછડીનો ભાગ<br>C. શીર્ષનો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-Tail, H-Head.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ-A (બિંબ) ને વિભાગ-B (વર્ણન) સાથે જોડો:<br>1. ઘેરો બિંબ<br>2. ઝાંખો બિંબ<br>3. H-ઝોન<br><br>વિભાગ-B:<br>A. માયોસિન તંતુનો મધ્ય ભાગ (એક્ટિન વગરનો)<br>B. A - બિંબ<br>C. I - બિંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-Dark (ઘેરો), I-Light (ઝાંખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ-A (સાંધો) ને વિભાગ-B (વૈજ્ઞાનિક નામ) સાથે જોડો:<br>1. ખોપરીના અસ્થિ વચ્ચે<br>2. કરોડસ્તંભના અસ્થિ વચ્ચે<br>3. સાયનોવિયલ પ્રવાહી યુક્ત<br><br>વિભાગ-B:<br>A. કાર્ટિલેજિનસ (કાસ્થિમય)<br>B. સાયનોવિયલ<br>C. ફાઈબ્રસ (તંતુમય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોપરીમાં સીવણ (Sutures) એટલે તંતુમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. સ્નાયુ લેક્ટિક એસિડ<br>2. થાક (Fatigue)<br>3. કોરી ચક્ર (Cori cycle)<br><br>વિભાગ-B:<br>A. સ્નાયુમાં લેક્ટિક એસિડ જમા થવાથી<br>B. ગ્લાયકોજનનું અજારક વિઘટન<br>C. યકૃત અને સ્નાયુ વચ્ચે લેક્ટિક એસિડનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેક્ટિક એસિડ = થાક (Pain/Fatigue).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ-A (કરડસ્તંભ સૂત્ર) ને વિભાગ-B (નામ) સાથે જોડો:<br>1. C7<br>2. T12<br>3. L5<br><br>વિભાગ-B:<br>A. ઉરસીય<br>B. કટિ<br>C. ગ્રીવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CTL (સીટી મારો લાઈનમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. ડાયકોન્ડાયલિક (Dicondylic)<br>2. હાયોઈડ (Hyoid)<br>3. મેન્ડિબલ (Mandible)<br><br>વિભાગ-B:<br>A. જીભના તળિયે યુ-આકારનું અસ્થિ<br>B. નીચેનું જડબું (એકમાત્ર હલનચલન કરતું ખોપરીનું અસ્થિ)<br>C. બે ઓક્સિપિટલ કોન્ડાઈલ ધરાવતી ખોપરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mandible = Moveable (હલી શકે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. પ્યુબિક સિમ્ફાયસિસ<br>2. ઇલિયમ (Ilium)<br>3. નિતંબ અસ્થિ (Coxal bone)<br><br>વિભાગ-B:<br>A. 2<br>B. 1<br>C. 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે કોક્સલ ભેગા મળી નિતંબ મેખલા બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ-A (પ્રોટીન એકમ) ને વિભાગ-B (નામ) સાથે જોડો:<br>1. એક્ટિનનો મોનોમર<br>2. માયોસિનનો મોનોમર<br>3. ટ્રોપોનિનના પેટા એકમો<br><br>વિભાગ-B:<br>A. 3<br>B. મેરોમાયોસિન<br>C. G-એક્ટિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' for Global/Unit of F-Actin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ-A (નિયમન) ને વિભાગ-B (ઘટક) સાથે જોડો:<br>1. Ca++<br>2. Mg++<br>3. Na+<br><br>વિભાગ-B:<br>A. સ્નાયુ ઉત્તેજના (Depolarization)<br>B. ટ્રોપોનિન સાથે જોડાઈ માયોસિન સાઈટ ખુલ્લી કરે<br>C. એટીપેઝ (ATPase) ની સક્રિયતા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Calcium is key for Contraction.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (વિશેષતા) સાથે જોડો:<br>1. સ્કેપ્યુલા<br>2. એક્રોમિયન પ્રવર્ધ<br>3. કોરાકોઈડ પ્રવર્ધ<br><br>વિભાગ-B:<br>A. સ્કેપ્યુલાનો ઉપસેલો ભાગ<br>B. ચપટું ત્રિકોણાકાર અસ્થિ<br>C. અક્ષક સાથે જોડાતો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Scapula-Triangle.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ-A (સાંધો) ને વિભાગ-B (ઉદાહરણ) સાથે જોડો:<br>1. સરકતો સાંધો (Gliding)<br>2. ઉખળી સાંધો (Pivot)<br>3. સડલ સાંધો (Saddle)<br><br>વિભાગ-B:<br>A. અંગૂઠાના મણિબંધાસ્થિ અને પૂર્વનિબંધાસ્થિ<br>B. મણિબંધાસ્થિઓ વચ્ચે<br>C. એટલાસ અને એક્સિસ વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pivot (ઉખળી) - માથું ફેરવવા માટે (No/Yes movement).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. સ્નાયુતંતુખંડની લંબાઈ<br>2. સંકોચનનો એકમ<br>3. લાલ સ્નાયુતંતુમાં વધુ<br><br>વિભાગ-B:<br>A. સાર્કોમિયર<br>B. કણભસૂત્ર<br>C. બે Z-રેખા વચ્ચેનું અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકોચનનો એકમ = સાર્કોમિયર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ-A (કશેરુકા) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. ગ્રીવા કશેરુકા (માનવ)<br>2. ગ્રીવા કશેરુકા (મોટાભાગના સસ્તન)<br>3. પૂચ્છાસ્થિ (જોડાયેલ)<br><br>વિભાગ-B:<br>A. 1<br>B. 7<br>C. 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસ્તન = 7 (ભલે જીરાફ હોય કે ઉંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ-A (અસ્થિ પ્રકાર) ને વિભાગ-B (ઉદાહરણ) સાથે જોડો:<br>1. ચપટા અસ્થિ<br>2. લાંબા અસ્થિ<br>3. અનિયમિત અસ્થિ<br><br>વિભાગ-B:<br>A. કરોડસ્તંભની કશેરુકા<br>B. ઉરોસ્થિ અને ખોપરીના અસ્થિ<br>C. ઉર્વસ્થિ અને ભુજાસ્થિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કશેરુકા-અનિયમિત (Irregular), હાથ-પગ-લાંબા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ-A (સ્નાયુ સંકોચન સિદ્ધાંત) ને વિભાગ-B (ક્રમ) સાથે જોડો:<br>1. પ્રથમ પગથિયું<br>2. બીજું પગથિયું<br>3. ત્રીજું પગથિયું<br><br>વિભાગ-B:<br>A. Ca++ મુક્તિ<br>B. CNS દ્વારા સંકેત<br>C. ટ્રોપોનિન સાથે જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા ઓર્ડર (CNS) પછી ચાવી (Ca++).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. સાર્કોલેમા<br>2. સાર્કોપ્લાઝમિક રેટિક્યુલમ<br>3. ટી-ટ્યુબ્યુલ્સ<br><br>વિભાગ-B:<br>A. અંતઃકોષરસ જાળનું રૂપાંતરણ<br>B. સ્નાયુ કોષરસ પટલ<br>C. ઉત્તેજના વહન માટેની નલિકાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેમ્મા-પટલ, રેટિક્યુલમ-જાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. મેટાકાર્પલ્સ<br>2. મેટાટાર્સલ્સ<br>3. ટાર્સલ્સ<br><br>વિભાગ-B:<br>A. 7<br>B. 5<br>C. 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meta-બંને માં 5 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ-A (ખામી) ને વિભાગ-B (અસર) સાથે જોડો:<br>1. સાંધામાં અવાજ આવવો<br>2. સ્નાયુબદ્ધ અશક્તિ (Fatigue)<br>3. હલનચલનમાં અવરોધ<br><br>વિભાગ-B:<br>A. લેક્ટિક એસિડ જમા થવો<br>B. સાયનોવિયલ પ્રવાહી ઘટવું<br>C. સાંધામાં સોજો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઈલ (Synovial fluid) ઓછું તો અવાજ વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (નામ) સાથે જોડો:<br>1. જાંઘનું અસ્થિ<br>2. ઘૂંટણનું અસ્થિ<br>3. ઘૂંટીના અસ્થિ<br><br>વિભાગ-B:<br>A. ઉર્વસ્થિ<br>B. ગુલ્ફાસ્થિ<br>C. જાનુફલક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-C, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાનુ (Patella) ઘૂંટણમાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. માયોસિન હેડ (Head)<br>2. માયોસિન ટેઈલ (Tail)<br>3. એક્ટિન હેલિક્સ<br><br>વિભાગ-B:<br>A. LMM<br>B. F-Actin<br>C. HMM",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H-Head, L-Low/Tail.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ-A (પાંસળીઓ) ને વિભાગ-B (ઉપનામ) સાથે જોડો:<br>1. સાચી પાંસળીઓ<br>2. ખોટી પાંસળીઓ<br>3. તરતી પાંસળીઓ<br><br>વિભાગ-B:<br>A. ગૌણ પાંસળીઓ<br>B. વર્ટેબ્રો-કોન્ડ્રલ<br>C. વર્ટેબ્રો-સ્ટર્નલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sternum સાથે જોડાય તે સાચી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. ઇલિયમ (Ilium)<br>2. ઇલિયમ (Ileum)<br>3. ઇશ્ચિયમ (Ischium)<br><br>વિભાગ-B:<br>A. પાચનતંત્રનો ભાગ<br>B. નિતંબ મેખલાનો ભાગ (ઉપરનો)<br>C. નિતંબ મેખલાનો ભાગ (નીચેનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'e' વાળું આંતરડામાં, 'i' વાળું અસ્થિમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ-A (ખોપરીના અસ્થિ) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. ઓક્સિપિટલ<br>2. પેરાઈટલ<br>3. એથમોઈડ<br><br>વિભાગ-B:<br>A. 1<br>B. 1<br>C. 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-C, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P and T are paired (2), rest 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ-A (સ્નાયુ ઘટકો) ને વિભાગ-B (કેલ્શિયમ જોડાણ) સાથે જોડો:<br>1. ટ્રોપોનિન-C<br>2. ટ્રોપોનિન-I<br>3. ટ્રોપોનિન-T<br><br>વિભાગ-B:<br>A. ટ્રોપોમાયોસિન સાથે જોડાયેલ<br>B. કેલ્શિયમ સાથે જોડાયેલ<br>C. અવરોધક એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C' for Calcium binding site.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (ચિહ્ન) સાથે જોડો:<br>1. સ્કેપ્યુલા<br>2. રેડિયસ-અલના<br>3. કાર્પલ્સ<br><br>વિભાગ-B:<br>A. 80<br>B. 2<br>C. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હાથમાં 1 Scapula, 2 Forearm bones.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ-A ને વિભાગ-B સાથે જોડો:<br>1. લાલ સ્નાયુ<br>2. સફેદ સ્નાયુ<br>3. હૃદ સ્નાયુ<br><br>વિભાગ-B:<br>A. ક્યારેય થાકતા નથી<br>B. લાંબા સમય સુધી કાર્યરત (જારક શ્વસન)<br>C. ઝડપી પણ ટૂંકા સમય માટે (અજારક શ્વસન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય થાકે તો આપણે થાકી જઈએ (Non-fatigue).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "વિભાગ-A (સાંધા) ને વિભાગ-B (ગતિ) સાથે જોડો:<br>1. કંદુક-ખલ સાંધો<br>2. મિજાગરા સાંધો<br>3. ઉખળી સાંધો<br><br>વિભાગ-B:<br>A. એક જ સમતલમાં ગતિ<br>B. પરિભ્રમણ ગતિ (Rotation)<br>C. બહુવિધ દિશામાં ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ball and socket = 360 degree (લગભગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "વિભાગ-A (અસ્થિ) ને વિભાગ-B (સંખ્યા) સાથે જોડો:<br>1. ખોપરીના અસ્થિ (સ્કુલ)<br>2. કર્ણ અસ્થિ (કુલ)<br>3. હાયોઈડ અસ્થિ<br><br>વિભાગ-B:<br>A. 1<br>B. 6<br>C. 22",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 22(Skull) + 6(Ears) + 1(Hyoid) = 29 Total Head bones.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "વિભાગ-A (પ્રચલન અંગ) ને વિભાગ-B (પ્રાણી) સાથે જોડો:<br>1. સૂત્રાંગો<br>2. પક્ષ્મો<br>3. ખોટા પગ<br><br>વિભાગ-B:<br>A. પેરામીશિયમ<br>B. અમીબા<br>C. હાઈડ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રા-સૂત્રાંગો, પેરામીશિયમ-પક્ષ્મો.</p></div>"
+    }
+  ]
+}

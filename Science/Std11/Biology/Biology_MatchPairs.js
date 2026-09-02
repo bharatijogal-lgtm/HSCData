@@ -4742,3 +4742,361 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "શ્વાસોચ્છવાસ અને વાયુઓનું વિનિમય",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: પ્રાણી | વિભાગ B: શ્વસન અંગ\n1. વાદળી (Sponges) | (A) ભીની ત્વચા\n2. અળસિયું | (B) શરીરની સપાટી\n3. કીટકો | (C) શ્વસન નલિકાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' સપાટી - 'S' Sponges, અળસિયું 'ભીનું' હોય, કીટકોમાં 'નળી' (Trachea) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: શ્વસન અંગ | વિભાગ B: પ્રાણી\n1. ઝાલરો (Gills) | (A) સસ્તન\n2. ફેફસાં | (B) જલીય સંધિપાદ\n3. ત્વચા | (C) દેડકો (પાણીમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝાલર = જળચર, ફેફસાં = જમીન પર રહેતા મોટા પ્રાણીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: અંગ | વિભાગ B: વિશેષતા\n1. કંઠનળી | (A) શ્વરપેટી\n2. સ્વરયંત્ર | (B) ખોરાક અને હવા માટે સામાન્ય માર્ગ\n3. ઘાટી ઢાંકણ | (C) કાસ્થિમય પડદો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંઠ-સામાન્ય માર્ગ, સ્વર-પેટી, ઘાટી-ઢાંકણું (ખોરાક રોકે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: શ્વસન નળીનું સ્તર | વિભાગ B: વિભાજનનું સ્તર\n1. શ્વાસનળી | (A) બહુશાખિત નળીઓનો અંત\n2. શ્વાસવાહિની | (B) 5 મી ઉરસિય કશેરુકા\n3. વાયુકોષ્ઠો | (C) અત્યંત પાતળી દીવાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસનળીનું વિભાજન 'T5' (5મી કશેરુકા) પર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: આવરણ | વિભાગ B: સ્થાન/કાર્ય\n1. બાહ્ય ફૂપ્ફુસાવરણ | (A) ઘર્ષણ ઘટાડવું\n2. અંતઃ ફૂપ્ફુસાવરણ | (B) ઉરસિય દીવાલના સંપર્કમાં\n3. ફૂપ્ફુસાવરણ પ્રવાહી | (C) ફેફસાંની સપાટીના સંપર્કમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય-ઉરસ, અંતઃ-ફેફસાં (ફેફસાં અંદર હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: શ્વસન તબક્કા | વિભાગ B: પ્રક્રિયા\n1. બાહ્ય શ્વસન | (A) રુધિર અને પેશી વચ્ચે વાયુ વિનિમય\n2. આંતરિક શ્વસન | (B) શ્વાસોચ્છવાસ\n3. કોષીય શ્વસન | (C) ATP ઉત્પાદન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય-બહારથી હવા લેવી, આંતરિક-શરીરની અંદર, કોષીય-શક્તિ (ATP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: શ્વાસનળીના ભાગો | વિભાગ B: રક્ષણ/આધાર\n1. શ્વાસનળી | (A) સી-આકારની કાસ્થિની કડીઓ\n2. પ્રાથમિક શ્વાસવાહિની | (B) અપૂર્ણાંક કાસ્થિની કડીઓ\n3. અંતિમ શ્વાસવાહિકા | (C) કાસ્થિ વગરની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં કડીઓ મજબૂત (C shape), અંતે ગેરહાજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: ઉરસિય ગુહાની સીમા | વિભાગ B: દિશા\n1. પૃષ્ઠ બાજુ | (A) ઉરોસ્થિ (Sternum)\n2. વક્ષ બાજુ | (B) કરોડસ્તંભ\n3. પાર્શ્વ બાજુ | (C) પાંસળીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાછળ-કરોડ (Back), આગળ-ઉરોસ્થિ (Front), સાઈડ-પાંસળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: શ્વાસોચ્છવાસની પ્રક્રિયા | વિભાગ B: સ્નાયુની સ્થિતિ\n1. અંતઃશ્વાસ | (A) ઉરોદરપટલનું શિથિલન\n2. ઉચ્છવાસ | (B) ઉરોદરપટલનું સંકોચન\n3. બળપૂર્વક ઉચ્છવાસ | (C) ઉદરના સ્નાયુઓનું સંકોચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર લેવું (શ્વાસ)-સંકોચન, બહાર કાઢવું (ઉચ્છવાસ)-શિથિલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: શ્વસન કદ | વિભાગ B: મૂલ્ય (મિલી)\n1. TV | (A) 2500 - 3000\n2. IRV | (B) 500\n3. ERV | (C) 1000 - 1100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TV-500 વાળો, IRV-સૌથી મોટું (3000), ERV-મધ્યમ (1000).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: શ્વસન ક્ષમતા | વિભાગ B: સૂત્ર\n1. IC | (A) TV + ERV\n2. EC | (B) TV + IRV\n3. VC | (C) ERV + TV + IRV",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: IC માં I (Inspiratory), EC માં E (Expiratory) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: વાયુ | વિભાગ B: વાતાવરણમાં આંશિક દબાણ (mmHg)\n1. O2 | (A) 0.3\n2. CO2 | (B) 159\n3. N2 | (C) 597 (આશરે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 વધુ (159), CO2 સાવ ઓછું (0.3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: સ્થાન | વિભાગ B: pO2 (mmHg)\n1. વાયુકોષ્ઠો | (A) 40\n2. વિ-ઓક્સિજનયુક્ત રુધિર | (B) 104\n3. પેશીઓ | (C) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠોમાં O2 ફૂલ (104), અશુદ્ધ લોહી અને પેશીમાં ઓછું (40).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: સ્થાન | વિભાગ B: pCO2 (mmHg)\n1. વાયુકોષ્ઠો | (A) 45\n2. ઓક્સિજનયુક્ત રુધિર | (B) 40\n3. પેશીઓ | (C) 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશીમાં કચરો (CO2) વધુ હોય એટલે 45.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: પ્રસરણ સપાટીના સ્તરો | વિભાગ B: કોષનો પ્રકાર\n1. વાયુકોષ્ઠ દીવાલ | (A) અંતઃસ્તર (Endothelium)\n2. રુધિરકેશિકા દીવાલ | (B) લાદીસમ અધિચ્છદ\n3. બંને વચ્ચેનું સ્તર | (C) આધારક કલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠ-લાદીસમ, કેશિકા-અંતઃસ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: O2 વહન | વિભાગ B: ટકાવારી\n1. RBC દ્વારા | (A) 3%\n2. રુધિરરસમાં ઓગળેલ | (B) 97%\n3. હિમોગ્લોબિન દ્વારા | (C) 97%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 નું 97% કામ RBC/Hb કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: CO2 વહન | વિભાગ B: રીત/ટકાવારી\n1. બાયકાર્બોનેટ સ્વરૂપે | (A) 20 - 25%\n2. કાર્બામીનો-હિમોગ્લોબિન | (B) 7%\n3. રુધિરરસમાં ઓગળેલ | (C) 70%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 70% બાયકાર્બોનેટ (મોટું વહન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: હિમોગ્લોબિન | વિભાગ B: લાક્ષણિકતા\n1. 1 અણુ Hb | (A) લાલ રંગનું શ્વસનરંજક દ્રવ્ય\n2. આયર્ન (Fe) | (B) 4 O2 અણુનું વહન\n3. હિમોગ્લોબિન | (C) Hb ના કેન્દ્રમાં હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 Hb = 4 O2 (ચોગ્ગો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: ઓક્સિજન વિયોજન વક્ર | વિભાગ B: આકાર/સ્થિતિ\n1. આલેખનો આકાર | (A) ડાબી બાજુ ખસે\n2. વાયુકોષ્ઠોમાં સ્થિતિ | (B) સિગ્મોઈડ (S-shape)\n3. પેશીઓમાં સ્થિતિ | (C) જમણી બાજુ ખસે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' Curve. પેશીમાં 'Right' (જમણી) બાજુ વિયોજન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: વહનનું પ્રમાણ | વિભાગ B: જથ્થો\n1. 100 ml ઓક્સિજનયુક્ત રુધિર | (A) 4 ml CO2 મુક્ત કરે\n2. 100 ml વિ-ઓક્સિજનયુક્ત રુધિર | (B) 5 ml O2 મુક્ત કરે\n3. સામાન્ય શ્વાસ (TV) | (C) 500 ml",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2-5ml, CO2-4ml (O2 વધુ જરૂર હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: ઉત્સેચક | વિભાગ B: કાર્ય\n1. કાર્બોનિક એનહાઇડ્રેઝ | (A) રુધિરરસમાં અલ્પ માત્રામાં\n2. કાર્બોનિક એનહાઇડ્રેઝ | (B) RBC માં વધુ માત્રામાં\n3. હિમોગ્લોબિન | (C) O2 સાથે પ્રતિવર્તી જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોનિક એનહાઇડ્રેઝ = RBC નો સ્પેશિયલ એન્ઝાઈમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: શ્વસન નિયમન કેન્દ્રો | વિભાગ B: સ્થાન\n1. શ્વસન લયબદ્ધ કેન્દ્ર | (A) મધ્યસ્થ મજ્જા (Medulla)\n2. શ્વાસાનુચલન કેન્દ્ર | (B) સેતુ (Pons)\n3. રાસાયણિક સંવેદી વિસ્તાર | (C) લયબદ્ધ કેન્દ્રની નજીક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Medulla-Main (Rhythm), Pons-Pneumotaxic (P-P).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: રોગ | વિભાગ B: મુખ્ય લક્ષણ\n1. અસ્થમા | (A) વાયુકોષ્ઠોની દીવાલને નુકસાન\n2. એમ્ફિસીમા | (B) શ્વાસવાહિનીમાં બળતરા (Wheezing)\n3. વ્યવસાયિક રોગ | (C) ફેફસાંમાં ફાઈબ્રોસિસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્થમા-એલર્જી (સીટી વાગે), એમ્ફિસીમા-સિગારેટ (દીવાલ તૂટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: વાયુની સાંદ્રતા | વિભાગ B: લયબદ્ધ કેન્દ્ર પર અસર\n1. CO2 વધવો | (A) કેન્દ્રને સક્રિય કરે\n2. H+ વધવો | (B) કેન્દ્રને સક્રિય કરે\n3. O2 વધવો | (C) કોઈ નોંધપાત્ર અસર નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસન માટે CO2 'દુશ્મન' (વધે તો એલાર્મ વાગે), O2 થી ફરક નથી પડતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: સંયોજન | વિભાગ B: ઘટકો\n1. ઓક્સિહિમોગ્લોબિન | (A) Hb + CO2\n2. કાર્બામીનો-હિમોગ્લોબિન | (B) Hb + O2\n3. કાર્બોનિક એસિડ | (C) H2O + CO2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ કામ છે - ઓક્સિ = O2, કાર્બામીનો = CO2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: શ્વસન માર્ગ | વિભાગ B: વિશેષતા\n1. નાસિકા છિદ્રો | (A) કંઠનળીમાં ખુલે\n2. અંતઃ નાસિકા છિદ્ર | (B) ઉપરના હોઠની ઉપર\n3. શ્વાસવાહિકાઓ | (C) વાયુકોષ્ઠોમાં અંત પામે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારથી અંદરનો ક્રમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: ક્ષમતા | વિભાગ B: ઘટકો\n1. FRC | (A) ERV + RV\n2. TLC | (B) VC + RV\n3. VC | (C) TV + IRV + ERV",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FRC (બાકી રહેલી હવા) = E + R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: દબાણનો તફાવત | વિભાગ B: સ્થિતિ\n1. વાતાવરણીય દબાણ > ફેફસાંનું દબાણ | (A) ઉચ્છવાસ\n2. વાતાવરણીય દબાણ < ફેફસાંનું દબાણ | (B) અંતઃશ્વાસ\n3. વાતાવરણીય દબાણ = ફેફસાંનું દબાણ | (C) સ્થિર સ્થિતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા હંમેશા 'વધુ થી ઓછા' દબાણ તરફ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: શ્વસનતંત્રના ભાગો | વિભાગ B: કાર્ય\n1. વહન ભાગ | (A) વાયુઓનું રુધિરમાં પ્રસરણ\n2. વિનિમય ભાગ | (B) હવાને શુદ્ધ અને ભેજયુક્ત કરવી\n3. લયબદ્ધ કેન્દ્ર | (C) શ્વસનનો દર નક્કી કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહન-રસ્તો, વિનિમય-આપલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: pO2 મૂલ્યો | વિભાગ B: સ્થાન\n1. 95 mmHg | (A) વિ-ઓક્સિજનયુક્ત રુધિર\n2. 40 mmHg | (B) ઓક્સિજનયુક્ત રુધિર\n3. 159 mmHg | (C) વાતાવરણીય હવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમની (શુદ્ધ) - 95, શિરા (અશુદ્ધ) - 40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: દ્રાવ્યતા | વિભાગ B: વાયુ\n1. વધુ દ્રાવ્યતા | (A) ઓક્સિજન\n2. 20-25 ગણી વધુ દ્રાવ્યતા | (B) નાઇટ્રોજન\n3. ઓછી દ્રાવ્યતા | (C) કાર્બન ડાયોક્સાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 એ 'ઓગળવામાં' (Solubility) માહિર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: પરિબળ (વધારો) | વિભાગ B: Hb-O2 જોડાણ પર અસર\n1. pCO2 વધે | (A) જોડાણ ઘટે (વિયોજન વધે)\n2. તાપમાન વધે | (B) જોડાણ ઘટે (વિયોજન વધે)\n3. pH ઘટે (H+ વધે) | (C) જોડાણ ઘટે (વિયોજન વધે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી, એસિડિટી અને CO2 વધે તો O2 ભાગી જાય (વિયોજન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: પ્રસરણ દીવાલની જાડાઈ | વિભાગ B: મૂલ્ય\n1. કુલ જાડાઈ | (A) 0.5 mm થી વધુ\n2. કુલ જાડાઈ | (B) 1 mm થી ઓછી\n3. વાયુકોષ્ઠની સપાટી | (C) અત્યંત પાતળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રસરણ માટે પડદો 'પાતળો' (< 1mm) હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: શ્વસન પદ્ધતિ | વિભાગ B: ઉદાહરણ\n1. ત્વચીય શ્વસન | (A) પક્ષીઓ\n2. શ્વાસનળીકીય શ્વસન | (B) અળસિયું\n3. ફૂપ્ફુસીય શ્વસન | (C) વંદો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્વચા-અળસિયું, નળી-કીટક, ફેફસાં-ઉચ્ચ પ્રાણીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: કદ (Volume) | વિભાગ B: અન્ય નામ\n1. TV | (A) વધારાની હવા જે બળપૂર્વક બહાર કાઢી શકાય\n2. IRV | (B) સામાન્ય શ્વાસ દરમિયાન હવાનું કદ\n3. ERV | (C) વધારાની હવા જે બળપૂર્વક અંદર લઈ શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-C, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I = Inspite (અંદર), E = Expire (બહાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: શ્વસન મૂલ્ય | વિભાગ B: અંદાજિત મિલી\n1. RV | (A) 1100 - 1200\n2. FRC | (B) 2100 - 2300\n3. TLC | (C) 5000 - 6000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RV-બાકી વધેલી, TLC-કુલ (સૌથી વધુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: ઉરસિય ગુહાના સ્નાયુઓ | વિભાગ B: કાર્ય\n1. બાહ્ય આંતર પાંસળી સ્નાયુ | (A) પાંસળીઓને ઉપર ખેંચવી\n2. ઉરોદરપટલ | (B) ઉરસિય ગુહાનું કદ વધારવું\n3. ઉદરના સ્નાયુ | (C) બળપૂર્વક ઉચ્છવાસમાં મદદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારના સ્નાયુ અને ઉરોદરપટલ 'શ્વાસ' માટે કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: pCO2 મૂલ્યો | વિભાગ B: સ્થાન\n1. 40 mmHg | (A) વાયુકોષ્ઠો\n2. 45 mmHg | (B) પેશીઓ\n3. 45 mmHg | (C) વિ-ઓક્સિજનયુક્ત રુધિર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 વાયુકોષ્ઠમાં ઓછું હોય તો જ બહાર નીકળી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: ઉત્સર્જન/ત્યાગ | વિભાગ B: અંગ\n1. CO2 નો મુખ્ય ત્યાગ | (A) ફેફસાં\n2. વધારાના H+ નો ત્યાગ | (B) મૂત્રપિંડ\n3. હવામાં ભેજ ઉમેરવો | (C) નાસિકા માર્ગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસન દ્વારા ગેસ નીકળે, કિડની દ્વારા એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: જોડાણ | વિભાગ B: અનુકૂળ સ્થિતિ\n1. Hb + O2 જોડાણ | (A) વાયુકોષ્ઠો (High pO2)\n2. Hb - O2 વિયોજન | (B) પેશીઓ (High pCO2)\n3. Hb + CO2 જોડાણ | (C) પેશીઓ (Low pO2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠ-લગ્ન (જોડાણ), પેશી-છૂટાછેડા (વિયોજન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: વ્યવસાયિક રોગો | વિભાગ B: ઉદ્યોગ\n1. સિલિકોસિસ | (A) પથ્થર તોડવાનો ઉદ્યોગ\n2. એસ્બેસ્ટોસિસ | (B) એસ્બેસ્ટોસ ઉદ્યોગ\n3. ફાઈબ્રોસિસ | (C) સંયોજક પેશીનો ફેલાવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ પ્રમાણે જ રોગના પ્રકાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: ફેફસાંનું સ્થાન | વિભાગ B: રક્ષણ\n1. વક્ષ બાજુ | (A) ઉરોસ્થિ\n2. પૃષ્ઠ બાજુ | (B) કરોડસ્તંભ\n3. નીચેની બાજુ | (C) ઉરોદરપટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે 'પટલ' (Diaphragm) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: ગ્રાહી (Receptors) | વિભાગ B: સ્થાન\n1. કેન્દ્રીય રાસાયણિક ગ્રાહી | (A) મજ્જા સેતુ\n2. પરિઘવર્તી રાસાયણિક ગ્રાહી | (B) ગ્રીવા ધમની (Carotid artery)\n3. પરિઘવર્તી રાસાયણિક ગ્રાહી | (C) મહાધમની કમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદયની નળીઓ (Arteries) માં સેન્સર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: શ્વસન ક્રિયા | વિભાગ B: દબાણ ફેરફાર\n1. અંતઃશ્વાસ | (A) ફેફસાંમાં ઋણ દબાણ\n2. ઉચ્છવાસ | (B) ફેફસાંમાં ધન દબાણ\n3. સ્થિરતા | (C) વાતાવરણ જેટલું દબાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા અંદર ખેંચવા માટે 'વેક્યુમ' (ઋણ દબાણ) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: વાયુકોષ્ઠ | વિભાગ B: લક્ષણ\n1. દીવાલ | (A) અનિયમિત આકારની\n2. વાહિનીઓ | (B) રુધિરકેશિકાઓથી ઘેરાયેલ\n3. કાર્ય | (C) વાયુ વિનિમયની સપાટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠ = ફુગ્ગા જેવી કોથળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: લયબદ્ધ કેન્દ્રનું કાર્ય | વિભાગ B: ફેરફાર\n1. શ્વાસાનુચલન કેન્દ્ર | (A) અંતઃશ્વાસનો સમય ઘટાડવો\n2. લયબદ્ધ કેન્દ્ર | (B) શ્વસન દર જાળવવો\n3. રાસાયણિક કેન્દ્ર | (C) CO2 અને H+ ને ઓળખવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pneumotaxic = Switch off point (સમય ઘટાડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: શ્વસન પદાર્થો | વિભાગ B: ટકાવારી\n1. રુધિરરસમાં O2 | (A) 3%\n2. રુધિરરસમાં CO2 | (B) 7%\n3. RBC માં CO2 (Bicarbonate) | (C) 70%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિરરસ (Plasma) માં હંમેશા ઓછો ગેસ ઓગળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: શ્વસન ક્ષમતા | વિભાગ B: વ્યાખ્યા\n1. VC | (A) બળપૂર્વક ઉચ્છવાસ પછી અંદર લેવાયેલ મહત્તમ હવા\n2. IC | (B) સામાન્ય ઉચ્છવાસ પછી અંદર લેવાયેલ મહત્તમ હવા\n3. EC | (C) સામાન્ય શ્વાસ પછી બહાર કાઢેલ મહત્તમ હવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Vital = જીવંત (સૌથી વધુ ઉપયોગી હવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: શ્વસન અંગોનું સ્તર | વિભાગ B: કાસ્થિ પ્રકાર\n1. કંઠનળી | (A) કાસ્થિ વગરની\n2. સ્વરયંત્ર | (B) કાસ્થિમય પેટી\n3. શ્વાસવાહિકા | (C) સ્નાયુબદ્ધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વરયંત્ર = Sound Box (Cartilage).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: વાયુ વિનિમય એકમ | વિભાગ B: અંગ\n1. પ્રાથમિક એકમ | (A) વાયુકોષ્ઠો\n2. શ્વસન માર્ગ | (B) નાસિકા છિદ્ર થી શ્વાસવાહિકા\n3. ફેફસાં | (C) વાયુકોષ્ઠો અને તેની નળીઓનો સમૂહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુખ્ય 'હીરો' વાયુકોષ્ઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: શ્વાસ દર | વિભાગ B: સ્થિતિ\n1. પુખ્ત મનુષ્ય (સામાન્ય) | (A) 12-16 વખત/મિનિટ\n2. શિશુ | (B) વધુ ઝડપી\n3. કસરત દરમિયાન | (C) ખૂબ વધી જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 થી 16 - એક મિનિટના શ્વાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: વાયુકોષ્ઠીય હવા | વિભાગ B: બંધારણ\n1. O2 | (A) 104 mmHg\n2. CO2 | (B) 40 mmHg\n3. H2O બાષ્પ | (C) હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરની હવા બહાર કરતા અલગ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: રુધિરકેશિકાઓ | વિભાગ B: ગુણધર્મ\n1. દીવાલ | (A) એકકોષી જાડાઈ\n2. વહન | (B) ધીમી ગતિ\n3. સપાટી | (C) વધુ સંપર્ક વિસ્તાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેશિકા પાતળી હોય તો જ પ્રસરણ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: શ્વસન સ્નાયુઓનું ચેતાકીય નિયંત્રણ | વિભાગ B: અંગ\n1. ફ્રેનિક ચેતા (Phrenic) | (A) ઉરોદરપટલ\n2. આંતર પાંસળી ચેતા | (B) પાંસળીના સ્નાયુઓ\n3. વેગસ ચેતા | (C) ફેફસાંનું ખેંચાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રેનિક = Diaphragm (ખાસ ચેતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: એસિડ-બેઝ સંતુલન | વિભાગ B: ઘટક\n1. બાયકાર્બોનેટ આયન | (A) રુધિરની pH જાળવવી\n2. ક્લોરાઈડ શિફ્ટ | (B) RBC માં Cl- નું પ્રવેશવું\n3. H+ આયન | (C) હિમોગ્લોબિન સાથે જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોરાઈડ અંદર જાય ત્યારે બેલેન્સ થાય (Hamburger phenomenon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: શ્વસન અંગોના અપવાદ | વિભાગ B: પ્રાણી\n1. માત્ર ત્વચા | (A) અળસિયું\n2. મુખગુહા, ત્વચા, ફેફસાં | (B) દેડકો\n3. માત્ર ફેફસાં | (C) વહેલ (Whale)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો 'ઓલરાઉન્ડર' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: હવાનું કદ માપક | વિભાગ B: સાધન/કાર્ય\n1. સ્પાયરોમીટર | (A) શ્વસન કદનું માપન\n2. સ્પાયરોમીટર | (B) RV માપી શકતું નથી\n3. સ્ટેથોસ્કોપ | (C) હૃદય/ફેફસાંનો અવાજ સાંભળવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પાયરોમીટર (Spiro) - શ્વસન માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: શ્વસન માર્ગની સફાઈ | વિભાગ B: પદ્ધતિ\n1. પક્ષ્મલ અધિચ્છદ | (A) ધૂળના રજકણોને બહાર ધકેલવા\n2. શ્લેષ્મ (Mucus) | (B) રજકણોને પકડવા\n3. છીંક આવવી | (C) બહારના પદાર્થોને દૂર કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષ્મ = કચરાપોતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: ઓક્સિજનની અછત | વિભાગ B: સ્થિતિ\n1. હાઇપોક્સિયા | (A) પેશીઓમાં O2 ની ઉણપ\n2. એસ્ફિક્સીયા | (B) CO2 વધવો અને O2 ઘટવો\n3. માઉન્ટેન સિકનેસ | (C) ઊંચાઈ પર શ્વાસ લેવામાં તકલીફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇપો (ઓછું) + ઓક્સિયા (ઓક્સિજન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: વાયુકોષ્ઠોની સંખ્યા | વિભાગ B: અંદાજિત સંખ્યા\n1. બંને ફેફસાંમાં | (A) 300 મિલિયન\n2. સપાટીનો વિસ્તાર | (B) 70-100 ચોરસ મીટર\n3. કાર્યક્ષમતા | (C) ખૂબ જ વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાં ખોલીએ તો એક ટેનિસ કોર્ટ જેટલી જગ્યા રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: શ્વસન પિગમેન્ટ | વિભાગ B: પ્રાણી\n1. હિમોગ્લોબિન | (A) મનુષ્ય (લાલ)\n2. હિમોસાયનિન | (B) કરચલો/ઓક્ટોપસ (વાદળી)\n3. હિમોઇરીથ્રીન | (C) કેટલાક નુપૂરક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયનિન = Cyan = વાદળી રંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: ફેફસાંની પેશી | વિભાગ B: પ્રકાર\n1. વાયુકોષ્ઠો | (A) સ્થિતિસ્થાપક તંતુઓ\n2. શ્વાસનળી | (B) કાસ્થિમય આધાર\n3. પેશીનો પ્રકાર | (C) જાળીદાર સંયોજક પેશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાં રબર જેવા સ્થિતિસ્થાપક હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: કાર્બોનિક એનહાઇડ્રેઝ પ્રક્રિયા | વિભાગ B: દિશા\n1. પેશી સ્તરે | (A) જમણી બાજુ (બાયકાર્બોનેટ બને)\n2. વાયુકોષ્ઠ સ્તરે | (B) ડાબી બાજુ (CO2 મુક્ત થાય)\n3. રુધિરરસમાં | (C) ધીમી પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેશીમાં CO2 લોડ થાય, ફેફસામાં અનલોડ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: હવાના માર્ગનો ક્રમ | વિભાગ B: આગળનો ભાગ\n1. સ્વરયંત્ર પછી | (A) શ્વાસનળી\n2. નાસિકા કોટર પછી | (B) કંઠનળી\n3. ઉરસિય કશેરુકા (T5) પર | (C) શ્વાસવાહિની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ: નાક -> કંઠ -> સ્વર -> શ્વાસનળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: રુધિરનો રંગ | વિભાગ B: સ્થિતિ\n1. ઓક્સિજનયુક્ત | (A) તેજસ્વી લાલ\n2. વિ-ઓક્સિજનયુક્ત | (B) ઘેરો લાલ/જાંબલી\n3. કાર્બન મોનોક્સાઇડ સાથે | (C) ચેરી રેડ (ખૂબ તેજસ્વી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 વધુ તો રંગ વધુ લાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: શ્વસન ઉર્જા | વિભાગ B: પ્રકાર\n1. સામાન્ય શ્વાસ | (A) નિષ્ક્રિય પ્રક્રિયા\n2. સામાન્ય ઉચ્છવાસ | (B) નિષ્ક્રિય પ્રક્રિયા\n3. બળપૂર્વક શ્વાસ | (C) સક્રિય પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉચ્છવાસમાં શક્તિ નથી વપરાતી (સામાન્ય રીતે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: ફેફસાંની રચના | વિભાગ B: સંખ્યા\n1. ડાબું ફેફસું | (A) 2 ખંડો\n2. જમણું ફેફસું | (B) 3 ખંડો\n3. હૃદય ખાંચ (Cardiac notch) | (C) ડાબા ફેફસામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબું નાનું (હૃદયને જગ્યા આપવા), જમણું મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: ઉચ્છવાસની હવા | વિભાગ B: સામગ્રી\n1. O2 | (A) 16%\n2. CO2 | (B) 4%\n3. N2 | (C) 79%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે બધો O2 નથી વાપરી લેતા, થોડો પાછો કાઢીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: બોહર અસર (Bohr Effect) | વિભાગ B: પરિબળ\n1. pH ઘટે | (A) O2 મુક્ત થાય\n2. CO2 વધે | (B) O2 મુક્ત થાય\n3. વધુ ઊંચાઈ | (C) RBC ની સંખ્યા વધવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોહર અસર = પેશીમાં O2 નું 'અનલોડિંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: શ્વસન પદ્ધતિ | વિભાગ B: ઉદાહરણ\n1. બ્રેન્કિયલ (Branchial) | (A) માછલી\n2. ક્યુટેનિયસ (Cutaneous) | (B) અળસિયું\n3. પલ્મોનરી (Pulmonary) | (C) મનુષ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલ્મોનરી = ફેફસાં, ક્યુટેનિયસ = ત્વચા.</p></div>"
+    }
+  ]
+}

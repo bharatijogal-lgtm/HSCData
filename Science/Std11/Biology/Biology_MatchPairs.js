@@ -5463,3 +5463,361 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "ઉત્સર્ગ પેદાશો અને તેનો નિકાલ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) એમોનિયા (2) યુરિયા (3) યુરિક એસિડ <br>વિભાગ B: (i) સૌથી ઓછું ઝેરી (ii) સૌથી વધુ ઝેરી (iii) મધ્યમ ઝેરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-U-U ક્રમ યાદ રાખો (Ammonia-Urea-Uric Acid). ઝેરીપણું ઘટતા ક્રમમાં છે. 'એમોનિયા' આક્રમક (વધુ ઝેરી), 'યુરિક' એકદમ શાંત (ઓછું ઝેરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પ્રાણી અને તેના મુખ્ય ઉત્સર્ગ પદાર્થને જોડો: <br>વિભાગ A: (1) અસ્થિમત્સ્ય (2) સસ્તન (3) પક્ષીઓ <br>વિભાગ B: (i) યુરિયા (ii) એમોનિયા (iii) યુરિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માછલી પાણીમાં (Ammonia), આપણે જમીન પર (Urea), પક્ષીઓ આકાશમાં ઉડે એટલે વજન ઘટાડવા ઘન કચરો (Uric Acid) ત્યાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઉત્સર્ગ અંગ અને તેના ઉદાહરણ જોડો: <br>વિભાગ A: (1) જ્યોતકોષો (2) નેફ્રિડિયા (3) માલ્પિધિયન નલિકાઓ <br>વિભાગ B: (i) અળસિયું (ii) પ્લેનેરિયા (iii) વંદો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ્યોત' પ્લેટ (Platyhelminthes) પર, 'નેફ્રિ' અળસિયામાં અને 'માલ' વંદામાં (Mal-Cockroach).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અંગ અને પ્રાણી જૂથને જોડો: <br>વિભાગ A: (1) એન્ટેનલ ગ્રંથિ (2) વૃક્કિકા (3) જ્યોતકોષો <br>વિભાગ B: (i) એનેલિડા (ii) પ્લેટીહેલ્મિન્થિસ (iii) સંધિપાદ (ઝિંગા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એન્ટેના' હંમેશા ઝિંગા (Prawns) પાસે હોય, Nephridia 'A' for Annelida.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મૂત્રપિંડના સ્થાન અને કદને જોડો: <br>વિભાગ A: (1) લંબાઈ (2) પહોળાઈ (3) જાડાઈ <br>વિભાગ B: (i) 2-3 cm (ii) 10-12 cm (iii) 5-7 cm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: 10-5-2 (L-W-T). અડધું કરતા જવાનું લગભગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મૂત્રપિંડની આંતરિક રચના જોડો: <br>વિભાગ A: (1) હાઈલમ (2) પેલ્વિસ (3) કેલિસિસ <br>વિભાગ B: (i) ગળણી આકારનો વિસ્તાર (ii) ખાંચ (iii) પેલ્વિસનું વિસ્તરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈલમ = Gate (ખાંચ), પેલ્વિસ = ગળણી (Funnel), કેલિસિસ = પ્રોજેકશન (વિસ્તરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઉત્સર્ગ એકમના ભાગો જોડો: <br>વિભાગ A: (1) બાઉમેનની કોથળી (2) રુધિરકેશિકાગુચ્છ (3) માલ્પિધિયન કાય <br>વિભાગ B: (i) રુધિરકેશિકાઓનું ઝાળું (ii) કપ આકારની રચના (iii) 1 + 2 નો સરવાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાઉમેન = Bowl (કપ), ગુચ્છ = Bunch (ઝાળું), માલ્પિધિયન = બંનેનું જોડાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નલિકાના ભાગો અને સ્થાન જોડો: <br>વિભાગ A: (1) PCT (2) હેનલેનો પાશ (3) DCT <br>વિભાગ B: (i) મજ્જક (ii) બાહ્યક (iii) બાહ્યક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેનલેનો પાશ ઊંડો ઉતરે એટલે 'મજ્જક' (Medulla), બાકીના ઉપર એટલે 'બાહ્યક' (Cortex).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઉત્સર્ગ એકમના પ્રકારો જોડો: <br>વિભાગ A: (1) બાહ્યક ઉત્સર્ગ એકમ (2) જક્સ્ટા મેડ્યુલરી ઉત્સર્ગ એકમ <br>વિભાગ B: (i) લાંબો હેનલેનો પાશ (ii) ટૂંકો હેનલેનો પાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાહ્યક' (Cortical) એટલે ઉપર-છલ્લું (ટૂંકું), 'જક્સ્ટા' એટલે મજ્જકમાં ઊંડું (લાંબુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રુધિરવાહિનીઓ જોડો: <br>વિભાગ A: (1) અંતરવાહી ધમનિકા (2) બહિર્વાહી ધમનિકા (3) વાઝા રેક્ટા <br>વિભાગ B: (i) રુધિરકેશિકાગુચ્છમાંથી રુધિર લઈ જાય (ii) હેનલેના પાશને સમાંતર (iii) રુધિરકેશિકાગુચ્છમાં રુધિર લાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતરવાહી = અંદર આવે (In), બહિર્વાહી = બહાર જાય (Exit), વાઝા રેક્ટા = 'U' shape પાશ સાથે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મૂત્રનિર્માણના તબક્કા જોડો: <br>વિભાગ A: (1) ગાળણ (2) પુનઃશોષણ (3) સ્ત્રાવ <br>વિભાગ B: (i) નલિકામાંથી રુધિરમાં (ii) ગુચ્છમાંથી કોથળીમાં (iii) રુધિરમાંથી નલિકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાળણ = પહેલું સ્ટેપ, પુનઃશોષણ = કામની વસ્તુ પાછી લેવી (Back to blood), સ્ત્રાવ = કચરો નાખવો (To tubule).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાળણના દરો અને મૂલ્યો જોડો: <br>વિભાગ A: (1) GFR (દર મિનિટે) (2) GFR (દર દિવસે) (3) રુધિર પ્રવાહ (દર મિનિટે) <br>વિભાગ B: (i) 180 લીટર (ii) 125 મિલી (iii) 1100-1200 મિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિનિટમાં 125ml, આખા દિવસમાં 180L (આખું ડ્રમ ભરાઈ જાય!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાળણના સ્તરો જોડો: <br>વિભાગ A: (1) રુધિરકેશિકાગુચ્છનું સ્તર (2) બાઉમેનની કોથળીનું સ્તર (3) આ બે વચ્ચેનું સ્તર <br>વિભાગ B: (i) અધિચ્છદ (પોડોસાઇટ્સ) (ii) આધારકલા (iii) અંતઃસ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિરવાહિનીની અંદર 'અંતઃસ્તર', કોથળીમાં 'પોડોસાઇટ્સ' અને વચ્ચે 'બેઝમેન્ટ' (આધારકલા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "PCT ના કાર્યો જોડો: <br>વિભાગ A: (1) શોષણ (2) સ્ત્રાવ (3) બાયકાર્બોનેટ <br>વિભાગ B: (i) પુનઃશોષણ (ii) પોષકતત્ત્વો/પાણી (70-80%) (iii) H+, NH3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCT = 'P' for Priority absorption. બધું જ મહત્વનું અહીં ખેંચી લેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હેનલેના પાશની વિશેષતા જોડો: <br>વિભાગ A: (1) અવરોહી ભુજા (2) આરોહી ભુજા (3) હેનલેનો પાશ (મુખ્ય કાર્ય) <br>વિભાગ B: (i) વિદ્યુતવિભાજ્યો માટે પ્રવેશ્ય (ii) સાંદ્રતાની જાળવણી (iii) પાણી માટે પ્રવેશ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે જાય (અવરોહી) તો પાણી બહાર, ઉપર જાય (આરોહી) તો ક્ષાર (NaCl) બહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "DCT ના કાર્યો જોડો: <br>વિભાગ A: (1) પુનઃશોષણ (2) પસંદગીમાન સ્ત્રાવ (3) નિયમન <br>વિભાગ B: (i) Na+ અને પાણી (ii) K+ અને H+ (iii) pH અને Na-K સંતુલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DCT = 'D' for Duty (શરતી શોષણ). જરૂર હોય તો જ Na+ લેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાંદ્રતા અને સ્થાન જોડો (mOsmol/L): <br>વિભાગ A: (1) બાહ્યક (2) મજ્જક (અંદરનો ભાગ) (3) સંગ્રહણ નલિકા (અંતિમ) <br>વિભાગ B: (i) 1200 (ii) 300 (iii) 1200",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 300 થી શરૂ થઈને મજ્જકમાં 1200 સુધી જાય. જેમ ઊંડા ઉતરો એમ 'સાંદ્રતા' વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નિયમનકારી ઘટકો જોડો: <br>વિભાગ A: (1) ADH (2) રેનિન (3) ANF <br>વિભાગ B: (i) રુધિરદાબ ઘટાડે (ii) પાણીનું પુનઃશોષણ વધારે (iii) એન્જીયોટેન્સીનોજનને સક્રિય કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH = Anti-Diuretic (મૂત્ર ઓછું કરે), રેનિન = 'R' for Raise Pressure, ANF = 'F' for Fall Pressure.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હોર્મોન અને તેના સ્ત્રોત જોડો: <br>વિભાગ A: (1) ADH (2) રેનિન (3) ANF <br>વિભાગ B: (i) JGA કોષો (ii) હૃદયના કર્ણકો (iii) પશ્ચ પિટ્યુટરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH મગજમાંથી, રેનિન કિડનીમાંથી, ANF દિલ (Heart) માંથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રોગ અને તેના લક્ષણો જોડો: <br>વિભાગ A: (1) યુરેમિયા (2) રીનલ કેલક્યુલી (3) ગ્લોમેરુલોનેફ્રાઈટીસ <br>વિભાગ B: (i) પથરી (ii) રુધિરમાં યુરિયા વધવું (iii) રુધિરકેશિકાગુચ્છમાં સોજો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુરેમિયા (Urea in Mia/Blood), કેલક્યુલી (Stone like Calcium), ઈટીસ (-itis) એટલે સોજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઉત્સર્ગ અંગો અને પદાર્થો જોડો: <br>વિભાગ A: (1) ફેફસાં (2) યકૃત (3) ત્વચા <br>વિભાગ B: (i) બિલીરૂબીન, કોલેસ્ટરોલ (ii) પરસેવો, સીબમ (iii) CO2 (18L/day)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાં શ્વાસ છોડે (CO2), યકૃત પિત્ત બનાવે (Bilirubin), ત્વચા પરસેવો પાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મૂત્રત્યાગની પ્રક્રિયાના અંગો જોડો: <br>વિભાગ A: (1) મૂત્રાશય (2) સીએનએસ (CNS) (3) મૂત્રમાર્ગના સંકોચકો <br>વિભાગ B: (i) ચાલક સંદેશા (ii) ખેંચાણગ્રાહીઓ (iii) શિથિલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્રાશય ખેંચાય (Stretch), મગજ ઓર્ડર આપે (Motor), વાલ્વ ખુલે (Relax).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મૂત્રના ગુણધર્મો જોડો: <br>વિભાગ A: (1) pH (2) યુરિયાનો ત્યાગ (3) રંગ <br>વિભાગ B: (i) 25-30 ગ્રામ (ii) 6.0 (iii) આછો પીળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્ર એસિડિક (6 pH), અને દિવસમાં એક થેલી યુરિયા (25g) જેટલું નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાઉન્ટર કરન્ટ મિકેનિઝમ જોડો: <br>વિભાગ A: (1) NaCl (2) યુરિયા (3) આંતરકોષીય પ્રવાહી <br>વિભાગ B: (i) હેનલેના પાશનો પાતળો ભાગ (ii) આરોહી ભુજા (iii) સાંદ્રતામાં વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NaCl અને યુરિયા બંને મળીને મજ્જકને 'ખારું' (સાંદ્ર) બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રુધિરના ઘટકો અને ગાળણ જોડો: <br>વિભાગ A: (1) પ્રોટીન (2) ગ્લુકોઝ (3) યુરિયા <br>વિભાગ B: (i) સંપૂર્ણ પુનઃશોષિત (ii) ગાળણમાં ગેરહાજર (iii) આંશિક પુનઃશોષિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટીન મોટા એટલે ગળાય જ નહીં, ગ્લુકોઝ કિંમતી એટલે બધું પાછું લઈ લેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "હીમોડાયાલિસિસ પ્રક્રિયા જોડો: <br>વિભાગ A: (1) સેલોફેન નલિકા (2) હિપેરીન (3) એન્ટી-હિપેરીન <br>વિભાગ B: (i) જામી જતું અટકાવવા (ii) અર્ધપ્રવેશશીલ પટલ (iii) શરીરમાં રુધિર પાછું વહેવડાવતા પહેલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિપેરીન = No clotting, સેલોફેન = ફિલ્ટર પેપર જેવું કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બહાર કાઢવામાં આવતા પદાર્થો જોડો: <br>વિભાગ A: (1) સીબમ (2) પરસેવો (3) લાળ <br>વિભાગ B: (i) નહિવત નાઈટ્રોજનયુક્ત કચરો (ii) સ્ટીરોલ, હાઈડ્રોકાર્બન (iii) NaCl, લેક્ટિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીબમ એટલે તેલ (Waxes/Sterols), પરસેવો એટલે ખારું પાણી (NaCl).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ઉત્સર્ગ પદાર્થોનું પ્રમાણ જોડો: <br>વિભાગ A: (1) મૂત્રનું પ્રમાણ (2) રુધિરકેશિકાગુચ્છ ગાળણ (3) યુરિયા નિકાલ <br>વિભાગ B: (i) 1-1.5 લીટર/દિવસ (ii) 25-30 ગ્રામ/દિવસ (iii) 180 લીટર/દિવસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (iii), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બને 180L પણ બહાર નીકળે માત્ર 1.5L. બાકીનું બધું રિસાઈકલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ગાળણ પ્રક્રિયાના દબાણો જોડો (માત્ર સમજૂતી માટે): <br>વિભાગ A: (1) રુધિરકેશિકાગુચ્છ દબાણ (2) રુધિર પ્રોટીનનું આસૃતિ દાબ (3) કેપ્સ્યુલર હાઈડ્રોસ્ટેટિક દાબ <br>વિભાગ B: (i) ગાળણનો વિરોધ કરે (ii) ગાળણને પ્રેરે (iii) ગાળણનો વિરોધ કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૃદય જે ધક્કો મારે એ ગાળણ કરે, પ્રોટીન અને કોથળીનું દબાણ એને રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કોષો અને તેના સ્થાન જોડો: <br>વિભાગ A: (1) પોડોસાઈટ્સ (2) બ્રશ બોર્ડર કોષો (3) મેક્યુલા ડેન્સા <br>વિભાગ B: (i) PCT (ii) બાઉમેનની કોથળી (iii) DCT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પોડો' એટલે પગવાળા (કોથળીમાં), 'બ્રશ' એટલે શોષણ કરવા (PCT માં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "મૂત્રપિંડ ટ્રાન્સપ્લાન્ટ જોડો: <br>વિભાગ A: (1) શ્રેષ્ઠ દાતા (2) પ્રતિકારકતા ઘટાડવા (3) ગ્રાહીનું શરીર <br>વિભાગ B: (i) ઈમ્યુનોસપ્રેસન્ટ (ii) જીવિત નજીકનો સંબંધી (iii) નિકાલનો ભય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રાન્સપ્લાન્ટમાં 'ફેમિલી ફર્સ્ટ' અને દવાઓ 'ઈમ્યુનિટી ડાઉન' રાખવા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ઉત્સર્ગ પદાર્થો અને પ્રાણીઓના વધુ ઉદાહરણ: <br>વિભાગ A: (1) જલજ કીટકો (2) જમીન પરના ગોકળગાય (3) દેડકો <br>વિભાગ B: (i) યુરિયા (ii) એમોનિયા (iii) યુરિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલજ = એમોનિયા, જમીન પરના નાના જીવો = યુરિક એસિડ, ઉભયજીવી (દેડકો) = યુરિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ગાળણના માર્ગનો સાચો ક્રમ જોડો: <br>વિભાગ A: (1) રુધિરકેશિકાગુચ્છ (2) બાઉમેનની કોથળી (3) PCT <br>વિભાગ B: (i) બીજો તબક્કો (ii) પ્રથમ તબક્કો (iii) ત્રીજો તબક્કો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G -> B -> P (Glomerulus -> Bowman -> PCT). જી.બી.પી. રોડ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "મૂત્રપિંડના પિરામિડ અને સ્તંભ જોડો: <br>વિભાગ A: (1) મજ્જક પિરામિડ (2) બર્ટિનીના સ્તંભો (3) કેલિસિસ <br>વિભાગ B: (i) બાહ્યકનું મજ્જકમાં વિસ્તરણ (ii) શંકુ આકારના પ્રવર્ધો (iii) પિરામિડ જેની અંદર ખુલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિરામિડ = મજ્જકનો ટુકડો, બર્ટિની = બાહ્યકની ઘૂસણખોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "શરતી પુનઃશોષણ (Conditional reabsorption) જોડો: <br>વિભાગ A: (1) DCT (2) સંગ્રહણ નલિકા (3) PCT <br>વિભાગ B: (i) પાણીનું મોટાપાયે શોષણ (ii) Na+ અને પાણી (iii) ગ્લુકોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DCT માં શોષણ 'મૂડ' (Hormone) પર આધાર રાખે એટલે શરતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "રુધિરદાબ વધારવાની ક્રિયા જોડો: <br>વિભાગ A: (1) એન્જીયોટેન્સીન II (2) એલ્ડોસ્ટેરોન (3) રેનિન <br>વિભાગ B: (i) વાહિની સંકોચક (ii) Na+ નું શોષણ વધારે (iii) એન્જીયોટેન્સીનોજન માંથી એન્જીયોટેન્સીન I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેનિન શરૂઆત કરે, એન્જીયો-II નળી સાંકડી કરે, એલ્ડોસ્ટેરોન મીઠું (Na+) પકડી રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "આયનોનો સ્ત્રાવ જોડો: <br>વિભાગ A: (1) PCT (2) DCT (3) સંગ્રહણ નલિકા <br>વિભાગ B: (i) K+ અને H+ (ii) H+, NH3, K+ (iii) H+ અને K+",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H+ અને K+ તો બધે જ ફેંકાય, પણ NH3 ખાસ કરીને PCT માં ફેંકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એમોનિયા ત્યાગની પદ્ધતિ જોડો: <br>વિભાગ A: (1) એમોનિયાનું વહન (2) નિકાલ માટે પાણી (3) નિકાલનું અંગ <br>વિભાગ B: (i) ખૂબ જ વધારે (ii) પ્રસરણ દ્વારા (iii) ઝાલરો (મત્સ્યમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયા = 'A' for Aquatic, 'A' for A lot of water.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ડાયાલિસિસ પ્રવાહીના ઘટકો જોડો: <br>વિભાગ A: (1) પ્લાઝ્મા જેવું બંધારણ (2) નાઈટ્રોજનયુક્ત કચરો (3) સાંદ્રતા ઢોળાવ <br>વિભાગ B: (i) પ્રવાહીમાં ગેરહાજર (ii) પણ પ્રોટીન વગરનું (iii) કચરાના નિકાલ માટે જવાબદાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાલિસિસ એટલે 'ચોખ્ખું લોહી'. પ્રવાહીમાં યુરિયા ન હોય તો જ શરીરમાંથી યુરિયા બહાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મૂત્રપિંડ પથરીના કેમિકલ જોડો: <br>વિભાગ A: (1) કેલ્શિયમ ઓક્ઝેલેટ (2) યુરિક એસિડ (3) ફોસ્ફેટ <br>વિભાગ B: (i) પથરીના પ્રકાર (ii) પથરીના પ્રકાર (iii) પથરીના પ્રકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1), (2), (3) ત્રણેય પથરી બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટેભાગે પથરી 'ઓક્ઝેલેટ' ના સ્ફટિકોની બનેલી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કાઉન્ટર કરન્ટના ઘટકો જોડો: <br>વિભાગ A: (1) હેનલેનો પાશ (2) વાઝા રેક્ટા (3) મજ્જક અંતરાલ <br>વિભાગ B: (i) વાળ પિન (Hairpin) આકાર (ii) U-આકારની રુધિરવાહિની (iii) હાયપર ઓસ્મોલેરિટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને 'U' આકારના છે અને સામસામે વહે છે એટલે 'કાઉન્ટર' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિવિધ પ્રાણીઓના ઉત્સર્ગ અંગો (Part 2): <br>વિભાગ A: (1) રોટીફર્સ (2) એમ્ફિઓક્સસ (3) અળસિયા <br>વિભાગ B: (i) વૃક્કિકા (ii) પ્રોટોનેફ્રિડિયા (iii) પ્રોટોનેફ્રિડિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોટીફર્સ અને એમ્ફિઓક્સસ 'પ્રોટો' (આદિ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "મૂત્રપિંડના આવરણો જોડો: <br>વિભાગ A: (1) રીનલ કેપ્સ્યુલ (2) એડિપોઝ લેયર (3) રીનલ ફેસિયા <br>વિભાગ B: (i) રક્ષણ આપતી ચરબી (ii) સૌથી અંદરનું સખત પડ (iii) સૌથી બહારનું પડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેપ્સ્યુલ હંમેશા દવા (અંગ) ની નજીક હોય. એડિપોઝ એટલે ચરબી (ગાદી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "યુરિયા ચક્ર (Ornithine cycle) જોડો: <br>વિભાગ A: (1) યુરિયાનું નિર્માણ (2) કાચો માલ (3) નિકાલ <br>વિભાગ B: (i) એમોનિયા + CO2 (ii) યકૃત (iii) મૂત્રપિંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુરિયા બને ક્યાં? ફેક્ટરીમાં (યકૃત). નીકળે ક્યાંથી? ગટર દ્વારા (મૂત્રપિંડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ગાળણના માર્ગોની સાંદ્રતા જોડો: <br>વિભાગ A: (1) PCT થી નીચે ઉતરતા (2) હેનલેના પાશના તળિયે (3) આરોહી ભુજામાં ઉપર જતાં <br>વિભાગ B: (i) મહત્તમ સાંદ્રતા (ii) સાંદ્રતા વધે (iii) સાંદ્રતા ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંડા જાવ તો ગાળણ ગાઢું (Concentrated) થાય, ઉપર આવો તો પાતળું (Dilute) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ગ્લાયકોસુરિયા અને કિટોનુરિયા જોડો: <br>વિભાગ A: (1) ગ્લાયકોસુરિયા (2) કિટોનુરિયા (3) ડાયાબિટીસ મેલિટસ <br>વિભાગ B: (i) મૂત્રમાં કિટોન બોડી (ii) મૂત્રમાં ગ્લુકોઝ (iii) આ બંને લક્ષણો ધરાવતો રોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાયકો = ગ્લુકોઝ, કિટોન = કિટોન. ડાયાબિટીસ હોય તો જ મૂત્ર ગળ્યું લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "હેનલેના પાશની લંબાઈ અને પ્રાણી જોડો: <br>વિભાગ A: (1) રણના ઉંદર (2) જલજ પ્રાણીઓ (3) માનવ <br>વિભાગ B: (i) ખૂબ લાંબો (ii) મધ્યમ (iii) ટૂંકો અથવા ગેરહાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (iii), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલો પાશ લાંબો, એટલું પાણીનું શોષણ વધુ. રણમાં પાણી બચાવવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વધારાના ઉત્સર્ગ અંગો (Other organisms): <br>વિભાગ A: (1) પ્લેટીહેલ્મિન્થિસ (2) ક્રસ્ટેશિયન્સ (3) કીટકો <br>વિભાગ B: (i) માલ્પિધિયન નલિકા (ii) જ્યોતકોષો (iii) હરિત ગ્રંથિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિત ગ્રંથિ (Green Gland) = ઝિંગા (Prawn/Crustacean).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "મૂત્રના ઘટકોની ટકાવારી જોડો: <br>વિભાગ A: (1) પાણી (2) કાર્બનિક દ્રવ્યો (3) અકાર્બનિક દ્રવ્યો <br>વિભાગ B: (i) 2% (ii) 95-96% (iii) 2-3%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂત્ર એટલે 95% પાણી જ છે, બાકીનો તો માત્ર કચરો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ગાળણના દરનું નિયમન જોડો: <br>વિભાગ A: (1) રુધિરદાબમાં ઘટાડો (2) JGA માંથી રેનિનનો સ્ત્રાવ (3) એન્જીયોટેન્સીન II <br>વિભાગ B: (i) GFR વધારે (ii) GFR ને સામાન્ય કરે (iii) GFR ને ઉત્તેજિત કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (ii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું RAAS તંત્ર GFR ને પાછું ઉપર લાવવા માટે જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઓસ્મોરેસેપ્ટર્સ (આસૃતિ ગ્રાહીઓ) જોડો: <br>વિભાગ A: (1) ઉત્તેજના (2) સ્વીચ ઓફ (3) કાર્ય <br>વિભાગ B: (i) રુધિરનું કદ સામાન્ય થવું (ii) રુધિરના કદમાં ફેરફાર (iii) હાયપોથેલેમસને ઉત્તેજવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરમાં પાણી ઘટ્યું કે તરત સેન્સર (Receptors) વાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "મૂત્રપિંડના આકાર અને સ્થાન જોડો: <br>વિભાગ A: (1) આકાર (2) પૃષ્ઠ બાજુ (3) કશેરુકા સ્તર <br>વિભાગ B: (i) ઉદર ગુહામાં (ii) વાલના દાણા જેવો (iii) છેલ્લી ઉરસીય થી ત્રીજી કટિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T12 to L3' - કિડનીનું એડ્રેસ યાદ રાખી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "GFR અને પેશાબનું ઉત્પાદન: <br>વિભાગ A: (1) 180 લિટર (2) 1.5 લિટર (3) 99% <br>વિભાગ B: (i) પુનઃશોષિત ગાળણ (ii) કુલ ગાળણ (iii) ઉત્સર્જિત મૂત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિડની બહુ કંજૂસ છે, 99% તો પાછું ખેંચી લે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "સીબમમાં ત્યાગ થતા પદાર્થો: <br>વિભાગ A: (1) સ્ટીરોલ્સ (2) હાઈડ્રોકાર્બન્સ (3) મીણ (Waxes) <br>વિભાગ B: (i) સીબમનો ઘટક (ii) સીબમનો ઘટક (iii) સીબમનો ઘટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણેય સાચા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તૈલી ગ્રંથિઓ (Sebaceous) ચરબી જેવો કચરો કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "માલ્પિધિયન કાય અને નલિકાઓ વચ્ચે તફાવત: <br>વિભાગ A: (1) માલ્પિધિયન કાય (2) માલ્પિધિયન નલિકા <br>વિભાગ B: (i) માનવ મૂત્રપિંડમાં (ii) વંદામાં (કીટકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાય' (Corpuscle) એટલે આપણું, 'નલિકા' (Tubule) એટલે વંદાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "મૂત્રપિંડના રોગો અને ટ્રીટમેન્ટ: <br>વિભાગ A: (1) યુરેમિયા (2) રીનલ ફેલ્યોર (3) પથરી <br>વિભાગ B: (i) ટ્રાન્સપ્લાન્ટ (ii) હીમોડાયાલિસિસ (iii) લિથોટ્રિપ્સી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુરિયા કાઢવા ડાયાલિસિસ, પથરી તોડવા લિથોટ્રિપ્સી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ગાળણ એકમની દીવાલ જોડો: <br>વિભાગ A: (1) સ્લિટ પોર્સ (ગાળણ ખાંચ) (2) બાઉમેનની કોથળીનું અધિચ્છદ (3) રુધિરકેશિકા ગુચ્છ <br>વિભાગ B: (i) પોડોસાઈટ્સ (ii) અંતઃસ્તર (iii) ગાળણ માટેની જગ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોડોસાઈટ્સ વચ્ચે જે જગ્યા રહે એને જ 'સ્લિટ' (ખાંચ) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પુનઃશોષણની પદ્ધતિ જોડો: <br>વિભાગ A: (1) ગ્લુકોઝ અને એમિનો એસિડ (2) નાઈટ્રોજનયુક્ત કચરો (3) પાણી (શરૂઆતનું) <br>વિભાગ B: (i) નિષ્ક્રિય વહન (ii) સક્રિય વહન (iii) આસૃતિ દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોંઘી વસ્તુ (Glucose) શક્તિ વાપરીને (Active) લેવી પડે, કચરો (Urea) એમનેમ (Passive) આવી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "સંગ્રહણ નલિકાના કાર્યો જોડો: <br>વિભાગ A: (1) પાણીનું પુનઃશોષણ (2) યુરિયા (થોડો જથ્થો) (3) pH જાળવણી <br>વિભાગ B: (i) મજ્જક અંતરાલમાં પ્રસરણ (ii) સાંદ્ર મૂત્ર બનાવવા માટે (iii) H+ અને K+ નો સ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે સુધી પાણી બચાવવાની ટ્રાય 'સંગ્રહણ નલિકા' કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "કાઉન્ટર કરન્ટની દિશા જોડો: <br>વિભાગ A: (1) હેનલેના પાશની બે ભુજાઓ (2) વાઝા રેક્ટાની બે ભુજાઓ (3) હેનલે અને વાઝા રેક્ટા વચ્ચે <br>વિભાગ B: (i) વિરુદ્ધ દિશા (ii) વિરુદ્ધ દિશા (iii) વિરુદ્ધ દિશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બધામાં 'વિરુદ્ધ દિશા' (Counter) જ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ 'કાઉન્ટર' છે, એટલે પ્રવાહ હંમેશા 'સામસામે' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "નાઈટ્રોજનયુક્ત કચરાની પાણીની જરૂરિયાત: <br>વિભાગ A: (1) એમોનિયા (2) યુરિયા (3) યુરિક એસિડ <br>વિભાગ B: (i) ન્યૂનતમ (ii) મહત્તમ (iii) મધ્યમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (iii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયા એટલે 'જલપરી', યુરિક એસિડ એટલે 'રણનો રાજા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ઉત્સર્ગ પદાર્થોનું સ્વરૂપ જોડો: <br>વિભાગ A: (1) એમોનિયા (2) યુરિક એસિડ (3) યુરિયા <br>વિભાગ B: (i) દ્રાવણ (ii) પેસ્ટ અથવા ગોળીકા (iii) જલીય દ્રાવણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (ii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓની 'ચરક' યાદ કરો, એ પેસ્ટ જેવી (Uric acid) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "અંગ અને તેની સંખ્યા જોડો: <br>વિભાગ A: (1) મૂત્રપિંડ (2) મૂત્રવાહિની (3) મૂત્રાશય <br>વિભાગ B: (i) 1 (ii) 2 (iii) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (ii), (3) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડીમાં હોય એવા: કિડની અને નળી (Ureter). સિંગલ હોય એવું: મૂત્રાશય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "ઉત્સર્ગ એકમની લંબાઈ જોડો: <br>વિભાગ A: (1) કુલ ઉત્સર્ગ એકમો (2) એક મૂત્રપિંડમાં <br>વિભાગ B: (i) આશરે 10 લાખ (ii) આશરે 1 મિલિયન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને સમાન જ છે (1 મિલિયન = 10 લાખ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિડની = 10 લાખ ફિલ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "રુધિરકેશિકાગુચ્છ ગાળણનું પ્રમાણ: <br>વિભાગ A: (1) પ્રતિ મિનિટ (2) પ્રતિ દિવસ <br>વિભાગ B: (i) 125 ml (ii) 180 Liters",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 125 x 60 x 24 કરશો એટલે 180,000 ml (180L) આવી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "શારીરિક ક્રિયાઓ અને હોર્મોન્સ જોડો: <br>વિભાગ A: (1) વધુ પડતું પાણી પીવું (2) પાણીની અછત (3) વધુ પડતું મીઠું ખાવું <br>વિભાગ B: (i) ADH વધે (ii) ADH ઘટે (iii) રેનિન-એન્જીયોટેન્સીન સક્રિય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી વધારે તો ADH ને રજા (ઘટે), પાણી ઓછું તો ADH ને કામ પર બોલાવો (વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "ઉત્સર્ગ પદાર્થો અને ઝેરીપણું (ઉતરતો ક્રમ): <br>વિભાગ A: (1) પ્રથમ (2) દ્વિતીય (3) તૃતીય <br>વિભાગ B: (i) યુરિયા (ii) એમોનિયા (iii) યુરિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એ-યુ-યુ (Ammonia > Urea > Uric acid).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "નેફ્રોનના ભાગોનું વિશિષ્ટ કાર્ય: <br>વિભાગ A: (1) PCT (2) હેનલેનો પાશ (3) સંગ્રહણ નલિકા <br>વિભાગ B: (i) મૂત્રનું સાંદ્રીકરણ (ii) pH સંતુલન (iii) સૌથી વધુ શોષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (iii), (2) - (i), (3) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCT = શોષણનો રાજા, હેનલે = પાણી બચાવવાનો એક્સપર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "મૂત્રપિંડની નિષ્ફળતાના કારણો જોડો: <br>વિભાગ A: (1) ડાયાબિટીસ (2) હાઈ બ્લડ પ્રેશર (3) ઇન્ફેક્શન <br>વિભાગ B: (i) કિડની ફેલ્યોર (ii) કિડની ફેલ્યોર (iii) કિડની ફેલ્યોર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ ત્રણેય મુખ્ય કારણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાબિટીસ અને BP એ કિડનીના સૌથી મોટા દુશ્મન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "મૂત્રત્યાગ (Micturition) ના તબક્કા જોડો: <br>વિભાગ A: (1) ખેંચાણ (2) CNS (3) સ્નાયુ સંકોચન <br>વિભાગ B: (i) પરાવર્તી ક્રિયા (ii) મૂત્રાશયની દીવાલ (iii) ડેટ્રુસર સ્નાયુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i), (3) - (iii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Micturition reflex' એ એક ઓટોમેટિક સિસ્ટમ છે જે મગજ સાથે જોડાયેલી છે.</p></div>"
+    }
+  ]
+}

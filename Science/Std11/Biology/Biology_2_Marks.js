@@ -229,3 +229,116 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "વનસ્પતિ સૃષ્ટિ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કૃત્રિમ વર્ગીકરણ પદ્ધતિ અને નૈસર્ગિક વર્ગીકરણ પદ્ધતિ વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કૃત્રિમ પદ્ધતિ માત્ર બાહ્ય લક્ષણો (જેમ કે આદત, રંગ, પર્ણોની સંખ્યા) પર આધારિત હતી અને મુખ્યત્વે લિંગી લક્ષણો (પુંકેસરચક્ર) ને મહત્વ આપતી હતી. 2. નૈસર્ગિક પદ્ધતિ સજીવો વચ્ચેના પ્રાકૃતિક સંબંધો, બાહ્ય તેમજ આંતરિક લક્ષણો (કોષરચના, ભ્રૂણવિદ્યા, ફાયટોકેમિસ્ટ્રી) ને ધ્યાનમાં લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કૃત્રિમ = માત્ર બહારથી' (બાહ્ય), 'નૈસર્ગિક = અંદર-બહાર બંને' (સમગ્ર રચના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંખ્યાકીય વર્ગીકરણવિદ્યા (Numerical Taxonomy) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પદ્ધતિ કમ્પ્યુટરનો ઉપયોગ કરીને કરવામાં આવે છે. તેમાં અવલોકિત કરેલા તમામ લક્ષણોને આધારે ગાણિતિક ગણતરી થાય છે. દરેક લક્ષણને એક નંબર કે કોડ આપવામાં આવે છે અને ત્યારબાદ ડેટા પ્રોસેસ કરવામાં આવે છે. આ રીતે સેંકડો લક્ષણોને એકસાથે સરખી રીતે મહત્વ આપી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Number + Computer = Numerical Taxonomy.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોષવર્ગીકરણવિદ્યા (Cytotaxonomy) અને રસાયણ વર્ગીકરણવિદ્યા (Chemotaxonomy) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કોષવર્ગીકરણવિદ્યા: તે કોષીય માહિતી જેવી કે રંગસૂત્રોની સંખ્યા, તેની રચના અને વર્તણૂક પર આધારિત છે. 2. રસાયણ વર્ગીકરણવિદ્યા: તે વનસ્પતિમાં રહેલા રાસાયણિક ઘટકોના ઉપયોગ દ્વારા વર્ગીકરણની મૂંઝવણો દૂર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyto = Cell (રંગસૂત્ર), Chemo = Chemical (રસાયણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લીલનો આર્થિક ઉપયોગ જણાવો. (કોઈપણ બે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. પૃથ્વી પરના કુલ કાર્બન ડાયોક્સાઇડના સ્થાપનનો અડધો ભાગ લીલ દ્વારા પ્રકાશસંશ્લેષણથી થાય છે. 2. પોરફાયરા, લેમિનારિયા અને સારગાસમ જેવી ઘણી દરિયાઈ લીલ ખોરાક તરીકે વપરાય છે. 3. જેલિડિયમ અને ગ્રેસીલેરિયામાંથી 'અગર' મેળવાય છે જે આઈસ્ક્રીમ અને જેલી બનાવવામાં વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલ = CO2 સ્થાપક + અગર અગરની ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હરિતલીલ (Chlorophyceae) માં સંગ્રહિત ખોરાક અને કોષદીવાલની લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિતલીલમાં ખોરાકનો સંગ્રહ 'પાયરેનોઇડ્સ' (રંજકકણોમાં આવેલા સંગ્રહક એકમો) માં થાય છે, જે પ્રોટીન અને સ્ટાર્ચ ધરાવે છે. તેમની કોષદીવાલ સખત હોય છે, જેનું અંદરનું સ્તર સેલ્યુલોઝનું અને બહારનું સ્તર પેક્ટોઝનું બનેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિતલીલ = અંદર સેલ્યુલોઝ, બહાર પેક્ટોઝ (C-P).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બદામી લીલ (Phaeophyceae) માં જોવા મળતા રંજકદ્રવ્યો અને સંગ્રહિત ખોરાક જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદામી લીલ ક્લોરોફિલ a, c, કેરોટીનોઇડ્સ અને ફ્યુકોઝેન્થિન ધરાવે છે. ફ્યુકોઝેન્થિનના પ્રમાણને આધારે તેનો રંગ જૈતૂન લીલાથી બદામી હોઈ શકે છે. તેમાં ખોરાક જટિલ કાર્બોદિત જેવા કે લેમિનારિન કે મેનિટોલ સ્વરૂપે સંગ્રહ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બદામી = ફ્યુકોઝેન્થિન + મેનિટોલ (B-F-M).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બદામી લીલના વનસ્પતિ દેહના ભાગો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદામી લીલનો દેહ સામાન્ય રીતે ત્રણ ભાગમાં વહેંચાયેલો હોય છે: 1. સ્થાપક અંગ (Holdfast): જેના દ્વારા તે આધાર સાથે જોડાય છે. 2. વૃંત (Stipe): જે દાંડી જેવો ભાગ છે. 3. છત્રિકા (Frond): જે પર્ણ જેવું પ્રકાશસંશ્લેષી અંગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H-S-F (Holdfast-Stipe-Frond).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રાતી લીલ (Rhodophyceae) નો રંગ લાલ શા માટે હોય છે? તેમાં ખોરાક કયા સ્વરૂપે સંગ્રહાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાતી લીલમાં લાલ રંજકદ્રવ્ય 'r-ફાયકોઇરિથ્રિન' નું પ્રભુત્વ હોવાને કારણે તેનો રંગ લાલ હોય છે. તેમાં ખોરાક 'ફ્લોરિડિયન સ્ટાર્ચ' સ્વરૂપે સંગ્રહાય છે, જેની રચના એમાયલોપેક્ટીન અને ગ્લાયકોજનને મળતી આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાતી = ફાયકોઇરિથ્રિન + ફ્લોરિડિયન સ્ટાર્ચ (Red-Phyco-Flori).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દ્વિઅંગી વનસ્પતિઓને વનસ્પતિ સૃષ્ટિના 'ઉભયજીવી' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિઅંગી વનસ્પતિઓ જમીન (ભેજવાળી માટી) પર જીવી શકે છે, પરંતુ તેમના લિંગી પ્રજનન માટે પાણીની અનિવાર્ય હાજરી જરૂરી છે (નરજન્યુઓના વહન માટે). આથી તેમને વનસ્પતિ સૃષ્ટિના ઉભયજીવી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રહેઠાણ જમીન + પ્રજનન પાણી = ઉભયજીવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દ્વિઅંગીઓમાં 'મૂલાંગો' એટલે શું? તેનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિઅંગીઓમાં સાચા મૂળ હોતા નથી, પરંતુ મૂળ જેવી રચનાઓ હોય છે જેને મૂલાંગો (Rhizoids) કહે છે. તે એકકોષી કે બહુકોષી હોઈ શકે છે. કાર્ય: તે વનસ્પતિ દેહને આધાર (substratum) સાથે જકડી રાખવાનું કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ જેવું કામ પણ મૂળ નહીં = મૂલાંગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સ્ફૅગ્નમ (Sphagnum) ની આર્થિક અગત્યતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ફૅગ્નમ એ એક મોસ છે જે 'પીટ' (Peat) પૂરી પાડે છે, જેનો લાંબા સમયથી બળતણ તરીકે ઉપયોગ થાય છે. તેની પાણી જાળવી રાખવાની ક્ષમતાને લીધે તે જીવંત પદાર્થોની હેરફેર (trans-shipment) માટે પેકિંગ મટીરિયલ તરીકે વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ફૅગ્નમ = પીટ + પાણીનો સ્પોન્જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લિવરવર્ટમાં 'કલિકાકૂપ' (Gemma Cups) વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિવરવર્ટમાં (દા.ત. માર્કેન્શિયા) અલિંગી પ્રજનન 'કલિકાઓ' દ્વારા થાય છે. આ કલિકાઓ લીલી, બહુકોષી અને અલિંગી કળીઓ છે, જે સુકાય પર આવેલી નાની પ્યાલા જેવી રચનાઓ 'કલિકાકૂપ' માં ઉદ્ભવે છે. તે પિતૃદેહથી છૂટી પડી નવો છોડ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલિકાકૂપ = પ્રજનનનો પ્યાલો (Gemma Cup).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મોસમાં પ્રતંતુ (Protonema) અવસ્થા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોસના જીવનચક્રમાં જન્યુજનક અવસ્થાના બે તબક્કા હોય છે. પ્રથમ તબક્કો 'પ્રતંતુ' છે, જે પ્રત્યક્ષ રીતે બીજાણુમાંથી ઉદ્ભવે છે. તે વિસર્પી, લીલી, શાખિત અને ઘણીવાર તંતુમય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજાણુ → પ્રતંતુ (પહેલો સ્ટેજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ત્રિઅંગી વનસ્પતિઓનું ભૌગોલિક વિતરણ શા માટે મર્યાદિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિઅંગીઓના જન્યુજનક (પ્રોથેલસ) ને ઉગવા માટે ઠંડી, ભેજવાળી અને છાંયડાવાળી જગ્યાની જરૂર હોય છે. વધુમાં, ફલન માટે પાણીની અનિવાર્યતા હોવાને કારણે તેમનું ભૌગોલિક વિસ્તરણ મર્યાદિત અને સાંકડા ભૌગોલિક પ્રદેશો પૂરતું જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની જરૂરિયાત = લિમિટેડ એરિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિષમબીજાણુતા (Heterospory) એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વનસ્પતિઓ બે પ્રકારના બીજાણુઓ ઉત્પન્ન કરે છે - મોટા (મહાબીજાણુ) અને નાના (લઘુબીજાણુ), તેને વિષમબીજાણુ વનસ્પતિ કહેવાય. ઉદાહરણ: સેલાજિનેલા (Selaginella) અને સાલ્વીનીયા (Salvinia).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અલગ સાઈઝના બીજ = વિષમબીજાણુ (Sela-Salvi).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બીજધારી વનસ્પતિઓમાં બીજ નિર્માણની દિશામાં પૂર્વગામી પગલું કયું ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિઅંગીઓમાં માદા જન્યુજનક પિતૃ બીજાણુજનક પર જળવાય છે અને ત્યાં જ ભ્રૂણનો વિકાસ થાય છે. આ વિષમબીજાણુતાની ઘટના એ બીજ નિર્માણ (Seed habit) ના ઉદ્વિકાસ માટેનું અત્યંત મહત્વનું અને પૂર્વગામી પગલું ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માદા જન્યુજનકનું પિતૃ પર રોકાવું = બીજની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અનાવૃત બીજધારીઓમાં કવકમૂળ (Mycorrhiza) અને પ્રવાળમૂળ (Coralloid roots) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કવકમૂળ: પાઈનસ (Pinus) ના મૂળ ફૂગ સાથે સહજીવન ગુજારે છે જેને કવકમૂળ કહે છે. 2. પ્રવાળમૂળ: સાયકસ (Cycas) માં વિશિષ્ટ મૂળ હોય છે જે નાઈટ્રોજન સ્થાપન કરતા સાયનોબેક્ટેરિયા સાથે જોડાયેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P-M (Pinus-Myco), C-C (Cycas-Coralloid).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શંકુદ્રુમ (Conifers) વનસ્પતિઓ પ્રતિકૂળ પરિસ્થિતિ સામે કેવી રીતે અનુકૂલિત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકુદ્રુમ વનસ્પતિઓમાં પર્ણો સોય જેવા અણીદાર હોય છે જે સપાટીનું ક્ષેત્રફળ ઘટાડે છે. તેમના પર જાડું ક્યુટિકલ (મીણ જેવું સ્તર) અને નિમગ્ન વાયુરંધ્રો (Sunken stomata) આવેલા હોય છે, જે પાણીનો વ્યય ઘટાડવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોય જેવા પાન + જાડું ક્યુટિકલ = પાણીની બચત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આવૃત બીજધારીઓમાં બેવડું ફલન (Double Fertilization) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગનલિકા બે નરજન્યુ મુક્ત કરે છે. તેમાંથી એક અંડકોષ સાથે જોડાઈ ફલિતાંડ (2n) બનાવે છે (સંયુગ્મન), જ્યારે બીજો નરજન્યુ દ્વિતીય કોષકેન્દ્ર સાથે જોડાઈ પ્રાથમિક ભ્રૂણપોષ કોષકેન્દ્ર (3n) બનાવે છે (ત્રિકીય જોડાણ). આ બેવડી ઘટનાને બેવડું ફલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયુગ્મન + ત્રિકીય જોડાણ = બેવડું ફલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એકવિધ જીવનચક્ર (Haplontic Life Cycle) કઈ વનસ્પતિઓમાં જોવા મળે છે? લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉદાહરણ: વોલ્વોક્સ, સ્પાયરોગાયરા અને ક્લેમિડોમોનાસ. લાક્ષણિકતા: અહીં બીજાણુજનક અવસ્થા માત્ર એકકોષી ફલિતાંડ પૂરતી મર્યાદિત છે. ફલિતાંડમાં અર્ધીકરણ થઈ એકકીય બીજાણુ બને છે, જે વિભાજન પામી મુક્તજીવી જન્યુજનક બનાવે છે. મુખ્ય અવસ્થા જન્યુજનક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકવિધ = જન્યુજનક (n) ડોમિનેન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દ્વિવિધ-એકવિધ (Haplo-diplontic) જીવનચક્ર કઈ વનસ્પતિઓ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિઅંગી અને ત્રિઅંગી વનસ્પતિઓ આ પ્રકારનું જીવનચક્ર ધરાવે છે. આ ઉપરાંત કેટલીક લીલ જેવી કે એક્ટોકાર્પસ, પોલીસાઈફોનિયા અને કેલ્પ (Kelps) પણ આ પ્રકારનું જીવનચક્ર દર્શાવે છે, જેમાં બંને અવસ્થાઓ બહુકોષી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B.P. (Bryo, Pterido) + EPC (Ecto, Poly, Kelp).</p></div>"
+    }
+  ]
+}

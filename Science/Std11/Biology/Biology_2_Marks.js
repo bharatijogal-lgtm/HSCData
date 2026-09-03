@@ -342,3 +342,121 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "પ્રાણી સૃષ્ટિ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રાણીઓમાં આયોજનના સ્તરો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓમાં મુખ્ય ચાર પ્રકારના આયોજન જોવા મળે છે: (1) કોષીય સ્તર: કોષો છૂટાછવાયા હોય (દા.ત. સછિદ્ર). (2) પેશી સ્તર: કોષો પેશીઓમાં ગોઠવાયેલા હોય (દા.ત. કોષ્ઠાંત્રિ). (3) અંગ સ્તર: પેશીઓ ભેગી મળી અંગો બનાવે (દા.ત. પૃથુકૃમિ). (4) અંગતંત્ર સ્તર: અંગો ભેગા મળી તંત્ર બનાવે (દા.ત. સંધિપાદ, મેરુદંડી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sequence યાદ રાખો: કોષ → પેશી → અંગ → અંગતંત્ર. (Cell to System)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખુલ્લું પરિવહન તંત્ર અને બંધ પરિવહન તંત્ર વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લું પરિવહન તંત્ર: રુધિર હૃદયની બહાર ધકેલાય છે અને કોષો/પેશીઓ તેમાં તરબોળ હોય છે (દા.ત. સંધિપાદ). બંધ પરિવહન તંત્ર: રુધિર ચોક્કસ વ્યાસની વાહિનીઓ (ધમની, શિરા, કેશિકાઓ) માં વહે છે (દા.ત. નૂપુરક, મેરુદંડી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખુલ્લું' એટલે સ્વિમિંગ પૂલ જેવું, 'બંધ' એટલે પાઈપલાઈન જેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અરીય સંમિતિ અને દ્વિપાર્શ્વ સંમિતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરીય સંમિતિ: પ્રાણીના મધ્ય અક્ષમાંથી પસાર થતી કોઈપણ ધરી પ્રાણીને બે સમાન ભાગમાં વિભાજીત કરે (દા.ત. તારામાછલી). દ્વિપાર્શ્વ સંમિતિ: શરીરને એક જ ધરીએથી બે સમાન ડાબા અને જમણા ભાગમાં વહેંચી શકાય (દા.ત. માનવ, સંધિપાદ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીય = ગોળ (Circle), દ્વિપાર્શ્વ = અરીસો (Mirror Image).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દ્વિગર્ભસ્તરીય અને ત્રિગર્ભસ્તરીય પ્રાણીઓ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિગર્ભસ્તરીય: જેમાં કોષો બાહ્ય ગર્ભસ્તર અને અંતઃ ગર્ભસ્તરમાં ગોઠવાયેલા હોય (દા.ત. કોષ્ઠાંત્રિ). ત્રિગર્ભસ્તરીય: બાહ્ય અને અંતઃ સ્તરની વચ્ચે ત્રીજું મધ્ય ગર્ભસ્તર આવેલું હોય છે (દા.ત. પૃથુકૃમિ થી મેરુદંડી સુધીના બધા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Di = 2 સ્તર, Tri = 3 સ્તર. મધ્યમાં મધ્ય ગર્ભસ્તર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આભાસી શરીરગુહા (Pseudocoelom) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલાક પ્રાણીઓમાં શરીરગુહા મધ્ય ગર્ભસ્તરથી અસ્તરિત હોતી નથી, પરંતુ બાહ્યસ્તર અને અંતઃસ્તર વચ્ચે મધ્ય ગર્ભસ્તર નાની નાની કોથળીઓ સ્વરૂપે હોય છે. તેને આભાસી શરીરગુહા કહે છે. ઉદાહરણ: સૂત્રકૃમિ (Aschelminthes).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આભાસી = 'ખોટું' (False), માત્ર 'સૂત્રકૃમિ' માં જ જોવા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સછિદ્ર સમુદાયના વિશિષ્ટ લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) તેઓ છિદ્રિષ્ટ શરીર ધરાવે છે (ઓસ્ટિયા). (2) જલવહન તંત્ર અથવા નલિકા તંત્ર ધરાવે છે. (3) મધ્યમાં સ્પંજગુહા (Spongocoel) અને તેને આવરતા કોલર કોષો (Choanocytes) હોય છે. (4) પાચન અંતઃકોષીય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સછિદ્ર = છિદ્રોવાળું શરીર + કોલર કોષો (VIP Cells).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કોષ્ઠાંત્રિ સમુદાયમાં જોવા મળતી 'ડંખકોષો' ની ઉપયોગિતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષ્ઠાંત્રિઓના સૂત્રાંગો અને શરીર પર ડંખકોષો (Cnidocytes) આવેલા હોય છે. તેનો ઉપયોગ: (1) આધાર સાથે ચોંટવા (Anchor), (2) સંરક્ષણ માટે (Defense), અને (3) ભક્ષ્યને પકડવા માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડંખકોષ = પ્રાણીનું હથિયાર (Weapon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એકાંતરજનન (Metagenesis) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલાક કોષ્ઠાંત્રિઓ (દા.ત. ઓબેલિયા) માં બે સ્વરૂપો જોવા મળે છે: પુષ્પક (Polyp) અને છત્રક (Medusa). પુષ્પક અલિૈંગી રીતે છત્રક ઉત્પન્ન કરે છે અને છત્રક લૈંગિક રીતે પુષ્પક ઉત્પન્ન કરે છે. આ ક્રિયાને એકાંતરજનન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P-A-M (Polyp - Asexual - Medusa) & M-S-P (Medusa - Sexual - Polyp).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કંકતધરા (Ctenophora) ના વિશિષ્ટ લક્ષણો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) તેઓ દરિયાઈ અને અરીય સંમિતિ ધરાવતા પ્રાણીઓ છે. (2) આઠ ચલિત કંકત તકતીઓ ધરાવે છે જે પ્રચલનમાં મદદ કરે છે. (3) તેઓ જૈવદીપ્તિ (Bioluminescence) નો ગુણધર્મ ધરાવે છે, એટલે કે પ્રકાશ ઉત્સર્જિત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંકતધરા = 8 પ્લેટ + ટોર્ચ જેવું અજવાળું (Bio-light).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પૃથુકૃમિમાં ઉત્સર્જન માટે કઈ વિશિષ્ટ રચના હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથુકૃમિમાં ઉત્સર્જન અને આશૃતિ નિયમન માટે વિશિષ્ટ કોષો આવેલા હોય છે, જેને 'જ્યોતકોષો' (Flame cells) કહેવામાં આવે છે. આ પ્રાણીઓ પૃષ્ઠ-વક્ષ બાજુએથી ચપટા હોવાથી તેમને ચપટા કૃમિ પણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ્યોત' સળગે તો કચરો બળી જાય (ઉત્સર્જન)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સૂત્રકૃમિમાં જોવા મળતી લૈંગિક દ્વિરૂપતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂત્રકૃમિ (દા.ત. કરમિયું) માં નર અને માદા અલગ-અલગ (એકલિંગી) હોય છે. માદા એ નર કરતા લાંબી હોય છે. આ રીતે બાહ્ય દેખાવ પરથી નર-માદા ઓળખી શકાય તેને લૈંગિક દ્વિરૂપતા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માદા મોટી, નર નાનો (સૂત્રકૃમિમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નૂપુરક સમુદાયમાં પ્રચલન માટે કયા અંગો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નૂપુરક પ્રાણીઓ આયામ અને વર્તુળી સ્નાયુઓ ધરાવે છે જે પ્રચલનમાં મદદ કરે છે. રેતીકીડા (Nereis) જેવા જલીય નૂપુરકો 'પેરાપોડિયા' (પાર્શ્વપાદ) ધરાવે છે, જે તરવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૂપુરક = નુપૂર (પાયલ) પગમાં પહેરાય, એટલે 'પેરાપોડિયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંધિપાદ સમુદાયની સફળતાના બે મુખ્ય કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સાંધાવાળા ઉપાંગોની હાજરી, જે વિવિધ કાર્યો માટે અનુકૂલિત છે. (2) શરીર પર આવેલું કાઈટીનનું બનેલું બહિર્કંકાલ, જે રક્ષણ આપે છે અને પાણીનો વ્યય અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંધિ = સાંધા, પાદ = પગ. મજબૂત કાઈટીનનું કવચ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મૃદુકાય પ્રાણીઓમાં જોવા મળતી 'રેત્રિકા' (Radula) વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃદુકાય પ્રાણીઓના મુખમાં ખોરાકને વાટવા (કરડવા) માટે કરવત જેવું અંગ આવેલું હોય છે, જેને રેત્રિકા (Radula) કહેવામાં આવે છે. તે ખોરાક ગ્રહણ કરવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુકાયનો 'મિક્સર-ગ્રાઇન્ડર' એટલે રેત્રિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શૂળત્વચી પ્રાણીઓના વિશિષ્ટ લક્ષણ તરીકે જલવાહક તંત્ર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂળત્વચી પ્રાણીઓમાં જલવાહક તંત્ર (Water Vascular System) અત્યંત વિશિષ્ટ છે. જે: (1) પ્રચલન, (2) ખોરાક પકડવા અને વહન કરવા, તથા (3) શ્વસનમાં મદદરૂપ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારામાછલીનું 'હાઇડ્રોલિક' સિસ્ટમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મેરુદંડી અને અમેરુદંડી વચ્ચેના મુખ્ય બે તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) મેરુદંડીમાં મેરુદંડ હાજર હોય છે, જ્યારે અમેરુદંડીમાં ગેરહાજર. (2) મેરુદંડીમાં હૃદય વક્ષ બાજુએ હોય છે, જ્યારે અમેરુદંડીમાં (જો હોય તો) પૃષ્ઠ બાજુએ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેરુદંડી = કરોડરજ્જુવાળા. (M-P: મેરુદંડી પૃષ્ઠ ચેતાતંત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચુષમુખા (Cyclostomata) ના લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) તેઓ કેટલીક માછલીઓ પર બાહ્ય પરોપજીવી તરીકે જીવે છે. (2) તેઓ હનુવિહીન (જડબા વગરનું), ગોળાકાર અને ચુષક પ્રકારનું મુખ ધરાવે છે. (3) તેમનું શરીર ભીંગડા અને યુગ્મ મીનપક્ષો વગરનું હોય છે. દા.ત. લેમ્પ્રી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચુષમુખા = વેક્યુમ ક્લીનર જેવું મોઢું (No Jaws).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાસ્થિમત્સ્ય અને અસ્થિમત્સ્ય વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાસ્થિમત્સ્યમાં અંતઃકંકાલ કાસ્થિનું બનેલું હોય છે અને વાતાશયો (Air bladders) ગેરહાજર હોવાથી સતત તરવું પડે છે. અસ્થિમત્સ્યમાં અંતઃકંકાલ અસ્થિનું હોય છે અને વાતાશયો હાજર હોવાથી તેઓ તર્યા વગર સ્થિર રહી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાસ્થિ = 'કષ્ટ' (સતત તરવું પડે), અસ્થિ = 'આરામ' (વાતાશય હાજર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઉભયજીવી પ્રાણીઓની ત્વચાની વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉભયજીવી (Amphibia) પ્રાણીઓની ત્વચા ભીની અને ચીકણી (શ્લેષ્મવાળી) હોય છે. તેઓ ભીંગડા ધરાવતા નથી. આ ભીની ત્વચા દ્વારા તેઓ પાણીમાં ઓગળેલા ઓક્સિજનનું શ્વસન (ત્વચીય શ્વસન) કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેડકો = નો ભીંગડા, ઓન્લી ચીકણી સ્કીન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિહગ (Aves) વર્ગમાં ઉડવા માટેના અનુકૂલનો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) અગ્ર ઉપાંગોનું પાંખોમાં રૂપાંતર. (2) હાડકાં છિદ્રિષ્ટ અને વાતકોષ્ટયુક્ત (Pneumatic) હોય છે, જે શરીરનું વજન ઘટાડે છે. (3) જડબાનું ચાંચમાં રૂપાંતર (દાંત હોતા નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષી = હલકા હાડકાં (Air-filled bones).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સસ્તન પ્રાણીઓના વિશિષ્ટ લક્ષણો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) દૂધ ઉત્પન્ન કરતી ગ્રંથિઓ (સ્તનગ્રંથિઓ) ધરાવે છે. (2) ત્વચા પર વાળની હાજરી. (3) બહારની બાજુએ કર્ણપલ્લવ (Pinna) જોવા મળે છે. (4) હૃદય સંપૂર્ણ ચાર ખંડોનું બનેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસ્તન = મિલ્ક + હેર + ઈયર પલ્લવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સરીસૃપ (Reptilia) વર્ગનું હૃદય કેવું હોય છે? અપવાદ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરીસૃપ પ્રાણીઓ સામાન્ય રીતે ત્રિખંડી હૃદય (બે કર્ણક અને એક અપૂર્ણ વિભાજીત ક્ષેપક) ધરાવે છે. પરંતુ, 'મગર' (Crocodile) માં હૃદય સંપૂર્ણ ચાર ખંડોનું બનેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reptiles = 3 chambers, Crocodile = 4 chambers (Exception).</p></div>"
+    }
+  ]
+}

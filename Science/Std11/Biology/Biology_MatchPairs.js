@@ -6572,3 +6572,366 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "રાસાયણિક સહનિયમન અને સંકલન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) હાઇપોથલેમસ (2) પિચ્યુટરી ગ્રંથિ | વિભાગ B: (a) માસ્ટર ગ્રંથિ (b) સુપર માસ્ટર ગ્રંથિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિચ્યુટરી માસ્ટર છે પણ હાઇપોથલેમસ એનો પણ બાપ (સુપર માસ્ટર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) GnRH (2) સોમેટોસ્ટેટિન | વિભાગ B: (a) GH ના સ્ત્રાવનો અવરોધ (b) ગોનાડોટ્રોપિન્સનો સ્ત્રાવ પ્રેરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Stat' એટલે અટકાવવું (Static), એટલે સોમેટોસ્ટેટિન અવરોધક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) અગ્ર પિચ્યુટરી (2) પશ્ચ પિચ્યુટરી | વિભાગ B: (a) ન્યુરોહાઇપોફાયસિસ (b) એડેનોહાઇપોફાયસિસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચ એટલે પાછળ = નર્વસ સિસ્ટમ સાથે જોડાયેલ (Neuro).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) GH (Growth Hormone) (2) TSH | વિભાગ B: (a) થાયરોઇડ ગ્રંથિ (b) શરીરની વૃદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GH = Growth (વૃદ્ધિ), T = Thyroid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) ACTH (2) PRL (પ્રોલેક્ટીન) | વિભાગ B: (a) સ્તનગ્રંથિનો વિકાસ (b) એડ્રિનલ બાહ્યક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P ફોર Prolactin, P ફોર Paan (સ્તનપાન/દૂધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) MSH (2) ઓક્સિટોસિન | વિભાગ B: (a) ગર્ભાશયનું સંકોચન (b) મેલેનોસાઇટ્સ (ત્વચાનો રંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M ફોર MSH, M ફોર Melanin (રંગકણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) વાઝોપ્રેસિન (ADH) (2) લ્યુટીનાઇઝિંગ હોર્મોન (LH) | વિભાગ B: (a) જનનપિંડો (b) પાણીનું પુનઃશોષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH = Anti-Diuretic (મૂત્ર રોધક) એટલે પાણી બચાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) જાયગેન્ટિઝમ (2) ડ્વાર્ફિઝમ (વામનતા) | વિભાગ B: (a) GH નો ઓછો સ્ત્રાવ (b) GH નો વધુ પડતો સ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Giant એટલે રાક્ષસ જેવો મોટો (વધુ સ્ત્રાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) એક્રોમેગાલી (2) ડાયાબિટીસ ઇન્સિપિડસ | વિભાગ B: (a) ADH નો અભાવ (b) પુખ્ત વયે GH નો વધુ સ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રેસિન' (ADH) ઓછું તો પાણી 'પ્રેસ' થઈને બહાર નીકળી જાય (ઇન્સિપિડસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) પિનિયલ ગ્રંથિ (2) થાયમસ ગ્રંથિ | વિભાગ B: (a) રોગપ્રતિકારક શક્તિ (b) દૈનિક લય (24 કલાક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pineal = biological clock, Thymus = Training center for T-cells.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) થાયરોઇડ ફોલિકલ્સ (2) થાયરોઇડ સ્ટ્રોમા | વિભાગ B: (a) પેશીમય આધાર (b) T3 અને T4 નું નિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોલિકલ્સ એટલે કોથળી જે હોર્મોન બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) આયોડિનની ઉણપ (2) આયોડિનની વધુ માત્રા | વિભાગ B: (a) હાઇપરથાયરોડિઝમ (b) ગોઇટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉણપ એટલે 'હાઇપો' અને વધુ એટલે 'હાઇપર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) ક્રેટીનિઝમ (2) એક્સોપ્થેલ્મિક ગોઇટર | વિભાગ B: (a) ગ્રેવ્સ રોગ (b) ગર્ભાવસ્થામાં હાઇપોથાયરોડિઝમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્રેવ્સ' માં આંખો બહાર આવે (Exophthalmic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) થાયરોકેલ્સિટોનિન (TCT) (2) પેરાથાયરોઇડ હોર્મોન (PTH) | વિભાગ B: (a) કેલ્શિયમ વધારે (b) કેલ્શિયમ ઘટાડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TCT = Tone down (ઘટાડે), PTH = Put Higher (વધારે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) એડ્રિનલ મજ્જક (2) એડ્રિનલ બાહ્યક | વિભાગ B: (a) કોર્ટિકોઇડ્સ (b) કેટેકોલેમાઇન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજ્જક = મધ્ય (Medulla) = Emergency હોર્મોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) એડ્રિનાલિન (2) નોર-એડ્રિનાલિન | વિભાગ B: (a) ફાઇટ ઓર ફ્લાઇટ (b) કટોકટીનો હોર્મોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બંને ભાઈઓ '3F' હોર્મોન તરીકે ઓળખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) ગ્લુકોકોર્ટિકોઇડ્સ (2) મિનરેલોકોર્ટિકોઇડ્સ | વિભાગ B: (a) પાણી અને ક્ષારનું સંતુલન (b) કાર્બોદિત ચયાપચય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્લુકો' એટલે ગ્લુકોઝ, 'મિનરલ' એટલે ક્ષાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) આલ્ડોસ્ટેરોન (2) કોર્ટિસોલ | વિભાગ B: (a) મુખ્ય ગ્લુકોકોર્ટિકોઇડ (b) મુખ્ય મિનરેલોકોર્ટિકોઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્ડો = મીઠું (Salt balance), કોર્ટિસોલ = તણાવ/ગ્લુકોઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) એડિસનનો રોગ (2) ડાયાબિટીસ મેલીટસ | વિભાગ B: (a) ઇન્સ્યુલિનની ઉણપ (b) એડ્રિનલ બાહ્યક હોર્મોનનો ઘટાડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Addison = Adrenal (શબ્દ મળતા આવે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) આલ્ફા કોષો (2) બીટા કોષો | વિભાગ B: (a) ઇન્સ્યુલિન (b) ગ્લુકાગોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: β (Beta) = B = Blood sugar ઘટાડનાર (Insulin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) ગ્લુકાગોન (2) ઇન્સ્યુલિન | વિભાગ B: (a) હાઇપોગ્લાયસેમિક (b) હાઇપરગ્લાયસેમિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકાગોન ગ્લુકોઝ 'ગયા' (વધાર્યા) એટલે હાઇપર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) ટેસ્ટિસ (શુક્રપિંડ) (2) ઓવરી (અંડપિંડ) | વિભાગ B: (a) એસ્ટ્રોજન (b) એન્ડ્રોજન (ટેસ્ટોસ્ટેરોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Testo' from Testis, 'O' from Ovary (Estrogen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) લેડિગ કોષો (2) ગ્રાફિયન પુટિકા | વિભાગ B: (a) એસ્ટ્રોજન (b) ટેસ્ટોસ્ટેરોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Leydig = Lads (છોકરાઓ) = Male hormone.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) કોર્પસ લ્યુટિયમ (2) એડ્રિનલ કોર્ટેક્સ | વિભાગ B: (a) પ્રોજેસ્ટેરોન (b) કોર્ટિસોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P ફોર Progesterone, P ફોર Pregnancy support.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) હૃદય (કર્ણકો) (2) કિડની (વૃક્ક) | વિભાગ B: (a) એરિથ્રોપોએટિન (b) ANF (એટ્રિયલ નેટ્રીયુરેટિક ફેક્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A ફોર Atrial (કર્ણક), E ફોર Erythropoietin (RBC production).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) ગેસ્ટ્રિન (2) સિક્રેટિન | વિભાગ B: (a) સ્વાદુપિંડ અને પાણી/બાયકાર્બોનેટ (b) જઠર અને HCl",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Gastrin' for Gastric (જઠર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) CCK (2) GIP | વિભાગ B: (a) જઠરનો સ્ત્રાવ અવરોધે (b) પિત્તાશય અને સ્વાદુપિંડ ઉત્તેજે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CCK = Cholecysto (પિત્તાશય) Kinin (ગતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) પેપ્ટાઇડ હોર્મોન (2) સ્ટીરોઇડ હોર્મોન | વિભાગ B: (a) ટેસ્ટોસ્ટેરોન (b) ઇન્સ્યુલિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાતીય હોર્મોન્સ મોટાભાગે સ્ટીરોઇડ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) આયોડોથાયરોનિન્સ (2) એમિનો એસિડ વ્યુત્પન્ન | વિભાગ B: (a) એડ્રિનાલિન (b) થાયરોઇડ હોર્મોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાયરોઇડમાં આયોડિન હોય એટલે 'આયોડો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) કોષરસપટલ ગ્રાહી (2) કોષકેન્દ્રીય ગ્રાહી | વિભાગ B: (a) સ્ટીરોઇડ હોર્મોન (b) પ્રોટીન હોર્મોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીરોઇડ લિપિડમાં દ્રાવ્ય હોવાથી અંદર (કોષકેન્દ્ર) જઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (1) દ્વિતીય દૂત (2) હોર્મોન-ગ્રાહી સંકુલ | વિભાગ B: (a) જૈવ રાસાયણિક ફેરફાર (b) cAMP, IP3, Ca++",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: cAMP અને કેલ્શિયમ એ કોષના મેસેન્જર (દૂત) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (1) BMR (બેઝલ મેટાબોલિક રેટ) (2) ઇમ્યુનિટી | વિભાગ B: (a) થાયમોસિન (b) થાયરોક્સિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: BMR એટલે Body rate controlled by Thyroid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (1) સસ્તન પ્રાણીઓમાં દૂધનો સ્ત્રાવ (2) દૂધનું ઉત્પાદન | વિભાગ B: (a) પ્રોલેક્ટીન (b) ઓક્સિટોસિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PRL = Production, Oxytocin = Ejection (સ્ત્રાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (1) બ્લડ પ્રેશર ઘટાડવું (2) બ્લડ પ્રેશર વધારવું | વિભાગ B: (a) એડ્રિનાલિન (b) ANF",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ANF રુધિરવાહિનીઓને પહોળી (Dilate) કરે એટલે BP ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (1) ગ્લુકોનિયોજેનેસીસ (2) ગ્લુકોઝ અપટેક ઘટાડો | વિભાગ B: (a) ઇન્સ્યુલિન (b) કોર્ટિસોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોર્ટિસોલ સુગર વધારે, ઇન્સ્યુલિન કોષોમાં સુગર મોકલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (1) અંતઃસ્ત્રાવી ગ્રંથિ (2) બહિઃસ્ત્રાવી ગ્રંથિ | વિભાગ B: (a) નલિકાયુક્ત (b) નલિકાવિહીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતઃસ્ત્રાવી એટલે ડાયરેક્ટ લોહીમાં (No Tube).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (1) પાર્સ ડિસ્ટાલિસ (2) પાર્સ ઇન્ટરમીડિયા | વિભાગ B: (a) MSH (b) GH, PRL, TSH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્ટરમીડિયા એટલે વચ્ચેનો ભાગ, માત્ર એક જ (MSH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (1) માતૃત્વનો હોર્મોન (2) ઊંઘ-જાગવાની ક્રિયા | વિભાગ B: (a) મેલેટોનિન (b) ઓક્સિટોસિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Melatonin = Mellow (શાંત ઊંઘ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (1) લિમ્ફોસાઇટ્સનું વિભેદન (2) એન્ટિબોડીનું નિર્માણ | વિભાગ B: (a) કોષીય પ્રતિકારકતા (b) તરલ પ્રતિકારકતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T-cells = CMI, B-cells = Humoral (Antibody).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (1) આલ્ડોસ્ટેરોન કાર્ય (2) આલ્ડોસ્ટેરોન નિકાલ | વિભાગ B: (a) Na+ અને પાણીનું શોષણ (b) K+ અને ફોસ્ફેટનો ત્યાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્ડોસ્ટેરોન 'સોડિયમ' ને પકડી રાખે, પોટેશિયમને કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (1) સ્વાદુપિંડ (Pancreas) (2) પિચ્યુટરી | વિભાગ B: (a) સેલ્લા ટર્સિકા (b) ગ્રહણીના પાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિચ્યુટરી મગજના ખાડામાં (Sella Turcica) સુરક્ષિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (1) FSH (2) LH | વિભાગ B: (a) એન્ડ્રોજનનું સંશ્લેષણ (b) શુક્રકોષ જનન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LH = Leydig cells = Androgen.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (1) ઇન્સ્યુલિન ટાર્ગેટ (2) ગ્લુકાગોન ટાર્ગેટ | વિભાગ B: (a) હિપેટોસાઇટ્સ (યકૃત કોષો) (b) હિપેટોસાઇટ્સ અને એડિપોસાઇટ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સ્યુલિન ચરબી (Adipose) પર પણ કામ કરે એટલે વજન વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (1) મિશ્ર ગ્રંથિ (2) માત્ર અંતઃસ્ત્રાવી | વિભાગ B: (a) થાયરોઇડ (b) સ્વાદુપિંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વાદુપિંડ ઉત્સેચકો પણ આપે અને હોર્મોન્સ પણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (1) કેલ્શિયમનું હાડકામાંથી લોહીમાં સ્થળાંતર (2) કેલ્શિયમનું લોહીમાંથી હાડકામાં સ્થળાંતર | વિભાગ B: (a) TCT (b) PTH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PTH હાડકા તોડે (Resorption) અને લોહીમાં કેલ્શિયમ ભરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (1) જોના ગ્લોમેરુલોસા (2) જોના ફેસીક્યુલાટા | વિભાગ B: (a) ગ્લુકોકોર્ટિકોઇડ્સ (b) મિનરેલોકોર્ટિકોઇડ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GFR (Glomerulosa, Fasciculata, Reticularis) - બહારથી અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (1) થાયમોસિનનો ઘટાડો (2) થાયમોસિનનો વધારો | વિભાગ B: (a) યુવાની (b) વૃદ્ધાવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરડા લોકો કેમ જલ્દી બીમાર પડે? કારણ કે થાયમસ ગ્રંથિ નાની થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (1) એન્ડ્રોજેનિક સ્ટીરોઇડ (2) ઇસ્ટ્રોજન | વિભાગ B: (a) સ્ત્રી ગૌણ જાતીય લક્ષણો (b) ચહેરા પર વાળ આવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ડ્રોજન એટલે પુરુષત્વ (દાઢી-મૂછ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (1) હાઇપરગ્લાયસેમિયા (2) ગ્લાયકોસુરિયા | વિભાગ B: (a) મૂત્રમાં શર્કરા (b) રુધિરમાં શર્કરાનો વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્લાયસેમિયા' = બ્લડ, 'સુરિયા' = યુરિન (મૂત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (1) પ્રોજેસ્ટેરોન (2) એસ્ટ્રોજન | વિભાગ B: (a) અંડપુટિકાનો વિકાસ (b) દૂધની કોથળીઓ (એલ્વિઓલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોજેસ્ટેરોન ગર્ભાવસ્થા માટે 'પ્રો' (સપોર્ટર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (1) ઉત્તેજક (Releasing) (2) અવરોધક (Inhibiting) | વિભાગ B: (a) સોમેટોસ્ટેટિન (b) GnRH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R ફોર Releasing, R ફોર Raah જોવી (પ્રેરિત કરવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (1) થાયરોક્સિન (T4) (2) ટ્રાયઆયોડોથાયરોનિન (T3) | વિભાગ B: (a) 3 આયોડિન પરમાણુ (b) 4 આયોડિન પરમાણુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tetra (T4) = 4, Tri (T3) = 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (1) કેટેકોલેમાઇન્સની અસર (2) કોર્ટિસોલની અસર | વિભાગ B: (a) એન્ટિ-ઇન્ફ્લેમેટરી (b) પરસેવો થવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડર લાગે ત્યારે પરસેવો થાય (Adrenaline).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (1) કીટોન બોડીઝ (2) હાઇપોગ્લાયસેમિયા | વિભાગ B: (a) રુધિરમાં શર્કરાનો ઘટાડો (b) ડાયાબિટીસમાં જોવા મળે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાબિટીસમાં શરીર ચરબી બાળે એટલે કીટોન બોડી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (1) પ્રોટીન હોર્મોન (2) આયોડોથાયરોનિન્સ | વિભાગ B: (a) T3, T4 (b) પિચ્યુટરી હોર્મોન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિચ્યુટરીના બધા હોર્મોન 'P' ફોર પ્રોટીન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (1) કોર્ટિસોલ (2) એડ્રિનાલિન | વિભાગ B: (a) હૃદયના ધબકારા વધારવા (b) RBC ઉત્પાદન ઉત્તેજવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તણાવ (Cortisol) માં લોહી વધારે જોઈએ એટલે RBC વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (1) લ્યુટીનાઇઝિંગ હોર્મોન (સ્ત્રી) (2) ફોલિકલ સ્ટીમ્યુલેટિંગ હોર્મોન (સ્ત્રી) | વિભાગ B: (a) અંડપાત (Ovulation) (b) ગ્રાફિયન પુટિકાની વૃદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LH Surge = અંડકોષ મુક્ત થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (1) રુધિરવાહિનીનું સંકોચન (2) રુધિરવાહિનીનું વિસ્તરણ | વિભાગ B: (a) ANF (b) એડ્રિનાલિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડ્રિનાલિન BP વધારે (સંકોચન), ANF ઘટાડે (વિસ્તરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (1) થાયરોઇડ લોબ્સ (ખંડો) (2) ઇસ્થમસ | વિભાગ B: (a) સંયોજક પેશીની પટ્ટી (b) શ્વાસનળીની બંને બાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇસ્થમસ એટલે બે ખંડોને જોડતો પુલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (1) પિત્તાશયનું સંકોચન (2) જઠરની ગતિશીલતામાં ઘટાડો | વિભાગ B: (a) GIP (b) CCK",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GIP = Gastric Inhibitory (અવરોધક) Peptide.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (1) મેલેટોનિન કાર્ય-1 (2) મેલેટોનિન કાર્ય-2 | વિભાગ B: (a) માસિક ચક્રનું નિયમન (b) શરીરનું તાપમાન જાળવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેલેટોનિન 24 કલાકની બધી જ સાયકલ સંભાળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (1) એક્સપાયરી ગ્રંથિ (જે ઉંમર સાથે ઘટે) (2) માસ્ટર ઓફ માસ્ટર | વિભાગ B: (a) હાઇપોથલેમસ (b) થાયમસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાયમસ 'થાય' (હોય) પછી ગાયબ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (1) પ્રોજેસ્ટેરોન ટાર્ગેટ (2) ઓક્સિટોસિન ટાર્ગેટ | વિભાગ B: (a) સ્તનગ્રંથિની એલ્વિઓલી (b) ગર્ભાશયના સ્નાયુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિટોસિન ડિલિવરી સમયે ગર્ભાશય સંકોચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (1) ગ્લાયકોજેનોલીસીસ (2) ગ્લાયકોજેનેસીસ | વિભાગ B: (a) ઇન્સ્યુલિન (b) ગ્લુકાગોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લીસીસ' એટલે તોડવું (ગ્લાયકોજન તોડી ગ્લુકોઝ બનાવવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (1) ટેસ્ટોસ્ટેરોન સ્વભાવ (2) ઇન્સ્યુલિન સ્વભાવ | વિભાગ B: (a) એનાબોલિક (સંશ્લેષણ) (b) કેટાબોલિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેસ્ટોસ્ટેરોનથી મસલ્સ બને (Anabolic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (1) થાયરોઇડ ગ્રંથિ (2) પેરાથાયરોઇડ ગ્રંથિ | વિભાગ B: (a) બે જોડી (4 સંખ્યા) (b) બે ખંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાયરોઇડના ખૂણે-ખૂણે એક-એક પેરાથાયરોઇડ હોય (કુલ 4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (1) લિપોલીસીસ (2) પ્રોટીઓલીસીસ | વિભાગ B: (a) પ્રોટીનનું વિઘટન (b) લિપિડનું વિઘટન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લિપો' = લિપિડ, 'પ્રોટીઓ' = પ્રોટીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (1) પ્રાથમિક સંદેશવાહક (2) દ્વિતીય સંદેશવાહક | વિભાગ B: (a) IP3 (b) અંતઃસ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોર્મોન પોતે પહેલો મેસેન્જર છે જે બહારથી આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (1) મધુપ્રમેહ (Diabetes) (2) અંધાપો (કેટરેક્ટ) | વિભાગ B: (a) હાઇપરથાયરોડિઝમની ગંભીરતા (b) ઇન્સ્યુલિનનો ઓછો સ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધુપ્રમેહ એટલે મીઠી પેશાબ (Sugar in urine).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (1) જોના રેટિક્યુલેરિસ (2) મિનરેલોકોર્ટિકોઇડ્સ | વિભાગ B: (a) સૌથી અંદરનું સ્તર (b) આલ્ડોસ્ટેરોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reticularis = 'R' for Root (સૌથી અંદરનું મૂળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: (1) હાઇપોફિઝિયલ પોર્ટલ તંત્ર (2) ન્યુરોન્સ દ્વારા સીધું નિયમન | વિભાગ B: (a) પશ્ચ પિચ્યુટરી (b) અગ્ર પિચ્યુટરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર પિચ્યુટરી નસો (રુધિર) દ્વારા, પશ્ચ પિચ્યુટરી ચેતા દ્વારા જોડાયેલ છે.</p></div>"
+    }
+  ]
+}

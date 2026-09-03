@@ -6204,3 +6204,371 @@ var Std11_Biology_MatchPairs = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "ચેતાકીય નિયંત્રણ અને સહનિયમન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) હાઇડ્રા, (2) કીટકો \nવિભાગ B: (A) ચેતાજાળ, (B) ચેતાગંડિકાઓ અને ચેતાપેશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રા હજુ સાદું છે એટલે 'જાળ' (Net) ફેલાવે, કીટકો થોડા આગળ વધ્યા એટલે 'ગંડિકા' (Ganglia) ધરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) CNS, (2) PNS \nવિભાગ B: (A) મગજ અને કરોડરજ્જુ, (B) મગજ અને કરોડરજ્જુ સાથે જોડાયેલી બધી ચેતાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Central એટલે કેન્દ્રમાં (Main Body), Peripheral એટલે આજુબાજુ ફેલાયેલી (Sides).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અંતર્વાહી તંતુઓ, (2) બહિર્વાહી તંતુઓ \nવિભાગ B: (A) અંગોથી CNS તરફ, (B) CNS થી અંગો તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતર્' એટલે અંદર (CNS માં) આવવું, 'બહિર્' એટલે બહાર (CNS થી) જવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કાયિક ચેતાતંત્ર, (2) સ્વયંવર્તી ચેતાતંત્ર \nવિભાગ B: (A) કંકાલ સ્નાયુઓનું નિયંત્રણ, (B) અનૈચ્છિક અંગોનું નિયંત્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયિક (Somatic) = આપણી કાયા/શરીર (ઈચ્છા મુજબ), સ્વયંવર્તી = ઓટોમેટિક (સ્વયં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) શિખાતંતુ, (2) અક્ષતંતુ \nવિભાગ B: (A) કોષકાય તરફ આવે, (B) કોષકાયથી દૂર જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિખાતંતુ = સંદેશા લાવે (In), અક્ષતંતુ (Axon) = Away (દૂર લઈ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) નિસલની કણિકાઓ, (2) સિનેપ્ટિક ગાંઠ \nવિભાગ B: (A) ચેતાકોષકાયમાં હાજર, (B) અક્ષતંતુના છેડે હાજર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિસલ એટલે મેઈન બોડી (કોષકાય), ગાંઠ (Knob) એટલે છેડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બહુધ્રુવીય ચેતાકોષ, (2) દ્વિધ્રુવીય ચેતાકોષ \nવિભાગ B: (A) મસ્તિષ્ક બાહ્યક, (B) આંખનો નેત્રપટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજમાં બહુ બધા (Multipolar) કામ હોય, આંખમાં બે (Bi) બાજુ જોવાનું (Retina).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એકધ્રુવીય ચેતાકોષ, (2) શ્વાન કોષો \nવિભાગ B: (A) ભ્રૂણીય અવસ્થા, (B) મજ્જિત અને અમજ્જિત બંને ચેતાતંતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળક ભ્રૂણમાં એકલું (Uni) હોય. શ્વાન કોષો બંનેમાં સમાન રીતે હાજર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) રેનવિયરની ગાંઠ, (2) મજ્જિત ચેતાતંતુ \nવિભાગ B: (A) માયેલિન આવરણ વચ્ચેની ખાંચ, (B) મસ્તિષ્ક અને કરોડરજ્જુની ચેતાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંઠ એટલે Gap (ખાંચ). મજ્જિત (Myelinated) એટલે હાઈ સ્પીડ ચેતાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) આરામદાયક સ્થિતિ, (2) સક્રિય કલાવીજસ્થિતિમાન \nવિભાગ B: (A) ધ્રુવીકૃત અવસ્થા, (B) વિધ્રુવીકૃત અવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામ = શાંતિ (ધ્રુવીકૃત), એક્શન = દોડધામ (વિધ્રુવીકૃત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સોડિયમ-પોટેશિયમ પંપ, (2) આરામદાયક કલાવીજસ્થિતિમાન \nવિભાગ B: (A) 3 Na+ બહાર અને 2 K+ અંદર, (B) અંદરનો ભાગ ઋણ વીજભારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 ના(Na) બહાર કાઢ્યા અને 2 કે(K) અંદર લીધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) વિદ્યુતકીય ચેતાપાગમ, (2) રાસાયણિક ચેતાપાગમ \nવિભાગ B: (A) ખૂબ જ ઝડપી વહન, (B) ચેતાપ્રેષક દ્રવ્યની જરૂરિયાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરંટ (Electricity) ફાસ્ટ હોય, કેમિકલ (Chemical) ને પ્રોસેસ થતા વાર લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અગ્ર મગજ, (2) મધ્ય મગજ, (3) પશ્ચ મગજ \nવિભાગ B: (A) થેલેમસ, (B) ચતુષ્કાય, (C) સેતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્ર-થેલે (A-T), મધ્ય-ચતુષ્ક (M-C), પશ્ચ-સેતુ (P-S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કેલોસમકાય, (2) મૃદુતાનિકા \nવિભાગ B: (A) બે મસ્તિષ્ક ગોળાર્ધને જોડે, (B) મગજનું સૌથી અંદરનું આવરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલોસમ = કનેક્શન, મૃદુ = કોમળ/અંદરનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એસોસિએશન વિસ્તારો, (2) હાઇપોથેલેમસ \nવિભાગ B: (A) આંતર-સંવેદનાત્મક જોડાણ, (B) શરીરના તાપમાનનું નિયંત્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Association = Mix memory, Hypo = Heat (તાપમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) લિમ્બિક તંત્ર, (2) લંબમજ્જા \nવિભાગ B: (A) જાતીય વર્તણૂક અને લાગણી, (B) શ્વસન અને હૃદયના ધબકારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિમ્બિક = લવ/લાગણી, લંબમજ્જા = લાઈફ (જીવવા માટે શ્વસન જરૂરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એમીગડાલા, (2) હિપોકેમ્પસ \nવિભાગ B: (A) બદામ આકારની રચના, (B) લિમ્બિક તંત્રનો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમીગડાલા (Amygdala) = Almond (બદામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મધ્ય મગજની નલિકા, (2) ચતુષ્કાય \nવિભાગ B: (A) સેરેબ્રલ એક્વીડક્ટ, (B) મધ્ય મગજનો પૃષ્ઠ ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નલિકા એટલે નહેર (Aqueduct), ચતુષ્કાય એટલે 4 ગોળકો (Quadrigemina).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અનુમસ્તિષ્ક, (2) સેતુ \nવિભાગ B: (A) અત્યંત ગૂંચળાદાર સપાટી, (B) વિવિધ પ્રદેશોનું જોડાણ કરતા તંતુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુ-ગૂંચળા (Balance માટે જગ્યા જોઈએ), સેતુ = બ્રિજ (જોડાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પરાવર્તી ક્રિયા, (2) પરાવર્તી કમાન \nવિભાગ B: (A) અનૈચ્છિક પ્રતિચાર, (B) પરાવર્તી માર્ગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિયા = રિસ્પોન્સ, કમાન = રસ્તો (Path).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અંતર્વાહી ચેતા, (2) બહિર્વાહી ચેતા \nવિભાગ B: (A) સંવેદી અંગોથી ગ્રાહી, (B) ચાલક અંગો તરફ પ્રેરક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતર્' લાવે (Input), 'બહિર્' લઈ જાય (Output).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મસ્તિષ્ક સ્તંભ, (2) થેલેમસ \nવિભાગ B: (A) મધ્ય મગજ + સેતુ + લંબમજ્જા, (B) સંવેદી અને ચાલક સંદેશાનું સંકલન કેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stem (સ્તંભ) માં બધું નીચેનું આવે. થેલેમસ એટલે રિલે સ્ટેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સિનેપ્ટિક ફાટ, (2) પશ્ચ સિનેપ્ટિક પટલ \nવિભાગ B: (A) બે ચેતાકોષ વચ્ચેની જગ્યા, (B) ગ્રાહી અંગો ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાટ = Gap, પશ્ચ (Post) પટલ પર જ રિસેપ્ટર્સ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ગ્રે મેટર (ધૂસર દ્રવ્ય), (2) વ્હાઇટ મેટર (શ્વેત દ્રવ્ય) \nવિભાગ B: (A) ચેતાકોષકાયની સાંદ્રતા, (B) મજ્જિત અક્ષતંતુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષતંતુ પર ઘી (માયેલિન) જેવું સફેદ પડ હોય એટલે વ્હાઇટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પરાવર્તી ક્રિયા ઉદાહરણ, (2) બૃહદમસ્તિષ્ક \nવિભાગ B: (A) ઘૂંટણની પરાવર્તી ક્રિયા, (B) બુદ્ધિ અને યાદશક્તિનું કેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૃહદ એટલે મોટું (Main Brain), પરાવર્તી એટલે ઝટકો (Jerk).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) K+ આયનો, (2) Na+ આયનો \nવિભાગ B: (A) આરામદાયક સ્થિતિમાં કોષરસમાં વધુ, (B) આરામદાયક સ્થિતિમાં બહાર વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K એટલે 'કલ' (અંદર), Na એટલે 'નમક' (દરિયામાં - બહાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પરાસંવેદી ચેતાતંત્ર, (2) સંવેદી ચેતાતંત્ર \nવિભાગ B: (A) આરામ સમયે કાર્યરત, (B) કટોકટી સમયે કાર્યરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરા (Para) = Peaceful (શાંતિ), સંવેદી (Sympathetic) = Stress.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સસ્તન પ્રાણીઓ, (2) પ્રોટોઝોઆ \nવિભાગ B: (A) અત્યંત વિકસિત ચેતાતંત્ર, (B) ચેતાતંત્રનો અભાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે (Mammals) સ્માર્ટ છીએ, અમીબા (Protozoa) ને ચેતાતંત્ર ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એસીટાઇલ કોલાઇન, (2) એડ્રેનાલીન \nવિભાગ B: (A) ચેતાપ્રેષક દ્રવ્ય, (B) લડવાની કે ભાગવાની સ્થિતિમાં સ્ત્રાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ACh એ કોમન મેસેન્જર છે, Adrenaline એ ફાઇટર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પૂર્વ સિનેપ્ટિક ચેતાકોષ, (2) પરાવર્તી ચાપમાં કેન્દ્ર \nવિભાગ B: (A) ઉર્મિવેગ મોકલે, (B) કરોડરજ્જુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વ એટલે પહેલા વાળો, કરોડરજ્જુ એટલે પરાવર્તી ક્રિયાનો બોસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) શ્વસન કેન્દ્ર, (2) લાળનો સ્ત્રાવ \nવિભાગ B: (A) લંબમજ્જા, (B) લંબમજ્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ અનૈચ્છિક 'લાઈફ લાઈન' લંબમજ્જામાં જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સોમેટિક તંત્ર, (2) ઓટોનોમિક તંત્ર \nવિભાગ B: (A) સ્વૈચ્છિક સ્નાયુઓ, (B) હૃદય અને પાચનમાર્ગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોમેટિક = સીધું આપણી મરજી મુજબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) દ્વિતિય ક્રમનો ચેતાકોષ, (2) પ્રથમ ક્રમનો ચેતાકોષ \nવિભાગ B: (A) કરોડરજ્જુમાં, (B) ગ્રાહી અંગ પાસે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા સંદેશ અંગ પકડશે, પછી કરોડરજ્જુમાં જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ભૂખ અને તરસ, (2) જોવાની અને સાંભળવાની પરાવર્તી ક્રિયા \nવિભાગ B: (A) હાઇપોથેલેમસ, (B) મધ્ય મગજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાવા-પીવાનું કામ હાઇપો (Hypo) પાસે, જોવાનું કામ મધ્ય (Mid) મગજ પાસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઉર્મિવેગ, (2) ઉંમર વધતા ન્યૂરોન \nવિભાગ B: (A) વિદ્યુત રાસાયણિક ઘટના, (B) વિભાજન પામતા નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેતાકોષ એકવાર જન્મે પછી કદી નવેસરથી ન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પ્રોટીન્સ અને RNA, (2) અક્ષતંતુના છેડે કોથળીઓ \nવિભાગ B: (A) નિસલની કણિકાઓ, (B) સિનેપ્ટિક પુટિકાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણિકા એટલે પ્રોટીન ફેક્ટરી, પુટિકા એટલે કેમિકલની બેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બહારનું તાણ, (2) અંદરનું તાણ \nવિભાગ B: (A) ધન વીજભારિત (આરામ વખતે), (B) ઋણ વીજભારિત (આરામ વખતે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નમક (Na+) બહાર છે એટલે બહાર પોઝિટિવ (ધન) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ધ્રુવીકરણ, (2) પુનઃધ્રુવીકરણ \nવિભાગ B: (A) આરામની સ્થિતિ પાછી આવવી, (B) વીજભારનો તફાવત જળવાવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુનઃ એટલે 'ફરીથી' (Back to normal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બહિર્કોષીય પ્રવાહી (ECF), (2) અંતઃકોષીય પ્રવાહી (ICF) \nવિભાગ B: (A) Na+ વધુ, (B) K+ વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = Exterior (Na), I = Interior (K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મધ્ય મગજ, (2) પશ્ચ મગજ \nવિભાગ B: (A) અગ્ર અને પશ્ચ મગજ વચ્ચે, (B) સૌથી પાછળનો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ કામ દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મસ્તિષ્ક બાહ્યક, (2) મસ્તિષ્ક મજ્જક \nવિભાગ B: (A) બહારનો ભાગ (Gray matter), (B) અંદરનો ભાગ (White matter)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્યક = બહાર, મજ્જક = મધ્ય (અંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) તાનિકાઓ, (2) મસ્તિષ્ક જળ \nવિભાગ B: (A) મગજના રક્ષણાત્મક પડો, (B) આંચકા સામે રક્ષણ (CSF)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાનિકા એટલે લેયર, જળ એટલે લિક્વિડ શોક એબ્સોર્બર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) લડવાની સ્થિતિ, (2) પાચનની સ્થિતિ \nવિભાગ B: (A) અનુકંપી તંત્ર, (B) પરાનુકંપી તંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુકંપી (S) = Scare/Stress, પરાનુકંપી (P) = Pasta/Peace.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કરોડરજ્જુ, (2) મસ્તિષ્ક \nવિભાગ B: (A) પરાવર્તી ક્રિયાનું કેન્દ્ર, (B) મુખ્ય કમાન્ડ સેન્ટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજ રાજા છે, કરોડરજ્જુ મંત્રી છે જે તાત્કાલિક નિર્ણય લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સ્નાયુબદ્ધ પ્રતિક્રિયા, (2) સંવેદના ગ્રાહણ \nવિભાગ B: (A) પ્રેરક ચેતા, (B) સંવેદી ચેતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવેદના = Feeling, પ્રતિક્રિયા = Movement (Motor).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઉર્મિવેગની દિશા, (2) અક્ષતંતુની લંબાઈ \nવિભાગ B: (A) શિખાતંતુ થી અક્ષતંતુ, (B) સેમી થી મીટર સુધી હોઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહન હંમેશા એક જ દિશામાં (One way) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કેલ્શિયમ આયનો, (2) ન્યુરોટ્રાન્સમીટર \nવિભાગ B: (A) પુટિકાઓને જોડવામાં મદદરૂપ, (B) રાસાયણિક સંદેશવાહક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ca+2 આવશે તો જ વેસીકલ ફાટશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ધ્રુવીકૃત પટલ, (2) અપારગમ્યતા \nવિભાગ B: (A) પોટેન્શિયલ -70 mV, (B) આરામ વખતે Na+ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામ વખતે Na+ ને અંદર આવવાની મનાઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પિત્તલ તાનિકા (દ્રઢતાનિકા), (2) કરોળિયાજાળ તાનિકા \nવિભાગ B: (A) સૌથી બહારનું જાડું પડ, (B) મધ્યનું પાતળું પડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DAP (Dura, Arachnoid, Pia) - બહાર થી અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ત્વચા, (2) આંખ \nવિભાગ B: (A) સ્પર્શ ગ્રાહી, (B) પ્રકાશ ગ્રાહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવેદના અને અંગનો સીધો સંબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મોટર વિસ્તાર, (2) સંવેદી વિસ્તાર \nવિભાગ B: (A) સ્નાયુ હલનચલન, (B) ગંધ, સ્વાદ, દ્રષ્ટિની પરખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટર = મુવમેન્ટ, સેન્સરી = સેન્સ (પરખ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) હાઇપોથેલેમસનો પશ્ચ ભાગ, (2) હાઇપોથેલેમસનો અગ્ર ભાગ \nવિભાગ B: (A) અંતઃસ્ત્રાવી નિયંત્રણ, (B) તાપમાન નિયંત્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇપોથેલેમસ માસ્ટરનો માસ્ટર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઘ્રાણ બલ્બ, (2) લિમ્બિક લોબ \nવિભાગ B: (A) ગંધની ઓળખ, (B) હિપોકેમ્પસ અને એમીગડાલાનો સમૂહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘ્રાણ (Olfactory) = નાક (ગંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ચેતાક્ષ (Axon), (2) સાયટોન (Cyton) \nવિભાગ B: (A) સૌથી લાંબો પ્રવર્ધ, (B) ચેતાકોષનું શરીર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyton એ Cell ની Main body છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સસ્તન મગજની ખાસિયત, (2) માછલીનું મગજ \nવિભાગ B: (A) કોર્પસ કેલોસમ, (B) નાનું અને ઓછું વિકસિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોર્પસ કેલોસમ માત્ર સસ્તનમાં જ જોવા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એક્સન પોટેન્શિયલ, (2) થ્રેશોલ્ડ સ્ટીમ્યુલસ \nવિભાગ B: (A) +30 થી +40 mV, (B) ઉર્મિવેગ શરૂ કરવા માટે લઘુત્તમ ઉત્તેજના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થ્રેશોલ્ડ એટલે 'એન્ટ્રી ફી' જે ભરવી જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કરોડરજ્જુ ચેતાઓ, (2) મસ્તિષ્ક ચેતાઓ \nવિભાગ B: (A) 31 જોડ, (B) 12 જોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથું નાનું (12), શરીર લાંબુ (31).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સફેદ દ્રવ્યનું સ્થાન (મગજમાં), (2) ધૂસર દ્રવ્યનું સ્થાન (મગજમાં) \nવિભાગ B: (A) અંદરના ભાગમાં, (B) બહારના ભાગમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજમાં બહાર 'ગ્રે' (Grey Outer) અને અંદર 'સફેદ' (White Inner) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કરોડરજ્જુમાં સફેદ દ્રવ્ય, (2) કરોડરજ્જુમાં ધૂસર દ્રવ્ય \nવિભાગ B: (A) બહારના ભાગમાં, (B) અંદરના ભાગમાં (H આકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજ કરતા કરોડરજ્જુમાં ઉલટું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ન્યુરોલોજી, (2) ન્યુરોન્સ \nવિભાગ B: (A) ચેતાતંત્રનો અભ્યાસ, (B) ચેતાતંત્રના એકમો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Logic = Study, Unit = Neuron.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મસ્તિષ્ક લઘુતા, (2) મસ્તિષ્ક ગુરુતા \nવિભાગ B: (A) અનુમસ્તિષ્ક, (B) બૃહદમસ્તિષ્ક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુ એટલે મોટું, લઘુ એટલે નાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) વોલ્ટેજ ગેટેડ ચેનલ્સ, (2) લીકેજ ચેનલ્સ \nવિભાગ B: (A) વીજસ્થિતિમાન મુજબ ખુલે, (B) હંમેશા ખુલ્લી રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોલ્ટેજ એટલે સ્વીચ, લીકેજ એટલે ટપકતું નળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સોડિયમની સાંદ્રતા, (2) પોટેશિયમની સાંદ્રતા \nવિભાગ B: (A) બહાર 10 ગણી વધુ, (B) અંદર 30 ગણી વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Na બહાર (10), K અંદર (30).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ચેતાતંતુનું ઉત્તેજનાશીલતા, (2) સાલ્ટેટરી વહન \nવિભાગ B: (A) ઉર્મિવેગ નિર્માણની ક્ષમતા, (B) કુદકા મારીને થતું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Saltatory = Saltare (To jump).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પ્રી-સિનેપ્ટિક પટલ, (2) પોસ્ટ-સિનેપ્ટિક પટલ \nવિભાગ B: (A) ઉર્મિવેગ લાવનાર, (B) ઉર્મિવેગ ઝીલનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pre (પહેલા), Post (પછી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઉર્મિવેગની ઝડપ, (2) તાપમાન \nવિભાગ B: (A) મજ્જિત ચેતામાં વધુ, (B) વધતા વહન ઝડપ વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી અને ગતિ સાથે વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) વાચા કેન્દ્ર (Broca's), (2) સમજણ કેન્દ્ર (Wernicke's) \nવિભાગ B: (A) બોલવામાં મદદરૂપ, (B) શબ્દો સમજવામાં મદદરૂપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Broca = Boli (બોલવું), Wernicke = Word logic (સમજણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કરોડરજ્જુના ચેતાતંતુ, (2) સ્વાયત્ત ચેતાતંત્રના ચેતાતંતુ \nવિભાગ B: (A) મજ્જિત, (B) અમજ્જિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરોડરજ્જુની ચેતાઓને ફાસ્ટ વહન જોઈએ એટલે મજ્જિત (Insulated).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પ્રત્યુત્તર, (2) ઉત્તેજના \nવિભાગ B: (A) પ્રતિચાર આપવો, (B) પર્યાવરણમાં ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stimulus -> Response.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એક શિખાતંતુ અને એક અક્ષતંતુ, (2) એક અક્ષતંતુ અને ઘણા શિખાતંતુ \nવિભાગ B: (A) દ્વિધ્રુવીય, (B) બહુધ્રુવીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1+1=2 (Bi), 1+ઘણા=બહુ (Multi).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ચેતાકોષમાં કેન્દ્રસ્થ ભાગ, (2) અંતઃક્ષેત્ર (Cleft) \nવિભાગ B: (A) કોષકેન્દ્ર ધરાવે, (B) 200 એન્ગસ્ટ્રોમની જગ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષકેન્દ્ર હંમેશા મુખ્ય બોડીમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સુષુપ્તિ કલાવીજસ્થિતિમાન, (2) સક્રિય કલાવીજસ્થિતિમાન \nવિભાગ B: (A) -70 mV, (B) +30 mV",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામ (Minus), એક્શન (Plus).</p></div>"
+    }
+  ]
+}

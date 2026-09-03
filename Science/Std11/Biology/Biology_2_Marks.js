@@ -116,3 +116,116 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "જૈવિક વર્ગીકરણ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એરિસ્ટોટલ દ્વારા કરવામાં આવેલું વર્ગીકરણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરિસ્ટોટલ વર્ગીકરણના પાયાના પ્રથમ વૈજ્ઞાનિક હતા. તેમણે વનસ્પતિઓને તેમના બાહ્ય રચનાના આધારે છોડ, ક્ષુપ અને વૃક્ષમાં વિભાજિત કરી હતી. પ્રાણીઓને લાલ રુધિર ધરાવતા (Enaima) અને લાલ રુધિર ન ધરાવતા (Anaima) એમ બે જૂથમાં વહેંચ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરિસ્ટોટલ = એન્સીયન્ટ (પ્રાચીન) પદ્ધતિ -> છોડ/ક્ષુપ/વૃક્ષ + રક્તનો રંગ (લાલ છે કે નહીં?)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દ્વિ-સૃષ્ટિ વર્ગીકરણ પદ્ધતિની મર્યાદાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીનિયસે આપેલી આ પદ્ધતિમાં આદિકોષકેન્દ્રી અને સુકોષકેન્દ્રી, એકકોષી અને બહુકોષી, તેમજ પ્રકાશસંશ્લેષી (લીલ) અને અપ્રકાશસંશ્લેષી (ફૂગ) સજીવો વચ્ચે કોઈ તફાવત કરવામાં આવ્યો ન હતો. ઘણા સજીવો એવા હતા જે કોઈ પણ જૂથમાં ફિટ બેસતા ન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીનિયસની મર્યાદા = 'ભેદભાવ વગરનું મિશ્રણ' (PRO-EU, UNI-MULTI, AUTO-HETERO બધું મિક્સ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આર. એચ. વ્હીટેકર દ્વારા સૂચવવામાં આવેલી પાંચ સૃષ્ટિ વર્ગીકરણના મુખ્ય માપદંડો કયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્હીટેકરે (1969) પાંચ મુખ્ય માપદંડોના આધારે વર્ગીકરણ કર્યું હતું: (1) કોષ રચનાની જટિલતા, (2) દેહ આયોજન, (3) પોષણની પદ્ધતિ, (4) પ્રજનન અને (5) જાતિવિકાસીય સંબંધો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્હીટેકરના 5 પિલર = C.T.M.R.P (Cell, Thallus, Mode of nutrition, Reproduction, Phylogeny).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બેક્ટેરિયાના વિવિધ આકારો વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેક્ટેરિયાના મુખ્ય ચાર આકારો છે: (1) ગોલાણુ (Coccus) - ગોળાકાર, (2) દંડાણુ (Bacillus) - સળી જેવા, (3) વિબ્રિયો (Vibrio) - અલ્પવિરામ જેવા, અને (4) સર્પાણુ (Spirillum) - કુંતલાકાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CBVS = Coccus (Ball), Bacillus (Stick), Vibrio (Comma), Spirillum (Spring).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આર્કીબેક્ટેરિયા વિષમ પરિસ્થિતિમાં કેવી રીતે ટકી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્કીબેક્ટેરિયાની કોષદીવાલની રચના અન્ય બેક્ટેરિયા કરતા ભિન્ન હોય છે. આ વિશિષ્ટ કોષદીવાલ તેમને ક્ષારયુક્ત વિસ્તાર (હેલોફિલ્સ), ગરમ પાણીના ઝરા (થર્મોએસીડોફિલ્સ) અને કળણ ભૂમિ (મેથેનોજન્સ) જેવી પ્રતિકૂળ પરિસ્થિતિમાં જીવંત રહેવા માટે મદદરૂપ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્કી = 'Old & Tough' (જૂના અને મજબૂત), દીવાલ જ એમનું સુરક્ષા કવચ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સાયનોબેક્ટેરિયા (નીલહરિત લીલ) વિશે બે મુખ્ય લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) તેઓ હરિતદ્રવ્ય-એ (Chlorophyll-a) ધરાવે છે અને પ્રકાશસંશ્લેષી સ્વયંપોષી છે. (2) નોસ્ટોક અને એનાબીના જેવા સજીવો નાઈટ્રોજન સ્થાપન માટે 'અભિકોષ' (Heterocyst) નામની વિશિષ્ટ રચના ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયનો = બ્લુ-ગ્રીન (Blue-Green) + અભિકોષ (નાઈટ્રોજન ફિક્સર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માયકોપ્લાઝ્મા (Mycoplasma) ને જીવવિજ્ઞાનના 'જોકર' કેમ કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે માયકોપ્લાઝ્મા કોષદીવાલ ધરાવતા નથી, જેથી તેઓ પોતાનો આકાર બદલી શકે છે (Pleomorphic). તેઓ સૌથી નાના જીવંત કોષો છે અને ઓક્સિજન વગર પણ જીવી શકે છે. તેઓ વનસ્પતિ અને પ્રાણીઓમાં રોગકારક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયકોપ્લાઝ્મા = No Wall + No Oxygen + Smallest = Joker of Plant Kingdom.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ડાયટોમ્સની કોષદીવાલની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડાયટોમ્સમાં કોષદીવાલ બે પાતળા અને ઓવરલેપિંગ કવચો ધરાવે છે જે 'સાબુના દાબડા' (Soap box) ની જેમ ફિટ થાય છે. આ દીવાલો સિલિકાથી જડાયેલી હોવાથી તે અવિનાશી હોય છે અને લાખો વર્ષો પછી 'ડાયટોમેશિયસ અર્થ' બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયટોમ્સ = સાબુનો ડબ્બો + સિલિકા (કાચ જેવી દીવાલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ડાયનોફ્લેજેલેટ્સ દ્વારા થતી 'રેડ ટાઈડ' (લાલ ભરતી) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોનિયાલેક્સ (Gonyaulax) જેવા લાલ ડાયનોફ્લેજેલેટ્સ સમુદ્રમાં ખૂબ જ ઝડપથી બહુગુણન પામે છે, જેના કારણે સમુદ્ર લાલ રંગનો દેખાય છે, તેને 'રેડ ટાઈડ' કહે છે. આ દરમિયાન મુક્ત થતા વિષ (Toxins) માછલીઓ જેવા જળચર પ્રાણીઓને મારી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ ભરતી = ગોનિયાલેક્સ (Gonyaulax) + ઝેર (Toxin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "યુગ્લિનોઈડ્સમાં પોષણ પદ્ધતિની વિલક્ષણતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુગ્લિનોઈડ્સ (દા.ત. યુગ્લિના) સૂર્યપ્રકાશની હાજરીમાં પ્રકાશસંશ્લેષી તરીકે વર્તે છે, પરંતુ સૂર્યપ્રકાશના અભાવે તેઓ નાના સજીવોનું ભક્ષણ કરી પરપોષી તરીકે વર્તે છે. આને 'મિશ્રપોષી' પોષણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુગ્લિના = પ્રકાશ હોય તો વેજ (Veg), ન હોય તો નોન-વેજ (Non-Veg).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સ્લાઈમ મોલ્ડ્સ (Slime Moulds) ના પ્લાઝ્મોડિયમ વિશે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુકૂળ પરિસ્થિતિમાં સ્લાઈમ મોલ્ડ્સ એકત્રિત થઈને બહુકોષકેન્દ્રીય સમૂહ બનાવે છે, જેને પ્લાઝ્મોડિયમ કહેવાય છે. તે લાંબા અંતર સુધી ફેલાઈ શકે છે. પ્રતિકૂળ સંજોગોમાં તે વિભેદન પામી બીજાણુઓ ધરાવતી ફળકાય રચના બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્લાઈમ મોલ્ડ્સ = મૃતપજીવી પ્રોટિસ્ટા + પ્લાઝ્મોડિયમ (ગ્રુપ ફોટો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ફૂગમાં કોષદીવાલ અને ખોરાક સંગ્રહ વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફૂગની કોષદીવાલ 'કાઈટિન' (Chitin) અને પોલીસેકેરાઈડની બનેલી હોય છે. ફૂગમાં ખોરાકનો સંગ્રહ ગ્લાયકોજન અને તેલબિંદુ સ્વરૂપે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂગ = કાઈટિન (Chi-tin) + ગ્લાયકોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લાઈકેન (Lichens) માં સહજીવન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાઈકેન એ લીલ અને ફૂગ વચ્ચેનું સહજીવન છે. લીલ ઘટકને 'ફાઈકોબાયોન્ટ' (Phycobiont) કહેવાય જે ખોરાક બનાવે છે, અને ફૂગ ઘટકને 'માઈકોબાયોન્ટ' (Mycobiont) કહેવાય જે આશ્રય અને પોષકદ્રવ્યો પૂરા પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઈકેન = લીલ (રસોઈ) + ફૂગ (ઘર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વાઈરોઈડ્સ (Viroids) અને વાયરસ વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાઈરોઈડ્સ વાયરસ કરતા પણ નાના હોય છે. વાઈરોઈડ્સમાં વાયરસની જેમ પ્રોટીનનું આવરણ (Capsid) હોતું નથી, માત્ર મુક્ત RNA હોય છે. આ RNA નો આણ્વિય ભાર ઓછો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાઈરોઈડ્સ = Naked RNA (પ્રોટીન કોટ વગરનો વાયરસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ફાઈકોમાયસેટિસના લક્ષણો અને ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેઓ જલજ નિવાસસ્થાન અને ભીની લાકડીઓ પર જોવા મળે છે. કવકજાળ પડદા રહિત અને બહુકોષકેન્દ્રીય (Coenocytic) હોય છે. ઉદાહરણ: મ્યુકર, રાઈઝોપસ (બ્રેડ મોલ્ડ), અને અલ્બુગો (રાઈ પરની પરોપજીવી ફૂગ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RAM = Rhizopus, Albugo, Mucor.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "એસ્કોમાયસેટિસ (Ascomycetes) ને 'કોથળીમય ફૂગ' કેમ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તેઓ લિંગી પ્રજનન દરમિયાન બીજાણુઓ (Askospores) કોથળી જેવી રચનામાં ઉત્પન્ન કરે છે જેને 'એસ્કસ' (Ascus) કહેવાય છે. દા.ત. પેનિસિલિયમ, યીસ્ટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસ્કો = એસ્કસ = સેક ફંગસ (Sac Fungi).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ડ્યુટેરોમાયસેટિસને 'અપૂર્ણ ફૂગ' તરીકે કેમ ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે આ ફૂગમાં માત્ર અલિંગી અથવા વાનસ્પતિક તબક્કાઓ જ જાણીતા છે. લિંગી તબક્કાની શોધ થતા જ તેમને અન્ય યોગ્ય વર્ગમાં ખસેડવામાં આવે છે. ઉદાહરણ: ટ્રાયકોડર્મા, અલ્ટરનેરિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડ્યુટેરો = 'Incomplete' (લિંગી પ્રજનન ગેરહાજર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પ્રાયોન્સ (Prions) એટલે શું? તેનાથી થતો એક રોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાયોન્સ એ વાયરસ જેટલું જ કદ ધરાવતા ચેપી પ્રોટીન છે (Abnormally folded proteins). તેઓ મનુષ્યમાં CJD (Cr-Jacob Disease) અને ઢોરમાં મેડ-કાઉ ડિસીઝ (BSE) પ્રેરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Prion = Protein infectious particle (P for P).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વાયરસના બંધારણમાં આવેલા કેપ્સિડ (Capsid) નું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેપ્સિડ એ પ્રોટીનનું આવરણ છે જે નાના એકમો 'કેપ્સોમિયર'નું બનેલું હોય છે. તે વાયરસના જનીનદ્રવ્ય (DNA કે RNA) ને રક્ષણ આપવાનું કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેપ્સિડ = પ્રોટીનનું હેલ્મેટ (જનીનદ્રવ્યનું રક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પક્ષ્મધારી પ્રોટોઝોઆ (Ciliated Protozoans) નું ઉદાહરણ આપી વિશિષ્ટતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરામિશિયમ એ પક્ષ્મધારી પ્રોટોઝોઆ છે. તેના શરીર પર હજારો પક્ષ્મો આવેલા હોય છે. તેમાં મુખખાંચ (Gullet) નામની ગુહા હોય છે, જે પક્ષ્મોના હલેસા જેવા હલનચલન દ્વારા ખોરાકને અંદર ખેંચવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરામિશિયમ = ચંપલ આકાર (Slipper shape) + પક્ષ્મોની ફોજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બેસીડિયોમાયસેટિસમાં લિંગી અંગો ગેરહાજર હોવા છતાં લિંગી પ્રજનન કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેસીડિયોમાયસેટિસમાં લિંગી અંગો હોતા નથી, પરંતુ બે ભિન્ન જનીનપ્રકાર ધરાવતા વાનસ્પતિક કોષોના જોડાણ (Plasmogamy) દ્વારા દ્વિકોષકેન્દ્રીય રચના બને છે, જેમાંથી અંતે બેસીડિયમ બને છે અને તેમાં અર્ધસૂત્રણ દ્વારા બેસીડિયોસ્પોર્સ ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેસીડિયો = નો સેક્સ ઓર્ગન્સ, ડાયરેક્ટ સેલ ફ્યુઝન.</p></div>"
+    }
+  ]
+}

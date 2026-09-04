@@ -460,3 +460,116 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સપુષ્પી વનસ્પતિઓની બાહ્યાકાર વિદ્યા",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સોટીમય મૂળતંત્ર અને તંતુમય મૂળતંત્ર વચ્ચેનો મુખ્ય તફાવત ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. સોટીમય મૂળતંત્ર: આદિમૂળમાંથી પ્રાથમિક મૂળ નીકળે છે અને તે જમીનમાં ઊંડે ઉતરે છે (દા.ત. રાઈ, દ્વિદળી વનસ્પતિ). 2. તંતુમય મૂળતંત્ર: પ્રાથમિક મૂળ અલ્પજીવી હોય છે અને પ્રકાંડના તલભાગેથી અસંખ્ય પાતળા મૂળ નીકળે છે (દા.ત. ઘઉં, મકાઈ, એકદળી વનસ્પતિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોટી = સીધી (દ્વિદળી), તંતુ = ગૂંચળું (એકદળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આગંતુક મૂળ (Adventitious Roots) એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે વનસ્પતિમાં મૂળનો ઉદભવ ભ્રૂણમૂળ (Radicle) સિવાયના અન્ય ભાગોમાંથી થાય, ત્યારે તેને આગંતુક મૂળ કહેવામાં આવે છે. દા.ત. ઘાસ, મોન્સ્ટેરા અને વડના ટેટા (વડવાઈ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગંતુક = મહેમાન (મૂળ સ્થાન સિવાય ગમે ત્યાંથી આવે તે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મૂળના ટોચના પ્રદેશો (Regions of Root) ના નામ જણાવી વર્ધનશીલ પ્રદેશની લાક્ષણિકતા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળના ત્રણ પ્રદેશો છે: (1) વર્ધનશીલ પ્રવૃત્તિનો પ્રદેશ (2) વિસ્તરણ પ્રદેશ (3) પરિપક્વન પ્રદેશ. વર્ધનશીલ પ્રદેશના કોષો ખૂબ જ નાના, પાતળી દીવાલવાળા અને ઘટ્ટ જીવરસ ધરાવે છે, જે સતત વિભાજન પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: VVP - વર્ધનશીલ, વિસ્તરણ, પરિપક્વન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શ્વસનમૂળ (Pneumatophores) એટલે શું? તે કઈ વનસ્પતિમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દલદલ (કાદવ) વાળા વિસ્તારમાં ઊગતી વનસ્પતિઓમાં મૂળ જમીનની બહાર લંબરૂપે ઉપરની તરફ આવે છે, જે શ્વસન માટે ઓક્સિજન મેળવવામાં મદદ કરે છે. તેને શ્વસનમૂળ કહે છે. દા.ત. રાઈઝોફોરા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વસનમૂળ = હવામાં 'રાઈઝ' (Rise) થતા મૂળ (રાઈઝોફોરા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રકાંડના ખોરાક સંગ્રહ માટેના રૂપાંતરણો ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલીક વનસ્પતિઓમાં ભૂગર્ભીય પ્રકાંડ ખોરાકનો સંગ્રહ કરી માંસલ બને છે. દા.ત. બટાટા (ગ્રંથિલ), આદુ અને હળદર (ગાંઠામૂળી), જમીનકંદ અને અળવી (વજ્રકંદ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાભી આઈ (બટાટા, આદુ, હળદર, અળવી, ઈત્યાદિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પ્રકાંડ સૂત્ર (Stem Tendrils) અને પ્રકાંડ કંટક (Thorns) વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાંડ સૂત્ર: કક્ષકલિકા પાતળી, કુંતલાકાર અને સંવેદનશીલ બને છે જે આરોહણમાં મદદ કરે છે (દા.ત. કાકડી, તરબૂચ). પ્રકાંડ કંટક: કક્ષકલિકા સખત, સીધી અને અણીદાર રચનામાં ફેરવાય છે જે રક્ષણ આપે છે (દા.ત. લીંબુ, બોગનવેલ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર = સપોર્ટ (આરોહણ), કંટક = કાંટા (રક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પર્ણના મુખ્ય ત્રણ ભાગો વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પર્ણતલ (Leaf base): જેના દ્વારા પર્ણ પ્રકાંડ સાથે જોડાય છે. (2) પર્ણદંડ (Petiole): જે પર્ણપત્રને પ્રકાશ મળે તે રીતે લટકતું રાખે છે. (3) પર્ણપત્ર (Lamina): પર્ણનો લીલો, ચપટો ભાગ જે પ્રકાશસંશ્લેષણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TDP - તલ, દંડ, પત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જાલાકાર શિરાવિન્યાસ અને સમાંતર શિરાવિન્યાસ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાલાકાર શિરાવિન્યાસ: શિરાઓ પર્ણપત્રમાં જાળી જેવી રચના બનાવે છે (લાક્ષણિક રીતે દ્વિદળીમાં). સમાંતર શિરાવિન્યાસ: શિરાઓ એકબીજાને સમાંતર ગોઠવાયેલી હોય છે (લાક્ષણિક રીતે એકદળીમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાળી-દ્વિદળી, સમાંતર-એકદળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પંજાકાર સંયુક્ત પર્ણ અને પીંછાકાર સંયુક્ત પર્ણ વચ્ચેનો ભેદ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પીંછાકાર સંયુક્ત પર્ણ: પર્ણિકાઓ એક જ સામાન્ય અક્ષ (રેકિસ) પર સામસામે ગોઠવાયેલી હોય છે (દા.ત. લીમડો). પંજાકાર સંયુક્ત પર્ણ: બધી જ પર્ણિકાઓ પર્ણદંડની ટોચ પર એક જ બિંદુએ જોડાયેલી હોય છે (દા.ત. સીમળો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીંછા = લાંબી ધરી, પંજો = એક જ પોઈન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પર્ણવિન્યાસ (Phyllotaxy) એટલે શું? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાંડ કે તેની શાખા પર પર્ણોની ગોઠવણીના ક્રમને પર્ણવિન્યાસ કહે છે. તેના ત્રણ પ્રકાર છે: (1) એકાંતરિત (દા.ત. જાસૂદ), (2) સંમુખ (દા.ત. આંકડો), (3) ભ્રમરરૂપ (દા.ત. સપ્તપર્ણી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એ-સં-ભ્ર (એકાંતરિત, સંમુખ, ભ્રમરરૂપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નિશ્ચિત (Cymose) અને અનિશ્ચિત (Racemose) પુષ્પવિન્યાસનો મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનિશ્ચિત (Racemose): મુખ્ય અક્ષ સતત વૃદ્ધિ પામે છે અને પુષ્પો અગ્રાભિવર્ધી ક્રમમાં પાર્શ્વીય રીતે ઉદભવે છે. નિશ્ચિત (Cymose): મુખ્ય અક્ષ પુષ્પમાં પરિણમે છે, તેથી વૃદ્ધિ મર્યાદિત છે અને પુષ્પો તલાભિસારી ક્રમમાં ઉદભવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનિશ્ચિત = Unlimited Growth, નિશ્ચિત = Limited Growth.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પુષ્પની સંમિતિ (Symmetry) ના આધારે પ્રકારો વ્યાખ્યાયિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ત્રિજ્યાવર્તી (Actinomorphic): પુષ્પના કેન્દ્રમાંથી પસાર થતી કોઈપણ ધરી બે સમાન ભાગ કરે (દા.ત. રાઈ). (2) પાર્શ્વીય (Zygomorphic): માત્ર એક જ ચોક્કસ લંબધરીથી બે સમાન ભાગ થાય (દા.ત. વટાણા). (3) અસમમિત: કોઈપણ ધરી બે સમાન ભાગ ન કરી શકે (દા.ત. કેન્ના).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિજ્યા = રાઉન્ડ ફ્રી, પાર્શ્વીય = વન કટ ઓન્લી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઉચ્ચસ્થ બીજાશય અને અધઃસ્થ બીજાશય વચ્ચેનો તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધોજાયી પુષ્પ (Hypogynous): સ્ત્રીકેસર સૌથી ઉચ્ચ સ્થાને હોય અને બાકીના ભાગો તેની નીચે હોય, તેને ઉચ્ચસ્થ બીજાશય કહે છે (દા.ત. જાસૂદ). ઉપરીજાયી પુષ્પ (Epigynous): પુષ્પાસન બીજાશયને સંપૂર્ણ ઘેરી લે છે અને બાકીના ભાગો બીજાશયની ઉપર હોય, તેને અધઃસ્થ બીજાશય કહે છે (દા.ત. જામફળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધો-હાઈ (બીજાશય ઉપર), ઉપરી-લો (બીજાશય નીચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કલિકાંતરવિન્યાસ (Aestivation) એટલે શું? તેના કોઈપણ બે પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુષ્પની કલિકા અવસ્થામાં વજ્રપત્રો કે દલપત્રોની એકબીજાની સાપેક્ષે ગોઠવણીને કલિકાંતરવિન્યાસ કહે છે. પ્રકારો: (1) ધારાસ્પર્શી (Valvate): ઘટકો માત્ર એકબીજાને સ્પર્શે છે (દા.ત. આંકડો). (2) વ્યાવૃત (Twisted): એક ઘટકની ધાર બીજા ઘટક પર આચ્છાદિત હોય (દા.ત. જાસૂદ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારા = ટચ, વ્યાવૃત = ઓવરલેપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પુંકેસરચક્રમાં 'એકગુચ્છી' અને 'દ્વિગુચ્છી' સ્થિતિ ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકગુચ્છી (Monadelphous): બધા જ પુંકેસરો એક જ જૂથ કે ગુચ્છામાં જોડાયેલા હોય છે (દા.ત. જાસૂદ). દ્વિગુચ્છી (Diadelphous): પુંકેસરો બે જૂથમાં વહેંચાયેલા હોય છે (દા.ત. વટાણામાં 9+1 ની ગોઠવણી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકગુચ્છી = જાસૂદ, બે જૂથ = વટાણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જરાયુવિન્યાસ (Placentation) એટલે શું? અક્ષવર્તી જરાયુવિન્યાસ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજાશયમાં અંડકોની ગોઠવણીને જરાયુવિન્યાસ કહે છે. અક્ષવર્તી (Axile): જ્યારે જરાયુ અક્ષીય હોય અને અંડકો બહુકોટરિય બીજાશયમાં જોડાયેલા હોય ત્યારે તેને અક્ષવર્તી કહેવાય. દા.ત. ટામેટા, લીંબુ, જાસૂદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષવર્તી = સેન્ટ્રલ એક્સિસ (લીંબુના ફાડચા જેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાર્થિનોકાર્પિક ફળ (Parthenocarpic fruit) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો ફળનું નિર્માણ ફલન (Fertilization) વગર જ બીજાશયમાંથી થાય, તો તેને પાર્થિનોકાર્પિક અથવા અફલિત ફળ કહે છે. આવા ફળ બીજવિહીન હોય છે. દા.ત. કેળા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Sex = No Seed (ફલન વગર બીજ ન હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એકદળી બીજની રચનામાં 'ભ્રૂણપોષ' અને 'વરુથિકા' (Scutellum) નું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભ્રૂણપોષ (Endosperm) એ ખોરાકનો સંગ્રહ કરતી પેશી છે જે ભ્રૂણને પોષણ આપે છે. વરુથિકા એ એકદળી બીજમાં આવેલું એક મોટું અને ઢાલ આકારનું બીજપત્ર છે જે ભ્રૂણપોષમાંથી પોષણ મેળવી ભ્રૂણધરીને આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરુથિકા = એકદળીની ઢાલ (Shield).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સોલેનેસી (Solanaceae) કુળના પુષ્પસૂત્રની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોલેનેસીનું પુષ્પસૂત્ર: ⊕ ⚥ K(5) C(5) A5 G(2). અર્થ: ⊕ = ત્રિજ્યાવર્તી, ⚥ = દ્વિલિંગી, K(5) = પાંચ યુક્ત વજ્રપત્રો, C(5) = પાંચ યુક્ત દલપત્રો, A5 = પાંચ મુક્ત પુંકેસરો (દલલગ્ન), G(2) = દ્વિસ્ત્રીકેસરી, યુક્ત અને ઉચ્ચસ્થ બીજાશય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોલેનેસી = બધું 5-5 (K5, C5, A5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લિલીએસી (Liliaceae) કુળની કોઈપણ બે આર્થિક અગત્યતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ખોરાક તરીકે: ડુંગળી (Allium cepa) અને લસણનો ઉપયોગ થાય છે. (2) ઔષધ તરીકે: એલોવેરા (કુંવારપાઠું) નો ઉપયોગ થાય છે. (3) સુશોભન માટે: ટ્યુલિપ અને ગ્લોરિયોઝા ઉગાડવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિલી એટલે 'ડુંગળી-લસણ' ફેમિલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પુષ્પના સહાયક ચક્રો અને આવશ્યક ચક્રોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહાયક ચક્રો: વજ્રચક્ર (Calyx) અને દલચક્ર (Corolla). આવશ્યક ચક્રો: પુંકેસરચક્ર (Androecium) અને જાયાંગ (Gynoecium).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ-વ-દ (સહાયક વજ્ર દલ), આ-પું-જા (આવશ્યક પુંકેસર જાયાંગ).</p></div>"
+    }
+  ]
+}

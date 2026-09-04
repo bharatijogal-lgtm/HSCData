@@ -1369,3 +1369,116 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "વનસ્પતિ વૃદ્ધિ અને વિકાસ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વૃદ્ધિની વ્યાખ્યા આપી તેના મુખ્ય લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃદ્ધિ એ સજીવના કોઈ અંગ કે તેના ભાગ કે કોષના કદમાં થતો અપરિવર્તનીય અને કાયમી વધારો છે. <br>1. તે ચયાપચયની ક્રિયાઓ (ચય અને અપચય) સાથે જોડાયેલ છે. <br>2. તેમાં ઉર્જાનો વપરાશ થાય છે. <br>3. વનસ્પતિમાં વૃદ્ધિ અનિશ્ચિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધિ = અપરિવર્તનીય વધારો + ઉર્જાનો ખર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વનસ્પતિમાં વૃદ્ધિ શા માટે 'અપરિમિત' અથવા 'અનિશ્ચિત' ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિમાં જીવનપર્યંત વૃદ્ધિ કરવાની ક્ષમતા હોય છે. આ ક્ષમતા તેમના શરીરમાં ચોક્કસ સ્થાનો પર આવેલી વર્ધનશીલ પેશીઓ (Meristems) ને કારણે છે. આ પેશીના કોષો સતત વિભાજન પામી નવા કોષો ઉમેરતા રહે છે, તેથી વનસ્પતિની વૃદ્ધિ અપરિમિત ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ધનશીલ પેશી = અનિશ્ચિત વૃદ્ધિની ચાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વૃદ્ધિના માપન માટે વપરાતા કોઈપણ ચાર માપદંડો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃદ્ધિને વિવિધ રીતે માપી શકાય છે: <br>1. તાજા વજનમાં વધારો. <br>2. શુષ્ક વજનમાં વધારો. <br>3. લંબાઈ કે ક્ષેત્રફળમાં વધારો. <br>4. કોષોની સંખ્યામાં વધારો (દા.ત. મકાઈના મૂળના ટોચના કોષો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તાશુલક્ષ' (તાજુ વજન, શુષ્ક વજન, લંબાઈ, ક્ષેત્રફળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વૃદ્ધિના ત્રણ તબક્કાઓ કયા છે? ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. વર્ધનશીલ તબક્કો: મૂળ અને પ્રરોહના અગ્રસ્થ ભાગે કોષ વિભાજન થાય છે. <br>2. વિસ્તરણ તબક્કો: કોષોની લંબાઈમાં વધારો અને રસધાનીકરણ થાય છે. <br>3. પરિપક્વન તબક્કો: કોષો મહત્તમ કદ પ્રાપ્ત કરી ચોક્કસ કાર્ય માટે વિશિષ્ટ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ-વિ-પ (વર્ધનશીલ -> વિસ્તરણ -> પરિપક્વન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અંકગણિતીય વૃદ્ધિ (Arithmetic Growth) નું સૂત્ર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પ્રકારની વૃદ્ધિમાં સમભાજન બાદ માત્ર એક જ બાળકોષ વિભાજન ચાલુ રાખે છે જ્યારે બીજો કોષ પુખ્ત બને છે. <br>સૂત્ર: Lt = L0 + rt <br>જ્યાં, Lt = t સમયે લંબાઈ, L0 = શરૂઆતની લંબાઈ, r = વૃદ્ધિ દર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંકગણિતમાં ગ્રાફ સીધી રેખા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભૌમિતિક વૃદ્ધિ (Geometric Growth) ના 'સિગ્મોઇડ વક્ર' ના તબક્કા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૌમિતિક વૃદ્ધિમાં S-આકારનો વક્ર મળે છે, જેના ત્રણ તબક્કા છે: <br>1. લેગ ફેઝ (Lag phase): શરૂઆતની ધીમી વૃદ્ધિ. <br>2. લોગ ફેઝ (Log phase): ઝડપી અથવા ઘાતાંકીય વૃદ્ધિ. <br>3. સ્થિર તબક્કો (Stationary phase): સ્ત્રોતોની મર્યાદાને કારણે વૃદ્ધિ ધીમી પડી સ્થિર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેગ (ધીમું) -> લોગ (ફાસ્ટ) -> સ્ટેશનરી (સ્થિર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિરપેક્ષ વૃદ્ધિ દર અને સાપેક્ષ વૃદ્ધિ દર વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. નિરપેક્ષ વૃદ્ધિ દર (Absolute Growth Rate): એકમ સમયમાં થતો કુલ વૃદ્ધિનો વધારો. <br>2. સાપેક્ષ વૃદ્ધિ દર (Relative Growth Rate): આપેલ સમયમાં પ્રારંભિક માપના આધારે થતો વૃદ્ધિનો વધારો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરપેક્ષ એટલે કુલ વધારો, સાપેક્ષ એટલે ટકાવારી મુજબ વધારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભેદન (Differentiation) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ધનશીલ પેશીના કોષો જ્યારે ચોક્કસ કાર્યો કરવા માટે કાયમી આકાર અને સ્વરૂપ ધારણ કરે છે, ત્યારે તેને વિભેદન કહે છે. <br>દા.ત., જલવાહક પેશીના ઘટકો બનતી વખતે કોષો જીવરસ ગુમાવે છે અને લિગ્નિનનું સ્થૂલન મેળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિભેદન = કોષની નિવૃત્તિ (Specific Job).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નિર્વિભેદન (Dedifferentiation) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીવંત વિભેદિત (પુખ્ત) કોષો અમુક પરિસ્થિતિઓમાં ફરીથી વિભાજન પામવાની ક્ષમતા મેળવે છે, તેને નિર્વિભેદન કહે છે. <br>દા.ત., આંતરપુલિય એધા (Interfascicular cambium) અને ત્વક્ષૈધાનું નિર્માણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: De-differentiation = પુખ્ત કોષનું ફરીથી બાળક (વર્ધનશીલ) બનવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પુનઃવિભેદન (Redifferentiation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિર્વિભેદન પામેલી પેશીના કોષો ફરીથી વિભાજનની ક્ષમતા ગુમાવે છે અને નિશ્ચિત કાર્યો માટે પુખ્ત બને છે, તેને પુનઃવિભેદન કહેવાય છે. <br>દા.ત., દ્વિતીયક જલવાહક અને દ્વિતીયક અન્નવાહક પેશીનું નિર્માણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Re-differentiation = બીજી વાર પુખ્ત બનવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્લાસ્ટિસિટી (Plasticity) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિ પર્યાવરણ અથવા જીવનના તબક્કાઓ મુજબ અલગ અલગ પ્રકારના પર્ણો કે અંગો ધારણ કરે છે, તેને પ્લાસ્ટિસિટી કહે છે. <br>દા.ત., કપાસ, કોથમીરમાં તરુણ અને પુખ્ત અવસ્થાના પર્ણો અલગ હોય છે (Heterophylly).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિસિટી = સંજોગો મુજબ બદલાવાની ક્ષમતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વનસ્પતિ વૃદ્ધિ નિયામકો (PGRs) નું વર્ગીકરણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PGRs ને બે જૂથમાં વહેંચી શકાય: <br>1. વૃદ્ધિ પ્રેરકો: ઓક્ઝિન, જિબરેલિન, સાયટોકાઈનિન (વૃદ્ધિ વધારે છે). <br>2. વૃદ્ધિ અવરોધકો: એબ્સિસિક એસિડ (ABA) અને ઇથિલીન (તણાવ સામે પ્રતિક્રિયા અને વૃદ્ધિ રોકવી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેરક (AGC) - અવરોધક (AE).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઓક્ઝિન (Auxin) ના કોઈપણ બે કૃષિ ક્ષેત્રે ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કલમમાં મૂળ ફૂટવા માટે (Rooting) ઓક્ઝિનનો ઉપયોગ થાય છે. <br>2. તે દ્વિદળી નીંદણના નાશ માટે (દા.ત. 2,4-D) નીંદણનાશક તરીકે વપરાય છે. <br>3. અનાનસમાં પુષ્પ સર્જન પ્રેરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્ઝિન = મૂળ લાવે + નીંદણ હટાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જિબરેલિન્સ (Gibberellins) ની શેરડીના પાક પર થતી અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરડીના પ્રકાંડમાં જિબરેલિન છાંટવાથી તેની આંતરગાંઠની લંબાઈ વધે છે. પરિણામે શેરડીની લંબાઈ વધતા તેના ઉત્પાદનમાં એકર દીઠ 20 ટન જેટલો વધારો થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિબરેલિન = પ્રકાંડ ખેંચો (Elongation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાયટોકાઈનિન (Cytokinin) ના મુખ્ય કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કોષ વિભાજન પ્રેરવું. <br>2. નવી પર્ણ ઉત્પત્તિ અને હરિતકણનું નિર્માણ. <br>3. પાર્શ્વીય પ્રરોહની વૃદ્ધિ અને અગ્રસ્થ પ્રભુતાને નાબૂદ કરવી. <br>4. પોષકતત્વોના વહન દ્વારા પર્ણ પતન (Senescence) ને લંબાવવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયટોકાઈનિન = કોષ વિભાજન + એન્ટી-એજિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઇથિલીન (Ethylene) ને 'ફળ પકવતો વાયુ' શા માટે કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથિલીન એ વાયુરૂપ હોર્મોન છે જે ફળો પાકવાની ક્રિયામાં વધારો કરે છે. તે ફળોમાં શ્વસન દરમાં વધારો કરે છે (Respiratory Climactic), જેનાથી ફળ જલ્દી પાકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથિલીન = ગેસ વાળું ફળ પકવનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એબ્સિસિક એસિડ (ABA) ને 'તણાવ હોર્મોન' (Stress Hormone) કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તે વનસ્પતિની વિવિધ પ્રકારના તણાવ (જેમ કે પાણીની અછત) સામે પ્રતિક્રિયા આપે છે. તે પર્ણરંધ્રોને બંધ કરી બાષ્પોત્સર્જન ઘટાડે છે અને બીજની સુષુપ્તતા પ્રેરે છે, જેથી પ્રતિકૂળ સ્થિતિમાં વનસ્પતિ ટકી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABA = પ્લાન્ટનું બ્રેક (Stop and Save).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દીપ્તિકાળ (Photoperiodism) એટલે શું? તેના આધારે વનસ્પતિના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિમાં પુષ્પ સર્જન માટે દિવસ (પ્રકાશ) ની લંબાઈની જે અસર થાય છે તેને દીપ્તિકાળ કહે છે. <br>પ્રકારો: 1. લઘુદિવસી (SDP), 2. દીર્ઘદિવસી (LDP), 3. દિવસ તટસ્થ (DNP) વનસ્પતિઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીપ્તિકાળ = પ્રકાશનો સમયગાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વસંતીકરણ (Vernalization) ની વ્યાખ્યા અને મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલીક વનસ્પતિઓમાં પુષ્પ સર્જન ગુણાત્મક કે જથ્થાત્મક રીતે નીચા તાપમાને ખુલ્લા રાખવા પર આધારિત હોય છે, તેને વસંતીકરણ કહે છે. <br>મહત્વ: તે વનસ્પતિને વહેલા પુષ્પ સર્જનથી અટકાવે છે અને પરિપક્વ થવા પૂરતો સમય આપે છે (દા.ત. ઘઉં, જવ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસંતીકરણ = ઠંડીની અસર (Low Temperature).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બીજ સુષુપ્તતા (Seed Dormancy) ના કારણો અને તેને દૂર કરવાની રીતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણો: બીજાવરણની અભેદ્યતા, કુદરતી અવરોધકો (ABA) ની હાજરી. <br>દૂર કરવાની રીતો: બીજાવરણને ઘસવું (Scarification), ઠંડા તાપમાને રાખવું (Stratification) અથવા જિબરેલિક એસિડની સારવાર આપવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુષુપ્તતા એટલે બીજની ઊંઘ; હોર્મોન કે ઘસારો તેને જગાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બોલ્ટિંગ (Bolting) એટલે શું? કયો હોર્મોન તે પ્રેરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોઝેટ સ્વરૂપ ધરાવતી વનસ્પતિઓ (જેમ કે બીટ, કોબીજ) માં પુષ્પ સર્જન પહેલા આંતરગાંઠની લંબાઈમાં થતા એકાએક વધારાને બોલ્ટિંગ કહે છે. જિબરેલિન (Gibberellin) હોર્મોન બોલ્ટિંગ પ્રેરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોઝેટ + જિબરેલિન = બોલ્ટિંગ.</p></div>"
+    }
+  ]
+}

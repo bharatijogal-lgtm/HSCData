@@ -1482,3 +1482,121 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "શ્વાસોચ્છવાસ અને વાયુઓનું વિનિમય",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિવિધ પ્રાણીઓમાં શ્વસન અંગો કયા પરિબળો પર આધાર રાખે છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વસન અંગો મુખ્યત્વે પ્રાણીઓના નિવાસસ્થાન અને તેમના આયોજનના સ્તર પર આધાર રાખે છે. <br>દા.ત., વાદળી અને કોષ્ઠાન્ત્રીઓ શરીરની સપાટી દ્વારા, અળસિયાં તેમની ભીની ત્વચા દ્વારા, જ્યારે કીટકો શ્વસન નલિકાઓ દ્વારા શ્વસન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'નિ-આ' (નિવાસસ્થાન અને આયોજન) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શ્વસનતંત્રમાં નસકોરાંથી શરૂ કરીને વાયુકોષ્ઠો સુધીનો માર્ગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્ય નસકોરાં → નાસિકા કોટર → કંઠનળી → સ્વરયંત્ર → શ્વાસનળી → પ્રાથમિક, દ્વિતીય અને તૃતીય શ્વાસવાહિનીઓ → શ્વાસવાહિકાઓ → વાયુકોષ્ઠો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Sequence: ન-ક-સ્વ-શ્રા-શ્રા-વા (નસકોરાં-કંઠનળી-સ્વરયંત્ર-શ્વાસનળી-શ્વાસવાહિની-વાયુકોષ્ઠો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્વરયંત્ર (Larynx) ની રચના અને કાર્ય સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વરયંત્ર એ કાસ્થિમય પેટી છે જે શ્વાસનળીના અગ્ર છેડે આવેલી હોય છે. તે અવાજ ઉત્પન્ન કરવામાં મદદરૂપ થાય છે, તેથી તેને 'સાઉન્ડ બોક્સ' (Sound Box) પણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાસ્થિની પેટી = સંગીતની પેટી (Sound Box).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઘાટી ઢાંકણ (Epiglottis) નું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાક ગળતી વખતે સ્થિતિસ્થાપક કાસ્થિમય પડદો 'ઘાટી ઢાંકણ' સ્વરદ્વારને ઢાંકે છે, જેથી ખોરાક શ્વાસનળીમાં પ્રવેશતો અટકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રાફિક પોલીસ ઓફ લંગ્સ: ખોરાકને શ્વાસના રસ્તે જતા રોકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ફુપ્ફુસીય આવરણ (Pleura) અને ફુપ્ફુસીય પ્રવાહીના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં બે સ્તરીય ફુપ્ફુસીય આવરણથી ઘેરાયેલા હોય છે. તેમની વચ્ચે રહેલું ફુપ્ફુસીય પ્રવાહી ફેફસાંની સપાટી પરનું ઘર્ષણ ઘટાડે છે અને બહારનું આવરણ પાંસળીઓના સંપર્કમાં રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ લેયર + ઓઈલિંગ (પ્રવાહી) = નો ઘર્ષણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શ્વસનની પ્રક્રિયાના મુખ્ય પાંચ તબક્કાઓ માત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. શ્વાસોચ્છવાસ, 2. વાયુકોષ્ઠોમાં વાયુ વિનિમય, 3. રુધિર દ્વારા વાયુઓનું વહન, 4. રુધિર અને પેશીઓ વચ્ચે વિનિમય, 5. કોષીય શ્વસન (ATP ઉત્પાદન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વા-વિ-વ-વિ-કો (શ્વાસ-વિનિમય-વહન-વિનિમય-કોષીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શ્વાસ (Inspiration) ની પ્રક્રિયા ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ફેફસાંની અંદરનું દબાણ (આંતર ફુપ્ફુસીય દબાણ) વાતાવરણના દબાણ કરતાં ઓછું હોય (નકારાત્મક દબાણ) ત્યારે શ્વાસની ક્રિયા થાય છે. આ માટે ઉરોદરપટલ અને બહારના આંતર પાંસળી સ્નાયુઓનું સંકોચન જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર ઓછું દબાણ = બહારથી હવા અંદર (શ્વાસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉચ્છવાસ (Expiration) ની ઘટના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉરોદરપટલ અને બાહ્ય આંતર પાંસળી સ્નાયુઓ શિથિલન પામે છે, જેનાથી ઉરસીય ગુહાનું કદ ઘટે છે અને ફેફસાંનું દબાણ વાતાવરણના દબાણ કરતાં વધી જાય છે, પરિણામે હવા બહાર નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિલેક્સેશન (શિથિલન) = હવા બહાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટાઈડલ વોલ્યુમ (TV) અને ઈન્સ્પાયરેટરી રિઝર્વ વોલ્યુમ (IRV) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. TV: સામાન્ય શ્વાસોચ્છવાસ દરમિયાન હવાના કદને TV કહે છે (આશરે 500 mL). <br>2. IRV: વ્યક્તિ દ્વારા પરાણે (Forced) અંદર લીધેલ હવાના વધારાના કદને IRV કહે છે (2500-3000 mL).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TV = નોર્મલ, IRV = એક્સ્ટ્રા શ્વાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રેસિડ્યુઅલ વોલ્યુમ (RV - બાકી રહેલ કદ) એટલે શું? તેની અગત્યતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જોરપૂર્વક ઉચ્છવાસ બાદ પણ ફેફસાંમાં બાકી રહેલા હવાના કદને RV કહે છે (1100-1200 mL). તે ફેફસાંને ક્યારેય પૂરેપૂરા ખાલી થવા દેતું નથી, જેથી વાયુ વિનિમય સતત ચાલુ રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RV = 'R'emaining (બાકી રહેલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વાઈટલ કેપેસીટી (VC - જૈવિક ક્ષમતા) નું સૂત્ર અને વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યક્તિ દ્વારા જોરપૂર્વકના ઉચ્છવાસ બાદ મહત્તમ શ્વાસમાં લઈ શકાતી હવાના કદને VC કહે છે. <br>સૂત્ર: VC = ERV + TV + IRV</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: VC = E + T + I (બધું જ પરાણે શ્વાસ લેવા માટે તૈયાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વાયુકોષ્ઠોમાં વાયુઓના પ્રસરણ દરને અસર કરતા પરિબળો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. વાયુઓનું આંશિક દબાણ (Pressure Gradient), 2. વાયુઓની દ્રાવ્યતા (Solubility), 3. પ્રસરણ સપાટીની જાડાઈ (Thickness of membrane).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Factor: દબાણ, દ્રાવ્યતા અને જાડાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઓક્સિજન (O2) અને કાર્બન ડાયોક્સાઈડ (CO2) ના આંશિક દબાણ (pO2 & pCO2) વાયુકોષ્ઠોમાં કેટલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠોમાં O2 નું આંશિક દબાણ (pO2) 104 mmHg હોય છે અને CO2 નું આંશિક દબાણ (pCO2) 40 mmHg હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુકોષ્ઠ (Alveoli) = 104 (O2) vs 40 (CO2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "CO2 નો પ્રસરણ દર O2 કરતા ઘણો વધારે શા માટે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન ડાયોક્સાઈડ (CO2) ની દ્રાવ્યતા ઓક્સિજન (O2) કરતા 20 થી 25 ગણી વધારે હોય છે, તેથી સમાન દબાણના તફાવતે CO2 નું પ્રસરણ ઝડપથી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 = 'Fast Runner' (20-25 times soluble).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પ્રસરણ દીવાલ (Diffusion Membrane) કયા ત્રણ સ્તરોની બનેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. વાયુકોષ્ઠની પાતળી લાદીસમ અધિચ્છદ, 2. રુધિરકેશિકાનું અંતઃચ્છદ, 3. બંનેની વચ્ચે આવેલું આધારક દ્રવ્ય (Basement substance).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Layers: અધિચ્છદ + આધારક + અંતઃચ્છદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રુધિરમાં ઓક્સિજનનું વહન કયા સ્વરૂપે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશરે 97% ઓક્સિજન રુધિરરસમાં લાલ રક્તકણો (RBC) માં રહેલા હિમોગ્લોબિન સાથે જોડાઈને 'ઓક્સિહિમોગ્લોબિન' સ્વરૂપે વહન પામે છે, જ્યારે બાકીનો 3% રુધિરરસમાં દ્રાવ્ય સ્વરૂપે વહન પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 97% (RBC) + 3% (Plasma).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા પરિબળો ઓક્સિહિમોગ્લોબિન બનવાની પ્રક્રિયાને સાનુકૂળ બનાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુકોષ્ઠો પાસે ઊંચું pO2, નીચું pCO2, ઓછી H+ સાંદ્રતા (વધારે pH) અને નીચું તાપમાન ઓક્સિહિમોગ્લોબિન બનવા માટે સાનુકૂળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ 'ઓછું' (Low CO2, Temp, H+) સિવાય કે O2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાર્બન ડાયોક્સાઈડ (CO2) ના વહનના ત્રણ માર્ગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. રુધિરરસમાં દ્રાવ્ય સ્વરૂપે (7%), 2. કાર્બામિનો-હિમોગ્લોબિન તરીકે (20-25%), 3. બાયકાર્બોનેટ આયન (HCO3-) સ્વરૂપે (70%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7-23-70 રેશિયો યાદ રાખો (Plasma-Hb-Bicarbonate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાર્બોનિક એનહાઈડ્રેઝ (Carbonic Anhydrase) ઉત્સેચકનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> RBC માં આ ઉત્સેચક ઊંચી સાંદ્રતામાં હોય છે. તે CO2 અને H2O વચ્ચે પ્રક્રિયા કરાવી બાયકાર્બોનેટ (HCO3-) અને H+ આયનો બનાવવામાં મદદ કરે છે, જે CO2 ના વહન માટે અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફાસ્ટેસ્ટ ઉત્સેચક: CO2 + H2O → HCO3-</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શ્વસન લય કેન્દ્ર (Respiratory Rhythm Centre) ક્યાં આવેલું છે અને તેનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે મગજના લંબમજ્જા (Medulla) વિસ્તારમાં આવેલું છે. તે મુખ્યત્વે શ્વસન લયને જાળવી રાખવા અને શરીરની જરૂરિયાત મુજબ તેને બદલવા માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Medulla = Master of Rhythm.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "એમ્ફિસેમા (Emphysema) રોગ વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે એક લાંબા ગાળાનો રોગ છે જેમાં વાયુકોષ્ઠોની દીવાલને નુકસાન થાય છે, જેના કારણે શ્વસન સપાટી ઘટે છે. તેનું મુખ્ય કારણ ધૂમ્રપાન (Cigarette smoking) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધૂમ્રપાન = દીવાલ ડેમેજ (Emphysema).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વ્યવસાયિક શ્વસન રોગો (Occupational Respiratory Disorders) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પથ્થર તોડવા કે દળવા જેવા ઉદ્યોગોમાં ઉડતી ધૂળ ફેફસાંમાં જવાથી ફાઈબ્રોસિસ (તંતુમય પેશીઓની વૃદ્ધિ) થાય છે, જે ફેફસાંને ગંભીર નુકસાન કરે છે. દા.ત. સિલિકોસિસ, એસ્બેસ્ટોસિસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડસ્ટ (Dust) + ઇન્ડસ્ટ્રી = ફાઈબ્રોસિસ!</p></div>"
+    }
+  ]
+}

@@ -1256,3 +1256,116 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વનસ્પતિઓમાં શ્વસન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષીય શ્વસન એટલે શું? તેની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષોની અંદર ખોરાક (જટિલ કાર્બનિક પદાર્થો) ના ઓક્સિડેશન દ્વારા રાસાયણિક બંધો તૂટવાથી મુક્ત થતી ઉર્જા અને આ ઉર્જાનો ATP ના સંશ્લેષણમાં ઉપયોગ કરવાની પ્રક્રિયાને કોષીય શ્વસન કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C-H બંધ તોડો + ઉર્જા જોડો = શ્વસન (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વનસ્પતિઓમાં શ્વસન માટે વિશિષ્ટ અંગો કેમ હોતા નથી? (કોઈપણ બે કારણો જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) વનસ્પતિનો દરેક ભાગ પોતાની વાયુ વિનિમયની જરૂરિયાતનું ધ્યાન રાખે છે, તેથી વાયુઓના વહન માટે બહુ ઓછી જરૂરિયાત રહે છે. (2) મૂળ, પ્રકાંડ અને પર્ણોમાં શ્વસનનો દર પ્રાણીઓની તુલનામાં ઘણો ઓછો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આત્મનિર્ભર વનસ્પતિ' - દરેક અંગ પોતાનો ગેસ પોતે સંભાળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગ્લાયકોલિસિસને શા માટે EMP પાથવે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસિસની પ્રક્રિયાની શોધ ત્રણ જર્મન વૈજ્ઞાનિકો ગુસ્તાવ એમ્બડેન (Embden), ઓટ્ટો મેયરહોફ (Meyerhof) અને જે. પર્નાસ (Parnas) દ્વારા કરવામાં આવી હતી. આથી, તેમના નામ પરથી તેને EMP પાથવે કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E + M + P = ત્રણ ભાઈઓનો રસ્તો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગ્લાયકોલિસિસમાં કયા તબક્કે ATP નો વપરાશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસિસમાં બે તબક્કે ATP વપરાય છે: (1) ગ્લુકોઝમાંથી ગ્લુકોઝ-6-ફોસ્ફેટ બનતી વખતે. (2) ફ્રુક્ટોઝ-6-ફોસ્ફેટમાંથી ફ્રુક્ટોઝ-1,6-બાયફોસ્ફેટ બનતી વખતે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોસ્ફોરાઈલેશન = ATP નું રોકાણ (Investment). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગ્લાયકોલિસિસની અંતિમ નીપજ શું છે? તેના કેટલા અણુ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયકોલિસિસની અંતિમ નીપજ પાયરુવિક એસિડ (Pyruvic Acid) છે. એક ગ્લુકોઝ (6-કાર્બન) ના અણુમાંથી પાયરુવિક એસિડ (3-કાર્બન) ના બે અણુઓ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ગ્લુકોઝ = 2 પાયરુવિક એસિડ (6/2=3). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આથવણ (Fermentation) એટલે શું? તેના મુખ્ય પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અજારક પરિસ્થિતિમાં પાયરુવિક એસિડનું અપૂર્ણ ઓક્સિડેશન થવાની પ્રક્રિયાને આથવણ કહે છે. તેના મુખ્ય બે પ્રકાર છે: (1) આલ્કોહોલિક આથવણ (ઈસ્ટમાં) અને (2) લેક્ટિક એસિડ આથવણ (સ્નાયુકોષોમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 વગરનું અધૂરું કામ = આથવણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્નાયુકોષોમાં લેક્ટિક એસિડ ક્યારે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પ્રાણીઓના સ્નાયુકોષોમાં કસરત દરમિયાન ઓક્સિજનની ઉણપ હોય, ત્યારે પાયરુવિક એસિડ લેક્ટિક એસિડમાં રૂપાંતરિત થાય છે. આ પ્રક્રિયા લેક્ટિક ડિહાઈડ્રોજીનેઝ ઉત્સેચક દ્વારા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નાયુમાં દોડતી વખતે O2 ઓછો = થાક (લેક્ટિક એસિડ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લિન્ક રિએક્શન (Link Reaction) અથવા ગેટવે રિએક્શન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયટોપ્લાઝમમાંથી પાયરુવિક એસિડ જ્યારે કણાભસૂત્રના આધારકમાં પ્રવેશ કરે છે, ત્યારે તેનું ઓક્સિડેટિવ ડીકાર્બોક્સિલેશન થઈને એસિટાઈલ Co-A બને છે. આ પ્રક્રિયા ગ્લાયકોલિસિસ અને ક્રેબ્સ ચક્રને જોડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયરુવિક એસિડ + Co-A → એસિટાઈલ Co-A (બ્રીજ પ્રક્રિયા). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "TCA ચક્રનું પ્રથમ સોપાન અને પ્રથમ નીપજ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> TCA ચક્રનું પ્રથમ સોપાન એસિટાઈલ Co-A (2C) નું ઓક્ઝેલો એસિટિક એસિડ (OAA - 4C) અને પાણી સાથેનું સંઘનન છે. આ પ્રક્રિયાથી પ્રથમ નીપજ તરીકે સાઇટ્રિક એસિડ (6C) બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2C (Acetyl) + 4C (OAA) = 6C (Citrate). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "TCA ચક્ર દરમિયાન કયા તબક્કે FADH2 નું નિર્માણ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રેબ્સ ચક્ર (TCA) માં જ્યારે સક્સિનિક એસિડનું રૂપાંતર ફ્યુમેરિક એસિડમાં થાય છે, ત્યારે FAD+ નું રિડક્શન થઈને FADH2 બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Succinate → Fumarate = FADH2 (S-F-F). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ETS (ઈલેક્ટ્રોન ટ્રાન્સપોર્ટ સિસ્ટમ) ક્યાં આવેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈલેક્ટ્રોન ટ્રાન્સપોર્ટ સિસ્ટમ (ETS) કણાભસૂત્રના અંતઃપટલ (Inner Mitochondrial Membrane) માં ગોઠવાયેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણાભસૂત્રનું અંદરનું પડ = ઉર્જાની ફેક્ટરીનું વાયરિંગ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઓક્સિડેટિવ ફોસ્ફોરાઈલેશન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ETS માં ઇલેક્ટ્રોનના વહન દરમિયાન મુક્ત થતી ઉર્જાનો ઉપયોગ કરીને ADP અને અકાર્બનિક ફોસ્ફેટ (Pi) માંથી ATP બનાવવાની પ્રક્રિયાને ઓક્સિડેટિવ ફોસ્ફોરાઈલેશન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 ની હાજરીમાં ATP બનાવવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ETS માં ઓક્સિજનની ભૂમિકા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન શ્વસન શૃંખલાના અંતિમ ભાગમાં હાઈડ્રોજન ગ્રાહક (Final Hydrogen Acceptor) તરીકે કાર્ય કરે છે. તે ઇલેક્ટ્રોન તંત્રમાંથી પ્રોટોન અને ઇલેક્ટ્રોન મેળવીને પાણીનો અણુ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O2 = કચરો (H+) સાફ કરનાર અંતિમ સફાઈ કામદાર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ATP સિન્થેટેઝ (Complex V) ના બે ભાગોના નામ અને કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) F0: તે પટલમાં ખૂંપેલો ભાગ છે જે પ્રોટોન ચેનલ તરીકે કાર્ય કરે છે. (2) F1: તે અંતઃપટલની સપાટી પર ઉપસેલો ભાગ છે, જે ATP ના સંશ્લેષણ માટે ઉદ્દીપક (Enzyme) તરીકે કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F0 = રસ્તો (Channel), F1 = મશીન (ATP Maker). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એમ્ફીબોલિક પાથવે (Amphibolic Pathway) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વસન પથમાં અપચય (Catabolism - તોડવું) અને ચય (Anabolism - બનાવવું) એમ બંને પ્રક્રિયાઓ સંકળાયેલી હોવાથી તેને માત્ર અપચય પથ ન કહેતા 'એમ્ફીબોલિક પાથવે' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોડવું + જોડવું = એમ્ફીબોલિક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શ્વસન આંક (RQ) એટલે શું? તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વસન દરમિયાન મુક્ત થતા CO2 ના કદ અને વપરાતા O2 ના કદના ગુણોત્તરને શ્વસન આંક (Respiratory Quotient) કહે છે. <br>RQ = મુક્ત થયેલ CO2 નું કદ / વપરાયેલ O2 નું કદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RQ = Out (CO2) / In (O2). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાર્બોદિતો માટે RQ નું મૂલ્ય કેટલું હોય છે? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બોદિતો માટે RQ નું મૂલ્ય 1 હોય છે. કારણ કે કાર્બોદિતોના સંપૂર્ણ ઓક્સિડેશન દરમિયાન જેટલા પ્રમાણમાં CO2 મુક્ત થાય છે, તેટલા જ પ્રમાણમાં O2 વપરાય છે (દા.ત., ગ્લુકોઝ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોદિત = સરખે-સરખું (1). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચરબી (Fats) માટે RQ નું મૂલ્ય 1 થી ઓછું કેમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચરબીના અણુઓમાં ઓક્સિજનનું પ્રમાણ ઓછું હોય છે, તેથી તેના ઓક્સિડેશન માટે બહારથી વધુ ઓક્સિજનની જરૂર પડે છે. પરિણામે મુક્ત થતા CO2 કરતા વપરાતો O2 વધુ હોવાથી RQ 1 થી ઓછો (દા.ત., ટ્રાયપાલ્મિટિન માટે 0.7) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચરબી = ઓક્સિજનનો ભૂખ્યો પદાર્થ (RQ < 1). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સાયટોક્રોમ C (Cytochrome c) નું સ્થાન અને કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાયટોક્રોમ C એ કણાભસૂત્રના અંતઃપટલની બહારની સપાટી પર આવેલું નાનું પ્રોટીન છે. તે કોમ્પ્લેક્સ III અને કોમ્પ્લેક્સ IV વચ્ચે ઇલેક્ટ્રોન વહન કરતા ગતિશીલ વાહક (Mobile Carrier) તરીકે કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyto C = કુરિયર બોય (III થી IV સુધી). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જારક શ્વસન અને અજારક શ્વસન વચ્ચેના મુખ્ય બે તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) જારક શ્વસન ઓક્સિજનની હાજરીમાં થાય છે, જ્યારે અજારક ઓક્સિજનની ગેરહાજરીમાં થાય છે. (2) જારક શ્વસનમાં ગ્લુકોઝનું સંપૂર્ણ ઓક્સિડેશન થાય છે અને વધુ ATP બને છે, જ્યારે અજારકમાં અપૂર્ણ ઓક્સિડેશન અને ઓછા ATP બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જારક = ફૂલ ઉર્જા (38 ATP), અજારક = જૂજ ઉર્જા (2 ATP). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઇલેક્ટ્રોન ટ્રાન્સપોર્ટ સિસ્ટમમાં 1 NADH અને 1 FADH2 માંથી કેટલા ATP મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ETS દરમિયાન 1 NADH ના અણુના ઓક્સિડેશનથી 3 ATP ના અણુઓ બને છે, જ્યારે 1 FADH2 ના અણુના ઓક્સિડેશનથી 2 ATP ના અણુઓ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N=3, F=2 (N મોટો છે એટલે 3). (NJ Classes)</p></div>"
+    }
+  ]
+}

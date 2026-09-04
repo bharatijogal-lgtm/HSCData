@@ -573,3 +573,116 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સપુષ્પી વનસ્પતિઓની અંતઃસ્થ રચના",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વર્ધનશીલ પેશી એટલે શું? તેના સ્થાનને આધારે પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પેશીના કોષો સક્રિય રીતે કોષવિભાજન પામવાની ક્ષમતા ધરાવતા હોય તેને વર્ધનશીલ પેશી કહે છે. તેના મુખ્ય ત્રણ પ્રકાર છે: (1) અગ્રસ્થ વર્ધનશીલ પેશી (મૂળ અને પ્રરોહના ટોચના ભાગે), (2) આંતરવિષ્ટ વર્ધનશીલ પેશી (પરિપક્વ પેશીઓની વચ્ચે), (3) પાર્શ્વીય વર્ધનશીલ પેશી (નળાકાર વર્ધનશીલ પેશી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'AAP' યાદ રાખો - A (Apical-અગ્રસ્થ), A (Intercalary-આંતરવિષ્ટ), P (Peripheral/Lateral-પાર્શ્વીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સ્થૂલકોણક પેશીના કોષોના ખૂણાના ભાગે કયા પદાર્થોનું જમાવટ જોવા મળે છે? તેનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થૂલકોણક પેશીના કોષોના ખૂણા પર સેલ્યુલોઝ, હેમીસેલ્યુલોઝ અને પેક્ટિનનું સ્થૂલન જોવા મળે છે. તેનું મુખ્ય કાર્ય વનસ્પતિના કુમળા અંગો જેવા કે તરુણ પ્રકાંડ અને પર્ણદંડને યાંત્રિક મજબૂતી અને નમ્રતા (Flexibility) આપવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'CHP' સ્થૂલન - Cellulose, Hemicellulose, Pectin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દ્રઢોત્તક પેશીના બે પ્રકારો વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રઢોત્તક પેશીના બે પ્રકાર છે: (1) દ્રઢોત્તક તંતુઓ: લાંબા, સાંકડા અને અણીદાર છેડાવાળા હોય છે. (2) અષ્ટિકોષો (Sclereids): તે ગોળાકાર કે નળાકાર હોય છે, તેની કોષદીવાલ અત્યંત જાડી અને કોષાવકાશ સાંકડો હોય છે. તે નાસપતિ જેવા ફળોના ગર ભાગમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંતુ = સોય જેવું લાંબુ, અષ્ટિકોષ = પથ્થર જેવું સખત (Stone cells).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જલવાહક પેશીના ઘટકોના નામ આપી, તેના મુખ્ય કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલવાહક પેશી ચાર ઘટકોની બનેલી છે: (1) જલવાહિનીકી (2) જલવાહિની (3) જલવાહક તંતુઓ અને (4) જલવાહક મૃદુતક. તેનું મુખ્ય કાર્ય મૂળ દ્વારા શોષાયેલ પાણી અને ખનીજ દ્રવ્યોનું પ્રકાંડ અને પર્ણો તરફ વહન કરવાનું તેમજ વનસ્પતિને યાંત્રિક આધાર આપવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T-V-F-P' - Tracheids, Vessels, Fibres, Parenchyma.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અન્નવાહક પેશીના ઘટકો જણાવો. કયા ઘટકો જીવંત હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અન્નવાહક પેશીમાં ચાલની નલિકા, સાથી કોષો, અન્નવાહક મૃદુતક અને અન્નવાહક તંતુઓ હોય છે. આમાંથી અન્નવાહક તંતુઓ મૃત છે, જ્યારે બાકીના ત્રણેય (ચાલની નલિકા, સાથી કોષો અને અન્નવાહક મૃદુતક) જીવંત ઘટકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્નવાહકમાં 'તંતુ' સિવાયના બધા જ 'જીવતા' (Living) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અંતરારંભી (Endarch) અને બહિરારંભી (Exarch) આદિજલવાહક વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) અંતરારંભી: જો આદિજલવાહક (Protoxylem) કેન્દ્ર તરફ અને અનુજલવાહક (Metaxylem) પરિઘ તરફ હોય તો તેને અંતરારંભી કહેવાય (દા.ત. પ્રકાંડ). (2) બહિરારંભી: જો આદિજલવાહક પરિઘ તરફ અને અનુજલવાહક કેન્દ્ર તરફ હોય તો તેને બહિરારંભી કહેવાય (દા.ત. મૂળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S-E' (Stem-Endarch) અને 'R-E' (Root-Exarch).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સાથી કોષોનું મહત્ત્વનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાથી કોષો વિશિષ્ટ મૃદુતક કોષો છે જે ચાલની નલિકા સાથે સંકળાયેલા હોય છે. ચાલની નલિકાના કોષોમાં કોષકેન્દ્ર હોતું નથી, તેથી સાથી કોષોનું કોષકેન્દ્ર ચાલની નલિકાના કાર્યોનું નિયંત્રણ કરે છે અને ચાલની નલિકામાં દાબ-ઢોળાવ (Pressure gradient) જાળવી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથી એટલે 'Best Friend' જે બીજાના (ચાલની નલિકાના) ઘરનું સંચાલન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રક્ષક કોષોના આકાર વિશે દ્વિદળી અને એકદળી વનસ્પતિમાં તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિદળી વનસ્પતિમાં પર્ણરંધ્રના રક્ષક કોષો વાલના દાણા (Kidney shaped) જેવા હોય છે. જ્યારે ઘાસ (એકદળી) જેવી વનસ્પતિઓમાં રક્ષક કોષો ડમ્બેલ (Dumbbell shaped) આકારના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી = બીન (Bean), એકદળી = જીમ (Dumbbell).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અધિસ્તરીય રોમ (Trichomes) અને મૂળરોમ વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળરોમ એ મૂળના અધિસ્તરના એકકોષીય લંબાયેલા ભાગો છે જે પાણીનું શોષણ કરે છે. જ્યારે પ્રકાંડ રોમ (Trichomes) પ્રકાંડના અધિસ્તર પર જોવા મળે છે, તે સામાન્ય રીતે બહુકોષીય, શાખિત કે અશાખિત હોય છે અને બાષ્પોત્સર્જન દ્વારા થતો પાણીનો વ્યય અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળરોમ = Single (એકકોષી), પ્રકાંડ રોમ = Multi (બહુકોષી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વ્યાખ્યા આપો: (1) વર્ધમાન પુલ (Open Vascular Bundle) (2) અવર્ધમાન પુલ (Closed Vascular Bundle).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) વર્ધમાન પુલ: જે વાહીપુલમાં જલવાહક અને અન્નવાહકની વચ્ચે એધા (Cambium) આવેલી હોય, તેને વર્ધમાન પુલ કહેવાય (દ્વિદળી પ્રકાંડ). (2) અવર્ધમાન પુલ: જે વાહીપુલમાં એધા ગેરહાજર હોય, તેને અવર્ધમાન પુલ કહેવાય (એકદળી પ્રકાંડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એધા છે તો બારણું 'Open' છે (દ્વિદળી), એધા નથી તો બારણું 'Closed' છે (એકદળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અરીય (Radial) અને સંયુક્ત (Conjoint) વાહીપુલ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) અરીય: જ્યારે જલવાહક અને અન્નવાહક જુદી જુદી ત્રિજ્યા પર એકાંતરે ગોઠવાયેલા હોય તેને અરીય વાહીપુલ કહે છે (મૂળ). (2) સંયુક્ત: જ્યારે જલવાહક અને અન્નવાહક એક જ ત્રિજ્યા પર ગોઠવાયેલા હોય તેને સંયુક્ત વાહીપુલ કહે છે (પ્રકાંડ અને પર્ણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Radius અલગ = Radial (Root), Joint = Conjoint (Stem).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કેસ્પેરિયન પટ્ટીકા એટલે શું? તે ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળના અંતઃસ્તરના કોષોની સ્પર્શરેખીય તેમજ અરીય દીવાલ પર પાણી માટે અપ્રવેશશીલ એવા મીણ જેવા પદાર્થ 'સુબેરીન'નું સ્થૂલન પટ્ટી સ્વરૂપે જોવા મળે છે, જેને કેસ્પેરિયન પટ્ટીકા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેસ્પેરિયન = સુબેરીનનો 'Waterproof' પટ્ટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પરિચક્ર (Pericycle) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિદળી મૂળમાં પરિચક્રના કોષોમાંથી દ્વિતીય વૃદ્ધિ દરમિયાન પાર્શ્વીય મૂળ (Lateral roots) અને વાહક એધાના ભાગો ઉત્પન્ન થાય છે. તે વાહીપુલની બહારની તરફ અને અંતઃસ્તરની અંદરની તરફ આવેલું સ્તર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિચક્ર = પાર્શ્વીય મૂળનું 'જન્મસ્થળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દ્વિદળી મૂળ અને એકદળી મૂળ વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) દ્વિદળી મૂળમાં જલવાહક જૂથોની સંખ્યા ઓછી (2 થી 4) હોય છે, જ્યારે એકદળી મૂળમાં જલવાહક જૂથોની સંખ્યા વધુ (6 થી વધુ - બહુસૂત્રી) હોય છે. (2) દ્વિદળી મૂળમાં મજ્જા (Pith) અલ્પવિકસિત હોય છે, જ્યારે એકદળી મૂળમાં મજ્જા મોટી અને સુવિકસિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી મૂળ = 'Poly-Pith' (Polyarach અને Big Pith).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દ્વિદળી પ્રકાંડમાં વાહીપુલની ગોઠવણીની લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિદળી પ્રકાંડમાં વાહીપુલો મજ્જાની આસપાસ 'વલય' (Ring) આકારે ગોઠવાયેલા હોય છે. દરેક વાહીપુલ સંયુક્ત, અંતરારંભી અને વર્ધમાન (Open) પ્રકારના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી પ્રકાંડ = 'Ring arrangements'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "એકદળી પ્રકાંડમાં અધસ્તર (Hypodermis) અને વાહીપુલ કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકદળી પ્રકાંડમાં અધસ્તર 'દ્રઢોત્તક' પેશીનું બનેલું હોય છે. વાહીપુલો મોટી સંખ્યામાં ગ્રાઉન્ડ ટિશ્યુમાં વિખરાયેલા (Scattered) હોય છે. પરિઘ તરફના વાહીપુલો નાના અને કેન્દ્ર તરફના વાહીપુલો મોટા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી પ્રકાંડ = 'Scattered' (વિખરાયેલા) વાહીપુલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પૃષ્ઠવક્ષીય (Dorsiventral) પર્ણમાં મધ્યપર્ણ પેશીનું વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિદળી પર્ણમાં મધ્યપર્ણ પેશી બે ભાગમાં વિભેદિત હોય છે: (1) લંબોત્તક મૃદુતક: ઉપરી અધિસ્તરની નીચે આવેલું, લાંબા કોષોનું બનેલું સ્તર. (2) શિથિલોત્તક મૃદુતક: લંબોત્તકની નીચે અને અધઃ અધિસ્તર સુધી ફેલાયેલું, ગોળાકાર અને મોટા વાયુકોષો ધરાવતી પેશી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી પર્ણ = 'Different' (લંબોત્તક + શિથિલોત્તક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભેજગ્રાહી કોષો (Bulliform cells) એટલે શું? તેનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાસ જેવા એકદળી પર્ણોમાં ઉપરી અધિસ્તરના કેટલાક કોષો મોટા, ખાલી અને રંગહીન બને છે, જેને ભેજગ્રાહી કોષો કહે છે. જ્યારે આ કોષો આશૂન (Turgid) હોય ત્યારે પર્ણ ખુલે છે, અને પાણીની તણાવવાળી સ્થિતિમાં તે શિથિલ (Flaccid) થતા પર્ણ વળી જાય છે જેથી બાષ્પોત્સર્જન ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bulliform = 'Bubble' જેવા કોષો જે પર્ણને રોલ (Roll) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એકદળી પર્ણ (સમદ્વિપાર્શ્વ) ની મુખ્ય લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પર્ણરંધ્રો બંને અધિસ્તર પર લગભગ સમાન સંખ્યામાં હોય છે. (2) મધ્યપર્ણ પેશી લંબોત્તક અને શિથિલોત્તકમાં વિભેદિત હોતી નથી (બધા કોષો સમાન હોય છે). (3) વાહીપુલ સમાંતર શિરાવિન્યાસને કારણે સમાન કદના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી પર્ણ = 'Equal' (બંને બાજુ સમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વાહીપુલની આસપાસ આવેલ 'પુલકંચૂક' (Bundle sheath) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્ણમાં વાહીપુલોની આસપાસ જાડી દીવાલવાળા મૃદુતક કોષોનું એક સ્તર આવેલું હોય છે, જેને પુલકંચૂક કહે છે. તે વાહીપુલને રક્ષણ આપે છે અને વાહક પેશીઓ સાથે દ્રવ્યોની આપ-લેમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુલકંચૂક = વાહીપુલનું 'Security Guard' જેવું સ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જલવાહક મૃદુતક (Xylem Parenchyma) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલવાહક મૃદુતક એ જલવાહક પેશીનો એકમાત્ર જીવંત ઘટક છે. તેનું કાર્ય ખોરાકનો સંગ્રહ (સ્ટાર્ચ કે ચરબી સ્વરૂપે) કરવાનું અને ટેનિન જેવા પદાર્થોનો સંગ્રહ કરવાનું છે. તે પાણીના અરીય (Radial) વહનમાં પણ મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહકમાં 'જીવતું' હોય તો તે માત્ર મૃદુતક (Parenchyma) છે.</p></div>"
+    }
+  ]
+}

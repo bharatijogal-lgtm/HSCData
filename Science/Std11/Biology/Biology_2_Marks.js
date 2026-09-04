@@ -1138,3 +1138,121 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઉચ્ચ કક્ષાની વનસ્પતિઓમાં પ્રકાશસંશ્લેષણ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો (2 ગુણ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જોસેફ પ્રિસ્ટલીએ બેલ જારના પ્રયોગ દ્વારા શું સાબિત કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રિસ્ટલીએ સાબિત કર્યું કે પ્રાણીઓના શ્વસન અને મીણબત્તીના સળગવાથી જે હવા અશુદ્ધ (દૂષિત) થાય છે, તેને લીલી વનસ્પતિ શુદ્ધ કરે છે. તેમણે ફુદીનાના છોડનો ઉપયોગ કરીને બતાવ્યું કે વનસ્પતિ હવામાં ઓક્સિજન (O2) મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' for Priestley, 'P' for Purification of air (and Mint Plant).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જાન ઇન્ગેનહાઉસનો પ્રકાશસંશ્લેષણના સંશોધનમાં ફાળો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમણે દર્શાવ્યું કે પ્રકાશસંશ્લેષણ માટે સૂર્યપ્રકાશ અનિવાર્ય છે. તેમણે જલીય વનસ્પતિ (Hydrilla) પર પ્રયોગ કરી સાબિત કર્યું કે માત્ર વનસ્પતિના લીલા ભાગો જ સૂર્યપ્રકાશની હાજરીમાં ઓક્સિજનના પરપોટા મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્ગેનહાઉસ = 'In-the-light' (માત્ર પ્રકાશમાં જ પરપોટા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ટી. ડબલ્યુ. એન્ગેલમેનનો પ્રયોગ અને તેના તારણો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમણે ક્લેડોફોરા લીલ પર પ્રિઝમ દ્વારા વિભાજિત પ્રકાશ ફેંક્યો. તેમણે જોયું કે જારક બેક્ટેરિયા મુખ્યત્વે વાદળી અને લાલ પ્રકાશના વિસ્તારમાં એકત્રિત થયા હતા. આ પ્રથમ સક્રિયતા વર્ણપટ (Action Spectrum) હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ગેલમેન = 'Angle' (પ્રિઝમનો ખૂણો) + 'Blue-Red' (BR).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોર્નેલિયસ વાન નીલના પ્રયોગનું મહત્વનું તારણ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમણે સાબિત કર્યું કે પ્રકાશસંશ્લેષણમાં મુક્ત થતો ઓક્સિજન (O2) પાણી (H2O) માંથી આવે છે, કાર્બન ડાયોક્સાઈડ (CO2) માંથી નહીં. તેમણે જાંબલી અને લીલા સલ્ફર બેક્ટેરિયાનો ઉપયોગ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીલ = 'Nil' CO2 for O2 (O2 પાણીમાંથી, CO2 માંથી નીલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હરિતકણના કયા ભાગમાં કઈ પ્રક્રિયા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ગ્રાના (થાઇલેકોઇડ): અહીં પ્રકાશ પ્રક્રિયા (Light Reaction) થાય છે જેમાં ATP અને NADPH2 બને છે. (2) સ્ટ્રોમા (આધારક): અહીં અંધકાર પ્રક્રિયા (Dark Reaction) થાય છે જેમાં CO2 માંથી શર્કરાનું સંશ્લેષણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' for Light in 'L'amella/Grana; 'S' for Sugar in 'S'troma.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સહાયક રંજકદ્રવ્યો કોને કહેવાય? તેના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્લોરોફિલ-a સિવાયના રંજકદ્રવ્યો જેમ કે ક્લોરોફિલ-b, ઝેન્થોફિલ અને કેરોટીનોઈડ્સને સહાયક રંજકદ્રવ્યો કહે છે. કાર્ય: (1) વિવિધ તરંગલંબાઈનો પ્રકાશ શોષી ક્લોરોફિલ-a ને આપે છે. (2) ક્લોરોફિલ-a ને ફોટો-ઓક્સિડેશનથી બચાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Bodyguards' of Chlorophyll-a.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પ્રકાશ પ્રક્રિયાના મુખ્ય તબક્કાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાશ પ્રક્રિયા (Light Harvesting) માં ચાર મુખ્ય ઘટનાઓ બને છે: (1) પ્રકાશનું શોષણ, (2) પાણીનું પ્રકાશ-વિભાજન (Photolysis), (3) ઓક્સિજનની મુક્તિ, અને (4) રાસાયણિક શક્તિ ATP અને NADPH નું નિર્માણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-W-O-P (Absorption, Water split, Oxygen release, Power production).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "LHC (Light Harvesting Complex) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PS-I અને PS-II માં સેંકડો રંજકદ્રવ્યો પ્રોટીન સાથે જોડાઈને એન્ટેના (Antennae) બનાવે છે, જેને LHC કહે છે. તે પ્રકાશને શોષી પ્રક્રિયા કેન્દ્ર (Reaction Centre) તરફ મોકલે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LHC = એન્ટેના જે પ્રકાશને પકડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાણીનું પ્રકાશ-વિભાજન (Photolysis of Water) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PS-II માં ઇલેક્ટ્રોનની અછત પૂરી કરવા માટે પાણીનું વિભાજન થાય છે: 2H2O → 4H+ + O2 + 4e-. આ પ્રક્રિયા થાઇલેકોઇડના પોલાણ (Lumen) ની અંદરની બાજુએ થાય છે અને તેના માટે Mn2+ અને Cl- આયનો જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી તૂટે તો જ O2 છૂટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચક્રિય ફોટોફોસ્ફોરાયલેશન ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે માત્ર 680 nm થી વધુ તરંગલંબાઈનો પ્રકાશ ઉપલબ્ધ હોય અથવા જ્યારે NADP રીડક્ટઝ ઉત્સેચક ગેરહાજર હોય ત્યારે સ્ટ્રોમા લેમેલીમાં આ પ્રક્રિયા થાય છે. આમાં માત્ર PS-I ભાગ લે છે અને માત્ર ATP બને છે (NADPH બનતું નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C'yclic = 'C'ircular (PS-I to PS-I) + Only ATP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કેમિયોસ્મોટિક સિદ્ધાંત મુજબ પ્રોટોન ઢોળાંશ ક્યાં અને કેવી રીતે સર્જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટોન (H+) થાઇલેકોઇડના પોલાણ (Lumen) માં જમા થાય છે. કારણો: (1) પાણીનું વિભાજન અંદરની બાજુએ થાય છે. (2) સાયટોક્રોમ ઇલેક્ટ્રોન વહન વખતે પ્રોટોનને બહારથી અંદર પંપ કરે છે. (3) NADPH બનાવવા માટે બહાર (સ્ટ્રોમા) માંથી H+ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટોનનું 'જેલ' એટલે લ્યુમેન (Lumen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ATP સિન્થેટેઝ (CF0-CF1) ના ભાગો અને કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CF0 એ થાઇલેકોઇડ પટલમાં ખૂંપેલો ભાગ છે જે પ્રોટોન વહનનો માર્ગ બનાવે છે. CF1 એ બહાર ઉપસેલો ભાગ છે જે પ્રોટોન ઢોળાંશ તૂટવાથી મુક્ત થતી શક્તિની મદદથી ADP માંથી ATP બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CF0 = રસ્તો, CF1 = ફેક્ટરી (ATP બનાવવાની).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પ્રકાશસંશ્લેષણની 'અંધકાર પ્રક્રિયા' નામ ભ્રામક કેમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંધકાર પ્રક્રિયા સીધી રીતે પ્રકાશ પર નિર્ભર નથી, પરંતુ તે પ્રકાશ પ્રક્રિયાની નીપજો (ATP અને NADPH) પર નિર્ભર છે. જો પ્રકાશ લાંબો સમય ન મળે તો આ પ્રક્રિયા પણ અટકી જાય છે, તેથી તેને 'અંધકારમાં જ થતી પ્રક્રિયા' કહેવી ખોટું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધકાર પ્રક્રિયા = પ્રકાશ પ્રક્રિયાનો પડછાયો (પડછાયો પ્રકાશ હોય તો જ હોય!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "C3 ચક્રમાં કાર્બોક્સિલેશન તબક્કો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ સૌથી મહત્વનો તબક્કો છે. તેમાં RuBP (5-C) અને CO2 જોડાઈને 3-PGA (3-C) ના બે અણુ બનાવે છે. આ પ્રક્રિયા 'RuBisCO' ઉત્સેચક દ્વારા ઉદ્દીપ્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RuBP + CO2 = 2 x 3PGA (C3 ની શરૂઆત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કેલ્વિન ચક્રમાં એક ગ્લુકોઝ બનાવવા માટે કેટલા ATP અને NADPH વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક CO2 ના સ્થાપન માટે 3 ATP અને 2 NADPH વપરાય છે. ગ્લુકોઝના એક અણુ (6-C) ના નિર્માણ માટે ચક્ર 6 વાર ફરશે. કુલ વપરાશ: 18 ATP અને 12 NADPH.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3:2 રેશિયો (3 ATP : 2 NADPH) x 6 = 18:12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ક્રાન્ઝ પેશી સંરચના (Kranz Anatomy) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C4 વનસ્પતિઓમાં (મકાઈ, શેરડી) વાહીપુલની આસપાસ મોટા કોષોના અનેક સ્તરો હોય છે, જેને પૂલકંચુક (Bundle Sheath) કોષો કહે છે. તેની ગોઠવણી માળા જેવી હોવાથી તેને 'ક્રાન્ઝ' (Kranz = માળા) પેશી સંરચના કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 = માળા જેવી સંરચના (Kranz).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "C4 વનસ્પતિઓમાં CO2 નો પ્રાથમિક ગ્રાહક અને પ્રથમ સ્થાયી નીપજ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO2 નો પ્રાથમિક ગ્રાહક મધ્યપર્ણ કોષોમાં આવેલો 3-કાર્બનયુક્ત 'PEP' (ફોસ્ફોઇનોલ પાયરુવેટ) છે. તેની પ્રથમ સ્થાયી નીપજ 4-કાર્બનયુક્ત 'OAA' (ઓક્ઝેલો એસેટિક એસિડ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PEP (ગ્રાહક) → OAA (નીપજ) = C4 Path.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પ્રકાશ શ્વસન (Photorespiration) વનસ્પતિ માટે નુકસાનકારક કેમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે આ પ્રક્રિયામાં શર્કરા કે ATP નું સંશ્લેષણ થતું નથી. ઉલટું, તે ATP વાપરે છે અને કાર્બન (CO2) ગુમાવે છે. આ પ્રક્રિયા RuBisCO દ્વારા CO2 ને બદલે O2 સાથે જોડાવાથી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Photorespiration = વેસ્ટફુલ (ATP જાય, CO2 જાય, કંઈ મળે નહીં!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બ્લેકમેનનો 'ન્યુનતમ કારકોનો નિયમ' (Law of Limiting Factors) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પ્રક્રિયા એક કરતા વધુ કારકો દ્વારા પ્રભાવિત થતી હોય, ત્યારે પ્રક્રિયાનો દર એવા કારક દ્વારા નક્કી થાય છે જે તેના ન્યુનતમ (ઓછામાં ઓછા) મૂલ્ય પર હોય. તેને મર્યાદિત કારક કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી ધીમું હોય તે જ ઝડપ નક્કી કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "CO2 ની સાંદ્રતા પ્રકાશસંશ્લેષણ પર કેવી રીતે અસર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં CO2 નું પ્રમાણ ઓછું (0.03 - 0.04%) હોવાથી તે મુખ્ય મર્યાદિત કારક છે. 0.05% સુધી વધારાથી દરમાં વધારો થાય છે. C3 વનસ્પતિઓ ઊંચી CO2 સાંદ્રતામાં વધુ પ્રતિભાવ આપે છે (ગ્રીનહાઉસ પાકો માટે ફાયદાકારક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C3 ને 'વધારે' CO2 ગમે, C4 તો ઓછામાં પણ ચલાવી લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શા માટે C4 વનસ્પતિઓ C3 કરતા વધુ કાર્યક્ષમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) C4 વનસ્પતિઓમાં પ્રકાશ શ્વસન (Photorespiration) થતું નથી. (2) તેઓ વધુ તાપમાન અને વધુ પ્રકાશની તીવ્રતા સહન કરી શકે છે. (3) તેઓ CO2 નો અસરકારક ઉપયોગ કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C4 = No Photorespiration = High Profit.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તાપમાન પ્રકાશસંશ્લેષણના કયા તબક્કાને વધુ અસર કરે છે અને કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન અંધકાર પ્રક્રિયા (Dark Reaction) ને વધુ અસર કરે છે કારણ કે તે ઉત્સેચકીય પ્રક્રિયા છે. C4 વનસ્પતિઓ ઊંચા તાપમાને (30-40°C) અને C3 વનસ્પતિઓ નીચા તાપમાને (20-25°C) અનુકૂલિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ઝાઇમ (Enzymes) = તાપમાનના સેન્સિટિવ મિત્રો.</p></div>"
+    }
+  ]
+}

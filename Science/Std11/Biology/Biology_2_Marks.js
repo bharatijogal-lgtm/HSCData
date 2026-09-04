@@ -686,3 +686,111 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાણીઓમાં રચનાકીય આયોજન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પેશી એટલે શું? તેના મુખ્ય ચાર પ્રકારોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષોનો એવો સમૂહ કે જે ઉત્પત્તિ અને કાર્યની દ્રષ્ટિએ સમાન હોય અને આંતરકોષીય દ્રવ્યો સાથે ચોક્કસ કાર્ય કરે તેને પેશી કહેવાય. પ્રાણીઓમાં મુખ્ય ચાર પ્રકારની પેશીઓ જોવા મળે છે: (1) અધિચ્છદીય પેશી (2) સંયોજક પેશી (3) સ્નાયુ પેશી (4) ચેતા પેશી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-TricK: 'અ-સં-સ્ના-ચે' (અધિચ્છદીય, સંયોજક, સ્નાયુ, ચેતા). બસ આ ચાર પાયાના પથ્થર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લાદીસમ અધિચ્છદ પેશીની રચના અને સ્થાન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પેશી ચપટા કોષોના એક સ્તરની બનેલી હોય છે અને તેની કિનારીઓ અનિયમિત હોય છે. તે રુધિરવાહિનીઓની દીવાલ અને ફેફસાના વાયુકોષ્ઠોમાં જોવા મળે છે. તેનું મુખ્ય કાર્ય પ્રસરણ સીમા તરીકેનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'લાદી' એટલે ઘરમાં નીચે લગાવવાની ટાઇલ્સ - જે ચપટી હોય! 'પ્રસરણ' માટે ચપટી સપાટી બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઘનાકાર અધિચ્છદ પેશી વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પેશી ઘન જેવા (ક્યુબિકલ) કોષોના એક સ્તરની બનેલી હોય છે. તે સામાન્ય રીતે ગ્રંથિઓની નલિકાઓ અને મૂત્રપિંડ નલિકાના નળી જેવા ભાગોમાં જોવા મળે છે. તેનું મુખ્ય કાર્ય સ્ત્રાવ અને શોષણ કરવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'ઘન' એટલે 'પાસો' (Dice). પાસા જેવી પેશી ક્યાં હોય? મૂત્રપિંડની 'નળી'માં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સ્તંભાકાર અધિચ્છદ પેશીની લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પેશી લાંબા અને પાતળા કોષોના એક સ્તરની બનેલી હોય છે. તેના કોષકેન્દ્ર તલસ્થ ભાગમાં (નીચેના ભાગમાં) હોય છે. તેની મુક્ત સપાટી પર સૂક્ષ્મ રસાંકુરો હોઈ શકે છે. તે જઠર અને આંતરડાના અસ્તરમાં જોવા મળે છે અને સ્ત્રાવ તથા શોષણમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'સ્તંભ' એટલે થાંભલો. થાંભલા જેવી લાંબી પેશી જઠર અને આંતરડામાં ખોરાક પચાવવા ઉભી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પક્ષ્મલ અધિચ્છદ પેશીનું કાર્ય અને સ્થાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે સ્તંભાકાર કે ઘનાકાર કોષોની મુક્ત સપાટી પર પક્ષ્મો (Cilia) જોવા મળે, ત્યારે તેને પક્ષ્મલ અધિચ્છદ કહે છે. તે કણો અથવા શ્લેષ્મને ચોક્કસ દિશામાં ધકેલવાનું કાર્ય કરે છે. ઉદાહરણ: શ્વાસવાહિનીઓ અને અંડવાહિની.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: પક્ષ્મો એટલે 'સાવરણી'. ગંદકી કે અંડકોષને સાવરણીની જેમ વાળવા માટે પક્ષ્મલ પેશી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બહિઃસ્ત્રાવી અને અંતઃસ્ત્રાવી ગ્રંથિઓ વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. બહિઃસ્ત્રાવી ગ્રંથિઓ: તે નલિકા મારફતે સ્ત્રાવ કરે છે (દા.ત. લાળ ગ્રંથિ, તેલ ગ્રંથિ). 2. અંતઃસ્ત્રાવી ગ્રંથિઓ: તેઓ નલિકા વિહીન હોય છે અને તેમના સ્ત્રાવ (હોર્મોન્સ) સીધા રુધિરમાં ઠાલવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'બહાર' એટલે 'નળી' દ્વારા, 'અંદર' એટલે 'નળી વગર' સીધું લોહીમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કોષીય જોડાણોના પ્રકારો અને તેમના કાર્યો ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. દ્રઢ જોડાણ (Tight Junctions): પદાર્થોને પેશીની બહાર નીકળતા અટકાવે છે. 2. અભિલગ્ન જોડાણ (Adhering Junctions): પડોશી કોષોને એકબીજા સાથે જોડી રાખે છે. 3. અંતરાલીય જોડાણ (Gap Junctions): કોષો વચ્ચે આયનો અને અણુઓના વહન માટે માર્ગ પૂરો પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: Tight = Leakage Stop, Adhering = Fevicol (જોડાણ), Gap = WhatsApp (સંદેશા વ્યવહાર/આપ-લે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શિથિલ સંયોજક પેશી તરીકે તંતુઘટક પેશી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંતુઘટક પેશી ત્વચાની નીચે આવેલી હોય છે. તે અધિચ્છદ પેશી માટે આધારભૂત માળખું બનાવે છે. તેમાં તંતુકોષો (Fibroblasts), બૃહદકોષો (Macrophages) અને માસ્ટ કોષો (Mast cells) જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'શિથિલ' એટલે ઢીલું. ત્વચાની નીચેનું ઢીલું પેકિંગ એટલે તંતુઘટક પેશી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મેદપૂર્ણ પેશીનું સ્થાન અને કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પેશી પણ મુખ્યત્વે ત્વચાની નીચે આવેલી હોય છે. તે ચરબી (મેદ) ના સંગ્રહ માટે વિશિષ્ટ પામેલી છે. વધારાના પોષક તત્ત્વો જેનો તરત ઉપયોગ થતો નથી, તે આ પેશીમાં મેદ સ્વરૂપે રૂપાંતરિત થઈ સંગ્રહાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: મેદ = Fat. શરીરનું 'ચરબીનું ગોદામ' એટલે મેદપૂર્ણ પેશી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્નાયુબંધ (Tendon) અને અસ્થિબંધ (Ligament) વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્નાયુબંધ એ સઘન નિયમિત સંયોજક પેશી છે જે કંકાલ સ્નાયુઓને અસ્થિ (હાડકા) સાથે જોડે છે. જ્યારે અસ્થિબંધ એ એક અસ્થિને બીજા અસ્થિ સાથે જોડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'M-T-B' (Muscle-Tendon-Bone) અને 'B-L-B' (Bone-Ligament-Bone). લાઈફટાઈમ યાદ રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાસ્થિ (Cartilage) ની રચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાસ્થિનું આંતરકોષીય દ્રવ્ય કઠણ અને સ્થિતિસ્થાપક હોય છે, જે દબાણ સામે પ્રતિરોધ કરી શકે છે. તેના કોષો (કાસ્થિકોષો) પોલાણમાં જોડીમાં કે સમૂહમાં આવેલા હોય છે. ઉદાહરણ: નાકનું ટેરવું, બાહ્ય કર્ણપલ્લવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: કાસ્થિ એટલે 'કાચું હાડકું' - વાળી શકાય તેવું મજબૂત દ્રવ્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કંકાલ સ્નાયુ પેશીના લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંકાલ સ્નાયુઓ અસ્થિઓ સાથે જોડાયેલા હોય છે. તે રેખિત (Striated) દેખાય છે કારણ કે તેમાં આડી પટ્ટીઓ હોય છે. આ સ્નાયુઓ 'ઐચ્છિક' છે, એટલે કે આપણે આપણી ઈચ્છા મુજબ તેમને હલાવી શકીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: કંકાલ સ્નાયુ = 'જીમવાળા સ્નાયુ'. પટ્ટાવાળા અને આપણી મરજી મુજબ કામ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હૃદ સ્નાયુ પેશીની વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદ સ્નાયુ પેશી માત્ર હૃદયમાં જ જોવા મળે છે. તે અનૈચ્છિક છે. તેના કોષો શાખિત હોય છે અને કોષો વચ્ચે 'અધિબિંબ' (Intercalated discs) જોવા મળે છે, જે બધા કોષોને એકસાથે સંકોચન પામવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'અધિબિંબ' એટલે હૃદયના કોષો વચ્ચેનું 'વાઈ-ફાઈ' જે બધાને એકસાથે ધબકવા માટે સિગ્નલ આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દેડકાની બાહ્ય રચનામાં ત્વચાની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકાની ત્વચા ચીકણી અને ભીની હોય છે કારણ કે તેમાં શ્લેષ્મ ગ્રંથિઓ હોય છે. તે ક્યારેય પાણી પીતો નથી પણ ત્વચા દ્વારા શોષણ કરે છે. ઉપરની સપાટી ઓલિવ ગ્રીન અને નીચેની સપાટી આછી પીળી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: દેડકો 'Skin-Lover' છે! શ્વાસ પણ ત્વચાથી લે અને પાણી પણ ત્વચાથી પીએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નર દેડકા અને માદા દેડકાને કેવી રીતે અલગ ઓળખી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર દેડકા પાસે અવાજ ઉત્પન્ન કરવા માટે ગળાના ભાગે 'સ્વરકોથળી' (Vocal sacs) હોય છે. આ ઉપરાંત, નર દેડકાના અગ્રઉપાંગની પ્રથમ આંગળી પર 'મૈથુન અંગ' (Copulatory pad) આવેલું હોય છે, જે માદામાં હોતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'ગાયક' અને 'પેડ' - જે અવાજ કરે અને જેના હાથમાં પેડ હોય એ નર દેડકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દેડકાનું પાચનતંત્ર ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકો માંસાહારી હોવાથી તેનું આંતરડું ટૂંકું હોય છે. તેની જીભ દ્વિશાખિત (Bifid) હોય છે જે શિકાર પકડવા વપરાય છે. પાચન જઠરમાં HCl અને જઠરરસ દ્વારા શરૂ થાય છે અને અંતિમ પાચન તથા શોષણ આંતરડામાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: માંસાહારી = ટૂંકું આંતરડું. (યાદ રાખો: ઘાસ ખાનારાનું લાંબુ, માંસ ખાનારાનું ટૂંકું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દેડકામાં શ્વસન પદ્ધતિઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકામાં બે પ્રકારનું શ્વસન થાય છે: (1) ત્વચીય શ્વસન: પાણીમાં હોય ત્યારે ભેજવાળી ત્વચા દ્વારા. (2) ફુપ્ફુસીય શ્વસન: જમીન પર હોય ત્યારે ફેફસાં દ્વારા. આ ઉપરાંત મુખગુહા પણ શ્વસનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: પાણીમાં 'Skin', જમીન પર 'Lungs'. હાઈબ્રિડ એન્જિન જેવી સિસ્ટમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દેડકાના હૃદયની રચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકાનું હૃદય ત્રિખંડી હોય છે, જેમાં બે કર્ણકો અને એક ક્ષેપક હોય છે. હૃદયની ફરતે હૃદાવરણ (Pericardium) હોય છે. જમણા કર્ણક સાથે શિરાકોટર (Sinus venosus) જોડાયેલ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 2-1 = 3 (2 કર્ણક, 1 ક્ષેપક). માનવીમાં 4 હોય, દેડકામાં 3!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દેડકાનું ઉત્સર્જનતંત્ર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકામાં એક જોડ મૂત્રપિંડ, મૂત્રવાહિની અને મૂત્રાશય આવેલા હોય છે. તે મુખ્યત્વે યુરિયાનો ત્યાગ કરે છે, તેથી તેને 'યુરિયોટેલિક' (Ureotelic) પ્રાણી કહેવામાં આવે છે. ઉત્સર્ગ દ્રવ્યો અવસારણી (Cloaca) દ્વારા બહાર નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: દેડકો = યુરિયા પ્રેમી (Ureotelic). બધું જ 'અવસારણી' નામના એક જ દરવાજાથી બહાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દેડકામાં પ્રજનન અને વિકાસ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકામાં બાહ્ય ફલન પાણીમાં થાય છે. માદા એકસાથે 2500 થી 3000 ઈંડા મૂકે છે. તેનો વિકાસ પરોક્ષ છે, જેમાં 'ટેડપોલ' (Tadpole) અવસ્થા જોવા મળે છે. ટેડપોલ રૂપાંતરણ (Metamorphosis) પામી પુખ્ત દેડકો બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Trick: 'ટેડપોલ' એટલે દેડકાનું બાલમંદિર! માછલી જેવો દેખાય પણ મોટો થઈ દેડકો બને.</p></div>"
+    }
+  ]
+}

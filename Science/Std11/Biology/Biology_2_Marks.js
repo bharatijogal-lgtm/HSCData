@@ -794,3 +794,111 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કોષ: જીવનનો એકમ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષવાદના ફેરફારમાં રૂડોલ્ફ વિર્ચોનો ફાળો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લેડન અને શ્વાન દ્વારા અપાયેલ કોષવાદ એ સમજાવવામાં નિષ્ફળ રહ્યો હતો કે નવા કોષોનું નિર્માણ કેવી રીતે થાય છે. 1855 માં રૂડોલ્ફ વિર્ચોએ પ્રથમ વખત સમજાવ્યું કે કોષો વિભાજન પામે છે અને નવા કોષોનું નિર્માણ પૂર્વ અસ્તિત્વ ધરાવતા કોષોમાંથી થાય છે (Omnis cellula-e cellula).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'V' for Virchow = 'V' for Vitality (નવા કોષોની જીવંતતા પૂર્વ કોષોમાંથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોષના કદમાં જોવા મળતી વિવિધતાના ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. માયકોપ્લાઝ્મા: સૌથી નાના કોષો (0.3 µm લંબાઈ).<br>2. બેક્ટેરિયા: 3 થી 5 µm.<br>3. શાહમૃગનું ઈંડું: સૌથી મોટો અલિપ્ત એકકોષી કોષ.<br>4. રક્તકણ: 7.0 µm વ્યાસ.<br>5. ચેતાકોષ: સૌથી લાંબા કોષોમાંના એક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-B-O-R-N (Mycoplasma-Smallest, Bacteria, Ostrich-Largest, RBC-7, Nerve-Longest).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગ્રામ પોઝિટિવ (+) અને ગ્રામ નેગેટિવ (-) બેક્ટેરિયા વચ્ચેનો તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેક્ટેરિયાને ગ્રામ અભિરંજક દ્વારા અભિરંજિત કરવાની પદ્ધતિના આધારે બે જૂથમાં વહેંચાય છે. જે બેક્ટેરિયા ગ્રામ અભિરંજક સ્વીકારે છે તેને 'ગ્રામ પોઝિટિવ' કહેવાય છે અને જે અભિરંજક સ્વીકારતા નથી તેને 'ગ્રામ નેગેટિવ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Color Accept = Positive (+), Color Reject = Negative (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મેસોઝોમ્સ એટલે શું? તેના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદિકોષકેન્દ્રી કોષોમાં રસસ્તર કોષની અંદર તરફ વિસ્તરણ પામી વિશિષ્ટ રચના બનાવે છે તેને મેસોઝોમ્સ કહે છે. <br><strong>કાર્યો:</strong> 1. કોષદીવાલનું નિર્માણ. 2. DNA સ્વયંજનન અને બાળકોષોમાં વિતરણ. 3. શ્વસન અને સ્ત્રાવી પ્રક્રિયાઓમાં મદદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેસોઝોમ્સ = 'M' = Membrane Extension & Metabolism.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્લાઝમિડ (Plasmid) વિશે ટૂંક નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘણા બેક્ટેરિયામાં જનીનિક DNA (વર્તુળાકાર DNA) સિવાય બહારની તરફ નાનું વર્તુળાકાર DNA જોવા મળે છે, જેને પ્લાઝમિડ કહે છે. તે બેક્ટેરિયાને વિશિષ્ટ બાહ્યલક્ષી લક્ષણો આપે છે, જેમ કે પ્રતિજૈવિક દ્રવ્યો (Antibiotics) સામે પ્રતિરોધ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાઝમિડ = Extra DNA = Extra Protection.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કોષરસસ્તરનું રાસાયણિક બંધારણ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષરસસ્તર મુખ્યત્વે લિપિડ અને પ્રોટીનનું બનેલું છે. લિપિડ દ્વિસ્તર સ્વરૂપે ગોઠવાયેલ હોય છે જેમાં ફોસ્ફોગ્લિસરાઈડ્સ મુખ્ય છે. મનુષ્યના રક્તકણના સ્તરમાં આશરે 52% પ્રોટીન અને 40% લિપિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC 52-40 (52 Protein, 40 Lipid).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કોષરસસ્તરના 'ફ્લુઈડ મોઝેક મોડેલ' ની લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1972 માં સિંગર અને નિકોલસને આ મોડેલ આપ્યું. લિપિડની અર્ધતરલ પ્રકૃતિને કારણે પ્રોટીન લિપિડના દ્વિસ્તરમાં પાર્શ્વીય ગતિ કરી શકે છે. સ્તરની અંદર ગતિ કરવાની આ ક્ષમતાને તેની તરલતા (Fluidity) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Singer & Nicolson = Sea of Lipids with Protein Icebergs.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મૃત કોષદીવાલનું કાર્ય શું છે? લીલની કોષદીવાલ શેની બનેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષદીવાલ કોષને આકાર આપે છે અને યાંત્રિક નુકસાન તથા ચેપથી રક્ષણ આપે છે. લીલની કોષદીવાલ સેલ્યુલોઝ, ગેલેક્ટન્સ, મેનાન્સ અને કેલ્શિયમ કાર્બોનેટ જેવા ખનીજોની બનેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલ (Algae) = CGM-Ca (Cellulose, Galactans, Mannans, Calcium).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અંતઃપટલમય તંત્રમાં કઈ અંગિકાઓનો સમાવેશ થાય છે અને કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતઃકોષરસજાળ (ER), ગોલ્ગી પ્રસાધન, લાયસોઝોમ્સ અને રસધાનીનો સમાવેશ થાય છે. કારણ કે આ બધી અંગિકાઓના કાર્યો એકબીજા સાથે સંકળાયેલા અને સંકલિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G-E-L-V (Golgi, ER, Lysosome, Vacuole).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રફ ER (RER) અને સ્મૂધ ER (SER) વચ્ચેનો મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. RER: સપાટી પર રીબોઝોમ્સ ધરાવે છે અને પ્રોટીન સંશ્લેષણ તથા સ્ત્રાવમાં મદદ કરે છે. 2. SER: સપાટી પર રીબોઝોમ્સ હોતા નથી અને તે લિપિડ સંશ્લેષણ માટેનું મુખ્ય સ્થાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R = Rough = Ribosome = Protein; S = Smooth = Soft = Lipid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગોલ્ગી પ્રસાધનના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોલ્ગી પ્રસાધન મુખ્યત્વે કોષની બહાર સ્ત્રાવ પામતા અથવા કોષની અંદરના લક્ષ્ય સુધી પહોંચાડવાના દ્રવ્યોના પેકેજિંગનું કાર્ય કરે છે. તે ગ્લાયકોપ્રોટીન અને ગ્લાયકોલિપિડના નિર્માણનું મુખ્ય સ્થાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોલ્ગી = Post Office (Packaging & Shipping).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લાયસોઝોમ્સને કેમ 'આત્મઘાતી કોથળી' તરીકે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાયસોઝોમ્સમાં હાઈડ્રોલેઝીસ (લિપેઝીસ, પ્રોટીએઝીસ, કાર્બોહાઈડ્રેઝીસ) જેવા પાચક ઉત્સેચકો હોય છે જે એસિડિક pH પર સક્રિય હોય છે. તે કાર્બોદિત, પ્રોટીન અને લિપિડનું પાચન કરવાની ક્ષમતા ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lyso = Lysis (તોડવું), Somes = Body.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કણાભસૂત્રની અંતઃપટલની રચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કણાભસૂત્રનું અંદરનું પટલ આધારક તરફ અસંખ્ય પ્રવર્ધો બનાવે છે, જેને ક્રિસ્ટી (Cristae) કહે છે. આ ક્રિસ્ટી પટલના સપાટી વિસ્તારમાં વધારો કરે છે જેથી ATP નિર્માણની પ્રક્રિયા ઝડપી બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C for Cristae = C for Capacity (Surface area) increase.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રંગકણો (Plastids) ના પ્રકારો અને તેમના કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. હરિતકણ: ક્લોરોફિલ ધરાવે, પ્રકાશસંશ્લેષણ કરે. 2. રંગકણ (Chromoplast): કેરોટીન-ઝેન્થોફિલ ધરાવે, ફળ-ફૂલને રંગ આપે. 3. રંગહીન કણ (Leucoplast): ખોરાક સંગ્રહ કરે (સ્ટાર્ચ, તેલ, પ્રોટીન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Green (Chloro), Colorful (Chromo), Colorless (Leuco).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "70S અને 80S રીબોઝોમ્સ ક્યાં જોવા મળે છે? 'S' શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 70S રીબોઝોમ્સ આદિકોષકેન્દ્રી કોષો, કણાભસૂત્ર અને હરિતકણમાં હોય છે. 80S રીબોઝોમ્સ સુકોષકેન્દ્રી કોષના કોષરસમાં હોય છે. 'S' એટલે સ્વેડબર્ગ યુનિટ (અવસાદન આંક), જે કદ અને ઘનતાનું માપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S = Sedimentation (કેટલી ઝડપથી નીચે બેસે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પક્ષ્મ અને કશાની આંતરિક રચનામાં '9 + 2' આયોજન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પક્ષ્મ અને કશાના અક્ષસૂત્રમાં પરિઘીય વિસ્તારમાં નવ જોડ સૂક્ષ્મનલિકાઓ (Doublets) અને કેન્દ્રમાં બે એકાકી સૂક્ષ્મનલિકાઓ આવેલી હોય છે. આ ગોઠવણીને 9 + 2 આયોજન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 Pair (Periphery) + 2 Single (Center) = 9+2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "તારાકેન્દ્રની 'ગાડાના પૈડા' (Cartwheel) જેવી રચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તારાકેન્દ્રના પરિઘીય વિસ્તારમાં સૂક્ષ્મનલિકાઓની 9 ત્રિપુટીઓ (Triplets) ગોઠવાયેલી હોય છે, જ્યારે કેન્દ્રમાં નલિકા હોતી નથી (9+0). કેન્દ્રનો ભાગ પ્રોટીનનો બનેલો 'હબ' (Hub) છે, જે પરિઘીય ત્રિપુટીઓ સાથે ત્રિજ્યાવર્તી તંતુકો દ્વારા જોડાયેલ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારાકેન્દ્ર = 9 Triplets + 0 Center = 9+0 Cartwheel.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રંગસૂત્રના સેન્ટ્રોમીયરના સ્થાનના આધારે પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. મેટાસેન્ટ્રિક (મધ્યમાં). 2. સબ-મેટાસેન્ટ્રિક (મધ્યથી સહેજ દૂર). 3. એક્રોસેન્ટ્રિક (અંતિમ છેડાની નજીક). 4. ટીલોસેન્ટ્રિક (બિલકુલ છેડા પર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-S-A-T (Middle, Slightly away, Almost end, Tip).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સેટેલાઈટ રંગસૂત્ર (Satellite Chromosome) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલાક રંગસૂત્રો ચોક્કસ સ્થાને અભિરંજિત ન ન થતા હોય તેવા દ્વિતીય સંકોચન ધરાવે છે. આને કારણે રંગસૂત્રનો એક નાનો ભાગ અલગ દેખાય છે, જેને સેટેલાઈટ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેટેલાઈટ = Non-staining Fragment (વધારાની પૂંછડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સૂક્ષ્મકાયો (Microbodies) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિ અને પ્રાણીકોષોમાં પટલમય ઘણી બધી નાની નાની પુટિકાઓ જોવા મળે છે જેમાં વિવિધ ઉત્સેચકો આવેલા હોય છે. આ રચનાઓને સૂક્ષ્મકાયો કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Microbodies = Enzyme Packets in both Plant & Animal.</p></div>"
+    }
+  ]
+}

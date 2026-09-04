@@ -902,3 +902,121 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "જૈવ અણુઓ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જીવંત પેશીના રાસાયણિક પૃથક્કરણ માટે કયા એસિડનો ઉપયોગ થાય છે? આ પ્રક્રિયામાં મળતા બે ભાગોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીવંત પેશીના રાસાયણિક પૃથક્કરણ માટે <b>ટ્રાયક્લોરો એસિટિક એસિડ (Cl3CCOOH)</b> નો ઉપયોગ થાય છે. પેશીને આ એસિડમાં વાટીને ગાળણ કરતા બે ભાગ મળે છે:<br>1. <b>એસિડ દ્રાવ્ય ભાગ (Filtrate):</b> જે ગળાઈ જાય છે, તેમાં સૂક્ષ્મ જૈવ અણુઓ હોય છે.<br>2. <b>એસિડ અદ્રાવ્ય ભાગ (Retentate):</b> જે ફિલ્ટર પેપર પર રહી જાય છે, તેમાં બૃહદ જૈવ અણુઓ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T-C-A (TCA Acid) - દ્રાવ્ય (S-Soluble) અને અદ્રાવ્ય (I-Insoluble) ભાગોનું મિશ્રણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એમિનો એસિડમાં 'ઝ્વિટર આયન' (Zwitterion) એટલે શું? આકૃતિ દોર્યા વગર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમિનો એસિડમાં એમિનો ગ્રુપ (-NH2) અને કાર્બોક્સિલ ગ્રુપ (-COOH) બંને હોય છે. ચોક્કસ pH પર, -COOH ગ્રુપ પ્રોટોન ગુમાવે છે અને -NH2 ગ્રુપ પ્રોટોન મેળવે છે, જેના કારણે એક જ અણુ પર ધન (+) અને ઋણ (-) એમ બંને વીજભાર જોવા મળે છે. આવા દ્વિધ્રુવીય આયનને <b>ઝ્વિટર આયન</b> કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zwi = Two (બે ચાર્જ), એટલે કે એક જ અણુમાં પ્લસ અને માઈનસની જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લિપિડ્સના મુખ્ય ગુણધર્મો જણાવો. શું તે બૃહદ અણુ (Macromolecule) છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિપિડ્સ પાણીમાં અદ્રાવ્ય હોય છે પરંતુ કાર્બનિક દ્રાવકોમાં દ્રાવ્ય હોય છે. તે મુખ્યત્વે ફેટી એસિડ અને ગ્લિસરોલના બનેલા હોય છે. લિપિડ્સ ખરેખર <b>બૃહદ અણુ નથી</b> કારણ કે તેમનો અણુભાર 800 Dalton થી ઓછો હોય છે, પરંતુ તે કોષરસપટલના ટુકડા સ્વરૂપે વેસિકલ્સ બનાવે છે જે એસિડ અદ્રાવ્ય જૂથમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિપિડ - વજનમાં હલકા (સૂક્ષ્મ) પણ રહે છે અદ્રાવ્ય (બૃહદ) ની ટોળીમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પ્રાથમિક ચયાપચયકો અને દ્વિતીયક ચયાપચયકો વચ્ચેનો મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>પ્રાથમિક ચયાપચયકો:</b> આ સંયોજનો પ્રાણીજ પેશીઓમાં જોવા મળે છે અને સજીવની દેહધાર્મિક ક્રિયાઓ (વૃદ્ધિ, વિકાસ) માં સીધો ભાગ ભજવે છે. દા.ત. એમિનો એસિડ, શર્કરા.<br>2. <b>દ્વિતીયક ચયાપચયકો:</b> આ વનસ્પતિ, ફૂગ અને સૂક્ષ્મજીવોમાં જોવા મળે છે. તેમનું ચોક્કસ દેહધાર્મિક કાર્ય જાણીતું નથી, પરંતુ તે આર્થિક કે પરિસ્થિતિકીય રીતે મહત્વના છે. દા.ત. આલ્કલોઇડ્સ, રબર, એન્થોસાયનિન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાથમિક = જીવવા માટે જરૂરી, દ્વિતીયક = વનસ્પતિના ખાસ રસાયણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રોટીનનું બંધારણીય મહત્વ સમજાવો અને પૃથ્વી પર સૌથી વધુ મળતા પ્રોટીનનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટીન એ એમિનો એસિડના વિષમ પોલીમર (Heteropolymer) છે. તે કોષોમાં પોષક દ્રવ્યોનું વહન, અંતઃસ્ત્રાવો તરીકે અને ચેપ સામે રક્ષણ મેળવવા માટે જરૂરી છે. <br>1. પ્રાણીસૃષ્ટિમાં સૌથી વધુ મળતું પ્રોટીન: <b>કોલેજન (Collagen)</b><br>2. સમગ્ર જીવાવરણમાં સૌથી વધુ મળતું પ્રોટીન: <b>RuBisCO</b> (રુબિસ્કો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણી માટે 'કોલેજન', દુનિયા માટે 'રુબિસ્કો' - પ્રોટીન છે સુપર હીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગ્લાયકોસિડિક બંધ અને પેપ્ટાઈડ બંધ વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>પેપ્ટાઈડ બંધ:</b> બે એમિનો એસિડ વચ્ચે બને છે. જેમાં એક એમિનો એસિડના -COOH અને બીજાના -NH2 વચ્ચેથી પાણીનો અણુ મુક્ત થઈ -CONH- બંધ બને છે.<br>2. <b>ગ્લાયકોસિડિક બંધ:</b> બે મોનોસેકેરાઇડ્સ (શર્કરા) વચ્ચે બને છે. તેમાં બે નજીકના કાર્બન પરના હાઇડ્રોક્સિલ (-OH) સમૂહ વચ્ચે નિર્જલીકરણ દ્વારા બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેપ્ટાઈડ = પ્રોટીન (એમિનો એસિડ), ગ્લાયકોસિડિક = ગ્લુકોઝ (શર્કરા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્ટાર્ચ અને સેલ્યુલોઝ વચ્ચેના બંધારણીય તફાવતના બે મુદ્દા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>સ્ટાર્ચ:</b> તે હેલિકલ (કુંતલાકાર) ગૌણ રચના ધરાવે છે અને આયોડિન (I2) ને પકડી રાખે છે, જેથી વાદળી રંગ આપે છે.<br>2. <b>સેલ્યુલોઝ:</b> તે રેખીય રચના ધરાવે છે અને જટિલ કુંતલો ધરાવતું નથી, તેથી તે આયોડિન સાથે કોઈ રંગ આપતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટાર્ચ = હેલિક્સ (વાદળી રંગ), સેલ્યુલોઝ = સીધી લાઈન (નો કલર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ન્યુક્લિઓસાઇડ અને ન્યુક્લિઓટાઇડ વચ્ચેનો ભેદ ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>ન્યુક્લિઓસાઇડ:</b> નાઇટ્રોજન બેઝ + પેન્ટોઝ શર્કરા. દા.ત. એડેનોસાઇન, ગ્વાનોસાઇન.<br>2. <b>ન્યુક્લિઓટાઇડ:</b> નાઇટ્રોજન બેઝ + પેન્ટોઝ શર્કરા + ફોસ્ફેટ ગ્રુપ. દા.ત. એડેનાયલિક એસિડ, ગ્વાનાયલિક એસિડ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Side = Sugar + Base, Tide = Sugar + Base + Phosphate (Tide ma Phosphate che!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રોટીનની તૃતીયક સંરચના (Tertiary Structure) નું જૈવિક મહત્વ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોટીનની લાંબી શૃંખલા પોતાની ઉપર જ ઉનના પોલા દડાની જેમ વીંટળાય છે, જેને તૃતીયક સંરચના કહેવાય છે. આ રચના પ્રોટીન (ઉત્સેચકો) ને ત્રિ-પરિમાણીય (3D) આકાર આપે છે અને ઉત્સેચકની સક્રિય સાઈટ (Active Site) પૂરી પાડે છે, જે જૈવિક ક્રિયાઓ માટે અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3D આકાર = ઉત્સેચકની એક્ટિવિટી માટે પાક્કો જુગાડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચયાપચય (Metabolism) એટલે શું? તેના બે પ્રકારોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જીવંત કોષોમાં થતી તમામ રાસાયણિક પ્રક્રિયાઓના સરવાળાને <b>ચયાપચય</b> કહે છે. તેના બે પ્રકાર છે:<br>1. <b>ચય પથ (Anabolic):</b> સાદા અણુઓમાંથી જટિલ અણુઓનું નિર્માણ (શક્તિનો વપરાશ).<br>2. <b>અપચય પથ (Catabolic):</b> જટિલ અણુઓનું સાદા અણુઓમાં વિઘટન (શક્તિની મુક્તિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચય = બનાવવું (Build), અપચય = તોડવું (Break)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જીવંત અવસ્થા (Living State) ને 'બિન-સંતુલિત સ્થાયી અવસ્થા' શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ તંત્ર જો સંતુલિત (Equilibrium) અવસ્થામાં હોય તો તે કાર્ય કરી શકતું નથી. જીવંત સજીવો સતત કાર્ય કરે છે, તેથી તેઓ ક્યારેય સંતુલન પ્રાપ્ત કરી શકતા નથી. જીવંત અવસ્થા એ સતત કાર્ય કરવા માટેની <b>બિન-સંતુલિત સ્થાયી અવસ્થા</b> છે, જે ચયાપચય દ્વારા જળવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે મૃત્યુ, બિન-સંતુલન એટલે જીવન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઉત્સેચકો રાસાયણિક પ્રક્રિયાનો વેગ કેવી રીતે વધારે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્સેચકો પ્રક્રિયાની <b>સક્રિય શક્તિ (Activation Energy)</b> ઘટાડીને પ્રક્રિયાનો વેગ વધારે છે. તેઓ પ્રક્રિયાર્થી (Substrate) ને પોતાની સક્રિય સાઈટ પર જોડીને 'ઉત્સેચક-પ્રક્રિયાર્થી સંકુલ' (ES Complex) બનાવે છે, જેનાથી પ્રક્રિયા ઝડપી બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછી મહેનત (Energy) માં વધુ કામ - એ જ ઉત્સેચકનો જાદુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઉત્સેચકીય પ્રક્રિયા પર તાપમાનની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક ઉત્સેચક મહત્તમ પ્રવૃત્તિ ચોક્કસ 'ઇષ્ટતમ તાપમાન' પર દર્શાવે છે. ઇષ્ટતમ તાપમાનથી ઓછું તાપમાન ઉત્સેચકને અસ્થાયી રૂપે નિષ્ક્રિય કરે છે, જ્યારે ઊંચું તાપમાન પ્રોટીનનું કુદરતી બંધારણ નષ્ટ (Denaturation) કરે છે, જેથી ઉત્સેચક કાયમી નષ્ટ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં ઊંઘી જાય (નિષ્ક્રિય), ગરમીમાં મરી જાય (નષ્ટ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્પર્ધાત્મક અવરોધન (Competitive Inhibition) એટલે શું? એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ રસાયણનું બંધારણ પ્રક્રિયાર્થી (Substrate) સાથે મળતું આવતું હોય અને તે ઉત્સેચકની સક્રિય સાઈટ માટે પ્રક્રિયાર્થી સાથે સ્પર્ધા કરે, તો તેને સ્પર્ધાત્મક અવરોધન કહે છે. <br>દા.ત. સક્સિનિક ડીહાઈડ્રોજીનેઝ ઉત્સેચક માટે <b>મેલોનેટ</b> એ સક્સિનેટનો સ્પર્ધાત્મક અવરોધક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રક્રિયાર્થી જેવો જ દેખાવ, પણ અસલમાં દુશ્મન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઉત્સેચકોના વર્ગીકરણમાં 'હાઈડ્રોલેઝીસ' (Hydrolases) અને 'લાયેઝીસ' (Lyases) વચ્ચેનો તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>હાઈડ્રોલેઝીસ:</b> આ ઉત્સેચકો પાણી (H2O) ઉમેરીને એસ્ટર, ઈથર કે પેપ્ટાઈડ બંધનું વિઘટન કરે છે.<br>2. <b>લાયેઝીસ:</b> આ ઉત્સેચકો પાણી ઉમેર્યા વગર (જળવિભાજન વગર) પ્રક્રિયાર્થીમાંથી સમૂહને દૂર કરી દ્વિબંધ (Double bond) બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hydro = પાણી સાથે તોડવું, Lyase = પાણી વગર તોડવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સહ-કારકો (Co-factors) ના પ્રકારોના માત્ર નામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્સેચકના બિન-પ્રોટીન ભાગને સહ-કારક કહે છે. તેના ત્રણ પ્રકાર છે:<br>1. પ્રોસ્થેટિક સમૂહ (Prosthetic groups)<br>2. સહ-ઉત્સેચકો (Co-enzymes)<br>3. ધાતુ આયનો (Metal ions)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P-C-M (Prosthetic, Co-enzyme, Metal) - ઉત્સેચકના મદદગારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાઈટિન (Chitin) શું છે? તેના બે સ્થાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાઈટિન એ નાઇટ્રોજનયુક્ત જટિલ પોલીસેકેરાઇડ (N-acetyl glucosamine નો પોલીમર) છે. તે વિષમ પોલીમર છે. <br><b>સ્થાન:</b> 1. સંધિપાદી પ્રાણીઓનું બાહ્ય કંકાલ. 2. ફૂગની કોષદીવાલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાઈટિન = કવચ (વંદાનું) + ફૂગની દીવાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "DNA ની બેવડી કુંતલમય રચનામાં પૂરક બેઝ પેરિંગ (Complementary Base Pairing) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> DNA માં એડેનાઇન (A) હંમેશા થાઇમિન (T) સાથે બે હાઇડ્રોજન બંધથી જોડાય છે, અને ગ્વાનાઇન (G) હંમેશા સાયટોસિન (C) સાથે ત્રણ હાઇડ્રોજન બંધથી જોડાય છે. આને પૂરક બેઝ પેરિંગ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A=T (Double bond), G≡C (Triple bond)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આવશ્યક એમિનો એસિડ અને બિન-આવશ્યક એમિનો એસિડ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>આવશ્યક એમિનો એસિડ:</b> જે આપણું શરીર બનાવી શકતું નથી અને ખોરાક દ્વારા લેવા જરૂરી છે.<br>2. <b>બિન-આવશ્યક એમિનો એસિડ:</b> જે આપણું શરીર પોતે બનાવી શકે છે, તેથી તેને ખોરાકમાં લેવા અનિવાર્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવશ્યક = બહારથી લાવવા પડે, બિન-આવશ્યક = ઘરે જ બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "માઈકેલિસ મેન્ટેન અચળાંક (Km) શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Km એ પ્રક્રિયાર્થીની એવી સાંદ્રતા છે જે પ્રક્રિયાનો વેગ તેના મહત્તમ વેગ (Vmax) કરતા અડધો (Vmax/2) કરે છે. ઓછો Km અચળાંક ઉત્સેચક અને પ્રક્રિયાર્થી વચ્ચેની વધુ આકર્ષણ શક્તિ (Affinity) સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Km ઓછો તો પ્રેમ (આકર્ષણ) વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ન્યુક્લીઇક એસિડમાં ફોસ્ફોડાયએસ્ટર બંધ ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુક્લીઇક એસિડમાં એક ન્યુક્લિઓટાઇડના એક શર્કરાના 3'-કાર્બન અને તેની પછીના ન્યુક્લિઓટાઇડની શર્કરાના 5'-કાર્બન વચ્ચે ફોસ્ફેટ ગ્રુપ દ્વારા જે બંધ બને છે, તેને ફોસ્ફોડાયએસ્ટર બંધ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3' અને 5' વચ્ચેનો ફોસ્ફેટનો પુલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગ્લાયકોજન અને ઇન્યુલિન (Inulin) કયા મોનોમર્સના બનેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <b>ગ્લાયકોજન:</b> તે ગ્લુકોઝનો બનેલો હોમોપોલીમર છે (પ્રાણીઓમાં સંગ્રહિત ખોરાક).<br>2. <b>ઇન્યુલિન:</b> તે ફ્રુક્ટોઝનો બનેલો પોલીમર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G for Glycogen-Glucose, I for Inulin-Fructose (IF)!</p></div>"
+    }
+  ]
+}

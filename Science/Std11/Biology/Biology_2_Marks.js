@@ -1020,3 +1020,121 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "કોષચક્ર અને કોષવિભાજન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષચક્ર (Cell Cycle) એટલે શું? તેના મુખ્ય બે તબક્કાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષ પોતાના જનીનદ્રવ્યનું દ્વિગુણન કરે, કોષના અન્ય ઘટકોનું સંશ્લેષણ કરે અને ત્યારબાદ બે બાળ કોષોમાં વિભાજન પામે છે, આ ઘટનાઓના ક્રમને કોષચક્ર કહે છે. તેના મુખ્ય બે તબક્કા છે: (1) આંતરાવસ્થા (Interphase) અને (2) M-તબક્કો અથવા વિભાજન તબક્કો (Mitosis phase).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ-Cycle: 'I' (આંતરાવસ્થા) એ તૈયારી છે અને 'M' (M-phase) એ મેદાનમાં ઉતરવાની ક્રિયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આંતરાવસ્થાને 'વિશ્રામી અવસ્થા' (Resting Phase) શા માટે કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરાવસ્થા દરમિયાન કોષ દેખીતી રીતે વિભાજન પામતો નથી, તેથી તેને વિશ્રામી અવસ્થા કહે છે. પરંતુ હકીકતમાં, આ અવસ્થામાં કોષ વૃદ્ધિ અને DNA સ્વયંજનન જેવી પ્રક્રિયાઓ દ્વારા વિભાજન માટેની સક્રિય તૈયારી કરતો હોય છે. કોષચક્રનો 95% થી વધુ સમય આ અવસ્થામાં વીતે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરામ નહિ પણ કામ: 'વિશ્રામી' નામ છે પણ કામ 'તૈયારી' નું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "G1 તબક્કા (Gap 1 phase) ની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> G1 તબક્કો સમભાજન અને DNA સ્વયંજનનની શરૂઆત વચ્ચેનો ગાળો છે. આ તબક્કામાં કોષ ચયાપચયિક રીતે સક્રિય હોય છે અને સતત વૃદ્ધિ કરે છે, પરંતુ તેનું DNA સ્વયંજનન પામતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G1 = Growth 1 (માત્ર વૃદ્ધિ, નો DNA ડબલિંગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "S-તબક્કો (Synthesis Phase) કોષચક્ર માટે કેમ મહત્વનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> S-તબક્કામાં DNA નું સંશ્લેષણ અને સ્વયંજનન થાય છે. આનાથી DNA ની માત્રા બમણી (2C થી 4C) થાય છે, પરંતુ રંગસૂત્રોની સંખ્યામાં કોઈ વધારો થતો નથી. પ્રાણીકોષમાં આ સમયે તારાકેન્દ્રનું પણ દ્વિગુણન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S = Super Xerox (DNA ડબલ, Chromosome સેમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શાંત અવસ્થા (G0 Phase) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુખ્ત પ્રાણીઓમાં કેટલાક કોષો (દા.ત. હૃદયના કોષો) વિભાજન પામતા નથી. આ કોષો G1 અવસ્થામાંથી નીકળી નિષ્ક્રિય અવસ્થામાં પ્રવેશ કરે છે, જેને શાંત અવસ્થા (G0) કહે છે. આ કોષો ચયાપચયિક રીતે સક્રિય હોય છે પણ વિભાજન પામતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G0 = Game Over (વિભાજન માટે સ્ટોપ, જીવવા માટે ચાલુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમભાજનને 'સમીકરણ વિભાજન' (Equational Division) કેમ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમભાજનમાં માતૃકોષ અને તેનાથી ઉત્પન્ન થતા બંને બાળકોષોમાં રંગસૂત્રોની સંખ્યા સમાન જળવાઈ રહે છે. આથી તેને સમીકરણ વિભાજન કહે છે. તે સામાન્ય રીતે દ્વિીકીય (2n) કોષોમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમભાજન = સમાન ભાજન (રંગસૂત્રો No Change).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પૂર્વાવસ્થા (Prophase) ના અંતે કોષમાં કયા ફેરફારો જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વાવસ્થાના અંતે કોષને માઇક્રોસ્કોપમાં જોતા તેમાં ગોલ્ગીકાય, અંત:કોષરસજાળ, કોષકેન્દ્રિકા અને કોષકેન્દ્રપટલ જોવા મળતા નથી (અદ્રશ્ય થાય છે). રંગસૂત્ર દ્રવ્ય સંઘનિત થઈ સ્પષ્ટ રંગસૂત્ર બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Prophase = P (Pack up): બધું પેક થઈ જાય અને અંગિકાઓ ગાયબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભાજનાવસ્થા (Metaphase) ની મુખ્ય લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાજનાવસ્થામાં બધા જ રંગસૂત્રો કોષના મધ્ય વિસ્તારમાં ગોઠવાય છે, જેને ભાજનતલ (Metaphase Plate) કહે છે. આ અવસ્થામાં રંગસૂત્રોની બાહ્ય રચનાનો અભ્યાસ સૌથી સરળતાથી કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M = Middle (બધા રંગસૂત્રો મધ્યમાં લાઈનમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભાજનોત્તરાવસ્થા (Anaphase) દરમિયાન શું ઘટના બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ અવસ્થામાં દરેક રંગસૂત્રના સેન્ટ્રોમિયરનું વિભાજન થાય છે અને બે સંતતિ રંગસૂત્રિકાઓ અલગ પડે છે. આ રંગસૂત્રિકાઓ વિરુદ્ધ ધ્રુવો તરફ ગતિ કરવાનું શરૂ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = Away (રંગસૂત્રો એકબીજાથી દૂર જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અંત્યાવસ્થા (Telophase) ના મુખ્ય લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) રંગસૂત્રો વિરુદ્ધ ધ્રુવો પર પહોંચી પોતાની વ્યક્તિગતતા ગુમાવે છે અને રંગસૂત્ર દ્રવ્યમાં ફેરવાય છે. (2) કોષકેન્દ્રપટલ અને કોષકેન્દ્રિકા પુન: નિર્માણ પામે છે. (3) અંગિકાઓ જેવી કે ગોલ્ગીકાય અને ER ફરી દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = Two/Total Return: પૂર્વાવસ્થાથી બિલકુલ ઉલટું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રાણીકોષ અને વનસ્પતિકોષમાં કોષરસ વિભાજન (Cytokinesis) નો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીકોષમાં કોષરસપટલમાં 'ખાંચ' (Furrow) પડે છે જે બહારથી અંદર તરફ જાય છે. જ્યારે વનસ્પતિકોષમાં કોષની મધ્યમાંથી 'કોષપટ્ટી' (Cell Plate) નિર્માણ પામે છે જે અંદરથી બહારની તરફ વૃદ્ધિ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણી = બહારથી અંદર (Centripetal), વનસ્પતિ = અંદરથી બહાર (Centrifugal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બહુકોષકેન્દ્રીય અવસ્થા (Syncytium) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલાક સજીવોમાં કોષકેન્દ્ર વિભાજન (Karyokinesis) પછી કોષરસ વિભાજન (Cytokinesis) થતું નથી, જેના પરિણામે એક જ કોષમાં ઘણા કોષકેન્દ્રો સર્જાય છે. આ સ્થિતિને બહુકોષકેન્દ્રીય અવસ્થા કહે છે. દા.ત., નાળિયેરનું પ્રવાહી ભ્રૂણપોષ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Only Nuclear Division, No Cytoplasm Split = Multi-Nuclei.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અર્ધીકરણ (Meiosis) ની વ્યાખ્યા અને મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વિભાજનમાં રંગસૂત્રોની સંખ્યા અડધી થઈ જાય છે તેને અર્ધીકરણ કહે છે. આ પ્રક્રિયા લિંગી પ્રજનન કરતા સજીવોમાં પેઢી દર પેઢી રંગસૂત્રોની સંખ્યા નિશ્ચિત રાખવા અને જનીનિક ભિન્નતા લાવવા માટે જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધીકરણ = અડધું (2n -> n). ભિન્નતા માટે બેસ્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેપ્ટોટીન અને ઝાયગોટીન તબક્કા વચ્ચેનો તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેપ્ટોટીનમાં રંગસૂત્રો ધીમે ધીમે સ્પષ્ટ અને લાંબા તંતુ જેવા દેખાય છે. જ્યારે ઝાયગોટીનમાં સમજાત રંગસૂત્રોની જોડીઓ બનવાની શરૂઆત થાય છે, જેને સૂત્રનમન (Synapsis) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Leptotene = Look (દેખાવ), Zygotene = Zipper (જોડી બનવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વ્યતીકરણ (Crossing over) એટલે શું? તે કયા તબક્કામાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વાવસ્થા-I ના પેકીટીન તબક્કામાં સમજાત રંગસૂત્રોની બિન-ભગિની રંગસૂત્રિકાઓ વચ્ચે જનીનદ્રવ્યની અદલાબદલી થાય છે, જેને વ્યતીકરણ કહે છે. આ પ્રક્રિયામાં 'રીકોમ્બિનેઝ' ઉત્સેચક ભાગ લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pachytene = Packet Exchange (જનીનોની અદલાબદલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સ્વસ્તિક ચોકડી (Chiasmata) ક્યારે દ્રશ્યમાન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વાવસ્થા-I ના ડિપ્લોટીન તબક્કામાં સિનેપ્ટોનિમલ સંકુલનું વિસર્જન થાય છે અને સમજાત રંગસૂત્રો એકબીજાથી દૂર ખસે છે. જે સ્થાને વ્યતીકરણ થયું હોય ત્યાં તેઓ જોડાયેલા રહે છે, આ 'X' આકારની રચનાને સ્વસ્તિક ચોકડી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Diplotene = Dissolution (ઓગળવું) & X-shape visible.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ડાયાકાઈનેસીસ (Diakinesis) તબક્કાની ઓળખ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પૂર્વાવસ્થા-I નો અંતિમ તબક્કો છે. તેમાં સ્વસ્તિક ચોકડીઓનું અંતિમિકરણ (Terminalisation) થાય છે. રંગસૂત્રો સંપૂર્ણ રીતે સંઘનિત થાય છે અને દ્વિધ્રુવીય ત્રાકનું નિર્માણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Diakinesis = Dye/Death of X (ચોકડીનો છેડો આવવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આંતરકોષવિભાજન (Interkinesis) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણ-I અને અર્ધીકરણ-II વચ્ચેના ટૂંકા ગાળાને આંતરકોષવિભાજન કહે છે. આ દરમિયાન DNA નું સ્વયંજનન થતું નથી, માત્ર આગામી વિભાજન માટેની થોડી તૈયારી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Interkinesis = Intermission (બે ફિલ્મો/વિભાજન વચ્ચેનો બ્રેક, જેમાં પોપકોર્ન નહિ પણ માત્ર તૈયારી છે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમભાજન અને અર્ધીકરણ વચ્ચેનો કોઈ પણ એક મુખ્ય તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમભાજનમાં એક માતૃકોષમાંથી બે જનીનિક રીતે સમાન બાળકોષો બને છે (2n -> 2n), જ્યારે અર્ધીકરણમાં એક માતૃકોષમાંથી ચાર જનીનિક રીતે ભિન્ન એકકીય બાળકોષો બને છે (2n -> n).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમભાજન = ફોટોકોપી (2 Copy), અર્ધીકરણ = વેરાયટી (4 Copy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમભાજનનું જૈવિક મહત્વ જણાવો (કોઈ પણ બે).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) બહુકોષી સજીવોની વૃદ્ધિ માટે જવાબદાર છે. (2) કોષીય સમારકામ (Repairing) માટે જરૂરી છે, જેમ કે અધિચ્છદના કોષો અને રુધિરકોષો બદલવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમભાજન = Growth + Repairing.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અર્ધીકરણ-II ને સમભાજન સાથે કેમ સરખાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણ-II માં સેન્ટ્રોમિયરનું વિભાજન થાય છે અને રંગસૂત્રિકાઓ અલગ પડે છે, જે સમભાજન જેવી જ ક્રિયા છે. અહીં રંગસૂત્રોની સંખ્યામાં ઘટાડો થતો નથી (n -> n રહે છે), તેથી તે સમભાજન જેવું જ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meiosis II = Mitosis for Haploid cells.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સિનેપ્ટોનિમલ સંકુલ (Synaptonemal Complex) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધીકરણ-I ના ઝાયગોટીન તબક્કા દરમિયાન બે સમજાત રંગસૂત્રો એકબીજાની નજીક આવી જે વિશિષ્ટ પ્રોટીનમય રચના બનાવે છે તેને સિનેપ્ટોનિમલ સંકુલ કહે છે. આ રચનાને કારણે રંગસૂત્રો જોડીમાં રહે છે જેને 'દ્વિસૂત્રી' (Bivalent) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Synapsis = Gum (ગુંદર) જે બે રંગસૂત્રોને જોડે છે.</p></div>"
+    }
+  ]
+}

@@ -2062,3 +2062,121 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"19": {
+  "chapterName": "પ્રકરણ 19",
+  "chapterTitle": "રાસાયણિક સહનિયમન અને સંકલન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અંત:સ્ત્રાવી ગ્રંથિઓ અને હોર્મોન્સ (અંત:સ્ત્રાવ) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત:સ્ત્રાવી ગ્રંથિઓ નલિકાવિહીન ગ્રંથિઓ છે, તેમના સ્ત્રાવને અંત:સ્ત્રાવ કહે છે. અંત:સ્ત્રાવ એ બિન-પોષક રાસાયણિક સંદેશવાહકો છે જે આંતરકોષીય સંદેશવાહકો તરીકે વર્તે છે અને અલ્પ માત્રામાં ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નલિકા નથી = અંત:સ્ત્રાવી (Endo), જે સીધું લોહીમાં ભળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હાયપોથેલેમસ દ્વારા મુક્ત થતા હોર્મોન્સના બે પ્રકારો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાયપોથેલેમસ બે પ્રકારના હોર્મોન્સ ઉત્પન્ન કરે છે: (1) મુક્ત કરતા હોર્મોન્સ (Releasing Hormones - RH): જે પિટ્યુટરી સ્ત્રાવને ઉત્તેજે છે, દા.ત., GnRH. (2) અવરોધક હોર્મોન્સ (Inhibitory Hormones - IH): જે પિટ્યુટરી સ્ત્રાવને અવરોધે છે, દા.ત., સોમેટોસ્ટેટીન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R = Release (ચાલુ કરો), S = Stop (સોમેટોસ્ટેટીન - અટકાવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પિટ્યુટરી ગ્રંથિના દેહધાર્મિક ભાગોનું વર્ગીકરણ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિટ્યુટરી ગ્રંથિ મુખ્ય બે ભાગમાં વહેંચાયેલી છે: (1) એડિનોહાયપોફાયસીસ: જેમાં પાર્સ ડિસ્ટાલિસ (અગ્ર પિટ્યુટરી) અને પાર્સ ઈન્ટરમીડિયાનો સમાવેશ થાય છે. (2) ન્યુરોહાયપોફાયસીસ: જેને પાર્સ નર્વોઝા (પશ્ચ પિટ્યુટરી) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A (Adeno) = Anterior (અગ્ર), N (Neuro) = Nerve (ચેતાકીય/પશ્ચ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વૃદ્ધિ અંત:સ્ત્રાવ (GH) ના અસંતુલનથી થતી અસરો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> GH નો વધુ પડતો સ્ત્રાવ શરીરની અસાધારણ વૃદ્ધિ પ્રેરે છે જેને 'જાયન્ટિઝમ' (મહારાકાયતા) કહે છે. જ્યારે GH ના અલ્પસ્ત્રાવને કારણે વૃદ્ધિ કુંઠિત થાય છે જેને 'પિટ્યુટરી ડ્વાર્ફિઝમ' (વામનતા) કહે છે. પુખ્ત વયે વધુ સ્ત્રાવથી 'એક્રોમેગાલિ' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: High GH = Giant, Low GH = Dwarf (ઢીંગુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રોલેક્ટિન (PRL) અને ઓક્સિટોસિન વચ્ચેનો કાર્યાત્મક તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોલેક્ટિન (PRL) સ્તન ગ્રંથિઓની વૃદ્ધિ અને દૂધના 'નિર્માણ' (Production) નું નિયંત્રણ કરે છે. જ્યારે ઓક્સિટોસિન સ્તન ગ્રંથિઓમાંથી દૂધના 'નિકાલ' (Ejection) અને ગર્ભાશયના સંકોચનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Production (પ્રોલેક્ટિન), O for Out (ઓક્સિટોસિન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વેઝોપ્રેસિન (ADH) ને 'એન્ટી-ડાયયુરેટિક હોર્મોન' કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેઝોપ્રેસિન મૂત્રપિંડના દૂરવર્તી નલિકાના ભાગોમાંથી પાણી અને ઈલેક્ટ્રોલાઈટ્સના પુનઃશોષણને ઉત્તેજે છે, જેનાથી મૂત્ર દ્વારા પાણીનો વ્યય ઘટે છે (Diuresis અટકાવે છે). તેથી તેને ADH કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH = 'A'બ જલ્દી 'D'્રિંકિંગ 'H'2O (પાણી બચાવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મેલેટોનિન અંત:સ્ત્રાવના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેલેટોનિન (પાઈનિયલ ગ્રંથિ) ઊંઘ-જાગવાની ૨૪ કલાકની લયબદ્ધતા જાળવે છે. તે શરીરનું તાપમાન, ચયાપચય, રંગકણ અને માસિક ચક્ર પર પણ અસર કરે છે તથા રોગપ્રતિકારક શક્તિ વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Melatonin = Night (રાત્રે ઊંઘ લાવનાર ઘડિયાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "થાઈરોઈડ ગ્રંથિનું સ્થાન અને તેના દ્વારા ઉત્પન્ન થતા હોર્મોન્સ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થાઈરોઈડ ગ્રંથિ શ્વાસનળીની બંને બાજુએ આવેલી છે, જે ઈસ્થમસ દ્વારા જોડાયેલી છે. તે ટેટ્રાઆયોડોથાયરોનીન (T4 અથવા થાયરોક્સિન) અને ટ્રાયઆયોડોથાયરોનીન (T3) તેમજ થાઈરોકેલ્સિટોનિન (TCT) ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T3 + T4 + TCT = Thyroid Trio.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "હાયપોથાયરોઈડિઝમ અને ગોઈટર વચ્ચેનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોરાકમાં આયોડિનની ઉણપને કારણે થાઈરોઈડ હોર્મોન્સનું સંશ્લેષણ ઘટે છે (હાયપોથાયરોઈડિઝમ). આ ઉણપને સરભર કરવા થાઈરોઈડ ગ્રંથિ કદમાં મોટી થાય છે, જેને સામાન્ય ગોઈટર કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન ઓછું = ગળું મોટું (ગોઈટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એક્સોપ્થેલેમિક ગોઈટર (ગ્રેવ્સ રોગ) ના લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે હાઈપરથાયરોઈડિઝમનું સ્વરૂપ છે. લક્ષણો: થાઈરોઈડ ગ્રંથિનું કદ વધવું, આંખના ડોળા બહાર આવવા (Protrusion), બેઝલ મેટાબોલિક રેટ (BMR) વધવો અને વજનમાં ઘટાડો થવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Graves = ગંભીર આંખો બહાર (Eye balls out).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પેરાથાઈરોઈડ હોર્મોન (PTH) ને હાઈપરકેલ્સિમિક હોર્મોન કેમ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PTH રુધિરમાં Ca2+ નું સ્તર વધારે છે. તે અસ્થિઓનું પુનઃશોષણ (ઓગળવું) પ્રેરે છે, મૂત્રપિંડ નલિકામાંથી Ca2+ નું પુનઃશોષણ વધારે છે અને પાચિત ખોરાકમાંથી Ca2+ નું શોષણ વધારે છે. રુધિરમાં કેલ્શિયમ વધારતા હોવાથી તેને હાઈપરકેલ્સિમિક કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PTH = Plus (કેલ્શિયમ પ્લસ કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "થાઈમસ ગ્રંથિ અને તેની રોગપ્રતિકારક શક્તિમાં ભૂમિકા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થાઈમસ 'થાઈમોસીન' ઉત્પન્ન કરે છે. તે T-લિમ્ફોસાઇટ્સના વિભેદનમાં મદદ કરે છે (કોષીય પ્રતિકારકતા) અને એન્ટિબોડી નિર્માણને ઉત્તેજે છે (તરલ પ્રતિકારકતા). વૃદ્ધોમાં આ ગ્રંથિ નાની થતા પ્રતિકારકતા ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thymus = T-cells (ટ્રેનિંગ સેન્ટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "એડ્રિનાલિન અને નોર-એડ્રિનાલિનને 'લડો અથવા ભાગો' (3F) હોર્મોન્સ કેમ કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ હોર્મોન્સ કટોકટીની સ્થિતિમાં (Stress) સ્ત્રવે છે. તે સતર્કતા, આંખની કીકીનું પહોળું થવું, હૃદયના ધબકારા અને શ્વસન દર વધારે છે. ગ્લાયકોજનનું તોડવું વધારે છે જેથી ઉર્જા મળે. ફાઈટ, ફ્લાઈટ કે ફિયર (3F) માં મદદરૂપ હોવાથી તેમ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Emergency = Adrenaline Rush.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગ્લુકોકોર્ટિકોઈડ્સના મુખ્ય કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટિસોલ મુખ્ય ગ્લુકોકોર્ટિકોઈડ છે. તે ગ્લુકોનિયોજીનેસિસ, લિપોલીસીસ અને પ્રોટીઓલીસીસ પ્રેરે છે. તે સોજા વિરોધી (Anti-inflammatory) પ્રતિક્રિયા આપે છે અને પ્રતિકારક તંત્રને દબાવે છે (Immunosuppressive).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cortisol = Control (Sugar & Stress).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્વાદુપિંડ (Pancreas) ના લેંગરહાન્સના કોષપુષ્પો વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વાદુપિંડ સંયુક્ત ગ્રંથિ છે. લેંગરહાન્સના કોષપુષ્પોમાં બે પ્રકારના કોષો હોય છે: (1) આલ્ફા (α) કોષો: જે ગ્લુકાગોન સ્ત્રવે છે. (2) બીટા (β) કોષો: જે ઇન્સ્યુલિન સ્ત્રવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-G (Alpha-Glucagon), B-I (Beta-Insulin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઇન્સ્યુલિન અને ગ્લુકાગોનની રુધિર શર્કરા પરની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્સ્યુલિન રુધિરમાં શર્કરા ઘટાડે છે (હાયપોગ્લાયસેમિક), તે ગ્લુકોઝને કોષોમાં લેવા અને ગ્લાયકોજન બનાવવા પ્રેરે છે. ગ્લુકાગોન રુધિરમાં શર્કરા વધારે છે (હાઈપરગ્લાયસેમિક), તે ગ્લાયકોજનને તોડી ગ્લુકોઝ મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Insulin = In (ગ્લુકોઝ અંદર લાવો), Glucagon = Gone (ગ્લુકોઝ લોહીમાં જવા દો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શુક્રપિંડ દ્વારા સ્ત્રવતા એન્ડ્રોજન્સ (ટેસ્ટોસ્ટેરોન) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે નર પ્રજનન અંગોના વિકાસ અને પરિપક્વનમાં મદદ કરે છે. તે ગૌણ જાતીય લક્ષણો (દાઢી-મૂછ, અવાજ ઘેરો થવો, આક્રમકતા) પ્રેરે છે. તે શુક્રકોષ જનન (Spermatogenesis) અને પ્રોટીન એનાબોલિઝમમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Testosterone = Toughness (નર લક્ષણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઈસ્ટ્રોજન અને પ્રોજેસ્ટેરોનના કાર્યો વચ્ચેનો ભેદ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈસ્ટ્રોજન માદા પ્રજનન અંગોના વિકાસ, અંડપુટિકાઓની વૃદ્ધિ અને ગૌણ લક્ષણો (તીણો અવાજ) માટે જવાબદાર છે. પ્રોજેસ્ટેરોન ગર્ભાવસ્થા જાળવી રાખે છે (Pregnancy hormone) અને સ્તન ગ્રંથિમાં કુપિકા નિર્માણ પ્રેરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P for Progesterone, P for Pregnancy.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હૃદય અને મૂત્રપિંડ દ્વારા સ્ત્રવતા હોર્મોન્સ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદયની કર્ણકની દીવાલ ANF (એટ્રિયલ નેટ્રિયુરેટિક ફેક્ટર) સ્ત્રવે છે જે રુધિરદબાણ ઘટાડે છે. મૂત્રપિંડના જેક્સ્ટા ગ્લોમેરુલર (JG) કોષો 'ઈરિથ્રોપોઈટીન' સ્ત્રવે છે જે રક્તકણ નિર્માણ (RBC production) ને ઉત્તેજે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heart = Pressure Down, Kidney = RBC Up.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જઠર-આંત્રિય માર્ગ (GI Tract) ના ચાર મુખ્ય હોર્મોન્સના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ગેસ્ટ્રિન (HCl સ્ત્રાવ પ્રેરે), (2) સિક્રેટિન (પાણી-બાયકાર્બોનેટ સ્ત્રાવ પ્રેરે), (3) કોલેસાઈસ્ટોકાઈનિન - CCK (સ્વાદુપિંડ રસ અને પિત્તરસનો નિકાલ પ્રેરે), (4) ગેસ્ટ્રિક ઇન્હિબિટરી પેપ્ટાઈડ - GIP (જઠરીય સ્ત્રાવ અવરોધે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G-S-C-G (Gastrin, Secretin, CCK, GIP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પેપ્ટાઈડ હોર્મોન્સની ક્રિયાવિધિમાં 'દ્વિતીય સંદેશવાહક' (Secondary Messenger) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેપ્ટાઈડ હોર્મોન્સ કોષમાં પ્રવેશતા નથી, પરંતુ સપાટીના ગ્રાહીઓ સાથે જોડાઈ દ્વિતીય સંદેશવાહકો ઉત્પન્ન કરે છે, જેમ કે cAMP, IP3 અથવા Ca2+. આ સંદેશવાહકો કોષની ચયાપચયિક ક્રિયાઓનું નિયમન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Protein Hormone = Messenger (સેવા ટ્રાન્સફર કરે, પોતે અંદર ન જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સ્ટીરોઈડ હોર્મોન્સની કાર્યપદ્ધતિ અન્ય હોર્મોન્સથી કેવી રીતે જુદી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટીરોઈડ હોર્મોન્સ (દા.ત. ઈસ્ટ્રોજન, કોર્ટિસોલ) લિપિડમાં દ્રાવ્ય હોવાથી કોષરસપટલમાંથી પસાર થઈ કોષમાં પ્રવેશે છે. તેઓ અંતઃકોષીય ગ્રાહીઓ (ન્યુક્લિયર રિસેપ્ટર) સાથે જોડાઈ સીધા જ જનીન અભિવ્યક્તિ અને DNA પર અસર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Steroid = Direct Entry (VIP પાસ).</p></div>"
+    }
+  ]
+}

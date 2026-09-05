@@ -1600,3 +1600,111 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "દેહજળ અને પરિવહન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રુધિરરસ (Plasma) નું બંધારણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિરરસ એ આછા પીળા રંગનું સ્નિગ્ધ પ્રવાહી છે, જે રુધિરના 55% ભાગ બનાવે છે. તેમાં 90-92% પાણી અને 6-8% પ્રોટીન હોય છે. મુખ્ય પ્રોટીનમાં ફાઈબ્રિનોજન (રુધિર ગંઠાવવા માટે), ગ્લોબ્યુલિન (રોગપ્રતિકારક શક્તિ માટે) અને આલ્બ્યુમિન (આસૃતિ સંતુલન માટે) નો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'FGA' યાદ રાખો - Fibrinogen (Fixing), Globulin (Guard), Albumin (Amount of water/Osmotic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રકતકણો (RBCs) ની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુખ્ત મનુષ્યમાં સરેરાશ 5 થી 5.5 મિલિયન રકતકણો પ્રતિ ઘન મિમી રુધિરમાં હોય છે. તેમાં લાલ રંગનું હિમોગ્લોબિન હોય છે. તે દ્વિ-અંતર્ગોળ આકારના અને કોષકેન્દ્ર વિહીન હોય છે. તેનું આયુષ્ય 120 દિવસનું હોય છે અને તેનો નાશ બરોળ (Spleen) માં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RBC = Red (હિમોગ્લોબિન), Biconcave (આકાર), Cemetery (બરોળ - કબ્રસ્તાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શ્વેતકણો (WBCs) ના મુખ્ય પ્રકારો અને તેના કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વેતકણો બે પ્રકારના છે: (1) કણિકામય (ન્યુટ્રોફિલ્સ, ઇઓસિનોફિલ્સ, બેઝોફિલ્સ) અને (2) કણિકાવિહીન (લિમ્ફોસાઇટ્સ, મોનોસાઇટ્સ). ન્યુટ્રોફિલ્સ અને મોનોસાઇટ્સ ભક્ષક કોષો છે, બેઝોફિલ્સ હિસ્ટેમાઇન અને હિપેરીન સ્ત્રાવ કરે છે, અને લિમ્ફોસાઇટ્સ રોગપ્રતિકારકતા આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Never Let Monkeys Eat Bananas' (Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils - વધુથી ઓછા ક્રમમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રુધિર ગંઠાઈ જવાની પ્રક્રિયામાં કેલ્શિયમ (Ca++) ની ભૂમિકા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિર ગંઠાઈ જવાની પ્રક્રિયા (Coagulation) માં કેલ્શિયમ આયનો ખૂબ જ મહત્વપૂર્ણ ભૂમિકા ભજવે છે. તે પ્રોથ્રોમ્બિનેઝ ઉત્સેચકની સક્રિયતા માટે અને ફાઈબ્રિનોજનમાંથી ફાઈબ્રિન બનવાના વિવિધ તબક્કાઓમાં આવશ્યક સહકારક તરીકે કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ca++ = 'Clotting Activator'. કેલ્શિયમ વગર રુધિર ગંઠાય નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લસિકા (Lymph) એટલે શું? તેના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિર કેશિકાઓમાંથી પેશીઓ વચ્ચે મુક્ત થતા પ્રવાહીને પેશીજળ કે લસિકા કહે છે. તે રંગવિહીન પ્રવાહી છે. તેના કાર્યો: (1) પોષક દ્રવ્યો અને વાયુઓની આપ-લે કરવી, (2) આંતરડામાં ચરબીનું શોષણ કરવું (પયસ્વિની દ્વારા), (3) લિમ્ફોસાઇટ્સ દ્વારા રોગપ્રતિકારકતા આપવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા = 'Middleman' (રુધિર અને કોષો વચ્ચેનો મધ્યસ્થી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખુલ્લું અને બંધ પરિવહનતંત્ર વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લું પરિવહન: રુધિર રુધિરવાહિનીઓમાંથી બહાર નીકળી કોટર (Sinuses) માં વહે છે (દા.ત. સંધિપાદ, મૃદુકાય). બંધ પરિવહન: રુધિર હંમેશા બંધ રુધિરવાહિનીઓના જાળમાં વહે છે (દા.ત. નૂપુરક, પૃષ્ઠવંશી). બંધ પરિવહન વધુ કાર્યક્ષમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Open = Open spaces (કોટર), Closed = Closed pipes (વાહિનીઓ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માનવ હૃદયના વાલ્વ (Valves) ના પ્રકારો અને સ્થાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ત્રિદલ વાલ્વ: જમણા કર્ણક અને જમણા ક્ષેપક વચ્ચે. (2) દ્વિદલ (મિત્રલ) વાલ્વ: ડાબા કર્ણક અને ડાબા ક્ષેપક વચ્ચે. (3) અર્ધચંદ્રાકાર વાલ્વ: ક્ષેપકો અને મુખ્ય ધમનીઓ (ફુપ્ફુસ ધમની અને મહાધમની) ના જોડાણ સ્થાને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Right = TRI (3), Left = BI (2) / Mitral.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંઠ પેશી (Nodal Tissue) એટલે શું? તેના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદયના સ્નાયુઓનો બનેલો વિશિષ્ટ જથ્થો જે સ્વયં ઉત્તેજિત થઈ શકે છે તેને ગાંઠ પેશી કહે છે. મુખ્ય બે ગાંઠ છે: (1) સાયનો એટ્રિયલ નોડ (SA Node) - જમણા કર્ણકની ઉપરની દીવાલમાં, (2) એટ્રિયો વેન્ટ્રિક્યુલર નોડ (AV Node) - જમણા કર્ણકના નીચેના ડાબા ખૂણે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SA Node = 'Pacemaker' (હૃદયની ગતિ શરૂ કરનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાર્ડિયાક સાયકલ (હૃદય ચક્ર) ના તબક્કાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક હૃદયના ધબકારાથી બીજા ધબકારા વચ્ચેની ઘટનાને હૃદય ચક્ર કહે છે. સમય: 0.8 સેકન્ડ. મુખ્ય તબક્કા: (1) સંયુક્ત શિથિલન (Joint Diastole), (2) કર્ણક સંકોચન (Atrial Systole - 0.1s), (3) ક્ષેપક સંકોચન (Ventricular Systole - 0.3s) અને ક્ષેપક શિથિલન (0.4s).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Systole = Squeezing (સંકોચન), Diastole = Dilating (શિથિલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્ટ્રોક વોલ્યુમ (Stroke Volume) અને કાર્ડિયાક આઉટપુટ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક હૃદય ચક્ર દરમિયાન દરેક ક્ષેપક દ્વારા પંપ કરવામાં આવતા રુધિરના કદને સ્ટ્રોક વોલ્યુમ કહે છે (આશરે 70 ml). કાર્ડિયાક આઉટપુટ = સ્ટ્રોક વોલ્યુમ × હૃદયના ધબકારા (70 ml × 72 = આશરે 5000 ml અથવા 5 લિટર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO = SV × HR (Cardiac Output = Stroke Volume × Heart Rate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હૃદયના અવાજો (Heart Sounds) કેવી રીતે ઉત્પન્ન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદય ચક્ર દરમિયાન બે સ્પષ્ટ અવાજ સંભળાય છે: (1) પ્રથમ અવાજ 'લબ' (Lubb): જે ત્રિદલ અને દ્વિદલ વાલ્વ બંધ થવાને કારણે આવે છે. (2) બીજો અવાજ 'ડબ' (Dubb): જે અર્ધચંદ્રાકાર વાલ્વ બંધ થવાને કારણે આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ વાલ્વ 'બંધ' થવાથી આવે છે, ખુલવાથી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ECG માં P તરંગ અને QRS સંકુલ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) P-તરંગ: કર્ણકોનું વિધ્રુવીકરણ (Atrial Depolarization) દર્શાવે છે, જે કર્ણકોના સંકોચન તરફ દોરી જાય છે. (2) QRS સંકુલ: ક્ષેપકોનું વિધ્રુવીકરણ (Ventricular Depolarization) દર્શાવે છે, જે ક્ષેપકોના સંકોચનની શરૂઆત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = Pumping of Atria, QRS = Quick response of Ventricles.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બેવડું પરિવહન (Double Circulation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિર એક ચક્ર પૂર્ણ કરવા માટે હૃદયમાંથી બે વાર પસાર થાય છે: (1) ફુપ્ફુસ પરિવહન: જમણું ક્ષેપક → ફેફસાં → ડાબું કર્ણક. (2) દૈહિક પરિવહન: ડાબું ક્ષેપક → અંગો → જમણું કર્ણક. આને બેવડું પરિવહન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Double = Pulmonary (ફેફસાં) + Systemic (શરીર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "યકૃત પોર્ટલ તંત્ર (Hepatic Portal System) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાચનમાર્ગ (આંતરડા) માંથી રુધિર સીધું મહાશિરામાં જવાને બદલે પહેલા યકૃતમાં જાય છે. આ રુધિર જે વાહિની દ્વારા યકૃતમાં જાય તેને યકૃત પોર્ટલ શિરા કહે છે. આ તંત્રને યકૃત પોર્ટલ તંત્ર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gut to Liver connection = Hepatic Portal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હાઈપરટેન્શન (ઉચ્ચ રુધિરદાબ) ની વ્યાખ્યા અને તેની અસરો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે રુધિરનું દબાણ સામાન્ય (120/80 mmHg) કરતા સતત વધારે (દા.ત. 140/90 કે વધુ) રહે, તો તેને હાઈપરટેન્શન કહે છે. તેની અસરો: હૃદય રોગની શક્યતા વધે છે અને મગજ તેમજ કિડની જેવા અંગોને નુકસાન થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 120 (S) / 80 (D) = Normal. 140/90 = Danger!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કોરોનરી આર્ટરી ડિસીઝ (CAD) વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ રોગ હૃદયના સ્નાયુઓને રુધિર પહોંચાડતી ધમનીઓને અસર કરે છે. તે ધમનીઓમાં કેલ્શિયમ, ચરબી (કોલેસ્ટરોલ) અને તંતુમય પેશીના જમા થવાને કારણે થાય છે, જેને કારણે ધમનીનું પોલાણ સાંકડું બને છે. તેને એથેરોસ્ક્લેરોસિસ પણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CAD = 'Clogging' (જામ થવું) in heart's own pipes.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એન્જાઈના પેક્ટોરિસ (Angina Pectoris) ના લક્ષણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એન્જાઈના એટલે છાતીમાં થતો તીવ્ર દુખાવો. જ્યારે હૃદયના સ્નાયુઓને પૂરતો ઓક્સિજન મળતો નથી ત્યારે આ દુખાવો થાય છે. તે સ્ત્રી અને પુરુષ બંનેમાં કોઈ પણ ઉંમરે થઈ શકે છે, પરંતુ તે મધ્યમ અને વૃદ્ધ વયના લોકોમાં વધુ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Angina = 'Air' (Oxygen) ની અછતથી થતો Pain.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "હાર્ટ ફેલ્યોર (Heart Failure) અને કાર્ડિયાક એરેસ્ટ વચ્ચેનો તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાર્ટ ફેલ્યોર: હૃદય શરીરની જરૂરિયાત મુજબ પૂરતું રુધિર પંપ કરી શકતું નથી. કાર્ડિયાક એરેસ્ટ: હૃદયના ધબકારા એકાએક બંધ થઈ જાય છે. હૃદય રોગનો હુમલો (Heart Attack): જ્યારે હૃદયના સ્નાયુને રુધિર ન મળવાથી તે અચાનક ક્ષતિગ્રસ્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Failure = Low Efficiency, Arrest = Stop (બંધ થઈ જવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Rh ઇનકમ્બેટિબિલિટી (ગર્ભ રકતકણ વિસ્ફોટન) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો Rh- નેગેટિવ માતાના ગર્ભમાં Rh+ પોઝિટિવ બાળક હોય, તો પ્રથમ પ્રસૂતિ વખતે માતાના રુધિરમાં Rh એન્ટિબોડી બને છે. બીજી પ્રેગ્નન્સી વખતે આ એન્ટિબોડી ગર્ભના રકતકણોનો નાશ કરે છે. આને 'એરિથ્રોબ્લાસ્ટોસિસ ફીટાલિસ' કહે છે. તેનાથી બચવા માતાને પ્રસૂતિ પછી તરત Rh વિરોધી એન્ટિબોડી અપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rh- Mom + Rh+ Baby = Risk (બીજા બાળકમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રુધિરના ગંઠાવવા (Blood Clotting) માં થ્રોમ્બિનનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિર ગંઠાવવાની પ્રક્રિયામાં, પ્રોથ્રોમ્બિનમાંથી સક્રિય 'થ્રોમ્બિન' ઉત્સેચક બને છે. આ થ્રોમ્બિન રુધિરરસમાં રહેલા દ્રાવ્ય 'ફાઈબ્રિનોજન' ને અદ્રાવ્ય 'ફાઈબ્રિન' તંતુઓમાં ફેરવે છે. આ તંતુઓની જાળમાં રુધિરના કોષો ફસાઈ જાય છે અને રુધિર ગંઠાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thrombin = The Transformer (Fibrinogen into Fibrin).</p></div>"
+    }
+  ]
+}

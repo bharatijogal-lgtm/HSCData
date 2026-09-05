@@ -1708,3 +1708,116 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "ઉત્સર્ગ પેદાશો અને તેનો નિકાલ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એમોનિયા, યુરિયા અને યુરિક એસિડને તેમની ઝેરી અસરોના ઘટતા ક્રમમાં ગોઠવો અને સૌથી વધુ પાણી કોના નિકાલ માટે જોઈએ તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝેરી અસરોનો ઘટતો ક્રમ: એમોનિયા > યુરિયા > યુરિક એસિડ. એમોનિયા સૌથી વધુ ઝેરી છે અને તેના નિકાલ માટે સૌથી વધુ પાણીની જરૂર પડે છે, જ્યારે યુરિક એસિડ સૌથી ઓછું ઝેરી છે અને ન્યૂનતમ પાણી સાથે નિકાલ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-U-U (Ammonia - Urea - Uric acid). 'A' પહેલો અક્ષર એટલે સૌથી વધુ ઝેરી અને સૌથી વધુ પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એમોનોટેલિઝમ એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમોનિયાના ઉત્સર્જનની પ્રક્રિયાને એમોનોટેલિઝમ કહે છે. એમોનિયા અત્યંત દ્રાવ્ય હોવાથી પ્રસરણ દ્વારા સપાટી પરથી નિકાલ પામે છે. ઉદાહરણ: અસ્થિમત્સ્યો (Bony fishes), જલીય ઉભયજીવીઓ અને જલીય કીટકો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયા = જલીય (પાણીમાં રહેતા પ્રાણીઓ મોટાભાગે એમોનોટેલિક હોય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "યુરિકોટેલિક પ્રાણીઓ એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રાણીઓ નાઇટ્રોજનયુક્ત નકામા પદાર્થોનો યુરિક એસિડ સ્વરૂપે (લુગદી કે ગોળીકા સ્વરૂપે) નિકાલ કરે છે તેને યુરિકોટેલિક કહેવાય છે. ઉદાહરણ: સરીસૃપ, પક્ષીઓ, જમીન પરની ગોકળગાય અને કીટકો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P-I-G-S' (P-Birds/Pyxis, I-Insects, G-Gastropods, S-Snakes/Reptiles) - આ બધા પાણી બચાવવા યુરિક એસિડ કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિવિધ પ્રાણીઓમાં જોવા મળતા ઉત્સર્ગ અંગોના નામની જોડી બનાવો (ઓછામાં ઓછા 4).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. જ્યોતકોષો (Protonephridia): પ્લેનેરિયા (ચપટા કૃમિ), 2. ઉત્સર્ગિકા (Nephridia): અળસિયું, 3. માલ્પિધિયન નલિકા: વંદો (કીટકો), 4. એન્ટેનલ ગ્રંથિ (હરિત ગ્રંથિ): ઝીંગા (Crayfish).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યોત-ચપટા, અળસિયું-ઉત્સર્ગ, વંદો-માલ્પિધિયન, ઝીંગા-હરિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મનુષ્યના મૂત્રપિંડનું સ્થાન અને કદ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાન: અંતિમ ઉરસીય અને ત્રીજી કટિ કશેરુકાની વચ્ચે, ઉદર ગુહામાં પૃષ્ઠ બાજુએ. કદ: લંબાઈ 10-12 સેમી, પહોળાઈ 5-7 સેમી, જાડાઈ 2-3 સેમી. વજન: 120-170 ગ્રામ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10-5-2 (લંબાઈ-પહોળાઈ-જાડાઈ ના અડધા અડધા કરતા જવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નાભિ (Hilum) એટલે શું? તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રપિંડની અંદરની અંતર્ગોળ સપાટીના કેન્દ્રમાં આવેલી ખાંચને નાભિ (Hilum) કહે છે. તેના દ્વારા મૂત્રવાહિની, રુધિરવાહિનીઓ અને ચેતાઓ મૂત્રપિંડમાં પ્રવેશે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિ = મૂત્રપિંડનું 'Entry Gate'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માલ્પિધિયન કાય (Renal Corpuscle) શેનું બનેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિરકેશિકાગૂચ્છ (Glomerulus) અને તેની આસપાસ આવેલી બાઉમેનની કોથળી (Bowman's capsule) ભેગા મળીને માલ્પિધિયન કાય અથવા રિનલ કોર્પસલ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G + B = M (Glomerulus + Bowman = Malpighian body).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બાહ્યક ઉત્સર્ગ એકમ (Cortical Nephrons) અને જક્ષ્ટા મેડ્યુલરી ઉત્સર્ગ એકમ વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cortical: હેનલેનો પાશ ટૂંકો હોય છે અને મજ્જકમાં ખૂબ ઓછો ઊતરે છે (85%). Juxtamedullary: હેનલેનો પાશ લાંબો હોય છે અને મજ્જકમાં ઊંડે સુધી જાય છે (15%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cortical = ટૂંકું (નામ મોટું કામ નાનું), Juxta = લાંબુ (મજ્જક સુધી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગૂચ્છ ગાળણ દર (GFR) એટલે શું? તેનું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રપિંડ દ્વારા પ્રતિ મિનિટ બનતા ગાળણના જથ્થાને ગૂચ્છ ગાળણ દર (GFR) કહે છે. એક તંદુરસ્ત વ્યક્તિમાં GFR આશરે 125 મિલી/મિનિટ એટલે કે દિવસનું 180 લિટર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 125 મિલી મિનિટનું, 180 લિટર આખા દિવસનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "JGA (Juxtaglomerular Apparatus) નું કાર્ય સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે GFR માં ઘટાડો થાય છે, ત્યારે JGA ના કોષો સક્રિય થઈ 'રેનિન' (Renin) મુક્ત કરે છે. આ રેનિન ગૂચ્છ રુધિર પ્રવાહને ઉત્તેજીત કરે છે, જેનાથી GFR ફરીથી સામાન્ય થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GFR ડાઉન -> રેનિન અપ -> GFR નોર્મલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પુનઃશોષણ (Reabsorption) એટલે શું? કયા પદાર્થો સક્રિય રીતે શોષાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાળણમાંથી જરૂરી પદાર્થોને રુધિરમાં પાછા મેળવવાની ક્રિયાને પુનઃશોષણ કહે છે. ગ્લુકોઝ, એમિનો એસિડ અને Na+ સક્રિય રીતે શોષાય છે, જ્યારે નાઇટ્રોજનયુક્ત નકામા પદાર્થો નિષ્ક્રિય રીતે શોષાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામની વસ્તુઓ (ગ્લુકોઝ) સક્રિય રીતે 'પકડવી' પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નલિકાકીય સ્ત્રાવ (Tubular Secretion) નું મહત્વ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્સર્ગ એકમની નલિકાઓ ગાળણમાં H+, K+ અને એમોનિયાનો સ્ત્રાવ કરે છે. આ પ્રક્રિયા શરીરના પ્રવાહીઓમાં આયનીય સંતુલન (Ionic balance) અને pH જાળવવામાં ખૂબ મહત્વની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રાવ (Secretion) = pH અને આયનોનું બેલેન્સિંગ ફેક્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "PCT (નિકટવર્તી ગૂંચળાદાર નલિકા) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. ગાળણના લગભગ 70-80% ઇલેક્ટ્રોલાઇટ્સ અને પાણીનું પુનઃશોષણ કરે છે. 2. ગ્લુકોઝ અને એમિનો એસિડનું સંપૂર્ણ પુનઃશોષણ. 3. H+ અને એમોનિયાના સ્ત્રાવ દ્વારા pH જાળવણી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCT = 'Maximum' શોષણ (બધું જ કામની વસ્તુ અહીં ખેંચાઈ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "હેનલેના પાશના આરોહી અને અવરોહી ભુજની વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવરોહી ભુજ (Descending limb): પાણી માટે પ્રવેશ્ય પણ ઇલેક્ટ્રોલાઇટ્સ માટે અપ્રવેશ્ય છે. આરોહી ભુજ (Ascending limb): પાણી માટે અપ્રવેશ્ય પણ ઇલેક્ટ્રોલાઇટ્સ (NaCl) ના પરિવહન માટે પ્રવેશ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે જાય (અવરોહી) તો પાણી બહાર, ઉપર જાય (આરોહી) તો મીઠું (NaCl) બહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કાઉન્ટર કરન્ટ મિકેનિઝમ (સામા પ્રવાહ પ્રક્રિયા) માં કયા બે ભાગો ભાગ લે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાઉન્ટર કરન્ટ મિકેનિઝમ હેનલેનો પાશ (Henle's loop) અને વાસા રેક્ટા (Vasa recta) વચ્ચે જોવા મળે છે. આ પ્રક્રિયા મજ્જક આંતરાલીય પ્રવાહીમાં સાંદ્રતાનો ઢોળાંશ (300 to 1200 mOsmol/L) જાળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Loop of Henle + Vasa Recta = સાંદ્ર મૂત્ર બનાવવાની ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ADH (Antidiuretic Hormone) મૂત્ર નિર્માણ પર કેવી રીતે અસર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે શરીરમાં પાણી ઘટે, ત્યારે ADH મુક્ત થાય છે. તે DCT અને સંગ્રહણ નલિકામાં પાણીનું પુનઃશોષણ વધારે છે, જેનાથી મૂત્રનું પ્રમાણ ઘટે છે (Anti-diuresis) અને રુધિરદાબ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH = 'પાણી બચાવો' હોર્મોન (Water Saver).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ANF (Atrial Natriuretic Factor) નું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે હૃદયના કર્ણકોમાં રુધિરનું દબાણ વધે છે, ત્યારે ANF મુક્ત થાય છે. તે રુધિરવાહિનીઓને પહોળી (Vasodilation) કરે છે, જે રુધિરના દબાણને ઘટાડે છે. તે RAAS ની વિરુદ્ધ કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RAAS દબાણ વધારે, ANF દબાણ ઘટાડે (Check and Balance).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મૂત્રાશય ખાલી કરવાની પ્રક્રિયા (Micturition) ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રાશય ભરાતા તેની દીવાલ ખેંચાય છે, જે સંદેશા CNS ને મોકલે છે. CNS માંથી મોટર સંદેશાઓ મૂત્રાશયના સ્નાયુઓનું સંકોચન અને મૂત્રમાર્ગના સ્નાયુઓનું શિથિલન પ્રેરે છે, જેથી મૂત્ર ત્યાગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેંચાણ -> CNS -> સંકોચન + શિથિલન = મૂત્રત્યાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ફેફસાં અને યકૃત ઉત્સર્જનમાં કેવી રીતે મદદ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં: દરરોજ મોટા પ્રમાણમાં CO2 (18 L/day) અને પાણીનો નિકાલ કરે છે. યકૃત: પિત્ત રંજકો (બિલિરૂબિન, બિલિવર્ડિન), કોલેસ્ટરોલ અને વિઘટિત સ્ટીરોઈડ હોર્મોન્સનો મળ દ્વારા નિકાલ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાં = CO2 ગેસ, યકૃત = પિત્ત રંજકો (કચરો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "યુરેમિયા (Uremia) અને રિનલ કેલ્ક્યુલી (Renal Calculi) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરેમિયા: રુધિરમાં યુરિયાનું પ્રમાણ વધી જવું, જે મૂત્રપિંડ ફેલ થવા તરફ દોરી શકે છે. રિનલ કેલ્ક્યુલી: મૂત્રપિંડમાં ક્ષારો (જેમ કે ઓક્ઝેલેટ) ના સ્ફટિકો જામી જવાથી બનતી પથરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુરેમિયા = લોહીમાં યુરિયા, કેલ્ક્યુલી = ક્ષારની પથરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "હીમોડાયાલિસિસ (Hemodialysis) માં કયા પદાર્થનો ઉપયોગ એન્ટી-કોએગ્યુલન્ટ તરીકે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હીમોડાયાલિસિસ દરમિયાન ધમનીમાંથી રુધિર કાઢી તેને ડાયાલાઈઝિંગ યુનિટમાં મોકલતા પહેલા તેમાં 'હિપેરીન' (Heparin) નામનું એન્ટી-કોએગ્યુલન્ટ ઉમેરવામાં આવે છે જેથી રુધિર ગંઠાઈ ન જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિપેરીન = No Clotting (રુધિર ન ગંઠાય).</p></div>"
+    }
+  ]
+}

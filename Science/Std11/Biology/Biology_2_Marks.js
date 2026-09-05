@@ -1934,3 +1934,131 @@ var Std11_Biology_2_Marks = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "ચેતાકીય નિયંત્રણ અને સહનિયમન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સહનિયમન (Coordination) એટલે શું? તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહનિયમન એક એવી પ્રક્રિયા છે જેના દ્વારા બે અથવા વધુ અંગો એકબીજા સાથે આંતરક્રિયા કરે છે અને એકબીજાના કાર્યોમાં પૂરક બને છે. ઉદાહરણ તરીકે, જ્યારે આપણે કસરત કરીએ છીએ ત્યારે સ્નાયુઓની ઉર્જાની જરૂરિયાત વધે છે, જેના પરિણામે શ્વસન દર, હૃદયના ધબકારા અને રુધિર પ્રવાહમાં વધારો થાય છે. આ બધું સહનિયમનને કારણે શક્ય બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહનિયમન = 'ટીમવર્ક'. જેમ ક્રિકેટમાં બધા ખેલાડીઓ જીતવા માટે સાથે કામ કરે, તેમ અંગો શરીર ચલાવવા સાથે કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હાઈડ્રા અને કીટકોના ચેતાતંત્ર વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) હાઈડ્રા (નિમ્ન કક્ષાના અપૃષ્ઠવંશી): તેમાં અત્યંત સરળ ચેતાતંત્ર હોય છે જે માત્ર ચેતાજાળિકા (Network of neurons) સ્વરૂપે હોય છે. (2) કીટકો: કીટકોમાં ચેતાતંત્ર વધુ વિકસિત હોય છે, જેમાં મગજની સાથે સાથે અનેક ચેતાકંદો (Ganglia) અને ચેતાપેશીઓ આવેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રા = જાળી (Network), કીટક = મગજ + કંદ (Brain + Ganglia).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચેતાકોષના મુખ્ય ત્રણ ભાગો વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચેતાકોષના મુખ્ય ત્રણ ભાગો છે: (1) કોષકાય (Cell Body): જેમાં કોષરસ, અંગિકાઓ અને નિસલની કણિકાઓ હોય છે. (2) શિખાતંતુ (Dendrites): ટૂંકા તંતુઓ જે ઉર્મિવેગને કોષકાય તરફ લાવે છે. (3) અક્ષતંતુ (Axon): લાંબો તંતુ જે ઉર્મિવેગને કોષકાયથી દૂર ચેતાંતો તરફ લઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિખાતંતુ = 'ઈનપુટ' (In), અક્ષતંતુ = 'આઉટપુટ' (Out).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નિસલની કણિકાઓ (Nissl’s granules) શું છે અને તે ક્યાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિસલની કણિકાઓ એ ચેતાકોષના કોષકાય (Cell body) અને શિખાતંતુઓમાં જોવા મળતી ખાસ પ્રકારની દાણાદાર રચનાઓ છે. તે મુખ્યત્વે રીબોઝોમ્સ અને રફ એન્ડોપ્લાઝમિક રેટિક્યુલમની બનેલી હોય છે, જે પ્રોટીન સંશ્લેષણ માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિસલ = પ્રોટીન ફેક્ટરી (NP - Nissl Protein).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બહુધ્રુવીય અને દ્વિધ્રુવીય ચેતાકોષના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) બહુધ્રુવીય ચેતાકોષ (Multipolar): એક અક્ષતંતુ અને બે કે તેથી વધુ શિખાતંતુઓ ધરાવે છે. ઉદા. મગજનું બાહ્યક (Cerebral Cortex). (2) દ્વિધ્રુવીય ચેતાકોષ (Bipolar): એક અક્ષતંતુ અને એક શિખાતંતુ ધરાવે છે. ઉદા. આંખનું નેત્રપટલ (Retina).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહુ-મગજ' (Multipolar-Cortex) અને 'બે-આંખ' (Bipolar-Retina).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મજ્જિત અને અમજ્જિત અક્ષતંતુ વચ્ચેનો ભેદ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) મજ્જિત (Myelinated): શ્વાનના કોષો અક્ષતંતુની ફરતે મજ્જાપડ બનાવે છે. બે મજ્જાપડ વચ્ચેની જગ્યાને 'રેન્વિયરની ગાંઠ' કહે છે. ઉદા. કરોડરજ્જુ ચેતાઓ. (2) અમજ્જિત (Non-myelinated): શ્વાનના કોષો હોય છે પણ મજ્જાપડ બનાવતા નથી. ઉદા. સ્વયંવર્તી ચેતાતંત્ર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મજ્જિત = 'ઇન્સ્યુલેટેડ વાયર', અમજ્જિત = 'ખુલ્લો વાયર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિશ્રામી કલાવીજસ્થિતિમાન (Resting Potential) વખતે કોષરસપટલની સ્થિતિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્રામી અવસ્થામાં, ચેતાક્ષ પટલ K+ આયનો માટે વધુ પ્રવેશશીલ અને Na+ આયનો માટે લગભગ અપ્રવેશશીલ હોય છે. આને કારણે અક્ષતંતુની અંદરના ભાગમાં K+ અને ઋણ વીજભારિત પ્રોટીનનું પ્રમાણ વધુ હોય છે, જ્યારે બહાર Na+ નું પ્રમાણ વધુ હોય છે. પટલ બહારથી ધન અને અંદરથી ઋણ વીજભારિત બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'K-ઇન, Na-આઉટ' (K+ અંદર, Na+ બહાર). અંદર હંમેશા ઋણ (Negative) રે'વું વિશ્રામ વખતે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સોડિયમ-પોટેશિયમ પંપનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોડિયમ-પોટેશિયમ પંપ એ સક્રિય વહન દ્વારા આયનિક સાંદ્રતા જાળવી રાખે છે. તે ATP નો ઉપયોગ કરીને 3 Na+ આયનોને કોષની બહાર ફેંકે છે અને તેના બદલામાં 2 K+ આયનોને કોષની અંદર દાખલ કરે છે. આ પ્રક્રિયા ચેતાપટલના ધ્રુવીકરણને જાળવી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '3-Na આઉટ, 2-K ઇન' (Trick: 3 નન્ના બહાર, 2 કાકા અંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિદ્યુતકીય ચેતાપાગમ (Electrical Synapse) ની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યુતકીય ચેતાપાગમમાં પૂર્વ અને પશ્ચ ચેતાપાગમીય પટલ એકબીજાની ખૂબ નજીક હોય છે. વિદ્યુત પ્રવાહ સીધો જ એક ચેતાકોષમાંથી બીજામાં વહી શકે છે. આમાં ઉર્મિવેગનું વહન રાસાયણિક ચેતાપાગમ કરતા ઘણું ઝડપી હોય છે. આપણા શરીરમાં આ પ્રકારના ચેતાપાગમ જૂજ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યુતકીય = 'ડાયરેક્ટ કનેક્શન' (Super Fast).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રાસાયણિક ચેતાપાગમ દ્વારા ઉર્મિવેગનું વહન કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ઉર્મિવેગ અક્ષતંતુના છેડા (ચેતાંત) પર પહોંચે છે, ત્યારે તે ચેતાપાગમીય પુટિકાઓને ઉત્તેજે છે, જેમાંથી 'ન્યુરોટ્રાન્સમીટર' (દા.ત. એસિટાઇલ કોલીન) મુક્ત થાય છે. આ રસાયણો ચેતાપાગમીય ફાટ દ્વારા વહન પામીને પશ્ચ પટલ પરના ગ્રાહીઓ સાથે જોડાય છે અને નવો વેગ ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાસાયણિક = 'કોરિયર સર્વિસ' (પુટિકા થી ગ્રાહી સુધી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મસ્તિષ્ક આવરણો (Cranial Meninges) ના નામ બહારથી અંદરના ક્રમમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવ મગજ ખોપરીની અંદર ત્રણ આવરણો દ્વારા સુરક્ષિત છે: (1) બાહ્યતાનિકા (Dura mater): સૌથી બહારનું સખત પડ. (2) મધ્યતાનિકા (Arachnoid mater): પાતળું મધ્ય પડ. (3) અંતઃતાનિકા (Pia mater): સૌથી અંદરનું અત્યંત પાતળું પડ જે મગજની પેશીના સંપર્કમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DAP (Dura - Arachnoid - Pia).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મગજમાં 'કેલોસમ કાય' (Corpus Callosum) નું સ્થાન અને કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અગ્ર મગજમાં બૃહદ મસ્તિષ્ક બે અર્ધગોળકોમાં વહેંચાયેલું હોય છે. આ બંને બૃહદ મસ્તિષ્ક ગોળાર્ધ જે ચેતાતંતુઓના પટ્ટા દ્વારા એકબીજા સાથે જોડાયેલા હોય છે, તેને કેલોસમ કાય (Corpus Callosum) કહે છે. તે બંને ગોળાર્ધ વચ્ચે માહિતીની આપ-લે કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલોસમ કાય = 'બ્રિજ' (Bridge between two brain halves).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હાયપોથેલેમસ (Hypothalamus) ના મુખ્ય કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાયપોથેલેમસના મુખ્ય કાર્યો: (1) શરીરના તાપમાનનું નિયમન કરવું. (2) ભૂખ અને તરસની લાગણીનું નિયંત્રણ કરવું. (3) તે અનેક અંતઃસ્ત્રાવો (Releasing hormones) મુક્ત કરે છે જે પિચ્યુટરી ગ્રંથિનું નિયમન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાયપોથેલેમસ = 'HTB' (H-Hunger, T-Temperature, B-Behavior/Biological clock).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લિમ્બિક તંત્ર (Limbic System) કોને કહેવાય? તેનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૃહદ મસ્તિષ્ક ગોળાર્ધના અંદરના ભાગો અને ઊંડી રચનાઓ જેવી કે એમીગડાલા (Amygdala) અને હિપ્પોકેમ્પસ (Hippocampus) મળીને લિમ્બિક તંત્ર બનાવે છે. તે હાયપોથેલેમસ સાથે મળીને જાતીય વર્તણૂક, ભાવનાત્મક પ્રતિક્રિયાઓ (ઉત્તેજના, ખુશી, ભય) અને અભિપ્રેરણા (Motivation) નું નિયમન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિમ્બિક = 'ઈમોશનલ સેન્ટર' (લાગણીઓનું મથક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મધ્ય મગજની રચનામાં 'કોર્પોરા ક્વાડ્રિજેમિના' (Corpora Quadrigemina) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્ય મગજના પૃષ્ઠ ભાગમાં ચાર ગોળાકાર ઉપસેલા ભાગો (Lobes) આવેલા હોય છે, જેને 'કોર્પોરા ક્વાડ્રિજેમિના' કહેવામાં આવે છે. તે મુખ્યત્વે દ્રષ્ટિ અને શ્રવણની પરાવર્તી ક્રિયાઓ સાથે સંકળાયેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્વાડ્રિ = 4 (ચાર દ્રષ્ટિ-શ્રવણ ટેકરા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પશ્ચ મગજના ભાગો અને લંબમજ્જા (Medulla) નું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્ચ મગજના ત્રણ ભાગો છે: પોન્સ (Pons), અનુમસ્તિષ્ક (Cerebellum) અને લંબમજ્જા (Medulla). લંબમજ્જાનું કાર્ય: તે શ્વસન, હૃદયના ધબકારા (Cardiovascular reflexes) અને જઠરના સ્ત્રાવ (Gastric secretions) જેવી અનૈચ્છિક ક્રિયાઓનું નિયંત્રણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબમજ્જા = 'જીવંત રાખતું કેન્દ્ર' (Life Support Center).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પરાવર્તી કમાન (Reflex Arc) ના ઘટકો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાવર્તી કમાનમાં ઓછામાં ઓછું એક સંવેદી ચેતાકોષ (Afferent neuron) અને એક પ્રેરક ચેતાકોષ (Efferent neuron) શ્રેણીબદ્ધ રીતે ગોઠવાયેલા હોય છે. ક્રમ: ગ્રાહી અંગ → સંવેદી ચેતા → કરોડરજ્જુ (CNS) → પ્રેરક ચેતા → પ્રતિચારક અંગ (સ્નાયુ/ગ્રંથિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંવેદી 'ઇન', પ્રેરક 'આઉટ'. (S-I-P-O: Sensory In, Plasticity/Processing, Output).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આંખના ડોળાના ત્રણ સ્તરોના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) શ્વેતપટલ (Sclera): સૌથી બહારનું સખત અને સફેદ સ્તર. (2) મધ્યપટલ (Choroid): રુધિરવાહિનીયુક્ત વાદળી રંગનું મધ્ય સ્તર. (3) નેત્રપટલ (Retina): સૌથી અંદરનું સ્તર જેમાં પ્રકાશગ્રાહી કોષો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S-C-R (Sclera - Choroid - Retina).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દંડકોષો અને શંકુકોષો વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) શંકુકોષો (Cones): તે દિવસના (તેજસ્વી) પ્રકાશમાં જોવામાં અને રંગો પારખવામાં મદદ કરે છે. (2) દંડકોષો (Rods): તે ઝાંખા પ્રકાશમાં (Twilight vision) જોવામાં મદદ કરે છે. તેમાં રોડોપ્સિન નામનું જાંબલી-લાલ પ્રોટીન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C-C (Cones for Color), Rods for Rat (રાત્રે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અંધબિંદુ (Blind spot) અને પીતબિંદુ (Fovea/Macula) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) અંધબિંદુ: જે જગ્યાએથી દ્રષ્ટિચેતા આંખની બહાર નીકળે છે ત્યાં પ્રકાશગ્રાહી કોષો હોતા નથી, તેથી તેને અંધબિંદુ કહે છે. (2) પીતબિંદુ (Fovea): નેત્રપટલના મધ્યમાં આવેલો એક ખાડો છે જ્યાં માત્ર શંકુકોષો ગીચતાથી ગોઠવાયેલા હોય છે. અહીં દ્રષ્ટિની સ્પષ્ટતા (Resolution) સૌથી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધ = No Cells, પીત = Best Vision.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કર્ણ અસ્થિઓના નામ અને તેમનું કાર્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યકર્ણમાં ત્રણ નાના અસ્થિઓ આવેલા છે: હથોડી (Malleus), એરણ (Incus) અને પેંગડું (Stapes). કાર્ય: આ અસ્થિઓ એકબીજા સાથે જોડાઈને કર્ણપટલ (કાનનો પડદો) માંથી આવતા ધ્વનિ તરંગોની તીવ્રતા વધારીને અંતઃકર્ણ સુધી પહોંચાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MIS (Malleus, Incus, Stapes) - કાનના 'મિસ' (MIS) કોલ જેવા અસ્થિઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "યુસ્ટેકિયન નલિકા (Eustachian tube) નું મહત્વ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુસ્ટેકિયન નલિકા મધ્યકર્ણને કંઠનળી સાથે જોડે છે. તેનું મુખ્ય કાર્ય કર્ણપટલ (કાનનો પડદો) ની બંને બાજુએ હવાના દબાણને સમાન રાખવાનું છે, જેથી પડદો ફાટી ન જાય અને ધ્વનિનું યોગ્ય વહન થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુસ્ટેકિયન = 'પ્રેશર બેલેન્સર' (Pressure Equalizer).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અંતઃકર્ણમાં આવેલ 'કોર્ટીકાય' (Organ of Corti) વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોર્ટીકાય એ શ્રવણ માટેનું મુખ્ય અંગ છે જે શંખિકા (Cochlea) ના બેઝિલર પટલ પર આવેલું છે. તેમાં હજારો 'વાળ કોષો' (Hair cells) હોય છે જે શ્રવણ ગ્રાહી તરીકે કાર્ય કરે છે. આ કોષોની ઉપર ટેક્ટોરિયલ પટલ આવેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોર્ટીકાય = 'સાંભળવાનું મશીન' (Hearing Mic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શરીરનું સંતુલન જાળવવા માટે કયા અંગો જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરીરનું સંતુલન જાળવવા માટે અંતઃકર્ણમાં આવેલું 'વેસ્ટિબ્યુલર તંત્ર' (Vestibular apparatus) જવાબદાર છે. જે (1) ત્રણ અર્ધવર્તુળી નલિકાઓ અને (2) ઓટોલિથ અંગ (સેક્યુલ અને યુટ્રિકલ) નું બનેલું છે. આ અંગો શરીરની સ્થિતિ અને ગતિ મુજબ સંતુલન રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેસ્ટિબ્યુલર = 'જીરોસ્કોપ' (Balance maintainer).</p></div>"
+    }
+  ]
+}

@@ -1,10 +1,11 @@
 import os
 import json
+import time
 from google import genai
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
-with open('system/progress_tracker.json', 'r') as f:
+with open('system/progress_tracker.json', 'r', encoding='utf-8') as f:
     tracker = json.load(f)
 
 # ધોરણ 11 બાયોલોજી (નવો સિલેબસ 2024+)
@@ -32,7 +33,6 @@ question_types = [
 ch_num = tracker['current_chapter']
 type_idx = tracker['current_type_index']
 
-# જો ઓટોમેશન પૂરું થઈ ગયું હોય તો સ્ક્રિપ્ટ બંધ કરો
 if tracker.get('status') == "completed" or type_idx >= len(question_types):
     print("🎉 ઓટોમેશન પૂર્ણ થઈ ગયું છે. બધા ડેટા બની ગયા છે!", flush=True)
     exit(0)
@@ -86,28 +86,47 @@ try:
     for model in client.models.list():
         if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
             name = model.name.lower()
-            if not any(word in name for word in ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa']):
+            # 404 વાળા જૂના મોડલ્સ ફિલ્ટર કર્યા
+            invalid_words = ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa', '2.5-flash']
+            if not any(word in name for word in invalid_words):
                 valid_models.append(model.name)
 except Exception as e:
     print(f"Error fetching models: {e}", flush=True)
 
+if not valid_models:
+    valid_models = ["models/gemini-3-flash-preview"]
+
 valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
+print(f"Active Models to use: {valid_models}", flush=True)
+
 output_data = ""
 
 for m in valid_models[:3]:
-    try:
-        print(f"⏳ Pending: {m} મોડલ દ્વારા ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો બની રહ્યા છે...", flush=True)
-        response = client.models.generate_content(model=m, contents=prompt)
-        raw_output = response.text.strip()
-        
-        if "{" in raw_output and "}" in raw_output:
-            raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+    print(f"⏳ Pending: {m} મોડલ દ્વારા ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો બની રહ્યા છે...", flush=True)
+    success = False
+    
+    # 503 સર્વર લોડ સામે આપમેળે 3 વાર રીટ્રાય કરશે
+    for attempt in range(1, 4):
+        try:
+            response = client.models.generate_content(model=m, contents=prompt)
+            raw_output = response.text.strip()
             
-        output_data = raw_output.strip()
-        print(f"✅ Success! ડેટા બની ગયો છે.", flush=True)
+            if "{" in raw_output and "}" in raw_output:
+                raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+                
+            output_data = raw_output.strip()
+            print(f"✅ Success! ડેટા બની ગયો છે.", flush=True)
+            success = True
+            break
+        except Exception as e:
+            err_msg = str(e)
+            print(f"⚠️ પ્રયાસ {attempt}/3 નિષ્ફળ ({m}): {err_msg}", flush=True)
+            if "NOT_FOUND" in err_msg or "no longer available" in err_msg:
+                break
+            time.sleep(6)  # અસ્થાયી લોડ સમયે 6 સેકન્ડ રાહ જોઈને ફરી ટ્રાય કરશે
+            
+    if success:
         break
-    except Exception as e:
-        print(f"❌ Failed with {m}. Error: {e}", flush=True)
 
 if not output_data:
     print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.", flush=True)
@@ -118,7 +137,7 @@ folder_path = f"Science/Std11/{subject}"
 os.makedirs(folder_path, exist_ok=True)
 
 q_id = current_q_type['id']
-file_path = f"{folder_path}/{subject}_{q_id}.js"  # દા.ત. Biology_MCQs.js
+file_path = f"{folder_path}/{subject}_{q_id}.js"
 
 mode = 'a' if os.path.exists(file_path) else 'w'
 with open(file_path, mode, encoding='utf-8') as f:
@@ -128,23 +147,19 @@ with open(file_path, mode, encoding='utf-8') as f:
     else:
         f.write(f',\n"{ch_num}": ' + output_data + '\n')
 
-# ---------------------------------------------------------
-# ટ્રેકર અપડેટ લોજીક: (બધા ચેપ્ટર પૂરા થાય પછી જ નવો પ્રકાર)
-# ---------------------------------------------------------
+# ટ્રેકર અપડેટ
 tracker['current_chapter'] += 1
 
-# જો 19 ચેપ્ટર પૂરા થઈ જાય, તો નવો પ્રશ્ન પ્રકાર (દા.ત. ખાલી જગ્યા) શરૂ કરો અને ચેપ્ટર 1 પર પાછા જાવ
 if tracker['current_chapter'] > len(std11_bio_chapters):
     tracker['current_chapter'] = 1
     tracker['current_type_index'] += 1
 
-# જો બધા જ પ્રકારના પ્રશ્નો પૂરા થઈ જાય, તો ઓટોમેશન પૂરું
 if tracker['current_type_index'] >= len(question_types):
     print("🎉 ધોરણ 11 બાયોલોજીના તમામ પ્રકારના પ્રશ્નો અને ચેપ્ટર પૂર્ણ થયા!", flush=True)
     tracker['status'] = "completed"
-    tracker['current_type_index'] = len(question_types) - 1 # એરર અટકાવવા
+    tracker['current_type_index'] = len(question_types) - 1
 
-with open('system/progress_tracker.json', 'w') as f:
+with open('system/progress_tracker.json', 'w', encoding='utf-8') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Minimum 70 Questions target applied.", flush=True)
+print("Task Completed Successfully!", flush=True)

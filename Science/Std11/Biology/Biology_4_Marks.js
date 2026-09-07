@@ -563,3 +563,111 @@ var Std11_Biology_4_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સપુષ્પી વનસ્પતિઓની અંતઃસ્થ રચના",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વર્ધનશીલ પેશી એટલે શું? તેના સ્થાનના આધારે પ્રકારોની વિસ્તૃત ચર્ચા કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિમાં વૃદ્ધિ મુખ્યત્વે કોષવિભાજનના સક્રિય વિસ્તારો પૂરતી મર્યાદિત હોય છે, જેને વર્ધનશીલ પેશી કહે છે. <br> 1. <strong>અગ્રસ્થ વર્ધનશીલ પેશી:</strong> તે મૂળ અને પ્રકાંડના અગ્ર ભાગે હોય છે. તે પ્રાથમિક પેશીઓનું નિર્માણ કરે છે. <br> 2. <strong>આંતરવિષ્ટ વર્ધનશીલ પેશી:</strong> તે પુખ્ત પેશીઓની વચ્ચે હોય છે (દા.ત. ઘાસમાં). તે શાકાહારીઓ દ્વારા ખવાઈ ગયેલા ભાગોને ફરી ઉગાડે છે. <br> 3. <strong>પાર્શ્વીય વર્ધનશીલ પેશી:</strong> તે પુખ્ત પ્રદેશોમાં જોવા મળે છે અને તે દ્વિતીય વૃદ્ધિ (જાડાઈ વધારવા) માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AAP - A(Agra), A(Antarvisht), P(Parshviya). અગ્ર વધારશે ઊંચાઈ, પાર્શ્વીય વધારશે જાડાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સરળ કાયમી પેશી તરીકે મૃદુતક (Parenchyma) પેશીની રચના અને કાર્ય સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૃદુતક પેશી એ સૌથી સામાન્ય પેશી છે. <br> 1. <strong>રચના:</strong> કોષો જીવંત, પાતળી દીવાલવાળા (સેલ્યુલોઝના બનેલા) અને સમવ્યાસી હોય છે. કોષો વચ્ચે આંતરકોષીય અવકાશ હોઈ શકે છે. <br> 2. <strong>આકાર:</strong> ગોળાકાર, અંડાકાર કે બહુકોણીય. <br> 3. <strong>કાર્ય:</strong> પ્રકાશસંશ્લેષણ, ખોરાકનો સંગ્રહ અને સ્ત્રાવ કરવાનું કાર્ય કરે છે. જો તેમાં હરિતકણ હોય તો તેને હરિતકણોતક કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુતક = 'મૃદુ' (Soft) + 'બહુમુખી'. તે બધે જ હોય અને બધા જ કામ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્થૂલકોણક પેશી (Collenchyma) ની વિશેષતાઓ અને મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પેશી દ્વિદળી વનસ્પતિઓના અધિસ્તરની નીચે જોવા મળે છે. <br> 1. <strong>લક્ષણ:</strong> તેના ખૂણાના ભાગે સેલ્યુલોઝ, હેમીસેલ્યુલોઝ અને પેક્ટીનનું સ્થૂલન જોવા મળે છે. <br> 2. <strong>રચના:</strong> કોષો જીવંત હોય છે અને આંતરકોષીય અવકાશનો અભાવ હોય છે. <br> 3. <strong>સ્થાન:</strong> તરુણ પ્રકાંડ અને પર્ણદંડમાં. <br> 4. <strong>કાર્ય:</strong> વનસ્પતિના નમ્ર ભાગોને યાંત્રિક મજબૂતી પૂરી પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખૂણાનું સ્થૂલન = પેક્ટીન'. યાદ રાખો: પેક્ટીન થી પાક્કી મજબૂતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દ્રઢોતક પેશી (Sclerenchyma) ના પ્રકારો અને તેની ઉપયોગીતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પેશી મૃત કોષોની બનેલી હોય છે. <br> 1. <strong>રચના:</strong> કોષ દીવાલ લિગ્નિનયુક્ત અને જાડી હોય છે. જીવરસ હોતો નથી. <br> 2. <strong>પ્રકારો:</strong> (A) તંતુઓ: લાંબા અને અણીદાર છેડે આવેલા. (B) અસ્થિકોષો (Sclereids): ગોળાકાર કે નળાકાર, ખૂબ જ સાંકડી કોષગુહા ધરાવે છે. <br> 3. <strong>સ્થાન:</strong> નાળિયેરના રેસા, જામફળ કે નાસપતીના ગર (પલ્પ) માં. <br> 4. <strong>કાર્ય:</strong> અંગોને સખત યાંત્રિક આધાર આપવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રઢોતક = 'દ્રઢ' (Strong/Dead). લિગ્નિન એ કુદરતી સિમેન્ટ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જલવાહક પેશી (Xylem) ના ઘટકો વિશે વિગતવાર માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલવાહક પેશી પાણી અને ખનિજ ક્ષારોનું વહન કરે છે. <br> 1. <strong>જલવાહિનિકી (Tracheids):</strong> લાંબા, નળાકાર, મૃત કોષો. <br> 2. <strong>જલવાહિની (Vessels):</strong> અનેક કોષોની હારમાળા છે, જે છિદ્રિષ્ટ પટ્ટીઓથી જોડાયેલા હોય છે (આવૃત બીજધારીની લાક્ષણિકતા). <br> 3. <strong>જલવાહક તંતુઓ:</strong> વધુ સ્થૂલિત દીવાલ ધરાવતા મૃત કોષો. <br> 4. <strong>જલવાહક મૃદુતક:</strong> એકમાત્ર જીવંત ઘટક, જે ખોરાકનો સંગ્રહ અને બાજુ તરફ વહન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહક = જલ (પાણી) + વાહક. યાદ રાખો: 'મૃદુતક જીવતું, બાકી બધા મૃત'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અન્નવાહક પેશી (Phloem) ના ઘટકો અને તેના કાર્યો વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે ખોરાકનું વહન કરે છે. <br> 1. <strong>ચાલની નલિકા (Sieve Tubes):</strong> લાંબી નલિકા જેવા કોષો, જેની છેડાની દીવાલ છિદ્રિષ્ટ (ચાલની પટ્ટીકા) હોય છે. પુખ્ત અવસ્થાએ કોષકેન્દ્ર હોતું નથી. <br> 2. <strong>સાથી કોષો:</strong> તે ચાલની નલિકાના દાબ ઢોળાંશનું નિયંત્રણ કરે છે. <br> 3. <strong>અન્નવાહક મૃદુતક:</strong> ખોરાક સંગ્રહ કરે છે (એકદળીમાં ગેરહાજર). <br> 4. <strong>અન્નવાહક તંતુઓ (Bast fibers):</strong> મૃત કોષો, જે આર્થિક રીતે ઉપયોગી છે (દા.ત. શણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phloem = Food. 'સાથી' વગર ચાલની નલિકા અધૂરી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અધિસ્તરીય પેશીતંત્રમાં વાયુરંધ્ર (Stomata) ની રચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુરંધ્રો પર્ણના અધિસ્તર પર આવેલા છિદ્રો છે. <br> 1. <strong>રક્ષક કોષો:</strong> બે વૃક્કાકાર (કિડની આકારના) કોષો હોય છે (ઘાસમાં ડંબેલ આકારના). તેમની અંદરની દીવાલ જાડી અને બહારની દીવાલ પાતળી હોય છે. <br> 2. <strong>હરિતકણ:</strong> રક્ષક કોષો હરિતકણ ધરાવે છે અને વાયુરંધ્ર ખોલવા/બંધ કરવાની ક્રિયાનું નિયમન કરે છે. <br> 3. <strong>સહાયક કોષો:</strong> રક્ષક કોષોની આસપાસના વિશિષ્ટ અધિસ્તરીય કોષો. <br> 4. <strong>કાર્ય:</strong> બાષ્પોત્સર્જન અને વાયુ વિનિમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kidney shape = દ્વિદળી, Dumbbell shape = ઘાસ (એકદળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાહીતંત્રોના વિવિધ પ્રકારો આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલવાહક અને અન્નવાહકની ગોઠવણીના આધારે: <br> 1. <strong>અરીય (Radial):</strong> જલવાહક અને અન્નવાહક જુદી જુદી ત્રિજ્યા પર એકાંતરે હોય (દા.ત. મૂળ). <br> 2. <strong>સંયુક્ત (Conjoint):</strong> બંને એક જ ત્રિજ્યા પર હોય. <br> (A) <strong>વર્ધમાન (Open):</strong> જલવાહક અને અન્નવાહક વચ્ચે એધા (Cambium) હોય (દ્વિદળી પ્રકાંડ). <br> (B) <strong>અવર્ધમાન (Closed):</strong> એધા ગેરહાજર હોય (એકદળી પ્રકાંડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R for Root = Radial. 'વર્ધમાન' એટલે વૃદ્ધિ માટે એધાની હાજરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દ્વિદળી મૂળ (દા.ત. સૂર્યમુખી) ની આંતરિક રચનાનું વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>અધિસ્તર:</strong> એકસ્તરીય, મૂળરોમ ધરાવે છે. <br> 2. <strong>બાહ્યક:</strong> મૃદુતક કોષોનું બનેલું અને મોટું સ્તર. <br> 3. <strong>અંતઃસ્તર:</strong> સૌથી અંદરનું સ્તર, જેમાં કાસ્પેરિયન પટ્ટિકા (સુબેરિનયુક્ત) હોય છે. <br> 4. <strong>પરિચક્ર:</strong> અંતઃસ્તરની નીચે, જ્યાંથી પાર્શ્વીય મૂળ ઉદ્ભવે છે. <br> 5. <strong>વાહીપુલ:</strong> અરીય ગોઠવણી, આદિદારૂ પરિઘ તરફ (બહિરારંભી). <br> 6. <strong>મજ્જા:</strong> ખૂબ નાની કે અસ્પષ્ટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ = 'બહિરારંભી' (બહાર તરફ આદિદારૂ). કાસ્પેરિયન પટ્ટિકા એટલે વોટર-પ્રૂફ દીવાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એકદળી મૂળની રચના દ્વિદળી મૂળથી કઈ રીતે અલગ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકદળી મૂળ (દા.ત. મકાઈ) નીચે મુજબના તફાવત ધરાવે છે: <br> 1. <strong>વાહીપુલની સંખ્યા:</strong> દ્વિદળીમાં 2 થી 4 હોય છે, જ્યારે એકદળીમાં 6 થી વધુ (બહુદારૂક - Polyarch) હોય છે. <br> 2. <strong>મજ્જા (Pith):</strong> એકદળી મૂળમાં મજ્જા મોટી અને સુવિકસિત હોય છે. <br> 3. <strong>દ્વિતીય વૃદ્ધિ:</strong> એકદળી મૂળમાં દ્વિતીય વૃદ્ધિ થતી નથી. <br> બાકીની રચના (અધિસ્તર, બાહ્યક, અંતઃસ્તર) દ્વિદળી જેવી જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી = 'બહુ' (Polyarch) + 'મોટી મજ્જા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દ્વિદળી પ્રકાંડની અંતઃસ્થ રચના આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>અધિસ્તર:</strong> ત્વચા રોમ અને ક્યુટિકલ ધરાવે છે. <br> 2. <strong>બાહ્યક:</strong> ત્રણ સ્તરમાં વહેંચાયેલું - અધઃસ્તર (સ્થૂલકોણક), સામાન્ય બાહ્યક (મૃદુતક) અને મંડસ્તર (અંતઃસ્તર). <br> 3. <strong>વાહીપુલ:</strong> વલય આકારની ગોઠવણી (લાક્ષણિકતા). સંયુક્ત, વર્ધમાન અને અંતરારંભી (Endarch). <br> 4. <strong>મજ્જા:</strong> કેન્દ્રમાં સુવિકસિત મૃદુતક કોષોનું બનેલું કેન્દ્ર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી પ્રકાંડ = 'વલય' (Ring) જેવી સુંદર ગોઠવણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એકદળી પ્રકાંડની આંતરિક રચનાની મુખ્ય વિશેષતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>અધઃસ્તર:</strong> દ્રઢોતક પેશીનું બનેલું હોય છે. <br> 2. <strong>વાહીપુલ:</strong> ભરણ પેશીમાં વેરવિખેર હોય છે. પરિઘ તરફના વાહીપુલ નાના અને કેન્દ્ર તરફના મોટા હોય છે. <br> 3. <strong>રચના:</strong> વાહીપુલ સંયુક્ત અને અવર્ધમાન હોય છે. <br> 4. <strong>જલવાહક:</strong> 'Y' કે 'V' આકારમાં ગોઠવાયેલ હોય છે અને તેની નીચે જલધારક કોટર (પાણી ભરેલી ગુહા) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી પ્રકાંડ = 'તારાઓનું આકાશ' (વેરવિખેર વાહીપુલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દ્વિદળી પર્ણ (પૃષ્ઠવક્ષીય પર્ણ) ની રચના વિગતવાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>અધિસ્તર:</strong> ઉપરી અને અધઃ અધિસ્તર. અધઃ અધિસ્તર પર વાયુરંધ્રો વધુ હોય છે. <br> 2. <strong>મધ્યપર્ણ પેશી:</strong> બે ભાગમાં વહેંચાયેલી: (A) લંબોતક: લંબાયેલા, હરિતકણયુક્ત કોષો. (B) શિથિલોતક: ગોળાકાર, આંતરકોષીય અવકાશવાળા કોષો. <br> 3. <strong>વાહીપુલ:</strong> શિરાઓમાં આવેલા હોય છે. વાહીપુલની આસપાસ પુલકંચુક (Bundle sheath) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિદળી પર્ણ = 'ભેદભાવ' (ઉપર અને નીચેની રચના અલગ-અલગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એકદળી પર્ણ (સમદ્રિપાર્શ્વ પર્ણ) ની વિશિષ્ટતાઓ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>વાયુરંધ્રો:</strong> બંને સપાટી પર સમાન સંખ્યામાં હોય છે. <br> 2. <strong>મધ્યપર્ણ પેશી:</strong> લંબોતક અને શિથિલોતકમાં વહેંચાયેલી હોતી નથી (સમાન કોષો). <br> 3. <strong>ભેજગ્રાહી કોષો (Bulliform cells):</strong> ઘાસમાં ઉપરી અધિસ્તર પર મોટા, રંગહીન કોષો હોય છે, જે પાણીના અભાવે પર્ણને રોલ (વીંટળાઈ) થવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકદળી પર્ણ = 'સમાનતા' (બંને બાજુ એકસરખી!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભરણ પેશીતંત્ર (Ground Tissue System) વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધિસ્તર અને વાહીપુલ સિવાયની તમામ પેશીઓ ભરણ પેશી બનાવે છે. <br> 1. તેમાં મૃદુતક, સ્થૂલકોણક અને દ્રઢોતક જેવી સરળ પેશીઓ હોય છે. <br> 2. <strong>સ્તરો:</strong> બાહ્યક, અંતઃસ્તર, પરિચક્ર અને મજ્જાનો સમાવેશ થાય છે. <br> 3. પર્ણમાં ભરણ પેશીને 'મધ્યપર્ણ પેશી' (Mesophyll) કહેવામાં આવે છે, જે પ્રકાશસંશ્લેષણ માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરણ પેશી = વનસ્પતિના શરીરનું 'પેકિંગ મટીરીયલ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જલવાહિનિકી અને જલવાહિની વચ્ચેના મુખ્ય તફાવતો સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>જલવાહિનિકી:</strong> એકકોષીય, સાંકડી, અણીદાર છેડાવાળી, બધી નળીધારી વનસ્પતિમાં જોવા મળે. <br> 2. <strong>જલવાહિની:</strong> બહુકોષીય (હારમાળા), પહોળી, છિદ્રિષ્ટ છેડાવાળી, મુખ્યત્વે આવૃત બીજધારીમાં જ જોવા મળે. <br> બંને મૃત છે અને લિગ્નિનયુક્ત દીવાલ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલવાહિની = મોટો પાઈપ (આવૃતમાં), જલવાહિનિકી = પાતળી નળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચાલની ઘટકો (Sieve elements) ની રચના અને સાથી કોષો સાથેના તેના સંબંધની ચર્ચા કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાલની નલિકાના કોષો જીવંત હોવા છતાં પુખ્ત અવસ્થાએ કોષકેન્દ્ર ગુમાવે છે. <br> 1. તેમના કાર્યોનું નિયંત્રણ બાજુમાં આવેલા 'સાથી કોષો' ના કોષકેન્દ્ર દ્વારા થાય છે. <br> 2. ચાલની નલિકા અને સાથી કોષો ગર્ત (Pits) દ્વારા જોડાયેલા હોય છે. <br> 3. સાથી કોષો અન્નવાહકમાં દબાણ ઢોળાંશ જાળવી રાખી ખોરાકના વહનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાલની નલિકા 'ડ્રાઈવર' છે, પણ સાથી કોષ 'એન્જિન' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અંતરારંભી (Endarch) અને બહિરારંભી (Exarch) જલવાહક વચ્ચેનો તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>અંતરારંભી (Endarch):</strong> આદિદારૂ (Protoxylem) કેન્દ્ર તરફ અને અનુદારૂ (Metaxylem) પરિઘ તરફ હોય. (દા.ત. પ્રકાંડ). <br> 2. <strong>બહિરારંભી (Exarch):</strong> આદિદારૂ (Protoxylem) પરિઘ તરફ અને અનુદારૂ (Metaxylem) કેન્દ્ર તરફ હોય. (દા.ત. મૂળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રકાંડ - અંદર' (P-A), 'મૂળ - બહાર' (M-B). આદિદારૂ ક્યાં છે તે જોવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મૂળના અધિસ્તર અને પ્રકાંડના અધિસ્તર વચ્ચેના મુખ્ય તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>મૂળનું અધિસ્તર (Epiblema):</strong> ક્યુટિકલ હોતું નથી, એકકોષીય મૂળરોમ હોય છે, વાયુરંધ્રો હોતા નથી. <br> 2. <strong>પ્રકાંડનું અધિસ્તર:</strong> ક્યુટિકલ હોય છે, બહુકોષીય ત્વચા રોમ (Trichomes) હોય છે, વાયુરંધ્રો હાજર હોય છે. <br> મૂળરોમ પાણી શોષે છે, જ્યારે ત્વચારોમ પાણીનો વ્યય અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળ = Single (એકકોષી), પ્રકાંડ = Multiple (બહુકોષી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પ્રાથમિક પેશી અને દ્વિતીય પેશી વચ્ચેનો તફાવત ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>પ્રાથમિક પેશી:</strong> અગ્રસ્થ અને આંતરવિષ્ટ વર્ધનશીલ પેશીમાંથી બને છે. તે વનસ્પતિની લંબાઈ વધારે છે (દા.ત. પ્રાથમિક જલવાહક, મૃદુતક). <br> 2. <strong>દ્વિતીય પેશી:</strong> પાર્શ્વીય વર્ધનશીલ પેશી (એધા) માંથી બને છે. તે વનસ્પતિની જાડાઈ (ઘેરાવો) વધારે છે (દા.ત. કાષ્ઠ, ત્વક્ષા). <br> આ પેશીઓ મુખ્યત્વે દ્વિદળીઓમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાથમિક = ઊંચાઈ, દ્વિતીય = પહોળાઈ!</p></div>"
+    }
+  ]
+}

@@ -1560,3 +1560,111 @@ var Std11_Biology_4_Marks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "દેહજળ અને પરિવહન",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રુધિરરસ (Plasma) ના બંધારણ અને તેમાં રહેલા મુખ્ય ઘટકોના કાર્યો સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિરરસ એ રુધિરનો પ્રવાહી આધારક ભાગ છે, જે આછા પીળા રંગનો અને સ્નિગ્ધ હોય છે. તે રુધિરના કુલ જથ્થાના 55% ભાગ બનાવે છે. <br>1. <strong>પાણી:</strong> 90-92% ભાગ પાણીનો હોય છે. <br>2. <strong>પ્રોટીન્સ (6-8%):</strong> (i) <strong>ફાઈબ્રિનોજન:</strong> રુધિર ગંઠાવવાની ક્રિયા માટે જરૂરી છે. (ii) <strong>ગ્લોબ્યુલિન્સ:</strong> શરીરના રક્ષણાત્મક તંત્ર (Immunity) માટે જવાબદાર છે. (iii) <strong>આલ્બ્યુમિન:</strong> આસૃતિ નિયમન (Osmotic balance) જાળવે છે. <br>3. <strong>ખનિજ આયનો:</strong> Na+, Ca++, Mg++, HCO3-, Cl- વગેરે અલ્પ માત્રામાં હોય છે. <br>4. <strong>અન્ય પદાર્થો:</strong> ગ્લુકોઝ, એમિનો એસિડ, લિપિડ્સ વગેરે પરિવહન પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FGA (ફાઈબ્રિનોજન-ગંઠાવવું, ગ્લોબ્યુલિન-આર્મી/રક્ષણ, આલ્બ્યુમિન-આસૃતિ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રક્તકણો (RBCs - Erythrocytes) ની રચના, સંખ્યા અને કાર્યો વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>સંખ્યા:</strong> તંદુરસ્ત વ્યક્તિમાં 5 થી 5.5 મિલિયન પ્રતિ ઘન મિમી રુધિર. <br>2. <strong>નિર્માણ:</strong> પુખ્ત અવસ્થામાં લાલ અસ્થિમજ્જા (Red Bone Marrow) માં બને છે. <br>3. <strong>રચના:</strong> કોષકેન્દ્ર વિહીન (મોટાભાગના સસ્તનમાં) અને દ્વિઅંતર્ગોળ આકારના હોય છે. <br>4. <strong>હિમોગ્લોબિન:</strong> લોહયુક્ત લાલ રંગનું શ્વસનરંજક દ્રવ્ય છે. સામાન્ય રીતે 12-16 ગ્રામ/100 ml રુધિરમાં હોય છે. <br>5. <strong>આયુષ્ય:</strong> 120 દિવસ, ત્યારબાદ તે બરોળ (Spleen) માં નાશ પામે છે, જે રક્તકણોનું કબ્રસ્તાન કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 120 દિવસનું આયુષ્ય + લાલ અસ્થિમજ્જામાં જન્મ + બરોળમાં અંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શ્વેતકણો (WBCs - Leucocytes) ના પ્રકારો અને તેમના વિશિષ્ટ કાર્યો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વેતકણો રંગવિહીન અને કોષકેન્દ્રયુક્ત હોય છે. મુખ્ય બે પ્રકારો છે:<br>1. <strong>કણિકામય:</strong> (i) <strong>તટસ્થકણો (Neutrophils):</strong> (60-65%) ભક્ષકકોષો છે. (ii) <strong>અમ્લરાગી (Eosinophils):</strong> (2-3%) ચેપ અને એલર્જી સામે રક્ષણ. (iii) <strong>અલ્કરાગી (Basophils):</strong> (0.5-1%) હિસ્ટામાઈન, સિરોટોનિન અને હીપેરીનનો સ્ત્રાવ કરે છે. <br>2. <strong>કણિકાવિહીન:</strong> (i) <strong>લિમ્ફોસાઇટ્સ (20-25%):</strong> B અને T પ્રકાર, રોગપ્રતિકારકતા માટે. (ii) <strong>મોનોસાઇટ્સ (6-8%):</strong> ભક્ષકકોષો તરીકે કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Never Let Monkeys Eat Bananas (Neutro > Lympho > Mono > Eosino > Baso)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રુધિરની ગંઠાઈ જવાની પ્રક્રિયા (Coagulation of blood) વિગતવાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિર ગંઠાવવાની ક્રિયા કેસ્કેડ પ્રક્રિયા (Cascade process) છે.<br>1. ઈજા થતાં રુધિરકણિકાઓ મુક્ત થાય છે અને પ્રોથ્રોમ્બિનેઝ (Thrombokinase) એન્ઝાઇમ કોમ્પ્લેક્સ બનાવે છે. <br>2. આ એન્ઝાઇમ રુધિરરસના નિષ્ક્રિય <strong>પ્રોથ્રોમ્બિન</strong> ને સક્રિય <strong>થ્રોમ્બિન</strong> માં ફેરવે છે. <br>3. થ્રોમ્બિન દ્રાવ્ય <strong>ફાઈબ્રિનોજન</strong> ને અદ્રાવ્ય <strong>ફાઈબ્રિન</strong> તંતુઓમાં ફેરવે છે. <br>4. ફાઈબ્રિનના જાળામાં મૃત કોષો ફસાય છે અને ગઠ્ઠો (Clot) બને છે. <br>5. આ પ્રક્રિયામાં <strong>કેલ્શિયમ (Ca++) આયનો</strong> અગત્યનો ભાગ ભજવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P → T → F (Prothrombin → Thrombin → Fibrinogen → Fibrin)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ABO રુધિરજૂથ તંત્ર વિશે માહિતી આપી, રુધિરના આદાન-પ્રદાનની સુસંગતતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> RBC ની સપાટી પરના એન્ટિજન (A અને B) ને આધારે 4 જૂથો છે: <br>1. <strong>જૂથ A:</strong> એન્ટિજન A, એન્ટિબોડી anti-B. <br>2. <strong>જૂથ B:</strong> એન્ટિજન B, એન્ટિબોડી anti-A. <br>3. <strong>જૂથ AB:</strong> એન્ટિજન A અને B બંને, એન્ટિબોડી ગેરહાજર. (સર્વગ્રાહી - Universal Recipient). <br>4. <strong>જૂથ O:</strong> એન્ટિજન ગેરહાજર, એન્ટિબોડી anti-A અને B. (સર્વદાતા - Universal Donor). <br>આદાન-પ્રદાન વખતે દાતાના એન્ટિજન અને ગ્રાહકના એન્ટિબોડી મેચ કરવા અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O 'ઝીરો' એન્ટિજન એટલે બધાને આપે, AB 'બધું' લે એટલે બધા પાસેથી લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Rh અસંગતતા અને તેના કારણે થતા 'ઈરિથ્રોબ્લાસ્ટોસિસ ફીટાલિસ' રોગ વિશે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે <strong>Rh-ve માતા</strong> અને <strong>Rh+ve ગર્ભ</strong> હોય ત્યારે આ સમસ્યા સર્જાય છે. <br>1. પ્રથમ પ્રસૂતિ વખતે માતાનું રુધિર ગર્ભના રુધિરના સંપર્કમાં આવતા માતામાં Rh એન્ટિબોડી બને છે. <br>2. બીજી વખત Rh+ve ગર્ભ ધારણ થાય ત્યારે માતાના Rh એન્ટિબોડી ગર્ભના રુધિરમાં જઈ તેના RBC નો નાશ કરે છે. <br>3. આનાથી ગર્ભને ગંભીર એનીમિયા અથવા કમળો થઈ શકે છે અથવા મૃત્યુ પણ નીપજી શકે છે. <br>4. નિવારણ: પ્રથમ પ્રસૂતિ બાદ તરત જ માતાને 'Anti-Rh antibodies' ના ઇન્જેક્શન આપવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા (-) ને બાળક (+) = જોખમ (માતાના સૈનિકો બાળકના રક્તકણો તોડે)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લસિકા (Lymph / Tissue Fluid) એટલે શું? તેના બંધારણ અને કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે રુધિર કેશિકાઓમાંથી પસાર થાય ત્યારે પાણી અને નાના દ્રાવ્ય પદાર્થો પેશી કોષો વચ્ચેના અવકાશમાં આવે છે, તેને પેશીજળ કે લસિકા કહે છે. <br>1. <strong>બંધારણ:</strong> તે રુધિરરસ જેવું જ હોય છે પણ તેમાં પ્રોટીન ઓછા અને RBC હોતા નથી. તે રંગવિહીન પ્રવાહી છે. <br>2. <strong>કાર્યો:</strong> (i) પોષક દ્રવ્યો અને વાયુઓની આપ-લે માટે મધ્યસ્થી તરીકે વર્તે છે. (ii) આંતરડામાં <strong>પયસ્વિનીઓ (Lacteals)</strong> દ્વારા ચરબીનું શોષણ કરે છે. (iii) શરીરમાં રોગપ્રતિકારકતા પૂરી પાડતા લિમ્ફોસાઇટ્સ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લસિકા = રુધિરરસ - (મોટા પ્રોટીન + RBC)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિવિધ પૃષ્ઠવંશી પ્રાણીઓમાં હૃદયની રચનાનો ઉદ્વિકાસ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃષ્ઠવંશીઓમાં હૃદય સ્નાયુમય હોય છે:<br>1. <strong>માછલીઓ:</strong> દ્વિખંડી હૃદય (એક કર્ણક, એક ક્ષેપક). અશુદ્ધ રુધિરનું જ પરિવહન (Venous heart). <br>2. <strong>ઉભયજીવી અને સરીસૃપ:</strong> ત્રિખંડી હૃદય (બે કર્ણક, એક ક્ષેપક). મિશ્ર રુધિરનું પરિવહન. (મગર અપવાદ: ચતુષ્ખંડી). <br>3. <strong>પક્ષીઓ અને સસ્તન:</strong> ચતુષ્ખંડી હૃદય (બે કર્ણક, બે ક્ષેપક). શુદ્ધ અને અશુદ્ધ રુધિર સંપૂર્ણ અલગ રહે છે, જે કાર્યક્ષમ પરિવહન પૂરું પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2(માછલી) -> 3(ઉભયજીવી) -> 4(સસ્તન). મગર 4 ખંડનો અપવાદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મનુષ્યના હૃદયની બાહ્ય અને અંતઃસ્થ રચના આકૃતિ સહ વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુષ્યનું હૃદય ઉરસ ગુહામાં બે ફેફસાની વચ્ચે સહેજ ડાબી બાજુ આવેલું છે. <br>1. <strong>પરિહૃદય પટલ:</strong> બે સ્તરોનું રક્ષણાત્મક આવરણ છે જેમાં પરિહૃદય જળ હોય છે. <br>2. <strong>ખંડો:</strong> ઉપરના બે નાના ખંડો કર્ણકો અને નીચેના બે મોટા સ્નાયુમય ખંડો ક્ષેપકો છે. <br>3. <strong>વાલ્વ:</strong> જમણા કર્ણક-ક્ષેપક વચ્ચે <strong>ત્રિદલ વાલ્વ</strong> અને ડાબા કર્ણક-ક્ષેપક વચ્ચે <strong>દ્વિદલ (મિત્રલ) વાલ્વ</strong> હોય છે. <br>4. <strong>અર્ધચંદ્રાકાર વાલ્વ:</strong> ફુપ્ફુસ ધમની અને મહાધમનીના ઉદ્ભવ સ્થાને જોવા મળે છે, જે રુધિરને પાછું આવતું અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણું = 3 દલ (Right-Tri), ડાબું = 2 દલ (Left-Bi/Mitral)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હૃદયના વિશિષ્ટ સ્નાયુલ પેશી (Nodal Tissue) ના તંત્ર વિશે સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદય સ્વયં ઉત્તેજિત (Auto-excitable) છે. <br>1. <strong>SAN (Sino-atrial Node):</strong> જમણા કર્ણકના ઉપરના જમણા ખૂણે. તે હૃદયના ધબકારા શરૂ કરે છે, તેથી તેને 'પેસમેકર' (Pacemaker) કહે છે. <br>2. <strong>AVN (Atrio-ventricular Node):</strong> જમણા કર્ણકના નીચેના ડાબા ખૂણે. <br>3. <strong>AV Bundle (હિઝનો જથ્થો):</strong> આંતરક્ષેપક પટલ દ્વારા આગળ વધે છે. <br>4. <strong>પરકિંજે તંતુઓ:</strong> ક્ષેપકોની દીવાલમાં ફેલાયેલા હોય છે. <br>SAN મિનિટમાં 70-75 સક્રિયતા ગ્રાહ્ય ક્ષમતા પેદા કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SAN -> AVN -> His Bundle -> Purkinje (કરંટનો માર્ગ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હૃદયચક્ર (Cardiac Cycle) ના વિવિધ તબક્કાઓ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ધબકારાથી બીજા ધબકારા વચ્ચેની ઘટનાને હૃદયચક્ર કહે છે. સમય: 0.8 સેકન્ડ. <br>1. <strong>સંયુક્ત શિથિલન (Joint Diastole):</strong> ચારેય ખંડો શિથિલ અવસ્થામાં હોય છે. રુધિર કર્ણકોમાંથી ક્ષેપકોમાં વહે છે. <br>2. <strong>કર્ણક સંકોચન (Atrial Systole):</strong> SAN ઉત્તેજિત થાય છે, બંને કર્ણકો સંકોચાય છે. ક્ષેપકોમાં રુધિરનો પ્રવાહ 30% વધે છે. <br>3. <strong>ક્ષેપક સંકોચન (Ventricular Systole):</strong> ક્ષેપકો સંકોચાય છે, ત્રિદલ-દ્વિદલ વાલ્વ બંધ થાય છે અને અર્ધચંદ્રાકાર વાલ્વ ખૂલે છે. રુધિર ધમનીઓમાં ધકેલાય છે. <br>4. <strong>ક્ષેપક શિથિલન:</strong> ક્ષેપકો શિથિલ થાય છે અને ચક્ર ફરી શરૂ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AS (0.1s) -> VS (0.3s) -> JD (0.4s) = કુલ 0.8 સેકન્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્ટ્રોક વોલ્યુમ અને કાર્ડિયાક આઉટપુટ (Cardiac Output) ની વ્યાખ્યા આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>સ્ટ્રોક વોલ્યુમ (Stroke Volume):</strong> હૃદયના દરેક ધબકારા દરમિયાન દરેક ક્ષેપક દ્વારા બહાર ધકેલાતા રુધિરના જથ્થાને સ્ટ્રોક વોલ્યુમ કહે છે. તે આશરે 70 mL હોય છે. <br>2. <strong>કાર્ડિયાક આઉટપુટ:</strong> એક મિનિટમાં દરેક ક્ષેપક દ્વારા પંપ કરવામાં આવતા રુધિરનું પ્રમાણ. <br>સૂત્ર: Cardiac Output = Stroke Volume × Heart Rate. <br>ગણતરી: 70 mL × 72 ધબકારા ≈ 5000 mL અથવા 5 લિટર. <br>રમતવીરોમાં કાર્ડિયાક આઉટપુટ સામાન્ય માણસ કરતા ઘણું વધારે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO = SV x HR (યાદ રાખો: એક મિનિટનું રુધિર એટલે આખું ટાંકી ખાલી!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઇલેક્ટ્રોકાર્ડિયોગ્રામ (ECG) માં જોવા મળતી તરંગો (Waves) ની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ECG એ હૃદયની વિદ્યુતીય પ્રવૃત્તિનું આલેખન છે. <br>1. <strong>P-તરંગ:</strong> કર્ણકોનું વિધ્રુવીકરણ (સંકોચન) દર્શાવે છે. <br>2. <strong>QRS સંકુલ:</strong> ક્ષેપકોનું વિધ્રુવીકરણ (સંકોચન) દર્શાવે છે. તે સંકોચનની શરૂઆત સૂચવે છે. <br>3. <strong>T-તરંગ:</strong> ક્ષેપકોનું પુનઃધ્રુવીકરણ (શિથિલન) દર્શાવે છે. <br>ચોક્કસ સમયગાળામાં QRS સંકુલની સંખ્યા ગણીને હૃદયના ધબકારાનો દર જાણી શકાય છે. ECG માં વિચલન હૃદયની અસાધારણતા સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P=કર્ણક, QRS=ક્ષેપક, T=આરામ (શિથિલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બેવડું પરિવહન (Double Circulation) એટલે શું? તેના ફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિર એક ચક્ર પૂર્ણ કરવા માટે હૃદયમાંથી બે વાર પસાર થાય છે. <br>1. <strong>ફુપ્ફુસ પરિવહન (Pulmonary):</strong> જમણા ક્ષેપકમાંથી અશુદ્ધ રુધિર ફેફસામાં જાય અને શુદ્ધ થઈ ડાબા કર્ણકમાં આવે. <br>2. <strong>દૈહિક પરિવહન (Systemic):</strong> ડાબા ક્ષેપકમાંથી શુદ્ધ રુધિર અંગોમાં જાય અને અશુદ્ધ થઈ જમણા કર્ણકમાં આવે. <br><strong>ફાયદા:</strong> ઓક્સિજનયુક્ત અને ઓક્સિજનવિહીન રુધિર ક્યારેય મિશ્ર થતું નથી, જેનાથી શરીરને વધુ ઉર્જા મળે છે અને તાપમાન જળવાઈ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેફસાં-હૃદય (નાનું ચક્ર), અંગો-હૃદય (મોટું ચક્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "યકૃત પોર્ટલ તંત્ર (Hepatic Portal System) અને કોરોનરી પરિવહન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>યકૃત પોર્ટલ તંત્ર:</strong> પાચનમાર્ગ (આંતરડા) માંથી રુધિર સીધું મહાશિરામાં જવાને બદલે પહેલા <strong>યકૃત પોર્ટલ શિરા</strong> દ્વારા યકૃતમાં જાય છે. આનાથી ખોરાકના પોષક તત્વોનું પ્રોસેસિંગ થઈ શકે છે. <br>2. <strong>કોરોનરી પરિવહન:</strong> હૃદયના સ્નાયુઓને પોષણ અને ઓક્સિજન આપવા માટે રુધિરવાહિનીઓનું ખાસ તંત્ર છે. હૃદયના સ્નાયુઓને રુધિર પૂરું પાડતી ધમનીને <strong>હૃદ-ધમની (Coronary Artery)</strong> કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યકૃત = ટોલ ટેક્સ (આંતરડાનું રુધિર ચેક થઈને જ આગળ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હૃદયની ક્રિયાનું નિયમન (Regulation of Cardiac Activity) કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હૃદય પોતે માયોજેનિક છે પણ તેનું નિયમન ચેતાતંત્ર અને અંતઃસ્ત્રાવો દ્વારા થાય છે. <br>1. <strong>લંબમજ્જા (Medulla Oblongata):</strong> ANS દ્વારા હૃદયના ધબકારાનું નિયમન કરે છે. <br>2. <strong>અનુકંપી ચેતાઓ (Sympathetic):</strong> ધબકારાનો દર અને સંકોચન બળ વધારે છે (કાર્ડિયાક આઉટપુટ વધે). <br>3. <strong>પરાનુકંપી ચેતાઓ (Parasympathetic):</strong> ધબકારાનો દર ઘટાડે છે. <br>4. <strong>અંતઃસ્ત્રાવ:</strong> એડ્રિનલ મજ્જકના અંતઃસ્ત્રાવો (એડ્રિનાલિન) પણ હૃદયના ધબકારા વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુકંપી = એક્સિલરેટર (વધારો), પરાનુકંપી = બ્રેક (ઘટાડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "હાઈપરટેન્શન (ઉચ્ચ રુધિરદબાણ) અને CAD (Coronary Artery Disease) વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>હાઈપરટેન્શન:</strong> સામાન્ય રુધિરદબાણ 120/80 mmHg છે. જો તે સતત 140/90 કે તેથી વધુ રહે, તો તેને હાઈપરટેન્શન કહે છે. તે હૃદય, મગજ અને કિડનીને નુકસાન કરે છે. <br>2. <strong>CAD (એથેરોસ્ક્લેરોસિસ):</strong> હૃદયના સ્નાયુઓને રુધિર પહોંચાડતી ધમનીઓમાં કેલ્શિયમ, ચરબી (કોલેસ્ટરોલ) અને તંતુમય પેશી જમા થવાથી ધમનીનું પોલાણ સાંકડું બને છે, જેથી રુધિર પુરવઠો ખોરવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CAD = નળીમાં કચરો જામવો. Hypertension = નળી પર દબાણ વધવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એન્જાઈના પેક્ટોરિસ અને હાર્ટ ફેઈલ્યોર (Heart Failure) વચ્ચેનો તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>એન્જાઈના (Angina Pectoris):</strong> હૃદયના સ્નાયુઓને પૂરતો ઓક્સિજન ન મળતા છાતીમાં તીવ્ર દુખાવો થાય છે. તે સ્ત્રી-પુરુષ બંનેમાં કોઈપણ ઉંમરે થઈ શકે છે. <br>2. <strong>હાર્ટ ફેઈલ્યોર:</strong> હૃદય જ્યારે શરીરની જરૂરિયાત મુજબ પૂરતું રુધિર પંપ કરી શકતું નથી, ત્યારે તેને હાર્ટ ફેઈલ્યોર કહે છે. તેને <strong>કોન્જેસ્ટિવ હાર્ટ ફેઈલ્યોર</strong> પણ કહે છે કારણ કે ફેફસામાં રુધિર ભરાઈ જવું તેનું મુખ્ય લક્ષણ છે. <br>નોંધ: હાર્ટ ફેઈલ્યોર એ હાર્ટ એટેક કે કાર્ડિયાક અરેસ્ટ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જાઈના = માત્ર દુખાવો, ફેઈલ્યોર = પંપિંગમાં નિષ્ફળતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધમની અને શિરા વચ્ચેના મુખ્ય ચાર તફાવતો સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>દિશા:</strong> ધમની રુધિરને હૃદયથી અંગો તરફ લઈ જાય છે, જ્યારે શિરા અંગોથી હૃદય તરફ લાવે છે. <br>2. <strong>રુધિરનો પ્રકાર:</strong> ધમની શુદ્ધ (ઓક્સિજનયુક્ત) રુધિર વહન કરે છે (અપવાદ: ફુપ્ફુસ ધમની), શિરા અશુદ્ધ રુધિર વહન કરે છે (અપવાદ: ફુપ્ફુસ શિરા). <br>3. <strong>દીવાલ:</strong> ધમનીની દીવાલ જાડી અને સ્થિતિસ્થાપક હોય છે, શિરાની દીવાલ પાતળી હોય છે. <br>4. <strong>વાલ્વ:</strong> ધમનીમાં વાલ્વ હોતા નથી, શિરામાં રુધિરને એક જ દિશામાં વહેવા માટે વાલ્વ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમની = દૂર લઈ જાય (D-Door), શિરા = શરીરથી હૃદયમાં લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રુધિરકણિકાઓ (Platelets) અને રુધિર લય (Blood Pressure) માપવાની પદ્ધતિ વિશે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>રુધિરકણિકાઓ (Thrombocytes):</strong> તે અસ્થિમજ્જાના ખાસ કોષો <strong>મેગાકેરિયોસાઇટ્સ</strong> ના ટુકડા છે. સંખ્યા: 1.5 થી 3.5 લાખ/mm3. તે રુધિર ગંઠાવવા માટેના પદાર્થો મુક્ત કરે છે. તેની ઘટથી રુધિર સ્ત્રાવની સમસ્યા થાય છે. <br>2. <strong>BP માપન:</strong> રુધિરદબાણ માપવા માટે <strong>સ્ફિગ્મોમેનોમીટર</strong> સાધન વપરાય છે. ઉપરનું દબાણ (સિસ્ટોલિક - 120) અને નીચેનું દબાણ (ડાયાસ્ટોલિક - 80) mmHg માં મપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેટલેટ્સ = પંચર રીપેરીંગ કિટ (ગંઠાવવાની ક્રિયા).</p></div>"
+    }
+  ]
+}

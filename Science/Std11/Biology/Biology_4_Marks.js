@@ -1668,3 +1668,116 @@ var Std11_Biology_4_Marks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "ઉત્સર્ગ પેદાશો અને તેનો નિકાલ",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નાઈટ્રોજનયુક્ત ઉત્સર્ગ દ્રવ્યોના પ્રકારો જણાવી, એમોનિયા ત્યાગી પ્રાણીઓ (Ammonotelic) વિશે સવિસ્તાર સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓ મુખ્યત્વે ત્રણ પ્રકારના નાઈટ્રોજનયુક્ત ઉત્સર્ગ દ્રવ્યોનો ત્યાગ કરે છે: (૧) એમોનિયા (૨) યુરિયા અને (૩) યુરિક એસિડ. <br><strong>એમોનિયા ત્યાગી (Ammonotelic):</strong> <br>૧. એમોનિયા સૌથી વધુ ઝેરી છે અને તેના નિકાલ માટે પુષ્કળ પાણીની જરૂર પડે છે. <br>૨. જે પ્રાણીઓ એમોનિયા સ્વરૂપે ઉત્સર્જન કરે છે તેને એમોનિયા ત્યાગી કહેવાય છે. <br>૩. ઉદાહરણ: ઘણી અસ્થિમત્સ્યો, જલીય ઉભયજીવીઓ અને જલીય કીટકો. <br>૪. તે પ્રસરણ દ્વારા સપાટી અથવા ઝાલરની સપાટી પરથી એમોનિયમ આયન (NH4+) સ્વરૂપે ત્યાગ પામે છે. <br>૫. મૂત્રપિંડ આમાં ખાસ ભૂમિકા ભજવતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A' for Ammonia, 'A' for Aquatic (પાણીમાં રહેતા) - વધુ ઝેરી + વધુ પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યુરિયા ત્યાગી (Ureotelic) અને યુરિક એસિડ ત્યાગી (Uricotelic) પ્રાણીઓ વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <strong>યુરિયા ત્યાગી:</strong> જે પ્રાણીઓ યુરિયાનો ત્યાગ કરે છે. તે ઓછું ઝેરી છે. યકૃતમાં એમોનિયામાંથી યુરિયા બને છે. ઉદા: સસ્તનો, ટેરેસ્ટ્રીયલ ઉભયજીવી અને દરિયાઈ માછલીઓ. <br><strong>યુરિક એસિડ ત્યાગી:</strong> જે પ્રાણીઓ યુરિક એસિડનો ત્યાગ કરે છે. તે સૌથી ઓછું ઝેરી છે અને ન્યૂનતમ પાણીના વ્યય સાથે ગોળી કે લુગદી સ્વરૂપે ત્યાગ થાય છે. ઉદા: સરીસૃપ, પક્ષીઓ, જમીન પરની ગોકળગાય અને કીટકો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mammals = Urea (U-re-a), Birds/Reptiles = Paste (Uric Acid).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્રાણી સૃષ્ટિમાં જોવા મળતા વિવિધ ઉત્સર્ગ અંગો વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિવિધ પ્રાણી જૂથોમાં અલગ ઉત્સર્ગ અંગો હોય છે: <br>૧. <strong>આદિવૃક્કકો (Protonephridia):</strong> જ્યોતકોષો તરીકે ઓળખાય છે. ઉદા: પ્લેટીહેલ્મિન્થિસ (પ્લેનેરિયા), રોટીફર્સ, સેફાલોકોર્ડેટા (એમ્ફિઓક્સસ). <br>૨. <strong>વૃક્કકો (Nephridia):</strong> અળસિયા અને અન્ય નૂપુરક. <br>૩. <strong>માલ્પિધિયન નલિકાઓ:</strong> કીટકો (વંદો). <br>૪. <strong>એન્ટેનલ ગ્રંથિ અથવા હરિત ગ્રંથિ:</strong> સ્તરકવચીઓ (ઝીંગા). <br>૫. <strong>મૂત્રપિંડ:</strong> ઉચ્ચ કક્ષાના પૃષ્ઠવંશીઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Flame Cell = Flatworm, Green Gland = Prawn (ઝીંગા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મનુષ્યના ઉત્સર્જનતંત્રની આકૃતિ દોરી તેના મુખ્ય ભાગો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુષ્યના ઉત્સર્જનતંત્રમાં નીચેના અંગો હોય છે: <br>૧. <strong>એક જોડ મૂત્રપિંડ:</strong> વાલના દાણા જેવા આકારના, અંતિમ ઉરસિય અને ત્રીજી કટિ કશેરુકાની વચ્ચે. <br>૨. <strong>એક જોડ મૂત્રવાહિની:</strong> મૂત્રપિંડના નાભિ (Hilum) માંથી નીકળતી નળીઓ. <br>૩. <strong>મૂત્રાશય:</strong> મૂત્રનો સંગ્રહ કરતી સ્નાયુમય કોથળી. <br>૪. <strong>મૂત્રમાર્ગ:</strong> જેના દ્વારા મૂત્ર શરીરની બહાર નિકાલ પામે છે. <br>મૂત્રપિંડનું વજન પુખ્ત મનુષ્યમાં ૧૨૦-૧૭૦ ગ્રામ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K-U-B-U (Kidney, Ureter, Bladder, Urethra) - ક્રમ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મૂત્રપિંડની આંતરિક રચના (L.S. of Kidney) વિશે સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂત્રપિંડની અંદર બે મુખ્ય ઝોન હોય છે: <br>૧. <strong>બાહ્યક (Cortex):</strong> બહારનો વિસ્તાર. <br>૨. <strong>મજ્જક (Medulla):</strong> અંદરનો વિસ્તાર જે મજ્જક પિરામિડમાં વહેંચાયેલો હોય છે. <br>૩. <strong>કેલિક્સ:</strong> પિરામિડની વચ્ચે આવેલ પોલાણ જે નિવાપમાં ખુલે છે. <br>૪. <strong>બર્ટિનીના સ્તંભો:</strong> બાહ્યકનો ભાગ જે મજ્જક પિરામિડની વચ્ચે લંબાયેલો હોય છે. <br>૫. <strong>મૂત્રપિંડ નિવાપ (Renal Pelvis):</strong> નાભિની અંદર આવેલ ગળણી આકારનું પોલાણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્યક = બહાર, મજ્જક = મધ્ય (પિરામિડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઉત્સર્ગએકમ (Nephron) ની રચના આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્સર્ગએકમ એ મૂત્રપિંડનો રચનાત્મક અને ક્રિયાત્મક એકમ છે (દરેક મૂત્રપિંડમાં ૧૦ લાખ). તેના બે મુખ્ય ભાગ છે: <br>૧. <strong>રુધિરકેશિકાગુચ્છ (Glomerulus):</strong> અંતર્મુખ ધમનિકા દ્વારા બનતું રુધિરકેશિકાઓનું જાળું. <br>૨. <strong>મૂત્રપિંડ નલિકા:</strong> જે બૉમેનની કોથળીથી શરૂ થાય છે. <br>નલિકાના ભાગો: બૉમેનની કોથળી, નિકટવર્તી ગૂંચળાદાર નલિકા (PCT), હેન્લેનો પાશ (આરોહી અને અવરોહી ભુજા), અને દૂરસ્થ ગૂંચળાદાર નલિકા (DCT). અંતે તે સંગ્રહણ નલિકામાં ખુલે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCT (પાસેનું), DCT (દૂરનું), Henle (U-shape).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માલ્પિધિયન કાય (Malpighian Body) શું છે? તેની રચના વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુધિરકેશિકાગુચ્છ અને તેને ઘેરતી બૉમેનની કોથળીને સંયુક્ત રીતે 'માલ્પિધિયન કાય' અથવા 'મૂત્રપિંડ કાય' (Renal Corpuscle) કહેવાય છે. <br>૧. રુધિરકેશિકાગુચ્છ રુધિર ગાળણનું કામ કરે છે. <br>૨. બૉમેનની કોથળી બે સ્તરની બનેલી પ્યાલા આકારની રચના છે. <br>૩. તેના અંદરના સ્તરમાં પોડોસાઈટ્સ (પદકોષો) આવેલા હોય છે, જે ગાળણ છિદ્રો બનાવે છે. <br>૪. તે બાહ્યક વિસ્તારમાં સ્થિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Malpighian Body = Glomerulus + Bowman's Capsule.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બાહ્યક ઉત્સર્ગએકમ (Cortical Nephrons) અને મજ્જક ઉત્સર્ગએકમ (Juxtamedullary Nephrons) વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. <strong>બાહ્યક ઉત્સર્ગએકમ:</strong> તે સંખ્યામાં ૮૫% હોય છે. હેન્લેનો પાશ ટૂંકો હોય છે અને મજ્જકમાં ખૂબ ઓછો લંબાયેલો હોય છે. <br>૨. <strong>જક્ષ્ટા મજ્જક ઉત્સર્ગએકમ:</strong> તે ૧૫% હોય છે. હેન્લેનો પાશ ઘણો લાંબો હોય છે અને મજ્જકમાં ઊંડે સુધી લંબાયેલો હોય છે. તે મૂત્રને સાંદ્ર બનાવવામાં મહત્વના છે. <br>૩. મજ્જક ઉત્સર્ગએકમમાં વાઝા રેક્ટા સ્પષ્ટ જોવા મળે છે, જ્યારે બાહ્યકમાં તે અલ્પવિકસિત કે ગેરહાજર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cortical = Short Loop, Juxta = Jambo Loop (Long).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મૂત્ર નિર્માણની પ્રક્રિયાના પ્રથમ સોપાન 'અતિસૂક્ષ્મગાળણ' (Ultrafiltration) વિશે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. રુધિરકેશિકાગુચ્છ દ્વારા રુધિર ગળાય છે, જેને ગુચ્છગાળણ કહે છે. <br>૨. ગાળણ ત્રણ સ્તરો દ્વારા થાય છે: રુધિરકેશિકાનું અંતઃસ્તર, બૉમેનની કોથળીનું અધિચ્છદ અને તેમની વચ્ચેનું આધારકલા. <br>૩. પોડોસાઈટ્સ વચ્ચેના સૂક્ષ્મ અવકાશ (Slit pores) માંથી રુધિર ગળાય છે. <br>૪. રુધિરરસના પ્રોટીન સિવાયના તમામ ઘટકો બૉમેનની કોથળીના પોલાણમાં આવે છે. <br>૫. GFR (Glomerular Filtration Rate) તંદુરસ્ત વ્યક્તિમાં ૧૨૫ ml/min અથવા ૧૮૦ લિટર/દિવસ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુધિર - પ્રોટીન = ગાળણ (Filtrate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વર્ણાત્મક પુનઃશોષણ (Selective Reabsorption) ની પ્રક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. દરરોજના ૧૮૦ લિટર ગાળણમાંથી માત્ર ૧.૫ લિટર મૂત્ર ત્યાગ થાય છે, એટલે કે ૯૯% ગાળણ પુનઃશોષાય છે. <br>૨. ગ્લુકોઝ, એમિનો એસિડ અને Na+ નું સક્રિય વહન દ્વારા પુનઃશોષણ થાય છે. <br>૩. નાઈટ્રોજનયુક્ત નકામા પદાર્થોનું નિષ્ક્રિય વહન દ્વારા શોષણ થાય છે. <br>૪. પાણીનું પુનઃશોષણ નલિકાના શરૂઆતના ભાગમાં નિષ્ક્રિય રીતે થાય છે. <br>૫. આ પ્રક્રિયા શરીરના પ્રવાહીનું કદ જાળવી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Glucose/Na+ = Active (ખર્ચો), Water/Urea = Passive (મફત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નિકટવર્તી ગૂંચળાદાર નલિકા (PCT) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. PCT માં સરળ ઘનાકાર બ્રશ બોર્ડર અધિચ્છદ હોય છે જે શોષણ સપાટી વધારે છે. <br>૨. ૭૦-૮૦% વિદ્યુત વિભાજ્યો અને પાણીનું અહીં પુનઃશોષણ થાય છે. <br>૩. તમામ આવશ્યક પોષક તત્વોનું પુનઃશોષણ અહીં થાય છે. <br>૪. તે H+, એમોનિયા અને પોટેશિયમ આયનોના પસંદગીમાન સ્ત્રાવ દ્વારા અને HCO3- ના શોષણ દ્વારા pH અને આયનીય સંતુલન જાળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCT = Maximum Reabsorption (૭૦-૮૦%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "હેન્લેના પાશ (Henle's Loop) માં થતું શોષણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. <strong>અવરોહી ભુજા (Descending limb):</strong> તે પાણી માટે પ્રવેશશીલ છે પણ વિદ્યુત વિભાજ્યો માટે અપ્રવેશશીલ છે. આથી ગાળણ સાંદ્ર બને છે. <br>૨. <strong>આરોહી ભુજા (Ascending limb):</strong> તે પાણી માટે અપ્રવેશશીલ છે પણ વિદ્યુત વિભાજ્યોનું સક્રિય કે નિષ્ક્રિય વહન કરે છે. આથી જેમ ગાળણ ઉપર જાય તેમ તે મંદ બને છે. <br>૩. હેન્લેનો પાશ મજ્જકની આંતરલીય પ્રવાહીની ઊંચી આસૃતિ જાળવવામાં મદદરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે જાય તો પાણી બહાર (સાંદ્ર), ઉપર જાય તો મીઠું (NaCl) બહાર (મંદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દૂરસ્થ ગૂંચળાદાર નલિકા (DCT) અને સંગ્રહણ નલિકાના કાર્યો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <strong>DCT:</strong> Na+ અને પાણીનું શરતી પુનઃશોષણ થાય છે. HCO3- નું શોષણ અને H+, K+, NH3 નો સ્ત્રાવ કરીને રુધિરની pH જાળવે છે. <br><strong>સંગ્રહણ નલિકા:</strong> આ લાંબી નલિકા છે જે મજ્જક સુધી લંબાય છે. પાણીનું મોટા જથ્થામાં પુનઃશોષણ કરીને સાંદ્ર મૂત્ર ઉત્પન્ન કરે છે. આસૃતિ જાળવવા થોડો યુરિયા મજ્જકમાં પ્રવેશે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: DCT = Conditional (શરતી) Reabsorption.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાઉન્ટર કરન્ટ મિકેનિઝમ (Counter Current Mechanism) વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. મૃત્રને સાંદ્ર બનાવવાની પદ્ધતિ છે. <br>૨. હેન્લેના પાશની બે ભુજાઓ અને વાઝા રેક્ટાની બે ભુજાઓમાં પ્રવાહીનો પ્રવાહ વિરુદ્ધ દિશામાં હોય છે, જેને કાઉન્ટર કરન્ટ કહે છે. <br>૩. મજ્જક આંતરલીય પ્રવાહીની આસૃતિ ૩૦૦ mOsmol/L થી વધીને ૧૨૦૦ mOsmol/L થાય છે. <br>૪. NaCl અને યુરિયા આ ઢોળાંશ જાળવવામાં મદદ કરે છે. <br>૫. આ પદ્ધતિ દ્વારા મનુષ્યનું મૂત્ર શરૂઆતના ગાળણ કરતા ૪ ગણું સાંદ્ર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Counter = વિરુદ્ધ પ્રવાહ, મુખ્ય ખેલાડી = NaCl + Urea.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મૂત્રપિંડ કાર્યનું નિયમન: હાયપોથેલેમસ અને ADH ની ભૂમિકા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. શરીરમાંથી વધુ પડતા પ્રવાહીના વ્યયથી આસૃતિગ્રાહકો સક્રિય થાય છે. <br>૨. તે હાયપોથેલેમસને ઉત્તેજીત કરી પશ્ચ પિટ્યુટરીમાંથી ADH (Anti-Diuretic Hormone) મુક્ત કરાવે છે. <br>૩. ADH નલિકાના પાછળના ભાગમાં પાણીનું પુનઃશોષણ વધારે છે, જેથી મૂત્રાતિસાર (Diuresis) અટકે છે. <br>૪. શરીરના પ્રવાહી વધતા ADH સ્ત્રાવ ઘટે છે. <br>૫. ADH રુધિરવાહિનીઓનું સંકોચન કરીને રુધિરદાબ (BP) અને GFR પણ વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADH = Anti-Loss of Water (પાણી બચાવો હોર્મોન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રેનિન-એન્જિયોટેન્સિન તંત્ર (RAAS) ની પ્રક્રિયા સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. જ્યારે GFR/રુધિરદાબ ઘટે છે, ત્યારે JGA (જક્ષ્ટા ગ્લોમેરુલર એપરેટસ) માંથી 'રેનિન' મુક્ત થાય છે. <br>૨. રેનિન રુધિરમાં રહેલા એન્જિયોટેન્સિનોજનને એન્જિયોટેન્સિન-I અને પછી એન્જિયોટેન્સિન-II માં ફેરવે છે. <br>૩. એન્જિયોટેન્સિન-II શક્તિશાળી વાહિની સંકોચક છે જે GFR વધારે છે. <br>૪. તે એડ્રીનલ બાહ્યકને 'આલ્ડોસ્ટેરોન' મુક્ત કરવા પ્રેરે છે. <br>૫. આલ્ડોસ્ટેરોન DCT માંથી Na+ અને પાણીનું પુનઃશોષણ વધારે છે, પરિણામે રુધિરદાબ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Low BP -> Renin -> Angio II -> Aldosterone -> High BP.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ANF (Atrial Natriuretic Factor) ની કાર્યપદ્ધતિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. જ્યારે હૃદયના કર્ણકોમાં રુધિરનો પ્રવાહ (રુધિરદાબ) વધે છે, ત્યારે કર્ણકની દીવાલમાંથી ANF મુક્ત થાય છે. <br>૨. ANF રુધિરવાહિનીઓનું વિસ્તરણ (Vasodilation) કરે છે. <br>૩. આના કારણે રુધિરદાબ ઘટે છે. <br>૪. ANF પદ્ધતિ એ રેનિન-એન્જિયોટેન્સિન પદ્ધતિ પર નિયંત્રણ (Check) તરીકે કામ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RAAS = વધારનાર, ANF = ઘટાડનાર (Balance).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મૂત્ર નિકાલ (Micturition) ની પ્રક્રિયા વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. મૂત્રાશય મૂત્રથી ભરાય એટલે તેની દીવાલના ખેંચાણ ગ્રાહકો સક્રિય થાય છે. <br>૨. આ સંદેશા મધ્યસ્થ ચેતાતંત્ર (CNS) ને જાય છે. <br>૩. CNS માંથી ચાલક સંદેશા મૂત્રાશયના લીસા સ્નાયુઓના સંકોચન અને મૂત્રમાર્ગના સ્નાયુઓના શિથિલન માટે આવે છે. <br>૪. આથી મૂત્રનો નિકાલ થાય છે, જેને મૂત્ર ત્યાગની ક્રિયા કહે છે. <br>૫. પુખ્ત મનુષ્ય ૨૫-૩૦ ગ્રામ યુરિયાનો ત્યાગ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેંચાણ -> CNS -> સંકોચન -> નિકાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઉત્સર્જનમાં અન્ય અંગો (ફેફસાં, યકૃત, ત્વચા) નો ફાળો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. <strong>ફેફસાં:</strong> દરરોજ ૧૮ લિટર CO2 અને નોંધપાત્ર પાણીનો નિકાલ કરે છે. <br>૨. <strong>યકૃત:</strong> બિલીરુબિન, બિલીવર્ડિન, કોલેસ્ટેરોલ, સ્ટેરોઈડ હોર્મોન્સ અને વિટામિન્સનો પિત્ત દ્વારા નિકાલ કરે છે. <br>૩. <strong>પરસેવો (સ્વેદ ગ્રંથિ):</strong> NaCl, યુરિયા અને લેક્ટિક એસિડનો નિકાલ કરે છે. મુખ્ય કાર્ય શરીર ઠંડુ રાખવાનું છે. <br>૪. <strong>સ્નિગ્ધ ગ્રંથિ:</strong> સીબમ દ્વારા સ્ટેરોલ્સ, હાઈડ્રોકાર્બન અને મીણનો નિકાલ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lung=CO2, Liver=Bile, Skin=Sweat/Sebum.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "હિમોડાયાલિસિસ (Hemodialysis) ની પ્રક્રિયા ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. જ્યારે મૂત્રપિંડ નિષ્ફળ જાય (Uremia), ત્યારે રુધિરમાંથી યુરિયા કાઢવા માટે વપરાતી પદ્ધતિ. <br>૨. ધમનીમાંથી રુધિર કાઢી હિપેરીન ઉમેરી ડાયાલાઈઝિંગ યુનિટમાં મોકલાય છે. <br>૩. યુનિટમાં સેલોફેન નળીઓ હોય છે જેની આસપાસ ડાયાલાઈઝિંગ પ્રવાહી હોય છે. <br>૪. પ્રવાહીમાં નાઈટ્રોજનયુક્ત નકામા પદાર્થો હોતા નથી, તેથી પ્રસરણ દ્વારા રુધિર ચોખ્ખું થાય છે. <br>૫. શુદ્ધ રુધિરમાં એન્ટી-હિપેરીન ઉમેરી શિરા દ્વારા શરીરમાં પાછું ચડાવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધમની (બહાર) -> ડાયાલિસિસ -> શિરા (અંદર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઉત્સર્જનતંત્રની અનિયમિતતાઓ (Calculi, Glomerulonephritis) વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧. <strong>યુરેમિયા:</strong> રુધિરમાં યુરિયાનું પ્રમાણ વધવું, જે ઘાતક છે. <br>૨. <strong>રીનલ કેલક્યુલી (પથરી):</strong> મૂત્રપિંડમાં અદ્રાવ્ય સ્ફટિકમય ક્ષારો (મુખ્યત્વે ઓક્ઝેલેટ્સ) ના પિંડ બનવા. <br>૩. <strong>ગ્લોમેરુલો નેફ્રાઈટીસ:</strong> મૂત્રપિંડના રુધિરકેશિકાગુચ્છમાં આવતો સોજો (Infection). <br>૪. <strong>કિડની ટ્રાન્સપ્લાન્ટ:</strong> મૂત્રપિંડ કામ ન કરે ત્યારે એકમાત્ર કાયમી ઈલાજ છે, જેમાં નજીકના સંબંધીનું કિડની લેવાય છે જેથી રિજેક્શન ન થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Itis' = સોજો, 'Calculi' = Stone/પથરી.</p></div>"
+    }
+  ]
+}

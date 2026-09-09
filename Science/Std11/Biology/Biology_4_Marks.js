@@ -1781,3 +1781,116 @@ var Std11_Biology_4_Marks = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "પ્રચલન અને હલનચલન",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માનવ શરીરમાં જોવા મળતા મુખ્ય હલનચલનના પ્રકારો સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવ શરીરના કોષો મુખ્યત્વે ત્રણ પ્રકારના હલનચલન દર્શાવે છે: (1) અમીબીય હલનચલન: લ્યુકોસાઇટ્સ (શ્વેતકણો) અને મેક્રોફેજ જેવા કોષો ખોટા પગ (pseudopodia) દ્વારા આ હલનચલન કરે છે. (2) પક્ષ્મલ હલનચલન: શ્વસનમાર્ગમાં ધૂળના રજકણો દૂર કરવા અને માદા પ્રજનન માર્ગમાં અંડકોષના વહન માટે પક્ષ્મો દ્વારા થતું હલનચલન. (3) સ્નાયુબદ્ધ હલનચલન: આપણા અંગો, જડબાં, જીભ અને પ્રચલન માટે સ્નાયુઓના સંકોચનનો ઉપયોગ થાય છે. આ માટે સ્નાયુબદ્ધ, કંકાલ અને ચેતાતંત્રનું સંકલન જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APS - Amoeboid (અમીબીય), P-Paksma (પક્ષ્મલ), S-Snayu (સ્નાયુબદ્ધ). 'આપો સાથ' (A-P-S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સ્થાન અને દેખાવના આધારે સ્નાયુઓના પ્રકારો વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્નાયુઓ ત્રણ પ્રકારના છે: (1) કંકાલ સ્નાયુઓ: હાડકા સાથે જોડાયેલા, રેખિત દેખાવ અને એચ્છિક નિયંત્રણ હેઠળ હોય છે. (2) અંતસ્થ સ્નાયુઓ (અરેખિત): શરીરના પોલા અંગો (પાચનમાર્ગ, પ્રજનનમાર્ગ) ની દીવાલમાં, લીસા દેખાવના અને અનૈચ્છિક હોય છે. (3) હૃદ સ્નાયુઓ: માત્ર હૃદયમાં જોવા મળે છે, દેખાવમાં રેખિત પણ કાર્યમાં અનૈચ્છિક હોય છે. તેઓ શાખિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: KAH - કંકાલ (એચ્છિક), અંતસ્થ (અનૈચ્છિક), હૃદ (શાખિત). 'કાહ' યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કંકાલ સ્નાયુતંતુની સૂક્ષ્મ સંરચના આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક કંકાલ સ્નાયુ ઘણા સ્નાયુબંડલો (fascicles) નો બનેલો છે. સ્નાયુતંતુના આવરણને સારકોલેમા કહે છે. તેમાં બહુકેન્દ્રીય કોષરસ (Sarcoplasm) હોય છે. અંતઃકોષરસ જાળને સારકોપ્લાઝમિક રેટિક્યુલમ કહે છે, જે Ca++ નો સંગ્રહસ્થાન છે. સ્નાયુતંતુમાં સમાંતર ગોઠવાયેલા સ્નાયુતંતુકો (myofibrils) હોય છે, જેમાં ઘેરા (A-બિંબ) અને ઝાંખા (I-બિંબ) પટ્ટાઓ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સારકો = સ્નાયુ. લેમા = પડ, પ્લાઝમ = રસ, રેટિક્યુલમ = કેલ્શિયમની તિજોરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એક્ટિન (પાતળા તંતુક) ની સંરચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક એક્ટિન તંતુ બે 'F' એક્ટિનનો બનેલો છે જે એકબીજા ફરતે કુંતલાકાર રીતે વીંટળાયેલા હોય છે. દરેક F-એક્ટિન એ G-એક્ટિન (ગોળાકાર) નો પોલિમર છે. આ ઉપરાંત બે ટ્રોપોમાયોસિનના તંતુઓ પણ લંબાઈમાં વીંટળાયેલા હોય છે. ટ્રોપોનિન નામનું જટિલ પ્રોટીન ચોક્કસ અંતરે ટ્રોપોમાયોસિન પર ગોઠવાયેલું હોય છે, જે આરામની સ્થિતિમાં માયોસિનના જોડાણસ્થાનને ઢાંકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F-એક્ટિન એટલે ફિલામેન્ટ (તંતુ), G-એક્ટિન એટલે ગોળાકાર. ટ્રોપોનિન = લોક (Lock) જે માયોસિનને આવતા રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માયોસિન (જાડા તંતુક) ની સંરચના આકૃતિ સહ વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માયોસિન એ મેરોમાયોસિનના પોલિમર છે. તેના બે ભાગ છે: (1) ભારે મેરોમાયોસિન (HMM) જે ટૂંકી ભુજા અને શીર્ષ ધરાવે છે. (2) હલકું મેરોમાયોસિન (LMM) જે પૂંછડી બનાવે છે. શીર્ષમાં ATP-એઝ ઉત્સેચક અને એક્ટિન સાથે જોડાવા માટેના સક્રિય સ્થાનો આવેલા હોય છે. શીર્ષ બહારની તરફ લંબાયેલું હોય છે જેને ક્રોસ-બ્રિજ (સેતુ) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયોસિન = ગદા જેવું. માથું (HMM) ભારે છે અને કામ (ATP) કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્નાયુ સંકોચનની સરકતા તંતુકોની થિયરી (Sliding Filament Theory) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હકસલે દ્વારા અપાયેલ આ સિદ્ધાંત મુજબ, પાતળા તંતુકો (એક્ટિન) જાડા તંતુકો (માયોસિન) પર સરકે છે. જ્યારે CNS માંથી સંદેશો ન્યુરોમસ્ક્યુલર જંકશન પર પહોંચે ત્યારે એસીટાઈલકોલીન મુક્ત થાય છે, જે Ca++ મુક્ત કરે છે. Ca++ ટ્રોપોનિન સાથે જોડાઈને એક્ટિનના સ્થાનો ખુલ્લા કરે છે. માયોસિન શીર્ષ ATP વાપરીને સેતુ બનાવે છે અને એક્ટિનને ખેંચે છે, જેથી Z-રેખાઓ નજીક આવે છે અને સ્નાયુ ટૂંકો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંદેશો -> Ca++ -> ટ્રોપોનિન હટ્યું -> સેતુ બન્યો -> સ્લાઇડિંગ થયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્નાયુ સંકોચન અને શિથિલન દરમિયાન સેતુ (Cross-bridge) ચક્ર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સેતુ નિર્માણ: માયોસિન શીર્ષ ATP ના જલવિભાજનથી મળેલી ઉર્જા વાપરીને એક્ટિન સાથે જોડાય છે. (2) પાવર સ્ટ્રોક: એક્ટિન તંતુને 'A' બિંબના કેન્દ્ર તરફ ખેંચે છે. (3) સેતુ તૂટવો: નવું ATP જોડાતા માયોસિન એક્ટિનથી મુક્ત થાય છે. (4) પુનઃસક્રિયતા: ATP નું ફરી જલવિભાજન થાય છે. આ ચક્ર સતત ચાલવાથી સંકોચન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડાણ -> ખેંચાણ -> મુક્તિ -> પુનરાવર્તન. ATP વગર મુક્તિ (Relaxation) શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લાલ અને સફેદ સ્નાયુતંતુઓ વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલ સ્નાયુતંતુઓ (Red fibers): વધુ માયોક્લોબિન ધરાવે, વધુ કણાભસૂત્રો હોય, જારક શ્વસન કરે અને લાંબા સમય સુધી થાક્યા વગર કામ કરી શકે. સફેદ સ્નાયુતંતુઓ (White fibers): ઓછું માયોક્લોબિન, ઓછા કણાભસૂત્રો પણ વધુ સારકોપ્લાઝમિક રેટિક્યુલમ ધરાવે છે. તેઓ અજારક શ્વસન પર આધારિત છે અને ઝડપથી થાકી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Red = Oxygen (Aerobic), White = Fast but Fatigue (Anaerobic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "માનવ અક્ષીય કંકાલ (Axial Skeleton) માં સમાવિષ્ટ ભાગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અક્ષીય કંકાલમાં કુલ 80 અસ્થિઓ હોય છે. તેમાં (1) ખોપરી (22 અસ્થિઓ + હાઈઓઈડ + કાનના અસ્થિ), (2) કરોડસ્તંભ (26 કશેરુકાઓ), (3) ઉરોસ્થિ (1 અસ્થિ) અને (4) પાંસળીઓ (12 જોડ = 24 અસ્થિઓ) નો સમાવેશ થાય છે. આ કંકાલ શરીરના મુખ્ય અક્ષ પર આવેલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષીય = 80. 'ખો-ક-ઉ-પા' (ખોપરી, કરોડસ્તંભ, ઉરોસ્થિ, પાંસળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માનવ ખોપરીની રચના સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોપરી બે જૂથના અસ્થિઓની બનેલી છે: (1) મસ્તિષ્ક પેટીના અસ્થિઓ (Cranial bones): સંખ્યા 8, જે મગજનું રક્ષણ કરે છે. (2) ચહેરાના અસ્થિઓ (Facial bones): સંખ્યા 14, જે ચહેરાનો આકાર આપે છે. ઉપરાંત, મુખગુહાના તળિયે U-આકારનું હાઇઓઇડ અસ્થિ અને દરેક કાનમાં 3-3 મધ્યકર્ણના અસ્થિ (હથોડી, એરણ, પેંગડું) હોય છે. ખોપરી કરોડસ્તંભ સાથે બે ઓક્સિપિટલ કોન્ડાઈલ્સ (Dicondylic) દ્વારા જોડાય છે.</p><hr><p style='color:#d32f2Label:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 (Brain) + 14 (Face) = 22. 'બે ઓક્સિપિટલ' એટલે Dicondylic.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "માનવ કરોડસ્તંભનું વર્ગીકરણ અને કાર્ય સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કરોડસ્તંભ 26 કશેરુકાઓનો બનેલો છે: ગ્રીવા (C-7), ઉરસીય (T-12), કટિ (L-5), ત્રિકાસ્થિ (S-1 જોડાણથી), અને પુચ્છાસ્થિ (Co-1 જોડાણથી). પ્રથમ કશેરુકા 'એટલાસ' છે. કાર્ય: કરોડરજ્જુનું રક્ષણ કરવું, માથાને ટેકો આપવો અને સ્નાયુઓના જોડાણ માટે સ્થાન પૂરું પાડવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C7 T12 L5 S1 Co1. સૂત્ર: 'ચાલ તે લાલુ સાથે ચોપાટી' (C-T-L-S-Co).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "માનવ પાંસળી પિંજર (Rib Cage) વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંસળીઓની 12 જોડ હોય છે. (1) સાચી પાંસળીઓ (True ribs): 1 થી 7 જોડ, જે પાછળ કરોડસ્તંભ અને આગળ ઉરોસ્થિ સાથે જોડાય છે. (2) ખોટી પાંસળીઓ (False ribs): 8, 9, 10 મી જોડ, જે ઉરોસ્થિ સાથે સીધી નહીં પણ 7મી પાંસળી સાથે કાસ્થિથી જોડાય છે. (3) તરતી પાંસળીઓ (Floating ribs): 11 અને 12 મી જોડ, જે આગળના ભાગે જોડાયેલી હોતી નથી. પાંસળીઓ, ઉરસીય કશેરુકા અને ઉરોસ્થિ ભેગા મળી પાંસળી પિંજર બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 (True), 3 (False), 2 (Floating). 7-3-2 યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અગ્ર ઉપાંગ (હાથ) ના અસ્થિઓનું વર્ણન કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક અગ્ર ઉપાંગમાં 30 અસ્થિ હોય છે: ભુજાસ્થિ (Humerus - 1), અરીય-પ્રકોષ્ઠાસ્થિ (Radius-Ulna - 2), મણિબંધાસ્થિ (Carpals/Wrist - 8), પશ્ચમણિબંધાસ્થિ (Metacarpals/Palm - 5) અને આંગળીઓના અસ્થિ (Phalanges - 14). કુલ 30 અસ્થિઓ એક હાથમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H-R-U-C-M-P. (1-2-8-5-14). આ ક્રમમાં જ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પશ્ચ ઉપાંગ (પગ) ના અસ્થિઓની યાદી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક પશ્ચ ઉપાંગમાં 30 અસ્થિ હોય છે: ઊર્વસ્થિ (Femur - સૌથી લાંબુ અસ્થિ), નળાસ્થિ અને ફિબ્યુલા (Tibia-Fibula - 2), ગુલ્ફાસ્થિ (Tarsals/Ankle - 7), પશ્ચગુલ્ફાસ્થિ (Metatarsals - 5) અને આંગળીઓના અસ્થિ (Phalanges - 14). ઘૂંટણ પર કપ આકારનું પટ્ટિકા (Patella) અસ્થિ પણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથમાં મણિબંધ (8) છે, પગમાં ગુલ્ફ (7) છે કારણ કે ત્યાં એક પટ્ટિકા (પટેલા) વધી જાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્કંધમેખલા (Pectoral Girdle) ની રચના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્કંધમેખલાના બે અડધા ભાગ હોય છે. દરેક ભાગમાં એક અક્ષક (Clavicle) અને એક સ્કંધાસ્થિ (Scapula) હોય છે. સ્કંધાસ્થિ એ ત્રિકોણાકાર ચપટું અસ્થિ છે. તેમાં એક ઊપસેલો ભાગ એ ક્રોમિયન પ્રવર્ધ છે. તેની નીચે ગ્લેનોઈડ ગુહા (Glenoid cavity) હોય છે જેમાં ભુજાસ્થિનું શીર્ષ જોડાય છે. અક્ષક એ લાંબુ, પાતળું અસ્થિ છે જેને 'બ્યુટી બોન' પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કંધમેખલા = ખભો. સ્કેપ્યુલા (પાછળ) + ક્લેવિકલ (આગળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નિતંબમેખલા (Pelvic Girdle) ની રચના સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિતંબમેખલા બે નિતંબ અસ્થિઓ (Coxal bones) ની બનેલી છે. દરેક નિતંબ અસ્થિ ત્રણ અસ્થિઓના જોડાણથી બને છે: ઈલિયમ (Ilium), ઈશ્યમ (Ischium) અને પ્યુબિસ (Pubis). આ ત્રણેયના જોડાણ સ્થાને એસીટાબુલમ ગુહા હોય છે જેમાં ઊર્વસ્થિ (Femur) જોડાય છે. બંને ભાગો આગળ પ્યુબિક સિમ્ફાયસિસ (કાસ્થિ) દ્વારા જોડાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિતંબ = 'IIP'. Ilium, Ischium, Pubis. (આઈ-આઈ-પી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સાંધા એટલે શું? તંતુમય અને કાસ્થિમય સાંધા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસ્થિઓ અથવા અસ્થિ અને કાસ્થિ વચ્ચેના જોડાણ બિંદુને સાંધા કહે છે. (1) તંતુમય સાંધા (Fibrous joints): અસ્થિઓ મજબૂત તંતુઓ દ્વારા જોડાયેલા હોય છે, કોઈ હલનચલન થતું નથી. દા.ત., ખોપરીના અસ્થિઓ (સેવની). (2) કાસ્થિમય સાંધા (Cartilaginous joints): અસ્થિઓ કાસ્થિ દ્વારા જોડાય છે, મર્યાદિત હલનચલન થાય છે. દા.ત., કરોડસ્તંભની પાસપાસેની કશેરુકાઓ વચ્ચેના સાંધા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંતુમય = NO movement (Fixed). કાસ્થિમય = Little movement.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સીનોવિયલ સાંધા (Synovial joints) ના પ્રકારો ઉદાહરણ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ સાંધામાં સીનોવિયલ ગુહા અને પ્રવાહી હોય છે, જે મુક્ત હલનચલન આપે છે. પ્રકારો: (1) કંદુક-ઉલૂખલ (Ball & Socket): ખભો અને નિતંબ. (2) મિજાગરા સાંધો (Hinge joint): ઘૂંટણ અને કોણી. (3) ઉખળી સાંધો (Pivot joint): એટલાસ અને એક્સિસ. (4) લપસતા સાંધા (Gliding): મણિબંધાસ્થિ. (5) સેડલ સાંધો (Saddle): અંગૂઠાનો મણિબંધ અને પશ્ચમણિબંધ વચ્ચે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ball/Socket = All side, Hinge = One side, Pivot = Rotate.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સ્નાયુતંત્રના વિકારો (Myasthenia gravis, Muscular dystrophy, Tetany) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) માયસ્થેનિયા ગ્રેવિસ: સ્વ-પ્રતિરક્ષા રોગ, જે ચેતાસ્નાયુ જંકશનને અસર કરે છે, સ્નાયુઓ નબળા પડે છે. (2) મસ્ક્યુલર ડિસ્ટ્રોફી: જનીનિક ખામીને કારણે કંકાલ સ્નાયુઓનો ક્રમશઃ નાશ થાય છે. (3) ટેટની (Tetany): શરીરમાં Ca++ ના ઓછા પ્રમાણને કારણે સ્નાયુઓમાં થતું તીવ્ર સંકોચન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Myasthenia = Autoimmune. Tetany = Low Calcium. Dystrophy = Genetic.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કંકાલતંત્રના વિકારો (Arthritis, Osteoporosis, Gout) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સંધિવા (Arthritis): સાંધાઓમાં થતો સોજો. (2) અસ્થિ સુષિરતા (Osteoporosis): ઉંમર વધવાને કારણે અસ્થિની ઘનતા ઘટે અને હાડકાં બરડ બને. સ્ત્રીઓમાં એસ્ટ્રોજનની ઉણપ આનું મુખ્ય કારણ છે. (3) ગાઉટ (Gout): સાંધાઓમાં યુરિક એસિડના સ્ફટિકો જમા થવાને કારણે સોજો આવવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Osteo = Bone, Porosis = Pores (કાણાં). Gout = Uric Acid.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સારકોમીયર (સ્નાયુ સંકોચનનો એકમ) ની આકૃતિ દોરી તેના ભાગો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે ક્રમિક Z-રેખાઓ વચ્ચેના સ્નાયુતંતુકના ભાગને 'સારકોમીયર' કહે છે. તેમાં: (1) A-બિંબ (Anisotropic): મધ્યમાં રહેલા જાડા માયોસિન તંતુઓ. (2) I-બિંબ (Isotropic): માત્ર પાતળા એક્ટિન તંતુઓ ધરાવતો વિસ્તાર. (3) H-ક્ષેત્ર: A-બિંબનો મધ્ય ભાગ જ્યાં એક્ટિન હોતા નથી. સંકોચન વખતે H-ક્ષેત્ર ઘટે છે અને I-બિંબ ટૂંકો થાય છે, પણ A-બિંબની લંબાઈ બદલાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-Band = Always Same (લંબાઈ બદલાય નહીં). I-Band = It changes.</p></div>"
+    }
+  ]
+}

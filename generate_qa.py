@@ -9,16 +9,16 @@ with open('system/progress_tracker.json', 'r', encoding='utf-8') as f:
     tracker = json.load(f)
 
 if tracker.get('status') == "completed":
-    print("🎉 ઓટોમેશન પૂર્ણ થઈ ગયું છે. ધોરણ 11 સાયન્સના ચારેય વિષયોના ડેટા બની ગયા છે!", flush=True)
+    print("🎉 ઓટોમેશન પૂર્ણ થઈ ગયું છે. ધોરણ 11 સાયન્સના તમામ વિષયોના ડેટા બની ગયા છે!", flush=True)
     exit(0)
 
 # ==========================================
-# ૧. ધોરણ 11 સાયન્સનો માસ્ટર સિલેબસ (NCERT 2024+)
+# ધોરણ 11 સાયન્સ (નવો સિલેબસ 2024+) - તમામ વિષયો
 # ==========================================
-std11_science_syllabus = [
+science_subjects = [
     {
-        "name": "Biology",
-        "guj_name": "જીવવિજ્ઞાન",
+        "id": "Biology",
+        "guj_name": "બાયોલોજી (જીવવિજ્ઞાન)",
         "chapters": {
             1: "સજીવ વિશ્વ", 2: "જૈવિક વર્ગીકરણ", 3: "વનસ્પતિ સૃષ્ટિ", 4: "પ્રાણી સૃષ્ટિ",
             5: "સપુષ્પી વનસ્પતિઓની બાહ્યાકાર વિદ્યા", 6: "સપુષ્પી વનસ્પતિઓની અંતઃસ્થ રચના",
@@ -30,40 +30,39 @@ std11_science_syllabus = [
         }
     },
     {
-        "name": "Physics",
-        "guj_name": "ભૌતિક વિજ્ઞાન",
+        "id": "Physics",
+        "guj_name": "ભૌતિકવિજ્ઞાન (Physics)",
         "chapters": {
             1: "એકમ અને માપન", 2: "સુરેખ પથ પર ગતિ", 3: "સમતલમાં ગતિ", 4: "ગતિના નિયમો",
-            5: "કાર્ય, ઊર્જા અને પાવર", 6: "કણોનું તંત્ર અને ચાકગતિ", 7: "ગુરુત્વાકર્ષણ",
+            5: "કાર્ય, ઊર્જા અને પાવર", 6: "કણોનાં તંત્રો અને ચાકગતિ", 7: "ગુરુત્વાકર્ષણ",
             8: "ઘન પદાર્થોના યાંત્રિક ગુણધર્મો", 9: "તરલના યાંત્રિક ગુણધર્મો", 10: "દ્રવ્યના ઉષ્મીય ગુણધર્મો",
-            11: "થર્મોડાયનેમિક્સ", 12: "કાઇનેટિક થીયરી (વાયુનો ગતિવાદ)", 13: "દોલનો", 14: "તરંગો"
+            11: "થર્મોડાયનેમિક્સ", 12: "વાયુનો ગતિવાદ", 13: "દોલનો", 14: "તરંગો"
         }
     },
     {
-        "name": "Chemistry",
-        "guj_name": "રસાયણ વિજ્ઞાન",
+        "id": "Chemistry",
+        "guj_name": "રસાયણવિજ્ઞાન (Chemistry)",
         "chapters": {
             1: "રસાયણવિજ્ઞાનની કેટલીક પાયાની સંકલ્પનાઓ", 2: "પરમાણુનું બંધારણ",
             3: "તત્ત્વોનું વર્ગીકરણ અને ગુણધર્મોમાં આવર્તિતા", 4: "રાસાયણિક બંધન અને આણ્વીય રચના",
             5: "ઉષ્માગતિશાસ્ત્ર", 6: "સંતુલન", 7: "રેડોક્ષ પ્રક્રિયાઓ",
-            8: "કાર્બનિક રસાયણવિજ્ઞાન : કેટલાક પાયાના સિદ્ધાંતો અને તકનીકો", 9: "હાઇડ્રોકાર્બન"
+            8: "કાર્બનિક રસાયણવિજ્ઞાન - કેટલાક પાયાના સિદ્ધાંતો અને તકનીકો", 9: "હાઇડ્રોકાર્બન"
         }
     },
     {
-        "name": "Maths",
-        "guj_name": "ગણિત",
+        "id": "Maths",
+        "guj_name": "ગણિત (Mathematics)",
         "chapters": {
-            1: "ગણ", 2: "સંબંધ અને વિધેય", 3: "ત્રિકોણમિતીય વિધેયો", 4: "સંકર સંખ્યાઓ અને દ્વિઘાત સમીકરણો",
-            5: "સુરેખ અસમતાઓ", 6: "ક્રમચય અને સંચય", 7: "દ્વિપદી પ્રમેય", 8: "શ્રેણી અને શ્રેઢી",
-            9: "રેખાઓ", 10: "શાંકવો", 11: "ત્રિપરિમાણીય ભૂમિતિનો પરિચય", 12: "લક્ષ અને વિકલન",
-            13: "આંકડાશાસ્ત્ર", 14: "સંભાવના"
+            1: "ગણ", 2: "સંબંધ અને વિધેય", 3: "ત્રિકોણમિતિય વિધેયો", 
+            4: "સંકર સંખ્યાઓ અને દ્વિઘાત સમીકરણો", 5: "સુરેખ અસમતાઓ", 
+            6: "ક્રમચય અને સંચય", 7: "દ્વિપદી પ્રમેય", 8: "શ્રેણી અને શ્રેઢી", 
+            9: "રેખાઓ", 10: "શાંકવો", 11: "ત્રિપરિમાણીય ભૂમિતિનો પરિચય", 
+            12: "લક્ષ અને વિકલન", 13: "આંકડાશાસ્ત્ર", 14: "સંભાવના"
         }
     }
 ]
 
-# ==========================================
-# ૨. પ્રશ્નોના પ્રકાર અને ટાર્ગેટ
-# ==========================================
+# પ્રશ્નોના પ્રકાર અને તેનો મિનિમમ ટાર્ગેટ
 question_types = [
     {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 70},
     {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)", "marks": 1, "min_count": 70},
@@ -74,16 +73,17 @@ question_types = [
     {"id": "4_Marks", "name": "વિસ્તૃત પ્રશ્નો", "marks": 4, "min_count": 20}
 ]
 
+# ટ્રેકરમાંથી હાલની સ્થિતિ મેળવવી
 sub_idx = tracker.get('current_subject_index', 0)
-type_idx = tracker['current_type_index']
-ch_num = tracker['current_chapter']
+type_idx = tracker.get('current_type_index', 0)
+ch_num = tracker.get('current_chapter', 1)
 
-current_subject = std11_science_syllabus[sub_idx]
+current_subject = science_subjects[sub_idx]
 current_q_type = question_types[type_idx]
+ch_name = current_subject["chapters"].get(ch_num, "અન્ય")
 max_chapters = len(current_subject["chapters"])
-ch_name = current_subject["chapters"].get(ch_num, "અન્ય પ્રકરણ")
 
-print(f"Generating {current_q_type['name']} for Std 11 {current_subject['name']} Chapter {ch_num} ({ch_name})...", flush=True)
+print(f"Generating {current_q_type['name']} for Std 11 {current_subject['id']} Chapter {ch_num} ({ch_name})...", flush=True)
 
 # પ્રકાર મુજબ ખાસ નિયમો
 type_specific_rules = ""
@@ -94,23 +94,20 @@ elif current_q_type['id'] == "FillBlanks":
 elif current_q_type['id'] == "MatchPairs":
     type_specific_rules = "વિભાગ A અને વિભાગ B ના જોડકાં આપવા અને જવાબમાં સાચી જોડ આપવી."
 
-if current_subject['name'] == "Maths" or current_subject['name'] == "Physics":
-    type_specific_rules += " ગણતરીવાળા દાખલા અને સમીકરણો ચોકસાઈથી આપવા."
-
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
 તમારે ધોરણ 11 સાયન્સ, વિષય: {current_subject['guj_name']}, પ્રકરણ: {ch_num} ({ch_name}) ના નવા ઘટાડેલા NCERT સિલેબસ મુજબ પ્રશ્નો બનાવવાના છે.
 
 પ્રશ્નનો પ્રકાર: {current_q_type['name']} ({current_q_type['marks']} માર્ક)
 
-અત્યંત કડક નિયમો (STRICT QUALITY CONTROL):
-1. શુદ્ધતા (ZERO MIXING): આ પ્રશ્નો માત્ર '{current_subject['guj_name']}' ના પ્રકરણ '{ch_name}' ના જ હોવા જોઈએ. ભૂલથી પણ અન્ય પ્રકરણ કે વિષયના પ્રશ્નો ન આવવા જોઈએ.
-2. પ્રશ્નોની સંખ્યા (TARGET): ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. આખા ચેપ્ટરના દરેક મુદ્દા કવર થઈ જવા જોઈએ.
+અત્યંત કડક નિયમો (STRICT QUALITY CONTROL & ZERO MIXING):
+1. શુદ્ધતા: પ્રશ્નો માત્ર અને માત્ર '{current_subject['guj_name']}' ના પ્રકરણ '{ch_name}' માંથી જ હોવા જોઈએ. ભૂલથી પણ અન્ય વિષયના પ્રશ્નો ન આવવા જોઈએ.
+2. પ્રશ્નોની સંખ્યા (TARGET): ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. {current_q_type['min_count']} થી વધુ પ્રશ્નો બની શકતા હોય તો ફરજિયાત બનાવવાના જ છે. આખા ચેપ્ટરની દરેક લાઈન કવર થઈ જવી જોઈએ.
 3. પ્રકાર મુજબ શરત: {type_specific_rules}
 4. નો-રીપીટેશન: અગાઉના કોઈ પ્રશ્ન રીપીટ ન થવા જોઈએ. 
-5. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ.
+5. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ. ગણિત કે વિજ્ઞાનના સમીકરણો સ્પષ્ટ લખવા.
 
-ફોર્મેટ (STRICT JSON FORMAT):
+ફોર્મેટ (STRICT JSON FORMAT ONLY):
 કોઈપણ જાતના વેરીએબલ વગર માત્ર નીચે મુજબનું JSON Object આપવું:
 {{
   "chapterName": "પ્રકરણ {ch_num}",
@@ -126,31 +123,30 @@ prompt = f"""
 }}
 """
 
-print("Checking available models...", flush=True)
+print("Searching for live text models from your API account...", flush=True)
 valid_models = []
 try:
     for model in client.models.list():
         if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
             name = model.name.lower()
-            # જૂના 404 મોડલ્સ ફિલ્ટર કર્યા
             invalid_words = ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa', '2.5-flash']
             if not any(word in name for word in invalid_words):
                 valid_models.append(model.name)
 except Exception as e:
-    print(f"Model fetch note: {e}", flush=True)
+    print(f"Error fetching models: {e}", flush=True)
 
 if not valid_models:
     valid_models = ["models/gemini-3-flash-preview"]
 
 valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
+print(f"Active Models to use: {valid_models}", flush=True)
 
 output_data = ""
 
 for m in valid_models[:3]:
-    print(f"⏳ Pending: {m} મોડલ દ્વારા ડેટા બની રહ્યો છે...", flush=True)
+    print(f"⏳ Pending: {m} મોડલ દ્વારા ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો બની રહ્યા છે...", flush=True)
     success = False
     
-    # 503 સર્વર લોડ સામે આપમેળે 3 વાર રીટ્રાય
     for attempt in range(1, 4):
         try:
             response = client.models.generate_content(model=m, contents=prompt)
@@ -177,44 +173,42 @@ if not output_data:
     print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.", flush=True)
     exit(1)
 
-# ==========================================
-# ૩. ડેટા સેવિંગ લોજિક
-# ==========================================
-# ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Physics
-folder_path = f"Science/Std11/{current_subject['name']}"
+# ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Physics (તે વિષય મુજબ બનશે)
+folder_path = f"Science/Std11/{current_subject['id']}"
 os.makedirs(folder_path, exist_ok=True)
 
 q_id = current_q_type['id']
-file_path = f"{folder_path}/{current_subject['name']}_{q_id}.js"
+file_path = f"{folder_path}/{current_subject['id']}_{q_id}.js"
 
 mode = 'a' if os.path.exists(file_path) else 'w'
 with open(file_path, mode, encoding='utf-8') as f:
     if mode == 'w':
-        f.write(f"var Std11_{current_subject['name']}_{q_id} = {{\n")
+        f.write(f"var Std11_{current_subject['id']}_{q_id} = {{\n")
         f.write(f'"{ch_num}": ' + output_data + '\n')
     else:
         f.write(f',\n"{ch_num}": ' + output_data + '\n')
 
 # ==========================================
-# ૪. ટ્રાન્ઝિશન લોજિક (પ્રકરણ -> પ્રશ્ન પ્રકાર -> વિષય)
+# ટ્રાન્ઝિશન લોજીક (પ્રકરણ -> પ્રશ્ન પ્રકાર -> વિષય)
 # ==========================================
 tracker['current_chapter'] += 1
 
+# જો બધા ચેપ્ટર પૂરા થાય તો નવો પ્રશ્ન પ્રકાર શરૂ કરો
 if tracker['current_chapter'] > max_chapters:
     tracker['current_chapter'] = 1
     tracker['current_type_index'] += 1
+
+# જો બધા પ્રશ્ન પ્રકાર પૂરા થાય તો નવો વિષય શરૂ કરો
+if tracker['current_type_index'] >= len(question_types):
+    print(f"🎉 {current_subject['guj_name']} વિષય પૂર્ણ થયો!", flush=True)
+    tracker['current_type_index'] = 0
+    tracker['current_subject_index'] += 1
     
-    # જો એક વિષયના તમામ પ્રશ્ન પ્રકાર પૂરા થાય
-    if tracker['current_type_index'] >= len(question_types):
-        print(f"🎉 {current_subject['guj_name']} નો સંપૂર્ણ ડેટા તૈયાર થઈ ગયો છે!", flush=True)
-        tracker['current_type_index'] = 0
-        tracker['current_subject_index'] += 1
-        
-        # જો ચારેય વિષયો પૂરા થાય
-        if tracker['current_subject_index'] >= len(std11_science_syllabus):
-            print("🎉 ઓટોમેશન પૂર્ણ! ધોરણ 11 સાયન્સના તમામ વિષયો પૂરા થયા.", flush=True)
-            tracker['status'] = "completed"
-            tracker['current_subject_index'] -= 1  # એરર અટકાવવા
+    # જો ચારેય વિષયો પૂરા થઈ જાય તો
+    if tracker['current_subject_index'] >= len(science_subjects):
+        print("🎉 ધોરણ 11 સાયન્સના તમામ વિષયોનું ઓટોમેશન પૂર્ણ થયું!", flush=True)
+        tracker['status'] = "completed"
+        tracker['current_subject_index'] -= 1  # એરર અટકાવવા
 
 with open('system/progress_tracker.json', 'w', encoding='utf-8') as f:
     json.dump(tracker, f, indent=4)

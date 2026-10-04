@@ -1092,3 +1092,386 @@ var Std11_Physics_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ગતિના નિયમો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાર્થની અવસ્થા બદલવા માટે બાહ્ય બળની જરૂર પડે છે, આ નિયમ સૌ પ્રથમ કોણે આપ્યો હતો? \n (A) ન્યૂટન \n (B) એરિસ્ટોટલ \n (C) ગેલિલિયો \n (D) આઈન્સ્ટાઈન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગેલિલિયો. ગેલિલિયોએ જડત્વના ખ્યાલ દ્વારા આ બાબત સમજાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગ' થી ગતિ અને 'ગ' થી ગેલિલિયો - ગતિના પાયાના ખ્યાલો ગેલિલિયોએ આપ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જડત્વ (Inertia) એ પદાર્થના કયા ગુણધર્મ પર આધાર રાખે છે? \n (A) વેગ \n (B) પ્રવેગ \n (C) દળ \n (D) કદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દળ. પદાર્થનું દળ જેટલું વધારે, તેનું જડત્વ તેટલું વધારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દળ = દાદાગીરી (જડત્વ). જેટલું દળ મોટું, એટલી તેની હાલત બદલવી અઘરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ન્યૂટનનો ગતિનો પ્રથમ નિયમ શેની વ્યાખ્યા આપે છે? \n (A) બળ \n (B) કાર્ય \n (C) ઉર્જા \n (D) પાવર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બળ. પ્રથમ નિયમ બળની ગુણાત્મક વ્યાખ્યા આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1st Law = 'બળ શું છે?' (વ્યાખ્યા), 2nd Law = 'બળ કેટલું છે?' (મૂલ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રેખીય વેગમાનનું પારિમાણિક સૂત્ર શું છે? \n (A) [M1 L1 T-2] \n (B) [M1 L1 T-1] \n (C) [M1 L2 T-2] \n (D) [M1 L-1 T-2]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) [M1 L1 T-1]. વેગમાન P = mv (દળ × વેગ) = kg × m/s.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગમાન એટલે 'મોટા ભાઈનો વેગ' (M × V) -> 11 -1 યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બળનો આઘાત (Impulse of Force) એટલે શું? \n (A) બળ / સમય \n (B) વેગમાન / સમય \n (C) બળ × સમયગાળો \n (D) દળ × વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બળ × સમયગાળો. I = F × Δt = ΔP (વેગમાનનો ફેરફાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આઘાત એટલે 'Fat' (F * Δt). જે જોરથી ફટકો મારે તે આઘાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "1 ન્યૂટન = ....... ડાયન (dyne). \n (A) 10^3 \n (B) 10^5 \n (C) 10^7 \n (D) 10^6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10^5. SI એકમ થી CGS એકમનું રૂપાંતરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ન્યૂટન દાદા પાસે 5 ડાયન (10^5) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ન્યૂટનનો ગતિનો બીજો નિયમ શું દર્શાવે છે? \n (A) F = ma \n (B) F = mv \n (C) F = m/a \n (D) F = v/t",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) F = ma. બળ એ દળ અને પ્રવેગના ગુણાકાર જેટલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફાધર = મધર (F = Ma)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જ્યારે કોઈ પદાર્થ પર લાગતું પરિણામી બાહ્ય બળ શૂન્ય હોય, ત્યારે તેનો પ્રવેગ કેટલો હોય? \n (A) અનંત \n (B) 9.8 m/s² \n (C) શૂન્ય \n (D) પદાર્થના દળ જેટલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. F = ma મુજબ જો F=0 તો a=0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નો ધક્કો (F), નો પ્રવેગ (a)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રોકેટનું કાર્ય નીચેનામાંથી કયા નિયમ પર આધારિત છે? \n (A) ઉર્જા સંરક્ષણ \n (B) રેખીય વેગમાન સંરક્ષણ \n (C) દળ સંરક્ષણ \n (D) કોણીય વેગમાન સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રેખીય વેગમાન સંરક્ષણ. રોકેટ વાયુઓને નીચે ફેંકે છે, બદલામાં તે ઉપર તરફ વેગમાન મેળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રોકેટ એટલે 'એક્શન-રિએક્શન' ની જોડી (3rd Law) અને વેગમાનનો બચાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થિર ઘર્ષણ બળ (Static Friction) નું મહત્તમ મૂલ્ય ........ હોય છે. \n (A) μs / N \n (B) μs × N \n (C) N / μs \n (D) μs + N",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) μs × N. જ્યાં μs એ સ્થિર ઘર્ષણાંક અને N લંબબળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર્ષણ એટલે 'મુસા' (μs) અને 'નર્મદા' (N) નો ગુણાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કયું બળ સ્વયં-નિયમનકારી (Self-adjusting) બળ છે? \n (A) ગતિજ ઘર્ષણ \n (B) રોલિંગ ઘર્ષણ \n (C) સ્થિર ઘર્ષણ \n (D) ગુરુત્વાકર્ષણ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્થિર ઘર્ષણ. તે બાહ્ય બળ મુજબ પોતાનું મૂલ્ય બદલે છે (સીમાંત મૂલ્ય સુધી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થિર ઘર્ષણ એટલે 'જેવો દેશ એવો વેશ' - બાહ્ય બળ જેટલું જ પોતાનું મૂલ્ય રાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લિફ્ટ જ્યારે 'a' જેટલા પ્રવેગથી ઉપર તરફ ગતિ કરે, ત્યારે વ્યક્તિનું આભાસી વજન કેટલું થાય? \n (A) m(g - a) \n (B) mg \n (C) m(g + a) \n (D) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) m(g + a). ઉપર જતી વખતે પ્રવેગ ઉમેરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Lift Up = Plus (+), Lift Down = Minus (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઘર્ષણાંક (Coefficient of friction) નો એકમ શું છે? \n (A) ન્યૂટન \n (B) મીટર/સેકન્ડ \n (C) પરિમાણરહિત (એકમરહિત) \n (D) કિગ્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પરિમાણરહિત. કારણ કે તે બે બળોનો ગુણોત્તર છે (μ = f/N).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાન જ્ઞાતિનો ગુણોત્તર હંમેશા 'નિકાલ' (એકમરહિત) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કણના સંતુલન માટે શરત શું છે? \n (A) ΣF > 0 \n (B) ΣF < 0 \n (C) ΣF = 0 \n (D) ΣF = ma",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ΣF = 0. બધા જ બાહ્ય બળોનો સદિશ સરવાળો શૂન્ય હોવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંતુલન એટલે 'શાંતિ' - બધું જ શૂન્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગોળાકાર વળાંક વાળા રોડ પર વાહનની સલામત ઝડપ (મહત્તમ) નું સૂત્ર (ઘર્ષણ વગરના રોડ માટે) શું છે? \n (A) v = √(rg tanθ) \n (B) v = √(rg sinθ) \n (C) v = √(rg cosθ) \n (D) v = rg tanθ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) v = √(rg tanθ). આ ઢોળાવવાળા રોડ માટેની ઓપ્ટિમમ ઝડપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વળાંક પર જવું હોય તો 'ટપાલી' (tan) ને પકડવો પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ન્યૂટનનો ગતિનો ત્રીજો નિયમ નીચેનામાંથી કઈ ઘટના સમજાવે છે? \n (A) જડત્વ \n (B) બળનું માપન \n (C) ક્રિયાબળ અને પ્રતિક્રિયાબળ \n (D) પદાર્થનું દળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ક્રિયાબળ અને પ્રતિક્રિયાબળ. દરેક ક્રિયાબળને સમાન અને વિરુદ્ધ દિશામાં પ્રતિક્રિયાબળ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3rd Law = 'જેવું કરશો તેવું પામશો' (Action = Reaction)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જ્યારે બસ અચાનક ઉપડે છે, ત્યારે મુસાફરો પાછળની તરફ ફેંકાય છે. આ કયા કારણોસર થાય છે? \n (A) ગતિના જડત્વને લીધે \n (B) સ્થિરતાના જડત્વને લીધે \n (C) ઘર્ષણના લીધે \n (D) વેગમાનના લીધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્થિરતાના જડત્વને લીધે. શરીરનો નીચેનો ભાગ બસ સાથે ગતિમાં આવે છે પણ ઉપરનો ભાગ સ્થિર રહેવા પ્રયત્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પદાર્થ જે હાલતમાં હોય તેમાં રહેવા માંગે એ જ 'જડત્વ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રેખીય વેગમાન P અને ગતિઊર્જા K વચ્ચેનો સંબંધ શું છે? \n (A) P = √(2mK) \n (B) P = 2mK \n (C) K = P/2m \n (D) P = mK²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) P = √(2mK). કારણ કે K = P²/2m.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પપુ' (P) બરાબર રૂટમાં 'ટુ મંકી' (2mK)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઘોડાગાડી ખેંચતી વખતે ઘોડો કઈ દિશામાં બળ લગાવે છે જેથી તે આગળ વધી શકે? \n (A) ગાડી પર આગળ તરફ \n (B) જમીન પર ત્રાંસું પાછળ તરફ \n (C) જમીન પર સીધું નીચે તરફ \n (D) ગાડી પર પાછળ તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જમીન પર ત્રાંસું પાછળ તરફ. ન્યૂટનના ત્રીજા નિયમ મુજબ જમીન તેને આગળ ધક્કો મારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આગળ વધવું હોય તો દુનિયાને પાછળ ધકેલવી પડે (Action backward, Motion forward)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક પદાર્થ પર 5 N અને 12 N ના બે બળો પરસ્પર લંબ દિશામાં લાગે છે, તો પરિણામી બળ કેટલું થાય? \n (A) 17 N \n (B) 7 N \n (C) 13 N \n (D) 60 N",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 13 N. F = √(5² + 12²) = √(25 + 144) = √169 = 13 N.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયથાગોરિયન ત્રિપુટી યાદ રાખો: 5, 12, 13!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નીચેનામાંથી કયું ઘર્ષણ સૌથી ઓછું હોય છે? \n (A) સ્થિર ઘર્ષણ \n (B) ગતિજ ઘર્ષણ \n (C) રોલિંગ ઘર્ષણ \n (D) સીમાંત ઘર્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રોલિંગ ઘર્ષણ. પૈડાંની મદદથી ગતિ કરવી સૌથી સરળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફસડાઈને ચાલવા કરતા ગબડીને (Rolling) ચાલવું સસ્તું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બંદૂકની ગોળી છૂટતી વખતે બંદૂક પાછળ ધકેલાય છે (Recoil), તેનું કારણ: \n (A) ઉર્જા સંરક્ષણ \n (B) ન્યૂટનનો 1 લો નિયમ \n (C) વેગમાનનું સંરક્ષણ \n (D) ગુરુત્વાકર્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વેગમાનનું સંરક્ષણ. શરૂઆતનું વેગમાન 0 હોવાથી અંતિમ વેગમાન (ગોળી + બંદૂક) પણ 0 થવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોળી આગળ (Positive), બંદૂક પાછળ (Negative) -> ટોટલ ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઘર્ષણ બળ હંમેશા ગતિની કઈ દિશામાં લાગે છે? \n (A) ગતિની દિશામાં \n (B) ગતિની વિરુદ્ધ દિશામાં \n (C) ગતિને લંબ દિશામાં \n (D) કોઈપણ દિશામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગતિની વિરુદ્ધ દિશામાં. ઘર્ષણ હંમેશા સાપેક્ષ ગતિનો વિરોધ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર્ષણ એટલે 'વિલન' - જે હંમેશા ગતિના હીરોનો વિરોધ જ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જ્યારે લિફ્ટની દોરી તૂટી જાય, ત્યારે અંદર રહેલા પદાર્થનું આભાસી વજન કેટલું થાય? \n (A) mg \n (B) 2mg \n (C) શૂન્ય \n (D) m(g-a)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. મુક્ત પતન (Free fall) વખતે પ્રવેગ a = g હોવાથી W = m(g-g) = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દોરી તૂટી તો ટેન્શન પૂરું, વજન પણ પૂરું (શૂન્ય)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઘર્ષણ રહિત સપાટી પર ગતિ કરતા પદાર્થનો પ્રવેગ ....... હોય છે. \n (A) F/m \n (B) μg \n (C) g \n (D) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) F/m. ન્યૂટનના બીજા નિયમ મુજબ a = F/m.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર્ષણ નથી તો બધું જ બળ પ્રવેગમાં વપરાશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કેન્દ્રગામી બળ (Centripetal Force) નું સૂત્ર શું છે? \n (A) mvr \n (B) mv²/r \n (C) m²v/r \n (D) mv/r²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) mv²/r. જે વર્તુળાકાર ગતિ માટે જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોળ ફરવું હોય તો 'માવો' (mv^2) ખાઈને 'રેડિયસ' (r) થી ભાગવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંપર્કમાં રહેલી બે સપાટીઓ માટે ગતિજ ઘર્ષણાંક (μk) અને સ્થિર ઘર્ષણાંક (μs) વચ્ચેનો સંબંધ: \n (A) μk > μs \n (B) μk < μs \n (C) μk = μs \n (D) μk = 2μs",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) μk < μs. પદાર્થને ગતિમાં લાવવો અઘરો છે, પણ ગતિ ચાલુ રાખવી સહેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'S' (Static) મોટો છે 'K' (Kinetic) કરતા - પથ્થરને ખસેડવો અઘરો, ખેંચવો સહેલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બળ વિરુદ્ધ સમયના આલેખનું ક્ષેત્રફળ શું આપે છે? \n (A) વેગ \n (B) પ્રવેગ \n (C) બળનો આઘાત \n (D) પાવર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બળનો આઘાત. Area = ∫F dt = ΔP.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): F × t નો ગુણાકાર એટલે 'ફટકો' (Impulse)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પદાર્થ પર લાગતું બળ તેની ગતિની દિશાને લંબ હોય, તો તેની ગતિપથ કેવો હશે? \n (A) સુરેખ \n (B) પરવલય \n (C) વર્તુળાકાર \n (D) અતિવલય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વર્તુળાકાર. લંબ બળ કેન્દ્રગામી બળ તરીકે વર્તે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબ બળ એટલે 'ટર્નિંગ' - ગાડી વળાંક લેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "એક 2 kg ના પદાર્થ પર 10 N બળ લાગે છે, તો તેનો પ્રવેગ કેટલો? \n (A) 20 m/s² \n (B) 5 m/s² \n (C) 12 m/s² \n (D) 8 m/s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 m/s². a = F/m = 10/2 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીધું 'ફાધર/મધર' (10/2) કરો એટલે જવાબ હાજર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પદાર્થના વેગમાનમાં થતો ફેરફાર કોના પર આધાર રાખે છે? \n (A) માત્ર બળ પર \n (B) માત્ર સમય પર \n (C) બળ અને સમય બંને પર \n (D) પદાર્થના કદ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બળ અને સમય બંને પર. ΔP = F × Δt.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગમાન બદલવું હોય તો 'જોર' પણ જોઈએ અને 'સમય' પણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ઘર્ષણ ઘટાડવા માટે નીચેનામાંથી કઈ પદ્ધતિ વપરાય છે? \n (A) લુબ્રિકન્ટનો ઉપયોગ \n (B) બોલ-બેરિંગનો ઉપયોગ \n (C) પોલિશિંગ \n (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ. આ બધી જ પદ્ધતિઓ સંપર્ક સપાટીને લીસી બનાવે છે અથવા સંપર્ક ઘટાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓઈલ, ગ્રીસ અને ગોળીઓ (બેરિંગ) - ઘર્ષણને કરે છૂમંતર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કોઈ લિફ્ટ અચળ વેગથી નીચે આવી રહી છે, તો તેમાં ઉભેલ વ્યક્તિનું વજન કેટલું અનુભવાશે? \n (A) મૂળ વજન કરતા ઓછું \n (B) મૂળ વજન કરતા વધારે \n (C) મૂળ વજન જેટલું જ \n (D) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મૂળ વજન જેટલું જ. અચળ વેગ એટલે પ્રવેગ a = 0. તેથી W = m(g-0) = mg.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અચળ વેગ' શબ્દ દેખાય એટલે આંખો બંધ કરીને જવાબ 'કોઈ ફેરફાર નહીં' લખી દેવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ઘર્ષણ બળ એ કેવા પ્રકારનું બળ છે? \n (A) સંરક્ષી બળ \n (B) અસંરક્ષી બળ \n (C) કેન્દ્રીય બળ \n (D) ગુરુત્વાકર્ષણ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અસંરક્ષી બળ. કારણ કે તેના દ્વારા થતું કાર્ય માર્ગ પર આધાર રાખે છે અને ઉષ્મા રૂપે વ્યય પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ઉર્જા ખાઈ જાય (ઉષ્મા બનાવે) તે હંમેશા 'અસંરક્ષી' જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ન્યૂટનનો કયો નિયમ 'બળના મૂલ્ય' ની ગણતરી કરવા માટે વપરાય છે? \n (A) પ્રથમ નિયમ \n (B) બીજો નિયમ \n (C) ત્રીજો નિયમ \n (D) ગુરુત્વાકર્ષણનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બીજો નિયમ. F = ma દ્વારા બળનું મૂલ્ય મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1st = વ્યાખ્યા, 2nd = ગણતરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એક હલકી અને એક ભારે વસ્તુ બંનેનું વેગમાન સમાન છે, તો કોની ગતિઊર્જા વધારે હશે? \n (A) ભારે વસ્તુની \n (B) હલકી વસ્તુની \n (C) બંનેની સમાન હશે \n (D) ડેટા અધૂરો છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હલકી વસ્તુની. K = P²/2m મુજબ, જો P અચળ હોય તો K ∝ 1/m. જેનું દળ ઓછું તેની ઊર્જા વધુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દળ ઓછું તો એનર્જી વધુ (વજન ઉતારો તો સ્ફૂર્તિ વધે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પાણીમાં તરતી વખતે આપણે પાણીને પાછળ ધકેલીએ છીએ, આ કયા નિયમનું ઉદાહરણ છે? \n (A) 1 લો નિયમ \n (B) 2 જો નિયમ \n (C) 3 જો નિયમ \n (D) ઉર્જા સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3 જો નિયમ. આપણે પાણી પર પાછળ તરફ બળ લગાવીએ, પાણી આપણા પર આગળ તરફ બળ લગાવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તુમ મુઝે પીછે ધકેલો, મેં તુઝે આગે લે જાઉંગા' - ન્યૂટનનો 3જો નિયમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઘર્ષણ કોણ (Angle of friction) θ હોય તો ઘર્ષણાંક μ = ....... \n (A) sin θ \n (B) cos θ \n (C) tan θ \n (D) cot θ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) tan θ. સીમાંત ઘર્ષણ વખતે μs = tan θ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખૂણો હોય તો 'ટપાલી' (tan) જ જવાબ લાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "રેતી ભરેલી ટ્રક અચળ વેગથી જઈ રહી છે, જો ટ્રકમાંથી રેતી સતત નીચે પડતી હોય તો ટ્રકને અચળ વેગથી ચલાવવા કેટલું બળ જોઈશે? \n (A) શૂન્ય \n (B) v(dm/dt) \n (C) m(dv/dt) \n (D) mv",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) v(dm/dt). દળ બદલાતું હોવાથી F = v(dm/dt) લેવું પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો 'm' બદલાય તો 'v' બહાર અને 'dm/dt' અંદર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "બળના આઘાતનો SI એકમ કયો છે? \n (A) N/s \n (B) N·s \n (C) kg·m/s² \n (D) Joule",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) N·s. એકમ = બળ × સમય = Newton × second.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આઘાત એટલે 'નાસ' (N.s) - કોઈ મારે તો આપણે નાસી જઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વર્કિંગ પ્રિન્સિપલ ઓફ સીટ-બેલ્ટ (Seat-belt) શેના પર આધારિત છે? \n (A) વેગ \n (B) જડત્વ \n (C) ઘર્ષણ \n (D) ગુરુત્વાકર્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જડત્વ. બ્રેક મારતા આપણું શરીર ગતિમાં રહેવા પ્રયત્ન કરે છે, તેને રોકવા સીટ-બેલ્ટ જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીટ-બેલ્ટ = 'જડ' પદાર્થોને (આપણને) રોકવા માટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "1 kgf (કિલોગ્રામ ફોર્સ) = ....... Newton. \n (A) 1 \n (B) 9.8 \n (C) 100 \n (D) 0.1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9.8. 1 kgf એટલે 1 kg દળ પર લાગતું ગુરુત્વાકર્ષણ બળ (mg).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): kgf દેખાય એટલે 'જી' (g = 9.8) ને યાદ કરી લેવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "નીચેનામાંથી કયો ગ્રાફ અચળ પ્રવેગી ગતિ માટે સુરેખ હોઈ શકે? \n (A) અંતર - સમય \n (B) વેગ - સમય \n (C) પ્રવેગ - સમય \n (D) વેગમાન - પ્રવેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વેગ - સમય. v = u + at મુજબ v ∝ t હોવાથી ગ્રાફ સુરેખ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગ અને સમયની દોસ્તી અચળ પ્રવેગમાં સુરેખ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પદાર્થ પર લાગતા બધા બળોના સદિશ સરવાળાને શું કહેવાય? \n (A) સરેરાશ બળ \n (B) કુલ બળ \n (C) પરિણામી બળ \n (D) આંતરિક બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પરિણામી બળ (Net Force). ગતિ હંમેશા પરિણામી બળની દિશામાં થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો એટલે 'રિઝલ્ટ' (Resultant)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "રેખીય વેગમાન સંરક્ષણનો નિયમ ક્યારે લાગુ પડે? \n (A) જ્યારે બાહ્ય બળ અચળ હોય \n (B) જ્યારે બાહ્ય બળ શૂન્ય હોય \n (C) જ્યારે આંતરિક બળ શૂન્ય હોય \n (D) હંમેશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જ્યારે બાહ્ય બળ શૂન્ય હોય. F = dP/dt મુજબ જો F=0 તો P અચળ રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહારથી કોઈ ડર (બળ) ના હોય, તો જ ખજાનો (વેગમાન) સુરક્ષિત રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ઘર્ષણ બળ નીચેનામાંથી શેના પર આધારિત નથી? \n (A) સપાટીના પ્રકાર પર \n (B) લંબ બળ પર \n (C) સંપર્ક સપાટીના ક્ષેત્રફળ પર \n (D) સપાટીના ખરબચડાપણા પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સંપર્ક સપાટીના ક્ષેત્રફળ પર. ઘર્ષણ બળ એ સંપર્ક ક્ષેત્રફળથી સ્વતંત્ર છે (જ્યાં સુધી દબાણ ખૂબ વધી ન જાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર્ષણને 'કેટલી જગ્યા' (Area) રોકો છો તેની સાથે કોઈ લેવાદેવા નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "રોલિંગ ઘર્ષણાંક (μr) ની કિંમત ગતિજ ઘર્ષણાંક (μk) કરતા ........ હોય છે. \n (A) ઘણી વધારે \n (B) ઘણી ઓછી \n (C) સમાન \n (D) બમણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘણી ઓછી. એટલે જ ભારે મશીનો નીચે પૈડાં લગાડવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Rolling is the King of Efficiency! સૌથી ઓછું ઘર્ષણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એક પદાર્થ અચળ વેગથી ઘર્ષણરહિત સપાટી પર ગતિ કરે છે, તો તેના પર લાગતું પરિણામી બળ: \n (A) mg \n (B) ma \n (C) શૂન્ય \n (D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. ન્યૂટનના પ્રથમ નિયમ મુજબ ગતિ ચાલુ રાખવા બળની જરૂર નથી જો ઘર્ષણ ન હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અચળ વેગ = શૂન્ય વેસ્ટ (બળ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "બળનો આઘાત અને વેગમાનમાં ફેરફાર વચ્ચેનો સંબંધ: \n (A) સમાન છે \n (B) વ્યસ્ત છે \n (C) શૂન્ય છે \n (D) વર્ગના સમપ્રમાણમાં છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમાન છે. आवेग = ΔP (Impulse-Momentum Theorem).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આઘાત એટલે જ વેગમાનનો 'ઝટકો' (ફેરફાર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ક્રિકેટર કેચ પકડતી વખતે હાથ પાછળ ખેંચે છે કારણ કે: \n (A) બળ વધારવા \n (B) સમય વધારી બળ ઘટાડવા \n (C) વેગ વધારવા \n (D) દળ ઘટાડવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમય વધારી બળ ઘટાડવા. F = ΔP/Δt. સમય વધે તો બળ ઘટે, જેથી ઈજા ઓછી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોડો સંપર્ક = ઓછો ધક્કો (Time up, Force down)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "નીચેનામાંથી કયું મૂળભૂત બળ નથી? \n (A) ગુરુત્વાકર્ષણ બળ \n (B) ઘર્ષણ બળ \n (C) વિદ્યુતચુંબકીય બળ \n (D) સ્ટ્રોન્ગ ન્યુક્લિયર બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘર્ષણ બળ. ઘર્ષણ એ વિદ્યુતચુંબકીય બળનું આડપેદાશ છે, મૂળભૂત નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે બળ આપણે હાથે કરીને પેદા કરીએ (જેમ કે ઘર્ષણ), એ મૂળભૂત ના હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પદાર્થની સંતુલન અવસ્થામાં પ્રવેગ કેટલો હોય? \n (A) 9.8 m/s² \n (B) શૂન્ય \n (C) મહત્તમ \n (D) ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શૂન્ય. સંતુલન એટલે પદાર્થ કાં તો સ્થિર છે અથવા અચળ વેગથી ગતિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેલેન્સ એટલે નો ધમાલ, નો પ્રવેગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "રોકેટ માંથી બહાર નીકળતા વાયુઓ પર લાગતું બળ અને રોકેટ પર લાગતું બળ ........ હોય છે. \n (A) સમાન અને એક જ દિશામાં \n (B) સમાન અને વિરુદ્ધ દિશામાં \n (C) અસમાન \n (D) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાન અને વિરુદ્ધ દિશામાં. ન્યૂટનના 3જા નિયમ મુજબ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાયુ નીચે, રોકેટ ઉપર - પરફેક્ટ જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ઢોળાવવાળા રોડ પર 'ઓપ્ટિમમ' વેગ v = √(rg tanθ) હોય, ત્યારે ઘર્ષણ બળ કેટલું વપરાય છે? \n (A) મહત્તમ \n (B) ન્યૂનતમ (શૂન્ય) \n (C) મધ્યમ \n (D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ન્યૂનતમ (શૂન્ય). આ વેગ પર ટાયરનો ઘસારો નહિવત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓપ્ટિમમ એટલે 'બેસ્ટ' સ્પીડ, જ્યાં ઘર્ષણની જરૂર જ ના પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "એક પદાર્થનું વેગમાન 20% વધારવામાં આવે, તો તેની ગતિઊર્જા કેટલા ટકા વધશે? \n (A) 20% \n (B) 40% \n (C) 44% \n (D) 10%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 44%. K ∝ P². (1.2)² = 1.44, એટલે કે 44% વધારો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): (100+20)² / 100 - 100 = 144 - 100 = 44!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ખરબચડા રોડ પર કારની મહત્તમ સલામત ઝડપ કોના પર આધારિત છે? \n (A) μ \n (B) r \n (C) g \n (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ. v = √(μrg) સૂત્ર પરથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાર ચલાવવા 'મરગ' (μrg) જેવું સૂત્ર યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ન્યૂટનના કયા નિયમથી 'જડત્વના નિયમ' તરીકે પણ ઓળખાય છે? \n (A) પ્રથમ \n (B) દ્વિતીય \n (C) તૃતીય \n (D) ચતુર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પ્રથમ નિયમ. તે પદાર્થની પોતાની અવસ્થા જાળવી રાખવાના ગુણધર્મને સમજાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1st = 'પહેલું સુખ તે જાતે (જડત્વ) નર્યા'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ઘર્ષણ બળ હંમેશા સંપર્ક સપાટીને ....... લાગે છે. \n (A) લંબ \n (B) સમાંતર \n (C) 45° ના ખૂણે \n (D) વિરુદ્ધ દિશામાં લંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાંતર. ઘર્ષણ હંમેશા સ્પર્શીય દિશામાં (સમાંતર) લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર્ષણ એટલે 'ઘસારો', જે સપાટીને અડીને જ ચાલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વેગમાન એ કેવી રાશિ છે? \n (A) અદિશ \n (B) સદિશ \n (C) ટેન્સર \n (D) પરિમાણરહિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સદિશ. તેની દિશા વેગની દિશામાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગ સદિશ તો તેનો ભાઈ વેગમાન પણ સદિશ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "એક પદાર્થ 10 m/s ના વેગથી ગતિ કરે છે, તેના પર 0 N બળ લાગે છે, તો 5 સેકન્ડ પછી તેનો વેગ કેટલો હશે? \n (A) 0 m/s \n (B) 10 m/s \n (C) 50 m/s \n (D) 2 m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10 m/s. બળ શૂન્ય હોવાથી વેગ બદલાશે નહીં (જડત્વ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બળ નથી તો બદલાવ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વર્તુળાકાર ગતિમાં કેન્દ્રગામી બળ વડે થતું કાર્ય કેટલું હોય? \n (A) મહત્તમ \n (B) mv² \n (C) શૂન્ય \n (D) -mv²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. બળ અને સ્થાનાંતર વચ્ચેનો ખૂણો 90° હોવાથી W = Fd cos 90° = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોળ ગોળ ફરો તો કામ શૂન્ય જ થાય (Physics ની ભાષામાં)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "સ્થિર ઘર્ષણાંક (μs) નું મૂલ્ય સામાન્ય રીતે ........ હોય છે. \n (A) 1 કરતા ઓછું \n (B) 1 કરતા વધારે \n (C) 0 થી 1 ની વચ્ચે \n (D) A અને C બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) A અને C બંને. મોટેભાગે μ < 1 હોય છે, પણ કેટલીક ખાસ સપાટીઓ માટે તે 1 થી વધી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર્ષણાંક એટલે 'પકડ' - સામાન્ય રીતે તે 1 ની અંદર જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "નીચેનામાંથી કયું બળ સંપર્ક બળ (Contact force) નથી? \n (A) ઘર્ષણ બળ \n (B) લંબ બળ \n (C) ગુરુત્વાકર્ષણ બળ \n (D) તણાવ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગુરુત્વાકર્ષણ બળ. તે દૂરથી પણ લાગે છે (Non-contact force).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુરુત્વાકર્ષણ એ 'વાયરલેસ' બળ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "રેખીય વેગમાન સંરક્ષણનો નિયમ ન્યૂટનના કયા નિયમો પરથી મેળવી શકાય? \n (A) માત્ર બીજો \n (B) માત્ર ત્રીજો \n (C) બીજો અને ત્રીજો બંને \n (D) માત્ર પ્રથમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બીજો અને ત્રીજો બંને. બીજા નિયમ પરથી F = dP/dt અને ત્રીજા પરથી F12 = -F21 નો ઉપયોગ કરીને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 + 3 = વેગમાનનો બચાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "સ્થિર ઘર્ષણબળનું મહત્તમ મૂલ્ય કોના સમપ્રમાણમાં હોય છે? \n (A) વેગ \n (B) લંબ પ્રતિક્રિયા બળ \n (C) સપાટીનું ક્ષેત્રફળ \n (D) પ્રવેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લંબ પ્રતિક્રિયા બળ. fs(max) = μs N.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલું દબાવશો (N), એટલું ઘર્ષણ વધશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "એક ગન માંથી 'n' ગોળીઓ પ્રતિ સેકન્ડ છૂટે છે. દરેકનું દળ 'm' અને વેગ 'v' હોય તો ગન પર લાગતું બળ: \n (A) mnv \n (B) mnv² \n (C) mv/n \n (D) zero",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) mnv. F = ΔP/Δt = n(mv)/1 = mnv.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોળીઓની સંખ્યા, દળ અને વેગનો ત્રિવેણી સંગમ (mnv)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વજન (Weight) એ ખરેખર શું છે? \n (A) દળ \n (B) વેગમાન \n (C) બળ \n (D) ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બળ. W = mg, જે પૃથ્વી દ્વારા પદાર્થ પર લાગતું ગુરુત્વાકર્ષણ બળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વજન એટલે પૃથ્વીનો 'પ્રેમ' (ખેંચાણ બળ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "જ્યારે પદાર્થ લપસવાની અણી પર હોય, ત્યારે કયું ઘર્ષણ લાગે છે? \n (A) ગતિજ ઘર્ષણ \n (B) સીમાંત સ્થિર ઘર્ષણ \n (C) રોલિંગ ઘર્ષણ \n (D) શૂન્ય ઘર્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સીમાંત સ્થિર ઘર્ષણ. આ સ્થિર ઘર્ષણનું મહત્તમ મૂલ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અણી પર હોવું એટલે 'સીમા' પર હોવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "રેખાંશ ગતિ માટે F = ma છે, તો ચાકગતિ માટે કયું સૂત્ર સમતુલ્ય છે? \n (A) τ = Iα \n (B) L = Iω \n (C) P = mv \n (D) W = Fd",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) τ = Iα. જ્યાં τ ટોર્ક, I જડત્વની મોમેન્ટ અને α કોણીય પ્રવેગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): F ની જગ્યાએ ટોર્ક, M ની જગ્યાએ I, A ની જગ્યાએ આલ્ફા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "જો પદાર્થ પર લાગતા બળો સમતલીય અને સંગામી હોય અને તેમનો સરવાળો શૂન્ય હોય, તો પદાર્થ ....... \n (A) ગતિ કરશે \n (B) પ્રવેગી ગતિ કરશે \n (C) સંતુલનમાં હશે \n (D) વર્તુળાકાર ગતિ કરશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સંતુલનમાં હશે. સંગામી બળો એટલે એક જ બિંદુમાંથી પસાર થતા બળો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક જ બિંદુ પર બધા ભેગા થઈને 'ઝીરો' થાય તો સંતુલન જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "ઘર્ષણ બળની દિશા ........ \n (A) હંમેશા લંબ હોય \n (B) સાપેક્ષ ગતિની વિરુદ્ધ હોય \n (C) હંમેશા નીચે તરફ હોય \n (D) વેગની દિશામાં હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સાપેક્ષ ગતિની વિરુદ્ધ હોય. તે માત્ર ગતિ નહીં પણ 'સાપેક્ષ' ગતિનો વિરોધ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘર્ષણ એ 'સાપેક્ષતા' નો દુશ્મન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "જ્યારે રોડ ભીનો હોય ત્યારે ઘર્ષણાંકનું મૂલ્ય શું થાય? \n (A) વધે \n (B) ઘટે \n (C) સમાન રહે \n (D) શૂન્ય થઈ જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘટે. પાણી લુબ્રિકન્ટ તરીકે વર્તે છે, જેથી પકડ ઓછી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી પડ્યું એટલે લપસી પડ્યા (ઘર્ષણ ઘટ્યું)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "ન્યૂટનના બીજા નિયમનું વ્યાપક સ્વરૂપ કયું છે? \n (A) F = ma \n (B) F = dP/dt \n (C) F = m(v-u) \n (D) F = Δv/Δt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) F = dP/dt. આ સ્વરૂપ દળ બદલાતું હોય ત્યારે પણ સાચું છે (દા.ત. રોકેટ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'P' માં 'm' અને 'v' બંને આવી જાય, એટલે એ જ અસલી નિયમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "લીસી સપાટી માટે ઘર્ષણાંક μ નું મૂલ્ય કેટલું હોય? \n (A) 1 \n (B) 0 \n (C) અનંત \n (D) 0.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0. આદર્શ લીસી સપાટી પર કોઈ ઘર્ષણ હોતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લીસું એટલે 'ઝીરો' ખરબચડાપણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "આઘાત અને બળ વચ્ચેનો સંબંધ જણાવો. \n (A) આઘાત = બળ / સમય \n (B) બળ = આઘાત / સમય \n (C) આઘાત = બળ + સમય \n (D) બળ = આઘાત × સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બળ = આઘાત / સમય. કારણ કે આઘાત I = F × t.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): I = Ft યાદ રાખો, બાકીના સંબંધો જાતે મળી જશે!</p></div>"
+    }
+  ]
+}

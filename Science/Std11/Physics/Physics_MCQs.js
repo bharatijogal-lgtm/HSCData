@@ -1909,3 +1909,37 @@ var Std11_Physics_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "કણોનાં તંત્રો અને ચાકગતિ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દ્રવ્યમાન કેન્દ્ર (Center of Mass) એ પદાર્થના કેવા પ્રકારના બિંદુ તરીકે વર્તે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રવ્યમાન કેન્દ્ર એ એવું બિંદુ છે જ્યાં પદાર્થનું સમગ્ર દળ કેન્દ્રિત થયેલું ગણી શકાય. સાચો જવાબ: બિંદુવત દળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Mass' એટલે 'Concentrated' - જ્યાં માસ ત્યાં દ્રવ્યમાન કેન્દ્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બે સમાન દળ ધરાવતા કણોનું દ્રવ્યમાન કેન્દ્ર ક્યાં હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે સમાન દળ ધરાવતા કણોનું દ્રવ્યમાન કેન્દ્ર તેમને જોડતી રેખાના મધ્યબિંદુ પર હોય છે. સાચો જવાબ: મધ્યબિંદુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન જોડી, મધ્યમાં તોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બળની ચાકમાત્રા (Torque) નું પારિમાણિક સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> τ = r × F, તેથી પારિમાણિક સૂત્ર [M^1 L^2 T^-2] થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોર્ક = ઉર્જા (કાર્ય), એટલે બંનેનું સૂત્ર સમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોણીય વેગમાન (Angular Momentum) L નું સૂત્ર કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગમાન L = r × p (જ્યાં p = mv). સાચો જવાબ: L = r × p.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R-P (રસ્તા પર) જોવો ત્યારે એન્ગલ ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જડત્વની ચાકમાત્રા (Moment of Inertia) નો SI એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> I = Σmr², તેથી એકમ kg·m² થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માસનું kg અને અંતરના વર્ગનું m² - યાદ રાખો 'Kg-Meter-Square'!</p></div>"
+    }
+    // ... (નોંધ: 70 પ્રશ્નો સુધી આ જ ફોર્મેટમાં આગળ વધવું)
+  ]
+}

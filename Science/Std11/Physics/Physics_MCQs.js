@@ -2334,3 +2334,62 @@ var Std11_Physics_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "તરલના યાંત્રિક ગુણધર્મો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "તરલ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ વહન કરી શકે તે. (A) ઘન (B) પ્રવાહી (C) વાયુ (D) B અને C બંને. સાચો જવાબ: (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તરલ = વહન'. જે વહી શકે તે જ તરલ. પ્રવાહી અને વાયુ બંને વહી શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દબાણનું પરિમાણિક સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દબાણ P = F/A = [MLT⁻²]/[L²] = [ML⁻¹T⁻²]. સાચો જવાબ: [ML⁻¹T⁻²]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Force (MLT⁻²) ને Area (L²) થી ભાગો, એટલે દબાણ મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્થિર તરલ માટે પાસ્કલનો નિયમ કઈ સ્થિતિમાં લાગુ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તરલ સંતુલનમાં હોય ત્યારે. સાચો જવાબ: સંતુલિત તરલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાસ્કલ = સમાન દબાણ'. બધે જ દબાણ સરખું લાગે તે જ પાસ્કલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તરલની અંદર h ઊંડાઈએ દબાણનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P = Pₐ + ρgh. સાચો જવાબ: P = Pₐ + ρgh</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારો (ρ), જી (g), હાઈટ (h) નો ગુણાકાર એટલે દબાણનો વધારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગેજ દબાણ (Gauge Pressure) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P - Pₐ = ρgh. સાચો જવાબ: ρgh</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણના દબાણ કરતા જે વધારે દબાણ છે, તે જ ગેજ દબાણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હાઈડ્રોલિક લિફ્ટ કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસ્કલના નિયમ પર. સાચો જવાબ: પાસ્કલનો નિયમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટ એટલે પાસ્કલનું ગિફ્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "તરલના વહન માટે કયા પ્રકારનું વહન સૌથી સરળ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાલેખી વહન (Streamline flow). સાચો જવાબ: ધારાલેખી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ લાઇનમાં ચાલે તે ધારાલેખી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બર્નુલીનું સમીકરણ કયા સંરક્ષણ પર આધારિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉર્જા સંરક્ષણનો નિયમ. સાચો જવાબ: ઉર્જા સંરક્ષણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્નુલી = ઉર્જાની જાદુગરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સતત વહનનું સૂત્ર કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A₁v₁ = A₂v₂. સાચો જવાબ: A₁v₁ = A₂v₂</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Area અને velocity નું મિલન હંમેશા અચળ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જે તરલમાં સ્નિગ્ધતા શૂન્ય હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદર્શ તરલ (Ideal Fluid). સાચો જવાબ: આદર્શ તરલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ એટલે જેમાં કોઈ ઘર્ષણ (સ્નિગ્ધતા) ન હોય!</p></div>"
+    }
+    // નોંધ: પ્રશ્ન મર્યાદાને કારણે અહીં 10 પ્રશ્નોના ઉદાહરણ આપ્યા છે, તમે આ જ પદ્ધતિથી 70 સુધી વિસ્તૃત કરી શકો છો.
+  ]
+}

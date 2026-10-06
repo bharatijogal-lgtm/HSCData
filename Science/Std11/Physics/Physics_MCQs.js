@@ -2301,3 +2301,36 @@ var Std11_Physics_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ઘન પદાર્થોના યાંત્રિક ગુણધર્મો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રતિબળ (Stress) નું પરિમાણિક સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M^1 L^-1 T^-2] (કારણ કે પ્રતિબળ = બળ/ક્ષેત્રફળ = [MLT^-2]/[L^2]).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ અને પ્રતિબળ બંનેના પરિમાણ સમાન હોય, જે હંમેશા [M L^-1 T^-2] છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કયો પદાર્થ સૌથી વધુ સ્થિતિસ્થાપક (Elastic) છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટીલ (Steel). સમાન વિકૃતિ માટે સ્ટીલને વધુ પ્રતિબળની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્ટીલ' નામમાં જ 'સ્ટી' છે, જે સ્ટ્રેન્થ દર્શાવે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "યંગ મોડ્યુલસનો SI એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N/m^2 અથવા Pascal (Pa).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા મોડ્યુલસ (Y, B, η) પ્રતિબળના એકમ જેવા જ હોય, એટલે કે N/m^2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો તારની લંબાઈ બમણી કરવામાં આવે, તો યંગ મોડ્યુલસ પર શું અસર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યંગ મોડ્યુલસ અચળ રહે છે. તે પદાર્થના દ્રવ્યનો ગુણધર્મ છે, પરિમાણ પર આધારિત નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મટીરીયલ' બદલાય તો જ બદલાય, લંબાઈ બદલાય તો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પોઈસન ગુણોત્તર (Poisson's ratio) નો સૈદ્ધાંતિક વિસ્તાર કેટલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1.0 થી 0.5 ની વચ્ચે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.5 ની અંદર રહેવું, એ જ સાચો પોઈસન ગુણોત્તર!</p></div>"
+    }
+  ]
+}

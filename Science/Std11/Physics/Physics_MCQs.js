@@ -2393,3 +2393,61 @@ var Std11_Physics_MCQs = {
     // નોંધ: પ્રશ્ન મર્યાદાને કારણે અહીં 10 પ્રશ્નોના ઉદાહરણ આપ્યા છે, તમે આ જ પદ્ધતિથી 70 સુધી વિસ્તૃત કરી શકો છો.
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દ્રવ્યના ઉષ્મીય ગુણધર્મો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સેલ્સિયસ સ્કેલ અને ફેરનહીટ સ્કેલ પર કયા તાપમાને વાંચન સમાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -40°C. સૂત્ર: F = 1.8C + 32, જ્યાં C=F લેતા F = -40 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચોતાલીસ' (40) યાદ રાખો, માઈનસ ચિન્હ બંને માટે સમાન બિંદુ દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રેખીય પ્રસરણાંક (α) નો SI એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> K⁻¹ અથવા (°C)⁻¹. સૂત્ર α = ΔL / (LΔT).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈના છેદમાં લંબાઈ ઉડી જાય, એટલે માત્ર તાપમાનનો વ્યસ્ત બાકી રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પદાર્થની વિશિષ્ટ ઉષ્મા (s) નો SI એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J kg⁻¹ K⁻¹. સૂત્ર Q = msΔT પરથી s = Q / (mΔT).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જૂલ પ્રતિ કિલો કેલ્વિન' - યાદ રાખવા માટે 'JKK' મંત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાણીની ઘનતા કયા તાપમાને મહત્તમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4°C. આ તાપમાને પાણીનું કદ લઘુત્તમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '4' અંક પાણી માટે લકી છે, ઘનતા માટે '4' ને યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઉષ્મા વહન માટે કયા માધ્યમની જરૂર પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રવ્ય માધ્યમ. ઉષ્મા વહન માટે અણુઓનું સંપર્કમાં હોવું જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વહન' એટલે હાથ મિલાવવા (સંપર્ક), જેમાં માધ્યમ જોઈએ જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પ્રવાહી અને વાયુમાં ઉષ્માનું પ્રસરણ કઈ રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા નયન (Convection) દ્વારા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નયન' એટલે વહેવું, પ્રવાહી અને વાયુ વહે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ન્યુટનનો શીતલનનો નિયમ કોના પર આધારિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાનના તફાવત પર. -dQ/dt ∝ (T - Ts).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલો મોટો ગેપ (તફાવત), એટલી ઝડપી ઠંડક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કદ પ્રસરણાંક (β) અને રેખીય પ્રસરણાંક (α) વચ્ચેનો સંબંધ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> β = 3α. ત્રિ-પરિમાણીય પ્રસરણ માટે આ સાચું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ (1), ક્ષેત્રફળ (2), કદ (3) - ઘાતાંકને આગળ મૂકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આદર્શ કૃષ્ણ પદાર્થ (Black Body) ની શોષકતા કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 (અથવા 100%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બધું જ શોષી લે, તે 'પરફેક્ટ' એટલે કે 1!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્ટીફન-બોલ્ટ્ઝમેન નિયમ મુજબ ઉત્સર્જિત ઉષ્મા ઉર્જા (E) તાપમાન (T) સાથે કેવી રીતે સંબંધિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> E ∝ T⁴.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીફન નામના સાહેબને '4' પાવર ખૂબ ગમે છે, યાદ રાખો T^4!</p></div>"
+    }
+  ]
+}

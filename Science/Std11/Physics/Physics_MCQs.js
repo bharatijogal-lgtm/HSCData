@@ -2451,3 +2451,371 @@ var Std11_Physics_MCQs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "થર્મોડાયનેમિક્સ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "થર્મોડાયનેમિક્સનો શૂન્ય ક્રમનો નિયમ કઈ ભૌતિક રાશિની વ્યાખ્યા આપે છે?\n(A) આંતરિક ઉર્જા\n(B) ઉષ્મા\n(C) તાપમાન\n(D) દબાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તાપમાન. શૂન્ય ક્રમનો નિયમ કહે છે કે જો બે તંત્રો ત્રીજા તંત્ર સાથે ઉષ્મીય સંતુલનમાં હોય, તો તેઓ પરસ્પર પણ ઉષ્મીય સંતુલનમાં હોય છે, જે તાપમાનનો ખ્યાલ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય ક્રમ = તાપમાનનો જન્માક્ષર (Temp base).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો તંત્ર અને પરિસર વચ્ચે ઉષ્માનો વિનિમય ન થતો હોય, તો તેવા તંત્રને શું કહેવાય?\n(A) ખુલ્લું તંત્ર\n(B) બંધ તંત્ર\n(C) વિયુક્ત (Isolated) તંત્ર\n(D) સમતાપી તંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિયુક્ત (Isolated) તંત્ર. આ તંત્રમાં ઉર્જા કે દ્રવ્યનો વિનિમય શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isolated = દુનિયાથી અલિપ્ત (No Heat, No Matter exchange).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "થર્મોડાયનેમિક્સનો પ્રથમ નિયમ કયા સંરક્ષણના નિયમનું કથન છે?\n(A) વેગમાન\n(B) ઉર્જા\n(C) દળ\n(D) વિદ્યુતભાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉર્જા. પ્રથમ નિયમ ΔQ = ΔU + ΔW ઉર્જા સંરક્ષણ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1st Law = Energy Conservation (ઉર્જા ક્યારેય નાશ પામતી નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આંતરિક ઉર્જા (U) એ કેવું વિધેય છે?\n(A) પથ વિધેય\n(B) અવસ્થા વિધેય\n(C) પ્રક્રિયા વિધેય\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અવસ્થા વિધેય. આંતરિક ઉર્જા માત્ર શરૂઆતની અને અંતિમ અવસ્થા પર આધાર રાખે છે, પથ પર નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U (Internal Energy) = ફક્ત સ્ટેશન (State) જોવે, રસ્તો (Path) નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જ્યારે તંત્ર દ્વારા કાર્ય કરવામાં આવે (Work done by the system), ત્યારે ΔW નું ચિહ્ન શું લેવામાં આવે છે?\n(A) ધન (+)\n(B) ઋણ (-)\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધન (+). NCERT મુજબ તંત્ર દ્વારા થતું કાર્ય ધન ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: System કામ કરે તો ફાયદો (Positive), System પર કામ થાય તો બોજો (Negative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક આદર્શ વાયુ માટે અચળ દબાણે મોલર વિશિષ્ટ ઉષ્મા (Cp) અને અચળ કદે મોલર વિશિષ્ટ ઉષ્મા (Cv) વચ્ચેનો સંબંધ કયો છે?\n(A) Cp + Cv = R\n(B) Cp / Cv = R\n(C) Cp - Cv = R\n(D) Cv - Cp = R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Cp - Cv = R. આને મેયરનો સંબંધ (Mayer's relation) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' પહેલા આવે એટલે Cp મોટું, Cp - Cv = R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમતાપી પ્રક્રિયા (Isothermal Process) માટે નીચેનામાંથી શું સાચું છે?\n(A) ΔT = 0\n(B) ΔQ = 0\n(C) ΔV = 0\n(D) ΔP = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ΔT = 0. સમતાપી એટલે કે સમાન તાપમાન, જ્યાં તાપમાન અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ અર્થ છે 'સમ' + 'તાપી' = સમાન તાપમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમતાપી પ્રક્રિયામાં આદર્શ વાયુની આંતરિક ઉર્જામાં થતો ફેરફાર (ΔU) કેટલો હોય?\n(A) ધન\n(B) ઋણ\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. આંતરિક ઉર્જા તાપમાન પર આધારિત છે. જો ΔT = 0 તો ΔU = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T ફિક્સ તો U પણ ફિક્સ (Change = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમમોદ્રી (Adiabatic) પ્રક્રિયા માટેનું અવસ્થા સમીકરણ કયું છે?\n(A) PV = constant\n(B) PV^γ = constant\n(C) P/V = constant\n(D) V/T = constant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) PV^γ = constant. જ્યાં γ = Cp/Cv.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adiabatic માં 'ગામા' (γ) ની એન્ટ્રી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચક્રીય પ્રક્રિયા (Cyclic Process) માં કુલ આંતરિક ઉર્જાનો ફેરફાર કેટલો હોય?\n(A) હંમેશા ધન\n(B) હંમેશા ઋણ\n(C) શૂન્ય\n(D) કાર્ય જેટલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. ચક્રીય પ્રક્રિયામાં તંત્ર મૂળ અવસ્થામાં પાછું ફરે છે, તેથી ΔU = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી નીકળ્યા ત્યાં પાછા આવ્યા, એટલે ફેરફાર શૂન્ય (Round Trip = 0 change).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "એક કાર્નો એન્જિન 300 K અને 600 K તાપમાન વચ્ચે કામ કરે છે, તો તેની કાર્યક્ષમતા (Efficiency) કેટલી?\n(A) 25%\n(B) 50%\n(C) 75%\n(D) 100%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50%. η = 1 - (T_lower / T_higher) = 1 - (300/600) = 1 - 0.5 = 0.5 અથવા 50%.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: η = 1 - (નાનું T / મોટું T). અહીં 300 એ 600 ના અડધા છે, એટલે 50%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "થર્મોડાયનેમિક્સનો બીજો નિયમ શું દર્શાવે છે?\n(A) ઉર્જા સંરક્ષણ\n(B) ઉષ્મા પ્રવાહની દિશા\n(C) દળ સંરક્ષણ\n(D) વેગમાન સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉષ્મા પ્રવાહની દિશા. તે જણાવે છે કે ઉષ્મા આપમેળે ઠંડા પદાર્થથી ગરમ પદાર્થ તરફ જઈ શકતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1st Law = જથ્થો (Quantity), 2nd Law = દિશા (Direction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાર્નો એન્જિનમાં કઈ પ્રક્રિયાઓનો સમાવેશ થાય છે?\n(A) બે સમતાપી અને બે સમકદ\n(B) બે સમદાબ અને બે સમમોદ્રી\n(C) બે સમતાપી અને બે સમમોદ્રી\n(D) ચારેય સમતાપી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બે સમતાપી અને બે સમમોદ્રી. કાર્નો ચક્રમાં ક્રમશઃ સમતાપી વિસ્તરણ, એડિબેટિક વિસ્તરણ, સમતાપી સંકોચન અને એડિબેટિક સંકોચન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Carnot Cycle = 2 Isothermal + 2 Adiabatic.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રેફ્રિજરેટરનો પરફોર્મન્સ ગુણાંક (α or COP) કઈ રીતે વ્યાખ્યાયિત થાય છે?\n(A) W / Q1\n(B) Q2 / W\n(C) Q1 / Q2\n(D) W / Q2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Q2 / W. ઠંડા પ્રાપ્તિસ્થાનમાંથી શોષેલી ઉષ્મા અને તેના પર કરવા પડતા કાર્યનો ગુણોત્તર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: COP = (શું મળ્યું?) / (શું આપવું પડ્યું?) = Q2 / Work.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જો સમમોદ્રી (Adiabatic) પ્રક્રિયામાં વાયુનું વિસ્તરણ થાય, તો તેનું તાપમાન...\n(A) વધશે\n(B) ઘટશે\n(C) અચળ રહેશે\n(D) શૂન્ય થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘટશે. એડિબેટિક વિસ્તરણમાં વાયુ પોતાની આંતરિક ઉર્જા વાપરીને કાર્ય કરે છે, તેથી તાપમાન ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adiabatic Expansion = Cooling effect (જેમ કે ટાયર ફાટવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મેયરના સંબંધ Cp - Cv = R માં R શું છે?\n(A) રેડિયસ\n(B) અવરોધ\n(C) સાર્વત્રિક વાયુ નિયતાંક\n(D) ગુરુત્વાકર્ષણ નિયતાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સાર્વત્રિક વાયુ નિયતાંક (Universal Gas Constant).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R = 8.314 J/mol·K (વાયુનો રાજા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "P-V આલેખ હેઠળ ઘેરાયેલું ક્ષેત્રફળ શું દર્શાવે છે?\n(A) દબાણ\n(B) તાપમાન\n(C) કાર્ય\n(D) આંતરિક ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાર્ય. W = ∫ P dV, જે P-V આલેખનું ક્ષેત્રફળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Area of PV graph = Work (કાર્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમકદ (Isochoric) પ્રક્રિયામાં વાયુ દ્વારા થતું કાર્ય કેટલું હોય?\n(A) મહત્તમ\n(B) લઘુત્તમ\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. કારણ કે કદમાં ફેરફાર ΔV = 0 હોવાથી W = PΔV = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ અચળ તો કામ 'ખલાસ' (W = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એક પરમાણ્વીય (Monatomic) વાયુ માટે γ (Cp/Cv) ની કિંમત કેટલી હોય?\n(A) 7/5\n(B) 5/3\n(C) 4/3\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5/3. મોનોએટોમિક માટે Cv = 3/2 R અને Cp = 5/2 R, તેથી γ = 5/3 ≈ 1.67.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Monatomic = 5/3, Diatomic = 7/5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દ્વિ-પરમાણ્વીય (Diatomic) વાયુ માટે γ નું મૂલ્ય કેટલું?\n(A) 1.67\n(B) 1.40\n(C) 1.33\n(D) 2.0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1.40. દ્વિ-પરમાણ્વીય માટે γ = 7/5 = 1.4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા (N2, O2) Diatomic છે, જેનો γ = 1.4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નીચેનામાંથી કયો પ્રક્રમ સૌથી ઝડપી હોય છે?\n(A) સમતાપી\n(B) સમમોદ્રી (Adiabatic)\n(C) સમદાબ\n(D) સમકદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમમોદ્રી. ઉષ્માનો વિનિમય ન થાય તે માટે આ પ્રક્રિયા અત્યંત ઝડપી થવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adiabatic = Fast (ઝડપી), Isothermal = Slow (ધીમી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમદાબ (Isobaric) પ્રક્રિયામાં નીચેનામાંથી શું અચળ રહે છે?\n(A) તાપમાન\n(B) કદ\n(C) દબાણ\n(D) ઉષ્મા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દબાણ. 'સમ' + 'દાબ' એટલે સમાન દબાણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાબ = Pressure constant.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ક્લોસિયસનું કથન કયા સાધન સાથે સંબંધિત છે?\n(A) હીટ એન્જિન\n(B) રેફ્રિજરેટર\n(C) સોલર સેલ\n(D) ઇલેક્ટ્રિક મોટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રેફ્રિજરેટર. ક્લોસિયસે ઠંડાથી ગરમ પદાર્થ તરફ ઉષ્મા વહન માટે કાર્યની જરૂરિયાત સમજાવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kelvin-Planck = Engine, Clausius = Refrigerator/Fridge.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પાણીની ત્રિબિંદુ (Triple point) તાપમાન કેટલું છે?\n(A) 273.16 K\n(B) 0 K\n(C) 100 K\n(D) 373.16 K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 273.16 K. આ તાપમાને પાણીની ત્રણેય અવસ્થાઓ સંતુલનમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 273.16 (Zero point of Kelvin scale reference).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમતાપી વક્ર (Isothermal curve) નો ઢાળ અને સમમોદ્રી વક્ર (Adiabatic curve) ના ઢાળનો ગુણોત્તર કેટલો થાય?\n(A) γ\n(B) 1/γ\n(C) 1\n(D) γ^2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/γ. કારણ કે Adiabatic નો ઢાળ = γ × Isothermal નો ઢાળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adiabatic Slope = γ (Isothermal Slope). એડિબેટિક વધુ 'ઢોળાવ' વાળો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કાર્નો એન્જિનની કાર્યક્ષમતા 1 (100%) ક્યારે હોઈ શકે?\n(A) T_sink = 0°C\n(B) T_source = 100°C\n(C) T_sink = 0 K\n(D) ક્યારેય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) T_sink = 0 K. જો સિંકનું તાપમાન નિરપેક્ષ શૂન્ય હોય તો જ η = 1 - 0/T = 1 થાય, જે વ્યવહારમાં અશક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100% Efficiency = સપનું (Dreams only!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ઉષ્મા એ કયા પ્રકારની ઉર્જા છે?\n(A) ગતિમાં રહેલી ઉર્જા\n(B) સંગ્રહાયેલી ઉર્જા\n(C) સ્થિતિ ઉર્જા\n(D) રાસાયણિક ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ગતિમાં રહેલી ઉર્જા. ઉષ્મા એ તાપમાનના તફાવતને કારણે વહેતી ઉર્જા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heat is 'Energy in Transit' (મુસાફરી કરતી ઉર્જા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નિરપેક્ષ શૂન્ય તાપમાને વાયુના અણુઓની ગતિજ ઉર્જા કેટલી હોય?\n(A) મહત્તમ\n(B) લઘુત્તમ\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. 0 K તાપમાને બધી જ આણ્વિક ગતિ અટકી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 Kelvin = 0 Motion.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પ્રથમ નિયમ ΔQ = ΔU + ΔW માં, જો તંત્રને ઉષ્મા આપવામાં આવે, તો ΔQ...\n(A) ધન લેવી\n(B) ઋણ લેવી\n(C) શૂન્ય લેવી\n(D) બદલાતી રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધન લેવી. તંત્ર ઉષ્મા મેળવે તો તે ધન ગણાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heat IN = Positive (+), Heat OUT = Negative (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો વાયુનું કદ અચળ રાખી તેને 100 J ઉષ્મા આપવામાં આવે, તો તેની આંતરિક ઉર્જામાં કેટલો વધારો થશે?\n(A) 0 J\n(B) 50 J\n(C) 100 J\n(D) 200 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 100 J. અચળ કદે ΔW = 0, તેથી ΔQ = ΔU. બધી જ ઉષ્મા આંતરિક ઉર્જા વધારવામાં વપરાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isochoric માં Q = ΔU (જેટલું આપ્યું એટલું જ વધ્યું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ઉષ્મા એન્જિનની કાર્યક્ષમતાનું સૂત્ર η = 1 - Q2/Q1 માં Q1 શું છે?\n(A) સિંક દ્વારા શોષાયેલી ઉષ્મા\n(B) એન્જિન દ્વારા થયેલું કાર્ય\n(C) ઉષ્મા સ્ત્રોત (Source) માંથી મેળવેલી ઉષ્મા\n(D) વાતાવરણમાં મુક્ત થયેલી ઉષ્મા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉષ્મા સ્ત્રોત (Source) માંથી મેળવેલી ઉષ્મા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q1 = Input (Input હંમેશા ગરમ છેડાથી હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નીચેનામાંથી કઈ પ્રક્રિયા પ્રતિવર્તી (Reversible) હોઈ શકે?\n(A) ઘર્ષણ વાળી ગતિ\n(B) ખૂબ જ ધીમી પ્રક્રિયા (Quasi-static)\n(C) વિસ્ફોટ\n(D) ગરમ લોખંડનું ઠંડુ થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખૂબ જ ધીમી પ્રક્રિયા. ક્વાસી-સ્ટેટિક પ્રક્રિયાઓ આદર્શ રીતે પ્રતિવર્તી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reversible = Super Slow (કાચબા જેવી ગતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઉષ્મા એન્જિનમાં કાર્યકારી પદાર્થ દ્વારા સિંકમાં ઠાલવવામાં આવતી ઉષ્મા Q2 હંમેશા...\n(A) શૂન્ય હોય\n(B) Q1 કરતા વધારે હોય\n(C) શૂન્ય કરતા વધારે હોય\n(D) કાર્ય કરતા વધારે હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય કરતા વધારે હોય. બીજા નિયમ મુજબ કોઈ પણ એન્જિન 100% ઉષ્માનું કાર્યમાં રૂપાંતર કરી શકતું નથી, થોડી ઉષ્મા સિંકમાં જવી જ જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Waste (Q2) is mandatory!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એક આદર્શ વાયુ માટે સમતાપી પ્રક્રિયામાં થયેલું કાર્ય W = ...\n(A) nRT ln(V2/V1)\n(B) P(V2 - V1)\n(C) nRΔT\n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) nRT ln(V2/V1). આ સમતાપી વિસ્તરણનું પ્રમાણિત સૂત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isothermal Work = 'RT Log' (તાપમાન ફિક્સ એટલે RT બહાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સમમોદ્રી (Adiabatic) પ્રક્રિયામાં થયેલું કાર્ય કોના પર આધારિત છે?\n(A) માત્ર અંતિમ તાપમાન\n(B) માત્ર પ્રારંભિક તાપમાન\n(C) તાપમાનના તફાવત (T1 - T2)\n(D) પથ (Path) પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તાપમાનના તફાવત. W = [nR(T1 - T2)] / (γ - 1).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adiabatic Work = Temp Difference (ΔT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ઉષ્મા એન્જિન માટે η = 0.4 છે. જો તે 1000 J ઉષ્મા લેતું હોય, તો કેટલું કાર્ય કરશે?\n(A) 400 J\n(B) 600 J\n(C) 1000 J\n(D) 1400 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 400 J. η = W / Q1 => W = η × Q1 = 0.4 × 1000 = 400 J.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Work = Efficiency % of Input.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "રેફ્રિજરેટરમાં ઠંડક ઉત્પન્ન કરવા કઈ પ્રક્રિયા વપરાય છે?\n(A) વાયુનું અચાનક વિસ્તરણ\n(B) વાયુનું અચાનક સંકોચન\n(C) વાયુનું ગરમ થવું\n(D) આંતરિક ઉર્જામાં વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વાયુનું અચાનક વિસ્તરણ (Adiabatic expansion). તેનાથી તાપમાનમાં ઘટાડો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Expansion = Cooling (જેમ પરસેવો સુકાય ત્યારે ઠંડક લાગે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જો એક એન્જિન 400 K થી 300 K વચ્ચે કાર્ય કરે અને બીજું 500 K થી 400 K વચ્ચે, તો કયા એન્જિનની કાર્યક્ષમતા વધુ હશે?\n(A) પ્રથમ એન્જિન\n(B) બીજું એન્જિન\n(C) બંનેની સમાન\n(D) કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પ્રથમ એન્જિન. η1 = 1 - 3/4 = 0.25 (25%), η2 = 1 - 4/5 = 0.20 (20%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાનનો તફાવત ભલે સરખો (100 K) હોય, પણ જેનો ગુણોત્તર (T_low/T_high) નાનો તેની Efficiency મોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "થર્મોડાયનેમિક તંત્રની અવસ્થા નક્કી કરવા માટે કયા ચલની જરૂર નથી?\n(A) દબાણ\n(B) કદ\n(C) તાપમાન\n(D) વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) વેગ. P, V, T એ સ્ટેટ વેરિયેબલ્સ છે, વેગ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PVT = Thermodynamics ના 'ત્રણ દેવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મુક્ત વિસ્તરણ (Free Expansion) માં કાર્યનું મૂલ્ય કેટલું હોય?\n(A) મહત્તમ\n(B) શૂન્ય\n(C) અનંત\n(D) ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શૂન્ય. શૂન્યાવકાશમાં વિસ્તરણ વખતે કોઈ અવરોધક બળ હોતું નથી, તેથી કાર્ય શૂન્ય થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Free = મફત (કોઈ કામ નહીં, W = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સમમોદ્રી (Adiabatic) સંકોચન દરમિયાન વાયુનું તાપમાન...\n(A) વધે છે\n(B) ઘટે છે\n(C) અચળ રહે છે\n(D) અનંત થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વધે છે. કાર્ય વાયુ પર થાય છે, જે આંતરિક ઉર્જા વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Compression = Heating (દબાવો એટલે ગરમ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નીચેનામાંથી કઈ રાશિ પથ (Path) પર આધારિત છે?\n(A) આંતરિક ઉર્જા\n(B) તાપમાન\n(C) કાર્ય\n(D) દબાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાર્ય. કાર્ય અને ઉષ્મા એ પથ વિધેયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Work and Heat = 'રસ્તાના માણસો' (Path dependent).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો ΔU = 0 અને ΔQ = -20 J હોય, તો કાર્ય ΔW કેટલું હશે?\n(A) 20 J\n(B) -20 J\n(C) 0 J\n(D) 40 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -20 J. ΔQ = ΔU + ΔW મુજબ -20 = 0 + ΔW.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1st Law simple calculation.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "ઉષ્મા ગતિશાસ્ત્રનો બીજો નિયમ કોની અસમર્થતા દર્શાવે છે?\n(A) ઉર્જાના નાશની\n(B) 100% કાર્યક્ષમતા પ્રાપ્ત કરવાની\n(C) તાપમાન માપવાની\n(D) દબાણ ઘટાડવાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 100% કાર્યક્ષમતા પ્રાપ્ત કરવાની. તે કહે છે કે બધી જ ઉષ્માનું કાર્યમાં રૂપાંતર અશક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No machine is perfect.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સંકોચન (Compression) દરમિયાન વાયુ દ્વારા થતું કાર્ય કેવું હોય છે?\n(A) ધન\n(B) ઋણ\n(C) શૂન્ય\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઋણ. કારણ કે કદમાં ઘટાડો (ΔV < 0) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Expansion (+) and Compression (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "આદર્શ વાયુ માટે Cp/Cv = γ. પદાર્થની પરમાણ્વિકતા વધતા γ ના મૂલ્યમાં શું ફેરફાર થાય?\n(A) વધે\n(B) ઘટે\n(C) અચળ રહે\n(D) પહેલા વધે પછી ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘટે. Monatomic (1.67) > Diatomic (1.4) > Polyatomic (1.33).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુ મોટો, γ નાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "થર્મોસ ફ્લાસ્કમાં રહેલી ચા એ કયા તંત્રનું ઉદાહરણ છે?\n(A) ખુલ્લું\n(B) બંધ\n(C) અલગ કરેલું (Isolated)\n(D) આદર્શ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અલગ કરેલું (Isolated). તે ઉષ્મા અને દ્રવ્ય બંનેને રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Thermos = No heat in/out.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કાર્નો ચક્રમાં પ્રથમ પ્રક્રિયા કઈ હોય છે?\n(A) સમમોદ્રી વિસ્તરણ\n(B) સમતાપી વિસ્તરણ\n(C) સમતાપી સંકોચન\n(D) સમમોદ્રી સંકોચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમતાપી વિસ્તરણ. તે ગરમ સ્ત્રોતમાંથી ઉષ્મા મેળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત હંમેશા ગરમી (Heat) લઈને થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "PV ડાયાગ્રામમાં સમતાપી રેખા કરતા સમમોદ્રી રેખા કેવી હોય છે?\n(A) ઓછી ઢાળવાળી\n(B) વધુ ઢાળવાળી\n(C) સમાંતર\n(D) ક્ષિતિજ સમાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વધુ ઢાળવાળી (Steeper). કારણ કે એડિબેટિક પ્રક્રિયામાં દબાણ ઝડપથી બદલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adiabatic is 'Steeper' (વધુ પડતી ઉભી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "CP અને CV નો એકમ શું છે?\n(A) J/mol\n(B) J/kg\n(C) J/mol·K\n(D) J/K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) J/mol·K. આ મોલર વિશિષ્ટ ઉષ્માના એકમો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા / (મોલ × તાપમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઉષ્મા એન્જિન દ્વારા 100% કાર્ય મેળવવા માટે સિંકનું તાપમાન કેટલું હોવું જોઈએ?\n(A) 0°C\n(B) 273 K\n(C) 0 K\n(D) Source જેટલું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0 K. η = 1 - T2/T1, જો T2 = 0 તો η = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Absolute Zero = Absolute Efficiency.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "નીચેનામાંથી કઈ ભૌતિક રાશિ ઉષ્મા ગતિશાસ્ત્રના પ્રથમ નિયમમાં સંરક્ષિત રહે છે?\n(A) તાપમાન\n(B) ઉર્જા\n(C) દબાણ\n(D) કદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉર્જા. તે ઉર્જા સંરક્ષણનો નિયમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Energy is constant.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "એક આદર્શ વાયુ માટે CV = 3/2 R છે, તો CP કેટલું થાય?\n(A) 1/2 R\n(B) 5/2 R\n(C) 3/2 R\n(D) 7/2 R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5/2 R. CP = CV + R = 3/2 R + R = 5/2 R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cp હંમેશા CV કરતા 'R' જેટલું મોટું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "જો કોઈ તંત્ર દ્વારા 50 J કાર્ય થાય અને 30 J ઉષ્મા બહાર કાઢવામાં આવે, તો આંતરિક ઉર્જામાં કેટલો ફેરફાર થાય?\n(A) +20 J\n(B) -20 J\n(C) -80 J\n(D) +80 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -80 J. ΔQ = -30 (ઉષ્મા બહાર ગઈ), ΔW = +50 (તંત્ર દ્વારા કાર્ય). ΔU = ΔQ - ΔW = -30 - 50 = -80 J.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખર્ચો + નુકસાન = ઉર્જામાં મોટો ઘટાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "કેલ્વિન-પ્લાન્કનું વિધાન કોને લાગુ પડે છે?\n(A) હીટ એન્જિન\n(B) રેફ્રિજરેટર\n(C) ઉષ્મા પંપ\n(D) આંતરિક દહન એન્જિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હીટ એન્જિન. તે જણાવે છે કે એક જ ઉષ્મા પ્રાપ્તિસ્થાનમાંથી ઉષ્મા લઈને તેને સંપૂર્ણ કાર્યમાં ફેરવવું અશક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kelvin-Planck is for Engines.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "રેફ્રિજરેટરમાં COP (α) અને એન્જિનની કાર્યક્ષમતા (η) વચ્ચેનો સંબંધ શું છે?\n(A) α = η / (1-η)\n(B) α = (1-η) / η\n(C) α = 1 / η\n(D) α = η - 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) α = (1-η) / η. આ એક મહત્વનો સંબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: COP (Reverse efficiency logic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "જો વાયુનું તાપમાન વધારવામાં આવે, તો તેની આંતરિક ઉર્જામાં...\n(A) ઘટાડો થાય\n(B) વધારો થાય\n(C) કોઈ ફેરફાર ન થાય\n(D) શૂન્ય થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વધારો થાય. આંતરિક ઉર્જા તાપમાનનું વધતું વિધેય છે (U ∝ T).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T વધે તો U વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "સંપૂર્ણપણે કુશળ (Perfect) એન્જિનની કાર્યક્ષમતા કેટલી હોઈ શકે?\n(A) 0\n(B) 0.5\n(C) 1\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1. આદર્શ રીતે તે 1 (100%) હોઈ શકે પણ વ્યવહારમાં નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Efficiency max = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "પાણીને 0°C થી 4°C ગરમ કરતા તેના કદમાં શું ફેરફાર થાય?\n(A) વધે\n(B) ઘટે\n(C) સમાન રહે\n(D) પહેલા વધે પછી ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘટે. પાણીનું અસાધારણ પ્રસરણ 4°C પર લઘુત્તમ કદ અને મહત્તમ ઘનતા ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Water is special (0 to 4 Vol decreases).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "નીચેનામાંથી કયો સંબંધ સાચો નથી?\n(A) CP - CV = R\n(B) γ = CP / CV\n(C) CV = R / (γ - 1)\n(D) CP = R / (γ - 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) CP = R / (γ - 1). સાચું સૂત્ર CP = γR / (γ - 1) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CV ના છેદમાં (γ-1) આવે, CP માં અંશમાં γ ગુણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ચક્રીય પ્રક્રિયામાં PV આલેખમાં ક્લોકવાઇઝ (Clockwise) લૂપનું ક્ષેત્રફળ શું દર્શાવે છે?\n(A) ધન કાર્ય\n(B) ઋણ કાર્ય\n(C) શૂન્ય કાર્ય\n(D) આંતરિક ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધન કાર્ય. જો લૂપ ઘડિયાળના કાંટાની દિશામાં હોય તો ચોખ્ખું કાર્ય ધન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Clockwise = Work (+), Anticlockwise = Work (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "સમદાબ પ્રક્રિયામાં શોષાયેલી ઉષ્માનો કેટલોક ભાગ આંતરિક ઉર્જામાં વધારો કરે છે અને બાકીનો ભાગ...\n(A) તાપમાન ઘટાડે છે\n(B) કાર્યમાં રૂપાંતર પામે છે\n(C) નાશ પામે છે\n(D) સિંકમાં જાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાર્યમાં રૂપાંતર પામે છે. ΔQ = ΔU + ΔW.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isobaric માં બંને કામ થાય (U પણ વધે, W પણ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "રેફ્રિજરેટરના દરવાજો રૂમમાં ખુલ્લો રાખવાથી રૂમનું તાપમાન...\n(A) ઘટશે\n(B) વધશે\n(C) અચળ રહેશે\n(D) શૂન્ય થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વધશે. રેફ્રિજરેટર પાછળથી ગરમી બહાર કાઢે છે અને મોટર પણ ગરમી ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fridge open in room = Heater (તાપમાન વધશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "સમમોદ્રી (Adiabatic) પ્રક્રિયામાં વાયુ માટે કઈ શરત જરૂરી છે?\n(A) પાત્ર સુવાહક હોવું જોઈએ\n(B) પ્રક્રિયા ધીમી હોવી જોઈએ\n(C) પાત્ર અવાહક હોવું જોઈએ\n(D) તાપમાન અચળ હોવું જોઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પાત્ર અવાહક (Insulating) હોવું જોઈએ જેથી ઉષ્માની આપ-લે ન થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adiabatic = Wall must be Insulator.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "બહુ-પરમાણ્વીય વાયુ માટે મુક્તિના અંશો (Degrees of Freedom) ની સંખ્યા કેટલી હોય?\n(A) 3\n(B) 5\n(C) 6 કે તેથી વધુ\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6 કે તેથી વધુ. તે તેના બંધારણ પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Monatomic = 3, Diatomic = 5, Polyatomic = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "શૂન્ય ક્રમનો નિયમ કોણે આપ્યો હતો?\n(A) ન્યૂટન\n(B) ફાઉલર (Fowler)\n(C) ક્લોસિયસ\n(D) કેલ્વિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આર. એચ. ફાઉલર (R.H. Fowler) દ્વારા 1931 માં રજૂ થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zero Law = Fowler (ઝીરો પર ફાઉલ થયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "પ્રતિવર્તી એન્જિનની કાર્યક્ષમતા માત્ર કોના પર આધાર રાખે છે?\n(A) કાર્યકારી પદાર્થના પ્રકાર પર\n(B) સ્ત્રોત અને સિંકના તાપમાન પર\n(C) એન્જિનના કદ પર\n(D) બળતણના જથ્થા પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્ત્રોત અને સિંકના તાપમાન પર. η = 1 - T2/T1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Carnot Efficiency only depends on 'T'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "ઉષ્મા પંપ (Heat Pump) શું કરે છે?\n(A) યાંત્રિક કાર્ય કરી ઉષ્મા ગરમ થી ઠંડા તરફ લાવે\n(B) યાંત્રિક કાર્ય કરી ઉષ્મા ઠંડા થી ગરમ તરફ લાવે\n(C) ઉષ્માનું સંપૂર્ણ કાર્યમાં રૂપાંતર કરે\n(D) ઉષ્માનું સર્જન કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) યાંત્રિક કાર્ય કરી ઉષ્મા ઠંડા થી ગરમ તરફ લાવે. તે રૂમને ગરમ રાખવા વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heat Pump = Inverse of Engine.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જો એક વાયુનું દબાણ બમણું અને કદ અડધું કરવામાં આવે તો તેના તાપમાનમાં શું ફેરફાર થાય?\n(A) બમણું થશે\n(B) અડધું થશે\n(C) અચળ રહેશે\n(D) ચાર ગણું થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અચળ રહેશે. PV/T = Constant. P1V1/T1 = (2P1 * V1/2)/T2 => P1V1/T1 = P1V1/T2 => T1 = T2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 * 1/2 = 1. No change in Product PV, so no change in T.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "થર્મોડાયનેમિક્સમાં 'સંતુલન' એટલે શું?\n(A) માત્ર યાંત્રિક સંતુલન\n(B) માત્ર ઉષ્મીય સંતુલન\n(C) માત્ર રાસાયણિક સંતુલન\n(D) યાંત્રિક, ઉષ્મીય અને રાસાયણિક ત્રણેય સંતુલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) યાંત્રિક, ઉષ્મીય અને રાસાયણિક ત્રણેય સંતુલન. તેને થર્મોડાયનેમિક સંતુલન કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: All-in-one Balance = Thermodynamic Equilibrium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "નીચેનામાંથી કઈ પ્રક્રિયા માટે કાર્ય મહત્તમ હોય છે?\n(A) સમકદ\n(B) સમદાબ\n(C) સમમોદ્રી\n(D) બધામાં સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમદાબ. આપેલા કદના ફેરફાર માટે સમદાબ પ્રક્રિયામાં PV આલેખ નીચેનું ક્ષેત્રફળ સૌથી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isobaric line is horizontal, covers most area.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "નિરપેક્ષ શૂન્ય તાપમાન એટલે કેટલા ડિગ્રી સેલ્સિયસ?\n(A) 0°C\n(B) -273.15°C\n(C) 273.15°C\n(D) -100°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -273.15°C. K = °C + 273.15, તેથી 0 K = -273.15°C.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zero Kelvin = Super Cold (-273).</p></div>"
+    }
+  ]
+}

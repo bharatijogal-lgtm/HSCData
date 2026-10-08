@@ -3655,3 +3655,361 @@ var Std11_Physics_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "તરંગો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "તરંગ જ્યારે માધ્યમમાં ગતિ કરે ત્યારે શાનું વહન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) ઉર્જા છે. તરંગ એ માધ્યમમાં વિક્ષોભની ગતિ છે, જેમાં દ્રવ્યનું વહન થતું નથી પરંતુ ઉર્જા અને વેગમાનનું વહન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરંગ એટલે 'ઉર્જાની ટ્રેન', જે માધ્યમના કણોને હલાવે પણ પોતાની સાથે લઈ ન જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લંબગત તરંગોમાં માધ્યમના કણો કઈ દિશામાં દોલનો કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) તરંગ પ્રસરણની દિશાને લંબ રૂપે. લંબગત તરંગોમાં કણો ઉપર-નીચે દોલન કરે છે જ્યારે તરંગ આગળ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ ગુણ છે - 'લંબ'ગત એટલે 'લંબ' રૂપે દોલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંગત તરંગોમાં કયા વિભાગો જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) સંઘનન અને વિઘનન. સંગત તરંગોમાં દબાણ અને ઘનતાના ફેરફારને કારણે સંઘનન-વિઘનન રચાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગત = સાથે (સંઘનન-વિઘનન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ધ્વનિ તરંગો એ કયા પ્રકારના તરંગો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) સંગત તરંગો. હવા કે વાયુમાં ધ્વનિ માત્ર સંગત તરંગ સ્વરૂપે જ પ્રસરણ પામી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્વનિ 'સ'ભળાય - એટલે 'સ'ંગત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "તરંગની લંબાઈ (Wavelength) λ નો એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) મીટર (m). તરંગ લંબાઈ એ અંતર હોવાથી તેનો SI એકમ મીટર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ કોઈ પણ હોય, SI એકમ 'મીટર' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આવર્તકાળ (T) અને આવૃત્તિ (f) વચ્ચેનો સંબંધ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) f = 1/T. આવૃત્તિ એ આવર્તકાળનો વ્યસ્ત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ અને સમય હંમેશા એકબીજાના 'ઉંધા' (વ્યસ્ત) ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "તરંગ સમીકરણ y = A sin(kx - ωt) માં k શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) તરંગ સદિશ (Wave number). k = 2π/λ સૂત્ર વડે વ્યાખ્યાયિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k એટલે કોણીય તરંગ સંખ્યા, જે λ સાથે જોડાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તરંગની ઝડપ (v), આવૃત્તિ (f) અને તરંગલંબાઈ (λ) વચ્ચેનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) v = fλ. તરંગની ઝડપ એ એક સેકન્ડમાં કપાયેલું અંતર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Velocity = Frequency × Lambda (VFL યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તણાવવાળી દોરીમાં લંબગત તરંગની ઝડપ શાના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) તણાવ (T) અને રેખીય દળ ઘનતા (μ). સૂત્ર: v = √(T/μ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = √(તણાવ / જાડાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હવામાં ધ્વનિની ઝડપ માટે ન્યુટનનું સૂત્ર કઈ ક્ષતિ ધરાવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) ન્યુટને પ્રક્રિયાને સમતાપી ધારી હતી. જ્યારે વાસ્તવમાં તે સમમોષમી (Adiabatic) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટન 'ઠંડો' (Isothermal) હતો, લાપ્લાસ 'ગરમ' (Adiabatic) આવ્યો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ધ્વનિની ઝડપ માટે લાપ્લાસનો સુધારો કયા પદનો ઉમેરો કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) γ (Cp/Cv નો ગુણોત્તર). સૂત્ર: v = √(γP/ρ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાપ્લાસ = ગામા (γ) નો ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "માધ્યમના તાપમાનમાં વધારો થતા ધ્વનિની ઝડપમાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) વધે છે. v ∝ √T સંબંધ મુજબ તાપમાન વધતા ઝડપ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધે તો અણુઓ ફાસ્ટ દોડે, એટલે અવાજ પણ ફાસ્ટ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તરંગોના સંપાતપણાનો સિદ્ધાંત ક્યારે લાગુ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) જ્યારે બે કે તેથી વધુ તરંગો એકબીજા પર સંપાત થાય. પરિણામી સ્થાનાંતર y = y1 + y2 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંપાતપણું = સાદો સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્થિર તરંગો (Standing Waves) માં જે બિંદુએ સ્થાનાંતર શૂન્ય હોય તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) નિસ્પંદ બિંદુ (Node). અહીં કંપવિસ્તાર શૂન્ય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ'સ્પંદ = 'નિ' એટલે નથી (હલનચલન નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્થિર તરંગોમાં મહત્તમ સ્થાનાંતર ધરાવતા બિંદુને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) પ્રસ્પંદ બિંદુ (Antinode). અહીં કંપવિસ્તાર મહત્તમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્ર'સ્પંદ = 'પ્ર' એટલે પ્રચંડ (મોટું દોલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બે ક્રમિક નિસ્પંદ બિંદુઓ વચ્ચેનું અંતર કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) λ/2. આખું તરંગ λ હોય, તો બે ગાંઠ (Node) વચ્ચેનું અંતર અડધું થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Node થી Node = λ/2. Node થી Antinode = λ/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બંને છેડે જડેલી L લંબાઈની દોરીની મૂળભૂત આવૃત્તિનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) f = v / 2L. અહીં બે છેડે નિસ્પંદ બિંદુઓ રચાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોરીના બે છેડા = છેદમાં 2L.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક છેડે બંધ પાઈપમાં કયા હાર્મોનિક્સ ગેરહાજર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) બેકી (Even) હાર્મોનિક્સ. બંધ પાઈપમાં માત્ર 1, 3, 5... (એકી) હાર્મોનિક્સ જ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ પાઈપ = 'એકી' (Odd) માણસ જેવી, એકલી રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ખુલ્લી પાઈપની મૂળભૂત આવૃત્તિ અને સમાન લંબાઈની બંધ પાઈપની મૂળભૂત આવૃત્તિનો ગુણોત્તર કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 2:1. ખુલ્લી પાઈપ f = v/2L અને બંધ f = v/4L.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લી પાઈપ હંમેશા બંધ કરતા બમણી આવૃત્તિ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સ્પંદ (Beats) ની ઘટના શાના કારણે ઉદભવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) નજીકની આવૃત્તિવાળા બે તરંગોના સંપાતીકરણથી. આવૃત્તિનો તફાવત એટલે સ્પંદ સંખ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પંદ = તફાવત (|f1 - f2|).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બે સ્વરકાંટાની આવૃત્તિ 256 Hz અને 260 Hz છે, તો એક સેકન્ડમાં કેટલા સ્પંદ સંભળાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) 4. સ્પંદ સંખ્યા n = f2 - f1 = 260 - 256 = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટામાંથી નાનું બાદ કરો, જવાબ હાજર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ડોપ્લર અસર (Doppler Effect) ક્યારે જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) ઉદગમ અને શ્રોતા વચ્ચેની સાપેક્ષ ગતિ વખતે. આને કારણે આવૃત્તિ બદલાતી જણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિ બદલાય તો 'સૂર' (આવૃત્તિ) બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જ્યારે ધ્વનિ ઉદગમ શ્રોતા તરફ ગતિ કરતું હોય ત્યારે શ્રોતાને સંભળાતી આવૃત્તિમાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) વધે છે. અંતર ઘટતા આભાસી આવૃત્તિ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નજીક આવે તો અવાજ 'તીણો' (વધુ આવૃત્તિ) લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "તરંગનો કંપવિસ્તાર (Amplitude) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) મધ્યમાન સ્થાનથી થતું મહત્તમ સ્થાનાંતર. તેને 'A' વડે દર્શાવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપવિસ્તાર = સૌથી ઉંચો કુદકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કયા પ્રકારના તરંગોના પ્રસરણ માટે માધ્યમની જરૂર હોતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) વિદ્યુતચુંબકીય તરંગો. તે શૂન્યાવકાશમાં પણ ગતિ કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ (EM waves) ને કોઈના ટેકાની જરૂર નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કોણીય આવૃત્તિ ω નો એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) rad/s. ω = 2πf સૂત્ર મુજબ એકમ રેડિયન પ્રતિ સેકન્ડ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણીય એટલે ખૂણો (rad) અને સમય (s).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "તરંગની કળા (Phase) શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) કણનું સ્થાન અને ગતિની દિશા. તે (kx - ωt + φ) પદ દ્વારા દર્શાવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કળા એટલે કણનું 'સરનામું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો તરંગનું સમીકરણ y = 5 sin(10t - 2x) હોય, તો કોણીય આવૃત્તિ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 10 rad/s. સમીકરણ y = A sin(ωt - kx) સાથે સરખાવતા ω = 10.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: t ની બાજુમાં હોય તે ω (ઓમેગા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "તરંગ સંખ્યા k અને તરંગલંબાઈ λ વચ્ચેનો સંબંધ...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) k = 2π / λ. આ એકમ લંબાઈ દીઠ રેડિયનની સંખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k અને λ એકબીજાના દુશ્મન (વ્યસ્ત) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ધ્વનિની હવામાં ઝડપ 330 m/s છે. જો આવૃત્તિ 660 Hz હોય તો તરંગલંબાઈ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 0.5 m. λ = v / f = 330 / 660 = 0.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું (330 એ 660 ના અડધા છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કયા માધ્યમમાં ધ્વનિની ઝડપ સૌથી વધુ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) ઘન (Solids). ઘન પદાર્થોની સ્થિતિસ્થાપકતા વધુ હોવાથી ઝડપ વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન > પ્રવાહી > વાયુ (Tight molecules = Fast sound).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સ્થિર તરંગમાં ઉર્જાનું વહન કેટલું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) શૂન્ય. સ્થિર તરંગમાં ઉર્જા બે નિસ્પંદ બિંદુઓ વચ્ચે જકડાયેલી રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ 'સ્થિર' છે, તો ઉર્જા ક્યાંથી જાય?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "દોરીમાં રચાતા સ્થિર તરંગોમાં 3 લૂપ (Loops) બને છે, તો તે કયો હાર્મોનિક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) ત્રીજો હાર્મોનિક. લૂપની સંખ્યા = હાર્મોનિકનો ક્રમ (n).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા લૂપ, એટલામો હાર્મોનિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ધ્વનિ તરંગોની પ્રબળતા (Intensity) શાના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) કંપવિસ્તારના વર્ગ પર (I ∝ A²). કંપવિસ્તાર વધે તો અવાજ મોટો સંભળાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' ∝ Square of 'A'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "તરંગ અગ્ર (Wavefront) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) સમાન કળા ધરાવતા બિંદુઓનો કાલ્પનિક પથ. બિંદુવત ઉદગમ માટે તે ગોળાકાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમ ફેઝ (Phase) = તરંગ અગ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જો શ્રોતા સ્થિર હોય અને ઉદગમ દૂર જતું હોય, તો આવૃત્તિમાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) ઘટે છે. ડોપ્લર અસર મુજબ દૂર જતી વસ્તુની આવૃત્તિ ઓછી જણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂર જાય એટલે અવાજ 'બેઠો' (ઓછી આવૃત્તિ) લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પ્રગામી તરંગ (Progressive Wave) નું ઉદાહરણ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) પાણીની સપાટી પર ઉત્પન્ન થતા તરંગો. જે આગળ વધે તે પ્રગામી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રગામી = પ્રગતિ કરતું (આગળ વધતું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નિસ્પંદ બિંદુ પર દબાણનો ફેરફાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) મહત્તમ. સ્થિર તરંગોમાં જ્યાં સ્થાનાંતર શૂન્ય (Node) ત્યાં દબાણ ફેરફાર મહત્તમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર અને દબાણ 'ઊંધા' ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "એક છેડે બંધ પાઈપમાં પ્રથમ ઓવરટોન કયો હાર્મોનિક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) ત્રીજો હાર્મોનિક. બંધ પાઈપમાં 1 પછી સીધો 3 હાર્મોનિક આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ પાઈપમાં બેકી સંખ્યા ભૂલી જવાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પ્રવાહીમાં કયા પ્રકારના તરંગો પ્રસરણ પામી શકતા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) લંબગત તરંગો (અંદરના ભાગમાં). પ્રવાહીમાં આકાર સ્થિતિસ્થાપકતા હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબગત તરંગોને 'કડક' (Rigid) માધ્યમ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "તરંગનું પ્રસરણ કયા ગુણધર્મને આભારી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) જડત્વ અને સ્થિતિસ્થાપકતા. આ બે ગુણધર્મો વગર તરંગ પ્રસરણ શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરંગ = જડત્વ (Inertia) + સ્થિતિસ્થાપકતા (Elasticity).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "20 Hz થી ઓછી આવૃત્તિવાળા ધ્વનિને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) ઈન્ફ્રાસોનિક. મનુષ્ય આ અવાજ સાંભળી શકતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછી એટલે 'ઈન્ફ્રા', વધુ એટલે 'અલ્ટ્રા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ચામાચીડિયું કયા પ્રકારના તરંગો ઉત્પન્ન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) અલ્ટ્રાસોનિક. તેની આવૃત્તિ 20,000 Hz થી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચામાચીડિયું = સુપર પાવર (Ultra).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "તરંગના પ્રસરણ દરમિયાન માધ્યમની ઘનતા ક્યાં મહત્તમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) સંઘનન (Compression). અહીં કણો નજીક નજીક હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંઘનન = ગીચતા (Maximum Density).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "તરંગોમાં 'પથ તફાવત' અને 'કળા તફાવત' વચ્ચેનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) Δφ = (2π / λ) × Δx. આ સૂત્ર ખૂબ મહત્વનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેઝ = k * પાથ (Path).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "સ્થિર તરંગનું વ્યાપક સમીકરણ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) y = 2A sin(kx) cos(ωt). અહીં x અને t ના પદો અલગ થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર તરંગ એટલે x અને t નું 'ડિવોર્સ' (જુદા પદો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જો દોરીની લંબાઈ બમણી કરવામાં આવે, તો તેની મૂળભૂત આવૃત્તિ કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) અડધી. f ∝ 1/L સંબંધ મુજબ લંબાઈ વધતા આવૃત્તિ ઘટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી દોરી = ધીમો અવાજ (ઓછી આવૃત્તિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "માધ્યમમાં ભેજ વધતા ધ્વનિની ઝડપમાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) વધે છે. ભેજવાળી હવાની ઘનતા સૂકી હવા કરતા ઓછી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજ = ઓછી ઘનતા = વધુ સ્પીડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "તરંગોનું પરાવર્તન જ્યારે 'મુક્ત છેડા' પરથી થાય ત્યારે કળામાં કેટલો ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) 0 (શૂન્ય). મુક્ત છેડા પર કળા બદલાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત એટલે આઝાદ, કોઈ ફેરફાર નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "તરંગોનું પરાવર્તન જ્યારે 'જડેલા છેડા' પરથી થાય ત્યારે કળામાં કેટલો ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) π (180 ડિગ્રી). જડેલો છેડો તરંગને ઉલટાવી નાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડેલો છેડો = ઉલટું કરી નાખે (180° પલટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ધ્વનિની તીવ્રતા (Loudness) નો એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) ડેસિબલ (dB). જે લોગેરિધમિક સ્કેલ પર મપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ કેટલો 'ડેન્જર' (D) છે તે ડેસિબલ (dB) માં મપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "તરંગનો વેગ માધ્યમના કયા ગુણધર્મ પર આધારિત નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) કંપવિસ્તાર. તરંગની ઝડપ એ માધ્યમના ગુણધર્મો (T, P, ρ) પર આધાર રાખે છે, ઉદગમ પર નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પીડ ને કંપવિસ્તાર (A) સાથે કોઈ લેવાદેવા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ખુલ્લી પાઈપમાં કયા હાર્મોનિક્સ હાજર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) એકી અને બેકી બંને. ખુલ્લી પાઈપમાં 1, 2, 3, 4... એમ બધા જ હાર્મોનિક્સ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લી પાઈપ એટલે 'ખુલ્લું' મન, બધાને આવકારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "લંબગત તરંગમાં શૃંગ (Crest) અને ગર્ત (Trough) વચ્ચેનું અંતર કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) λ/2. એક શૃંગ થી બીજા શૃંગ વચ્ચે λ હોય, તો શૃંગ થી ગર્ત વચ્ચે અડધું થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ થી તળિયું = અડધું તરંગ (λ/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જો સ્પંદ સંખ્યા 5 Hz હોય, તો બે તરંગોની આવૃત્તિનો તફાવત કેટલો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 5 Hz. સ્પંદ સંખ્યા એટલે જ આવૃત્તિનો તફાવત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પંદ = તફાવત (Ditto!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "સંગત તરંગો કયા માધ્યમમાં પ્રસરણ પામી શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) આપેલ તમામ (ઘન, પ્રવાહી, વાયુ). સંગત તરંગો દરેક માધ્યમમાં પ્રસરણ પામી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગત એટલે 'સ'ર્વવ્યાપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "તરંગના સમીકરણ y = A sin(kx - ωt) માં તરંગ કઈ દિશામાં ગતિ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) ધન X-દિશા. જો kx અને ωt ના ચિન્હો વિરુદ્ધ હોય તો ગતિ ધન દિશામાં હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ ચિન્હ (-) = ધન (+) ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "તરંગના સમીકરણ y = A sin(kx + ωt) માં તરંગ કઈ દિશામાં ગતિ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) ઋણ X-દિશા. જો kx અને ωt ના ચિન્હો સમાન (+) હોય તો ગતિ ઋણ દિશામાં હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન ચિન્હ (+) = ઋણ (-) ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "હવામાં ધ્વનિની ઝડપ પર દબાણની શું અસર થાય છે (તાપમાન અચળ હોય તો)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) કોઈ અસર થતી નથી. દબાણ વધતા ઘનતા પણ વધે છે, જેથી ગુણોત્તર P/ρ અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ (Pressure) ને ધ્વનિની સ્પીડ સાથે 'નો રિલેશન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "શૂન્ય કળા (Zero phase) એટલે તરંગની શરૂઆત ક્યાંથી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) મધ્યમાન સ્થાનથી. sin(0) = 0 હોવાથી ઉગમબિંદુથી શરૂ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય કળા = સેન્ટરથી સ્ટાર્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "સંગીતના સાધનોમાં 'પીચ' (Pitch) શાના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) આવૃત્તિ. વધુ આવૃત્તિ એટલે વધુ તીણો અવાજ (High Pitch).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pitch = Frequency.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "રેખીય દળ ઘનતા (Linear mass density) નો એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) kg/m. તે એકમ લંબાઈ દીઠ દળ (m/L) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રેખીય' એટલે છેદમાં લંબાઈ (m).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "એક દોરી 4 લૂપમાં ધ્રુજારી અનુભવે છે. જો દોરીની કુલ લંબાઈ 2m હોય, તો તરંગલંબાઈ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 1m. 4 લૂપ એટલે 2λ = L. 2λ = 2, તો λ = 1m.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 લૂપ એટલે એક λ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "સ્થિર તરંગમાં બે પ્રસ્પંદ બિંદુઓ વચ્ચેનું અંતર કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) λ/2. બે ક્રમિક Antinodes વચ્ચેનું અંતર પણ λ/2 જ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન પ્રકારના બે બિંદુઓ વચ્ચે અંતર અડધું (λ/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "તરંગની તીવ્રતાનો કંપવિસ્તાર સાથેનો સંબંધ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) I ∝ A². જો કંપવિસ્તાર બમણો થાય, તો તીવ્રતા ચાર ગણી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્રતા = વર્ગનો પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "0°C તાપમાને હવામાં ધ્વનિની ઝડપ અંદાજે કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 331 m/s. તાપમાન વધતા આ ઝડપ વધતી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 ડિગ્રી પર 331 આંકડો યાદ રાખી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "પાણીમાં ધ્વનિની ઝડપ હવાની સરખામણીમાં કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) વધારે. પાણીની બલ્ક મોડ્યુલસ હવાની સરખામણીમાં ઘણી વધારે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિક્વિડમાં અવાજ હવામાંથી ચાર ગણો ફાસ્ટ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "તરંગનું પરાવર્તન થાય ત્યારે કયો ગુણધર્મ બદલાતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) આવૃત્તિ. આવૃત્તિ એ ઉદગમનો ગુણધર્મ છે, માધ્યમનો નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ એટલે ઉદગમની છાપ, ક્યારેય ન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "સ્પંદ (Beats) નો ઉપયોગ શામાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) અજ્ઞાત આવૃત્તિ નક્કી કરવા માટે. સંગીતના સાધનો ટ્યુન કરવા માટે આ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્યુનિંગ (Tuning) = સ્પંદ (Beats).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "તરંગમાં જે બિંદુએ કળા π હોય, તે બિંદુ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) એક આખું ગર્ત (Trough) પૂરું થયાનું સ્થાન અથવા વિરુદ્ધ દિશામાં મહત્તમ સ્થાનાંતર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 એટલે શરૂઆત, π એટલે અડધું ચક્ર (પલટી).</p></div>"
+    }
+  ]
+}

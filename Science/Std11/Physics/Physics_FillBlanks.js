@@ -734,3 +734,371 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સમતલમાં ગતિ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માત્ર માન (મૂલ્ય) ધરાવતી ભૌતિક રાશિને _____ રાશિ કહે છે. (અદિશ, સદિશ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' એટલે વગર અને 'દિશ' એટલે દિશા. જે દિશા વગરની હોય તે અદિશ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "તાપમાન એ _____ ભૌતિક રાશિ છે. (અદિશ, સદિશ, એકમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાવ માપવા માટે થર્મોમીટર ગમે તે દિશામાં રાખો, રીડિંગ સરખું જ આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જે સદિશનું મૂલ્ય શૂન્ય હોય તેને _____ સદિશ કહે છે. (એકમ, શૂન્ય, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂલ્ય 0 તો નામ પણ 0 (શૂન્ય સદિશ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જે સદિશનું માન 1 હોય તેને _____ સદિશ કહેવાય. (નલ, સમાન, એકમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક (1) મૂલ્ય એટલે 'એકમ' સદિશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બે સદિશો $\\vec{A}$ અને $\\vec{B}$ ના મૂલ્યો અને દિશા સમાન હોય, તો તેમને _____ સદિશો કહેવાય. (વિરુદ્ધ, એકમ, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ સરખું તો સદિશ પણ 'સમાન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સદિશ $\\vec{A}$ ની વિરુદ્ધ દિશાના સદિશને _____ વડે દર્શાવાય છે. ($|A|$, $-\\vec{A}$, $1/\\vec{A}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $-\\vec{A}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિઝિક્સમાં માઈનસ (-) નિશાની એટલે દિશા ઉંધી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સદિશ અને અદિશનો ગુણાકાર કરતાં મળતી રાશિ _____ હોય છે. (અદિશ, સદિશ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સદિશ × અદિશ = સદિશ (દિશાવાળો ગુણો સચવાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સદિશના સરવાળા માટે _____ ના નિયમનો ઉપયોગ થાય છે. (ત્રિકોણ, વર્તુળ, સ્તંભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂંછડી-માથું (Head-Tail) જોડો એટલે ત્રિકોણ બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સદિશ સરવાળા માટે _____ ના નિયમનું પાલન થાય છે. (ક્રમ, વ્યસ્ત, લોગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\vec{A} + \\vec{B} = \\vec{B} + \\vec{A}$. ક્રમ બદલાય તો પણ જવાબ ન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "X-અક્ષની દિશામાં એકમ સદિશને _____ વડે દર્શાવાય છે. ($\\hat{j}$, $\\hat{i}$, $\\hat{k}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\hat{i}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: XYZ = ijk. એટલે કે X માટે i.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Y-અક્ષની દિશામાં એકમ સદિશને _____ વડે દર્શાવાય છે. ($\\hat{k}$, $\\hat{i}$, $\\hat{j}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\hat{j}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: XYZ = ijk. એટલે કે Y માટે j.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સદિશ $\\vec{A} = A_x \\hat{i} + A_y \\hat{j}$ નું મૂલ્ય $|A| = \\dots\\dots$ . ($\\sqrt{A_x^2 + A_y^2}$, $A_x + A_y$, $A_x^2 + A_y^2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\sqrt{A_x^2 + A_y^2}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરસ દાદાને યાદ કરો! વર્ગનો સરવાળો અને તેનું વર્ગમૂળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સદિશ $\\vec{A}$ એ X-અક્ષ સાથે $\\theta$ ખૂણો બનાવે, તો તેનો X-ઘટક $A_x = \\dots\\dots$ થાય. ($A \\sin\\theta$, $A \\cos\\theta$, $A \\tan\\theta$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $A \\cos\\theta$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાસે' નો ઘટક 'કોસ' ($\cos$) અને 'સામે' નો ઘટક 'સાઈન' ($\sin$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સદિશ $\\vec{A}$ એ X-અક્ષ સાથે $\\theta$ ખૂણો બનાવે, તો તેનો Y-ઘટક $A_y = \\dots\\dots$ થાય. ($A \\cos\\theta$, $A \\tan\\theta$, $A \\sin\\theta$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $A \\sin\\theta$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊભો ઘટક (સામેની બાજુ) હંમેશા $\sin$ લેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમતલમાં ગતિ કરતા કણનો વેગ $\\vec{v} = \\dots\\dots$ સૂત્રથી અપાય છે. ($d\\vec{r}/dt$, $d^2\\vec{r}/dt^2$, $\\vec{r} \\cdot t$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $d\\vec{r}/dt$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ એટલે સ્થાનાંતરનું સમય સાપેક્ષે વિકલન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પ્રવેગ એ _____ નો સમય દર છે. (અંતર, વેગના ફેરફાર, સ્થાનાંતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગના ફેરફાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક્સિલરેટર દબાવો તો 'વેગ' બદલાય, એટલે પ્રવેગ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો વેગ અને પ્રવેગ એક જ દિશામાં હોય તો ગતિનો પથ _____ હોય છે. (વર્તુળાકાર, પરવલય, સુરેખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધા રસ્તે જાવ અને સ્પીડ વધારો, રસ્તો સીધો જ રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પ્રક્ષિપ્ત ગતિમાં પદાર્થ પર લાગતો પ્રવેગ હંમેશા _____ દિશામાં હોય છે. (સમક્ષિતિજ, અધોદિશામાં, ત્રાંસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધોદિશામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુત્વાકર્ષણ બળ હંમેશા નીચે (ખેંચે) જ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રક્ષિપ્ત પદાર્થનો ગતિપથ _____ આકારનો હોય છે. (વર્તુળાકાર, પરવલય, ઉપવલય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરવલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિકેટનો સિક્સર યાદ કરો, એ આકાર એટલે 'પરવલય' (Parabola).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પ્રક્ષિપ્ત ગતિમાં વેગનો _____ ઘટક અચળ રહે છે. (સમક્ષિતિજ, શિરોલંબ, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમક્ષિતિજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આડી દિશામાં કોઈ બળ નથી લાગતું, એટલે વેગ ના બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મહત્તમ ઊંચાઈએ પ્રક્ષિપ્ત પદાર્થનો શિરોલંબ વેગ _____ હોય છે. ($v_0$, $v_0 \\cos\\theta$, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર પહોંચીને થોડીવાર માટે ઉપર જવાનું બંધ થઈ જાય, એટલે $v_y = 0$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પ્રક્ષિપ્ત પદાર્થ માટે મહત્તમ ઊંચાઈ $H$ મેળવવાનું સૂત્ર _____ છે. ($\\frac{v_0^2 \\sin^2 \\theta}{2g}$, $\\frac{v_0^2 \\sin 2\\theta}{g}$, $\\frac{v_0^2}{2g}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{v_0^2 \\sin^2 \\theta}{2g}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈટ (Height) માં $\\sin$ નો 'વર્ગ' આવે અને નીચે '2g' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પ્રક્ષિપ્ત પદાર્થની મહત્તમ અવધિ માટે પ્રક્ષિપ્ત કોણ $\\theta = \\dots\\dots$ હોવો જોઈએ. ($30^\\circ, 45^\\circ, 60^\\circ$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $45^\\circ$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબો ઘા કરવો હોય તો 45 ડિગ્રીએ જ ફેંકવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "$\\theta$ અને _____ ખૂણે ફેંકવામાં આવેલા પ્રક્ષિપ્ત પદાર્થની અવધિ સમાન હોય છે. ($90-\\theta, 180-\\theta, 45-\\theta$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $90-\\theta$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરક કોણ (સરવાળો 90) હોય તો અવધિ 'સેમ ટુ સેમ'. (દા.ત. 30 અને 60).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઉડ્ડયન સમય (Time of Flight) $T_f = \\dots\\dots$ . ($\\frac{2v_0 \\sin \\theta}{g}$, $\\frac{v_0 \\sin \\theta}{g}$, $\\frac{v_0^2 \\sin \\theta}{g}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{2v_0 \\sin \\theta}{g}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જવાનો સમય + નીચે આવવાનો સમય = ડબલ સમય ($2 \times$ ઉપર જવાનો સમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નિયમિત વર્તુળમય ગતિમાં _____ અચળ રહે છે. (વેગ, ઝડપ, પ્રવેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિશા બદલાય એટલે વેગ બદલાય, પણ કાંટાની સ્પીડ (ઝડપ) ફિક્સ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કેન્દ્રગામી પ્રવેગની દિશા હંમેશા _____ તરફ હોય છે. (સ્પર્શકની, કેન્દ્ર, ત્રિજ્યાની બહાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ ગુણ છે - 'કેન્દ્ર-ગામી' એટલે કેન્દ્ર તરફ જતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કેન્દ્રગામી પ્રવેગ $a_c = \\dots\\dots$ . ($v/r, v^2/r, v^2 r$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v^2/r$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગનો સ્ક્વેર છેદમાં ત્રિજ્યા - આ ફોર્મ્યુલા ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કોણીય ઝડપ $\\omega$ નો એકમ _____ છે. (m/s, rad/s, degree/s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> rad/s</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો (રેડિયન) / સમય (સેકન્ડ) = રેડિયન/સેકન્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રેખીય વેગ $v$ અને કોણીય વેગ $\\omega$ વચ્ચેનો સંબંધ _____ છે. ($v = r \\omega$, $\\omega = r v$, $v = \\omega / r$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v = r \\omega$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીર (V=R $\omega$) - આ નામ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "1 રેડિયન = _____ ડિગ્રી (આશરે). ($57.3^\\circ, 180^\\circ, 90^\\circ$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $57.3^\\circ$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $180 / \\pi$ ગણતરી કરો એટલે 57.3 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કોઈપણ ક્ષણે વેગની દિશા તે બિંદુએ દોરેલા _____ ની દિશામાં હોય છે. (લંબ, સ્પર્શક, ત્રિજ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પર્શક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થરને દોરીથી ફેરવીને છોડી દો, તે સ્પર્શકની દિશામાં જ ભાગશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સરેરાશ વેગ એ _____ અને સમયગાળાનો ગુણોત્તર છે. (પથલંબાઈ, સ્થાનાંતર, ઝડપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાનાંતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ સાથે 'સ્થાનાંતર' જ આવે, પથલંબાઈ તો 'ઝડપ' માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "એકમ વર્તુળમાં એક પરિભ્રમણ પૂર્ણ કરતા લાગતા સમયને _____ કહે છે. (આવૃત્તિ, કોણીય વેગ, આવર્તકાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવર્તકાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ચક્કર પૂરો કરવાનો 'કાળ' એટલે આવર્તકાળ (T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "આવર્તકાળના વ્યસ્તને _____ કહે છે. (આવૃત્તિ, કોણીય ઝડપ, તરંગલંબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $f = 1/T$. સમય ઊલટો કરો એટલે સંખ્યા (આવૃત્તિ) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સદિશોના સરવાળા માટે સહાચર્યના નિયમ મુજબ $(\\vec{A}+\\vec{B})+\\vec{C} = \\dots\\dots$ . ($\\vec{A}+(\\vec{B}+\\vec{C})$, $\\vec{A}+\\vec{B}-\\vec{C}$, $\\vec{A}\\cdot\\vec{B}+\\vec{C}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\vec{A}+(\\vec{B}+\\vec{C})$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રુપ બદલો તો પણ સરવાળો ના બદલાય, એ જ સહાચર્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બે સદિશો $\\vec{A}$ અને $\\vec{B}$ વચ્ચેનો ખૂણો $\\theta$ હોય, તો તેમના પરિણામી સદિશનું મૂલ્ય $R = \\dots\\dots$ . ($\\sqrt{A^2+B^2}$, $\\sqrt{A^2+B^2+2AB \\cos\\theta}$, $A+B$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\sqrt{A^2+B^2+2AB \\cos\\theta}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ ચતુષ્કોણનો નિયમ! $2AB\\cos\\theta$ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "શૂન્ય સદિશની દિશા _____ હોય છે. (X-અક્ષ તરફ, Y-અક્ષ તરફ, અનિશ્ચિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનિશ્ચિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું મૂલ્ય જ નથી, એ કઈ દિશામાં જોશે? ગમે ત્યાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો $\\vec{A} \\perp \\vec{B}$ હોય, તો તેમની વચ્ચેનો ખૂણો _____ હોય. ($0^\\circ, 90^\\circ, 180^\\circ$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $90^\\circ$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ એટલે કાટખૂણો, અને કાટખૂણો એટલે 90!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સ્થાન સદિશ $\\vec{r} = x\\hat{i} + y\\hat{j}$ હોય, તો સ્થાનાંતર સદિશ $\\Delta \\vec{r} = \\dots\\dots$ . ($\\Delta x \\hat{i} + \\Delta y \\hat{j}$, $x+y$, $xy$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta x \\hat{i} + \\Delta y \\hat{j}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેરફાર ($\\Delta$) બંને અક્ષ પર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વેગ સદિશ $\\vec{v}$ નો X-ઘટક $v_x = \\dots\\dots$ . ($dx/dt$, $dy/dt$, $dr/dt$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $dx/dt$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: X-ઘટક માટે X નું જ વિકલન કરવાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પ્રવેગ સદિશ $\\vec{a}$ અને વેગ સદિશ $\\vec{v}$ વચ્ચેનો ખૂણો $0^\\circ$ થી $180^\\circ$ વચ્ચે _____ હોઈ શકે. (માત્ર 90, કોઈપણ, માત્ર 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ-પરિમાણમાં ગતિ હોય ત્યારે ખૂણો ગમે તે હોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "પ્રક્ષિપ્ત ગતિમાં પદાર્થની મહત્તમ અવધિ $R_{max} = \\dots\\dots$ . ($v_0^2/g$, $v_0^2/2g$, $2v_0/g$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v_0^2/g$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\theta=45$ મૂકો એટલે $\\sin(2 \\times 45) = 1$ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જ્યારે $\\theta = 90^\\circ$ હોય, ત્યારે પ્રક્ષિપ્ત પદાર્થની અવધિ _____ થાય. ($v_0^2/g$, શૂન્ય, $v_0^2/2g$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધું ઉપર ફેંકો તો એ તમારા માથા પર જ પડે, આઘું (અવધિ) ના જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સાપેક્ષ વેગ $\\vec{v}_{AB} = \\dots\\dots$ . ($\\vec{v}_A + \\vec{v}_B$, $\\vec{v}_A - \\vec{v}_B$, $\\vec{v}_B - \\vec{v}_A$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\vec{v}_A - \\vec{v}_B$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પહેલા એ પહેલા, જે પછી એ પછી! AB એટલે A - B.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વરસાદ શિરોલંબ પડતો હોય અને તમે સાઈકલ પર જતા હોવ, તો સાપેક્ષ વેગ શોધવા _____ સદિશનો ઉપયોગ થાય. (સરવાળા, બાદબાકી, ગુણાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાદબાકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપેક્ષ વેગ એટલે જ બાદબાકી ($\\vec{v}_1 - \\vec{v}_2$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "નિયમિત વર્તુળમય ગતિમાં કોણીય સ્થાનાંતર $\\Delta\\theta = \\dots\\dots$ . ($s/r$, $r/s$, $v/r$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $s/r$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો = ચાપ / ત્રિજ્યા. (Angle = Arc / Radius).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કેન્દ્રગામી પ્રવેગનું બીજું નામ _____ પ્રવેગ પણ છે. (રેખીય, ત્રિજ્યાવર્તી, સ્પર્શકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિજ્યાવર્તી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે ત્રિજ્યાની દિશામાં કામ કરે છે, એટલે ત્રિજ્યાવર્તી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "$\\omega = 2\\pi f$ માં $f$ એ _____ છે. (આવર્તકાળ, આવૃત્તિ, કોણીય પ્રવેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2\\pi$ એટલે એક ચક્કર અને $f$ એટલે ચક્કરની સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જો બે સદિશો પરસ્પર વિરુદ્ધ દિશામાં હોય, તો તેમની વચ્ચેનો ખૂણો _____ હોય. ($0^\\circ, 90^\\circ, 180^\\circ$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $180^\\circ$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ એટલે યુ-ટર્ન (180 ડિગ્રી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "પ્રક્ષિપ્ત ગતિમાં મહત્તમ ઊંચાઈએ પદાર્થનો પ્રવેગ _____ જેટલો હોય છે. ($0, g, g \\sin\\theta$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $g$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થ હવામાં ગમે ત્યાં હોય, પૃથ્વી તો તેને $g$ થી જ ખેંચશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "સદિશ $\\vec{A}$ ને તેના પોતાનાથી જ બાદ કરતા _____ સદિશ મળે. (એકમ, શૂન્ય, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $5 - 5 = 0$. સદિશમાં પણ એવું જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "કોણીય ઝડપ $\\omega = \\dots\\dots$ . ($2\\pi/T$, $T/2\\pi$, $2\\pi T$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2\\pi/T$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણ ચક્રનો ખૂણો $2\\pi$ અને લાગતો સમય $T$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ગતિમાન પદાર્થની દિશા બદલાય તો તેનો _____ બદલાય જ. (વેગ, ઝડપ, દળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ = મૂલ્ય + દિશા. દિશા બદલાય તો વેગ ખલાસ (બદલાઈ જાય)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "નીચેનામાંથી કઈ અદિશ રાશિ છે? (બળ, વેગમાન, કાર્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ય (W) માં કોઈ દિશા હોતી નથી, માત્ર ઉર્જા વપરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "સદિશ $\\vec{r} = 3\\hat{i} + 4\\hat{j}$ નું મૂલ્ય _____ થાય. (7, 5, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3-4-5 ની જોડી પાયથાગોરસમાં ફેમસ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પ્રક્ષિપ્ત ગતિમાં મહત્તમ ઊંચાઈએ વેગ અને પ્રવેગ વચ્ચેનો ખૂણો _____ હોય છે. ($0^\\circ, 45^\\circ, 90^\\circ$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $90^\\circ$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર વેગ 'આડો' અને પ્રવેગ 'ઊભો', એટલે ખૂણો 90!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "એકમ સદિશનું પારિમાણિક સૂત્ર _____ છે. ($M^1 L^1 T^{-1}$, $M^0 L^0 T^0$, $M^0 L^1 T^0$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $M^0 L^0 T^0$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમ સદિશ માત્ર દિશા બતાવે, એને કોઈ પરિમાણ ના હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો પરિણામી સદિશ $R = A + B$ હોય, તો $\\vec{A}$ અને $\\vec{B}$ વચ્ચેનો ખૂણો _____ હશે. ($0^\\circ, 90^\\circ, 180^\\circ$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $0^\\circ$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધેસીધો સરવાળો ત્યારે જ થાય જ્યારે બંને એક જ દિશામાં (0 ડિગ્રી) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "સ્થિર પદાર્થનો વેગ સદિશ _____ સદિશ હોય છે. (એકમ, સમાન, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થ હલે જ નહીં, તો વેગ ક્યાંથી હોય?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "પ્રક્ષિપ્ત ગતિમાં સમક્ષિતિજ અંતર કાપવા માટે _____ જવાબદાર છે. ($v_0 \\sin\\theta$, $v_0 \\cos\\theta$, $g$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v_0 \\cos\\theta$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આડું અંતર એટલે આડો ઘટક (Cos!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "કેન્દ્રગામી પ્રવેગ $a_c = \\omega^2 \\times \\dots\\dots$ . ($r, r^2, 1/r$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $r$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v^2/r$ માં $v=r\\omega$ મૂકો એટલે $r\\omega^2$ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "જો પ્રક્ષિપ્ત કોણ $90^\\circ$ હોય, તો પદાર્થની અવધિ અને ઊંચાઈ પૈકી _____ શૂન્ય થશે. (અવધિ, ઊંચાઈ, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધું ઉપર ફેંકેલું પાછું ત્યાં જ આવે, એટલે આડું અંતર (અવધિ) 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પરિણામી સદિશની દિશા શોધવા માટે _____ વિધેયનો ઉપયોગ થાય છે. (sin, cos, tan)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> tan</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\tan\\alpha = y/x$. ઢાળ (Slope) એટલે દિશા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "આકાશમાં ઉડતું પક્ષી એ _____ માં ગતિનું ઉદાહરણ છે. (એક-પરિમાણ, દ્વિ-પરિમાણ, ત્રિ-પરિમાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિ-પરિમાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષી ઊંચે પણ જાય, આગળ પણ જાય અને ડાબે-જમણે પણ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "કોઈપણ સદિશનો એકમ સદિશ શોધવા માટે સદિશને તેના _____ વડે ભાગવામાં આવે છે. (દિશા, મૂલ્ય, વર્ગમૂળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂલ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સદિશ / મૂલ્ય = એકમ સદિશ. (ખોખા માંથી વસ્તુ કાઢી લો, દિશા બાકી રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "સમતલમાં અચળ પ્રવેગી ગતિ માટે $v^2 - v_0^2 = \\dots\\dots$ . ($2a\\Delta r$, $a\\Delta r$, $1/2 a t^2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2a\\Delta r$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરેખ ગતિનું ત્રીજું સમીકરણ જ છે, બસ સદિશ સ્વરૂપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "ઘડિયાળના મિનિટ કાંટાની ગતિ _____ ગતિ છે. (સુરેખ, અનિયમિત, નિયમિત વર્તુળમય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમિત વર્તુળમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંટો હંમેશા સરખા સમયે જ ચક્કર પૂરો કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "સદિશ $\\vec{A}$ અને $\\vec{B}$ એકબીજાને સમાંતર હોય, તો તેમની વચ્ચેનો ખૂણો _____ થાય. ($0^\\circ, 90^\\circ, 180^\\circ$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $0^\\circ$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર એટલે રેલવેના પાટા જેવું, ક્યાંય ભેગા ના થાય, ખૂણો 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "પ્રક્ષિપ્ત ગતિમાં ઉડ્ડયન સમય અને મહત્તમ ઊંચાઈ સુધી પહોંચવાના સમય વચ્ચેનો સંબંધ $T_f = \\dots\\dots$ છે. ($t_m$, $2t_m$, $t_m/2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2t_m$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલો સમય ચડતા લાગે એટલો જ ઉતરતા લાગે. ટોટલ ડબલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સદિશની લંબાઈ તેના _____ નું માપ આપે છે. (દિશા, મૂલ્ય, સ્થાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂલ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલો લાંબો એરો (Arrow), એટલું મોટું મૂલ્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "ચોક્કસ ઉગમબિંદુની સાપેક્ષે કણના સ્થાન દર્શાવતા સદિશને _____ સદિશ કહે છે. (એકમ, સ્થાન, વેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે એડ્રેસ (સ્થાન) બતાવે તે સ્થાન સદિશ.</p></div>"
+    }
+  ]
+}

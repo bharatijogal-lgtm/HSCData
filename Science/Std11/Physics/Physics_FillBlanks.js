@@ -1470,3 +1470,371 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "કાર્ય, ઊર્જા અને પાવર",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બે સદિશોનો અદિશ ગુણાકાર જો શૂન્ય હોય, તો તે બે સદિશો પરસ્પર _____ હશે. (સમાંતર, લંબ, પ્રતિસમાંતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dot Product = 0 એટલે 'ડાન્સ' (લંબ) સ્થિતિ! cos 90 = 0 યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાર્યનું પારિમાણિક સૂત્ર _____ છે. ([M1 L2 T-2], [M1 L1 T-2], [M1 L2 T-3])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M1 L2 T-2]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ય = બળ × અંતર. 122 (બળ માં 112 અને અંતરનું 1 ઉમેરો એટલે 122).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "1 જૂલ = _____ અર્ગ. (10^5, 10^7, 10^-7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10^7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જૂલ' મોટો ભાઈ છે, 'અર્ગ' નાનો. મોટામાંથી નાનામાં જઈએ તો ઘાત પ્લસ (+) આવે. (J-E-7)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો બળ અને સ્થાનાંતર વચ્ચેનો ખૂણો લઘુકોણ હોય, તો કાર્ય _____ ગણાય. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુકોણ એટલે 'મીઠો' સંબંધ, એટલે જવાબ 'ધન' આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જ્યારે પદાર્થ વર્તુળાકાર પથ પર ગતિ કરતો હોય, ત્યારે કેન્દ્રગામી બળ દ્વારા થતું કાર્ય _____ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ-ગોળ ફરે ત્યારે બળ અને સ્થાનાંતર હંમેશા 'લંબ' (90°) હોય, એટલે કાર્ય 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગતિ ઊર્જા હંમેશા _____ જ હોય છે. (ધન, ઋણ, શૂન્ય કે ધન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય કે ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K = 1/2 mv². વેગનો વર્ગ (v²) ક્યારેય ઋણ ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કાર્ય-ઊર્જા પ્રમેય મુજબ, પદાર્થ પર લાગતા ચોખ્ખા બળ વડે થતું કાર્ય તેની _____ માં થતા ફેરફાર બરાબર હોય છે. (ગતિ ઊર્જા, સ્થિતિ ઊર્જા, કુલ ઊર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિ ઊર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: W = ΔK. કાર્ય કરો તો ગતિ વધે અથવા ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બળ વિરુદ્ધ સ્થાનાંતરના આલેખ હેઠળનું ક્ષેત્રફળ _____ આપે છે. (વેગમાન, કાર્ય, પાવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F (Y-axis) અને d (X-axis) નો ગુણાકાર એટલે ક્ષેત્રફળ = કાર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પદાર્થની તેની સ્થિતિ અથવા સંરચનાને કારણે રહેલી ઊર્જાને _____ કહે છે. (ગતિ ઊર્જા, સ્થિતિ ઊર્જા, યાંત્રિક ઊર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિ ઊર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થિતિ' બદલાય તો 'સ્થિતિ' ઊર્જા જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગુરુત્વાકર્ષી બળ એ _____ બળ છે. (સંરક્ષી, અસંરક્ષી, ઘર્ષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંરક્ષી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બળમાં કાર્ય માત્ર પ્રારંભિક અને અંતિમ સ્થાન પર આધાર રાખે તેને સંરક્ષી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "1 kWh = _____ Joule. (3.6 x 10^6, 3.6 x 10^5, 1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3.6 x 10^6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1000 W x 3600 sec = 36,00,000 J. એટલે કે 3.6 MJ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાવરનો એકમ _____ છે. (વોલ્ટ, વોટ, એમ્પીયર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વોટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાસે 'પાવર' હોય તે બીજાની 'વોટ' લગાવી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "1 હોર્સ પાવર (hp) = _____ વોટ. (746, 1000, 550)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 746</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત-ચોક-છવીસ (746) - ઘોડો દોડે 746 ની સ્પીડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સંપૂર્ણ સ્થિતિસ્થાપક સંઘાત માટે રેસ્ટિટ્યુશન ગુણાંક (e) નું મૂલ્ય _____ હોય છે. (0, 1, 0.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Elastic (સ્થિતિસ્થાપક) = 'E' = 1 (નંબર વન સંઘાત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સંપૂર્ણ અસ્થિતિસ્થાપક સંઘાત માટે e = _____. (0, 1, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોંટી જાય તો 'ઝીરો' (0) છુટા પડવાની ગતિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મુક્ત પતન કરતા પદાર્થ માટે પથના કોઈપણ બિંદુએ યાંત્રિક ઊર્જા _____ રહે છે. (વધે, ઘટે, અચળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષી બળમાં 'Total Energy' હંમેશા Fixed (અચળ) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સ્પ્રિંગની સ્થિતિ ઊર્જાનું સૂત્ર _____ છે. (mgh, 1/2 kx^2, 1/2 mv^2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2 kx^2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ એટલે 'kx' નો વર્ગ અને અડધો પાવર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પદાર્થના વેગમાન (p) અને ગતિ ઊર્જા (K) વચ્ચેનો સંબંધ K = _____ છે. (p^2/2m, 2m/p^2, p/2m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> p^2/2m</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'K' પપ્પાના (p^2) બે છોકરા (2m) જેવો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો પદાર્થનો વેગ બમણો કરવામાં આવે, તો તેની ગતિ ઊર્જા _____ ગણી થાય. (2, 4, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગનો વર્ગ થાય, તો 2 નો વર્ગ = 4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઘર્ષણ બળ વડે થતું કાર્ય હંમેશા _____ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ હંમેશા 'વિરોધ' કરે, અને વિરોધ એટલે ઋણ (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "1 ઇલેક્ટ્રોન વોલ્ટ (eV) = _____ જૂલ. (1.6 x 10^-19, 1.6 x 10^19, 9.1 x 10^-31)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.6 x 10^-19</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ઇલેક્ટ્રોનનો ચાર્જ એ જ એની ઊર્જા (eV માં)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જ્યારે સ્પ્રિંગને ખેંચવામાં આવે ત્યારે તેની સ્થિતિ ઊર્જા _____ છે. (વધે, ઘટે, શૂન્ય થાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેંચો કે દબાવો, વર્ક કરવું પડે એટલે ઊર્જા વધે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સ્થિતિસ્થાપક સંઘાતમાં કઈ રાશિનું સંરક્ષણ થાય છે? (માત્ર વેગમાન, માત્ર ગતિ ઊર્જા, વેગમાન અને ગતિ ઊર્જા બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગમાન અને ગતિ ઊર્જા બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થિતિસ્થાપક' એટલે બધું જ સલામત (Safe)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અસ્થિતિસ્થાપક સંઘાતમાં કઈ રાશિનું સંરક્ષણ થતું નથી? (વેગમાન, ગતિ ઊર્જા, કુલ ઊર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિ ઊર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ'સ્થિતિસ્થાપક એટલે ગતિ ઊર્જાનો 'અ'પવ્યય (લોસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાવર એટલે _____ ના ફેરફારનો સમયદર. (વેગમાન, કાર્ય, બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = W/t. કામ કરવાની સ્પીડ એટલે પાવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાવર P = _____ (F.v, F.a, F.d)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F.v</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાવરફુલ ફાઈવ' (P=Fv) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પૃથ્વીની સપાટીથી h ઊંચાઈએ પદાર્થની સ્થિતિ ઊર્જા _____ છે. (mgh, 1/2 mgh, mg/h)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> mgh</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈએ જાવ એટલે 'માઘ' (mgh) લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બળ અચળાંક k નો એકમ _____ છે. (N/m, N.m, N/m^2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N/m</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k = F/x. એટલે ન્યુટન પ્રતિ મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "યાંત્રિક ઊર્જા એ _____ અને _____ નો સરવાળો છે. (ગતિ અને સ્થિતિ, ગતિ અને પાવર, સ્થિતિ અને પાવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિ અને સ્થિતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = K + U. મિકેનિકલ એટલે કુલ્લુ (K+U).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "એક પદાર્થને ઉપર તરફ ફેંકવામાં આવે ત્યારે તેની ગતિ ઊર્જા _____ છે. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જઈએ તો ગુરુત્વાકર્ષણ ખેંચે, એટલે બ્રેક લાગે (ગતિ ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કાર્ય એ _____ રાશિ છે. (સદિશ, અદિશ, ટેન્સર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાર્ય' કરવા માટે દિશાની જરૂર નથી, બસ રિઝલ્ટ જોઈએ! (Dot product is always scalar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો બળ અને સ્થાનાંતર વચ્ચેનો ખૂણો 180° હોય, તો કાર્ય _____ થશે. (મહત્તમ ધન, મહત્તમ ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ ઋણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 180 એટલે એકદમ વિરોધ (Opposite), એટલે Full Negative!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "એક મેગાવૉટ (MW) = _____ વૉટ. (10^3, 10^6, 10^9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10^6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mega = Million = 6 મીંડા (10^6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સ્પ્રિંગ અચળાંક k નું પારિમાણિક સૂત્ર _____ છે. ([M1 L0 T-2], [M1 L1 T-2], [M1 L2 T-2])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M1 L0 T-2]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F/x = [M1 L1 T-2] / [L1]. L ઉડી ગયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "આઈન્સ્ટાઈનનું દ્રવ્ય-ઊર્જા સમીકરણ _____ છે. (E=mc, E=mc^2, E=m^2c)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> E=mc^2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયાનું સૌથી ફેમસ સૂત્ર, 'c' નો સ્ક્વેર ભૂલવો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બંધ માર્ગ પર સંરક્ષી બળ વડે થતું કાર્ય _____ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી નીકળ્યા ત્યાં જ પાછા આવો તો સંરક્ષી બળ 'ઝીરો' કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઘર્ષણ બળ એ _____ બળ છે. (સંરક્ષી, અસંરક્ષી, કેન્દ્રીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસંરક્ષી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ ઊર્જા 'ખાઈ' જાય, સાચવે નહીં (અસંરક્ષી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વેગમાનમાં 100% વધારો કરવામાં આવે તો ગતિ ઊર્જામાં _____ % વધારો થાય. (100, 300, 400)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 300</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ગણું (100% વધારો) એટલે 2² = 4 ગણી ઊર્જા. વધારો = 4-1 = 3 એટલે 300%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પાવર એ _____ રાશિ છે. (સદિશ, અદિશ, એકમ રહિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ય અદિશ, તો પાવર પણ અદિશ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સ્થિતિસ્થાપક સંઘાતમાં e નું મૂલ્ય 1 છે, તો અસ્થિતિસ્થાપક સંઘાતમાં e નું મૂલ્ય _____ ની વચ્ચે હોય. (0 < e < 1, e > 1, e = 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0 < e < 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક દુનિયામાં બધું 0 અને 1 ની વચ્ચે જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "એક પદાર્થ મુક્ત પતન કરે છે ત્યારે તેની સ્થિતિ ઊર્જાનું રૂપાંતર _____ માં થાય છે. (ઉષ્મા ઊર્જા, ગતિ ઊર્જા, રાસાયણિક ઊર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિ ઊર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે પડે એટલે સ્પીડ પકડે, એટલે સ્થિતિ માંથી ગતિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "જ્યારે બળ સ્થાનાંતરની દિશામાં જ હોય, ત્યારે કાર્ય _____ હોય. (મહત્તમ ધન, લઘુત્તમ ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથ-સાથ ચાલો તો પોઝિટિવિટી (Positive) વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "બળ અચળાંક k વાળી સ્પ્રિંગને સમાન બે ભાગમાં કાપવામાં આવે, તો દરેક ભાગનો બળ અચળાંક _____ થાય. (k/2, 2k, k)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2k</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ નાની થાય તો વધુ 'કડક' (Stiff) બને, એટલે k વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પાવરનું પારિમાણિક સૂત્ર _____ છે. ([M1 L2 T-2], [M1 L2 T-3], [M1 L1 T-3])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M1 L2 T-3]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્યના સમયદર એટલે કાર્યના સૂત્રમાં છેદમાં T આવે, એટલે -2 નું -3 થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સમક્ષિતિજ રોડ પર ગતિ કરતી કાર પર ગુરુત્વાકર્ષણ બળ વડે થતું કાર્ય _____ જૂલ હોય. (9.8, 0, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોડ આડો (Horizontal) અને ગુરુત્વાકર્ષણ ઊભું (Vertical) - જોડી 90° ની, એટલે કાર્ય 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ગતિ ઊર્જા અને વેગમાનના આલેખનો આકાર (જો m અચળ હોય) _____ હોય. (રેખા, પરવલય, અતિવલય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરવલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K ∝ p² હોય, જ્યારે એક બાજુ વર્ગ હોય ત્યારે આલેખ 'પરવલય' (Parabola) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કાર્ય કરવાની ક્ષમતાને _____ કહે છે. (પાવર, ઊર્જા, બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેપેસિટી એટલે ઊર્જા (Energy), સ્પીડ એટલે પાવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "દળ (m) અને ઊર્જા (E) વચ્ચેના સંબંધ મુજબ, 1 kg દળના રૂપાંતરથી મળતી ઊર્જા _____ જૂલ હોય. (9 x 10^16, 3 x 10^8, 9 x 10^8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9 x 10^16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = 1 x (3 x 10^8)². 3 નો વર્ગ 9 અને 8 ના ડબલ 16.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "દ્વિ-પરિમાણીય સંઘાતમાં જો બે પદાર્થો સમાન દળના હોય અને એક સ્થિર હોય, તો સ્થિતિસ્થાપક સંઘાત બાદ તેઓ પરસ્પર _____ દિશામાં ગતિ કરશે. (0°, 90°, 180°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરમની કુકરી યાદ કરો, અથડાયા પછી 'કાટખૂણે' છુટી પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "નીચેનામાંથી ઊર્જાનો એકમ કયો નથી? (કેલરી, ઇલેક્ટ્રોન વોલ્ટ, કિલોવોટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિલોવોટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વોટ' પાવરનો એકમ છે, ઊર્જાનો નહીં. (જો કલાક (h) લાગે તો જ ઊર્જા બને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "કોઈપણ તંત્રની કુલ ઊર્જા હંમેશા _____ રહે છે. (વધતી, ઘટતી, સંરક્ષિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંરક્ષિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રહ્માંડનો નિયમ - ઊર્જાનો નાશ શક્ય નથી, માત્ર રૂપ બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "જો F = 2i + 3j અને d = 4i - 2j હોય, તો કાર્ય = _____ એકમ. (2, 8, 14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (2x4) + (3x-2) = 8 - 6 = 2. આઈ-આઈ અને જે-જે નો ગુણાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "પદાર્થ પર લાગતું બળ તેની ગતિની વિરુદ્ધ દિશામાં હોય, તો તેના વેગમાં _____ થશે. (વધારો, ઘટાડો, ફેરફાર નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ બળ એટલે બ્રેક, અને બ્રેક લાગે તો વેગ ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "એક પદાર્થની ગતિ ઊર્જા 4 ગણી કરવામાં આવે તો તેનું વેગમાન _____ ગણું થાય. (2, 4, 16)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p = √2mK. એટલે જો K ને 4 ગણી કરો, તો √4 = 2 ગણું વેગમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જ્યારે કોઈ કૂલી માથે વજન ઉપાડીને ઊભો હોય, ત્યારે ભૌતિકવિજ્ઞાનની દ્રષ્ટિએ કાર્ય _____ કહેવાય. (મહત્તમ, લઘુત્તમ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર (d) = 0, તો કાર્ય (W) = 0. ભલે કૂલી થાકી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ચોક્કસ ઊંચાઈએથી મુક્ત કરવામાં આવેલો દડો જમીન સાથે અથડાઈને ફરી તેટલી જ ઊંચાઈએ પહોંચે, તો સંઘાત _____ હશે. (સ્થિતિસ્થાપક, અસ્થિતિસ્થાપક, સંપૂર્ણ અસ્થિતિસ્થાપક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ લોસ નહીં એટલે 100% સ્થિતિસ્થાપક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "સ્પ્રિંગના બળ વિરુદ્ધ સ્થાનાંતરનો આલેખ _____ હોય છે. (વર્તુળ, વક્ર, સીધી રેખા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીધી રેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = -kx. ઘાત 1 છે, એટલે આલેખ સીધો જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જો પદાર્થનું દળ અડધું કરવામાં આવે તો તેની ગતિ ઊર્જા _____ ગણી થાય. (2, 1/2, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K ∝ m. દળ અડધું તો ઊર્જા પણ અડધી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "કોઈ અસંરક્ષી બળ માટે બંધ માર્ગ પરનું કાર્ય _____ હોઈ શકે. (શૂન્ય, અશૂન્ય, હંમેશા ધન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અશૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસંરક્ષી એટલે રસ્તા પર આધાર રાખે, પાછા આવો તો પણ ઊર્જા તો વપરાય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "1 કેલરી = _____ જૂલ (આશરે). (3.14, 4.18, 9.8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4.18</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાવાની કેલરી મોંઘી હોય, 1 કેલરી એટલે 4 જૂલથી પણ વધારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "બે સદિશો A અને B માટે A.B = B.A. આ કયો ગુણધર્મ છે? (વિભાજન, ક્રમ, સહાચર્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ બદલો તોય જવાબ ના બદલાય એટલે 'ક્રમનો નિયમ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ગતિ ઊર્જાનું સૂત્ર K = 1/2 mv² સૌ પ્રથમ કોણે સૂચવ્યું હતું? (ન્યૂટન, થોમસ યંગ, આઈન્સ્ટાઈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થોમસ યંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યંગ જનરેશનમાં ગતિ (Energy) વધારે હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "સ્પ્રિંગને દબાવવા માટે કરવામાં આવતું કાર્ય _____ ગણાય. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય બળ વડે કાર્ય થાય તો એ ધન જ હોય (સ્પ્રિંગની ઊર્જા વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "સંઘાત દરમિયાન તંત્રનું કુલ વેગમાન _____ રહે છે. (હંમેશા અચળ, બદલાય છે, શૂન્ય થાય છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હંમેશા અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ ટક્કર (Collision) હોય, વેગમાન તો અચળ જ રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વજન રહિત અને ઘર્ષણ રહિત ગરગડી પરથી પસાર થતી દોરી વડે લટકાવેલા બે દળો માટે તંત્રની કુલ યાંત્રિક ઊર્જા _____ હોય છે. (અચળ, વધતી, ઘટતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ નથી એટલે ઊર્જા વેડફાય નહીં, એટલે Fixed!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "સ્પ્રિંગ બળ F = -kx માં ઋણ નિશાની શું દર્શાવે છે? (બળ ઓછું છે, બળ અને સ્થાનાંતર વિરુદ્ધ દિશામાં છે, બળ શૂન્ય છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળ અને સ્થાનાંતર વિરુદ્ધ દિશામાં છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિઝિક્સમાં માઈનસ (-) એટલે 'દુશ્મની' (વિરુદ્ધ દિશા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "કોઈ પદાર્થની ગતિ ઊર્જામાં 25% ઘટાડો થાય, તો તેના વેગમાનમાં આશરે _____ % ઘટાડો થાય. (5, 13, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 13</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: % ફેરફાર નાનો હોય તો અડધો થાય (25/2 ≈ 12.5), એટલે નજીકનો જવાબ 13%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "કયા પ્રકારના સંઘાતમાં બંને પદાર્થો અથડામણ બાદ એકબીજા સાથે જોડાઈ જાય છે? (સ્થિતિસ્થાપક, અંશતઃ અસ્થિતિસ્થાપક, સંપૂર્ણ અસ્થિતિસ્થાપક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંપૂર્ણ અસ્થિતિસ્થાપક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચોંટી' ગયા એટલે સંપૂર્ણ અસ્થિતિસ્થાપક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "પદાર્થ પર લાગતું બળ શૂન્ય હોય, તો તેનું કાર્ય _____ જ હોય. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: W = F.d. જો F જ ઝીરો હોય તો ગુણાકાર પણ ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "જો બે સદિશો i + j અને i - j હોય, તો તેમનો અદિશ ગુણાકાર _____ થશે. (0, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (1x1) + (1x-1) = 1 - 1 = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "એકમ સમયમાં થતા કાર્યને _____ કહે છે. (બળ, પાવર, ઉર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાવર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમયની સાથે કાર્યનું 'પાવર' પેકેજ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "યાંત્રિક ઊર્જા સંરક્ષણનો નિયમ ક્યારે પાળી શકાય? (બધા જ બળો માટે, માત્ર સંરક્ષી બળો માટે, માત્ર અસંરક્ષી બળો માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માત્ર સંરક્ષી બળો માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષી બળ એટલે 'તિજોરી' જે ઊર્જા સાચવી રાખે!</p></div>"
+    }
+  ]
+}

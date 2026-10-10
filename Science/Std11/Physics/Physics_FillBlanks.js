@@ -1838,3 +1838,371 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "કણોનાં તંત્રો અને ચાકગતિ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જે પદાર્થના કણો વચ્ચેના સાપેક્ષ અંતરો સમય સાથે બદલાતા ન હોય તેને ______ પદાર્થ કહે છે. (સ્થિતિસ્થાપક, દ્રઢ, પ્રવાહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રઢ એટલે 'પથ્થર જેવું મજબૂત', જેના આકારમાં કોઈ ફેરફાર ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શુદ્ધ સ્થાનાંતરિત ગતિમાં દ્રઢ પદાર્થના દરેક કણનો વેગ કોઈપણ ક્ષણે ______ હોય છે. (સમાન, અલગ-અલગ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રેનના ડબ્બાની જેમ, જો આખી ટ્રેન સીધી જાય તો દરેક પેસેન્જરનો વેગ સરખો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દ્રઢ પદાર્થ જ્યારે કોઈ સ્થિર અક્ષને અનુલક્ષીને ભ્રમણ કરતો હોય ત્યારે તેની ગતિને ______ ગતિ કહે છે. (રેખીય, ચાકગતિ, દોલિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાકગતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષને પકડીને ગોળ ફરે એટલે 'ચાક' (જેમ કે કુંભારનો ચાકડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બે સમાન દળના કણોના બનેલા તંત્રનું દ્રવ્યમાન કેન્દ્ર તેમને જોડતી રેખાના ______ પર હોય છે. (પ્રથમ કણ પર, બીજા કણ પર, મધ્યબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યબિંદુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પલ્લું ત્યારે જ સંતુલિત થાય જ્યારે વજન સરખું હોય અને ટેકો બરાબર વચ્ચે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બે કણોના તંત્ર માટે દ્રવ્યમાન કેન્દ્રનું સૂત્ર R = ______ છે. ((m1r1-m2r2)/(m1+m2), (m1r1+m2r2)/(m1+m2), (m1r1+m2r2)/(m1-m2))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (m1r1+m2r2)/(m1+m2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશ કાઢવા માટે ઉપર ગુણાકારનો સરવાળો અને નીચે કુલ દળનો ભાગાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો તંત્ર પર લાગતું કુલ બાહ્ય બળ શૂન્ય હોય, તો દ્રવ્યમાન કેન્દ્રનો વેગ ______ રહે છે. (વધતો, ઘટતો, અચળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = 0 તો a = 0, અને જો પ્રવેગ શૂન્ય તો વેગ અચળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બે સદિશોનો સદિશ ગુણાકાર (Cross Product) એ ______ રાશિ છે. (અદિશ, સદિશ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ ગુણ છે - 'સદિશ ગુણાકાર' એટલે જવાબ હંમેશા સદિશ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સદિશ ગુણાકાર માટે A × B = ______. (B × A, - (B × A), A . B)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> - (B × A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોસ પ્રોડક્ટમાં ક્રમ બદલાય તો દિશા ઉલટાય (માઈનસ લાગે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બે સમાંતર સદિશોનો સદિશ ગુણાકાર ______ થાય છે. (1, શૂન્ય, -1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર એટલે ખૂણો 0°, અને sin(0°) = 0, તેથી ક્રોસ પ્રોડક્ટ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એકમ સદિશો માટે î × ĵ = ______. (k̂, -k̂, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> k̂</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'i-j-k' નું ચક્ર યાદ રાખો. ઘડિયાળની દિશામાં પ્લસ, વિરુદ્ધમાં માઈનસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રેખીય વેગ v અને કોણીય વેગ ω વચ્ચેનો સંબંધ v = ______ છે. (ω / r, r × ω, r . ω)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ω × r (અથવા મૂલ્યમાં v = rω)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'V'iru 'R'ani 'O'm (V=Rω). યાદ રાખો v હંમેશા લંબ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ટૉર્ક τ = ______. (r . F, r × F, v × p)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> r × F</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાજુ ફોર્સ' (r × F). ટૉર્ક હંમેશા અંતર અને બળના ક્રોસ પ્રોડક્ટથી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ટૉર્કનો SI એકમ ______ છે. (N/m, N·m, Joule/s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N·m</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ (N) × અંતર (m) = Nm. કાર્ય જેવો જ એકમ પણ આ સદિશ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કોણીય વેગમાન L = ______. (r × p, r . p, m × v)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> r × p</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાજુ પપ્પા' (r × p). રેખીય વેગમાન p ને ત્રિજ્યા r વડે ક્રોસ ગુણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કોણીય વેગમાનના ફેરફારનો સમય દર ______ જેટલો હોય છે. (બળ, વેગમાન, ટૉર્ક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટૉર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટનનો બીજો નિયમ ચાકગતિ માટે: τ = dL/dt.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો તંત્ર પર લાગતું કુલ બાહ્ય ટૉર્ક શૂન્ય હોય, તો તંત્રનું કુલ ______ સંરક્ષાય છે. (રેખીય વેગમાન, કોણીય વેગમાન, ઉર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય ટૉર્ક નથી તો કોણીય વેગમાન અચળ (L = constant).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દ્રઢ પદાર્થ મિકેનિકલ સંતુલનમાં હોય ત્યારે તેના પર લાગતું કુલ બાહ્ય બળ ______ હોવું જોઈએ. (મહત્તમ, લઘુત્તમ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે 'શાંતિ' - કોઈ બળ જ નહીં, ΣF = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાન મૂલ્યના અને પરસ્પર વિરુદ્ધ દિશાના બે બળોની જોડી કે જેની કાર્યરેખા એક ન હોય તેને ______ કહે છે. (બળયુગ્મ, સમાંતર બળ, લંબ બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળયુગ્મ (Couple)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળ ખોલતી વખતે અંગૂઠો અને આંગળી જે બળ લગાવે તે 'જોડી' એટલે બળયુગ્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કોઈ પદાર્થની જડત્વની ગતિમાત્રા (I) તેના ______ પર આધાર રાખતી નથી. (દળ, અક્ષની પસંદગી, કોણીય વેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વ એ પદાર્થની ભૂમિતિ અને દળનો ગુણધર્મ છે, તેને ગતિ સાથે લેવાદેવા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જડત્વની ગતિમાત્રાનો SI એકમ ______ છે. (kg·m, kg·m², kg/m²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> kg·m²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર I = mr² પરથી m(kg) અને r²(m²).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચક્રાવર્તન ત્રિજ્યા (Radius of Gyration) k = ______. (√(I/m), I/m, mI)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> √(I/m)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I = mk² યાદ રાખો, તો k મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ચાકગતિ ઉર્જા K = ______. (1/2 mv², 1/2 Iω², Iω)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2 Iω²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીયમાં m ની જગ્યાએ I અને v ની જગ્યાએ ω મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "M દળ અને R ત્રિજ્યાની પાતળી રીંગની તેની અક્ષને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ છે. (1/2 MR², MR², 2/5 MR²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> MR²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંગમાં બધું જ દળ કિનારી પર હોય (R અંતરે), એટલે સીધું MR².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "M દળ અને R ત્રિજ્યાની તકતી (Disc) ની તેની અક્ષને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ છે. (MR², 1/2 MR², 2/3 MR²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2 MR²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તકતી ભરેલી હોય એટલે જડત્વ રીંગ કરતા અડધું થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નિશ્ચિત અક્ષને અનુલક્ષીને કોણીય વેગમાન L = ______. (Iω, mv, Iα)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Iω</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p = mv નું ચાકગતિ વર્ઝન L = Iω.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નક્કર ગોળા માટે તેની અક્ષને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ છે. (2/5 MR², 2/3 MR², 7/5 MR²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2/5 MR²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નક્કર' ગોળો એટલે 0.4 MR² (2/5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પોલા ગોળા (Hollow Sphere) માટે જડત્વની ગતિમાત્રા ______ છે. (2/5 MR², 2/3 MR², MR²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2/3 MR²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલો ગોળો એટલે વધારે જડત્વ (2/3 > 2/5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ચાકગતિમાં થતું કાર્ય W = ______. (F.d, τ.θ, P.t)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> τ·θ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીય કાર્ય Fd, ચાકગતિ કાર્ય ટૉર્ક (τ) × કોણીય સ્થાનાંતર (θ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ચાકગતિમાં પાવર P = ______. (τ.ω, τ/ω, Iω)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> τ·ω</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = Fv પરથી ચાકગતિમાં P = τω.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જ્યારે કોઈ કણ વર્તુળાકાર માર્ગે ગતિ કરતો હોય ત્યારે તેનો પ્રવેગ કેન્દ્ર તરફ હોય તો તેને ______ પ્રવેગ કહે છે. (સ્પર્શીય, કેન્દ્રગામી, કોણીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્રગામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેન્દ્ર તરફ ગામી' એટલે કેન્દ્રગામી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રેખીય પ્રવેગ a અને કોણીય પ્રવેગ α વચ્ચેનો સંબંધ a = ______ છે. (r/α, r.α, α/r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> r·α</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = rω ની જેમ જ a = rα.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો m દળનો કણ r ત્રિજ્યાના વર્તુળમાં v વેગથી ગતિ કરે તો તેનું કોણીય વેગમાન L = ______ થાય. (mv/r, mvr, mv²r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> mvr</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L = r × p = r × (mv) = mvr.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ચક્રાવર્તન ત્રિજ્યા k નું મૂલ્ય ______ પર આધારિત છે. (દ્રવ્યમાનના વિતરણ, દળના કુલ મૂલ્ય, વેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રવ્યમાનના વિતરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k એ અંતર બતાવે છે કે દળ અક્ષથી કેટલું ફેલાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સ્થિર અક્ષને અનુલક્ષીને થતી ચાકગતિ માટે ટૉર્ક τ = ______. (Iα, ma, Iω)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Iα</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = ma નું રોટેશનલ ભાઈ τ = Iα.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "એક પદાર્થનું જડત્વનું કેન્દ્ર (CG) અને દ્રવ્યમાન કેન્દ્ર (CM) હંમેશા ______ હોય છે. (સંપાત થાય જ, સમાન ગુરુત્વ ક્ષેત્રમાં સંપાત થાય, અલગ જ હોય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન ગુરુત્વ ક્ષેત્રમાં સંપાત થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો g બધે સરખું હોય, તો જ CM અને CG એક જ પોઈન્ટ પર મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સમાંતર અક્ષ પ્રમેય મુજબ I = ______. (Ic + Ma², Ic - Ma², Ic / Ma²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ic + Ma²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રમાંથી જતી અક્ષ કરતા કોઈ પણ દૂરની અક્ષનું જડત્વ હંમેશા 'વધારે' (પ્લસ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "લંબ અક્ષ પ્રમેય માત્ર ______ પદાર્થો માટે જ સાચું છે. (થ્રી-ડી (3D), સમતલીય (2D), રેખીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતલીય (2D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લંબ અક્ષ' પ્રમેય પતરા (Lamina) જેવા ચપટા પદાર્થો માટે વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લંબ અક્ષ પ્રમેય મુજબ Iz = ______. (Ix + Iy, Ix - Iy, Ix . Iy)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ix + Iy</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટીની બે લંબ અક્ષોનો સરવાળો = સપાટીને લંબ અક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો એક આઈસ સ્કેટર ગતિ દરમિયાન પોતાના હાથ સંકોચે, તો તેનો કોણીય વેગ ______. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L = Iω અચળ. હાથ સંકોચાય એટલે I ઘટે, તો ω વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "દ્રઢ પદાર્થમાં દ્રવ્યમાન કેન્દ્ર હંમેશા પદાર્થની અંદર જ હોય છે. (સાચું, ખોટું, કહી શકાય નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રીંગ (બંગડી) જુઓ, તેનું દ્રવ્યમાન કેન્દ્ર વચ્ચેના ખાલી ભાગમાં હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "બે સમાન સદિશોનો સદિશ ગુણાકાર ______ થાય. (સદિશનો વર્ગ, શૂન્ય સદિશ, એકમ સદિશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય સદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A × A = AA sin(0) = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ચાકગતિમાં 'દળ' ને સમતુલ્ય રાશિ ______ છે. (ટૉર્ક, જડત્વની ગતિમાત્રા, કોણીય વેગમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જડત્વની ગતિમાત્રા (I)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કામ લિનિયરમાં m કરે, તે રોટેશનલમાં I કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "એકમ સદિશો માટે ĵ × k̂ = ______. (î, -î, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> î</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: XYZ (ijk) ક્રમમાં આગળ વધો: jk પછી i આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "શુદ્ધ ચાકગતિ કરતા પદાર્થની ગતિના સમીકરણમાં ω = ω0 + ______. (αt, 1/2 αt², 2αθ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> αt</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = u + at જેવું જ છે, બસ સિમ્બોલ બદલાયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "રેખીય વેગમાનનો ટૉર્ક એટલે ______. (બળ, કોણીય વેગમાન, કાર્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળનો ટૉર્ક' એટલે ટૉર્ક પોતે, પણ 'વેગમાનનો ટૉર્ક' એટલે કોણીય વેગમાન L.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "નિયમિત ત્રિકોણાકાર પ્લેટનું દ્રવ્યમાન કેન્દ્ર તેના ______ પર હોય છે. (શિરોબિંદુ, મધ્યકેન્દ્ર, બાજુના મધ્યબિંદુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યકેન્દ્ર (Centroid)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમિતિ ધરાવતા આકારોમાં CM ભૌમિતિક કેન્દ્ર પર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "ગુરુત્વકેન્દ્ર (CG) એ એવું બિંદુ છે જ્યાં પદાર્થનું કુલ ______ લાગે છે તેમ માની શકાય. (દળ, વજન, વેગમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગુરુત્વ' એટલે ગુરુત્વાકર્ષણ જે વજન (W=mg) સાથે જોડાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "L લંબાઈના સળિયાની તેના કેન્દ્રમાંથી પસાર થતી અને લંબ અક્ષને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ છે. (ML²/12, ML²/3, ML²/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ML²/12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સળિયાના 'બાર' વગાડવાના (છેદમાં 12).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સળિયાના એક છેડામાંથી પસાર થતી અક્ષને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ છે. (ML²/12, ML²/3, ML²/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ML²/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેડા પરથી ફેરવવું અઘરું છે, એટલે જડત્વ વધારે (ML²/3 > ML²/12).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ચાકગતિમાં કોણીય સ્થાનાંતર θ નું સૂત્ર θ = ω0t + ______ છે. (αt, 1/2 αt², αt²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2 αt²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d = ut + 1/2 at² ની કાર્બન કોપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "બળયુગ્મની ચાકમાત્રા (Moment of Couple) ______ પર આધાર રાખતી નથી. (ઉગમબિંદુની પસંદગી, બળોના મૂલ્ય, બળો વચ્ચેના લંબ અંતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉગમબિંદુની પસંદગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપલ (Couple) ગમે ત્યાં હોય, તેમની વચ્ચેનું ખેંચાણ (ટૉર્ક) સરખું જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "જો r = 0 હોય, તો ટૉર્કનું મૂલ્ય ______ થાય. (મહત્તમ, શૂન્ય, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો તમે મિજાગરા (hinge) પર જ ધક્કો મારો તો દરવાજો ખુલે જ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "નક્કર નળાકારની તેની પોતાની અક્ષને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ જેવી જ હોય છે. (રીંગ, તકતી, ગોળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તકતી (Disc)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણી બધી તકતીઓ એકબીજા પર મૂકો તો નળાકાર બને. એટલે સૂત્ર 1/2 MR² જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ચાકગતિમાં કોણીય વેગની દિશા ______ ના નિયમથી મળે છે. (જમણા હાથના સ્ક્રૂ, ડાબા હાથના સ્ક્રૂ, ન્યૂટનના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમણા હાથના સ્ક્રૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિઝિક્સમાં 90% કામ 'સીધા' (જમણા) હાથે જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "સદિશ ગુણાકારમાં î × î = ______. (1, શૂન્ય સદિશ, k̂)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય સદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતે પોતાની સાથે ક્રોસ થાય તો ઝીરો થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "પદાર્થનું દ્રવ્યમાન કેન્દ્ર તેના ______ વિતરણ પર આધાર રાખે છે. (દળ, વેગ, તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ્રવ્યમાન' કેન્દ્ર એટલે દળનું કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ચાકગતિમાં તટસ્થ સંતુલન માટે ટૉર્ક ______ હોવું જોઈએ. (શૂન્ય, અચળ, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે જ નેટ ટૉર્ક = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "એક પાતળી રીંગની તેના વ્યાસને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ છે. (MR², 1/2 MR², 1/4 MR²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2 MR²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ અક્ષ પ્રમેય વાપરો: Iz = Ix + Iy. વ્યાસ Ix = Iy હોવાથી MR² / 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો પદાર્થ અચળ કોણીય વેગથી ગતિ કરતો હોય, તો તેના પર લાગતું ટૉર્ક ______ હોય. (શૂન્ય, અચળ, વધતું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ વેગ = શૂન્ય પ્રવેગ (α=0) = શૂન્ય ટૉર્ક (τ=Iα).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "કોણીય વેગમાનનું પરિમાણિક સૂત્ર ______ છે. ([M¹L²T⁻¹], [M¹L¹T⁻¹], [M¹L²T⁻²])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M¹L²T⁻¹]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L = mvr. m(M¹), v(L¹T⁻¹), r(L¹). ભેગા કરો એટલે 121 (માઈનસ છેલ્લે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "જ્યારે પદાર્થ પર બાહ્ય ટૉર્ક લાગે ત્યારે તેની ______ માં ફેરફાર થાય છે. (દળ, કોણીય વેગમાન, જડત્વની ગતિમાત્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: τ = dL/dt. ટૉર્ક આવે તો વેગમાન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "R ત્રિજ્યાની તકતીના વ્યાસને અનુલક્ષીને જડત્વની ગતિમાત્રા ______ છે. (1/2 MR², 1/4 MR², 1/8 MR²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/4 MR²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તકતીની અક્ષ 1/2 MR², તો વ્યાસ એનું પણ અડધું (1/4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "દ્રવ્યમાન કેન્દ્રના સ્થાન માટે જો ઉગમબિંદુ CM પર જ હોય, તો Σmiri = ______. (M, 0, r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો તમે સેન્ટર પર જ ઊભા હોવ, તો સેન્ટરનું અંતર તમારાથી ઝીરો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પૃથ્વી સૂર્યની આસપાસ ફરે ત્યારે તેનું ______ અચળ રહે છે. (રેખીય વેગ, કોણીય વેગમાન, પ્રવેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રીય બળો (Central forces) માં ટૉર્ક ઝીરો હોય, એટલે L અચળ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "સંઘાત (Collision) દરમિયાન કણોના તંત્રનું કુલ ______ હંમેશા સંરક્ષાય છે. (રેખીય વેગમાન, ગતિ ઉર્જા, વેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય વેગમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથડામણ ગમે તેવી હોય, વેગમાનનો સાથ ક્યારેય ના છોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "ચક્રાવર્તન ત્રિજ્યાનો એકમ ______ છે. (મીટર, મીટર², કિગ્રા-મીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીટર (m)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ 'ત્રિજ્યા' છે, એટલે એકમ તો લંબાઈનો જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "બે સદિશો A અને B માટે |A × B|² + (A . B)² = ______. (A²B², 0, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A²B²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: sin²θ + cos²θ = 1 વાળું ગણિત અહીં કામ કરી ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "ચાકગતિમાં જડત્વની ગતિમાત્રા એ ______ નું માપ છે. (વેગ, ચાકગતિમાં ફેરફારના વિરોધ, બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાકગતિમાં ફેરફારના વિરોધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વ એટલે 'આળસ'. ફેરફાર સામેની આળસ એટલે જડત્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જો કોઈ પદાર્થ પર લાગતા બળોની કાર્યરેખા એક જ બિંદુમાંથી પસાર થતી હોય, તો તેને ______ બળો કહે છે. (સમાંતર, સંગામી, વિષમબળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંગામી (Concurrent)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સંગ' એટલે સાથે, જે બળો એકસાથે એક પોઈન્ટ પર મળે તે સંગામી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "M દળ અને L લંબાઈના ચોરસ પતરાની તેના કેન્દ્રમાંથી પસાર થતી અને લંબ અક્ષને અનુલક્ષીને I = ______. (ML²/6, ML²/12, ML²/3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ML²/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ અક્ષ પ્રમેય: ML²/12 + ML²/12 = ML²/6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "કોણીય પ્રવેગ α નો SI એકમ ______ છે. (rad/s, rad/s², degree/s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> rad/s²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગમાં s, પ્રવેગમાં s² - આ જિંદગીભર યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "રેખીય વેગમાન P અને દ્રવ્યમાન કેન્દ્રના વેગ V વચ્ચેનો સંબંધ P = ______ છે. (MV, M/V, V/M)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> MV</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું તંત્ર જાણે CM પર કેન્દ્રિત હોય તેમ કુલ દળ × CM નો વેગ.</p></div>"
+    }
+  ]
+}

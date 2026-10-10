@@ -2206,3 +2206,371 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ગુરુત્વાકર્ષણ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કેપ્લરનો પ્રથમ નિયમ જણાવે છે કે ગ્રહો સૂર્યની આસપાસ _______ કક્ષામાં ભ્રમણ કરે છે. (વર્તુળાકાર, લંબવૃત્તીય, પરવલયાકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબવૃત્તીય (Elliptical). કેપ્લરના પ્રથમ નિયમ મુજબ સૂર્ય લંબવૃત્તના એક કેન્દ્ર (focus) પર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'પ્રથમ એટલે પથ' - અને પથ કેવો? લંબવૃત્તીય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કેપ્લરનો બીજો નિયમ (ક્ષેત્રીય વેગનો નિયમ) એ _______ ના સંરક્ષણના નિયમનું પરિણામ છે. (રેખીય વેગમાન, કોણીય વેગમાન, ઉર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગમાન. કેન્દ્રીય બળ હેઠળ ગતિ કરતા કણોનું કોણીય વેગમાન હંમેશા અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખજો: બીજો નિયમ = બ (બીજો) - ક (કોણીય વેગમાન). (B-K Connection)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કેપ્લરના ત્રીજા નિયમ મુજબ, ગ્રહના આવર્તકાળનો વર્ગ તેની કક્ષાની અર્ધ-દીર્ધ અક્ષના _______ ના સમપ્રમાણમાં હોય છે. (વર્ગ, ઘન, વર્ગમૂળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘન. સમીકરણ: T² ∝ a³.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 2-3 નો રેશિયો: T નો 'બે' ઘાત અને R (અથવા a) નો 'ત્રણ' ઘાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુરુત્વાકર્ષણનો સાર્વત્રિક નિયમ _______ નામના વૈજ્ઞાનિકે આપ્યો હતો. (કેપ્લર, ન્યૂટન, ગેલિલિયો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યૂટન. ન્યૂટને દર્શાવ્યું કે બ્રહ્માંડના દરેક કણો એકબીજા પર આકર્ષણ બળ લગાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફરજન પડ્યું એટલે ન્યૂટન જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સાર્વત્રિક ગુરુત્વાકર્ષી અચળાંક G નું મૂલ્ય _______ છે. (6.67 × 10⁻¹¹, 9.8, 6.62 × 10⁻³⁴)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6.67 × 10⁻¹¹ N m²/kg².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G એટલે 'Grand' (મોટી) કિંમત પણ પાવર -11 (નાની) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગુરુત્વાકર્ષણ બળ એ હંમેશા _______ પ્રકારનું બળ છે. (આકર્ષી, અપાકર્ષી, બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકર્ષી. દ્રવ્યમાન ધરાવતા પદાર્થો ક્યારેય એકબીજાને અપાકર્ષતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી ક્યારેય તમને ઉપર ફેંકતી નથી, હંમેશા નીચે ખેંચે છે (આકર્ષણ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સાર્વત્રિક ગુરુત્વાકર્ષી અચળાંક G નું પારિમાણિક સૂત્ર _______ છે. ([M⁻¹L³T⁻²], [M¹L³T⁻²], [M⁻¹L²T⁻³])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M⁻¹L³T⁻²]. F = G m₁m₂ / r² પરથી G ને કર્તા બનાવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ કોડ: '-132' (M-1, L3, T-2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો બે પદાર્થો વચ્ચેનું અંતર બમણું કરવામાં આવે, તો તેમની વચ્ચેનું ગુરુત્વાકર્ષણ બળ _______ થશે. (બમણું, અડધું, ચોથા ભાગનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોથા ભાગનું. F ∝ 1/r², જો r -> 2r થાય તો F -> F/4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર ડબલ (2), બળ એના વર્ગના વ્યસ્ત પ્રમાણમાં (1/2² = 1/4)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પૃથ્વીની સપાટી પર ગુરુત્વાકર્ષી પ્રવેગ g નું મૂલ્ય _______ m/s² છે. (9.8, 1.6, 11.2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9.8 m/s². આ પૃથ્વીની સપાટી પરની સરેરાશ કિંમત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નવ-આઠ' યાદ રાખો પૃથ્વી માટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પૃથ્વીના કેન્દ્ર પર ગુરુત્વાકર્ષી પ્રવેગ g નું મૂલ્ય _______ હોય છે. (મહત્તમ, શૂન્ય, 9.8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય. પૃથ્વીના કેન્દ્ર પર બધી બાજુથી સમાન ખેંચાણને લીધે પરિણામી g શૂન્ય થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટરમાં કાંઈ ન હોય (Zero weight at center)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પૃથ્વીની સપાટીથી ઊંચાઈ (h) પર જતાં g નું મૂલ્ય _______ છે. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે. g(h) = g(1 - 2h/R) સૂત્ર મુજબ ઊંચાઈ વધતા g ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટીથી છેટા (દૂર) જાઓ એટલે પૃથ્વીનો પ્રેમ (gravity) ઓછો જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પૃથ્વીની અંદર ઊંડાઈ (d) પર જતાં g નું મૂલ્ય _______ છે. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે. g(d) = g(1 - d/R) સૂત્ર મુજબ ઊંડાઈ વધતા પણ g ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી (Surface) પર જ 'રાજા' (Maximum), ઉપર કે નીચે જાવ તો 'ગરીબ' (ઘટે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નિષ્ક્રમણ ઝડપ (Escape Speed) પદાર્થના દળ પર _______ છે. (આધારિત, આધારિત નથી, સમપ્રમાણમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધારિત નથી. Ve = √(2GM/R) સૂત્રમાં પદાર્થનું દળ 'm' આવતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથી હોય કે કીડી, જો પૃથ્વીની બહાર જવું હોય તો સ્પીડ તો સરખી જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પૃથ્વી માટે નિષ્ક્રમણ ઝડપનું મૂલ્ય આશરે _______ km/s છે. (11.2, 9.8, 8.0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 11.2 km/s. પૃથ્વીના ગુરુત્વાકર્ષણમાંથી મુક્ત થવા આ લઘુત્તમ ઝડપ જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 11-2 = પૃથ્વીથી ટા-ટા બાય-બાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભૂ-સ્થિર ઉપગ્રહ (Geostationary satellite) નો આવર્તકાળ _______ કલાક હોય છે. (12, 24, 365)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24 કલાક. પૃથ્વીની પોતાની ધરી પરના ભ્રમણકાળ જેટલો જ સમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ 'સ્થિર' છે, એટલે પૃથ્વી ભેગો જ ફરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગુરુત્વાકર્ષી સ્થિતિમાન (Gravitational Potential) નું મૂલ્ય હંમેશા _______ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ. કારણ કે અનંત અંતરે સ્થિતિમાન શૂન્ય ધારવામાં આવે છે અને બળ આકર્ષી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીના દેવામાં (Debt) હોઈએ એટલે ઋણ (-) નિશાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગુરુત્વાકર્ષી સ્થિતિ ઉર્જાનું સૂત્ર U = _______ છે. (-GmM/r, GmM/r, -GmM/r²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -GmM/r. જ્યાં r એ બે દળો વચ્ચેનું અંતર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર (r) નો વર્ગ નથી આવતો, ખાલી r આવે છે. (બળમાં વર્ગ હોય, ઉર્જામાં નહીં!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પૃથ્વીની આસપાસ ફરતા ઉપગ્રહની કુલ ઉર્જા _______ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ. ઋણ કુલ ઉર્જા દર્શાવે છે કે ઉપગ્રહ પૃથ્વી સાથે બંધિત (Bounded) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઉર્જા ધન થઈ જાય, તો ઉપગ્રહ ભાગી જાય (Escape)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધ્રુવીય ઉપગ્રહો (Polar Satellites) પૃથ્વીની સપાટીથી આશરે _______ km ઊંચાઈએ હોય છે. (36000, 500-800, 10000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 500-800 km. આ ઉપગ્રહો નીચી કક્ષામાં ભ્રમણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલર એટલે પાડોશી (નજીક), જીઓ એટલે જંગલ (દૂર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભૂ-સ્થિર ઉપગ્રહની પૃથ્વીની સપાટીથી ઊંચાઈ આશરે _______ km હોય છે. (6400, 35800, 11.2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 35800 km (લગભગ 36000 km).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '36 નો આંકડો' - આટલો દૂર હોય ત્યારે જ તે સ્થિર દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચંદ્ર પર ગુરુત્વાકર્ષી પ્રવેગ g નું મૂલ્ય પૃથ્વીના g ના મૂલ્ય કરતા _______ ભાગનું છે. (બીજા, છઠ્ઠા, દસમા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છઠ્ઠા. g_moon ≈ g_earth / 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદ્ર પર છગ્ગો (6) મારો તો બહુ દૂર જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગુરુત્વાકર્ષી સ્થિતિ ઉર્જા અનંત અંતરે _______ લેવામાં આવે છે. (મહત્તમ, લઘુત્તમ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય. સંદર્ભ સપાટી અનંતે શૂન્ય માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનંત એટલે જેનો કોઈ અંત નથી, ત્યાં બળ પણ નથી એટલે ઉર્જા 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પદાર્થનું વજન પૃથ્વીના કયા ભાગ પર મહત્તમ હોય છે? (વિષુવવૃત્ત, ધ્રુવ પ્રદેશ, કેન્દ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્રુવ પ્રદેશ (Poles). ધ્રુવો પાસે પૃથ્વીની ત્રિજ્યા ઓછી હોવાથી g મહત્તમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુવ (Poles) = પાતળી પૃથ્વી = વધુ Gravity!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નિષ્ક્રમણ વેગ અને કક્ષીય વેગ વચ્ચેનો સંબંધ v_e = _______ v_o છે. (√2, 2, √3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> √2. v_e = √2 * v_o.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 41% વધારો કરો (√2 = 1.41) એટલે પદાર્થ છૂટી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પૃથ્વીની સપાટી નજીક ભ્રમણ કરતા ઉપગ્રહનો કક્ષીય વેગ આશરે _______ km/s હોય છે. (11.2, 7.9, 9.8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7.9 km/s (લગભગ 8 km/s).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 ની આસપાસ ફરો, 11 એ ભાગી જાઓ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગુરુત્વાકર્ષણ બળ એ _______ બળ છે. (સંરક્ષી, અસંરક્ષી, ઘર્ષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંરક્ષી (Conservative). તેના દ્વારા થતું કાર્ય માર્ગ પર આધાર રાખતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી બળો (ગુરુત્વ, સ્થિત-વિદ્યુત) હંમેશા સંસ્કારી (સંરક્ષી) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કેપ્લરના ત્રીજા નિયમમાં T² = K r³ માં K નો એકમ _______ થાય. (s²/m³, m³/s², s/m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> s²/m³. K = T²/r³ પરથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું સૂત્ર, તેનો જ એકમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પદાર્થને પૃથ્વીના કેન્દ્ર પર લઈ જવામાં આવે ત્યારે તેનું દળ _______ છે. (શૂન્ય થાય, બદલાતું નથી, અનંત થાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદલાતું નથી. દળ એ દ્રવ્યનો જથ્થો છે જે સ્થાનાંતર સાથે બદલાતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ (Mass) વફાદાર છે, ક્યારેય બદલાય નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પદાર્થને પૃથ્વીના કેન્દ્ર પર લઈ જવામાં આવે ત્યારે તેનું વજન _______ થાય છે. (શૂન્ય, સમાન, મહત્તમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય. વજન W = mg અને કેન્દ્ર પર g = 0 હોવાથી W = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન (Weight) બેવફા છે, જગ્યા બદલાય એટલે બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બે બિંદુવત દળો વચ્ચે લાગતું ગુરુત્વાકર્ષણ બળ તેમની વચ્ચેના માધ્યમ પર _______ છે. (આધાર રાખે છે, આધાર રાખતું નથી, માધ્યમના સમપ્રમાણમાં છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધાર રાખતું નથી. તે સાર્વત્રિક બળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચે પાણી હોય કે હવા, ન્યૂટનનો નિયમ નોર્મલ જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પૃથ્વીની સરેરાશ ઘનતા ρ = _______. (3g/4πRG, 4πRG/3g, g/RG)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3g/4πRG. g = G(4/3 πR³ρ)/R² સૂત્ર પરથી ρ ને કર્તા બનાવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનતામાં 'ત્રગડો' (3) ઉપર આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગુરુત્વાકર્ષી પ્રવેગ g નું મૂલ્ય વિષુવવૃત્ત પર ધ્રુવ પ્રદેશ કરતા _______ હોય છે. (વધારે, ઓછું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછું. વિષુવવૃત્ત પર પૃથ્વીની ત્રિજ્યા વધુ હોવાથી g ઓછું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષુવવૃત્ત એટલે 'પેટ' ફૂલેલું -> સેન્ટરથી દૂર -> ઓછી Gravity!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ગુરુત્વાકર્ષણનો સાર્વત્રિક નિયમ કયા અંતરો માટે સાચો છે? (માત્ર આંતર-પરમાણ્વિક, માત્ર અવકાશી, બધા જ અંતરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બધા જ અંતરો. તે સાર્વત્રિક નિયમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ 'સાર્વત્રિક' છે, તો બધે જ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "બે પદાર્થો વચ્ચેનું અંતર અડધું કરવાથી બળ _______ ગણું થશે. (2, 4, 1/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 ગણું. F ∝ 1/r², (1/2)² નો વ્યસ્ત એટલે 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર અડધું (1/2) -> બળ ચાર ગણું (4)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નિષ્ક્રમણ ઝડપ v_e નું સૂત્ર _______ છે. (√(GM/R), √(2GM/R), √(GM/2R))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> √(2GM/R). અથવા √(2gR).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષ્ક્રમણ માટે '2' (બે) ગણી તાકાત જોઈએ (√2)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જો પૃથ્વી પોતાની ધરી પર ફરતી બંધ થઈ જાય, તો વિષુવવૃત્ત પર g નું મૂલ્ય _______ . (વધશે, ઘટશે, અચળ રહેશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધશે. કેન્દ્રત્યાગી બળની અસર નાબૂદ થતાં પરિણામી g વધશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભ્રમણ અટકે એટલે ખેંચાણ (g) વધી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઉપગ્રહની કુલ ઉર્જા E = _______. (-K, K, -2K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -K. કુલ ઉર્જા એ ગતિ ઉર્જાના ઋણ મૂલ્ય જેટલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ રિલેશન: E = -K = U/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઉપગ્રહની સ્થિતિ ઉર્જા U અને ગતિ ઉર્જા K વચ્ચેનો સંબંધ U = _______ છે. (-K, -2K, 2K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -2K. સ્થિતિ ઉર્જાનું માન ગતિ ઉર્જા કરતા બમણું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'U' મોટો છે, પણ ઋણ (-2)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પૃથ્વીની સપાટીથી કેટલી ઊંચાઈએ g નું મૂલ્ય અડધું (g/2) થાય? (R, (√2-1)R, R/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (√2-1)R. g' = gR²/(R+h)² સૂત્ર પરથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √2 - 1 યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "કેપ્લરનો કયો નિયમ 'કક્ષાઓના નિયમ' તરીકે ઓળખાય છે? (પ્રથમ, દ્વિતીય, તૃતીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ. કારણ કે તે ગ્રહોની કક્ષાનો આકાર નક્કી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' થી પ્રથમ, 'પ' થી પથ (કક્ષા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કેપ્લરનો બીજો નિયમ શું અચળ રહેવાનું સૂચવે છે? (રેખીય વેગ, ક્ષેત્રીય વેગ, કોણીય પ્રવેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષેત્રીય વેગ (Areal Velocity). dA/dt = અચળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજો નિયમ = બહુ ક્ષેત્રફળ (Area) કાપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "ગુરુત્વાકર્ષી સ્થિતિમાનનો SI એકમ _______ છે. (J/kg, J/m, N/kg)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J/kg. સ્થિતિમાન V = W/m પરથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિતિમાન એટલે ઉર્જા પ્રતિ દળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "પદાર્થનો કક્ષીય વેગ √ (gR) હોય ત્યારે તે પૃથ્વીની _______ ભ્રમણ કરે છે. (સપાટીની અત્યંત નજીક, ખૂબ દૂર, કેન્દ્રમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સપાટીની અત્યંત નજીક. જ્યારે h ≈ 0 લેવામાં આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: h ગણવાનો જ નહીં, એટલે સપાટી પર જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પૃથ્વીની સપાટીથી r અંતરે ગુરુત્વાકર્ષી પ્રવેગ g' ∝ _______. (r, 1/r², 1/r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/r². વ્યસ્ત વર્ગનો નિયમ પૃથ્વીની બહારના બિંદુ માટે લાગુ પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાર જાઓ એટલે 1/r²!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "પૃથ્વીની અંદર r અંતરે (જ્યાં r < R) ગુરુત્વાકર્ષી પ્રવેગ g' ∝ _______. (r, 1/r, 1/r²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> r. પૃથ્વીની અંદર g અંતરના સમપ્રમાણમાં બદલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર 'સીધો' સંબંધ (g ∝ r), બહાર 'વર્ગનો વ્યસ્ત' (1/r²)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ગુરુત્વાકર્ષી સ્થિતિમાનનું પારિમાણિક સૂત્ર _______ છે. ([L²T⁻²], [ML²T⁻²], [M⁻¹L²T⁻²])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [L²T⁻²]. M¹L²T⁻² / M¹ = L²T⁻².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ ઉડી ગયું, એટલે M0 આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જો પૃથ્વીનું દળ અને ત્રિજ્યા બંને બમણા કરવામાં આવે તો g નું મૂલ્ય _______ . (બમણું થશે, અડધું થશે, ચોથા ભાગનું થશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડધું થશે. g = GM/R² માં M->2M અને R->2R મુકતા, g' = G(2M)/(2R)² = 2/4 * g = g/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર 2, નીચે 4 (2²), એટલે 2/4 = 1/2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ચંદ્ર પર વાતાવરણ નથી કારણ કે વાયુના અણુઓનો વેગ તેમના નિષ્ક્રમણ વેગ કરતા _______ છે. (ઓછો, વધારે, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે. નિષ્ક્રમણ વેગ ઓછો હોવાથી વાયુઓ પકડી શકાતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેસ ફાસ્ટ છે અને ગ્રેવિટી વીક (weak) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઉપગ્રહમાં રહેલા પદાર્થની 'ભારહીનતા' (Weightlessness) નું કારણ _______ છે. (શૂન્ય દળ, મુક્ત પતન, શૂન્ય વેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુક્ત પતન (Free fall). ઉપગ્રહ અને તેની અંદરનો પદાર્થ બંને સમાન પ્રવેગથી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે કોઈ આધાર (support) નથી એટલે વજન નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "G અને g વચ્ચેનો સંબંધ દર્શાવતું સાચું સૂત્ર g = _______ છે. (GM/R², GR²/M, GMR²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> GM/R².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: g માટે 'મોટું M' અને 'નીચે R²'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "સૂર્યથી અંતર વધતા ગ્રહનો કક્ષીય વેગ _______ છે. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે. v ∝ 1/√r.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યથી દૂર જાવ એટલે આળસ ચડે (વેગ ઘટે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "ગુરુત્વાકર્ષી ક્ષેત્રની તીવ્રતાનો એકમ _______ જેવો જ છે. (પ્રવેગ, બળ, ઉર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવેગ (m/s²). E = F/m = g.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્રતા એટલે જ g!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ન્યૂટનના ગુરુત્વાકર્ષણના નિયમ મુજબ F = G m₁m₂/r² માં 'r' એ _______ વચ્ચેનું અંતર છે. (સપાટીઓ, કેન્દ્રો, નજીકના બિંદુઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્રો. ગુરુત્વાકર્ષણ બળ કેન્દ્રીય બળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ હંમેશા 'દિલ' (કેન્દ્ર) થી લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "પૃથ્વીની સપાટી પરથી પદાર્થને ઉપર ફેંકતા તેની કુલ ઉર્જા _______ રહે છે. (અચળ, વધતી, ઘટતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ. ઉર્જા સંરક્ષણના નિયમ મુજબ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષી બળ હોય ત્યાં કુલ ઉર્જામાં કોઈ 'ચેડા' (ફેરફાર) ન થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ઉપગ્રહનો કક્ષીય વેગ પૃથ્વીની ત્રિજ્યા (R) ના _______ ના વ્યસ્ત પ્રમાણમાં હોય છે. (વર્ગ, વર્ગમૂળ, ઘન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ગમૂળ. v_o = √(GM/R).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂટ (Root) માં R છે, એટલે વર્ગમૂળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ગુરુત્વાકર્ષી અચળાંક G નું મૂલ્ય પ્રયોગશાળામાં સૌપ્રથમ કોણે શોધ્યું હતું? (ન્યૂટન, કેવીન્ડીશ, કેપ્લર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેનરી કેવીન્ડીશ (Cavendish).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G ની 'ગણતરી' કેવીન્ડીશે કરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પૃથ્વીના કેન્દ્રથી અંતર વધતા ગુરુત્વાકર્ષી સ્થિતિમાન _______ છે. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે. સ્થિતિમાન ઋણ હોય છે (દા.ત. -10 થી -5 થવું એટલે વધવું કહેવાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીથી દૂર જાઓ એટલે દેવું (ઋણ ભાર) ઓછું થાય, એટલે કે મૂલ્ય વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "એક ગ્રહનું દળ પૃથ્વી કરતા 9 ગણું છે, તો તેની સપાટી પર g નું મૂલ્ય પૃથ્વી કરતા _______ ગણું થશે (જો ત્રિજ્યા સમાન હોય). (9, 3, 81)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9 ગણું. g ∝ M (જો R અચળ હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ વધે તો g વધે, જે તેટલું જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો પૃથ્વીની ત્રિજ્યા 1% ઘટે (દળ અચળ રહે), તો g નું મૂલ્ય આશરે _______ . (1% વધશે, 2% વધશે, 2% ઘટશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2% વધશે. Δg/g = -2 ΔR/R (ત્રિજ્યા ઘટે તો g વધે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવર (2) આગળ લાવો! 1% * 2 = 2%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "કોઈપણ પદાર્થ માટે નિષ્ક્રમણ વેગ v_e અને પૃથ્વીની ઘનતા ρ વચ્ચેનો સંબંધ v_e ∝ _______ છે. (ρ, √ρ, ρ²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> √ρ. v_e = R√(8πGρ/3).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા ભાગના વેગ √ (વર્ગમૂળ) માં જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ગુરુત્વાકર્ષી બળ કયા માધ્યમમાં સૌથી વધુ હોય? (હવા, શૂન્યાવકાશ, ગમે તે માધ્યમમાં સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગમે તે માધ્યમમાં સમાન. તે માધ્યમથી સ્વતંત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટન માધ્યમ જોઈને બળ નથી લગાડતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "પૃથ્વીની આસપાસ ભ્રમણ કરતા પદાર્થનો આવર્તકાળ T ∝ _______. (r, r^{3/2}, r²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> r^{3/2}. T² ∝ r³ પરથી T ∝ r^{3/2}.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T² = r³ તો T = r^{3/2}!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ઉપગ્રહની બંધન ઉર્જા (Binding Energy) હંમેશા _______ હોય છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન. આ તે ઉર્જા છે જે પદાર્થને મુક્ત કરવા આપવી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છોડાવવા માટે હંમેશા ઉર્જા આપવી પડે (ધન)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પૃથ્વીની સપાટીથી h ઊંચાઈએ g નું મૂલ્ય g_h = g [1 - _______]. (h/R, 2h/R, h/2R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2h/R. આ સૂત્ર માત્ર h << R માટે જ સાચું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ (Height) માં 'બમણો' (2) ઘટાડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "પૃથ્વીની સપાટીથી d ઊંડાઈએ g નું મૂલ્ય g_d = g [1 - _______]. (d/R, 2d/R, d/2R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> d/R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંડાઈ (Depth) માં ઘટાડો 'સિંગલ' (1) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "પૃથ્વીની સપાટી પર સ્થિતિ ઉર્જા અને h ઊંચાઈએ સ્થિતિ ઉર્જાનો તફાવત (જ્યારે h << R) _______ છે. (mgh, 2mgh, mgh/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> mgh. આપણે વ્યવહારમાં આ જ સૂત્ર વાપરીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદું અને સીધું mgh!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "પૃથ્વીની સપાટી પર ગુરુત્વાકર્ષી ક્ષેત્રની દિશા હંમેશા _______ હોય છે. (કેન્દ્ર તરફ, કેન્દ્રથી દૂર, સ્પર્શકની દિશામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્ર તરફ. આકર્ષણ બળ હોવાથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી આપણને અંદર ખેંચે, બહાર નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "કેપ્લરના ત્રીજા નિયમમાં આવતો અચળાંક K માત્ર _______ પર આધારિત છે. (ગ્રહના દળ, સૂર્યના દળ, ઉપગ્રહના દળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યના દળ (M_s). K = 4π² / GM_s.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઈન બોસ (સૂર્ય) જ નિયમ નક્કી કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "ગુરુત્વાકર્ષી અચળાંક G નું મૂલ્ય પૃથ્વી અને ચંદ્ર માટે _______ છે. (સમાન, અલગ-અલગ, અચોક્કસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન. G એ સાર્વત્રિક અચળાંક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' એટલે Global/Universal, ક્યાંય ન બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "પૃથ્વીની સપાટીથી r = 2R અંતરે g નું મૂલ્ય _______ થશે. (g/2, g/4, g/9)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> g/4. g ∝ 1/r² હોવાથી (2)² = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર ડબલ, g ચોથા ભાગનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "જો પૃથ્વી સંકોચાઈને અડધી ત્રિજ્યાની થાય (દળ અચળ), તો દિવસ _______ કલાકનો થશે. (6, 12, 48)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6 કલાક. કોણીય વેગમાન સંરક્ષણ I₁ω₁ = I₂ω₂ પરથી T₂ = T₁(R₂/R₁)² = 24 * (1/2)² = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિજ્યા અડધી (1/2), તો ટાઈમ ચોથા ભાગનો (1/4)! 24/4 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "ગુરુત્વાકર્ષી બળ એ કેવું બળ છે? (લાંબા અંતરનું, ટૂંકા અંતરનું, સંપર્ક બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાંબા અંતરનું (Long range force). તે અનંત અંતર સુધી લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય-પૃથ્વી કેટલા દૂર છે, તોય બળ લાગે જ છે ને!</p></div>"
+    }
+  ]
+}

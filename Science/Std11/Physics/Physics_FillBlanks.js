@@ -2574,3 +2574,366 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ઘન પદાર્થોના યાંત્રિક ગુણધર્મો",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બાહ્ય બળ દૂર કરવા છતાં જે પદાર્થ પોતાની મૂળ સ્થિતિ પ્રાપ્ત કરતો નથી, તેને ______ પદાર્થ કહે છે. (સ્થિતિસ્થાપક, પ્લાસ્ટિક, દ્રઢ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસ્ટિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક એટલે 'પરમેનન્ટ' ફેરફાર. મૂળ સ્થિતિમાં પાછા ન આવે તે પ્લાસ્ટિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એકમ ક્ષેત્રફળ દીઠ ઉદ્ભવતા પુનઃસ્થાપક બળને ______ કહે છે. (વિકૃતિ, પ્રતિબળ, મોડ્યુલસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિબળ (Stress)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિબળ = બળ / ક્ષેત્રફળ (P = F/A જેવું જ). જ્યારે પદાર્થ પર 'દબાણ' (બળ) આવે ત્યારે 'પ્રતિબળ' ઉદ્ભવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્રતિબળનો SI એકમ ______ છે. (N/m, N/m², N-m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N/m² અથવા પાસ્કલ (Pa)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિબળ એટલે દબાણનો ભાઈ. દબાણનો એકમ N/m² તો પ્રતિબળનો પણ એ જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પરિમાણમાં થતો ફેરફાર અને મૂળ પરિમાણના ગુણોત્તરને ______ કહે છે. (પ્રતિબળ, વિકૃતિ, યંગ મોડ્યુલસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિકૃતિ (Strain)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકૃતિ = ફેરફાર / મૂળ. આ એક 'ગુણોત્તર' છે, એટલે તેને કોઈ એકમ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિકૃતિને ______ એકમ હોય છે. (મીટર, ન્યુટન, એકમરહિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમરહિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન રાશિઓનો ગુણોત્તર હંમેશા 'એકમરહિત' અને 'પરિમાણરહિત' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો પદાર્થની લંબાઈમાં વધારો થાય, તો ઉદ્ભવતી વિકૃતિને ______ વિકૃતિ કહે છે. (કદ, પ્રતાન, આકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતાન (Longitudinal)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્ર' થી પ્રસરે (લંબાઈ વધે) તેને 'પ્રતાન' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જ્યારે પદાર્થ પર લંબરૂપે બળ લગાડવામાં આવે ત્યારે ઉદ્ભવતા પ્રતિબળને ______ પ્રતિબળ કહે છે. (સ્પર્શીય, લંબ, આકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબ (Normal Stress)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ બળ = લંબ પ્રતિબળ. તેમાં તણાવ અને દાબીય બંનેનો સમાવેશ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "હુક્કનો નિયમ ______ મર્યાદામાં જ સાચો છે. (સ્થિતિસ્થાપકતા, પ્લાસ્ટિસિટી, બ્રેકિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપકતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુક્ક કાકા કહે છે: 'લિમિટમાં રહો તો જ પ્રતિબળ ∝ વિકૃતિ થશે!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રતાન પ્રતિબળ અને પ્રતાન વિકૃતિના ગુણોત્તરને ______ કહે છે. (બલ્ક મોડ્યુલસ, યંગ મોડ્યુલસ, મોડ્યુલસ ઓફ રિજિડિટી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યંગ મોડ્યુલસ (Y)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y = લંબાઈનો લોચો. લંબાઈની વાત આવે ત્યારે હંમેશા 'યંગ' (Young) જ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રબર કરતાં સ્ટીલ ______ સ્થિતિસ્થાપક છે. (ઓછું, વધુ, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદાર્થને ખેંચવા માટે વધુ બળ જોઈએ તે વધુ સ્થિતિસ્થાપક. સ્ટીલ > રબર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આકાર પ્રતિબળ અને આકાર વિકૃતિના ગુણોત્તરને ______ કહે છે. (Y, G, B)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> G (મોડ્યુલસ ઓફ રિજિડિટી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર બદલવો એટલે 'G' (Shear Modulus). 'G' for Geometric change.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "હાઇડ્રોલિક પ્રતિબળ અને કદ વિકૃતિના ગુણોત્તરને ______ કહે છે. (યંગ મોડ્યુલસ, બલ્ક મોડ્યુલસ, દબનીયતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બલ્ક મોડ્યુલસ (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B for Bulk, B for Box (3D/કદ). કદમાં ફેરફાર એટલે બલ્ક મોડ્યુલસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બલ્ક મોડ્યુલસના વ્યસ્તને ______ કહે છે. (દબનીયતા, તણાવ, જડતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દબનીયતા (Compressibility)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k = 1/B. પદાર્થ કેટલો દબાઈ શકે તે એટલે તેની દબનીયતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દબનીયતાનો SI એકમ ______ છે. (Pa, Pa⁻¹, N/m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Pa⁻¹ અથવા m²/N</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલ્ક મોડ્યુલસનો ઉલટો એકમ. Pa નું ઉલટું Pa⁻¹.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પારિમાણિક રીતે પ્રતિબળ ______ ને સમાન છે. (બળ, ઉર્જા, દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દબાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેના સૂત્ર F/A છે, એટલે પરિમાણ [M¹ L⁻¹ T⁻²] સરખા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પ્રતિબળ અને વિકૃતિના આલેખમાં જે બિંદુએ પદાર્થ તૂટી જાય તેને ______ બિંદુ કહે છે. (સ્થિતિસ્થાપક, યીલ્ડ, ફ્રેક્ચર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્રેક્ચર (Fracture)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાડકું તૂટે તો ફ્રેક્ચર કહેવાય, પદાર્થ તૂટે તો પણ ફ્રેક્ચર પોઈન્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જે પદાર્થોને ખેંચીને તાર બનાવી શકાય તેને ______ પદાર્થો કહે છે. (બ્રિટલ, ડકટાઇલ, ઇલાસ્ટોમર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડકટાઇલ (Ductile - તણાવપ્રભવ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડકટાઇલ પદાર્થોમાં યીલ્ડ બિંદુ અને ફ્રેક્ચર બિંદુ વચ્ચે અંતર વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જે પદાર્થો પ્રતિબળ લગાડતા તરત જ તૂટી જાય તેને ______ પદાર્થો કહે છે. (ડકટાઇલ, બ્રિટલ, સ્થિતિસ્થાપક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્રિટલ (Brittle - બરડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચ જેવા પદાર્થો 'બ્રિટલ' હોય. ખેંચાય નહીં, સીધા તૂટી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પોઈસન રેશિયો (Poisson's ratio) એ ______ અને પ્રતાન વિકૃતિનો ગુણોત્તર છે. (કદ વિકૃતિ, આકાર વિકૃતિ, પાશ્વિય વિકૃતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાશ્વિય વિકૃતિ (Lateral Strain)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાશ્વિય / પ્રતાન = પોઈસન. લંબાઈ વધે તો જાડાઈ ઘટે, એ જ પોઈસન રેશિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પ્રાયોગિક રીતે પોઈસન રેશિયોનું મૂલ્ય ______ ની વચ્ચે હોય છે. (0 થી 0.5, 1 થી 2, -1 થી 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0 થી 0.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યવહારમાં પોઈસન રેશિયો ક્યારેય 0.5 થી વધે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખેંચાયેલા તારમાં સંગ્રહિત સ્થિતિસ્થાપક ઉર્જા ઘનતા = 1/2 × પ્રતિબળ × ______. (બળ, વિકૃતિ, લંબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિકૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા ઘનતા u = 1/2 × σ × ε. અડધું પ્રતિબળ, અડધી વિકૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સ્થિતિસ્થાપક અંક (Modulus) નો એકમ ______ જેવો જ હોય છે. (વિકૃતિ, પ્રતિબળ, કાર્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિબળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોડ્યુલસ = પ્રતિબળ / વિકૃતિ. વિકૃતિ એકમરહિત છે, એટલે મોડ્યુલસ = પ્રતિબળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પ્રવાહીઓ માટે યંગ મોડ્યુલસનું મૂલ્ય ______ હોય છે. (અનંત, શૂન્ય, એક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહીને ખેંચીને 'તાર' ન બનાવાય, એટલે તેનો યંગ મોડ્યુલસ શૂન્ય ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એલ્યુમિનિયમ કરતાં સ્ટીલનો યંગ મોડ્યુલસ ______ હોય છે. (વધારે, ઓછો, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીલ સૌથી મજબૂત અને વધુ સ્થિતિસ્થાપક છે (Y_steel ≈ 2 × 10¹¹ Pa).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો તારની ત્રિજ્યા અડધી કરવામાં આવે, તો તેના યંગ મોડ્યુલસમાં ______ ફેરફાર થશે. (બમણો થશે, અડધો થશે, કોઈ ફેરફાર નહીં થાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ ફેરફાર નહીં થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યંગ મોડ્યુલસ દ્રવ્યનો ગુણધર્મ છે, તે પરિમાણ (લંબાઈ કે ત્રિજ્યા) પર આધાર રાખતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કદ વિકૃતિ ______ પદાર્થોમાં જોવા મળે છે. (માત્ર ઘન, માત્ર પ્રવાહી, ઘન, પ્રવાહી અને વાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘન, પ્રવાહી અને વાયુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ (Volume) તો ત્રણેય અવસ્થા પાસે હોય, એટલે કદ વિકૃતિ ત્રણેયમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંપૂર્ણ દ્રઢ પદાર્થ માટે યંગ મોડ્યુલસ ______ હોય છે. (0, 1, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રઢ પદાર્થમાં વિકૃતિ (ε) = 0. હવે Y = σ/0 = અનંત (∞).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "તારને ખેંચતા તેની લંબાઈમાં 0.1% વધારો થાય, તો પ્રતાન વિકૃતિ ______ થાય. (0.1, 0.01, 0.001)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.001</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.1% = 0.1 / 100 = 0.001.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બલ્ક મોડ્યુલસનું મૂલ્ય હંમેશા ______ હોય છે. (ઋણ, ધન, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર B = -P/(ΔV/V) માં ઋણ નિશાની એટલે જ છે કે દબાણ વધતા કદ ઘટે, જેથી છેલ્લે જવાબ ધન (+) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પદાર્થની સ્થિતિસ્થાપકતા કોના પર આધાર રાખતી નથી? (તાપમાન, અશુદ્ધિઓ, પદાર્થના આકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના આકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિતિસ્થાપક અંકો દ્રવ્યના પ્રકાર પર આધાર રાખે છે, તેને લંબાઈ-પહોળાઈ-આકાર સાથે કોઈ લેવાદેવા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "તાપમાન વધારતા પદાર્થની સ્થિતિસ્થાપકતા સામાન્ય રીતે ______. (ઘટે છે, વધે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી આપો એટલે પરમાણુઓ છૂટા પડે, પકડ નબળી થાય, એટલે સ્થિતિસ્થાપકતા ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સ્પર્શીય પ્રતિબળને કારણે પદાર્થના ______ માં ફેરફાર થાય છે. (લંબાઈ, કદ, આકાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પર્શીય બળ (Tangential force) હંમેશા આકાર બદલે (Shear).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "એરોટા (Aorta) માં રુધિરનું વહન એ ______ પદાર્થનું ઉદાહરણ છે. (બરડ, ડકટાઇલ, ઇલાસ્ટોમર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલાસ્ટોમર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદાર્થોમાં વિકૃતિ ઘણી વધારે હોવા છતાં તે તૂટતા નથી, તેને ઇલાસ્ટોમર કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "શૂન્યાવકાશ માટે બલ્ક મોડ્યુલસનું મૂલ્ય ______ છે. (અનંત, શૂન્ય, 10¹¹)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યાવકાશમાં કશું હોતું જ નથી, તો દબાવશો કોને? એટલે B = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પાશ્વિય વિકૃતિ અને પ્રતાન વિકૃતિના ગુણોત્તરને ______ કહે છે. (સિગ્મા (σ), ટાઉ (τ), ઇપ્સાઇલોન (ε))",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિગ્મા (σ) - પોઈસન રેશિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: σ = (Δd/d) / (ΔL/L). આ યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સ્ટીલના ગર્ડરનો આડછેદ 'I' આકારનો રાખવામાં આવે છે કારણ કે તે ______. (દેખાવમાં સારો છે, વજન ઘટાડે છે અને મજબૂતી આપે છે, સસ્તું પડે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વજન ઘટાડે છે અને મજબૂતી આપે છે (Bending ઘટાડે છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I-shape = High strength + Low material weight.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સ્થિતિસ્થાપકતાની હદ (Elastic Limit) ને ______ બિંદુ પણ કહે છે. (ફ્રેક્ચર, યીલ્ડ, બ્રેકિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યીલ્ડ (Yield Point)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં સુધી પદાર્થ 'નમી' (Yield) ન જાય ત્યાં સુધી તે સ્થિતિસ્થાપક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વાયુઓ માટે દબનીયતા (k) નું મૂલ્ય ઘન પદાર્થોની સરખામણીમાં ______ હોય છે. (ખૂબ જ ઓછું, ખૂબ જ વધારે, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ જ વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુને સહેલાઈથી દબાવી શકાય, એટલે તેની દબનીયતા (Compressibility) સૌથી વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "બ્રીજ (પુલ) ની ડિઝાઇનમાં વપરાતું નમન (Sagging) નું સૂત્ર δ = W L³ / (4 b d³ ______) છે. (Y, G, B)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Y (યંગ મોડ્યુલસ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગર્ડરની મજબૂતી 'Y' પર આધાર રાખે. 'Y' જેટલો વધુ, 'δ' (નમન) તેટલું ઓછું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "શાંત પાણીમાં ડૂબેલા પદાર્થ પર લાગતું પ્રતિબળ ______ હોય છે. (તણાવ, આકાર, હાઇડ્રોસ્ટેટિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઇડ્રોસ્ટેટિક (Hydrostatic Stress)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રો = પાણી, સ્ટેટિક = સ્થિર. પાણીમાં ચારે બાજુથી સરખું દબાણ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "યંગ મોડ્યુલસ (Y) નું પારિમાણિક સૂત્ર ______ છે. ([M¹ L⁻¹ T⁻²], [M¹ L¹ T⁻²], [M¹ L⁻² T⁻²])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M¹ L⁻¹ T⁻²]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ, પ્રતિબળ અને બધા મોડ્યુલસનું પારિમાણિક સૂત્ર એક જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "તારના પ્રતિ એકમ કદ દીઠ કાર્યને ______ કહે છે. (બળ, સ્થિતિસ્થાપક ઉર્જા ઘનતા, પાવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપક ઉર્જા ઘનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા / કદ = ઉર્જા ઘનતા. એકમ J/m³ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો પ્રતિબળ બમણું કરવામાં આવે, તો યંગ મોડ્યુલસ ______. (બમણો થાય, અડધો થાય, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ રહે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિબળ વધારશો તો સામે વિકૃતિ પણ વધશે, પણ તેમનો ગુણોત્તર (Y) તો અચળ જ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "નીચેનામાંથી કયો પદાર્થ સૌથી વધુ સ્થિતિસ્થાપક છે? (તાંબુ, કાચ, સ્ટીલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીલના પરમાણુઓ વચ્ચેનું આંતરપરમાણ્વીય બળ ખૂબ પ્રબળ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સ્થિતિસ્થાપકતાના આંકના મૂલ્યો કોના પર આધારિત છે? (દ્રવ્યના પ્રકાર, દ્રવ્યના તાપમાન, આપેલ બંને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રવ્ય બદલાય તો Y, G, B બદલાય અને ગરમ કરો તો પણ બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "નક્કર ગોળા પર જ્યારે એકસમાન દબાણ લગાડવામાં આવે ત્યારે તેના કદમાં થતો ઘટાડો ______ વિકૃતિ દર્શાવે છે. (પ્રતાન, આકાર, કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કદ (Volume Strain)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળો બધી બાજુથી દબાય એટલે કદ જ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "સ્થિતિસ્થાપક અંકના સૂત્રમાં પ્રતિબળ અને વિકૃતિનો સંબંધ ______ ના નિયમ મુજબ છે. (પાસ્કલ, ન્યુટન, હુક્ક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હુક્ક (Hooke's Law)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ અને સ્થિતિસ્થાપકતા માટે 'હુક્ક' કાકા જ સુપરસ્ટાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "યંગ મોડ્યુલસ એ માત્ર ______ અવસ્થા ધરાવતા પદાર્થો માટે જ વ્યાખ્યાયિત છે. (વાયુ, ઘન, પ્રવાહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘન (Solids)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુ કે પ્રવાહીની લંબાઈ વધારી ન શકાય, એટલે યંગ મોડ્યુલસ ફક્ત ઘન પદાર્થો માટે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સ્ટીલની લવચીકતા (Flexibility) વધારવા માટે તેમાં કઈ ધાતુ ઉમેરવામાં આવે છે? (કાર્બન, મેંગેનીઝ, ક્રોમિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બનનું પ્રમાણ સ્ટીલની મજબૂતી અને સ્થિતિસ્થાપકતા નક્કી કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ચૂનાનો પથ્થર (Limestone) એ કયા પ્રકારનો પદાર્થ છે? (બરડ, ડકટાઇલ, સ્થિતિસ્થાપક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરડ (Brittle)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર ખેંચાય નહીં, એના પર હથોડો મારો એટલે સીધો તૂટી જાય, એટલે તે બરડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જો ખેંચાયેલા તારમાં વિકૃતિ 2 ગણી કરવામાં આવે, તો સ્થિતિસ્થાપક ઉર્જા ______ ગણી થશે. (2, 4, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 ગણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા U ∝ (વિકૃતિ)². જો વિકૃતિ 2 ગણી થાય, તો ઉર્જા (2)² = 4 ગણી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પુનઃસ્થાપક બળ અને વિરૂપક બળની દિશા એકબીજાની ______ હોય છે. (સમાન, વિરુદ્ધ, લંબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિરુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરૂપક બળ પદાર્થનો આકાર બગાડે, પુનઃસ્થાપક બળ તેને સુધારીને મૂળ સ્થિતિમાં લાવવા પ્રયત્ન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "બે પરમાણુઓ વચ્ચેના અંતર વિરુદ્ધ સ્થિતિઉર્જાના આલેખમાં ન્યૂનતમ સ્થિતિઉર્જા આગળનું અંતર ______ સૂચવે છે. (સંતુલન અંતર, મહત્તમ અંતર, શૂન્ય અંતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંતુલન અંતર (Equilibrium distance)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુત્તમ ઉર્જા = મહત્તમ સ્થિરતા (સંતુલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "જો પદાર્થ પર બળ લગાવતા તેના કદ કે આકારમાં કોઈ જ ફેરફાર ન થાય, તો તે પદાર્થ ______ છે. (પ્લાસ્ટિક, દ્રઢ, સ્થિતિસ્થાપક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રઢ (Rigid)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે 'ટસ થી મસ' ન થાય તે દ્રઢ પદાર્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "શેર મોડ્યુલસ (G) નું બીજું નામ ______ છે. (યંગ મોડ્યુલસ, જડતા અંક, બલ્ક મોડ્યુલસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જડતા અંક (Modulus of Rigidity)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર ન બદલવા દેવાની પદાર્થની જડતા એટલે જડતા અંક G.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "પોઈસન રેશિયોનું સૈદ્ધાંતિક મૂલ્ય ______ ની વચ્ચે હોય છે. (-1 થી 0.5, 0 થી 1, -0.5 થી 0.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1 થી 0.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈદ્ધાંતિક (Theoretical) પૂછે તો -1 થી 0.5, પ્રાયોગિક પૂછે તો 0 થી 0.5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "સામાન્ય રીતે ઘન પદાર્થો માટે G નું મૂલ્ય Y કરતાં ______ હોય છે. (વધારે, ઓછું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછું (સામાન્ય રીતે G ≈ Y/3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થને ખેંચવા (Y) કરતા તેને મરડવો (G) સહેલો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "રબરને ખેંચતા તેના આકારમાં થતો ફેરફાર ______ પ્રકારની વિકૃતિ છે. (કદ, આકાર, પ્રતાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકાર (Shear)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રબરને વાંકો વાળો તો ખૂણો (θ) બદલાય, તેને આકાર વિકૃતિ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "દબાણ વધારતા વાયુનું કદ ઘટે છે, તેથી કદ વિકૃતિ ______ લેવામાં આવે છે. (ધન, ઋણ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋણ (જોકે ગુણોત્તરમાં આપણે મૂલ્ય જ લઈએ છીએ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ΔV ઋણ હોય કારણ કે અંતિમ કદ < પ્રારંભિક કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ક્રેનની દોરીઓ (Ropes) સ્ટીલના પાતળા તારોને વણીને બનાવવામાં આવે છે જેથી તેની ______ વધે. (લંબાઈ, લવચીકતા અને મજબૂતી, કિંમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લવચીકતા અને મજબૂતી (Flexibility)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જાડા સળિયા કરતા ઘણા પાતળા તારોને વણવાથી તે વળી શકે છે અને તૂટવાની શક્યતા ઘટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "સ્ટીલના સળિયાને ગરમ કરતા તેનો યંગ મોડ્યુલસ ______. (વધશે, ઘટશે, અચળ રહેશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી એ સ્થિતિસ્થાપકતાની દુશ્મન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "સ્થિતિસ્થાપક ઉર્જા એ પદાર્થમાં કયા સ્વરૂપે સંગ્રહાય છે? (ગતિ ઉર્જા, સ્થિતિ ઉર્જા, ઉષ્મા ઉર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિ ઉર્જા (Potential Energy)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરૂપક બળ વિરુદ્ધ થયેલું કાર્ય 'સ્થિતિ ઉર્જા' તરીકે જમા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "જો કોઈ પદાર્થ માટે યંગ મોડ્યુલસ શૂન્ય હોય, તો તે પદાર્થ ______ જેવો વર્તશે. (દ્રઢ, પ્રવાહી, સ્ટીલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહી (Liquid)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહીની લંબાઈ વધારી ન શકાય, એટલે તેનો Y = 0 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "સ્થિતિસ્થાપક અંક (E) = પ્રતિબળ / ______. (બળ, ક્ષેત્રફળ, વિકૃતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિકૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = σ / ε. આ આખા ચેપ્ટરનું પાયાનું સૂત્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "ખેંચાયેલા તારમાં ઉર્જા ઘનતાનું સૂત્ર u = σ² / ______ છે. (2Y, Y, 2G)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2Y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: u = 1/2 × σ × ε. હવે ε = σ/Y મૂકો, એટલે u = σ² / 2Y.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "સ્પ્રિંગ બેલેન્સ (Spring Balance) થી લાંબા સમય સુધી વજન માપતા તે ખોટું માપ આપે છે કારણ કે તેમાં ______ ઉદ્ભવે છે. (સ્થિતિસ્થાપક થાક, સ્થિતિસ્થાપક સ્મૃતિ, ઘર્ષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપક થાક (Elastic Fatigue)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારંવાર ખેંચાવાથી સ્પ્રિંગ પણ થાકી જાય (Fatigue), એટલે તે મૂળ આકારમાં જલ્દી પાછી આવતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "તારને ખેંચતા તેના કદમાં ફેરફાર થતો ન હોય, તો પોઈસન રેશિયોનું મૂલ્ય ______ થાય. (0.25, 0.5, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પદાર્થનું કદ અચળ રહેતું હોય, તો તેનો પોઈસન રેશિયો હંમેશા 0.5 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "એક જ દ્રવ્યના બનેલા બે તારો A અને B ની ત્રિજ્યાનો ગુણોત્તર 1:2 છે. તેમના યંગ મોડ્યુલસનો ગુણોત્તર ______ હશે. (1:2, 1:4, 1:1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1:1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રવ્ય સમાન એટલે યંગ મોડ્યુલસ સમાન. ત્રિજ્યા ગમે તેટલી હોય, ફરક ન પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "પદાર્થમાં પ્રતિબળ અને વિકૃતિ એકબીજાના સમપ્રમાણમાં હોય તે વિસ્તારને ______ કહે છે. (પ્લાસ્ટિક વિસ્તાર, સપ્રમાણતા મર્યાદા, બરડ વિસ્તાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સપ્રમાણતા મર્યાદા (Proportional Limit)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં સુધી આલેખ સીધી રેખા છે, ત્યાં સુધી પ્રતિબળ ∝ વિકૃતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "બલ્ક મોડ્યુલસનો એકમ ______ છે. (N/m², N/m, પરિમાણરહિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N/m²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધા જ મોડ્યુલસ (Y, G, B) નો એકમ પ્રતિબળ જેવો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "એક ગરડર (Beams) ની ઊંડાઈ વધારતા તેના નમન (Sagging) માં ______ થાય છે. (વધારો, ઘટાડો, ફેરફાર થતો નથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટાડો (કારણ કે δ ∝ 1/d³)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટ્ટી જેટલી ઊંડી (Depth), તેટલી તે ઓછી નમે. એટલે જ લોખંડના પાટા ઊભા રાખવામાં આવે છે.</p></div>"
+    }
+  ]
+}

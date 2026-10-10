@@ -2937,3 +2937,371 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "તરલના યાંત્રિક ગુણધર્મો",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એકમ ક્ષેત્રફળ દીઠ લાગતા લંબબળને _____ કહે છે. (દબાણ, પૃષ્ઠતાણ, સ્નિગ્ધતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દબાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Force per Area = Pressure (P = F/A). ક્ષેત્રફળ ઓછું તો દબાણ વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દબાણ એ _____ રાશિ છે. (સદિશ, અદિશ, ટેન્સર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ બધી દિશામાં સમાન લાગે છે, એટલે એને ચોક્કસ દિશા હોતી નથી, તેથી તે 'અદિશ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "SI પદ્ધતિમાં દબાણનો એકમ _____ છે. (ન્યૂટન, પાસ્કલ, જૂલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસ્કલ (Pa)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧ Pa = ૧ N/m². પાસ્કલ વૈજ્ઞાનિકનું નામ છે એટલે તેને સન્માન આપો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સ્થિર તરલમાં સમાન ઊંચાઈએ આવેલા બિંદુઓએ દબાણ _____ હોય છે. (સમાન, અલગ-અલગ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમ લેવલ = સેમ પ્રેશર! જ્યાં સુધી પ્રવાહી સ્થિર છે ત્યાં સુધી ઊંચાઈ બદલાય તો જ દબાણ બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "તરલ સ્તંભને લીધે ઉદ્ભવતું દબાણ P = _____. (hρg, 1/2ρv², mg)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> hρg</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = 'હજી' (hρg). જ્યાં h = ઊંચાઈ, ρ = ઘનતા, g = ગુરુત્વપ્રવેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાસ્કલનો નિયમ જણાવે છે કે બંધ પાત્રમાંના તરલ પર લાગતું દબાણ બધી દિશામાં _____ પ્રસરણ પામે છે. (અડધું, ઘટાડા સાથે, ઘટાડા વગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટાડા વગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલ = 'No Loss'. જેટલું આપો એટલું જ સામે મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "હાઇડ્રોલિક લિફ્ટ _____ ના સિદ્ધાંત પર કાર્ય કરે છે. (બર્નુલી, પાસ્કલ, આર્કિમીડિઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસ્કલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટ અને બ્રેક આવે એટલે 'પાસ્કલ' દાદાને યાદ કરવાના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાતાવરણનું દબાણ માપવા માટે વપરાતા સાધનને _____ કહે છે. (મેનોમીટર, બેરોમીટર, થર્મોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેરોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બારોબાર' વાતાવરણ માપો = બેરોમીટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાત્રમાંના વાયુનું દબાણ માપવા માટે _____ વપરાય છે. (મેનોમીટર, બેરોમીટર, હાઇગ્રોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેનોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મથીને ગેસનું દબાણ માપો = મેનોમીટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નિરપેક્ષ દબાણ અને વાતાવરણ દબાણના તફાવતને _____ કહે છે. (ગેજ દબાણ, હાઇડ્રોસ્ટેટિક દબાણ, શૂન્ય દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગેજ દબાણ (Gauge Pressure)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P - Pa = Pg. હવાના ટાયરમાં જે માપીએ છીએ તે ગેજ દબાણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પાણીની ઘનતા _____ kg/m³ છે. (100, 1000, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હજાર લીટર પાણી એટલે એક ટન! યાદ રાખો 10³ kg/m³.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "1 atm = _____ Pa. (1.013 x 10⁵, 1.013 x 10³, 760)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.013 x 10⁵</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ની 5 ઘાત - આશરે 1 લાખ પાસ્કલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તરલમાં દરેક બિંદુએ વેગ સમય સાથે અચળ રહેતો હોય, તો તેવા વહનને _____ વહન કહે છે. (પ્રક્ષુબ્ધ, ધારારેખી, અનિયમિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારારેખી (Streamline)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિસ્તબદ્ધ વહન = ધારારેખી વહન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સાતત્ય સમીકરણ મુજબ, Av = _____. (અચળ, ઘનતા, દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળી સાંકડી તો વેગ વધુ (A ∝ 1/v). બાગમાં પાઈપ દબાવો તો પાણી દૂર જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બર્નુલીનું સમીકરણ એ _____ ના સંરક્ષણના નિયમ પર આધારિત છે. (વેગમાન, ઉર્જા, દળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્નુલી = 'બળવાન ઉર્જા'. વહેતા તરલની ઉર્જા હંમેશા અચળ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બર્નુલીના સમીકરણ મુજબ P + 1/2ρv² + ρgh = _____. (શૂન્ય, અચળ, એકમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ ઉર્જા + ગતિ ઉર્જા + સ્થિતિ ઉર્જા = Total Constant.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વધારે વેગવાળા વિસ્તારમાં દબાણ _____ હોય છે. (વધુ, ઓછું, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Speed up, Pressure down'. આ જ કારણે પ્લેન ઉડે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તરલના વહનનો વેગ માપવા માટે _____ સાધન વપરાય છે. (વેન્ચુરીમીટર, સ્ફિગ્મોમેનોમીટર, કેલરીમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેન્ચુરીમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ માપવા માટે 'વેન્ચુરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટોરિસેલીના નિયમ મુજબ, બહિષ્ત્રાવ વેગ v = _____. (√(2gh), √(gh), 2gh)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> √(2gh)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતન પામતા પદાર્થ જેવો જ વેગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "તરલના બે સ્તરો વચ્ચે પ્રવર્તતા આંતરિક ઘર્ષણ બળને _____ કહે છે. (પૃષ્ઠતાણ, સ્નિગ્ધતા બળ, કેશનાકર્ષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્નિગ્ધતા બળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહીનું ઘર્ષણ એટલે સ્નિગ્ધતા. મધની સ્નિગ્ધતા પાણી કરતા વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સ્નિગ્ધતા ગુણાંક η નો એકમ _____ છે. (Pa-s, N/m, J-s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Pa-s (અથવા Poiseuille)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલ-સેકન્ડ. અથવા kg/(m·s).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "તાપમાન વધતા પ્રવાહીની સ્નિગ્ધતા _____. (વધે છે, ઘટે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ તેલ ઠંડા તેલ કરતા વધુ પતલું લાગે, એટલે કે સ્નિગ્ધતા ઓછી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તાપમાન વધતા વાયુઓની સ્નિગ્ધતા _____. (વધે છે, ઘટે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુઓમાં તાપમાન વધતા અણુઓ વચ્ચેની અથડામણ વધે, તેથી સ્નિગ્ધતા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સ્ટોક્સના નિયમ મુજબ, સ્નિગ્ધ માધ્યમમાં ગતિ કરતા ગોળા પર લાગતું બળ F = _____. (6πηrv, 3πηrv, 1/2πηrv)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6πηrv</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6-પા-ઈ-ઈટા-આર-વી. (6π η r v).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જ્યારે સ્નિગ્ધ બળ અને ઉત્પ્લાવક બળનું પરિણામી બળ વજનબળ જેટલું થાય ત્યારે પદાર્થ _____ વેગ પ્રાપ્ત કરે છે. (પ્રવેગિત, ટર્મિનલ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટર્મિનલ (અંતિમ વેગ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Terminal = Constant Velocity. વરસાદના ટીપા ટર્મિનલ વેગથી પડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ટર્મિનલ વેગ vt એ ત્રિજ્યા r ના _____ ના સમપ્રમાણમાં હોય છે. (r, r², √r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> r²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થ જેટલો મોટો (r²), તેટલો જ એનો ટર્મિનલ વેગ વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રેનોલ્ડ્સ અંક (Re) નું મૂલ્ય 1000 થી ઓછું હોય તો વહન _____ હોય છે. (ધારારેખી, પ્રક્ષુબ્ધ, સંક્રાંતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારારેખી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Re < 1000 (શાંત/Streamline), Re > 2000 (તોફાની/Turbulent).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "તરલની સપાટીના એકમ ક્ષેત્રફળમાં વધારો કરવા માટે કરવા પડતા કાર્યને _____ કહે છે. (પૃષ્ઠ ઊર્જા, સ્થિતિ ઊર્જા, ગતિ ઊર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃષ્ઠ ઊર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી વધારવા મહેનત (કાર્ય) કરવી પડે, જે પૃષ્ઠ ઊર્જા તરીકે સંગ્રહાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પ્રવાહીની મુક્ત સપાટી એકમ લંબાઈ દીઠ લાગતા બળને _____ કહે છે. (પૃષ્ઠતાણ, સ્નિગ્ધતા, દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃષ્ઠતાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tension = Force / Length. સપાટી સંકોચાવવાનો પ્રયત્ન કરે તે તાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પૃષ્ઠતાણનો SI એકમ _____ છે. (N/m, N/m², J/m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N/m</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = F/L એટલે Newton per Meter.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પાણીના ટીપાનો ગોળાકાર આકાર _____ ને લીધે હોય છે. (ગુરુત્વાકર્ષણ, પૃષ્ઠતાણ, સ્નિગ્ધતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃષ્ઠતાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠતાણ સપાટીનું ક્ષેત્રફળ લઘુત્તમ રાખવા માંગે, અને લઘુત્તમ ક્ષેત્રફળ એટલે ગોળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પ્રવાહી અને ઘન સપાટી વચ્ચેના સંપર્ક બિંદુએ પ્રવાહીની સપાટીએ દોરેલા સ્પર્શક અને ઘન સપાટી વચ્ચેના ખૂણાને _____ કહે છે. (ક્રાંતિક કોણ, સંપર્ક કોણ, વક્રીભવન કોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંપર્ક કોણ (Angle of Contact)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી અને ઘન જ્યાં મળે ત્યાં બનતો ખૂણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કાચ અને પાણી માટે સંપર્ક કોણ _____ હોય છે. (લઘુકોણ, ગુરુકોણ, કાટકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લઘુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પ્રવાહી સપાટીને ભીંજવે તેનો સંપર્ક કોણ લઘુકોણ (θ < 90°) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કાચ અને મરક્યુરી (પારો) માટે સંપર્ક કોણ _____ હોય છે. (લઘુકોણ, ગુરુકોણ, કાટકોણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારો કાચને ભીંજવતો નથી, એટલે એનો સંપર્ક કોણ 90° થી વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ખૂબ જ સાંકડી નળીમાં પ્રવાહીની સપાટી ઉપર ચઢવાની કે નીચે ઉતરવાની ઘટનાને _____ કહે છે. (કેશનાકર્ષણ, સ્નિગ્ધતા, પ્રસરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેશનાકર્ષણ (Capillarity)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેશ' એટલે વાળ જેવી પાતળી નળીમાં પ્રવાહીનું વહન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કેશનાળીમાં પ્રવાહીની ઊંચાઈ h એ નળીની ત્રિજ્યા r ના _____ હોય છે. (સમપ્રમાણમાં, વ્યસ્ત પ્રમાણમાં, વર્ગના સમપ્રમાણમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યસ્ત પ્રમાણમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: h ∝ 1/r. જેટલી પાતળી નળી, તેટલું પાણી ઊંચે ચઢશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સાબુના પરપોટાની અંદરનું વધારાનું દબાણ Pi - Po = _____. (2S/r, 4S/r, S/r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4S/r</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુનો પરપોટો એટલે 2 સપાટી (અંદર + બહાર), એટલે 2 x (2S/r) = 4S/r.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પ્રવાહીના ટીપાની અંદરનું વધારાનું દબાણ Pi - Po = _____. (2S/r, 4S/r, S/r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2S/r</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપું અંદરથી ભરેલું હોય એટલે માત્ર 1 જ બહારની સપાટી હોય, તેથી 2S/r.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ડિટરજન્ટ ઉમેરવાથી પાણીનું પૃષ્ઠતાણ _____. (વધે છે, ઘટે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠતાણ ઘટે તો જ પાણી કપડાના ઝીણા છિદ્રોમાં જઈ શકે અને મેલ સાફ કરી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "તરલમાં ડૂબેલા પદાર્થ પર લાગતા ઉપર તરફના બળને _____ કહે છે. (ગુરુત્વાકર્ષણ બળ, ઉત્પ્લાવક બળ, ઘર્ષણ બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્પ્લાવક બળ (Buoyant Force)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં પદાર્થ હલકો લાગે તે ઉત્પ્લાવક બળને કારણે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "આર્કિમીડિઝના સિદ્ધાંત મુજબ, ઉત્પ્લાવક બળ પદાર્થે વિસ્થાપિત કરેલા તરલના _____ જેટલું હોય છે. (કદ, વજન, દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલું પાણી હટાવ્યું, એટલું બળ ઉપર લાગ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વેગ પ્રચલન (Velocity Gradient) નો એકમ _____ છે. (s⁻¹, m/s, m/s²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> s⁻¹</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (વેગ / અંતર) = (m/s) / m = 1/s.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "લોહીનું દબાણ (Blood Pressure) માપવા માટે _____ વપરાય છે. (બેરોમીટર, સ્ફિગ્મોમેનોમીટર, વેન્ચુરીમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ફિગ્મોમેનોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટર જે પટ્ટો બાંધીને BP માપે તે 'સ્ફિગ્મો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "તરલનું વહન જ્યારે પ્રક્ષુબ્ધ (Turbulent) બને, ત્યારે રેનોલ્ડ્સ અંક Re > _____. (1000, 2000, 500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2000 ની ઉપર એટલે ફૂલ તોફાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "મેગ્નસ અસર (Magnus Effect) _____ ના સિદ્ધાંત પર આધારિત છે. (પાસ્કલ, બર્નુલી, આર્કિમીડિઝ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બર્નુલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિકેટમાં બોલ હવામાં સ્વિંગ (Swing) થાય તે મેગ્નસ અસર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિમાનની પાંખોનો આકાર (Aerofoil) એવી રીતે રાખવામાં આવે છે કે જેથી ઉપરની સપાટી પર વેગ _____. (વધુ હોય, ઓછો હોય, શૂન્ય હોય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ હોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર વેગ વધુ -> દબાણ ઓછું -> પ્લેન ઉપર ઉડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "આદર્શ તરલની સ્નિગ્ધતા _____ હોય છે. (અનંત, શૂન્ય, એકમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ એટલે કોઈ જ ઘર્ષણ નહીં, એટલે સ્નિગ્ધતા 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એરોસોલ સ્પ્રેયર (Atomizer) _____ ના સિદ્ધાંત પર કામ કરે છે. (બર્નુલી, પાસ્કલ, સ્ટોક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બર્નુલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ વધારી દબાણ ઘટાડીને પ્રવાહી ખેંચવામાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "પૃષ્ઠતાણ એ _____ તાપમાન પર આધાર રાખે છે. (માત્ર, ક્યારેક જ, ક્યારેય નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માત્ર (તાપમાન વધતા પૃષ્ઠતાણ ઘટે છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ સૂપ પીવો ગમે કારણકે તેનું પૃષ્ઠતાણ ઓછું હોવાથી જીભ પર વધુ ફેલાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "શૂન્યાવકાશમાં દબાણ _____ હોય છે. (1 atm, શૂન્ય, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા જ નથી તો દબાણ ક્યાંથી હોય?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "તરલ એટલે જે _____ શકે તે પદાર્થ. (વહી, ઊડી, ચાલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી અને વાયુ બંને વહી શકે એટલે એમને 'તરલ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પાસ્કલનો એકમ _____ સમાન છે. (kg/m·s², kg/m²·s, kg·m/s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> kg/m·s²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = F/A = (ma)/A = (kg · m/s²) / m² = kg/(m·s²).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "હાઇડ્રોલિક બ્રેક્સમાં વપરાતું તરલ _____ હોવું જોઈએ. (દબનીય, અદબનીય, સ્નિગ્ધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદબનીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો તરલ દબાઈ જાય, તો દબાણ વ્હીલ સુધી પહોંચે જ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "બર્નુલીના સમીકરણમાં ρgh પદ _____ દર્શાવે છે. (ગતિ ઉર્જા, સ્થિતિ ઉર્જા, દબાણ ઉર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિ ઉર્જા (એકમ કદ દીઠ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: h એટલે height, height એટલે સ્થિતિ ઉર્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ધારારેખાના કોઈપણ બિંદુએ દોરેલો સ્પર્શક તે બિંદુએ તરલના _____ ની દિશા દર્શાવે છે. (પ્રવેગ, વેગ, બળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પર્શક હંમેશા તે ક્ષણે વેગ કઈ બાજુ છે તે બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "બે ધારારેખાઓ ક્યારેય એકબીજાને _____ નથી. (છેદતી, સમાંતર હોતી, અડકતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેદતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો છેદે, તો એક જ બિંદુએ બે દિશામાં વેગ થાય, જે અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પદાર્થની ઘનતા અને પાણીની ઘનતાના ગુણોત્તરને _____ કહે છે. (સાપેક્ષ ઘનતા, વિશિષ્ટ કદ, દળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપેક્ષ ઘનતા (Relative Density)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની સરખામણી એટલે 'સાપેક્ષ'. તે એકમરહિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પૃષ્ઠતાણનું પારિમાણિક સૂત્ર _____ છે. ([M¹L⁰T⁻²], [M¹L¹T⁻²], [M¹L²T⁻²])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M¹L⁰T⁻²]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = F/L = [M¹L¹T⁻²] / [L¹] = [M¹L⁰T⁻²]. લંબાઈ ઉડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "સ્નિગ્ધતાનો એકમ પોઈઝ (Poise) હોય, તો 1 Pa-s = _____ Poise. (1, 10, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SI માંથી CGS માં જવા 10 વડે ગુણવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "તરલના વહન દરમિયાન જે બિંદુએ વેગ શૂન્ય થાય તેને _____ બિંદુ કહે છે. (ક્રાંતિક, સ્થગિત, અંતિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થગિત (Stagnation Point)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ શૂન્ય એટલે પ્રવાહી ત્યાં 'થંભી' ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "બરફની ઘનતા પાણીની ઘનતા કરતા _____ હોય છે. (વધારે, ઓછી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એટલે જ બરફ પાણી પર તરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "સંસક્તિ બળ (Cohesive Force) એક જ દ્રવ્યના અણુઓ વચ્ચે _____ છે. (લાગે, લાગતું નથી, અપાકર્ષી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાગે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સમાન, 'સ' થી સંસક્તિ. (Same molecules = Cohesive).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "જુદા જુદા દ્રવ્યના અણુઓ વચ્ચે લાગતા આકર્ષણ બળને _____ બળ કહે છે. (સંસક્તિ, આસક્તિ, ગુરુત્વાકર્ષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આસક્તિ બળ (Adhesive Force)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Adhesive એટલે ફેવિકોલ જેવું, જે બે અલગ વસ્તુને જોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કેશનાળીમાં પ્રવાહીનો મેનિસ્કસ (Meniscus) અંતર્ગોળ હોય, તો સંપર્ક કોણ θ _____ હોય. (< 90°, > 90°, = 90°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> < 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી (ભીંજવે) -> અંતર્ગોળ -> લઘુકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "રેનોલ્ડ્સ અંક Re = ρvd / _____. (η, η², √η)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> η (સ્નિગ્ધતા ગુણાંક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Re = (જડત્વ બળ) / (સ્નિગ્ધ બળ). η છેદમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "જો તરલ સંકોચનીય (Compressible) હોય તો તેની ઘનતા _____ રહેતી નથી. (શૂન્ય, અચળ, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાવો તો કદ ઘટે અને ઘનતા વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "દરિયાની સપાટીએ વાતાવરણનું દબાણ આશરે _____ cm મરક્યુરી સ્તંભ જેટલું હોય છે. (76, 100, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 76</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 760 mm અથવા 76 cm Hg.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "સ્થિર પ્રવાહીમાં ઊંડાઈ વધતા દબાણમાં થતો ફેરફાર _____ પર આધાર રાખતો નથી. (પાત્રના આકાર, પ્રવાહીની ઘનતા, ઊંડાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાત્રના આકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલનો વિરોધાભાસ! પાત્ર ગમે તેવું હોય, ઊંચાઈ સમાન તો દબાણ સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "પૃષ્ઠ ઊર્જાનો એકમ _____ છે. (J/m², N/m, J/m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J/m² (અથવા N/m)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ય / ક્ષેત્રફળ = Joule / m². જે N/m ની સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "શુદ્ધ પાણી અને સ્વચ્છ કાચ માટે સંપર્ક કોણ લગભગ _____ હોય છે. (90°, 0°, 135°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ પાણી કાચને સંપૂર્ણ ભીંજવે એટલે સંપર્ક કોણ શૂન્ય જેવો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વહેતા પ્રવાહીના વહનનો દર (Volume flow rate) Q = _____. (Av, A/v, v/A)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Av</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Area x Velocity = Volume / Time.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "જો પ્રવાહી પાત્રની દીવાલને ભીંજવતું ન હોય, તો તે કેશનાળીમાં _____ જશે. (ઉપર, નીચે, સ્થિર રહેશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારો કાચને ભીંજવતો નથી, એટલે તે કેશનાળીમાં નીચે ઉતરે.</p></div>"
+    }
+  ]
+}

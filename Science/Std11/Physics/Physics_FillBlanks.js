@@ -3305,3 +3305,371 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દ્રવ્યના ઉષ્મીય ગુણધર્મો",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "તાપમાન એ પદાર્થની ગરમીની _____ દર્શાવતી ભૌતિક રાશિ છે. (દશા, માત્રા, અવસ્થા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માત્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન એટલે પદાર્થ કેટલો ગરમ કે ઠંડો છે તેનું માપ એટલે કે 'માત્રા'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "SI પદ્ધતિમાં તાપમાનનો એકમ _____ છે. (સેલ્સિયસ, ફેરેનહીટ, કેલ્વિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેલ્વિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SI એકમ પૂછાય એટલે 'K' (Kelvin) ને જ યાદ રાખવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાણીનું ઠારણબિંદુ પ્રમાણભૂત દબાણે _____ °F હોય છે. (0, 32, 212)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0°C = 32°F અને 100°C = 212°F. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સેલ્સિયસ અને ફેરેનહીટ વચ્ચેનો સંબંધ દર્શાવતું સમીકરણ $t_F = \\frac{9}{5} t_C +$ _____ છે. (273, 32, 373)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9/5 એટલે 1.8. ફેરેનહીટ હંમેશા સેલ્સિયસ કરતા મોટા આંકડામાં હોય (+32). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાણીનું ઉત્કલનબિંદુ કેલ્વિન માપક્રમમાં _____ K છે. (273.15, 373.15, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 373.15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T (K) = t (°C) + 273.15. તેથી 100 + 273.15 = 373.15. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આદર્શ વાયુ સમીકરણ _____ છે. (PV=nRT, PT=nRV, PV=kT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PV=nRT</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' 'V' 'n' 'R' 'T' - પાવન રેતી (યાદ રાખવા માટે). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિરપેક્ષ શૂન્ય તાપમાન એટલે _____ °C. (-273.15, 0, 273.15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -273.15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K એટલે જ નિરપેક્ષ શૂન્ય, જેને સેલ્સિયસમાં ફેરવતા -273.15 મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણીનું ત્રિબિંદુ (Triple point) _____ K તાપમાને હોય છે. (273.15, 273.16, 373.16)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 273.16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિબિંદુ માટે .15 નહિ પણ .16 યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તાપમાન વધારતા પદાર્થની લંબાઈમાં થતા ફેરફારને _____ પ્રસરણ કહે છે. (રેખીય, પૃષ્ઠ, કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ = રેખા = રેખીય પ્રસરણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રેખીય પ્રસરણાંક $\\alpha_l$ નો એકમ _____ છે. (K, K⁻¹, m/K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> K⁻¹</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ પ્રસરણાંક હોય (α, β, γ), તેનો એકમ હંમેશા તાપમાનનો વ્યસ્ત જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કદ પ્રસરણાંક $\\alpha_v$ અને રેખીય પ્રસરણાંક $\\alpha_l$ વચ્ચેનો સંબંધ $\\alpha_v =$ _____ છે. ($\\alpha_l$, $2\\alpha_l$, $3\\alpha_l$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $3\\alpha_l$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ (Volume) એ 3D હોય, તેથી $3 \\times \\alpha$. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લોખંડના પાટા વચ્ચે જગ્યા રાખવાનું કારણ _____ છે. (ઘર્ષણ, ઉષ્મીય પ્રસરણ, વજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મીય પ્રસરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉનાળામાં ગરમીથી લોખંડ લાંબુ થાય (પ્રસરે), તેને જગ્યા જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાણીની ઘનતા _____ °C તાપમાને મહત્તમ હોય છે. (0, 4, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું 'વિચિત્ર' વર્તન યાદ રાખો - 4°C એ સૌથી ઘટ્ટ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કદ પ્રસરણાંક $\\alpha_v$ નું મૂલ્ય તાપમાન વધતા વાયુઓ માટે _____ છે. (ઘટે છે, વધે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ વાયુ માટે $\\alpha_v = 1/T$. છેદ વધે તો આખી કિંમત ઘટે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તાપમાનના ફેરફાર વગર પદાર્થની અવસ્થા બદલવા માટે જરૂરી ઉષ્માને _____ કહે છે. (વિશિષ્ટ ઉષ્મા, ગુપ્ત ઉષ્મા, ઉષ્મા ધારિતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુપ્ત ઉષ્મા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઉષ્મા તાપમાન ન વધારે પણ છુપાઈને અવસ્થા બદલે તે 'ગુપ્ત' (Latent) ઉષ્મા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાણીની વિશિષ્ટ ઉષ્માધારિતા _____ J/kg·K છે. (2100, 4186, 1000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4186</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 'મોટું' મન ધરાવે છે, તેની ઉષ્મા સૌથી વધુ (આશરે 4200) હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બ્રિટિશ થર્મલ યુનિટ (Btu) એ _____ નો એકમ છે. (બળ, ઉર્જા, તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલરી, જૂલ અને Btu - આ ત્રણેય ઉર્જા/ઉષ્માના ભાઈઓ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મોલર વિશિષ્ટ ઉષ્માધારિતા $C$ નું સૂત્ર $C = \\frac{1}{\\mu} \\cdot$ _____ છે. ($\\Delta Q / \\Delta T$, $\\Delta T / \\Delta Q$, $\\Delta Q \\cdot \\Delta T$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta Q / \\Delta T$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉષ્મા હંમેશા ઉપર (અંશમાં) અને મોલ-તાપમાન નીચે (છેદમાં). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એકમ દળના પદાર્થનું તાપમાન 1 ડિગ્રી વધારવા માટે જરૂરી ઉષ્માને _____ કહે છે. (વિશિષ્ટ ઉષ્મા, ગુપ્ત ઉષ્મા, મોલર ઉષ્મા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશિષ્ટ ઉષ્મા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ (Mass) ની વાત આવે એટલે 'વિશિષ્ટ' (Specific) શબ્દ આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયા સાધન વડે ઉષ્માનું માપન કરવામાં આવે છે? (થર્મોમીટર, કેલરીમીટર, બેરોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેલરીમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન માટે થર્મોમીટર, પણ ઉષ્મા (Calories) માટે કેલરીમીટર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બરફની ગલન ગુપ્ત ઉષ્મા _____ J/kg છે. ($3.33 \\times 10^5$, $2.26 \\times 10^6$, $4186$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $3.33 \\times 10^5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ માટે 3.33 (3 અક્કા) યાદ રાખવા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પાણીની બાષ્પીભવન ગુપ્ત ઉષ્મા _____ J/kg છે. ($3.33 \\times 10^5$, $22.6 \\times 10^5$, $4186$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $22.6 \\times 10^5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરાળ વધુ દઝાડે કારણ કે તેની ગુપ્ત ઉષ્મા બરફ કરતા ઘણી વધારે (22.6) હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઘન પદાર્થનું સીધું જ વાયુમાં રૂપાંતર થવાની પ્રક્રિયાને _____ કહે છે. (ગલન, બાષ્પીભવન, ઉર્ધ્વપાતન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉર્ધ્વપાતન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપૂર કે ડામરની ગોળી સીધી ઊડી જાય (વાયુ બને) તેને ઉર્ધ્વપાતન (Sublimation) કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઉષ્મા પ્રસરણની કઈ રીતમાં માધ્યમની જરૂર નથી? (ઉષ્માવહન, ઉષ્માનયન, ઉષ્મીય વિકિરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મીય વિકિરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યપ્રકાશ (વિકિરણ) શૂન્યાવકાશમાં પણ ચાલી શકે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધાતુઓમાં ઉષ્મા પ્રસરણ મુખ્યત્વે _____ રીત દ્વારા થાય છે. (ઉષ્માવહન, ઉષ્માનયન, વિકિરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્માવહન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન પદાર્થ (ધાતુ) માં અણુઓ અથડાઈને ઉષ્મા મોકલે - ઉષ્માવહન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઉષ્માવહનનો દર $H$ એ આડછેદના ક્ષેત્રફળ $A$ ના _____ હોય છે. (સમપ્રમાણમાં, વ્યસ્ત પ્રમાણમાં, વર્ગના પ્રમાણમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમપ્રમાણમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો (Area) પહોળો તો ટ્રાફિક (Heat) વધુ જાય. $H \\propto A$. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ઉષ્મા વાહકતા $k$ નો SI એકમ _____ છે. (W/m·K, J/m·K, W·m/K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> W/m·K</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવર (W) ના છેદમાં મીટર-કેલ્વિન. $k = H L / A \\Delta T$. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શ્રેષ્ઠ ઉષ્મા વાહક પદાર્થ કયો છે? (તાંબુ, ચાંદી, એલ્યુમિનિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાંદી મોંઘી છે કારણ કે તે વીજળી અને ઉષ્મા બંનેમાં નંબર-1 વાહક છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઉષ્માનયનની પ્રક્રિયા માત્ર _____ માં જ શક્ય છે. (ઘન, તરલ, શૂન્યાવકાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરલ (પ્રવાહી/વાયુ) માં અણુઓ દોડી શકે, એટલે ઉષ્માનયન થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સ્થિર અવસ્થામાં સળિયાના દરેક આડછેદમાંથી પસાર થતી ઉષ્મા _____ હોય છે. (જુદી-જુદી, સમાન, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થિર અવસ્થા' (Steady State) એટલે બધેથી એકસરખો પ્રવાહ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ન્યુટનનો શીતનનો નિયમ _____ ના નાના તફાવત માટે સાચો છે. (દબાણ, તાપમાન, કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટન દાદા કહે છે કે ગરમ ચા અને વાતાવરણ વચ્ચે તાપમાનનો તફાવત ઓછો હોવો જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પરફેક્ટ બ્લેક બોડી (આદર્શ કૃષ્ણ પદાર્થ) માટે શોષકતા $a =$ _____ . (0, 0.5, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બધું જ શોષી લે તે 'નંબર 1' કાળો પદાર્થ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિનના સ્થાનાંતરના નિયમ મુજબ $\\lambda_m T =$ _____ . (અચળ, શૂન્ય, અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન વધે તો તરંગલંબાઈ ઘટે, પણ બંનેનો ગુણાકાર 'અચળ' (Constant) રહે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સ્ટીફન-બોલ્ટઝમેનના નિયમ મુજબ ઉત્સર્જિત ઉર્જા $E \\propto$ _____ . ($T$, $T^2$, $T^4$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $T^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીફન = ચાર અક્ષર = તાપમાનની 4 ઘાત. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ગ્રીનહાઉસ અસર માટે મુખ્યત્વે કયો વાયુ જવાબદાર છે? (O₂, N₂, CO₂)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO₂</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન ડાયોક્સાઈડ ગરમીને પકડી રાખે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "થર્મલ રેઝિસ્ટન્સ (ઉષ્મીય અવરોધ) નું સૂત્ર $R_H =$ _____ છે. ($L/kA$, $kA/L$, $AL/k$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $L/kA$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સળિયો લાંબો ($L$) હોય તો અવરોધ વધુ, જાડો ($A$) હોય તો ઓછો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "દરિયાઈ લહેર (Sea Breeze) _____ ને કારણે ઉત્પન્ન થાય છે. (ઉષ્માવહન, ઉષ્માનયન, વિકિરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્માનયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન અને પાણીના પ્રવાહો હંમેશા ઉષ્માનયન (Convection) થી જ સર્જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "સૂર્યની સપાટીનું તાપમાન માપવા માટે _____ નો નિયમ વપરાય છે. (ન્યુટન, વિન, બોઈલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગ (તરંગલંબાઈ) જોઈને તાપમાન કહે તે 'વિન' નો નિયમ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પદાર્થ દ્વારા શોષાયેલી ઉષ્મા $Q = mc \\cdot$ _____ . ($\\Delta T$, $T^2$, $1/\\Delta T$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta T$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મકત' ($mc\\Delta T$) - ઉષ્મા શોધવાનું દેશી સૂત્ર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "દબાણ વધારતા બરફનું ગલનબિંદુ _____ . (વધે છે, ઘટે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ પર દબાણ આપો તો તે જલ્દી પીગળે, એટલે કે નીચા તાપમાને પીગળી જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "પુનઃહિમાયન (Regelation) એ _____ ના દબાણ ફેરફાર સાથે સંકળાયેલી ઘટના છે. (હવા, બરફ, વરાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફના બે ટુકડા દબાવતા તે જોડાઈ જાય તેને જ પુનઃહિમાયન કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વાયુ અચળાંક $R$ નું મૂલ્ય _____ J/mol·K છે. (8.31, 1.38, 6.62)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8.31</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $R$ ની કિંમત 8.31 હંમેશા યાદ રાખવી, કેમેસ્ટ્રીમાં પણ આવશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "$\\alpha_l : \\alpha_a : \\alpha_v =$ _____ . (1:2:3, 3:2:1, 1:1:1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1:2:3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ(1D), ક્ષેત્રફળ(2D), કદ(3D). લાઈનમાં 1-2-3. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પાણીની ઉષ્માધારિતા બરફ કરતા _____ છે. (ઓછી, વધારે, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી પાણીની વિશિષ્ટ ઉષ્મા (4186) બરફ (2100) કરતા બમણી હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "પદાર્થની સપાટીના એકમ ક્ષેત્રફળ દીઠ ઉત્સર્જિત વિકિરણ પાવરને _____ કહે છે. (શોષકતા, ઉત્સર્જકતા, પરાવર્તકતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્સર્જકતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા બહાર ફેંકવાની ક્ષમતા એટલે 'ઉત્સર્જકતા' (Emissivity). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ઉષ્મીય વિકિરણોની ઝડપ _____ જેટલી હોય છે. (અવાજ, પ્રકાશ, ઇલેક્ટ્રોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકિરણ એ વિદ્યુતચુંબકીય તરંગ છે, જે પ્રકાશની ઝડપે દોડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "રસોઈના વાસણોના તળિયા તાંબાના રાખવામાં આવે છે કારણ કે તાંબુ _____ . (સસ્તું છે, સુવાહક છે, મજબૂત છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુવાહક છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાંબુ ગરમીને જલ્દી પસાર કરે, જેથી જમવાનું જલ્દી બને. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "બે પદાર્થો તાપીય સંતુલનમાં હોય ત્યારે તેમનું _____ સમાન હોય છે. (દળ, તાપમાન, કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે 'લેવલ' સરખું, ઉષ્મામાં લેવલ એટલે તાપમાન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "પ્રેસર કૂકરમાં રસોઈ ઝડપથી થાય છે કારણ કે દબાણ વધતા પાણીનું ઉત્કલનબિંદુ _____ . (વધે છે, ઘટે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ વધે તો પાણી 100°C ને બદલે ઊંચા તાપમાને ઉકળે, જેથી વધુ ગરમી મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "બાયમેટાલિક સ્ટ્રીપ (દ્વિ-ધાતુ પટ્ટી) માં બે ધાતુઓના _____ અલગ અલગ હોય છે. (ઘનતા, રેખીય પ્રસરણાંક, વજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય પ્રસરણાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ધાતુ વધુ લંબાય અને બીજી ઓછી, એટલે પટ્ટી વળી જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઉષ્માવહન દરનો એકમ _____ છે. (J/s, J·s, K/s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J/s</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉષ્મા એટલે ઉર્જા (J) અને દર એટલે સમય (s). J/s = Watt. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "થર્મસ ફ્લાસ્કમાં ઉષ્મા વ્યય ઘટાડવા માટે કાચની બે દીવાલ વચ્ચે _____ રાખવામાં આવે છે. (હવા, પાણી, શૂન્યાવકાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્યાવકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માધ્યમ જ ન હોય તો ઉષ્માવહન કે ઉષ્માનયન થઈ જ ના શકે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિશિષ્ટ ઉષ્માધારિતા $c$ નો એકમ _____ છે. (J/kg·K, J/K, kg/J·K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J/kg·K</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા (J) ઉપર, અને દળ (kg) તથા તાપમાન (K) નીચે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "0 °C તાપમાન એટલે _____ K. (0, 273.15, -273.15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 273.15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલ્વિન મોટો ભાઈ છે, સેલ્સિયસમાં 273 ઉમેરી દેવાના. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "પદાર્થનું તાપમાન વધતા તેમાંથી ઉત્સર્જિત વિકિરણની મહત્તમ તરંગલંબાઈ _____ . (વધે છે, ઘટે છે, અચળ રહે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનનો નિયમ: $\\lambda \\propto 1/T$. તાપમાન વધે તો તરંગલંબાઈ ટૂંકી થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "સ્ટીફનનો અચળાંક $\\sigma$ નું મૂલ્ય આશરે _____ છે. ($5.67 \\times 10^{-8}$, $6.67 \\times 10^{-11}$, $8.31$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $5.67 \\times 10^{-8}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો - 5, 6, 7 અને 8. (5.67 x 10⁻⁸). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પદાર્થ કાળો દેખાય છે કારણ કે તે બધા જ રંગોનું _____ કરે છે. (પરાવર્તન, ઉત્સર્જન, શોષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શોષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કશું જ પાછું ન આપે (શોષી લે) તે જ કાળું દેખાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "માનવ શરીરનું સામાન્ય તાપમાન _____ °F હોય છે. (98.6, 37, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 98.6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોક્ટર ફેરેનહીટમાં માપે ત્યારે 98.6 સામાન્ય ગણાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ઉષ્મા એ ઉર્જાનું એક સ્વરૂપ છે, તેવું સાબિત કરનાર વૈજ્ઞાનિક _____ હતા. (ન્યુટન, જૂલ, કેલ્વિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જાનો એકમ જૂલ છે, એટલે તે શોધનાર પણ જૂલ જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વાયુ ભરેલા ફુગ્ગાને ગરમ પાણીમાં મૂકતા તેનું કદ વધે છે, આ _____ પ્રસરણનું ઉદાહરણ છે. (રેખીય, પૃષ્ઠ, કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફુગ્ગો ત્રિ-પરિમાણીય છે, તેનું આખું કદ વધે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "બરફનું પાણીમાં રૂપાંતર થવું તે _____ ફેરફાર છે. (રાસાયણિક, અવસ્થા, પરમાણ્વિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસ્થા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનમાંથી પ્રવાહી બનવું એટલે 'સ્ટેટ' (State) બદલાવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ન્યુટનનો શીતનનો નિયમ કઈ પ્રક્રિયા માટે લાગુ પડે છે? (ઉષ્માવહન, ઉષ્માનયન, વિકિરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્માનયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થની સપાટી પરથી હવા દ્વારા ઠંડા થવાની વાત એટલે ઉષ્માનયન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "શૂન્ય ક્રમનો નિયમ (Zeroth Law) _____ વ્યાખ્યાયિત કરે છે. (ઉષ્મા, કાર્ય, તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય નંબરનો નિયમ તાપમાન માપવા માટેનો પાયો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પાણીની વિશિષ્ટ ઉષ્માધારિતા _____ cal/g·°C છે. (1, 4.186, 0.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલરીમાં પાણી હંમેશા 'એકડો' જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "જો તાપમાનનો તફાવત બમણો કરવામાં આવે, તો ઉષ્માવહનનો દર _____ ગણો થાય. (2, 4, 16)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $H \\propto \\Delta T$ (સમપ્રમાણ). તફાવત ડબલ તો દર પણ ડબલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વાયુઓ માટે કયો પ્રસરણાંક સૌથી વધુ હોય છે? (રેખીય, પૃષ્ઠ, કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુને કોઈ ચોક્કસ આકાર નથી હોતો, તે માત્ર કદમાં જ પ્રસરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "નીચેનામાંથી કયો પદાર્થ ઉષ્માનો મંદવાહક છે? (તાંબુ, લોખંડ, લાકડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાકડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધાતુઓ સામાન્ય રીતે ગરમીને રોકે છે (મંદવાહક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "સંપૂર્ણ કાળા પદાર્થની ઉત્સર્જકતા $e =$ _____ . (0, 1, 0.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બધું શોષે તે બધું કાઢી પણ શકે. $a=e=1$. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "સી લેવલ (દરિયાની સપાટી) પર પાણીનું ઉત્કલનબિંદુ _____ °C હોય છે. (0, 100, 373)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટાન્ડર્ડ દબાણ (1 atm) એ પાણી 100 પર ઉકળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "તાપમાન વધારતા પદાર્થના કદમાં થતા વધારાને _____ કહે છે. (ઉષ્મીય સંકોચન, ઉષ્મીય પ્રસરણ, ઉષ્મીય વહન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મીય પ્રસરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમીથી પદાર્થ ફેલાય તેને 'પ્રસરણ' (Expansion) કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સૂર્યમાંથી પૃથ્વી પર ઉષ્મા _____ દ્વારા પહોંચે છે. (વહન, નયન, વિકિરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિકિરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પેસમાં હવા નથી, એટલે માત્ર વિકિરણ (Radiation) જ આવી શકે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "કેલ્વિન અને સેલ્સિયસ માપક્રમમાં તાપમાનનો તફાવત _____ હોય છે. (સમાન, અલગ, બમણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને માપક્રમમાં વિભાગોની સંખ્યા 100 જ છે, તેથી તફાવત ($ΔT$) સરખો રહે. (NJ Classes)</p></div>"
+    }
+  ]
+}

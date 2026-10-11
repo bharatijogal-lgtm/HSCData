@@ -4041,3 +4041,371 @@ var Std11_Physics_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વાયુનો ગતિવાદ",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દ્રવ્યના પરમાણુવાદ મુજબ, દ્રવ્યનો સૌથી નાનો અવિભાજ્ય કણ _________ છે. (અણુ, પરમાણુ, ઈલેક્ટ્રોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરમાણુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણુ = પરમ + અણુ (સૌથી અંતિમ/નાનો કણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમાન તાપમાન અને દબાણે સમાન કદના વાયુઓમાં રહેલા અણુઓની સંખ્યા સમાન હોય છે, આ વિધાન _________ ના નિયમ તરીકે ઓળખાય છે. (બોઈલ, ચાર્લ્સ, એવોગેડ્રો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એવોગેડ્રો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન કદ (V) ∝ અણુઓની સંખ્યા (N) એટલે એવોગેડ્રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એવોગેડ્રો અંક $N_A$ નું મૂલ્ય _________ છે. ($6.022 \\times 10^{23} mol^{-1}$, $6.022 \\times 10^{-23} mol^{-1}$, $1.38 \\times 10^{23} mol^{-1}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $6.022 \\times 10^{23} mol^{-1}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૩ મી જાન્યુઆરી (૧૦ની ૨૩ ઘાત) યાદ રાખો - એવોગેડ્રો બહુ મોટો નંબર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નિયત તાપમાને વાયુના નિશ્ચિત જથ્થા માટે દબાણ (P) અને કદ (V) નો ગુણાકાર અચળ રહે છે, આ નિયમ _________ નો છે. (બોઈલ, ચાર્લ્સ, ગેલ્યુસેક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બોઈલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બપોર' (બોઈલ-પ્રેસર-કદ વચ્ચે વ્યસ્ત સંબંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચાર્લ્સના નિયમ મુજબ, અચળ દબાણે વાયુનું કદ (V) તેના નિરપેક્ષ તાપમાન (T) ના _________ માં હોય છે. (વ્યસ્ત પ્રમાણ, સમાન, સમપ્રમાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમપ્રમાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચટ્ટ' (Charles-Temperature-T) - V ∝ T.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આદર્શ વાયુ અવસ્થા સમીકરણ $PV = nRT$ માં $R$ ને _________ કહે છે. (બોલ્ટ્ઝમેન અચળાંક, સાર્વત્રિક વાયુ અચળાંક, પ્લાન્ક અચળાંક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાર્વત્રિક વાયુ અચળાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R = Real/Universal Gas Constant.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સાર્વત્રિક વાયુ અચળાંક $R$ નું મૂલ્ય _________ $J mol^{-1} K^{-1}$ છે. (8.314, 1.38, 6.626)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8.314</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R એટલે 'રાણી' જેનો નંબર 8 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બોલ્ટ્ઝમેન અચળાંક $k_B$ અને સાર્વત્રિક વાયુ અચળાંક $R$ વચ્ચેનો સંબંધ $k_B = $ _________ છે. ($R/N_A$, $R \\cdot N_A$, $N_A/R$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $R/N_A$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક અણુ માટે નાનો (k), આખા મોલ માટે મોટો (R). $k = R/N_A$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચા _________ અને ઊંચા _________ એ વાયુઓ આદર્શ વાયુ તરીકે વર્તે છે. (દબાણે-તાપમાને, તાપમાને-દબાણે, કદે-દબાણે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દબાણે-તાપમાને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LP-HT (Low Pressure - High Temperature).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બોલ્ટ્ઝમેન અચળાંક $k_B$ નું મૂલ્ય _________ $J/K$ છે. ($1.38 \\times 10^{23}$, $1.38 \\times 10^{-23}$, $8.314 \\times 10^{-23}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1.38 \\times 10^{-23}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુ નાનો હોય એટલે ઘાત માઈનસ (-) ૨૩ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પરસ્પર પ્રક્રિયા ન કરતા વાયુઓના મિશ્રણનું કુલ દબાણ એ દરેક વાયુના આંશિક દબાણના _________ જેટલું હોય છે. (ગુણાકાર, સરવાળા, બાદબાકી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરવાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાલ્ટનનો નિયમ: $P = P_1 + P_2 + ...$</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આદર્શ વાયુના અણુઓ વચ્ચે _________ બળ શૂન્ય હોય છે. (આંતરઆણ્વીય, ગુરુત્વાકર્ષણ, ચુંબકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરઆણ્વીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ વાયુ એટલે 'આઝાદ' વાયુ, કોઈ આકર્ષણ નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વાયુના અણુઓ દ્વારા પાત્રની દીવાલ પર લાગતું દબાણ $P = $ _________ છે. ($\\frac{1}{3} \\rho \\overline{v^2}$, $\\frac{1}{2} \\rho \\overline{v^2}$, $\\rho \\overline{v^2}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{1}{3} \\rho \\overline{v^2}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ ૩ દિશામાં (x, y, z) વહેંચાય એટલે 1/3 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વાયુના અણુની સરેરાશ સ્થાનાંતરિત ગતિઊર્જા _________ ના સમપ્રમાણમાં હોય છે. (દબાણ, કદ, નિરપેક્ષ તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિરપેક્ષ તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી (T) વધે તો દોડધામ (E) વધે! $E \\propto T$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક પરમાણ્વિક વાયુના અણુની સરેરાશ ગતિઊર્જા _________ છે. ($\\frac{3}{2} k_B T$, $\\frac{1}{2} k_B T$, $\\frac{5}{2} k_B T$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{3}{2} k_B T$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3-D માં ગતિ કરે એટલે 3/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વાયુના અણુઓના વેગનો વર્ગીત સરેરાશનું વર્ગમૂળ એટલે _________ ઝડપ. (સરેરાશ, મહત્તમ સંભવિત, rms)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> rms</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Root Mean Square = વર્ગમૂળ, સરેરાશ, વર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "rms ઝડપ $v_{rms} = $ _________ સૂત્ર દ્વારા અપાય છે. ($\\sqrt{\\frac{3RT}{M}}$, $\\sqrt{\\frac{2RT}{M}}$, $\\sqrt{\\frac{RT}{M}}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\sqrt{\\frac{3RT}{M}}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '3 રોટલી' (3RT) - યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નિરપેક્ષ શૂન્ય તાપમાને (0 K) વાયુના અણુઓની ગતિઊર્જા _________ થઈ જાય છે. (મહત્તમ, અચળ, શૂન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K એટલે બધું ફ્રીઝ (STILL), કોઈ હલનચલન નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઉર્જાના સમાન વિતરણના નિયમ મુજબ, દરેક મુક્તિના અંશ (degree of freedom) દીઠ ઉર્જા _________ હોય છે. ($\\frac{3}{2} k_B T$, $\\frac{1}{2} k_B T$, $k_B T$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{1}{2} k_B T$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક હાથમાં અડધો લાડુ (1/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક પરમાણ્વિક વાયુ (દા.ત. Helium) માટે મુક્તિના અંશો (f) ની સંખ્યા _________ છે. (3, 5, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ માણસ માત્ર 3 દિશામાં ચાલી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દ્વિ-પરમાણ્વિક વાયુ (દા.ત. $O_2$) માટે સામાન્ય તાપમાને મુક્તિના અંશોની સંખ્યા _________ હોય છે. (3, 5, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ (2) અણુ = 3 સ્થાનાંતરિત + 2 ચાકગતિ = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ખૂબ ઊંચા તાપમાને દ્વિ-પરમાણ્વિક વાયુમાં _________ ગતિ પણ ઉમેરાય છે. (સ્થાનાંતરિત, ચાકગતિ, કંપન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંપન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધે એટલે ધ્રુજારી (Vibration) વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "એક પરમાણ્વિક વાયુ માટે અચળ કદે વિશિષ્ટ ઉષ્મા $C_v = $ _________ છે. ($\\frac{3}{2} R$, $\\frac{5}{2} R$, $\\frac{1}{2} R$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{3}{2} R$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $C_v = \\frac{f}{2} R$. અહી f=3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મેયરના સંબંધ મુજબ $C_p - C_v = $ _________. ($R$, $2R$, $k_B$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $R$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CP મોટું, CV નાનું, તફાવત R જેટલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એક પરમાણ્વિક વાયુ માટે $\\gamma = C_p / C_v$ નું મૂલ્ય _________ છે. (1.67, 1.40, 1.33)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.67</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5/3 = 1.67 (સિંગલ અણુ સૌથી વધારે γ ધરાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દ્વિ-પરમાણ્વિક વાયુ (કંપન વગર) માટે $\\gamma$ નું મૂલ્ય _________ હોય છે. (1.67, 1.40, 1.33)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7/5 = 1.4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બે ક્રમિક અથડામણો વચ્ચે અણુએ કાપેલા સરેરાશ અંતરને _________ કહે છે. (મુક્ત પથ, સરેરાશ મુક્ત પથ, સરેરાશ ઝડપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ મુક્ત પથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રાફિક વગરનો રસ્તો એટલે 'મુક્ત પથ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સરેરાશ મુક્ત પથ $\\lambda$ નું સૂત્ર _________ છે. ($\\frac{1}{\\sqrt{2} \\pi n d^2}$, $\\frac{1}{\\pi n d^2}$, $\\frac{\\sqrt{2}}{\\pi n d^2}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{1}{\\sqrt{2} \\pi n d^2}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે $\\sqrt{2}$ યાદ રાખો, બાકી બધું નીચે જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સરેરાશ મુક્ત પથ એ વાયુના અણુના વ્યાસ (d) ના _________ ના વ્યસ્ત પ્રમાણમાં હોય છે. (વર્ગ, વર્ગમૂળ, ઘન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્રમાં $d^2$ છે, એટલે વર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો વાયુનું તાપમાન વધારવામાં આવે, તો તેનો સરેરાશ મુક્ત પથ _________ છે. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધે તો અણુઓ દૂર ભાગે, એટલે રસ્તો લાંબો (મુક્ત) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "STP એ 1 મોલ વાયુનું કદ _________ લિટર હોય છે. (2.24, 22.4, 224)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 22.4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડો ક્યારેય ન ભૂલાય - 22.4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગતિવાદ મુજબ, વાયુનું દબાણ એ અણુઓના _________ ના ફેરફારને કારણે ઉદભવે છે. (વેગમાન, ઉર્જા, કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલ સાથે ટકરાય એટલે વેગમાન બદલાય (Newton's 2nd Law).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "બ્રૌનિયન ગતિ _________ ના કારણે જોવા મળે છે. (તાપમાન, અણુઓની અથડામણ, ગુરુત્વાકર્ષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અણુઓની અથડામણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્તવ્યસ્ત ધક્કામુક્કી એટલે બ્રૌનિયન ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "આદર્શ વાયુ માટે સ્થિતિ સમીકરણ $P = nk_B T$ માં n એ _________ દર્શાવે છે. (મોલની સંખ્યા, એકમ કદ દીઠ અણુઓની સંખ્યા, કુલ અણુઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ કદ દીઠ અણુઓની સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Small 'n' stands for Number density (N/V).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વાયુના ગતિવાદમાં અણુઓને _________ તરીકે ધારવામાં આવે છે. (નરમ દડા, સખત ગોળા, બિંદુવત દળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સખત ગોળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુઓ એટલે લોખંડના નાના 'Hard Spheres'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પાત્રની દીવાલ સાથેની અથડામણ _________ પ્રકારની હોય છે. (સ્થિતિસ્થાપક, અસ્થિતિસ્થાપક, સંપૂર્ણ અસ્થિતિસ્થાપક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જાનો વ્યય ન થાય એટલે Elastic Collision.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વાયુના અણુઓની મહત્તમ સંભવિત ઝડપ $v_p$ _________ હોય છે. ($\\sqrt{\\frac{2k_B T}{m}}$, $\\sqrt{\\frac{3k_B T}{m}}$, $\\sqrt{\\frac{8k_B T}{\\pi m}}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\sqrt{\\frac{2k_B T}{m}}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Probable (p) માટે '2' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "સરેરાશ ઝડપ $\\overline{v}$ _________ હોય છે. ($\\sqrt{\\frac{8k_B T}{\\pi m}}$, $\\sqrt{\\frac{2k_B T}{m}}$, $\\sqrt{\\frac{3k_B T}{m}}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\sqrt{\\frac{8k_B T}{\\pi m}}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Average (A) માં $\\pi$ (Apple) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ઝડપનો ક્રમ: _________ > સરેરાશ ઝડપ > મહત્તમ સંભવિત ઝડપ. (rms ઝડપ, ધ્વનિની ઝડપ, પ્રકાશની ઝડપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> rms ઝડપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RAM (R > A > M) - rms સૌથી મોટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો વાયુનું તાપમાન ચાર ગણું કરવામાં આવે, તો $v_{rms}$ _________ ગણી થશે. (4, 2, 16)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v_{rms} \\propto \\sqrt{T}$, એટલે $\\sqrt{4} = 2$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "રેખીય બહુપરમાણ્વિક વાયુ (દા.ત. $CO_2$) માટે મુક્તિના અંશોની સંખ્યા _________ હોય છે. (5, 6, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીનિયર (રેખીય) હોય તો દ્વિ-પરમાણ્વિક જેવું જ (5) વર્તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "બિન-રેખીય બહુપરમાણ્વિક વાયુ (દા.ત. $H_2O$) માટે મુક્તિના અંશોની સંખ્યા _________ હોય છે. (5, 6, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 સ્થાનાંતરિત + 3 ચાકગતિ = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ઘન પદાર્થના એક પરમાણુની સરેરાશ ઉર્જા _________ હોય છે. ($\\frac{3}{2} k_B T$, $3 k_B T$, $k_B T$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $3 k_B T$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘનમાં 3 કંપન હોય, દરેકની $k_B T$, એટલે કુલ 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "દુલોંગ અને પેટિટના નિયમ મુજબ, ઘન પદાર્થની મોલર વિશિષ્ટ ઉષ્મા $C = $ _________ હોય છે. (3R, 5R, R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3R</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન માટે ફિક્સ વેલ્યુ 3R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "પાણીની વિશિષ્ટ ઉષ્માધારિતા $C = $ _________ છે. (3R, 9R, 4.5R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9R</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી (H2O) માં 3 પરમાણુ, દરેકના 3R, એટલે 9R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "અચળ કદે વિશિષ્ટ ઉષ્મા $C_v$ અને મુક્તિના અંશ $f$ વચ્ચેનો સંબંધ $C_v = $ _________ છે. ($\\frac{f}{2} R$, $fR$, $\\frac{2}{f} R$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{f}{2} R$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાડુની ટ્રીક યાદ કરો: f વખત અડધો (1/2) લાડુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વાયુના અણુનો વ્યાસ વધારતા સરેરાશ મુક્ત પથ _________. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુ જાડો થાય તો જલ્દી ટકરાય, એટલે મુક્ત રસ્તો નાનો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વાયુના અણુઓ દીવાલ સાથે અથડાઈને પાછા ફરે ત્યારે વેગમાનમાં થતો ફેરફાર _________ છે. (mv, 2mv, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2mv</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: mv થી ગયો અને -mv થી આવ્યો, તફાવત 2mv.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "આદર્શ વાયુ માટે $\\gamma = 1 + $ _________. ($\\frac{2}{f}$, $\\frac{f}{2}$, $f$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{2}{f}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\gamma = C_p/C_v = (f+2)/f = 1 + 2/f$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વાયુના દબાણનું સૂત્ર $P = \\frac{2}{3} E$ માં E એ _________ છે. (કુલ ઉર્જા, એકમ કદ દીઠ ગતિઉર્જા, સ્થિતિઉર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ કદ દીઠ ગતિઉર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $P = (1/3) \\rho v^2$ અને $E = (1/2) \\rho v^2$ પરથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "એક જ વાયુના જુદા જુદા તાપમાને rms ઝડપનો ગુણોત્તર $v_1/v_2 = $ _________ થાય. ($T_1/T_2$, $\\sqrt{T_1/T_2}$, $(T_1/T_2)^2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\sqrt{T_1/T_2}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ એ તાપમાનના વર્ગમૂળના સમપ્રમાણમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "હાઈડ્રોજન ($H_2$) અને ઓક્સિજન ($O_2$) સમાન તાપમાને હોય, તો કોની rms ઝડપ વધુ હશે? ($H_2$, $O_2$, સમાન હશે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $H_2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે હલકું (ઓછું દળ) હોય તે વધારે ઝડપથી દોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વાયુના અણુઓનો સરેરાશ વેગ _________ હોય છે. ($v_{rms}$, શૂન્ય, $\\infty$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્તવ્યસ્ત ગતિમાં જેટલા જમણે જાય એટલા ડાબે આવે, એટલે સરેરાશ '૦'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ચોક્કસ તાપમાને વાયુના અણુઓની ઉર્જાનું વિતરણ _________ ના આલેખ દ્વારા સમજાવી શકાય. (ન્યૂટન, મેક્સવેલ-બોલ્ટ્ઝમેન, આઈન્સ્ટાઈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેક્સવેલ-બોલ્ટ્ઝમેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MB Distribution Graph.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "પાત્રમાં વાયુનું દબાણ વધારતા સરેરાશ મુક્ત પથ _________. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ વધે એટલે ભીડ વધે, અથડામણ જલ્દી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વાયુના ગતિવાદ મુજબ નિરપેક્ષ તાપમાન એ _________ નું માપ છે. (સ્થિતિઉર્જા, સરેરાશ ગતિઉર્જા, કુલ દળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ ગતિઉર્જા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન એટલે મોલેક્યુલ્સની 'દોડવાની તીવ્રતા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "કયા તાપમાને $v_{rms}$ ઝડપ 0°C કરતા બમણી થશે? (273 K, 546 K, 1092 K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1092 K</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપ બમણી તો તાપમાન 4 ગણું ($273 \\times 4 = 1092$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "બ્રૌનિયન ગતિમાં કણોનો ગતિપથ _________ હોય છે. (વર્તુળાકાર, સુરેખ, વાંકોચૂકો/ઝિગ-ઝેગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાંકોચૂકો/ઝિગ-ઝેગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રૌનિયન એટલે 'ભમરા' જેવી ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વાયુના અણુઓની બે અથડામણો વચ્ચેનો સમયગાળો અથડામણના સમયગાળા કરતા _________ હોય છે. (ખૂબ મોટો, ખૂબ નાનો, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથડામણ 'ચપટી' વગાડતા થાય, પણ રસ્તો કાપતા વાર લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ગ્રહ પર વાતાવરણ હોવા માટે rms ઝડપ એ નિષ્ક્રમણ વેગ કરતા _________ હોવી જોઈએ. (વધારે, ઓછી, બમણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અણુઓ નિષ્ક્રમણ વેગ કરતા ઝડપી દોડે તો ગ્રહ છોડીને ભાગી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "હવામાં નાઈટ્રોજન અને ઓક્સિજનના અણુઓની સરેરાશ ગતિઉર્જા _________ હોય છે. (સમાન, અલગ, દળ પર આધારિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશ ગતિઉર્જા માત્ર તાપમાન (T) પર આધાર રાખે, દળ પર નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "એક મોલ વાયુ માટે $PV/T = $ _________. (R, $k_B$, $N_A$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> R</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $PV = nRT$ માં $n=1$ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "નિરપેક્ષ શૂન્ય તાપમાન એટલે _________ °C. (0, -273.15, 273.15)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -273.15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K = -273.15 °C.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વાયુના અણુઓ એકબીજા સાથે અથડાય ત્યારે તેમની વ્યક્તિગત ઝડપ _________. (અચળ રહે, બદલાય, શૂન્ય થાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદલાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથડામણથી વેગની આપ-લે થાય, એટલે ઝડપ બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "કયા વાયુ માટે $C_p/C_v$ ની કિંમત સૌથી વધુ હોય? (He, $O_2$, $NH_3$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> He</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક પરમાણ્વિક (f=3) માટે $\\gamma$ સૌથી મોટો (1.67).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વાયુના અણુઓની $v_{rms}$ ઝડપ એ ધ્વનિની ઝડપ કરતા _________ હોય છે. (ઓછી, વધારે, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુઓ અવાજ કરતા પણ ફાસ્ટ દોડે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "હિલિયમ વાયુ માટે $C_v$ નું મૂલ્ય _________ છે. (1.5R, 2.5R, 3R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.5R</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3/2 R = 1.5 R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "મુક્તિના અંશો $f=6$ હોય તો $\\gamma = $ _________. (1.67, 1.40, 1.33)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.33</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8/6 = 4/3 = 1.33.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "પાત્રનું કદ અડધું કરવાથી અને તાપમાન બમણું કરવાથી દબાણ _________ ગણું થશે. (2, 4, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $P \\propto T/V$, એટલે $2 / (1/2) = 4$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વાયુના ગતિવાદનો પાયો નાખનાર મુખ્ય વૈજ્ઞાનિક _________ હતા. (ન્યૂટન, બર્નૌલી, મેક્સવેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બર્નૌલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1738 માં બર્નૌલીએ આ શરૂઆત કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "તાપમાન વધારતા વાયુની સ્નિગ્ધતા (viscosity) _________. (વધે, ઘટે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહીમાં ઘટે પણ વાયુમાં વધે (યાદ રાખજો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "એક પરમાણ્વિક વાયુ માટે $C_p$ નું મૂલ્ય _________ છે. ($\\frac{3}{2} R$, $\\frac{5}{2} R$, $\\frac{7}{2} R$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{5}{2} R$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $C_p = C_v + R = 1.5R + R = 2.5R$.</p></div>"
+    }
+  ]
+}

@@ -381,3 +381,371 @@ var Std11_Physics_OneWord = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "સુરેખ પથ પર ગતિ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મિકેનિક્સ (યંત્રશાસ્ત્ર) ની કઈ શાખામાં ગતિના કારણોની ચર્ચા કર્યા વગર માત્ર ગતિનો અભ્યાસ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શુદ્ધ ગતિવિજ્ઞાન (Kinematics) માં ગતિના કારણોની ચર્ચા કર્યા વગર માત્ર ગતિનો અભ્યાસ કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kinematics = Kine (ગતિ) + Matics (ગણિત) -> માત્ર ગતિનું ગણિત, કારણ નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભૌતિકવિજ્ઞાનમાં 'કણ' (Point Object) ની સંકલ્પના ક્યારે વાપરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ દ્વારા કપાયેલું અંતર તેના પરિમાણ (Size) કરતા ઘણું વધારે હોય ત્યારે તેને કણ ગણી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર >> કદ = કણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નિર્દેશ ફ્રેમ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવલોકનકાર જે સ્થળેથી અને જે પરિસ્થિતિમાં પદાર્થની ગતિનું અવલોકન કરે છે તેને નિર્દેશ ફ્રેમ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્દેશ ફ્રેમ = યામ પદ્ધતિ + ઘડિયાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પથલંબાઈ (Path Length) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિમાન પદાર્થે આપેલા સમયગાળામાં કાપેલા કુલ અંતરને પથલંબાઈ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથલંબાઈ = વાસ્તવિક માર્ગની લંબાઈ (હંમેશા ધન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સ્થાનાંતર (Displacement) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના સ્થાનમાં થતા ફેરફારને સ્થાનાંતર કહે છે. (અંતિમ સ્થાન - પ્રારંભિક સ્થાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર = ટૂંકામાં ટૂંકો સીધો રસ્તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પથલંબાઈ કેવી ભૌતિક રાશિ છે: સદિશ કે અદિશ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પથલંબાઈ એ અદિશ રાશિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતરને દિશા ન હોય, એટલે અદિશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્થાનાંતરનું મૂલ્ય પથલંબાઈ કરતા ક્યારેય વધી શકે? હા કે ના?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, સ્થાનાંતરનું મૂલ્ય હંમેશા પથલંબાઈ જેટલું અથવા તેનાથી ઓછું જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: |સ્થાનાંતર| ≤ પથલંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કઈ પરિસ્થિતિમાં પથલંબાઈ અને સ્થાનાંતરનું મૂલ્ય સમાન થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ એક જ દિશામાં સુરેખ પથ પર ગતિ કરતો હોય ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ દિશા + સીધો રસ્તો = સમાન મૂલ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નિયમિત ગતિ (Uniform Motion) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પદાર્થ સમયના સમાન ગાળામાં સમાન સ્થાનાંતર કરે, તો તેવી ગતિને નિયમિત ગતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત ગતિ એટલે વેગ અચળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થિર પદાર્થ માટે સ્થાન-સમય (x-t) આલેખનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમયની અક્ષને સમાંતર રેખા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થ હલતો નથી, એટલે ઊંચાઈ (x) બદલાતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સરેરાશ વેગ (Average Velocity) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ વેગ $\\bar{v} = \\frac{\\Delta x}{\\Delta t} = \\frac{x_2 - x_1}{t_2 - t_1}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ = સ્થાનાંતર / સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સરેરાશ ઝડપ (Average Speed) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થે કાપેલી કુલ પથલંબાઈ અને તે માટે લાગતા કુલ સમયના ગુણોત્તરને સરેરાશ ઝડપ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપ = પથલંબાઈ / સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્થાન-સમય (x-t) આલેખનો ઢાળ કઈ ભૌતિક રાશિ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x-t આલેખનો ઢાળ પદાર્થનો વેગ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Slope of x-t = Velocity.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો પદાર્થનો વેગ ઋણ હોય, તો x-t આલેખનો ઢાળ કેવો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x-t આલેખનો ઢાળ પણ ઋણ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવો વેગ, એવો ઢાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તાત્કાલિક વેગ (Instantaneous Velocity) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમયના કોઈ ચોક્કસ ક્ષણે પદાર્થના વેગને તાત્કાલિક વેગ કહે છે. $v = \\lim_{\\Delta t \\to 0} \\frac{\\Delta x}{\\Delta t} = \\frac{dx}{dt}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાત્કાલિક = વિકલન (Differentiation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વેગનો SI એકમ અને પારિમાણિક સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> SI એકમ: $m/s$ (અથવા $ms^{-1}$), પારિમાણિક સૂત્ર: $[M^0 L^1 T^{-1}]$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર (L) / સમય (T) = $L^1 T^{-1}$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વાહનનું સ્પીડોમીટર શું માપે છે: સરેરાશ ઝડપ કે તાત્કાલિક ઝડપ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાહનનું સ્પીડોમીટર 'તાત્કાલિક ઝડપ' (Instantaneous Speed) માપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંટો જે ક્ષણે જે બતાવે તે તાત્કાલિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પ્રવેગ (Acceleration) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના વેગમાં થતા ફેરફારના સમય દરને પ્રવેગ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ = વેગનો ફેરફાર / સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રવેગનો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $m/s^2$ (અથવા $ms^{-2}$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ($m/s$) / સમય($s$) = $m/s^2$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પ્રતિપ્રવેગ (Retardation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પદાર્થનો વેગ સમય સાથે ઘટતો હોય, તો ઉદ્ભવતા ઋણ પ્રવેગને પ્રતિપ્રવેગ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેક લગાવો એટલે પ્રતિપ્રવેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વેગ-સમય (v-t) આલેખનો ઢાળ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> v-t આલેખનો ઢાળ પદાર્થનો પ્રવેગ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Slope of v-t = Acceleration.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વેગ-સમય (v-t) આલેખ નીચે ઘેરાયેલું ક્ષેત્રફળ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> v-t આલેખ નીચે ઘેરાયેલું ક્ષેત્રફળ પદાર્થનું સ્થાનાંતર (અથવા પથલંબાઈ) દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Area of v-t = Displacement.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અચળ પ્રવેગી ગતિનું વેગ અને સમય વચ્ચેનું સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v = v_0 + at$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાત' (v-a-t) સમીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અચળ પ્રવેગી ગતિનું સ્થાન અને સમય વચ્ચેનું સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $x = v_0 t + \\frac{1}{2}at^2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધા 'એટી' (at) સ્ક્વેર વાળું સૂત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વેગ અને સ્થાન વચ્ચેનું સંબંધ દર્શાવતું અચળ પ્રવેગી ગતિનું સમીકરણ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v^2 - v_0^2 = 2ax$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય વગરનું સમીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મુક્ત પતન (Free Fall) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ માત્ર પૃથ્વીના ગુરુત્વાકર્ષણ બળની અસર હેઠળ ગતિ કરે, ત્યારે તેને મુક્ત પતન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતન એટલે પ્રારંભિક વેગ $v_0 = 0$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગુરુત્વ પ્રવેગ 'g' નું સરેરાશ મૂલ્ય કેટલું લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $g = 9.8 \\, m/s^2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાખલામાં સરળતા માટે ક્યારેક 10 પણ લેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શૂન્યાવકાશમાં ભારે અને હલકા પદાર્થને એકસાથે પડતા મૂકતા કયો પદાર્થ જમીન પર વહેલો પહોંચશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને પદાર્થો એકસાથે જમીન પર પહોંચશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતન પદાર્થના દળ પર આધાર રાખતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સ્ટોપિંગ ડિસ્ટન્સ (Stopping Distance) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિમાન વાહનને બ્રેક લગાવ્યા પછી તે સ્થિર થાય તે પહેલા તેણે કાપેલા અંતરને સ્ટોપિંગ ડિસ્ટન્સ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $d_s = \\frac{-v_0^2}{2a}$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રિએક્શન ટાઈમ (Reaction Time) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ ઘટના બને અને વ્યક્તિ તેનો પ્રતિસાદ આપે, તે વચ્ચેના સમયગાળાને રિએક્શન ટાઈમ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિચારવામાં લાગેલો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પદાર્થનો પ્રવેગ શૂન્ય ક્યારે હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ સ્થિર હોય અથવા અચળ વેગથી ગતિ કરતો હોય ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ અચળ = પ્રવેગ ઝીરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "નિયમિત વેગથી ગતિ કરતા પદાર્થ માટે v-t આલેખ કેવો મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમયની અક્ષને સમાંતર સુરેખા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ બદલાતો નથી એટલે ઊંચાઈ અચળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો પદાર્થનો પ્રવેગ ધન હોય, તો v-t આલેખનો ઢાળ કેવો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધન ઢાળ (ઉપર જતી રેખા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ (+) તો ઢાળ (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સાપેક્ષ વેગ (Relative Velocity) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પદાર્થની સાપેક્ષે બીજા પદાર્થના વેગને સાપેક્ષ વેગ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v_{AB} = v_A - v_B$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જો બે પદાર્થો સમાન દિશામાં સમાન વેગથી ગતિ કરતા હોય, તો તેમનો સાપેક્ષ વેગ કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન વેગ - સમાન વેગ = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જો બે પદાર્થો વિરુદ્ધ દિશામાં $v_A$ અને $v_B$ વેગથી ગતિ કરતા હોય, તો તેમની વચ્ચેના સાપેક્ષ વેગનું મૂલ્ય કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $|v_A| + |v_B|$ (બંનેના વેગના સરવાળા જેટલું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ દિશામાં 'વેગનો સરવાળો' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ગતિમાન પદાર્થ માટે પથલંબાઈ શૂન્ય હોઈ શકે? હા કે ના?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, જો પદાર્થ ગતિ કરે તો પથલંબાઈ હંમેશા ધન જ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથલંબાઈ ક્યારેય 'ઝીરો' કે 'ઋણ' ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઉર્ધ્વ દિશામાં ફેંકેલા પદાર્થનો મહત્તમ ઊંચાઈએ વેગ કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર પહોંચીને પદાર્થ ક્ષણિક થોભે, એટલે વેગ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ઉર્ધ્વ દિશામાં ફેંકેલા પદાર્થનો મહત્તમ ઊંચાઈએ પ્રવેગ કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $g = 9.8 \\, m/s^2$ (નીચેની દિશામાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ ઝીરો થાય, પણ ગુરુત્વાકર્ષણ (પ્રવેગ) તો લાગે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પ્રવેગ-સમય (a-t) આલેખ નીચેનું ક્ષેત્રફળ શું આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગમાં થતો ફેરફાર (Change in velocity).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Area of a-t = $\\Delta v$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "જ્યારે પદાર્થ નિયમિત પ્રવેગી ગતિ કરતો હોય, ત્યારે તેનો x-t આલેખ કેવો મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરવલય (Parabola).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x \\propto t^2$ હોય ત્યારે વક્ર આલેખ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "સરેરાશ ઝડપ અને સરેરાશ વેગના મૂલ્યો ક્યારે સમાન થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ સુરેખ પથ પર દિશા બદલ્યા વગર ગતિ કરતો હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ દિશા + સીધો પથ = ઝડપ = વેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "એક પદાર્થ R ત્રિજ્યાવાળા વર્તુળાકાર પથ પર અડધું ચક્ર પૂર્ણ કરે છે, તો તેનું સ્થાનાંતર કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2R (વ્યાસ જેટલું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર એટલે શરૂઆત અને અંત વચ્ચેનું ટૂંકું અંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "એક પદાર્થ R ત્રિજ્યાવાળા વર્તુળાકાર પથ પર એક પૂર્ણ ચક્ર પૂર્ણ કરે છે, તો તેની પથલંબાઈ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2\\pi R$ (પરિઘ જેટલી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથલંબાઈ = કુલ ચાલ્યો તે રસ્તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "કલનશાસ્ત્રની ભાષામાં પ્રવેગ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગનું સમયની સાપેક્ષે પ્રથમ વિકલન અથવા સ્થાનનું સમયની સાપેક્ષે દ્વિતીય વિકલન. $a = \\frac{dv}{dt} = \\frac{d^2x}{dt^2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x -> v -> a (વિકલન કરતા જાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "શું કોઈ પદાર્થનો વેગ શૂન્ય હોવા છતાં પ્રવેગ હોઈ શકે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, ઉર્ધ્વ દિશામાં ફેંકેલા પદાર્થની મહત્તમ ઊંચાઈએ વેગ શૂન્ય હોય છે પણ પ્રવેગ 'g' હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટોચ' પર વેગ 0, પણ g જીવતો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "નિયમિત ગતિ કરતા પદાર્થ માટે પ્રવેગ કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત ગતિ = અચળ વેગ = 0 પ્રવેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "નિયમિત પ્રવેગી ગતિમાં $v^2$ વિરુદ્ધ $x$ નો આલેખ કેવો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરેખા (Straight line).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v^2 = v_0^2 + 2ax$ એ $y = mx + c$ જેવું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "મુક્ત પતન કરતા પદાર્થ માટે $t$ સમયમાં કપાયેલું અંતર કોના પ્રમાણમાં હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમયના વર્ગના સમપ્રમાણમાં ($d \\propto t^2$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $d = \\frac{1}{2}gt^2$ પરથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ગેલીલીયોનો એકી સંખ્યાનો નિયમ શેના માટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિર સ્થિતિમાંથી મુક્ત પતન કરતા પદાર્થે સમાન સમયગાળામાં કાપેલા અંતરોનો ગુણોત્તર 1:3:5:7... હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન સમય = એકી સંખ્યામાં અંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જો $x(t) = 3t^2 + 5$, તો $t=2s$ સમયે વેગ કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v = \\frac{dx}{dt} = 6t$. $t=2$ મૂકતા, $v = 12 \\, m/s$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત આગળ લાવો, એક ઘાત ઘટાડો (વિકલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "સ્થાન $x$ એ સમય $t$ પર $x = At^3$ મુજબ આધાર રાખે છે, તો પ્રવેગનું સૂત્ર શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v = 3At^2$ અને $a = 6At$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે વાર વિકલન કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સુરેખ પથ પર ગતિ કરતા પદાર્થ માટે વેગ અને પ્રવેગની દિશા વિરુદ્ધ હોય, તો પદાર્થની ઝડપ પર શું અસર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થની ઝડપ ઘટશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ દિશા = પ્રતિપ્રવેગ = સ્લો ડાઉન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "એક પરિમાણીય ગતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ માત્ર એક જ અક્ષ (જેમ કે x-અક્ષ) પર ગતિ કરતો હોય, ત્યારે તેને એક પરિમાણીય ગતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર એક જ યામ બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "સરેરાશ ઝડપ ક્યારેય ઋણ હોઈ શકે? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે પથલંબાઈ અને સમય બંને હંમેશા ધન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપ અદિશ છે, તેને દિશા કે ઋણ મૂલ્ય ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જો પદાર્થનો પ્રવેગ અચળ હોય, તો સરેરાશ વેગ કેવી રીતે શોધી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\bar{v} = \\frac{v + v_0}{2}$ (પ્રારંભિક અને અંતિમ વેગની સરેરાશ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ પ્રવેગ હોય તો જ આ સીધી એવરેજ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ગતિ એ નિરપેક્ષ છે કે સાપેક્ષ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિ એ સાપેક્ષ ખ્યાલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સ્થિર છે તે બીજા માટે ગતિમાં હોઈ શકે (દા.ત. ટ્રેન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "શૂન્ય સમયગાળા માટે સરેરાશ વેગ વ્યાખ્યાયિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, શૂન્ય સમયગાળા માટે માત્ર તાત્કાલિક વેગ વ્યાખ્યાયિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશ માટે ચોક્કસ 'ગાળો' જોઈએ, 'ક્ષણ' નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "પદાર્થ દ્વારા $n^{th}$ સેકન્ડમાં કાપેલા અંતરનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $D_n = v_0 + \\frac{a}{2}(2n - 1)$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર કોઈ એક ખાસ સેકન્ડ માટેનું સૂત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "મુક્ત પતન કરતા પદાર્થ માટે $v-t$ આલેખ કેવો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉગમબિંદુમાંથી પસાર થતી ધન ઢાળવાળી સુરેખા (જો નીચેની દિશા ધન ગણીએ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v = gt$, એટલે $y = mx$ જેવો આલેખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "જો x-t આલેખ વક્ર (Curve) હોય, તો તે શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે પદાર્થની બિન-નિયમિત ગતિ અથવા પ્રવેગી ગતિ સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાંકો આલેખ = બદલાતો વેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ટ્રેન સ્થિર ઉભેલી હોય ત્યારે તેની સાપેક્ષે બીજી ટ્રેનનો વેગ કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજી ટ્રેનના પોતાના વેગ જેટલો જ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v_{AB} = v_A - 0 = v_A$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "પદાર્થની મહત્તમ ઊંચાઈએ પહોંચવાનો સમય (Time of ascent) કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $t = \\frac{v_0}{g}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v = v_0 - gt$ માં $v=0$ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જો પદાર્થ સ્થિર હોય, તો તેનો પ્રવેગ-સમય આલેખ કેવો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમયની અક્ષ પર જ સંપાત થતી રેખા ($a=0$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર એટલે કંઈ જ ફેરફાર નહીં, બધું ઝીરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "સ્થાનાંતર ક્યારે ઋણ હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થનું અંતિમ સ્થાન તેના પ્રારંભિક સ્થાનની પાછળ (ઋણ દિશામાં) હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુ ગતિ = ઋણ સ્થાનાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "એક પરિમાણીય ગતિમાં પદાર્થ દિશા ક્યારે બદલે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તેનો વેગ ક્ષણિક શૂન્ય થઈને ચિહ્ન બદલે ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિશા બદલવા માટે યુ-ટર્ન (વેગ = 0) જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "નિયમિત પ્રવેગી ગતિ માટે 'સ્થાન-વેગ' સંબંધનું વિકલન સ્વરૂપ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $a = v \\frac{dv}{dx}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંકળ નિયમ (Chain Rule) નો ઉપયોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "શુ સરેરાશ વેગ શૂન્ય હોવા છતાં સરેરાશ ઝડપ અશૂન્ય હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, જો પદાર્થ જે સ્થાનેથી નીકળે ત્યાં જ પાછો આવે (સ્થાનાંતર = 0, પણ પથલંબાઈ > 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરેથી સ્કૂલે જઈ પાછા ઘરે આવો તો વેગ 0, પણ ઝડપ નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વેગ $v(t)$ નું સમયની સાપેક્ષે સંકલન (Integration) શું આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાનાંતર (Displacement).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકલન = ક્ષેત્રફળ = સ્થાનાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "સુરેખ પથ પર ગતિ કરતો પદાર્થ અડધું અંતર $v_1$ ઝડપથી અને બાકીનું અડધું અંતર $v_2$ ઝડપથી કાપે તો સરેરાશ ઝડપ કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\bar{v} = \\frac{2v_1v_2}{v_1+v_2}$ (હરાત્મક સરેરાશ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર સમાન હોય ત્યારે '2 AB / A+B'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "નિર્દેશ ફ્રેમ સાથે જોડાયેલ કઈ મહત્વની ભૌતિક રાશિ સમયનું માપન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘડિયાળ (Clock).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્દેશ ફ્રેમ એટલે સ્થાન + સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "હવામાં મુક્ત પતન કરતા પદાર્થ પર કયું અવરોધક બળ લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવાનો શ્યાનતા અથવા ડ્રેગ ફોર્સ (Air Resistance).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા પદાર્થને ઉપર ધકેલવા પ્રયત્ન કરે.</p></div>"
+    }
+  ]
+}

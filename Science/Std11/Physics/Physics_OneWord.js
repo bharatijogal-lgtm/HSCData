@@ -3325,3 +3325,371 @@ var Std11_Physics_OneWord = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દ્રવ્યના ઉષ્મીય ગુણધર્મો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "તાપમાન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના ગરમપણા કે ઠંડાપણાની માત્રાને તાપમાન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન = ગરમીની તીવ્રતાનો માપદંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઉષ્મા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થમાં રહેલી તાપીય ઉર્જા કે જે તાપમાનના તફાવતને કારણે વહન પામે છે તેને ઉષ્મા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉષ્મા = વહેતી ઉર્જા (High T to Low T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "તાપમાનનો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાનનો SI એકમ કેલ્વિન (K) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયન્સમાં હંમેશા K (કેલ્વિન) ને જ માન આપવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉષ્માનો SI એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા એ ઉર્જાનું સ્વરૂપ હોવાથી તેનો SI એકમ જૂલ (J) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા ગમે તે હોય, એકમ જૂલ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "1 કેલરી એટલે કેટલા જૂલ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 Cal = 4.186 J (લગભગ 4.2 J).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલરી મોટી છે (4.2 ગણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સેલ્સિયસ અને ફેરનહીટ વચ્ચેનો સંબંધ દર્શાવતું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> tF = (9/5)tC + 32.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = 1.8C + 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિરપેક્ષ શૂન્ય તાપમાન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લઘુત્તમ તાપમાને વાયુનું દબાણ અને કદ શૂન્યવત બને તેને નિરપેક્ષ શૂન્ય તાપમાન (0 K અથવા -273.15 °C) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K = ગેસની હિલચાલ બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આદર્શ વાયુ અવસ્થા સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PV = nRT.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પપ્પુ વેલ્યુ નથી રાખતો' (PV = nRT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાર્વત્રિક વાયુ નિયતાંક R નું મૂલ્ય એકમ સાથે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> R = 8.314 J mol⁻¹ K⁻¹.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8.314 (યાદ રાખવા માટે 8-3-11-4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઉષ્મીય પ્રસરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થનું તાપમાન વધારતા તેના પરિમાણમાં થતા વધારાને ઉષ્મીય પ્રસરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી આપો = પદાર્થ ફૂલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રેખીય પ્રસરણાંક αl ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના એકમ લંબાઈ દીઠ અને એકમ તાપમાનના ફેરફાર દીઠ થતા લંબાઈના ફેરફારને રેખીય પ્રસરણાંક કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: αl = ΔL / (L * ΔT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રેખીય પ્રસરણાંકનો એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> °C⁻¹ અથવા K⁻¹.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાનનો વ્યસ્ત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ક્ષેત્રફળ પ્રસરણાંક αa અને રેખીય પ્રસરણાંક αl વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> αa = 2 αl.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ (2D) એટલે 2 ગણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કદ પ્રસરણાંક αv અને રેખીય પ્રસરણાંક αl વચ્ચેનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> αv = 3 αl.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ (3D) એટલે 3 ગણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાણીનું અસાધારણ પ્રસરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીને 0 °C થી 4 °C સુધી ગરમ કરતા તેનું કદ ઘટવાને બદલે વધે છે, આ ઘટનાને પાણીનું અસાધારણ પ્રસરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ઉલટું ચાલે (0 થી 4 માં સંકોચાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાણીની ઘનતા કયા તાપમાને મહત્તમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4 °C (277 K) તાપમાને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 Degree = Max Density.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઉષ્મા ધારિતા (Heat Capacity) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના તાપમાનમાં 1 એકમનો ફેરફાર કરવા માટે આપવી પડતી ઉષ્માને ઉષ્મા ધારિતા (S) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S = ΔQ / ΔT.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિશિષ્ટ ઉષ્મા ધારિતા (Specific Heat Capacity) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના એકમ દળનું તાપમાન 1 એકમ બદલવા માટે આપવી પડતી ઉષ્માને તે પદાર્થની વિશિષ્ટ ઉષ્મા ધારિતા (s) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s = ΔQ / (m * ΔT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિશિષ્ટ ઉષ્મા ધારિતાનો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J kg⁻¹ K⁻¹.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂલ પ્રતિ કિલો-કેલ્વિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મોલર વિશિષ્ટ ઉષ્મા ધારિતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના 1 મોલ જથ્થાનું તાપમાન 1 એકમ વધારવા માટે જરૂરી ઉષ્માને મોલર વિશિષ્ટ ઉષ્મા ધારિતા (C) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C = ΔQ / (n * ΔT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અચળ દબાણે મોલર વિશિષ્ટ ઉષ્મા (Cp) અને અચળ કદની મોલર વિશિષ્ટ ઉષ્મા (Cv) વચ્ચેનો સંબંધ (મેયરનું સમીકરણ) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cp - Cv = R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CP હંમેશા મોટો હોય (Cp > Cv).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કેલરીમિતિ (Calorimetry) નો સિદ્ધાંત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલગ કરેલા તંત્રમાં ગરમ પદાર્થે ગુમાવેલી ઉષ્મા = ઠંડા પદાર્થે મેળવેલી ઉષ્મા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heat Lost = Heat Gained.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અવસ્થા ફેરફાર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા આપતા કે લેતા પદાર્થનું એક ભૌતિક સ્થિતિમાંથી બીજી સ્થિતિમાં રૂપાંતર થવું તેને અવસ્થા ફેરફાર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન ⇄ પ્રવાહી ⇄ વાયુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગલનબિંદુ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે નિયત તાપમાને પદાર્થ ઘન અવસ્થામાંથી પ્રવાહી અવસ્થામાં રૂપાંતર પામે તેને ગલનબિંદુ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગલન = ઓગળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઉત્કલનબિંદુની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે નિયત તાપમાને પ્રવાહીનું બાષ્પદબાણ વાતાવરણના દબાણ જેટલું થાય અને તે વાયુમાં રૂપાંતર પામે તેને ઉત્કલનબિંદુ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્કલન = ઉકળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પુનઃહિમીભવન (Regelation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દબાણ વધારતા બરફનું ગલનબિંદુ ઘટે છે અને દબાણ હટાવતા તે ફરીથી જામી જાય છે, આ ઘટનાને પુનઃહિમીભવન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણથી ઓગળે, હટાવતા જામી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગુપ્ત ઉષ્મા (Latent Heat) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થની અવસ્થા બદલવા માટે જરૂરી ઉષ્મા જે તાપમાનમાં ફેરફાર કરતી નથી તેને ગુપ્ત ઉષ્મા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q = mL (તાપમાન અચળ રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગલન ગુપ્ત ઉષ્મા (Lf) નો એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J kg⁻¹.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા / દળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બાષ્પાયન ગુપ્ત ઉષ્મા (Lv) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ દળના પ્રવાહીને તેના ઉત્કલનબિંદુએ વાયુમાં રૂપાંતરિત કરવા માટે જરૂરી ઉષ્માને બાષ્પાયન ગુપ્ત ઉષ્મા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી → વાયુ (Level Up).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઉર્ધ્વપાતન (Sublimation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થનું ઘન અવસ્થામાંથી સીધું જ વાયુ અવસ્થામાં રૂપાંતર થવાની ઘટનાને ઉર્ધ્વપાતન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Liquid (Solid to Gas directly).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પાણીનું ત્રિબિંદુ (Triple Point) તાપમાન કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 273.16 K (અથવા 0.01 °C).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં પાણીની ત્રણે અવસ્થા ભેગી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ઉષ્મા વહનના ત્રણ પ્રકારો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. ઉષ્મા વહન, 2. ઉષ્મા નયન, 3. ઉષ્મા વિકિરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Conduction, Convection, Radiation.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઉષ્મા વહન (Conduction) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માધ્યમના કણોના સ્થાનાંતર વગર ઉષ્માના વહનની રીતને ઉષ્મા વહન કહે છે (મુખ્યત્વે ઘન પદાર્થોમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણો હાલે નહીં, ઉર્જા હાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ઉષ્મા નયન (Convection) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માધ્યમના કણોના વાસ્તવિક સ્થાનાંતર દ્વારા થતા ઉષ્મા વહનને ઉષ્મા નયન કહે છે (પ્રવાહી અને વાયુમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણો પોતે ઉર્જા લઈને જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ઉષ્મા વિકિરણ (Radiation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માધ્યમની હાજરી વગર વિદ્યુતચુંબકીય મોજાં સ્વરૂપે થતા ઉષ્માના વહનને ઉષ્મા વિકિરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યાવકાશમાં પણ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ઉષ્મા વાહકતા (Thermal Conductivity) k નો એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> W m⁻¹ K⁻¹ અથવા J s⁻¹ m⁻¹ K⁻¹.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોટ પ્રતિ મીટર-કેલ્વિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સ્થાયી ઉષ્મા અવસ્થા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે સળિયાના દરેક છેદનું તાપમાન સમય સાથે બદલાતું અટકી જાય (સ્થિર થાય), ત્યારે તેને સ્થાયી ઉષ્મા અવસ્થા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન vs સમય = Constant.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઉષ્મા પ્રવાહ (H) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> H = ΔQ / Δt = kA (T1 - T2) / L.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H = kA * તાપમાન પ્રચલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "તાપમાન પ્રચલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સળિયાની એકમ લંબાઈ દીઠ તાપમાનમાં થતા ફેરફારને તાપમાન પ્રચલન (ΔT/ΔL) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન / લંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "કયો પદાર્થ શ્રેષ્ઠ ઉષ્મા વાહક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંદી (Silver).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોંઘું છે એટલે બેસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ઉષ્મીય અવરોધ (Thermal Resistance) નું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Rth = L / (kA).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યુત અવરોધ (L/σA) જેવું જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "કુદરતી ઉષ્મા નયનનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરિયાઈ લહેરો અને જમીન પરની લહેરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવનનું ફૂંકાવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "પ્રણોદિત (Forced) ઉષ્મા નયન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પંપ કે પંખા જેવા બાહ્ય સાધનો વડે દ્રવ્યનું સ્થાનાંતર કરવામાં આવે ત્યારે તેને પ્રણોદિત ઉષ્મા નયન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખા દ્વારા ઠંડક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "બ્લેક બોડી (કૃષ્ણ પદાર્થ) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ તેના પર આપાત થતા તમામ તરંગલંબાઈના વિકિરણોનું સંપૂર્ણ શોષણ કરે તેને કૃષ્ણ પદાર્થ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100% શોષક, 0% પરાવર્તક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સ્ટીફન-બોલ્ટઝમેનનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કૃષ્ણ પદાર્થ દ્વારા ઉત્સર્જાતી વિકિરણ ઉર્જા તેના નિરપેક્ષ તાપમાનની ચતુર્થ ઘાતના સમપ્રમાણમાં હોય છે (H = σAT⁴).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E ∝ T⁴.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "સ્ટીફન-બોલ્ટઝમેન અચળાંક σ નું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> σ = 5.67 × 10⁻⁸ W m⁻² K⁻⁴.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5-6-7-8 (યાદ રાખવા માટે ક્રમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વીનનો સ્થાનાંતરનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ ઉત્સર્જન ક્ષમતા ધરાવતી તરંગલંબાઈ (λm) તેના નિરપેક્ષ તાપમાનના વ્યસ્ત પ્રમાણમાં હોય છે (λm T = constant).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન વધે, તરંગલંબાઈ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વીનનો અચળાંક (b) કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2.9 × 10⁻³ m K.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2.9 (લગભગ 3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ન્યુટનનો શીતનનો નિયમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના ઠંડા પડવાનો દર તે પદાર્થ અને વાતાવરણના તાપમાનના તફાવતના સમપ્રમાણમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: dQ/dt ∝ (T - Ts).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ન્યુટનના શીતનના નિયમની મર્યાદા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાનનો તફાવત બહુ મોટો ન હોવો જોઈએ (લગભગ 40 °C થી ઓછો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના તફાવત માટે જ સાચો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઉત્સર્જકતા (Emissivity) 'e' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ તાપમાને પદાર્થની ઉત્સર્જન શક્તિ અને તે જ તાપમાને કૃષ્ણ પદાર્થની ઉત્સર્જન શક્તિના ગુણોત્તરને ઉત્સર્જકતા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: e = પદાર્થ / બ્લેક બોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "આદર્શ કૃષ્ણ પદાર્થ માટે e નું મૂલ્ય કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> e = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ફેક્ટ બ્લેક = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સૂર્યની સપાટીનું તાપમાન માપવા કયા નિયમનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીનનો સ્થાનાંતરનો નિયમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલર પરથી તાપમાન (વીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ઉષ્મા ગતિશાસ્ત્રનો શૂન્ય ક્રમનો નિયમ શેની વ્યાખ્યા આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાનની.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0th Law = Temperature Concept.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "શા માટે શિયાળામાં ઉનના કપડાં પહેરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉન ઉષ્માનું મંદ વાહક છે અને તેના રેસાઓ વચ્ચેની હવા ઉષ્માનું વહન અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા = બેસ્ટ ઈન્સ્યુલેટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "બરફની ગલન ગુપ્ત ઉષ્માનું મૂલ્ય કેટલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3.33 × 10⁵ J/kg (અથવા 80 cal/g).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ice Melting = 80 cal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પાણીની બાષ્પાયન ગુપ્ત ઉષ્માનું મૂલ્ય કેટલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 22.6 × 10⁵ J/kg (અથવા 540 cal/g).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Steam = 540 cal (બરફ કરતા ઘણી વધુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પ્રેસર કુકરમાં રસોઈ ઝડપથી કેમ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચા દબાણે પાણીનું ઉત્કલનબિંદુ વધે છે, જેથી ખોરાકને વધુ ઉષ્મા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pressure ↑ BP ↑ Cooking Fast.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "પર્વતો પર રસોઈ બનાવવી કેમ મુશ્કેલ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચાઈ પર વાતાવરણનું દબાણ ઓછું હોવાથી પાણી નીચા તાપમાને ઉકળવા લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Height ↑ Pressure ↓ BP ↓.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "સૂર્યની ઉર્જા પૃથ્વી સુધી કઈ રીતે પહોંચે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા વિકિરણ (Radiation) દ્વારા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેક્યૂમમાં માત્ર વિકિરણ જ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "બે પદાર્થો ઉષ્મીય સંપર્કમાં હોય ત્યારે શું સમાન થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમનું તાપમાન સમાન થાય (તાપીય સંતુલન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે 'Same Temperature'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "લોખંડના સળિયાના એક છેડાને ગરમ કરતા બીજો છેડો કઈ પ્રક્રિયાથી ગરમ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા વહન (Conduction).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોલિડ = વહન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિશિષ્ટ ઉષ્માનું પારિમાણિક સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M⁰ L² T⁻² K⁻¹].</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા / (દળ * તાપમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કયા પ્રવાહીની વિશિષ્ટ ઉષ્મા સૌથી વધુ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી (Water).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી જલદી ગરમ કે ઠંડુ થતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "જ્યારે પાણીનું બરફમાં રૂપાંતર થાય ત્યારે ઉષ્મા મુક્ત થાય કે શોષાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા મુક્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થીજવું = ગરમી બહાર કાઢવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "તાપમાન વધારતા પદાર્થની લંબાઈમાં થતા ફેરફારનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ΔL = αl L ΔT.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેરફાર = આલ્ફા * ઓરિજિનલ * તાપમાન ફેરફાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "રેલવેના પાટા વચ્ચે જગ્યા કેમ રાખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉનાળામાં ઉષ્મીય પ્રસરણને કારણે પાટા વળી ન જાય તે માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગ્યા = Expansion માટેની સેફ્ટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "સ્કેલ (માપપટ્ટી) કયા પદાર્થની બનેલી હોવી જોઈએ જેથી તાપમાનની અસર ઓછી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્વાર (Invar) - કારણ કે તેનો પ્રસરણાંક ખૂબ ઓછો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Invar = Invariable (ન બદલાય તેવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "ગરમ દૂધને પંખા નીચે રાખતા કઈ રીતે ઠંડુ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રણોદિત ઉષ્મા નયન અને બાષ્પીભવન દ્વારા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખો = Forced Convection.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "શીતન દર (Cooling Rate) નો એકમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> °C/s અથવા K/s.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન / સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "ઉષ્મીય સંતુલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે પદાર્થો વચ્ચે ઉષ્માની ચોખ્ખી આપ-લે શૂન્ય થાય ત્યારે તેઓ ઉષ્મીય સંતુલનમાં છે તેમ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T1 = T2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "તાપમાન માપવા માટેના સાધનને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થર્મોમીટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મો (Heat) + મીટર (Measure).</p></div>"
+    }
+  ]
+}

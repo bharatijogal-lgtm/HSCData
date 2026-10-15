@@ -3693,3 +3693,386 @@ var Std11_Physics_OneWord = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "થર્મોડાયનેમિક્સ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "થર્મોડાયનેમિક્સ વિજ્ઞાનની કઈ શાખા સાથે સંકળાયેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થર્મોડાયનેમિક્સ એ ઉષ્મા, તાપમાન અને કાર્યના આંતરરૂપાંતરણો સાથે સંકળાયેલી ભૌતિકવિજ્ઞાનની શાખા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મો (ઉષ્મા) + ડાયનેમિક્સ (ગતિ/કાર્ય) = ઉષ્મા અને કાર્યનો સંબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "થર્મોડાયનેમિક તંત્ર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિશ્ચિત સીમારેખા ધરાવતા દ્રવ્યના જથ્થાને, જેની સ્થિતિ દબાણ, કદ અને તાપમાન દ્વારા વર્ણવી શકાય, તેને થર્મોડાયનેમિક તંત્ર કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંત્ર = (P, V, T) ની ઓળખ ધરાવતો દ્રવ્યનો જથ્થો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પરિસરમાં (Surroundings) કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્ર સિવાયના બાકીના બ્રહ્માંડના ભાગને, જે તંત્ર સાથે આંતરક્રિયા કરી શકે છે, તેને પરિસર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રહ્માંડ - તંત્ર = પરિસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તાપમાન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન એ પદાર્થની ગરમી કે ઠંડીની માત્રા દર્શાવતી ભૌતિક રાશિ છે, જે ઉષ્માના વહનની દિશા નક્કી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન = ઉષ્માનું લેવલ (Level of Heat).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઉષ્મીય સંતુલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે તંત્રો એકબીજાના સંપર્કમાં હોય અને તેમની વચ્ચે ઉષ્માની ચોખ્ખી આપ-લે ન થતી હોય, ત્યારે તેઓ ઉષ્મીય સંતુલનમાં છે તેમ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉષ્મીય સંતુલન = સમાન તાપમાન (ΔT = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "થર્મોડાયનેમિક્સનો શૂન્ય ક્રમનો નિયમ (Zeroth Law) શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો બે તંત્રો A અને B અલગ-અલગ ત્રીજા તંત્ર C સાથે ઉષ્મીય સંતુલનમાં હોય, તો A અને B પણ એકબીજા સાથે ઉષ્મીય સંતુલનમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો A=C અને B=C, તો A=B (તાપમાનની સમાનતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "થર્મોડાયનેમિક્સનો શૂન્ય ક્રમનો નિયમ કઈ ભૌતિક રાશિની વ્યાખ્યા આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય ક્રમનો નિયમ 'તાપમાન' (Temperature) ની ભૌતિક રાશિની વ્યાખ્યા આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zeroth Law -> Zero error in Temperature definition.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આંતરિક ઉર્જા (Internal Energy) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રના અણુઓની અસ્તવ્યસ્ત ગતિને કારણે ગતિઉર્જા અને અણુઓ વચ્ચેના બળોને કારણે સ્થિતિઉર્જાના સરવાળાને આંતરિક ઉર્જા (U) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U = K (ગતિ) + P (સ્થિતિ) - અંદરની શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આંતરિક ઉર્જા કઈ બાબત પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતરિક ઉર્જા એ તંત્રની અવસ્થા (તાપમાન) પર આધાર રાખે છે, તે અવસ્થા પ્રાપ્ત કરવાની રીત પર આધારિત નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U એ 'State Function' છે, 'Path Function' નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "થર્મોડાયનેમિક્સનો પ્રથમ નિયમ કયા સંરક્ષણના નિયમ પર આધારિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થર્મોડાયનેમિક્સનો પ્રથમ નિયમ 'ઉર્જા સંરક્ષણના નિયમ' પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1st Law = Conservation of Energy.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "થર્મોડાયનેમિક્સના પ્રથમ નિયમનું ગાણિતિક સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta Q = \\Delta U + \\Delta W$, જ્યાં $\\Delta Q$ એ આપેલી ઉષ્મા, $\\Delta U$ આંતરિક ઉર્જાનો ફેરફાર અને $\\Delta W$ થયેલું કાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપી ઉષ્મા (Q) = વધી ઉર્જા (U) + કર્યું કામ (W).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જ્યારે તંત્ર દ્વારા કાર્ય કરવામાં આવે, ત્યારે કાર્ય (W) ની સંજ્ઞા શું લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તંત્ર દ્વારા (By the system) કાર્ય થાય ત્યારે તે ધન (+) લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંત્ર કામ કરે તો (+) પ્રોફિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જ્યારે તંત્ર પર કાર્ય કરવામાં આવે, ત્યારે કાર્ય (W) ની સંજ્ઞા શું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તંત્ર પર (On the system) કાર્ય થાય ત્યારે તે ઋણ (-) લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારથી કાર્ય લાદવામાં આવે તો (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "તંત્ર દ્વારા શોષાયેલી ઉષ્માની સંજ્ઞા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્ર દ્વારા શોષાયેલી ઉષ્મા ધન (+) લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોષાયેલી (In) = (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તંત્ર દ્વારા મુક્ત થતી ઉષ્માની સંજ્ઞા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્ર દ્વારા ગુમાવેલી કે મુક્ત થયેલી ઉષ્મા ઋણ (-) લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત થયેલી (Out) = (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિશિષ્ટ ઉષ્માધારિતા (Specific Heat Capacity) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ દળના પદાર્થનું તાપમાન 1 એકમ જેટલું વધારવા માટે આપવી પડતી ઉષ્માને તે પદાર્થની વિશિષ્ટ ઉષ્માધારિતા (s) કહે છે. $s = \\frac{\\Delta Q}{m \\Delta T}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s = ઉષ્મા / (દળ × તાપમાનનો ફેરફાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મોલર વિશિષ્ટ ઉષ્માધારિતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 મોલ પદાર્થનું તાપમાન 1 એકમ વધારવા માટે આપવી પડતી ઉષ્માને મોલર વિશિષ્ટ ઉષ્માધારિતા (C) કહે છે. $C = \\frac{1}{\\mu} \\frac{\\Delta Q}{\\Delta T}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C = ઉષ્મા / (મોલ × ΔT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અચળ કદે મોલર વિશિષ્ટ ઉષ્માધારિતા ($C_v$) અને અચળ દબાણે મોલર વિશિષ્ટ ઉષ્માધારિતા ($C_p$) વચ્ચેનો સંબંધ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદર્શ વાયુ માટે મેયરનું સમીકરણ: $C_p - C_v = R$, જ્યાં R એ સાર્વત્રિક વાયુ નિયતાંક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાછળ P (Pressure) હોય તે મોટી હોય. $C_p > C_v$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શા માટે $C_p > C_v$ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ દબાણે આપવામાં આવેલી ઉષ્મા આંતરિક ઉર્જા વધારવાની સાથે કાર્ય પણ કરે છે, જ્યારે અચળ કદે માત્ર આંતરિક ઉર્જા જ વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $C_p$ માં ઉષ્મા = $U$ + $W$, $C_v$ માં ઉષ્મા = માત્ર $U$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમતાપી પ્રક્રિયા (Isothermal Process) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે થર્મોડાયનેમિક પ્રક્રિયા દરમિયાન તંત્રનું તાપમાન અચળ રહેતું હોય, તેને સમતાપી પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમતાપી = સમાન તાપમાન (ΔT = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમકદ પ્રક્રિયા (Isochoric Process) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા દરમિયાન તંત્રનું કદ અચળ રહેતું હોય, તેને સમકદ પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમકદ = સમાન કદ (ΔV = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમદાબ પ્રક્રિયા (Isobaric Process) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા દરમિયાન તંત્રનું દબાણ અચળ જળવાઈ રહેતું હોય, તેને સમદાબ પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમદાબ = સમાન દબાણ (ΔP = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મોક્ષ (Adiabatic) અથવા સમોષ્મી પ્રક્રિયા કોને કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા દરમિયાન તંત્ર અને પરિસર વચ્ચે ઉષ્માની આપ-લે ન થતી હોય (ΔQ = 0), તેને સમોષ્મી પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોષ્મી = સમાન ઉષ્મા (ΔQ = 0), ઈન્સ્યુલેટેડ તંત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ચક્રીય પ્રક્રિયા (Cyclic Process) માં આંતરિક ઉર્જાનો ફેરફાર કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચક્રીય પ્રક્રિયામાં તંત્ર અંતે તેની મૂળ સ્થિતિમાં પાછું આવતું હોવાથી આંતરિક ઉર્જાનો ફેરફાર શૂન્ય (ΔU = 0) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્રીય = જ્યાં હતા ત્યાં જ પાછા (ΔU = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અવસ્થા સમીકરણ (Equation of State) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રના દબાણ P, કદ V અને તાપમાન T વચ્ચેનો સંબંધ દર્શાવતા સમીકરણને અવસ્થા સમીકરણ કહે છે. આદર્શ વાયુ માટે: PV = nRT.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P, V, T ને જોડતું સૂત્ર = PV = nRT.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સમતાપી પ્રક્રિયા માટે અવસ્થા સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતાપી પ્રક્રિયા માટે T અચળ હોવાથી: PV = અચળ (બોઈલનો નિયમ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Temp Const. => PV = Const.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સમોષ્મી પ્રક્રિયા માટે P અને V વચ્ચેનો સંબંધ દર્શાવતું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $PV^\\gamma = \\text{અચળ}$, જ્યાં $\\gamma = C_p / C_v$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોષ્મીમાં 'ગામા' ($ \\gamma $) પાવર યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ક્વાસી-સ્ટેટિક (Quasi-static) પ્રક્રિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એવી અત્યંત ધીમી પ્રક્રિયા કે જેનો દરેક તબક્કો સંતુલન સ્થિતિમાં હોય, તેને ક્વાસી-સ્ટેટિક પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Quasi = લગભગ, Static = સ્થિર. લગભગ સ્થિર જેવી ધીમી ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સમતાપી વિસ્તરણમાં આદર્શ વાયુ દ્વારા થતા કાર્યનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $W = nRT \\ln(V_2 / V_1)$ અથવા $W = 2.303 nRT \\log_{10}(V_2 / V_1)$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમતાપી કાર્ય = Logarithm વાળું સૂત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સમોષ્મી પ્રક્રિયામાં થતા કાર્યનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $W = \\frac{R(T_1 - T_2)}{\\gamma - 1}$ અથવા $W = \\frac{P_1V_1 - P_2V_2}{\\gamma - 1}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં $(\\gamma - 1)$ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સમકદ પ્રક્રિયામાં થતું કાર્ય કેટલું હોય? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમકદ પ્રક્રિયામાં કાર્ય શૂન્ય ($W = 0$) હોય છે, કારણ કે કદમાં ફેરફાર થતો નથી (ΔV = 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No change in V = No Work.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "P-V આલેખ હેઠળનું ક્ષેત્રફળ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P-V આલેખ (સૂચક આલેખ) હેઠળ ઘેરાયેલું ક્ષેત્રફળ તંત્ર દ્વારા થયેલું 'કાર્ય' દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Area of P-V Graph = Work Done.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કયા પ્રકારની પ્રક્રિયાનો ઢાળ P-V આલેખમાં વધુ હોય છે: સમતાપી કે સમોષ્મી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમોષ્મી પ્રક્રિયાનો ઢાળ, સમતાપી પ્રક્રિયાના ઢાળ કરતા $\\gamma$ ગણો વધુ (વધારે તીવ્ર) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોષ્મી = Steep (વધારે ઊભો ઢાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ઉષ્મા એન્જિન (Heat Engine) નું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા એન્જિન એ ઉષ્મા ઉર્જાનું યાંત્રિક કાર્યમાં રૂપાંતર કરતું સાધન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Heat In -> Work Out.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ઉષ્મા એન્જિનના મુખ્ય ત્રણ ભાગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ગરમ પ્રાપ્તિસ્થાન (Source), (2) કાર્યકારી પદાર્થ (Working Substance), (3) ઠંડુ પ્રાપ્તિસ્થાન (Sink).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Source (High T) -> Engine -> Sink (Low T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ઉષ્મા એન્જિનની કાર્યક્ષમતા (Efficiency) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\eta = \\frac{W}{Q_1} = 1 - \\frac{Q_2}{Q_1}$, જ્યાં $Q_1$ શોષાયેલી ઉષ્મા અને $Q_2$ મુક્ત થયેલી ઉષ્મા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Efficiency = Output / Input.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "રેફ્રિજરેટરનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેફ્રિજરેટર ઠંડા પદાર્થમાંથી ઉષ્મા શોષીને તેને ગરમ પરિસરમાં ઠાલવે છે, જેના માટે તેના પર બાહ્ય કાર્ય કરવું પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિવર્સ ઉષ્મા એન્જિન (Cold to Hot).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "રેફ્રિજરેટરના પરફોર્મન્સ ગુણાંક (Coefficient of Performance - $\\alpha$) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\alpha = \\frac{Q_2}{W} = \\frac{Q_2}{Q_1 - Q_2}$, જ્યાં $Q_2$ ઠંડા પદાર્થમાંથી શોષેલી ઉષ્મા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\alpha$ = ઠંડક / કાર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "થર્મોડાયનેમિક્સનો બીજો નિયમ (કેલ્વિન-પ્લાન્કનું કથન) શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એવી પ્રક્રિયા શક્ય નથી કે જેનો એકમાત્ર પરિણામ ઉષ્માનું સંપૂર્ણપણે કાર્યમાં રૂપાંતર હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100% કાર્યક્ષમતા અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "થર્મોડાયનેમિક્સનો બીજો નિયમ (ક્લોસિયસનું કથન) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્ય કાર્યની મદદ વગર નીચા તાપમાનવાળા પદાર્થમાંથી ઉંચા તાપમાનવાળા પદાર્થ તરફ ઉષ્માનું વહન અશક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી આપમેળે ઠંડાથી ગરમ ન જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ઉત્ક્રમણીય (Reversible) પ્રક્રિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયાને ઉલટાવતા તંત્ર અને પરિસર બંને તેમની મૂળ સ્થિતિમાં પાછા ફરી શકે, તેને ઉત્ક્રમણીય પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reverse = Back to Same Path.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "શા માટે કુદરતી પ્રક્રિયાઓ અનુત્ક્રમણીય (Irreversible) હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘર્ષણ, સ્નિગ્ધતા જેવા અવરોધક બળો અને પ્રક્રિયાના અતિ ઝડપી વેગને કારણે કુદરતી પ્રક્રિયાઓ અનુત્ક્રમણીય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ = અનુત્ક્રમણીયતાનું મુખ્ય કારણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "કાર્નોટ એન્જિન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્નોટ એન્જિન એ આદર્શ, ઉત્ક્રમણીય એન્જિન છે, જેની કાર્યક્ષમતા આપેલ બે તાપમાન વચ્ચે મહત્તમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્નોટ = આદર્શ/પરફેક્ટ એન્જિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કાર્નોટ ચક્રના ચાર તબક્કાઓ ક્રમમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સમતાપી વિસ્તરણ, (2) સમોષ્મી વિસ્તરણ, (3) સમતાપી સંકોચન, (4) સમોષ્મી સંકોચન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isothermal -> Adiabatic (Expansion then Compression).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "કાર્નોટ એન્જિનની કાર્યક્ષમતાનું તાપમાનના પદમાં સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\eta = 1 - \\frac{T_2}{T_1}$, જ્યાં $T_1$ પ્રાપ્તિસ્થાનનું તાપમાન અને $T_2$ સિંકનું તાપમાન (કેલ્વિનમાં) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\eta = 1 - (T_{\\text{cold}} / T_{\\text{hot}})$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "શું કાર્નોટ એન્જિનની કાર્યક્ષમતા 100% (અથવા 1) થઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે 100% કાર્યક્ષમતા માટે સિંકનું તાપમાન $T_2 = 0 \\text{ K}$ હોવું જોઈએ, જે વ્યવહારમાં અશક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $T_2 = 0 \\text{ K}$ (નિરપેક્ષ શૂન્ય) અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "મેયરના સૂત્રમાં વપરાતા 'R' નું મૂલ્ય SI એકમમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાર્વત્રિક વાયુ નિયતાંક $R = 8.314 \\text{ J/mol}\\cdot\\text{K}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R = 8.314 (ભૌતિકવિજ્ઞાનનો ફેવરિટ નંબર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "એકપરમાણ્વિક વાયુ (Monatomic gas) માટે $\\gamma$ નું મૂલ્ય કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકપરમાણ્વિક વાયુ માટે $C_p = \\frac{5}{2}R$ અને $C_v = \\frac{3}{2}R$, તેથી $\\gamma = 5/3 \\approx 1.67$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mono = 5/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "દ્વિપરમાણ્વિક વાયુ (Diatomic gas) માટે $\\gamma$ નું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિપરમાણ્વિક વાયુ (સામાન્ય તાપમાને) માટે $C_p = \\frac{7}{2}R$ અને $C_v = \\frac{5}{2}R$, તેથી $\\gamma = 7/5 = 1.4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Di = 7/5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "મુક્ત વિસ્તરણ (Free Expansion) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે વાયુ શૂન્યાવકાશમાં વિસ્તરણ પામે ત્યારે તેને મુક્ત વિસ્તરણ કહે છે, જેમાં $W = 0$ અને $\\Delta Q = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રી = કોઈ અવરોધ નથી = કોઈ કાર્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઉષ્મા એ કયા પ્રકારની ભૌતિક રાશિ છે: અવસ્થા વિધેય કે માર્ગ વિધેય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા (Q) એ 'માર્ગ વિધેય' (Path Function) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q અને W બંને રસ્તા પર આધાર રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પાણીની વિશિષ્ટ ઉષ્માધારિતાનું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીની વિશિષ્ટ ઉષ્માધારિતા $4186 \\text{ J/kg}\\cdot\\text{K}$ અથવા આશરે $1 \\text{ cal/g}\\cdot^{\\circ}\\text{C}$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી = સૌથી વધુ વિશિષ્ટ ઉષ્મા (4186).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "થર્મોડાયનેમિક્સનો કયો નિયમ 'એન્ટ્રોપી' ની વિભાવના સાથે સંકળાયેલ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થર્મોડાયનેમિક્સનો બીજો નિયમ એન્ટ્રોપી (અવ્યવસ્થા) સાથે સંકળાયેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2nd Law = Entropy Law.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ઉષ્મા પંપ (Heat Pump) નો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા પંપનો ઉદ્દેશ્ય બહારથી ઉષ્મા શોષીને અંદરના ભાગ (ઓરડા) ને ગરમ રાખવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીટ પંપ = ઠંડીમાં ગરમી આપવા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "P-V આલેખમાં 'ચક્રીય પ્રક્રિયા' ધન કાર્ય ક્યારે દર્શાવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો P-V આલેખમાં ચક્ર 'ઘડિયાળના કાંટાની દિશામાં' (Clockwise) હોય, તો કાર્ય ધન (+) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Clockwise = Work Done BY System (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "આઈસોલેટેડ (અલગ કરેલા) તંત્ર માટે પ્રથમ નિયમ શું બને?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આઈસોલેટેડ તંત્ર માટે $\\Delta Q = 0$ અને $W = 0$, તેથી $\\Delta U = 0$ એટલે કે આંતરિક ઉર્જા અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No contact = No change in U.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "તાપમાન વધારતા વાયુની આંતરિક ઉર્જામાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુનું તાપમાન વધારતા તેના અણુઓની ગતિઉર્જા વધે છે, તેથી આંતરિક ઉર્જામાં વધારો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $T \\propto U$. તાપમાન વધે તો ઉર્જા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "કાર્નોટ પ્રમેય (Carnot Theorem) શું જણાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલા બે તાપમાન વચ્ચે કામ કરતા કોઈપણ એન્જિનની કાર્યક્ષમતા કાર્નોટ એન્જિન કરતા વધુ હોઈ શકે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્નોટ = મેક્સિમમ લિમિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ઉષ્મા એન્જિનમાં સિંકનું તાપમાન વધારવામાં આવે તો કાર્યક્ષમતા પર શું અસર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂત્ર $\\eta = 1 - T_2/T_1$ મુજબ, જો સિંકનું તાપમાન $T_2$ વધે, તો કાર્યક્ષમતા $\\eta$ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $T_2$ અને $\\eta$ વચ્ચે વ્યસ્ત જેવો સંબંધ (T2 વધે તો એફિશિયન્સી ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "પ્રથમ નિયમ અનુસાર ઉષ્મા, કાર્ય અને આંતરિક ઉર્જા વચ્ચેનો તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉષ્મા અને કાર્ય એ ટ્રાન્ઝિટ (વહન) માં રહેલી ઉર્જા છે, જ્યારે આંતરિક ઉર્જા એ તંત્રની સંગ્રહિત ઉર્જા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U = સ્ટોરેજ, Q & W = ટ્રાન્સફર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "સમોષ્મી પ્રક્રિયા માટે પાત્રની દીવાલો કેવી હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમોષ્મી પ્રક્રિયા માટે પાત્રની દીવાલો ઉષ્માની અવાહક (Adiabatic walls) હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાહક દીવાલ = No heat loss.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "સમતાપી પ્રક્રિયા માટે પાત્રની દીવાલો કેવી હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતાપી પ્રક્રિયા માટે પાત્રની દીવાલો ઉષ્માની સુવાહક (Diathermic walls) હોવી જોઈએ જેથી તાપમાન અચળ રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુવાહક દીવાલ = Temp Balance.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ચક્રીય પ્રક્રિયામાં શોષાયેલી કુલ ઉષ્મા કોના બરાબર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચક્રીય પ્રક્રિયામાં $\\Delta U = 0$ હોવાથી, શોષાયેલી કુલ ઉષ્મા તંત્ર દ્વારા થયેલા કુલ કાર્ય બરાબર હોય છે ($Q = W$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cyclic process: All Heat = All Work.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વાયુનું સમતાપી સંકોચન કરવા માટે તેના પર શું કરવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુનું સમતાપી સંકોચન કરવા માટે તેના પર બાહ્ય કાર્ય કરવું પડે અને ઉત્પન્ન થતી ઉષ્મા દૂર કરવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકોચન = Work ON system.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "ઉષ્મા અને કાર્યના એકમો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને ઉર્જાના સ્વરૂપો હોવાથી તેમનો SI એકમ 'જૂલ' (J) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા ગમે તે હોય, એકમ 'જૂલ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "બહુપરમાણ્વિક વાયુ (Polyatomic gas) માટે $\\gamma$ નું મૂલ્ય કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહુપરમાણ્વિક વાયુ માટે $\\gamma$ નું મૂલ્ય 1.33 ની નજીક (એટલે કે 1.4 કરતા ઓછું) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુઓ વધે તેમ $\\gamma$ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "થર્મોડાયનેમિક્સમાં કાર્ય $W = \\int P \\, dV$ ક્યારે વાપરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પ્રક્રિયા ક્વાસી-સ્ટેટિક (ધીમી) હોય ત્યારે જ આ સૂત્ર વાપરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Integration = ધીમી અને સતત પ્રક્રિયા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "ઘન પદાર્થો માટે $C_p$ અને $C_v$ વચ્ચે શું તફાવત હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘન પદાર્થો માટે કદમાં થતો ફેરફાર નગણ્ય હોવાથી $C_p$ અને $C_v$ વચ્ચેનો તફાવત અત્યંત ઓછો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન પદાર્થમાં $C_p \\approx C_v$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "આદર્શ વાયુ માટે $C_v$ નું મૂલ્ય મુક્તિના અંશો (f) ના પદમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $C_v = \\frac{f}{2}R$, જ્યાં f એ મુક્તિના અંશો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $C_v$ = f/2 R (યાદ રાખવા માટે ફાર્મુલા f/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "રેફ્રિજરેટરમાં કાર્યકારી પદાર્થ તરીકે શું વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેફ્રિજરેટરમાં સામાન્ય રીતે ફ્રીઓન (Freon) જેવા બાષ્પશીલ પ્રવાહી (Refrigerants) વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડક માટે ઠંડો ગેસ (ફ્રીઓન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "જો તંત્ર દ્વારા 100 J ઉષ્મા શોષાય અને 40 J કાર્ય થાય, તો આંતરિક ઉર્જાનો ફેરફાર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta U = \\Delta Q - \\Delta W = 100 - 40 = 60 \\text{ J}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U = Q - W (આવી - વપરાઈ = વધી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "થર્મોડાયનેમિક્સનો કયો નિયમ 'ઉષ્મા' ને ઉર્જાના એક પ્રકાર તરીકે પ્રસ્થાપિત કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થર્મોડાયનેમિક્સનો પ્રથમ નિયમ (First Law).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1st Law = Energy Definition.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "સમોષ્મી પ્રક્રિયા અત્યંત ઝડપથી થવી જોઈએ કે અત્યંત ધીમી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમોષ્મી પ્રક્રિયા અત્યંત ઝડપી હોવી જોઈએ જેથી ઉષ્માની આપ-લે માટે સમય ન મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fast = Adiabatic, Slow = Isothermal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "શા માટે ટાયર ફાટવાની પ્રક્રિયા સમોષ્મી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાયર ફાટવાની પ્રક્રિયા અત્યંત ઝડપી હોવાથી ઉષ્માની આપ-લે થતી નથી, તેથી તે સમોષ્મી પ્રક્રિયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચાનક થતી ઘટના = સમોષ્મી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "સમોષ્મી વિસ્તરણમાં તાપમાનમાં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમોષ્મી વિસ્તરણમાં તંત્ર પોતાની આંતરિક ઉર્જા વાપરીને કાર્ય કરે છે, તેથી તાપમાન ઘટે છે (ઠંડક ઉત્પન્ન થાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Expansion = Cooling (સમોષ્મીમાં).</p></div>"
+    }
+  ]
+}

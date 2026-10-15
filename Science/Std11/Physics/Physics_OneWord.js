@@ -4076,3 +4076,361 @@ var Std11_Physics_OneWord = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વાયુનો ગતિવાદ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દ્રવ્યના પરમાણુવાદનો સિદ્ધાંત સૌપ્રથમ કોણે આપ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રવ્યનો પરમાણુવાદ સૌપ્રથમ જ્હોન ડાલ્ટને આપ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાલ્ટન = દ્રવ્યનો પિતા (D for Dalton, D for Dravya).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાય-લ્યુસેકનો નિયમ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ કદ ધરાવતા વાયુના નિશ્ચિત જથ્થા માટે દબાણ તેના નિરપેક્ષ તાપમાનના સમપ્રમાણમાં હોય છે (P ∝ T).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગાય' કદમાં 'અચળ' હોય (V constant -> P/T constant).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એવોગ્રેડો અંક (Nₐ) નું મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Nₐ = 6.022 × 10²³ mol⁻¹.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6-0-2-2 સાથે 23 ઘાત યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આદર્શ વાયુ અવસ્થા સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PV = nRT અથવા PV = NkᵦT.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાવર' (PV) = nRT.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બોલ્ટઝમેન અચળાંક (kᵦ) નું મૂલ્ય અને એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> kᵦ = 1.38 × 10⁻²³ J/K.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: kᵦ = R/Nₐ (એકમ J/K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બોઈલનો નિયમ કઈ શરતે પળાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ તાપમાને (T અચળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બોઈલ' કરવામાં તાપમાન અચળ રાખવાનું (BT - Boyle Temp constant).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચાર્લ્સનો નિયમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ દબાણે વાયુનું કદ તેના નિરપેક્ષ તાપમાનના સમપ્રમાણમાં હોય છે (V ∝ T).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચાર્લ્સ' દબાણ (P) સહન કરી શકતો નથી (P constant).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ડાલ્ટનનો આંશિક દબાણનો નિયમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરસ્પર રાસાયણિક પ્રક્રિયા ન કરતા વાયુઓના મિશ્રણનું કુલ દબાણ દરેક વાયુના આંશિક દબાણના સરવાળા જેટલું હોય છે (P = P₁ + P₂ + ...).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ દબાણ = બધાનો સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આદર્શ વાયુના અણુઓ વચ્ચે કેવા પ્રકારનું બળ લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદર્શ વાયુના અણુઓ વચ્ચે કોઈ પણ પ્રકારનું આંતરઆણ્વીય આકર્ષણ કે અપાકર્ષણ બળ લાગતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ અણુઓ 'Single' રહે છે (No force).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વાયુના ગતિવાદ મુજબ વાયુનું દબાણ (P) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P = (1/3) ρ vᵣₘₛ² જ્યાં ρ ઘનતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = 1/3 રો-વી સ્ક્વેર (1/3 ρv²).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તાપમાન અને અણુની સરેરાશ ગતિઊર્જા વચ્ચેનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ ગતિઊર્જા E = (3/2) kᵦT, એટલે કે E ∝ T.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન વધે તો અણુઓ વધુ દોડે (ગતિઊર્જા વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "vᵣₘₛ (Root Mean Square speed) નું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> vᵣₘₛ = √(3kᵦT / m) અથવા √(3RT / M).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RMS = √3RT/M (Root 3 Roti/Mummy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નિરપેક્ષ શૂન્ય તાપમાને વાયુના અણુઓની ગતિ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિરપેક્ષ શૂન્ય તાપમાને (0 K) વાયુના અણુઓની ગતિ અટકી જાય છે (ગતિઊર્જા શૂન્ય થાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K = Zero OK (બધું શાંત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મુક્તતાના અંશો (Degrees of Freedom) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રની સ્થિતિ સંપૂર્ણપણે દર્શાવવા માટે જરૂરી સ્વતંત્ર યામોની સંખ્યાને મુક્તતાના અંશો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદીની દિશાઓ = Degrees of Freedom.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક-પરમાણ્વીય વાયુ (Monatomic gas) માટે મુક્તતાના અંશો કેટલા હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 (માત્ર રેખીય ગતિ માટે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલો માણસ 3 દિશામાં જઈ શકે (x, y, z).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દ્વિ-પરમાણ્વીય (Diatomic gas) દ્રઢ રોટેટર માટે મુક્તતાના અંશો કેટલા હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5 (3 રેખીય + 2 ચાકગતિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયટોમિક = 3+2 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઉર્જાના સમવિભાજનનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપીય સંતુલનમાં રહેલા કોઈપણ તંત્ર માટે, કુલ ઉર્જા દરેક મુક્તતાના અંશ દીઠ સમાન રીતે વહેંચાયેલી હોય છે અને તેનું મૂલ્ય (1/2)kᵦT હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક ખાતામાં અડધી રોટલી (1/2 kᵦT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક-પરમાણ્વીય વાયુ માટે મોલર વિશિષ્ટ ઉષ્મા Cᵥ કેટલી હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cᵥ = (3/2)R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cᵥ = (f/2)R, અહી f=3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મેયરનું સમીકરણ (Mayer's Equation) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cₚ - Cᵥ = R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CP મોટો CV નાનો, તફાવત R જેટલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિશિષ્ટ ઉષ્માઓનો ગુણોત્તર γ (gamma) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> γ = Cₚ / Cᵥ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gamma = P/V (Police/Villager).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "એક-પરમાણ્વીય વાયુ માટે γ નું મૂલ્ય કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> γ = 5/3 ≈ 1.67.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (3+2)/3 = 5/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દ્વિ-પરમાણ્વીય વાયુ (દ્રઢ) માટે Cₚ નું મૂલ્ય કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cₚ = (7/2)R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cᵥ = 5/2R, તો Cₚ = 5/2R + R = 7/2R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સરેરાશ મુક્ત પથ (Mean Free Path) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુના અણુની બે ક્રમિક અથડામણો વચ્ચે કાપેલા સરેરાશ અંતરને સરેરાશ મુક્ત પથ (λ) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ટક્કર વચ્ચેનો રસ્તો = મુક્ત પથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સરેરાશ મુક્ત પથ (λ) નું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> λ = 1 / (√2 n π d²), જ્યાં n સંખ્યા ઘનતા અને d અણુનો વ્યાસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે √2 અને d સ્ક્વેર યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વાયુની ઘનતા વધારતા સરેરાશ મુક્ત પથ પર શું અસર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ મુક્ત પથ ઘટે છે (λ ∝ 1/n).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડ વધે તો ચાલવાની જગ્યા ઘટે (λ ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઘન પદાર્થોની વિશિષ્ટ ઉષ્માનું મૂલ્ય ડુલોંગ-પેટિટના નિયમ મુજબ કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C = 3R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોલિડ = 3R (ત્રણ દિશામાં દોલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પાણીની વિશિષ્ટ ઉષ્માનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C = 9R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H₂O માં 3 પરમાણુ × 3R = 9R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બ્રાઉનિયન ગતિ (Brownian Motion) કોના કારણે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહી કે વાયુના અણુઓ દ્વારા કણ પર થતી અસંતુલિત અથડામણોને કારણે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુઓનો ધક્કો = ઝિગ-ઝેગ ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વાયુના અણુઓની અથડામણ કેવા પ્રકારની હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંપૂર્ણ સ્થિતિસ્થાપક (Elastic).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ અથડામણ = કોઈ ઉર્જાનો વ્યય નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સાર્વત્રિક વાયુ અચળાંક (R) નું મૂલ્ય SI એકમમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> R = 8.314 J mol⁻¹ K⁻¹.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8.314 યાદ રાખો (Physics નો ફેવરિટ નંબર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "STP એ એક મોલ વાયુનું કદ કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 22.4 લિટર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 Mol = 22.4 L.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કયા તાપમાને વાયુ આદર્શ વાયુ તરીકે વર્તે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચા તાપમાને અને નીચા દબાણે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: HTLP (High Temp, Low Pressure).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વાયુના અણુનો સરેરાશ વેગ કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય (કારણ કે બધી દિશાઓમાં ગતિ સમાન સંભાવના ધરાવે છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ (સદિશ) = 0, ઝડપ (અદિશ) ≠ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "બહુ-પરમાણ્વીય વાયુ માટે મુક્તતાના અંશો કેટલા હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6 અથવા તેથી વધુ (3 રેખીય + 3 ચાકગતિ + દોલનો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુ-પરમાણ્વીય = વધુ આઝાદી (f ≥ 6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "તાપમાન વધારતા સરેરાશ મુક્ત પથ પર શું અસર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ દબાણે તાપમાન વધારતા સરેરાશ મુક્ત પથ વધે છે (કારણ કે n ઘટે છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી મળે તો અણુઓ દૂર જાય -> રસ્તો મોકળો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "નિરપેક્ષ તાપમાન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેલ્વિન માપક્રમ પર માપવામાં આવતા તાપમાનને નિરપેક્ષ તાપમાન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T (K) = t (°C) + 273.15.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વાયુના અણુનું કદ વાયુના કુલ કદની સાપેક્ષે કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવગણી શકાય તેટલું નાનું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમુદ્રમાં ટીપું = વાયુનું કુલ કદ vs અણુનું કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિશિષ્ટ ઉષ્મા ધારિતા નો એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J kg⁻¹ K⁻¹ (અથવા મોલર માટે J mol⁻¹ K⁻¹).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા / (જથ્થો × તાપમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કયો વાયુ સૌથી વધુ vᵣₘₛ ધરાવે છે (સમાન તાપમાને)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈડ્રોજન (H₂), કારણ કે તેનું આણ્વીય દળ સૌથી ઓછું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે હલકું હોય તે ઝડપી દોડે (v ∝ 1/√M).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વાયુના ગતિવાદમાં કઈ ધારણા કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુના અણુઓ સતત અસ્તવ્યસ્ત ગતિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસ્તવ્યસ્ત ગતિ = Random Motion.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "આણ્વીય દળ M અને મોલની સંખ્યા n વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> n = M_total / M_molar.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ = દળ / અણુભાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "27°C તાપમાનને કેલ્વિનમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 27 + 273 = 300 K.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Celsius + 273 = Kelvin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વાયુનું દબાણ એ અણુઓના કયા ગુણધર્મનું પરિણામ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દીવાલ સાથેની અથડામણ દરમિયાન થતા વેગમાનના ફેરફારનું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથડામણ = વેગમાન ફેરફાર = બળ = દબાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કંપન ગતિ (Vibration) ક્યારે ધ્યાનમાં લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ જ ઊંચા તાપમાને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી વધે તો ધ્રુજારી (Vibration) વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "એક કંપન મોડ (Vibrational Mode) કેટલા મુક્તતાના અંશ બરાબર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 (એક ગતિઊર્જા અને એક સ્થિતિઊર્જા માટે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 Vibration = 2 Energy terms.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "દ્વિ-પરમાણ્વીય વાયુ જો કંપન કરતો હોય તો તેના મુક્તતાના અંશો કેટલા થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 (3 રેખીય + 2 ચાકગતિ + 2 કંપન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 (Rigid) + 2 (Vibration) = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પ્રસરણ (Diffusion) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુના અણુઓની તેમની વધુ સાંદ્રતાથી ઓછી સાંદ્રતા તરફની ગતિને પ્રસરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ થી ઓછું = પ્રસરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "સરેરાશ વર્ગિત વેગ (v²) અને તાપમાન વચ્ચેનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> v² ∝ T.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ક્વેર અને તાપમાન દોસ્ત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "શૂન્યાવકાશમાં વાયુનું દબાણ કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય (કારણ કે ત્યાં કોઈ અણુઓ હોતા નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No molecules = No pressure.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "હિલિયમ (He) કેવા પ્રકારનો વાયુ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક-પરમાણ્વીય (Monatomic).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષ્ક્રિય વાયુ = એકલો (Single).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઓક્સિજન (O₂) કેવા પ્રકારનો વાયુ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિ-પરમાણ્વીય (Diatomic).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O₂ માં 2 છે = દ્વિ-પરમાણ્વીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વાયુના અણુઓ વચ્ચેનો સરેરાશ સમય (Collision Time) કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે અથડામણો વચ્ચેના સમયને રિલેક્સેશન સમય (τ) કહે છે, τ = λ / v.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય = અંતર / ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સીમાવર્તી કદ (Finite size) ની અસરમાં કયું પદ સુધારવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કદ (V-nb) - વાન ડર વાલ્સ સમીકરણમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુઓ પણ જગ્યા રોકે એટલે કદ બાદ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "એવોગ્રેડોનો નિયમ શું જણાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન તાપમાન અને દબાણે સમાન કદના વાયુઓમાં અણુઓની સંખ્યા સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન T, P, V = સમાન N.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વાયુના અણુઓની ઝડપ કયા ક્રમની હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેંકડો મીટર પ્રતિ સેકન્ડ (દા.ત. અંદાજે 500 m/s).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંદૂકની ગોળી જેવી ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "મુક્તતાના અંશો 'f' હોય તો γ નું સામાન્ય સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> γ = 1 + (2/f).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 + 2/f (Very Important formula).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "CO₂ વાયુ માટે રેખીય ગતિના મુક્તતાના અંશો કેટલા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 (કોઈપણ વાયુ માટે રેખીય ગતિના અંશો હંમેશા 3 જ હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીય = હંમેશા 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ચાર્લ્સના નિયમનો આલેખ (V vs T) કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉગમબિંદુમાંથી પસાર થતી સીધી રેખા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: V ∝ T એટલે સીધી રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "બોઈલના નિયમનો આલેખ (P vs V) કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અતિવલય (Hyperbola).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P ∝ 1/V એટલે વક્ર રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વાયુની આંતરિક ઉર્જા માત્ર કોના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિરપેક્ષ તાપમાન (T) પર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરિક ઉર્જા = તાપમાનની ગુલામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "સરેરાશ ગતિઊર્જાનું કદ (V) સાથેનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> E = (3/2) PV.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1.5 * 'પાવર' (PV).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "એકમ કદ દીઠ ઉર્જા અને દબાણ વચ્ચેનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P = (2/3) E, જ્યાં E એ એકમ કદ દીઠ ગતિઊર્જા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ એ ઉર્જાના 2/3 ભાગનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "પદાર્થની વિશિષ્ટ ઉષ્મા ક્યારે અનંત હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થની અવસ્થા બદલાતી હોય (તાપમાન બદલાયા વગર ઉષ્મા શોષાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Phase Change = Infinite Specific Heat.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "પાણીના એક અણુમાં કેટલા પરમાણુ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 (2 હાઈડ્રોજન + 1 ઓક્સિજન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H-O-H = 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વાયુના ગતિવાદમાં કણોને કેવા ધારવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સખત ગોળાઓ (Hard Spheres).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુ = નાનો દડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "જો તાપમાન 4 ગણું કરવામાં આવે તો vᵣₘₛ કેટલા ગણો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 ગણો (કારણ કે vᵣₘₛ ∝ √T).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 નું વર્ગમૂળ 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "સરેરાશ મુક્ત પથ λ એ વ્યાસ d પર કેવી રીતે આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> λ ∝ 1/d².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અણુ જેટલો જાડો (મોટો d), રસ્તો એટલો સાંકડો (λ નાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વાયુના અણુઓ દ્વારા દીવાલ પર લાગતું બળ કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે લંબ દિશામાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ હંમેશા સપાટીને લંબ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "કયા તાપમાને સેલ્સિયસ અને ફેરેનહીટ સમાન થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -40 ડિગ્રીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -40 એ જાદુઈ આંકડો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વાયુના ગતિવાદનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુના સૂક્ષ્મ ગુણધર્મો (ઝડપ, ઉર્જા) પરથી તેના સ્થૂળ ગુણધર્મો (P, V, T) સમજાવવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Micro to Macro connection.</p></div>"
+    }
+  ]
+}

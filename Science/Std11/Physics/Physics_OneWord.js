@@ -4434,3 +4434,386 @@ var Std11_Physics_OneWord = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "દોલનો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આવર્ત ગતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ગતિ ચોક્કસ સમયગાળાના અંતરે પુનરાવર્તિત થતી હોય તેને આવર્ત ગતિ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્ત એટલે 'રીપીટ' થવું (જેમ કે ઘડિયાળના કાંટાની ગતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દોલિત ગતિની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પદાર્થ કોઈ નિશ્ચિત બિંદુની આસપાસ એક જ પથ પર આગળ-પાછળ કે ઉપર-નીચે ગતિ કરતો હોય, તો તેને દોલિત ગતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોલન = To and Fro (આગળ-પાછળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શું દરેક આવર્ત ગતિ એ દોલિત ગતિ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, દરેક આવર્ત ગતિ દોલિત ગતિ નથી (દા.ત. ગ્રહોની સૂર્યની આસપાસની ગતિ આવર્ત છે પણ દોલિત નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી દોલિત ગતિ આવર્ત હોય, પણ બધી આવર્ત ગતિ દોલિત ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આવર્તકાળ (T) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પૂર્ણ દોલન પૂર્ણ કરવા માટે લાગતા લઘુત્તમ સમયને આવર્તકાળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = Time for 1 Cycle.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આવૃત્તિ (f અથવા ν) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ સમયમાં થતા દોલનોની સંખ્યાને આવૃત્તિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ એટલે 'કેટલી વાર' (f = 1/T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આવૃત્તિનો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવૃત્તિનો SI એકમ હર્ટ્ઝ (Hz) અથવા s⁻¹ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેન્રિચ હર્ટ્ઝના નામ પરથી Hz.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કોણીય આવૃત્તિ (ω) અને આવર્તકાળ (T) વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ω = 2π / T અથવા ω = 2πf</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓમેગા = 2 પાઈ ના છેદમાં સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સરળ આવર્ત ગતિ (SHM) નું સ્થાનાંતરનું વ્યાપક સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x(t) = A cos(ωt + φ) અથવા x(t) = A sin(ωt + φ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = કંપવિસ્તાર, φ = પ્રારંભિક કળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કંપવિસ્તાર (Amplitude) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યમાન સ્થાનથી પદાર્થના મહત્તમ સ્થાનાંતરને કંપવિસ્તાર (A) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપવિસ્તાર = સૌથી મોટું છેટું (Distance).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સરળ આવર્ત ગતિમાં 'કળા' (Phase) શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કળા (ωt + φ) એ કોઈપણ સમયે દોલકની સ્થિતિ અને ગતિની દિશા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કળા = પદાર્થની કુંડળી (Location + Direction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રારંભિક કળા (Epoch) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> t = 0 સમયે પદાર્થની કળાને પ્રારંભિક કળા (φ) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય સમયે શણગાર (કળા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સરળ આવર્ત ગતિ માટે વેગનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> v(t) = -ωA sin(ωt + φ) અથવા v = ±ω√(A² - x²)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ એટલે સ્થાનાંતરનું વિકલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મધ્યમાન સ્થાને વેગનું મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યમાન સ્થાને (x = 0) વેગ મહત્તમ હોય છે, v_max = ωA.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચે 'Full Speed', છેડે 'Zero Speed'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અંત્ય બિંદુઓએ (x = ±A) વેગ કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત્ય બિંદુઓએ વેગ શૂન્ય (v = 0) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાછા વળવા માટે ક્ષણવાર ઉભા રહેવું જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સરળ આવર્ત ગતિ માટે પ્રવેગનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> a(t) = -ω²A cos(ωt + φ) અથવા a = -ω²x</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a = - (ઓમેગા સ્ક્વેર) x.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહત્તમ પ્રવેગનું મૂલ્ય ક્યાં અને કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત્ય બિંદુઓએ (x = ±A) પ્રવેગ મહત્તમ હોય છે, |a_max| = ω²A.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં x વધુ, ત્યાં પ્રવેગ વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મધ્યમાન સ્થાને પ્રવેગ કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યમાન સ્થાને (x = 0) પ્રવેગ શૂન્ય (a = 0) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચે પ્રવેગ વેગમાં ફેરફાર કરતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સરળ આવર્ત ગતિમાં પ્રવેગની દિશા હંમેશા કઈ તરફ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવેગની દિશા હંમેશા મધ્યમાન સ્થાન (સંતુલન સ્થાન) તરફ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ 'ઘરભેગો' (મધ્યમાન સ્થાન) કરવા માંગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પુનઃસ્થાપક બળ (Restoring Force) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બળ પદાર્થને તેના મધ્યમાન સ્થાન તરફ લાવવાનો પ્રયત્ન કરે તેને પુનઃસ્થાપક બળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = -kx (બળ અને સ્થાનાંતર સામસામે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "હુડનો નિયમ (Hooke's Law) SHM માટે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F = -kx, જ્યાં k એ બળ અચળાંક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ એ સ્થાનાંતરના સમપ્રમાણમાં અને વિરુદ્ધ દિશામાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બળ અચળાંક k નો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> k નો SI એકમ ન્યૂટન/મીટર (N/m) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k = F / x એટલે કે N / m.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "SHM માં ગતિઊર્જાનું (K) સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> K = ½ mv² = ½ mω²(A² - x²) અથવા K = ½ k(A² - x²)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર x વધે તો K ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "SHM માં સ્થિતિઊર્જાનું (U) સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> U = ½ kx² = ½ mω²x²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિતિઊર્જા સ્થાનાંતરના વર્ગના સમપ્રમાણમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "SHM માં કુલ ઊર્જા (E) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> E = K + U = ½ kA² = ½ mω²A²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ ઊર્જા હંમેશા અચળ અને કંપવિસ્તારના વર્ગ પર આધારિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કયા સ્થાને SHM માં કુલ ઊર્જા સંપૂર્ણપણે સ્થિતિઊર્જા સ્વરૂપે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત્ય બિંદુઓએ (x = ±A) જ્યાં વેગ શૂન્ય હોય ત્યાં બધી ઊર્જા સ્થિતિઊર્જા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેડા પર વેગ નથી તો K નથી, માત્ર U છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મધ્યમાન સ્થાને કયા પ્રકારની ઊર્જા મહત્તમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યમાન સ્થાને (x = 0) ગતિઊર્જા મહત્તમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમાં x=0 તેથી U=0, બધું જ K.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સરળ લોલકનો આવર્તકાળનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> T = 2π √(L/g), જ્યાં L લંબાઈ અને g ગુરુત્વપ્રવેગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્વેન્ટી-પાઈ અંડરરૂટ લલ્લુ / ગલ્લુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સેકન્ડ લોલક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લોલકનો આવર્તકાળ 2 સેકન્ડ હોય તેને સેકન્ડ લોલક કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક તરફ જવામાં 1 સેકન્ડ, પાછા આવવામાં 1 સેકન્ડ = કુલ 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સેકન્ડ લોલકની લંબાઈ પૃથ્વી પર આશરે કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશરે 1 મીટર (અથવા 99.4 cm).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 સેકન્ડ માટે 1 મીટર યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શું સરળ લોલકનો આવર્તકાળ તેના દળ પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, સૂત્ર T = 2π √(L/g) માં દળ (m) આવતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલક જાડું હોય કે પાતળું, સમય સરખો જ લેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ચંદ્ર પર સરળ લોલકનો આવર્તકાળ વધશે કે ઘટશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધશે, કારણ કે ચંદ્ર પર g પૃથ્વી કરતા 1/6 ગણું છે (T ∝ 1/√g).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછું ગુરુત્વાકર્ષણ = ધીમું દોલન = મોટો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સ્પ્રિંગ-બ્લોક તંત્ર માટે આવર્તકાળનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> T = 2π √(m/k), જ્યાં m દળ અને k બળ અચળાંક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગમાં મમ્મી/કાકા (m/k).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શ્રેણીમાં જોડેલી બે સ્પ્રિંગોનો સમતુલ્ય બળ અચળાંક (k_eq) કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/k_eq = 1/k₁ + 1/k₂ અથવા k_eq = (k₁k₂) / (k₁ + k₂)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગનું શ્રેણી જોડાણ = અવરોધનું સમાંતર જોડાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સમાંતર જોડેલી બે સ્પ્રિંગોનો સમતુલ્ય બળ અચળાંક (k_eq) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> k_eq = k₁ + k₂</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરમાં સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વેગ અને સ્થાનાંતર વચ્ચેનો કળા તફાવત કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> π/2 રેડિયન (અથવા 90°).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ સ્થાનાંતર કરતા 90 ડિગ્રી આગળ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પ્રવેગ અને વેગ વચ્ચેનો કળા તફાવત કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> π/2 રેડિયન (અથવા 90°).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક વિકલન 90 ડિગ્રી ફેઝ વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પ્રવેગ અને સ્થાનાંતર વચ્ચેનો કળા તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> π રેડિયન (અથવા 180°).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x અને a પરસ્પર વિરુદ્ધ દિશામાં (180°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મુક્ત પતન કરતા લિફ્ટમાં સરળ લોલકનો આવર્તકાળ કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનંત (∞), કારણ કે g_eff = 0 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે છેદમાં 0 આવે તો જવાબ અનંત થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો સ્પ્રિંગને અડધી કાપી નાખવામાં આવે, તો તેના બળ અચળાંક k માં શું ફેરફાર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળ અચળાંક બમણો (2k) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k ∝ 1/L. લંબાઈ અડધી તો k ડબલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "SHM માં એક આવર્તકાળ દરમિયાન સરેરાશ વેગ કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય (કારણ કે કુલ સ્થાનાંતર શૂન્ય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી ચાલુ કર્યું ત્યાં જ પાછા આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સંદર્ભ વર્તુળ (Reference Circle) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વર્તુળ પર કણની નિયમિત વર્તુળમય ગતિના પ્રક્ષેપને SHM તરીકે લેવામાં આવે તેને સંદર્ભ વર્તુળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળની છાયા = સરળ આવર્ત ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નિયમિત વર્તુળમય ગતિનો વ્યાસ પરનો પ્રક્ષેપ કઈ ગતિ દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરળ આવર્ત ગતિ (SHM).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: UCM નો પડછાયો એટલે SHM.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "SHM કરતી વસ્તુની ગતિઊર્જા અને સ્થિતિઊર્જા કયા સ્થાને સમાન થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x = ±A/√2 સ્થાને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K = U હોય ત્યારે x = 0.707 A.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જો લોલકની લંબાઈ 4 ગણી કરવામાં આવે, તો આવર્તકાળ કેટલા ગણો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 ગણો (કારણ કે T ∝ √L).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 નું વર્ગમૂળ 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સ્થિતિઊર્જા (U) અને સ્થાનાંતર (x) નો આલેખ કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરવલય (Parabola).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U = ½ kx² હોવાથી આકાર પ્યાલા (cup) જેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "SHM માં સમય સાથે કુલ ઊર્જામાં શું ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુલ ઊર્જા સમય સાથે અચળ રહે છે (ઘર્ષણ ન હોય ત્યારે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊર્જા સંરક્ષણનો નિયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કોણીય વેગ (ω) ના પરિમાણિક સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M⁰ L⁰ T⁻¹]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ અને કોણીય આવૃત્તિના પરિમાણ સરખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "લોલકવાળી ઘડિયાળ ઉનાળામાં કેમ ધીમી પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમીને લીધે લોલકની લંબાઈ (L) વધે છે, તેથી આવર્તકાળ (T) વધે છે અને ઘડિયાળ ધીમી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી = લાંબુ લોલક = આળસુ લોલક (ધીમું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "દોલનોમાં મહત્તમ સ્થાનાંતરને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંપવિસ્તાર (Amplitude).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Maximum Distance = Amplitude.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "SHM માં વેગ v અને સ્થાન x વચ્ચેના આલેખનો આકાર કેવો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપવલય (Ellipse).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (v/v_max)² + (x/A)² = 1 (ઉપવલયનું સમીકરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "SHM ની આવૃત્તિ f હોય તો તેની ગતિઊર્જામાં થતા ફેરફારની આવૃત્તિ કેટલી હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2f (બમણી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક પૂર્ણ દોલનમાં ગતિઊર્જા બે વાર મહત્તમ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "કૃત્રિમ ઉપગ્રહમાં સાદું લોલક કેમ વાપરી શકાતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્યાં ભારહીનતાને કારણે g_eff = 0 હોય છે, તેથી લોલક દોલન કરશે નહીં (T = ∞).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પેસમાં વજન નથી તો દોલન નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "લોલકના પથનો આકાર નાના કોણીય સ્થાનાંતર માટે કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરેખ (લગભગ સીધી રેખા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો ખૂણો એટલે ચાપ સીધી રેખા જેવી લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "પ્રવેગ અને સ્થાનાંતરના આલેખનો ઢાળ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -ω² (ઋણ કોણીય આવૃત્તિનો વર્ગ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a = -ω²x, y = mx સાથે સરખાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "દોલિત ગતિ માટે પદાર્થ પર લાગતું બળ કયા પ્રકારનું હોવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળ F = -kxⁿ (જ્યાં n એકી પૂર્ણાંક સંખ્યા છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n = 1 હોય તો એ SHM કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "સરળ આવર્ત દોલક પર લાગતા બળ અને સ્થાનાંતર વચ્ચેનો સંબંધ કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરેખ અને પરસ્પર વિરુદ્ધ (F ∝ -x).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેંચો આમ, બળ લાગે તેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "કોણીય સરળ આવર્ત ગતિ માટે ટોર્કનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> τ = -κθ, જ્યાં κ એ વળ-અચળાંક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીયમાં F, કોણીયમાં τ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જો સાદા લોલકની લંબાઈ અનંત કરવામાં આવે, તો મહત્તમ આવર્તકાળ કેટલો હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશરે 84.6 મિનિટ (પૃથ્વીની ત્રિજ્યા R પર આધારિત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનંત લંબાઈ હોય તો પણ લિમિટ છે (84.6 min).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "સ્પ્રિંગના બળ અચળાંક k નું પરિમાણિક સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M¹ L⁰ T⁻²]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ/લંબાઈ = (MLT⁻²) / L = MT⁻².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "SHM માં સ્થાનાંતર અને પ્રવેગ વચ્ચેનો ફેઝ કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 180 ડિગ્રી અથવા π રેડિયન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a અને x હંમેશા દુશ્મન (વિરુદ્ધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "દોલકનો કંપવિસ્તાર અડધો કરવામાં આવે તો કુલ ઊર્જા કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોથા ભાગની (E ∝ A²).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધાનો વર્ગ એટલે ચોથો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "સેકન્ડ લોલકની આવૃત્તિ કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.5 Hz (કારણ કે f = 1/T = 1/2).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધી આવૃત્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "SHM કરતી વસ્તુનો વેગ કયા સ્થાને શૂન્ય હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ સ્થાનાંતરે (અંત્ય બિંદુઓએ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટર્ન લેતી વખતે વેગ શૂન્ય થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "સરળ આવર્ત ગતિ માટે આવશ્યક શરત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવેગ એ સ્થાનાંતરના સમપ્રમાણમાં અને તેની વિરુદ્ધ દિશામાં હોવો જોઈએ (a = -ω²x).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SHM ની કુંડળીમાં a ∝ -x હોવું જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "શૂન્યાવકાશમાં દોલનો કરતા લોલકનો કંપવિસ્તાર સમય સાથે ઘટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે ત્યાં હવાના ઘર્ષણ જેવા અવરોધક બળો હોતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યાવકાશ = કોઈ ઘર્ષણ નહીં = અચળ દોલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "એક પૂર્ણ દોલન દરમિયાન થયેલું કુલ કાર્ય કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય (કારણ કે બળ સંરક્ષી છે અને સ્થાનાંતર શૂન્ય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ ફરીને ત્યાં જ આવ્યા, એટલે કાર્ય ઝીરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "લિફ્ટ ઉપર તરફ પ્રવેગિત થાય તો લોલકનો આવર્તકાળ વધશે કે ઘટશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટશે, કારણ કે g_eff = g + a વધે છે, તેથી T = 2π√(L/g_eff) ઘટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જતી લિફ્ટમાં વજન વધે, તેથી દોલન ફટાફટ થાય (સમય ઓછો લાગે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "SHM માં મહત્તમ વેગ અને મહત્તમ પ્રવેગનો ગુણોત્તર શું આપે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> v_max / a_max = (ωA) / (ω²A) = 1/ω.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v/a = 1/ઓમેગા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જો પૃથ્વીની આરપાર સોંસરું સુરંગ ખોદવામાં આવે તો તેમાં નાખેલા પદાર્થની ગતિ કેવી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરળ આવર્ત ગતિ (SHM).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીની સુરંગ = કુદરતી SHM.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "SHM માં કયા બિંદુએ બળ શૂન્ય હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યમાન સ્થાને (x = 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચે બળ નથી લાગતું એટલે જ એને સંતુલન સ્થાન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "કળા તફાવત 2π રેડિયન એટલે કેટલા દોલનનો તફાવત?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પૂર્ણ દોલનનો (પથ તફાવત λ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2π એટલે 360 ડિગ્રી = એક રાઉન્ડ પૂરું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "આવર્તકાળ T નું પરિમાણિક સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> [M⁰ L⁰ T¹]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તકાળ એ સમય જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "જ્યારે સ્થાનાંતર કંપવિસ્તારથી અડધું (x = A/2) હોય, ત્યારે સ્થિતિઊર્જા કેટલી હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુલ ઊર્જાના ચોથા ભાગની (U = E/4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x અડધું તો U ચતુર્થ થાય (વર્ગને કારણે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "દોલનોમાં ફેઝર (Phasor) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમય સાથે ઘૂમતા સદિશને ફેઝર કહે છે, જે દોલનની કળા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેઝર = ફરતો સદિશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "SHM માં મહત્તમ સ્થાનાંતર અને મહત્તમ વેગ વચ્ચેનો સમય કેટલો લાગે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> T/4 (ચોથા ભાગનો આવર્તકાળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેડાથી વચ્ચે આવવા માટે T/4 સમય જોઈએ.</p></div>"
+    }
+  ]
+}

@@ -366,3 +366,361 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "સુરેખ પથ પર ગતિ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A : (1) પથલંબાઈ, (2) સ્થાનાંતર | વિભાગ B : (i) સદિશ રાશિ, (ii) અદિશ રાશિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથલંબાઈમાં દિશાની જરૂર નથી એટલે 'અદિશ', સ્થાનાંતરમાં 'દિશા' અને 'સ્થાન' બંને છે એટલે 'સદિશ'. (S for Scalar - Speed/Distance, V for Vector - Velocity/Displacement)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A : (1) x-t આલેખનો ઢાળ, (2) v-t આલેખનો ઢાળ | વિભાગ B : (i) પ્રવેગ, (ii) વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x -> v -> a (ક્રમ યાદ રાખો). ઢાળ એટલે આગળ વધવું. x ના ઢાળથી v મળે, v ના ઢાળથી a મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A : (1) v-t આલેખનું ક્ષેત્રફળ, (2) a-t આલેખનું ક્ષેત્રફળ | વિભાગ B : (i) વેગનો ફેરફાર, (ii) સ્થાનાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ એટલે પાછળ આવવું. v થી પાછળ x (સ્થાનાંતર) અને a થી પાછળ v (વેગનો ફેરફાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A : (1) સરેરાશ વેગ, (2) સરેરાશ ઝડપ | વિભાગ B : (i) પથલંબાઈ / સમયગાળો, (ii) સ્થાનાંતર / સમયગાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ (V) = સ્થાનાંતર (V), ઝડપ (S) = પથલંબાઈ (S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A : (1) વેગનો એકમ, (2) પ્રવેગનો એકમ | વિભાગ B : (i) m/s², (ii) m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ એટલે વેગ ભાગ્યા સમય, એટલે છેદમાં સેકન્ડનો વર્ગ (s²) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A : (1) નિયમિત ગતિ, (2) સ્થિર પદાર્થ | વિભાગ B : (i) x-t આલેખ સમયની અક્ષને સમાંતર, (ii) x-t આલેખ ત્રાસી સીધી રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર એટલે સ્થાન ન બદલાય (આડી રેખા), નિયમિત એટલે વેગ અચળ (ઢાળ અચળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A : (1) તત્કાલીન વેગ, (2) તત્કાલીન પ્રવેગ | વિભાગ B : (i) dv/dt, (ii) dx/dt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'd' એટલે વિકલન. x નું વિકલન v આપે, v નું વિકલન a આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A : (1) પદાર્થ ઉપર તરફ ફેંકાય, (2) પદાર્થ મુક્ત પતન કરે | વિભાગ B : (i) પ્રવેગ g ધન લેવો, (ii) પ્રવેગ g ઋણ લેવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જાય તો વેગ ઘટે (ઋણ પ્રવેગ), નીચે આવે તો વેગ વધે (ધન પ્રવેગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A : (1) વેગ અને પ્રવેગ એક જ દિશામાં, (2) વેગ અને પ્રવેગ વિરુદ્ધ દિશામાં | વિભાગ B : (i) ઝડપ ઘટે, (ii) ઝડપ વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથ-સાથ તો વધારો (Acceleration), વિરુદ્ધ તો ઘટાડો (Retardation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A : (1) v = v₀ + at, (2) x = v₀t + ½at² | વિભાગ B : (i) દ્વિતીય ગતિ સમીકરણ, (ii) પ્રથમ ગતિ સમીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલા વેગ (v) શોધાય, પછી અંતર (x) શોધાય. એટલે v વાળું પહેલું અને x વાળું બીજું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A : (1) સ્થાનાંતર શૂન્ય હોઈ શકે?, (2) પથલંબાઈ શૂન્ય હોઈ શકે? (ગતિમાન પદાર્થ માટે) | વિભાગ B : (i) ના, (ii) હા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ ફરીને પાછા આવો તો સ્થાનાંતર 0 થાય, પણ થાક તો લાગે જ (પથલંબાઈ કદી 0 ન હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A : (1) મુક્ત પતન કરતા પદાર્થનો પ્રારંભિક વેગ, (2) મહત્તમ ઊંચાઈએ પદાર્થનો અંતિમ વેગ | વિભાગ B : (i) શૂન્ય, (ii) મહત્તમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુક્ત' કરો ત્યારે હાથમાં વેગ 0 હોય, અને 'ટોચ' પર પહોંચીને પદાર્થ ક્ષણિક ઉભો રહે એટલે ત્યાં પણ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A : (1) સાપેક્ષ વેગ V_AB, (2) સાપેક્ષ વેગ V_BA | વિભાગ B : (i) V_B - V_A, (ii) V_A - V_B",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે નામ પહેલા આવે તેમાંથી બીજું બાદ કરો. AB એટલે A-B, BA એટલે B-A.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A : (1) વેગનું પારિમાણિક સૂત્ર, (2) પ્રવેગનું પારિમાણિક સૂત્ર | વિભાગ B : (i) [M⁰ L¹ T⁻²], (ii) [M⁰ L¹ T⁻¹]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ એટલે મીટર/સેકન્ડ (L/T), પ્રવેગ એટલે મીટર/સેકન્ડ² (L/T²).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A : (1) સ્ટોપિંગ ડિસ્ટન્સ (d_s), (2) પ્રતિપ્રવેગ (a) | વિભાગ B : (i) ઋણ પ્રવેગ, (ii) v₀²/2a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેક મારો ત્યારે જે અંતર કપાય તે સ્ટોપિંગ ડિસ્ટન્સ. પ્રતિપ્રવેગ એટલે ગાડી ધીમી પડવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A : (1) ગેલીલીયોનો એકી સંખ્યાનો નિયમ, (2) અચળ પ્રવેગી ગતિ | વિભાગ B : (i) 1:3:5:7..., (ii) પ્રવેગ સમય સાથે બદલાતો નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i) [Correction: (1)-(i), (2)-(ii)]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેલીલીયો = ઓડ નંબર (એકી સંખ્યા). અચળ પ્રવેગ = No change in 'a'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A : (1) x-t આલેખ અંતર્ગોળ (ઉપર તરફ), (2) x-t આલેખ બહિર્ગોળ (નીચે તરફ) | વિભાગ B : (i) પ્રતિપ્રવેગી ગતિ, (ii) પ્રવેગી ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપ ઉપર (U shape) તો પોઝિટિવ (પ્રવેગી), કપ ઊંધો તો નેગેટિવ (પ્રતિપ્રવેગી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A : (1) સરેરાશ વેગ = સરેરાશ ઝડપ, (2) સરેરાશ ઝડપ > સરેરાશ વેગનું મૂલ્ય | વિભાગ B : (i) પદાર્થ વળાંક લે અથવા પાછો ફરે, (ii) પદાર્થ એક જ દિશામાં સુરેખ પથ પર ગતિ કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધા જાવ તો બધું સરખું, વળાંક લો તો અંતર વધી જાય પણ સ્થાનાંતર ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A : (1) રિએક્શન ટાઈમ (Reaction Time), (2) મુક્ત પતન | વિભાગ B : (i) માત્ર ગુરુત્વાકર્ષણની અસર હેઠળ ગતિ, (ii) પરિસ્થિતિ નિહાળવા અને પ્રતિભાવ આપવા વચ્ચેનો સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિએક્શન એટલે 'પ્રતિભાવ'. મુક્ત પતન એટલે કોઈ એન્જિન વગર માત્ર 'G' ની અસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A : (1) v² - v₀² = 2ax, (2) d = v₀t + ½at² | વિભાગ B : (i) સમય રહિત સમીકરણ, (ii) સ્થાન-સમય સમીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલા સમીકરણમાં 't' દેખાતો નથી એટલે સમય રહિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A : (1) કણ (Particle) ની ધારણા, (2) સંદર્ભ બિંદુ | વિભાગ B : (i) જેની સાપેક્ષે અવલોકન થાય, (ii) પદાર્થના પરિમાણ અવગણી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણ એટલે ટપકું (No size). સંદર્ભ બિંદુ એટલે તમારું 'ઘર' જ્યાંથી તમે ગતિ માપો છો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A : (1) 90 km/h, (2) 10 m/s | વિભાગ B : (i) 36 km/h, (ii) 25 m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: km/h માંથી m/s માં જવા 5/18 વડે ગુણો. (18 km/h = 5 m/s નો પાડો યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A : (1) શૂન્ય વેગ અને અશૂન્ય પ્રવેગ, (2) અચળ વેગ | વિભાગ B : (i) પ્રવેગ શૂન્ય, (ii) ઉર્ધ્વગતિમાં મહત્તમ ઊંચાઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર ગાડી ઉભી રહે (v=0) પણ પૃથ્વી તો ખેંચે જ છે (a=g). અચળ વેગ એટલે સ્પીડોમીટર ફરે જ નહીં (a=0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A : (1) ઢાળ ધન (+), (2) ઢાળ ઋણ (-) | વિભાગ B : (i) વેગ ઘટે છે (વિરુદ્ધ દિશામાં), (ii) વેગ ધન દિશામાં છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચઢાણ એટલે ધન (+), ઉતરાણ એટલે ઋણ (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A : (1) સાપેક્ષ વેગ V_AB (વિરુદ્ધ દિશામાં), (2) સાપેક્ષ વેગ V_AB (સમાન દિશામાં) | વિભાગ B : (i) V_A - V_B, (ii) V_A + V_B",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામ-સામે આવો તો 'ભટકાઈ' જવાય એટલે સરવાળો, એક જ બાજુ જાવ તો 'પીછો' કરવો પડે એટલે બાદબાકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A : (1) સરેરાશ વેગનું સૂત્ર, (2) તત્કાલીન વેગનું સૂત્ર | વિભાગ B : (i) dx/dt, (ii) Δx / Δt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશ એટલે 'મોટો' ફેરફાર (Delta Δ), તત્કાલીન એટલે 'નાનો' ફેરફાર (d).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A : (1) t સમયમાં કાપેલું અંતર, (2) n મી સેકન્ડમાં કાપેલું અંતર | વિભાગ B : (i) v₀ + a/2(2n-1), (ii) v₀t + ½at²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'n' મી સેકન્ડ એટલે સ્પેશિયલ ફોર્મ્યુલા (2n-1) વાળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A : (1) x-t આલેખ x-અક્ષને લંબ, (2) v-t આલેખ v-અક્ષને લંબ | વિભાગ B : (i) અશક્ય ગતિ, (ii) પ્રવેગ શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય ક્યારેય ઉભો ન રહે, એટલે x-t માં ઊભી લીટી અશક્ય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A : (1) અંતર (Distance), (2) સ્થાનાંતર (Displacement) | વિભાગ B : (i) હંમેશા ધન, (ii) ધન, ઋણ કે શૂન્ય હોઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર એટલે તમે કેટલું ચાલ્યા (હંમેશા પોઝિટિવ), સ્થાનાંતર એટલે કઈ બાજુ ગયા (દિશા મુજબ બદલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A : (1) આલેખ વક્ર હોય, (2) આલેખ સીધી રેખા હોય | વિભાગ B : (i) નિયમિત ગતિ, (ii) અનિયમિત ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધું એટલે 'નિયમિત', વાંકું-ચૂંકું એટલે 'અનિયમિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A : (1) g નું મૂલ્ય (આશરે), (2) g નું પારિમાણિક સૂત્ર | વિભાગ B : (i) L¹ T⁻², (ii) 9.8 m/s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: g એ પ્રવેગ જ છે, એટલે પ્રવેગના જ એકમ અને પરિમાણ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A : (1) શૂન્યાવકાશમાં પથ્થર અને પીંછું, (2) હવાની હાજરીમાં | વિભાગ B : (i) પથ્થર વહેલો પડે, (ii) બંને સાથે પડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યાવકાશમાં કોઈ ભેદભાવ નથી, બધા જ પદાર્થો 'g' થી સાથે જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A : (1) x-t આલેખનો ઢાળ શૂન્ય, (2) v-t આલેખનો ઢાળ શૂન્ય | વિભાગ B : (i) વેગ અચળ, (ii) વેગ શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ એટલે જે તે રાશિનો ફેરફાર. સ્થાન ન બદલાય તો વેગ 0, વેગ ન બદલાય તો પ્રવેગ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A : (1) મુક્ત પતનમાં 1s, 2s, 3s માં અંતરનો ગુણોત્તર, (2) કાપેલા કુલ અંતરનો ગુણોત્તર | વિભાગ B : (i) 1 : 4 : 9, (ii) 1 : 3 : 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક સેકન્ડ હોય તો 'એકી સંખ્યા' (1:3:5), કુલ અંતર હોય તો 'વર્ગ' (1:4:9).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A : (1) ગાડીમાં સ્પીડોમીટર, (2) ગાડીમાં ઓડોમીટર | વિભાગ B : (i) પથલંબાઈ (કુલ અંતર), (ii) તત્કાલીન ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પીડોમીટર = સ્પીડ (ઝડપ), ઓડોમીટર = અંતર (પથલંબાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A : (1) x-t આલેખ સુરેખ અને t-અક્ષને સમાંતર, (2) x-t આલેખ સુરેખ અને ઉગમબિંદુમાંથી પસાર થતી | વિભાગ B : (i) નિયમિત વેગી ગતિ, (ii) પદાર્થ સ્થિર છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર એટલે બદલાતું નથી (સ્થિર). ત્રાસી લીટી એટલે સમય સાથે સરખું વધે છે (નિયમિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A : (1) સરેરાશ વેગ શૂન્ય ક્યારે?, (2) સરેરાશ ઝડપ શૂન્ય ક્યારે? | વિભાગ B : (i) માત્ર જ્યારે પદાર્થ સ્થિર હોય, (ii) જ્યારે સ્થાનાંતર શૂન્ય હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ માટે 'ઝીરો' થવું સહેલું છે (પાછા આવો તો ઝીરો), પણ ઝડપ માટે તો 'ઊભા' જ રહેવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A : (1) પ્રવેગની દિશા વેગની દિશામાં, (2) પ્રવેગની દિશા વેગની વિરુદ્ધ | વિભાગ B : (i) મંદન (Retardation), (ii) પ્રવેગિત ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમ ડાયરેક્શન = સ્પીડ અપ, ઓપોઝીટ ડાયરેક્શન = સ્લો ડાઉન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A : (1) એક કલાકમાં 60 km અંતર, (2) ઉત્તર દિશામાં 60 km/h | વિભાગ B : (i) વેગ, (ii) ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિશા આપી હોય તો 'વેગ' (V for Velocity & Vector), ના આપી હોય તો 'ઝડપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A : (1) v-t આલેખ સમય અક્ષને સમાંતર, (2) v-t આલેખ ત્રાસી રેખા | વિભાગ B : (i) અચળ પ્રવેગી ગતિ, (ii) અચળ વેગી ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v-t માં આડી લીટી એટલે 'v' બદલાતો નથી. ત્રાસી લીટી એટલે 'v' સરખો વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A : (1) d²x/dt², (2) dx/dt | વિભાગ B : (i) વેગ, (ii) પ્રવેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક વાર વિકલન તો વેગ, બીજી વાર વિકલન (d²) તો પ્રવેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A : (1) મુક્ત પતન માટે x-t આલેખ, (2) અચળ વેગ માટે x-t આલેખ | વિભાગ B : (i) સુરેખા, (ii) પરવલય (Parabola)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિના સમીકરણમાં t² હોય તો આલેખ હંમેશા વક્ર (પરવલય) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A : (1) પૃથ્વી પર g નું મૂલ્ય, (2) ચંદ્ર પર g નું મૂલ્ય | વિભાગ B : (i) g/6, (ii) 9.8 m/s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદ્ર પર ગુરુત્વાકર્ષણ ઓછું છે, પૃથ્વી કરતા છઠ્ઠા ભાગનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A : (1) પદાર્થ ગતિની દિશા બદલે ત્યારે, (2) પદાર્થ નિયમિત ગતિ કરે ત્યારે | વિભાગ B : (i) પ્રવેગ શૂન્ય, (ii) વેગ ક્ષણિક શૂન્ય થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાછા વળવા માટે પેલા 'ઉભા' રહેવું પડે (v=0). નિયમિત ગતિ એટલે વેગમાં કોઈ ફેરફાર નહીં (a=0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A : (1) દડો ઉપર ફેંકતા લાગતો સમય (t_up), (2) નીચે આવતા લાગતો સમય (t_down) | વિભાગ B : (i) v₀ / g, (ii) v₀ / g (હવાનો અવરોધ અવગણતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જવાનો અને નીચે આવવાનો સમય સરખો જ હોય જો હવા ન નડતી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A : (1) સ્થાનાંતર | પથલંબાઈ, (2) વેગ | ઝડપ | વિભાગ B : (i) સદિશ | અદિશ, (ii) સદિશ | અદિશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બસ એટલું યાદ રાખો - 'વેગ' અને 'સ્થાનાંતર' સદિશના ભાઈઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A : (1) પદાર્થ સ્થિર હોય તો v, (2) પદાર્થ અચળ વેગી હોય તો a | વિભાગ B : (i) 0, (ii) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર તો વેગ નથી, અચળ વેગ તો પ્રવેગ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A : (1) વેગ વિરુદ્ધ સમયનો આલેખ, (2) સ્થાન વિરુદ્ધ સમયનો આલેખ | વિભાગ B : (i) v-t આલેખ, (ii) x-t આલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ એવા જ ગુણ. વેગ-સમય એટલે v-t, સ્થાન-સમય એટલે x-t.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A : (1) સ્થાનાંતરનું મૂલ્ય, (2) પથલંબાઈ | વિભાગ B : (i) પ્રારંભિક અને અંતિમ સ્થાન વચ્ચેનું લઘુત્તમ અંતર, (ii) પદાર્થે કાપેલું કુલ અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર એટલે 'શોર્ટકટ', પથલંબાઈ એટલે 'આખો રસ્તો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A : (1) પ્રતિપ્રવેગમાં v-t આલેખ, (2) પ્રવેગી ગતિમાં v-t આલેખ | વિભાગ B : (i) નીચે તરફ જતી રેખા, (ii) ઉપર તરફ જતી રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ વધે તો આલેખ ઉપર ચઢે, વેગ ઘટે (બ્રેક મારો) તો આલેખ નીચે ઉતરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A : (1) સ્ટોપિંગ ડિસ્ટન્સ ચલે છે (∝), (2) મુક્ત પતનમાં કાપેલું અંતર ∝ | વિભાગ B : (i) v₀², (ii) t²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પીડ બમણી કરો તો બ્રેક મારતા 4 ગણું અંતર કપાય (વર્ગનો સંબંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A : (1) ટ્રેન A ની સાપેક્ષે B નો વેગ, (2) જમીનની સાપેક્ષે ટ્રેન A નો વેગ | વિભાગ B : (i) V_A, (ii) V_B - V_A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન તો સ્થિર છે, એટલે વેગ એનો એ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A : (1) સરેરાશ વેગ શૂન્ય ક્યારે થાય?, (2) સરેરાશ પ્રવેગ શૂન્ય ક્યારે થાય? | વિભાગ B : (i) પ્રારંભિક અને અંતિમ વેગ સમાન હોય, (ii) પ્રારંભિક અને અંતિમ સ્થાન સમાન હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ માટે 'સ્થાન' જોવો, પ્રવેગ માટે 'વેગ' જોવો. ફેરફાર 0 તો સરેરાશ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A : (1) x-t આલેખનો અક્ષર 'x', (2) v-t આલેખનો અક્ષર 'v' | વિભાગ B : (i) m, (ii) m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y-અક્ષ પર જે ભૌતિક રાશિ હોય તેનો એકમ ત્યાં લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A : (1) મુક્ત પતન માટે v-t આલેખ, (2) સ્થિર પદાર્થ માટે v-t આલેખ | વિભાગ B : (i) t-અક્ષ પર જ સંપાત થતી રેખા, (ii) ઉગમબિંદુમાંથી નીકળતી ત્રાસી રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર પદાર્થનો વેગ 0 હોય, એટલે આલેખ સમયની ધરી પર જ સૂતો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A : (1) વેગ વધે, (2) વેગ ઘટે | વિભાગ B : (i) a > 0, (ii) a < 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારો એટલે Positive (+), ઘટાડો એટલે Negative (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A : (1) સ્થાનાંતરની દિશા, (2) વેગની દિશા | વિભાગ B : (i) હંમેશા સ્થાનાંતરની દિશામાં, (ii) પ્રારંભિક થી અંતિમ સ્થાન તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં જશો ત્યાં જ વેગ હશેને? એટલે બંનેની દિશા એક જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A : (1) ગતિ પથ સુરેખ હોય, (2) ગતિ પથ વક્ર હોય | વિભાગ B : (i) દ્વિ-પરિમાણીય કે ત્રિ-પરિમાણીય ગતિ, (ii) એક-પરિમાણીય ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરેખ પથ એટલે 1D (સીધી લીટી), વક્ર એટલે 2D કે 3D.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A : (1) સમય (Time), (2) વેગ (Velocity) | વિભાગ B : (i) હંમેશા ધન, (ii) ધન કે ઋણ હોઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય ક્યારેય પાછો નથી જતો એટલે હંમેશા (+). વેગ દિશા બદલાતા (-) થઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A : (1) મહત્તમ ઊંચાઈએ પહોંચવા માટે લાગતો સમય, (2) કુલ ઉડ્ડયન સમય | વિભાગ B : (i) 2v₀/g, (ii) v₀/g",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જવાનો સમય 't', પાછા આવવાનો 't', તો ટોટલ '2t'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A : (1) મુક્ત પતન કરતાં પદાર્થે 3s માં કાપેલું કુલ અંતર, (2) 3 જી સેકન્ડમાં કાપેલું અંતર | વિભાગ B : (i) 25 m (આશરે), (ii) 45 m (આશરે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ અંતર d = 5t² (જો g=10). t=3 મૂકો તો 45. ત્રીજી સેકન્ડ માટે ગેલીલીયોનો નિયમ 5, 15, 25... તો ત્રીજી માં 25.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A : (1) નિયમિત ગતિમાં v-t આલેખ નીચેનું ક્ષેત્રફળ (લંબચોરસ), (2) અચળ પ્રવેગી ગતિમાં v-t આલેખ નીચેનું ક્ષેત્રફળ | વિભાગ B : (i) સમલંબ ચતુષ્કોણ કે ત્રિકોણ, (ii) લંબચોરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ અચળ તો ઊંચાઈ અચળ (લંબચોરસ). વેગ વધે તો ઢાળ બને (ત્રિકોણ કે સમલંબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A : (1) સરેરાશ વેગ, (2) સરેરાશ ઝડપ | વિભાગ B : (i) v_avg = total distance / total time, (ii) v_avg = total displacement / total time",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ-સ્થાનાંતર (Displacement), ઝડપ-અંતર (Distance).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A : (1) x-t આલેખ ધન x-અક્ષ તરફ નમેલો, (2) x-t આલેખ ઋણ x-અક્ષ તરફ નમેલો | વિભાગ B : (i) ઋણ વેગ, (ii) ધન વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર ચઢો તો ધન, નીચે ઉતરો તો ઋણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A : (1) ક્ષણિક વેગ, (2) લાંબા સમયગાળાનો વેગ | વિભાગ B : (i) સરેરાશ વેગ, (ii) તત્કાલીન વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્ષણ' એટલે તત્કાલીન, 'ગાળો' એટલે સરેરાશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A : (1) x-t આલેખ સુરેખ હોવો, (2) v-t આલેખ સુરેખ હોવો | વિભાગ B : (i) અચળ પ્રવેગ, (ii) અચળ વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો આલેખ સુરેખ (ત્રાંસો) હોય તેની પછીની રાશિ અચળ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A : (1) મુક્ત પતન કરતા પદાર્થનો પ્રવેગ, (2) અચળ વેગથી ગતિ કરતા પદાર્થનો પ્રવેગ | વિભાગ B : (i) 0, (ii) -9.8 m/s² (નીચેની તરફ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતનમાં તો પ્રકૃતિનો પ્રવેગ 'g' લાગે જ, પણ અચળ વેગ એટલે ગાડીમાં કોઈ એક્સિલરેટર નથી આપતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A : (1) સાપેક્ષ વેગ શૂન્ય ક્યારે?, (2) સાપેક્ષ વેગ મહત્તમ ક્યારે? | વિભાગ B : (i) જ્યારે બંને સમાન વેગથી વિરુદ્ધ દિશામાં હોય, (ii) જ્યારે બંને સમાન વેગથી એક જ દિશામાં હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથે ચાલો તો વેગ ન જણાય (ઝીરો), સામ-સામે આવો તો સનનનન કરતાં નીકળી જાવ (મેક્સિમમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A : (1) t_r (Reaction time) નું સૂત્ર, (2) d_s (Stopping distance) નું સૂત્ર | વિભાગ B : (i) v₀²/2a, (ii) √(2h/g)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિએક્શન ટાઈમ એટલે ફૂટપટ્ટી પકડવાનો સમય. સ્ટોપિંગ એટલે બ્રેક માર્યા પછીનું 'અંતર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A : (1) પથલંબાઈ ≥ |સ્થાનાંતર|, (2) સરેરાશ ઝડપ ≥ |સરેરાશ વેગ| | વિભાગ B : (i) હંમેશા સત્ય, (ii) હંમેશા સત્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અદિશ રાશિ હંમેશા સદિશના મૂલ્ય જેટલી અથવા તેનાથી મોટી જ હોય. કદી નાની ન હોય!</p></div>"
+    }
+  ]
+}

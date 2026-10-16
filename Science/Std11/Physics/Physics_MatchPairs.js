@@ -724,3 +724,361 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સમતલમાં ગતિ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) અદિશ રાશિ \n(2) સદિશ રાશિ \n\n(A) બળ \n(B) સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અદિશ' એટલે દિશા વગરનું (સમય), 'સદિશ' એટલે દિશા સાથેનું (બળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સ્થાનાંતર \n(2) પથલંબાઈ \n\n(A) હંમેશા ધન \n(B) ધન, ઋણ કે શૂન્ય હોઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથલંબાઈ એ અંતર છે (હંમેશા +ve), સ્થાનાંતર એ સદિશ છે (બધું જ શક્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) એકમ સદિશનું મૂલ્ય \n(2) શૂન્ય સદિશનું મૂલ્ય \n\n(A) 0 \n(B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ તેવા ગુણ! 'એકમ' એટલે 1, 'શૂન્ય' એટલે 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) x-અક્ષની દિશામાં એકમ સદિશ \n(2) y-અક્ષની દિશામાં એકમ સદિશ \n\n(A) ĵ \n(B) î",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: (x, y, z) → (i, j, k).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સરેરાશ વેગ \n(2) તાત્ક્ષણિક વેગ \n\n(A) Δr / Δt \n(B) dr / dt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશમાં 'Δ' (મોટો ફેરફાર), તાત્ક્ષણિકમાં 'd' (વિકલન - નાનો ફેરફાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત પદાર્થનો ગતિપથ \n(2) નિયમિત વર્તુળમય ગતિનો પ્રવેગ \n\n(A) કેન્દ્રગામી \n(B) પરવલય (Parabola)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેંકેલી વસ્તુ 'પરવલય' આકારે જાય, વર્તુળમાં 'કેન્દ્ર' તરફ ખેંચાણ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) મહત્તમ ઊંચાઈ (H) \n(2) મહત્તમ અવધિ (R) \n\n(A) u² sin(2θ) / g \n(B) u² sin²θ / 2g",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ (H) માં sin 'Square' આવે, અવધિ (R) માં ખૂણો 'Double' (2θ) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સમાન સદિશો \n(2) વિરોધી સદિશો \n\n(A) સમાન મૂલ્ય અને વિરુદ્ધ દિશા \n(B) સમાન મૂલ્ય અને સમાન દિશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન એટલે બધું સરખું, વિરોધી એટલે દિશા ઉંધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કોણીય વેગ (ω) નો એકમ \n(2) કેન્દ્રગામી પ્રવેગ (a) નો એકમ \n\n(A) m/s² \n(B) rad/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો (rad) સમય સાથે બદલાય તો ω, વેગ સમય સાથે બદલાય તો a.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) મહત્તમ અવધિ માટેનો ખૂણો \n(2) મહત્તમ ઊંચાઈ માટેનો ખૂણો \n\n(A) 90° \n(B) 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબુ ફેંકવું હોય તો 45°, ઉંચુ ફેંકવું હોય તો સીધું (90°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A (સૂત્ર) ને વિભાગ B (ભૌતિક રાશિ) સાથે જોડો: \n(1) v = rω \n(2) a = v²/r \n\n(A) કેન્દ્રગામી પ્રવેગ \n(B) રેખીય વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'v' એ રેખીય છે, 'v²/r' એ કેન્દ્ર તરફનો પ્રવેગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) મુક્ત પતન કરતા પદાર્થનો પ્રવેગ \n(2) નિયમિત ગતિ કરતા પદાર્થનો પ્રવેગ \n\n(A) શૂન્ય \n(B) અચળ (g)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતન એટલે ગુરુત્વાકર્ષણ (g), નિયમિત વેગ એટલે પ્રવેગ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશ સરવાળાનો ત્રિકોણનો નિયમ \n(2) સદિશ સરવાળાનો સમાંતરબાજુ ચતુષ્કોણનો નિયમ \n\n(A) પૂંછ પર પૂંછ ગોઠવવી \n(B) શીર્ષ પર પૂંછ ગોઠવવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણમાં 'હેડ ટુ ટેઈલ' (HT), સમાંતરબાજુમાં 'ટેઈલ ટુ ટેઈલ' (TT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત ગતિમાં મહત્તમ ઊંચાઈએ વેગ \n(2) પ્રક્ષિપ્ત ગતિમાં પ્રારંભિક વેગનો x-ઘટક \n\n(A) u cosθ \n(B) u cosθ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B) [બંને સમાન છે]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રક્ષિપ્ત ગતિમાં 'x-ઘટક' (cos) ક્યારેય બદલાતો નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સ્થાન સદિશ r = xî + yĵ નું મૂલ્ય \n(2) દિશા (θ) \n\n(A) tan⁻¹(y/x) \n(B) √(x² + y²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂલ્ય એટલે પાયથાગોરસ, ખૂણો એટલે 'ટેન' (tan).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પરિણામી સદિશનું મહત્તમ મૂલ્ય \n(2) પરિણામી સદિશનું લઘુત્તમ મૂલ્ય \n\n(A) |A - B| \n(B) A + B",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ દિશામાં હોય તો સરવાળો (Max), વિરુદ્ધ હોય તો બાદબાકી (Min).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) ઉડ્ડયન સમય (Tf) \n(2) મહત્તમ ઊંચાઈએ પહોંચવા માટેનો સમય (Tm) \n\n(A) u sinθ / g \n(B) 2u sinθ / g",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જવાના સમય કરતા કુલ સમય ડબલ (2 ગણો) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) શૂન્ય સદિશ \n(2) એકમ સદિશ \n\n(A) દિશા દર્શાવવા માટે \n(B) પ્રારંભિક અને અંતિમ બિંદુ સમાન હોય ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય એટલે ત્યાં ને ત્યાં, એકમ સદિશ એટલે રસ્તો બતાવનાર 'હોકાયંત્ર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશ ગુણાકાર (Cross Product) - દિશા \n(2) અદિશ ગુણાકાર (Dot Product) - પરિણામ \n\n(A) અદિશ \n(B) જમણા હાથના સ્ક્રૂના નિયમ મુજબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડૉટ (Dot) માં સંખ્યા મળે, ક્રોસ (Cross) માં સ્ક્રૂ ફેરવવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) દ્વિ-પરિમાણમાં ગતિ \n(2) એક-પરિમાણમાં ગતિ \n\n(A) સુરેખ પથ પર ગતિ \n(B) સમતલમાં ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1D = લાઈન, 2D = પેપર (સમતલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) R_max \n(2) H_max \n\n(A) u²/2g \n(B) u²/g",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવધિ (R) એ ઊંચાઈ (H) કરતા 2 ગણી હોઈ શકે (જ્યારે θ બદલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશ સરવાળો \n(2) સદિશ બાદબાકી \n\n(A) A + (-B) \n(B) ક્રમનો નિયમ પળાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળામાં ક્રમ ચાલે, બાદબાકી એ વિરોધીનો સરવાળો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કેન્દ્રગામી બળની દિશા \n(2) સ્પર્શકીય વેગની દિશા \n\n(A) વર્તુળના સ્પર્શકની દિશામાં \n(B) કેન્દ્ર તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રગામી = કેન્દ્ર તરફ જનાર, વેગ = રસ્તા પર સીધો (સ્પર્શક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત ગતિમાં પ્રવેગનો x-ઘટક (ax) \n(2) પ્રક્ષિપ્ત ગતિમાં પ્રવેગનો y-ઘટક (ay) \n\n(A) -g \n(B) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આડી દિશામાં કોઈ ખેંચાણ નથી (0), ઉભી દિશામાં ગુરુત્વાકર્ષણ છે (-g).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) આવર્તકાળ (T) \n(2) આવૃત્તિ (f) \n\n(A) 1/T \n(B) 2π/ω",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય અને આવૃત્તિ એકબીજાના દુશ્મન (વ્યસ્ત) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) î · î \n(2) î · ĵ \n\n(A) 0 \n(B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખાનો ગુણાકાર 1, જુદા હોય તો 0 (Dot product માં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સરેરાશ પ્રવેગ \n(2) તાત્ક્ષણિક પ્રવેગ \n\n(A) dv/dt \n(B) Δv/Δt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Δ' એટલે એવરેજ, 'd' એટલે અત્યારે ને અત્યારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સ્થાન સદિશનું પારિમાણિક સૂત્ર \n(2) કોણીય વેગનું પારિમાણિક સૂત્ર \n\n(A) M⁰L⁰T⁻¹ \n(B) M⁰L¹T⁰",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાન એટલે લંબાઈ (L1), કોણીય વેગ એટલે 1/સમય (T-1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) θ = 0° (બે સદિશો વચ્ચે) \n(2) θ = 90° (બે સદિશો વચ્ચે) \n\n(A) સદિશો પરસ્પર લંબ \n(B) સદિશો સમાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0° એટલે સાથે ચાલે (સમાંતર), 90° એટલે કાટખૂણો (લંબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) મુક્ત પતન કરતા પદાર્થ માટે વેગ-સમયનો આલેખ \n(2) સ્થિર પદાર્થ માટે સ્થાન-સમયનો આલેખ \n\n(A) સમયની અક્ષને સમાંતર રેખા \n(B) ઉગમબિંદુમાંથી પસાર થતી સીધી રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ વધે તો આલેખ ઉપર જાય, પદાર્થ સ્થિર હોય તો લાઈન આડી રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કણનો પ્રારંભિક વેગ u, પ્રક્ષિપ્ત ખૂણો θ \n(2) અવધિ R અને ઊંચાઈ H વચ્ચેનો સંબંધ \n\n(A) R tanθ = 4H \n(B) u_x = u cosθ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રીક: 'R Tan 4H' - રામ તારા ચાર હાથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશ વિભાજન - x ઘટક \n(2) સદિશ વિભાજન - y ઘટક \n\n(A) A sinθ \n(B) A cosθ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણાની પાસેનો ઘટક હંમેશા cos, દૂરનો sin.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) 1 Radian \n(2) 1 Degree \n\n(A) π/180 rad \n(B) 180/π degree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Radian મોટો ભાઈ છે, Degree નાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) નિયમિત વર્તુળમય ગતિમાં ઝડપ \n(2) નિયમિત વર્તુળમય ગતિમાં વેગ \n\n(A) બદલાય છે \n(B) અચળ રહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ એ સદિશ છે, દિશા બદલાય એટલે વેગ બદલાય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સ્થાનાંતર સદિશ Δr \n(2) સ્થાન સદિશ r \n\n(A) r2 - r1 \n(B) xî + yĵ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Δ એટલે 'તફાવત' (બાદબાકી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત પદાર્થની ગતિનું સમીકરણ (Trajectory) \n(2) વર્તુળમય ગતિમાં પ્રવેગ \n\n(A) ω²r \n(B) y = (tanθ)x - (gx² / 2u²cos²θ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિપથમાં x અને x² બંને આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશ A નો પોતાનો જ સાથે ડોટ ગુણાકાર (A·A) \n(2) સદિશ A નો પોતાનો જ સાથે ક્રોસ ગુણાકાર (AxA) \n\n(A) 0 \n(B) A²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોટમાં 'બળ' (Value) મળે, ક્રોસમાં પોતાની સાથે ખૂણો 0 હોય એટલે 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પદાર્થ 1 નો 2 ની સાપેક્ષે વેગ v₁₂ \n(2) પદાર્થ 2 નો 1 ની સાપેક્ષે વેગ v₂₁ \n\n(A) v₂ - v₁ \n(B) v₁ - v₂",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પહેલાં લખ્યું હોય તેમાંથી બીજું બાદ કરો (1-2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) રેખીય સ્થાનાંતર (s) \n(2) કોણીય સ્થાનાંતર (θ) \n\n(A) રેડિયન \n(B) મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધું અંતર m માં, ખૂણો rad માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સાપેક્ષ વેગ (સમાન દિશામાં) \n(2) સાપેક્ષ વેગ (પરસ્પર વિરુદ્ધ દિશામાં) \n\n(A) v₁ + v₂ \n(B) v₁ - v₂",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામેથી આવતા હોય તો સ્પીડ વધારે લાગે (+), સાથે જતા હોઈએ તો ઓછી લાગે (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત ગતિમાં ઉચ્ચતમ બિંદુએ વેગ અને પ્રવેગ વચ્ચેનો ખૂણો \n(2) નિયમિત વર્તુળમય ગતિમાં વેગ અને પ્રવેગ વચ્ચેનો ખૂણો \n\n(A) 90° \n(B) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને કિસ્સામાં વેગ અને પ્રવેગ 'લંબ' (90°) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કોણીય આવૃત્તિ (ω) \n(2) આવર્તકાળ (T) \n\n(A) rad/s \n(B) s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તકાળ એટલે 'સમય' (s).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સરેરાશ વેગની દિશા \n(2) તાત્ક્ષણિક વેગની દિશા \n\n(A) ગતિપથના સ્પર્શકની દિશામાં \n(B) સ્થાનાંતરની દિશામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાત્ક્ષણિક એટલે અત્યારે ક્યાં જાવ છો? (સ્પર્શક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશનો અદિશ સાથે ગુણાકાર (k · A) \n(2) સદિશનું માન (Magnitude) \n\n(A) હંમેશા અનૃણ (Non-negative) \n(B) મૂલ્ય k ગણું થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માન (Magnitude) ક્યારેય ઋણ ના હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત ગતિ (Two Complementary angles) \n(2) સમાન અવધિ મળે \n\n(A) θ અને 90-θ \n(B) 30° અને 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બે ખૂણાનો સરવાળો 90° થાય, તેમની અવધિ સરખી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) θ = 30° હોય તો અવધિ \n(2) θ = 45° હોય તો અવધિ \n\n(A) મહત્તમ (u²/g) \n(B) u²√3 / 2g",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 45° પર હંમેશા Max જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) î x ĵ \n(2) ĵ x î \n\n(A) -k̂ \n(B) k̂",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયકલ યાદ રાખો: i → j → k. ઊંધા ચાલો તો માઈનસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) k̂ · k̂ \n(2) k̂ x k̂ \n\n(A) 0 \n(B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોટમાં 'સેમ-સેમ 1', ક્રોસમાં 'સેમ-સેમ 0'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) શૂન્ય સદિશની દિશા \n(2) એકમ સદિશની દિશા \n\n(A) આપેલ સદિશની દિશામાં \n(B) અનિશ્ચિત (Indeterminate)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય પાસે કંઈ નથી, એટલે દિશા પણ નક્કી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પદાર્થનું હવામાં રહેવું \n(2) પદાર્થે કાપેલું મહત્તમ આડું અંતર \n\n(A) અવધિ (Range) \n(B) ઉડ્ડયન સમય (Time of Flight)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં રહે એટલે 'ટાઈમ', જમીન પર કેટલે ગયો એટલે 'અવધિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કેન્દ્રગામી પ્રવેગ (સૂત્ર) \n(2) કોણીય વેગ (સૂત્ર) \n\n(A) dθ / dt \n(B) ω²r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ω²r એટલે કેન્દ્ર તરફ ખેંચાતો પ્રવેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) અદિશ રાશિનું ઉદાહરણ \n(2) સદિશ રાશિનું ઉદાહરણ \n\n(A) સ્થાનાંતર \n(B) અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતર' એટલે ગમે ત્યાં ભટકો, 'સ્થાનાંતર' એટલે ચોક્કસ દિશામાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) જો Ax = Ay હોય તો ખૂણો \n(2) જો Ax = 0 હોય તો ખૂણો \n\n(A) 90° \n(B) 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખા હોય ત્યારે tanθ = 1, એટલે θ = 45°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સ્થાન-સમય આલેખનો ઢાળ \n(2) વેગ-સમય આલેખનો ઢાળ \n\n(A) પ્રવેગ \n(B) વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x/t = v, v/t = a. ઢાળ એટલે ભાગાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશોના સરવાળા માટે જૂથનો નિયમ \n(2) સદિશોના સરવાળા માટે ક્રમનો નિયમ \n\n(A) A + B = B + A \n(B) (A + B) + C = A + (B + C)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જૂથ' માં ત્રણ હોય, 'ક્રમ' માં બે ની અદલાબદલી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) મુક્ત પતન - પ્રવેગની દિશા \n(2) પ્રક્ષિપ્ત ગતિ - પ્રવેગની દિશા \n\n(A) નીચે તરફ (ઋણ y-અક્ષ) \n(B) નીચે તરફ (ઋણ y-અક્ષ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી બધાને નીચે જ ખેંચે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) રેડિયન થી ડિગ્રીમાં ફેરવવા \n(2) ડિગ્રી થી રેડિયનમાં ફેરવવા \n\n(A) π/180 વડે ગુણવા \n(B) 180/π વડે ગુણવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિગ્રી નાની છે, એટલે તેને π (મોટા) વડે ગુણીને રેડિયન બનાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) નિયમિત વર્તુળમય ગતિમાં ગતિ ઉર્જા \n(2) નિયમિત વર્તુળમય ગતિમાં વેગમાન \n\n(A) બદલાય છે \n(B) અચળ રહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા અદિશ છે (ઝડપ પર આધાર રાખે), વેગમાન સદિશ છે (દિશા બદલાય એટલે બદલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) શૂન્ય સદિશ + સદિશ A \n(2) સદિશ A - સદિશ A \n\n(A) શૂન્ય સદિશ \n(B) સદિશ A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 માં ઉમેરો તો એનું એ રહે, પોતાની જાતમાંથી બાદ કરો તો 0 થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત ગતિમાં વેગનો y-ઘટક ઉચ્ચતમ બિંદુએ \n(2) પ્રક્ષિપ્ત ગતિમાં વેગનો x-ઘટક ઉચ્ચતમ બિંદુએ \n\n(A) u cosθ \n(B) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર પહોંચીને પદાર્થ ક્ષણવાર 'ઉભો' (vertical 0) રહે પણ 'આગળ' (horizontal) તો વધતો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) આડું અંતર \n(2) ઉભું અંતર \n\n(A) y = (u sinθ)t - 1/2 gt² \n(B) x = (u cosθ)t",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x દિશામાં પ્રવેગ નથી (સીધું સૂત્ર), y માં g લાગે છે (ગતિનું બીજું સૂત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) એકમ વર્તુળમાં એક પરિભ્રમણનો ખૂણો \n(2) એક પરિભ્રમણ માટે લાગતો સમય \n\n(A) આવર્તકાળ (T) \n(B) 2π રેડિયન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ચક્કર એટલે 360° = 2π.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સરેરાશ વેગનું મૂલ્ય \n(2) સરેરાશ ઝડપનું મૂલ્ય \n\n(A) પથલંબાઈ / સમય \n(B) |સ્થાનાંતર| / સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ સાથે 'સ્થાનાંતર' જોડાયેલું છે, ઝડપ સાથે 'પથલંબાઈ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશ A અને B લંબ હોય તો \n(2) સદિશ A અને B સમાંતર હોય તો \n\n(A) A x B = 0 \n(B) A · B = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ હોય તો 'ડોટ' 0 (cos 90), સમાંતર હોય તો 'ક્રોસ' 0 (sin 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) વિસ્થિતી (Position) \n(2) વેગમાન (Momentum) \n\n(A) સદિશ \n(B) સદિશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રકરણની મોટાભાગની રાશિઓ સદિશ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કેન્દ્રગામી પ્રવેગનું સૂત્ર (ω ના પદમાં) \n(2) કેન્દ્રગામી પ્રવેગનું સૂત્ર (v ના પદમાં) \n\n(A) v²/r \n(B) ω²r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ફોર્મ્યુલા મોઢે કરી લો, ખૂબ કામ લાગશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) θ = 90° હોય તો sinθ \n(2) θ = 90° હોય તો cosθ \n\n(A) 0 \n(B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 90° એ sin 'હીરો' છે અને cos 'ઝીરો' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) પ્રક્ષિપ્ત ગતિમાં પદાર્થે કાપેલું મહત્તમ ઉર્ધ્વ અંતર \n(2) પ્રક્ષિપ્ત ગતિમાં પદાર્થે કાપેલું મહત્તમ સમક્ષિતિજ અંતર \n\n(A) અવધિ \n(B) મહત્તમ ઊંચાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્ધ્વ = ઊંચાઈ, સમક્ષિતિજ = અવધિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) કણની ઝડપ બમણી કરવામાં આવે તો કેન્દ્રગામી પ્રવેગ \n(2) કણની ત્રિજ્યા બમણી કરવામાં આવે તો કેન્દ્રગામી પ્રવેગ \n\n(A) અડધો થાય \n(B) ચાર ગણો થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a ∝ v² (2² = 4) અને a ∝ 1/r (1/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \n(1) સદિશ A = 3î + 4ĵ નું મૂલ્ય \n(2) સદિશ A = 6î + 8ĵ નું મૂલ્ય \n\n(A) 10 \n(B) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરિયન ત્રિપુટી: (3,4) → 5 અને (6,8) → 10.</p></div>"
+    }
+  ]
+}

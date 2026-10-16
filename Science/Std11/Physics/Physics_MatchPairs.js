@@ -1082,3 +1082,371 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ગતિના નિયમો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: <br> (1) બળનો આઘાત <br> (2) રેખીય વેગમાન <br> --- <br> (A) kg·m/s <br> (B) N·s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગમાન (p=mv) એટલે kg·m/s અને આઘાત (J=FΔt) એટલે N·s. યાદ રાખો: આઘાત અને વેગમાનના ફેરફારના એકમો સમાન જ હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: <br> (1) ન્યુટનનો પ્રથમ નિયમ <br> (2) ન્યુટનનો દ્વિતીય નિયમ <br> --- <br> (A) બળનું મૂલ્ય આપે છે <br> (B) બળની વ્યાખ્યા આપે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ-પ્રથમ-વ્યાખ્યા, દ-દ્વિતીય-મૂલ્ય (F=ma). NJ Classes ટ્રીક: 'પહેલા વ્યાખ્યા આપો, પછી ગણતરી કરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A (ઘર્ષણના પ્રકાર) ને વિભાગ B (શરત) સાથે જોડો: <br> (1) સ્થિત ઘર્ષણ <br> (2) ગતિક ઘર્ષણ <br> --- <br> (A) fₖ = μₖ N <br> (B) fₛ ≤ μₛ N",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિત ઘર્ષણ 'સ્વયં-નિયંત્રિત' છે એટલે '≤' આવે, ગતિક ઘર્ષણ અચળ જેવું છે એટલે '=' આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A (ભૌતિક રાશિ) ને વિભાગ B (પરિમાણિક સૂત્ર) સાથે જોડો: <br> (1) બળ <br> (2) બળનો આઘાત <br> --- <br> (A) [M¹L¹T⁻²] <br> (B) [M¹L¹T⁻¹]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ (Force) = 11-2 (માસ-લેન્થ-ટાઈમ), આઘાત (Impulse) = 11-1. NJ Classes શોર્ટકટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A (નિયમ) ને વિભાગ B (વૈજ્ઞાનિક) સાથે જોડો: <br> (1) જડત્વનો નિયમ <br> (2) પદાર્થ પર બળ ન લાગે ત્યાં સુધી અચળ વેગી ગતિ ચાલુ રાખે <br> --- <br> (A) ગેલેલિયો <br> (B) એરિસ્ટોટલની ભૂલભરેલી માન્યતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેલેલિયો 'જડ' (જડત્વ) માણસ હતો, તેણે ન્યુટન પહેલા જ કહી દીધું હતું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A (સ્થિતિ) ને વિભાગ B (સંપર્ક બળ) સાથે જોડો: <br> (1) સપાટીને લંબ બળ <br> (2) સપાટીને સમાંતર બળ <br> --- <br> (A) લંબ પ્રતિક્રિયા બળ (N) <br> (B) ઘર્ષણ બળ (f)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ એટલે 90 ડિગ્રી પર Normal (N), સમાંતર એટલે રસ્તામાં નડતર (ઘર્ષણ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) કેન્દ્રગામી બળ <br> (2) ઢોળાવવાળા રસ્તા પર મહત્તમ સલામત ઝડપ <br> --- <br> (A) mv²/r <br> (B) √[rg (μₛ + tanθ) / (1 - μₛ tanθ)]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળાકાર ગતિ માટે 'mv²/r' વરદાન છે! ઢોળાવ માટે 'ટેન' (tan) સાથે ઘર્ષણનો મસાલો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A (જડત્વના પ્રકાર) ને વિભાગ B (ઉદાહરણ) સાથે જોડો: <br> (1) સ્થિરતાનું જડત્વ <br> (2) ગતિનું જડત્વ <br> --- <br> (A) બસ અચાનક ઉપડતા મુસાફર પાછળ નમે <br> (B) ચાલુ બસે બ્રેક લાગતા મુસાફર આગળ નમે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સ્થિતિ હોય તેને જાળવી રાખવી એટલે જડત્વ. સ્થિર હોય તો પાછળ ધક્કો, ગતિમાં હોય તો આગળ ધક્કો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A (સાધન/પદ્ધતિ) ને વિભાગ B (ઉપયોગ) સાથે જોડો: <br> (1) ફ્રી બોડી ડાયાગ્રામ (FBD) <br> (2) વેગમાનના સંરક્ષણનો નિયમ <br> --- <br> (A) પદાર્થ પરના તમામ બળો દર્શાવવા <br> (B) આઘાત અને પ્રત્યાઘાતની ગણતરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FBD એટલે 'બળનું ચિત્ર'. સંરક્ષણ એટલે 'પહેલા અને પછીનું સરખું'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A (ઘર્ષણ ગુણાંક) ને વિભાગ B (મૂલ્ય) સાથે જોડો: <br> (1) μₛ (સ્થિત ઘર્ષણાંક) <br> (2) μₖ (ગતિક ઘર્ષણાંક) <br> --- <br> (A) મોટું મૂલ્ય <br> (B) નાનું મૂલ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભેલી ગાડીને ધક્કો મારવો અઘરો (μₛ મોટો), ચાલતી ગાડીને ધકેલવી સહેલી (μₖ નાનો). NJ Classes Logic!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ન્યુટનનો ત્રીજો નિયમ <br> (2) વેગમાન સંરક્ષણનો નિયમ <br> --- <br> (A) આઘાત = - પ્રત્યાઘાત <br> (B) બાહ્ય બળ શૂન્ય હોય તો ΔP = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીજો એટલે 'જેવું કરો તેવું પામો'. સંરક્ષણ એટલે 'નો ચેન્જ' જો બળ ન લાગે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (બળ) ને વિભાગ B (સમીકરણ) સાથે જોડો: <br> (1) વજન બળ <br> (2) કેન્દ્રત્યાગી બળ <br> --- <br> (A) mg <br> (B) mv²/r (આભાસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન હંમેશા નીચે (mg). કેન્દ્રત્યાગી હંમેશા બહાર (mv²/r). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) રોલિંગ ઘર્ષણ <br> (2) સ્લાઈડિંગ ઘર્ષણ <br> --- <br> (A) સૌથી ઓછું ઘર્ષણ <br> (B) રોલિંગ કરતા વધુ ઘર્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગબડાવવું' (Rolling) હંમેશા 'ખેંચવા' (Sliding) કરતા સહેલું પડે! એટલે જ પૈડાંની શોધ થઈ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A (ઘટના) ને વિભાગ B (મુખ્ય કારણ) સાથે જોડો: <br> (1) બંદૂક પાછળ ધકેલાવી (Recoil) <br> (2) રેતી પર ચાલવું અઘરું છે <br> --- <br> (A) વેગમાન સંરક્ષણ <br> (B) પ્રતિક્રિયા બળ ઓછું મળવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંદૂક પાછળ ગઈ કારણ કે ગોળી આગળ ગઈ (Action-Reaction/Conservation). રેતી ખૂંપી જાય એટલે પૂરતું Normal બળ ન મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) લિફ્ટ નીચે તરફ પ્રવેગિત ગતિ કરે <br> (2) લિફ્ટ ઉપર તરફ પ્રવેગિત ગતિ કરે <br> --- <br> (A) આભાસી વજન = m(g - a) <br> (B) આભાસી વજન = m(g + a)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જાવ તો વજન વધે (+), નીચે જાવ તો વજન ઘટે (-). NJ Classes Lift Formula!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) શૂન્ય બાહ્ય બળ <br> (2) અચળ બાહ્ય બળ <br> --- <br> (A) પ્રવેગ શૂન્ય <br> (B) પ્રવેગ અચળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = ma. જો F=0 તો a=0. જો F=Constant તો a=Constant. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (કોણ) ને વિભાગ B (સ્થિતિ) સાથે જોડો: <br> (1) ઘર્ષણ કોણ (θ) <br> (2) ઢોળાવ કોણ (α) <br> --- <br> (A) tanθ = μₛ <br> (B) પદાર્થ સરકવાની અણી પર હોય ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ અને ટેન્જેન્ટ (tan) નો જૂનો સંબંધ છે! tan(angle) = Friction coefficient. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A (પરિમાણ) ને વિભાગ B (ભૌતિક રાશિ) સાથે જોડો: <br> (1) M¹L¹T⁻² <br> (2) M¹L⁰T⁻² <br> --- <br> (A) બળ <br> (B) સ્પ્રિંગનો બળ અચળાંક (k)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k = F/x, એટલે બળમાંથી લંબાઈ (L) કાઢી નાખો! 11-2 માંથી L ગયો એટલે 10-2. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A (ક્ષેત્ર) ને વિભાગ B (બળનો પ્રકાર) સાથે જોડો: <br> (1) દોરીમાં ઉદભવતું બળ <br> (2) સંપર્ક સપાટીને લંબ <br> --- <br> (A) તણાવ બળ (T) <br> (B) લંબ પ્રતિક્રિયા બળ (N)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોરી એટલે ટેન્શન (Tension). સપાટી એટલે નોર્મલ (Normal). NJ Classes simple logic.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) આઘાતી બળ <br> (2) પ્રવેગ <br> --- <br> (A) ટૂંકા સમય માટે લાગતું મોટું બળ <br> (B) એકમ સમયમાં વેગમાં થતો ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઘાત એટલે 'ઝટકો' (Short time, Big Force). પ્રવેગ એટલે 'ઝડપનો ફેરફાર'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઘર્ષણ રહિત સમક્ષિતિજ રસ્તા પર વળાંક <br> (2) ઢોળાવવાળા ઘર્ષણ રહિત રસ્તા પર વળાંક <br> --- <br> (A) શક્ય નથી <br> (B) v = √(rg tanθ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘર્ષણ ના હોય અને રસ્તો સપાટ હોય તો ગાડી સીધી જ જાય, વળે નહીં! ઢોળાવ હોય તો જ વળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A (બળ) ને વિભાગ B (નિશાની) સાથે જોડો: <br> (1) ક્રિયાબળ <br> (2) પ્રતિક્રિયાબળ <br> --- <br> (A) F₁₂ <br> (B) -F₂₁",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટનનો ત્રીજો નિયમ: જેટલું આપો એટલું જ પાછું મળે પણ વિરુદ્ધ દિશામાં (-). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઘર્ષણ <br> (2) ઊંજણ (Lubricant) <br> --- <br> (A) ગતિનો વિરોધ કરે <br> (B) ઘર્ષણ ઘટાડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ એ 'દુશ્મન' છે જે ગતિ રોકે, ઊંજણ એ 'મિત્ર' છે જે રસ્તો સાફ કરે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) મુક્ત પતન કરતો પદાર્થ <br> (2) ટેબલ પર સ્થિર પડેલો પદાર્થ <br> --- <br> (A) પ્રવેગ a = g <br> (B) પ્રવેગ a = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતન એટલે 'છૂટ્ટો મૂક્યો' (ગુરુત્વ પ્રવેગ). સ્થિર એટલે 'જ્યાં છે ત્યાં જ' (ઝીરો પ્રવેગ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A (એકમ) ને વિભાગ B (ભૌતિક રાશિ) સાથે જોડો: <br> (1) ડાઈન (dyne) <br> (2) ગ્રામ·સેમી/સેકન્ડ <br> --- <br> (A) બળ (CGS) <br> (B) વેગમાન (CGS)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટનનો નાનો ભાઈ એટલે ડાઈન (CGS). વેગમાન એટલે દળ × વેગ ના નાના એકમો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) કેન્દ્રગામી પ્રવેગ <br> (2) બળ <br> --- <br> (A) v²/r <br> (B) m × (v²/r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ = દળ × પ્રવેગ. પ્રવેગ v²/r હોય તો બળ mv²/r થાય. Simple Multiplication! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A (ઢોળાવ) ને વિભાગ B (સમીકરણ) સાથે જોડો: <br> (1) ઓપ્ટિમમ ઝડપ (μₛ=0) <br> (2) મહત્તમ સલામત ઝડપ (μₛ≠0) <br> --- <br> (A) √(rg tanθ) <br> (B) √[rg(μₛ+tanθ)/(1-μₛtanθ)]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપ્ટિમમ એટલે 'શ્રેષ્ઠ' જ્યાં ઘર્ષણની જરૂર નથી, એટલે સૂત્ર ટૂંકું! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) પદાર્થનું જડત્વ <br> (2) પદાર્થનું વજન <br> --- <br> (A) દળ પર આધારિત <br> (B) સ્થાન (g) પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ એ પદાર્થનો 'અસલી ગુણ' (જડત્વ) છે, જ્યારે વજન એ પૃથ્વીનો 'ખેંચાણ' (Force) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સંતુલન (Equilibrium) <br> (2) અસંતુલિત બળ <br> --- <br> (A) ΣF = 0 <br> (B) ΣF ≠ 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે 'બધું સરખું-સરખું' (ટોટલ 0). અસંતુલિત એટલે પ્રવેગ આવશે જ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A (ઘાત) ને વિભાગ B (એકમ) સાથે જોડો: <br> (1) 1 ન્યુટન <br> (2) 1 kg·m/s² <br> --- <br> (A) 10⁵ ડાઈન <br> (B) 1 ન્યુટન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટન મોટો છે, ડાઈન નાની. 1 લાખ (10⁵) ડાઈન ભેગી થાય ત્યારે 1 ન્યુટન બને! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સંપર્ક બળ <br> (2) ક્ષેત્ર બળ <br> --- <br> (A) ઘર્ષણ બળ <br> (B) ગુરુત્વાકર્ષણ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંપર્ક એટલે 'અડવું પડે' (Touch), ક્ષેત્ર એટલે 'દૂરથી જાદુ' (Non-contact). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સ્થિત ઘર્ષણાંક (μₛ) નો એકમ <br> (2) બળનો એકમ <br> --- <br> (A) એકમ રહિત <br> (B) ન્યુટન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: μ = f/N (બળ/બળ). ઉપર-નીચે એકમ કેન્સલ, એટલે μ બિચારો 'એકમ વગરનો'! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) રૉકેટનું કાર્ય <br> (2) બંદૂકની ગોળી છોડવી <br> --- <br> (A) ન્યુટનનો ત્રીજો નિયમ <br> (B) વેગમાનનું સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેમાં પાછળ ધક્કો લાગે છે. 'ધુમાડો પાછળ - રોકેટ આગળ' અને 'ગોળી આગળ - ગન પાછળ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) પદાર્થ પર બળ F = 0 <br> (2) પદાર્થ પર બળ F = constant <br> --- <br> (A) વેગમાન અચળ <br> (B) વેગમાનનો ફેરફારનો દર અચળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = dp/dt. જો F=0, તો p અચળ. જો F અચળ, તો dp/dt અચળ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A (ઢોળાવ વગરનો રસ્તો) ને વિભાગ B (સમીકરણ) સાથે જોડો: <br> (1) મહત્તમ સલામત ઝડપ vₘₐₓ <br> (2) લંબબળ N <br> --- <br> (A) √(μₛrg) <br> (B) mg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદો રસ્તો એટલે 'μrg' નું રૂટ. અહીં ટેન (tan) ના આવે કારણ કે ઢોળાવ નથી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) હવામાં ફેંકેલો દડો <br> (2) જમીન પર ગબડતો દડો <br> --- <br> (A) હવાના અવરોધનું બળ <br> (B) રોલિંગ ઘર્ષણ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે માધ્યમમાં ગતિ હોય તેનું અવરોધક બળ લાગે. હવામાં 'હવા' અને જમીન પર 'ઘર્ષણ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A (પ્રવેગ) ને વિભાગ B (કિંમત) સાથે જોડો: <br> (1) લિફ્ટની દોરી તૂટી જાય <br> (2) લિફ્ટ અચળ વેગથી જાય <br> --- <br> (A) a = g (ભારહીનતા) <br> (B) a = 0 (સાચું વજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોરી તૂટે એટલે 'રામ બોલો ભાઈ રામ' - મુક્ત પતન! અચળ વેગ એટલે કોઈ વધારાનું બળ નહીં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A (સૂત્ર) ને વિભાગ B (રાશિ) સાથે જોડો: <br> (1) Δp / Δt <br> (2) F · Δt <br> --- <br> (A) બળ (Force) <br> (B) બળનો આઘાત (Impulse)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઈમ નીચે હોય તો 'રેટ' (Rate) એટલે બળ, ટાઈમ ગુણાકારમાં હોય તો 'ઝટકો' એટલે આઘાત. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) જડત્વની માપણી <br> (2) બળની માપણી <br> --- <br> (A) દળ દ્વારા <br> (B) ન્યુટનના બીજા નિયમ દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું દળ વધારે તેનું જડત્વ વધારે. બળ માપવું હોય તો 'ma' (બીજો નિયમ) વાપરો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) વેગમાન (p) <br> (2) ગતિજ ઉર્જા (K) <br> --- <br> (A) mv <br> (B) p²/2m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપ્પા એટલે 'mv' અને ઉર્જા એટલે 'p વર્ગ બાય 2m'. (NJ Classes Connection)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ઘર્ષણ બળની દિશા <br> (2) લંબબળની દિશા <br> --- <br> (A) ગતિની વિરુદ્ધ દિશામાં <br> (B) સપાટીને લંબ રૂપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ 'દુશ્મન' છે એટલે વિરુદ્ધ ચાલે. લંબબળ 'નોર્મલ' છે એટલે 90 ડિગ્રી પર રહે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) પદાર્થ સ્થિર હોય <br> (2) પદાર્થ અચળ વેગથી ગતિ કરે <br> --- <br> (A) પરિણામી બળ શૂન્ય <br> (B) પરિણામી બળ શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને કેસમાં પ્રવેગ શૂન્ય છે, એટલે F = ma મુજબ બળ પણ શૂન્ય જ થાય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) μₛ <br> (2) μₖ <br> --- <br> (A) સીમાંત સ્થિત ઘર્ષણ અને લંબબળનો ગુણોત્તર <br> (B) ગતિક ઘર્ષણ અને લંબબળનો ગુણોત્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s એટલે Static (સ્થિત), k એટલે Kinetic (ગતિક). વ્યાખ્યા તો સરખી જ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A (દોરીમાં તણાવ) ને વિભાગ B (સ્થિતિ) સાથે જોડો: <br> (1) પદાર્થ લટકાવેલો હોય <br> (2) પદાર્થ સમક્ષિતિજ ખેંચાતો હોય (લીસી સપાટી) <br> --- <br> (A) T = mg <br> (B) T = ma",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લટકતો પદાર્થ એટલે ગુરુત્વાકર્ષણ (g) સામે લડત, દોડતો પદાર્થ એટલે પ્રવેગ (a). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) કેન્દ્રગામી બળ <br> (2) કેન્દ્રત્યાગી બળ <br> --- <br> (A) વાસ્તવિક બળ <br> (B) આભાસી બળ (Pseudo force)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રગામી બળ કોઈ આપી શકે (તણાવ, ઘર્ષણ). કેન્દ્રત્યાગી તો ભ્રમ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 1 Newton <br> (2) 1 Dyne <br> --- <br> (A) 10⁵ g·cm/s² <br> (B) 1 g·cm/s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ન્યુટન એટલે 10ની 5 ઘાત ડાઈન. આ સંબંધ મોઢે કરી લેજો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A (વળાંક) ને વિભાગ B (જરૂરી બળ) સાથે જોડો: <br> (1) સાયકલ સવારનો વળાંક <br> (2) ગ્રહોની સૂર્ય આસપાસ ગતિ <br> --- <br> (A) ઘર્ષણ બળ <br> (B) ગુરુત્વાકર્ષણ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વળવા માટે 'કેન્દ્રગામી' જોઈએ, સાયકલ માટે ટાયર-રોડ ઘર્ષણ અને ગ્રહો માટે ગુરુત્વાકર્ષણ તે પૂરું પાડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) દળ <br> (2) બળ <br> --- <br> (A) અદિશ રાશિ <br> (B) સદિશ રાશિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળને દિશા ના હોય (માત્ર જથ્થો), બળને ધક્કો મારવા દિશા જોઈએ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A (ભૌતિક વિજ્ઞાનનો પાયો) ને વિભાગ B (વૈજ્ઞાનિક) સાથે જોડો: <br> (1) ગતિના ત્રણ નિયમો <br> (2) પદાર્થની કુદરતી અવસ્થા સ્થિરતા જ નથી <br> --- <br> (A) આઈઝેક ન્યુટન <br> (B) ગેલેલિયો ગેલિલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેલેલિયોએ રસ્તો બતાવ્યો અને ન્યુટને તેના પર હાઈવે (નિયમો) બનાવ્યા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A (મૂલ્ય) ને વિભાગ B (ઘર્ષણ) સાથે જોડો: <br> (1) મહત્તમ સ્થિત ઘર્ષણ <br> (2) ગતિક ઘર્ષણ <br> --- <br> (A) fₛ,ₘₐₓ <br> (B) fₖ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-max એટલે લિમિટ (સીમાંત), k એટલે ચાલુ ગતિ (Kinetic). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A (સંપર્ક સપાટી) ને વિભાગ B (ઘર્ષણ) સાથે જોડો: <br> (1) લીસી સપાટી <br> (2) ખરબચડી સપાટી <br> --- <br> (A) μ ઓછો <br> (B) μ વધારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લપસી જવાય (લીસી) એટલે ઘર્ષણ ઓછું, અટકી જવાય (ખરબચડી) એટલે ઘર્ષણ વધુ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) વેગમાનનો ફેરફાર (Δp) <br> (2) વેગમાનનો ફેરફારનો દર (Δp/Δt) <br> --- <br> (A) બળનો આઘાત <br> (B) બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર ફેરફાર એટલે આઘાત, સમય સાથે ફેરફાર એટલે પાવરફુલ બળ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બાહ્ય બળોનું પરિણામી બળ <br> (2) આંતરિક બળોનું પરિણામી બળ <br> --- <br> (A) અશૂન્ય હોઈ શકે <br> (B) હંમેશા શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરિક બળો અંદર અંદર લડીને મરી જાય (જોડકામાં હોય), એટલે કુલ બળ 0! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A (નિયમ) ને વિભાગ B (ઉપયોગ) સાથે જોડો: <br> (1) ન્યુટનનો ત્રીજો નિયમ <br> (2) લામીનો પ્રમેય <br> --- <br> (A) આઘાત-પ્રત્યાઘાત સમજવા <br> (B) ત્રણ સંગામી બળોનું સંતુલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લામી (Lami) એટલે ત્રણ બળોનો ત્રિકોણ અને સાઈન (Sine) નો નિયમ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A (સંજોગ) ને વિભાગ B (પ્રતિક્રિયા બળ N) સાથે જોડો: <br> (1) સમક્ષિતિજ સપાટી પર <br> (2) θ કોણવાળા ઢાળ પર <br> --- <br> (A) N = mg <br> (B) N = mg cosθ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટ સપાટી પર સીધું mg, ઢાળ આવે એટલે ખૂણો (cosθ) ગુણવો પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A (ઘાત) ને વિભાગ B (મૂલ્ય) સાથે જોડો: <br> (1) ન્યુટન (N) <br> (2) કિગ્રા·મીટર/સેકન્ડ² <br> --- <br> (A) SI એકમ <br> (B) બળનો મૂળભૂત એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટન એ જ kg·m/s². ન્યુટન નામ છે, એકમ તેની ગણતરી છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બળનો આઘાત = <br> (2) બળ (F) = <br> --- <br> (A) p₂ - p₁ <br> (B) (p₂ - p₁) / Δt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઘાત એટલે માત્ર તફાવત, બળ એટલે તફાવત ભાગ્યા સમય. NJ Classes Calculus!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A (યંત્ર) ને વિભાગ B (સિદ્ધાંત) સાથે જોડો: <br> (1) ગરગડી (Pulley) <br> (2) બ્રેકિંગ સિસ્ટમ <br> --- <br> (A) તણાવ બળ <br> (B) ઘર્ષણ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરગડીમાં દોરી હોય એટલે ટેન્શન, ગાડી ઉભી રાખવા ઘર્ષણ (બ્રેક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) સ્થિર લિફ્ટમાં વજન <br> (2) મુક્ત પતન કરતી લિફ્ટમાં વજન <br> --- <br> (A) mg <br> (B) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતન એટલે 'Weightless' (ભારહીનતા), સ્થિર હોય ત્યારે તો જેટલા છો એટલા જ દેખાશો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) જડત્વ <br> (2) પ્રવેગ <br> --- <br> (A) ગતિમાં ફેરફારનો વિરોધ <br> (B) ગતિમાં થતો ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વ એટલે 'આળસ' (ફેરફાર ન ગમવો), પ્રવેગ એટલે 'એક્શન' (ફેરફાર થવો). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A (કેસ) ને વિભાગ B (બળ) સાથે જોડો: <br> (1) મોતી પરોવતી વખતે દોરીમાં <br> (2) બે પદાર્થો અથડાય ત્યારે <br> --- <br> (A) તણાવ બળ <br> (B) આઘાતી બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોરી ખેંચાય એટલે ટેન્શન, ભટકાય એટલે ઝટકો (આઘાત). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) μₛ > μₖ <br> (2) μₖ > μᵣ <br> --- <br> (A) હંમેશા સાચું <br> (B) હંમેશા સાચું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: સ્થિત > ગતિક > રોલિંગ. (s > k > r). NJ Classes Friction Order!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ટેબલ પર પડેલ પુસ્તક પર લંબબળ <br> (2) પુસ્તક પર લાગતું વજનબળ <br> --- <br> (A) ટેબલ દ્વારા ઉપર તરફ <br> (B) પૃથ્વી દ્વારા નીચે તરફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી 'ખેંચે' (વજન), ટેબલ 'ટેકો આપે' (Normal). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ગોળાકાર ગતિમાં ઝડપ બમણી કરતા <br> (2) ગોળાકાર ગતિમાં ત્રિજ્યા અડધી કરતા <br> --- <br> (A) કેન્દ્રગામી બળ 4 ગણું થાય <br> (B) કેન્દ્રગામી બળ 2 ગણું થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = mv²/r. ઝડપનો 'વર્ગ' છે એટલે 2²=4. ત્રિજ્યા છેદમાં છે એટલે અડધું કરો તો બળ ડબલ થાય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) ક્રિયાબળ અને પ્રતિક્રિયાબળ <br> (2) સંતુલિત બળો <br> --- <br> (A) જુદા જુદા પદાર્થ પર લાગે <br> (B) એક જ પદાર્થ પર લાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીજો નિયમ (Action-Reaction) હંમેશા 'જોડી' (2 પદાર્થો) વચ્ચે હોય. સંતુલન એક જ પદાર્થ પર બળોની ખેંચતાણ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બળનો આઘાત (દિશા) <br> (2) વેગમાન (દિશા) <br> --- <br> (A) બળની દિશામાં <br> (B) વેગની દિશામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવો વેગ એવી દિશા (p=mv). જેવું બળ એવી દિશા (J=Ft). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A (જડત્વનું માપ) ને વિભાગ B (રાશિ) સાથે જોડો: <br> (1) રેખીય ગતિ <br> (2) ચાકગતિ (માત્ર જાણકારી માટે) <br> --- <br> (A) દળ (m) <br> (B) જડત્વની ચાકમાત્રા (I)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી લીટીમાં 'દળ' નડે, ગોળ ફરવામાં 'ચાકમાત્રા' નડે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A (ઘર્ષણ ઘટાડવાની રીત) ને વિભાગ B (સાધન) સાથે જોડો: <br> (1) સંપર્ક સપાટી ઘટાડવી <br> (2) ઘર્ષણને રોલિંગમાં ફેરવવું <br> --- <br> (A) એર કુશન (Air cushion) <br> (B) બોલ બેરિંગ (Ball bearings)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં તરતું રાખવું એટલે એર કુશન. ગબડાવવું હોય તો બેરિંગ નાખવી પડે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બાહ્ય બળ Fₑₓₜ = 0 <br> (2) વેગમાન p = અચળ <br> --- <br> (A) ન્યુટનનો પ્રથમ નિયમ <br> (B) વેગમાન સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ ન લાગે તો જેવું છે તેવું જ રહે (સ્થિર કે ગતિમાન). આ જ સંરક્ષણ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A (સૂક્ષ્મ ફેરફાર) ને વિભાગ B (વ્યાખ્યા) સાથે જોડો: <br> (1) dp/dt <br> (2) dv/dt <br> --- <br> (A) તાત્ક્ષણિક બળ <br> (B) તાત્ક્ષણિક પ્રવેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p નું વિકલન એટલે બળ, v નું વિકલન એટલે પ્રવેગ. NJ Classes Calculus Tricks!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) પદાર્થનું જડત્વ <br> (2) બળનો આઘાત <br> --- <br> (A) અંતર્ગત ગુણધર્મ <br> (B) બાહ્ય અસર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વ પદાર્થની અંદર હોય છે, આઘાત બહારથી કોઈ આપે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A (ન્યુટનનો બીજો નિયમ) ને વિભાગ B (ખાસ કિસ્સા) સાથે જોડો: <br> (1) F = ma <br> (2) F = v(dm/dt) <br> --- <br> (A) દળ અચળ હોય ત્યારે <br> (B) વેગ અચળ અને દળ બદલાતું હોય (દા.ત. રોકેટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદી ગતિમાં દળ (m) અચળ હોય, પણ રોકેટમાં બળતણ બળે એટલે દળ બદલાય! (NJ Classes)</p></div>"
+    }
+  ]
+}

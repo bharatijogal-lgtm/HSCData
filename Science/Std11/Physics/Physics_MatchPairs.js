@@ -1813,3 +1813,361 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "કણોનાં તંત્રો અને ચાકગતિ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (ભૌતિક રાશિ) | વિભાગ B: (S.I. એકમ) \n(A) ટોર્ક | (1) kg m²/s \n(B) કોણીય વેગમાન | (2) N m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોર્ક એટલે બળ × અંતર (N.m), કોણીય વેગમાન એટલે 'મોમેન્ટ ઓફ મોમેન્ટમ' (kg m/s × m = kg m²/s). NJ ટ્રીક: ટોર્ક ન્યુટન-મીટર છે, વેગમાન જુલ-સેકન્ડ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (ભૌતિક રાશિ) | વિભાગ B: (પારિમાણિક સૂત્ર) \n(A) જડત્વની ચાકમાત્રા | (1) [M¹ L² T⁻¹] \n(B) કોણીય વેગમાન | (2) [M¹ L² T⁰]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વની ચાકમાત્રા (I = mr²) માં સમય (T) ન હોય. કોણીય વેગમાન (L = mvr) માં T⁻¹ હોય. NJ ટ્રીક: I = 120, L = 121!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (જડત્વની ચાકમાત્રા - કેન્દ્રમાંથી પસાર થતી અક્ષ) \n(A) પાતળી રિંગ | (1) MR² \n(B) પાતળી તકતી | (2) 1/2 MR²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિંગ ખાલી હોય એટલે બધું દળ છેડે (વધારે I), તકતી ભરેલી હોય એટલે અડધું દળ અંદર (ઓછું I). રિંગ = Full, તકતી = Half!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (રેખીય ગતિ) | વિભાગ B: (ચાકગતિમાં સમતુલ્ય) \n(A) દળ (m) | (1) ટોર્ક (τ) \n(B) બળ (F) | (2) જડત્વની ચાકમાત્રા (I)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ ગતિનો વિરોધ કરે (જડત્વ), ચાકગતિમાં તે જ કામ I કરે. રેખીય ગતિમાં ધક્કો એટલે બળ, ગોળ ફેરવવા માટે ટોર્ક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (સૂત્ર) | વિભાગ B: (વ્યાખ્યા) \n(A) τ = r × F | (1) કોણીય વેગમાન \n(B) L = r × p | (2) ટોર્ક (બળની પરિભ્રમણીય અસર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F હોય તો ટોર્ક (τ), p હોય તો કોણીય વેગમાન (L). 'બળની મોમેન્ટ' એટલે ટોર્ક, 'વેગમાનની મોમેન્ટ' એટલે કોણીય વેગમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (એકમ સદિશ ગુણાકાર) | વિભાગ B: (પરિણામ) \n(A) î × ĵ | (1) -k̂ \n(B) ĵ × î | (2) k̂",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘડિયાળની વિરુદ્ધ દિશા (i → j → k) તો ધન (+), ઊંધા જાઓ તો ઋણ (-). NJ ટ્રીક: સવળા તો પ્લસ, અવળા તો માઈનસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (જડત્વની ચાકમાત્રા) \n(A) ઘન નળાકાર (અક્ષ પર) | (1) 1/2 MR² \n(B) પોલો નળાકાર (અક્ષ પર) | (2) MR²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન નળાકાર તકતી જેવો વર્તે (1/2), પોલો નળાકાર રિંગ જેવો વર્તે (1). NJ ટ્રીક: પોલો એટલે પૂરેપૂરું MR²!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (રાશિ) | વિભાગ B: (સંબંધ) \n(A) રેખીય વેગ (v) | (1) r α \n(B) સ્પર્શીય પ્રવેગ (a_t) | (2) r ω",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = rω (વેગ-ઓમેગા), a = rα (પ્રવેગ-આલ્ફા). NJ ટ્રીક: વેગ સાથે ઓમેગા, પ્રવેગ સાથે આલ્ફા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (ગતિ) | વિભાગ B: (ગતિ ઊર્જા) \n(A) શુદ્ધ ચાકગતિ | (1) 1/2 mv² + 1/2 Iω² \n(B) ગબડતી ગતિ (Rolling) | (2) 1/2 Iω²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાકગતિ એટલે ફક્ત ફરવું, ગબડવું એટલે ફરવું + આગળ વધવું. ગબડવામાં બેઉ ઊર્જાનો સરવાળો થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (ભૌતિક રાશિ) | વિભાગ B: (સૂત્ર) \n(A) કોણીય વેગમાન (L) | (1) I α \n(B) ટોર્ક (τ) | (2) I ω",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p=mv ની જેમ L=Iω, F=ma ની જેમ τ=Iα. NJ ટ્રીક: L માટે વેગ (ω), ટોર્ક માટે પ્રવેગ (α)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (દ્રવ્યમાન કેન્દ્રનું સ્થાન) \n(A) સમાન સળિયો | (1) ભૌમિતિક કેન્દ્ર (મધ્યબિંદુ) \n(B) સમાન રિંગ | (2) કેન્દ્ર (ભૌમિતિક કેન્દ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પદાર્થ સંમિત હોય (Symmetric), તો તેનું દ્રવ્યમાન કેન્દ્ર હંમેશા તેના ભૌમિતિક મધ્યમાં જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (રાશિ) | વિભાગ B: (સદિશ/અદિશ) \n(A) કોણીય સ્થાનાંતર (ખૂબ નાનું) | (1) અદિશ \n(B) જડત્વની ચાકમાત્રા | (2) સદિશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂક્ષ્મ કોણીય સ્થાનાંતર સદિશ છે (દિશા હોય), પણ જડત્વની ચાકમાત્રા અદિશ (ટેન્સર) જેવી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (સદિશ ગુણાકાર) | વિભાગ B: (લાક્ષણિકતા) \n(A) A × B = - (B × A) | (1) વિભાજનનો નિયમ \n(B) A × (B + C) = A × B + A × C | (2) ક્રમનો નિયમ પળાતો નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોસ પ્રોડક્ટમાં ક્રમ બદલો તો દિશા ઉલટાય એટલે (-) આવે. કૌંસ ખોલવો એટલે વિભાજન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (નિયમ) | વિભાગ B: (શરત) \n(A) રેખીય વેગમાન સંરક્ષણ | (1) બાહ્ય ટોર્ક શૂન્ય (τ = 0) \n(B) કોણીય વેગમાન સંરક્ષણ | (2) બાહ્ય બળ શૂન્ય (F = 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ વગર રેખીય વેગમાન ન બદલાય, ટોર્ક વગર કોણીય વેગમાન ન બદલાય. ટોર્ક 0 તો L અચળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (ચક્રાવર્તન ત્રિજ્યા k²) | વિભાગ B: (પદાર્થ - કેન્દ્રગામી અક્ષ) \n(A) રિંગ | (1) R²/2 \n(B) તકતી | (2) R²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I = Mk² સૂત્રમાં I ના સૂત્રમાંથી M કાઢી નાખો એટલે k² મળી જાય. રિંગ માટે MR² માંથી M જાય તો R² વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (કાર્ય) | વિભાગ B: (સૂત્ર) \n(A) રેખીય કાર્ય | (1) τ θ \n(B) ચાકગતિમાં કાર્ય | (2) F d",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ય = બળ × સ્થાનાંતર. ચાકગતિમાં બળ એટલે ટોર્ક અને સ્થાનાંતર એટલે ખૂણો (θ). NJ ટ્રીક: W = ટાઢ (τ.θ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (પાવર) | વિભાગ B: (સૂત્ર) \n(A) P (રેખીય) | (1) τ ω \n(B) P (ચાકગતિ) | (2) F v",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાવર = બળ × વેગ. ચાકગતિમાં બળ (τ) અને વેગ (ω). NJ ટ્રીક: પાવર એટલે 'ટો-ઓ' (τ.ω)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (જડત્વની ચાકમાત્રા - ગોળાકાર પદાર્થ) \n(A) ઘન ગોળો (Center) | (1) 2/3 MR² \n(B) પોલો ગોળો (Center) | (2) 2/5 MR²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન ગોળો ભારે (અંદર માલ છે), પોલો ગોળો હલકો (અંદર હવા છે). 2/5 = 0.4 (ઓછું), 2/3 = 0.66 (વધારે). NJ ટ્રીક: અંદર માલ તો ઓછો વિરોધ (0.4)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (સ્થિતિ) | વિભાગ B: (સંતુલનની શરત) \n(A) સ્થાનાંતરિત સંતુલન | (1) Στ = 0 \n(B) ચાકગતિ સંતુલન | (2) ΣF = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખસવું ન હોય તો બળ 0 જોઈએ, ફરવું ન હોય તો ટોર્ક 0 જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (ભૌતિક રાશિ) | વિભાગ B: (પ્રકાર) \n(A) ત્રિજ્યાવર્તી સદિશ (r) | (1) ધ્રુવીય સદિશ \n(B) કોણીય વેગ (ω) | (2) અક્ષીય સદિશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ભ્રમણ અક્ષ પર હોય તે 'અક્ષીય' (ω, α, τ, L). જે સીધો હોય તે 'ધ્રુવીય' (r, v, F, p)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (ગતિ સમીકરણ) | વિભાગ B: (રેખીય સમીકરણ) \n(A) ω = ω₀ + αt | (1) s = ut + 1/2 at² \n(B) θ = ω₀t + 1/2 αt² | (2) v = u + at",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફક્ત અક્ષરો બદલાય છે. v→ω, u→ω₀, a→α, s→θ. NJ ટ્રીક: રેખીય આવડે તો ચાકગતિ ફ્રી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (જડત્વની ચાકમાત્રાનો પ્રમેય) | વિભાગ B: (સૂત્ર) \n(A) સમાંતર અક્ષ પ્રમેય | (1) Iz = Ix + Iy \n(B) લંબ અક્ષ પ્રમેય | (2) I = Icm + Md²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર એટલે બાજુમાં (Distance 'd' ઉમેરાય), લંબ એટલે સરવાળો (x+y=z)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (બળયુગ્મ - Couple) | વિભાગ B: (પરિણામ) \n(A) કુલ બળ | (1) અશૂન્ય (ટોર્ક ઉત્પન્ન કરે) \n(B) કુલ ટોર્ક | (2) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળયુગ્મ એટલે બે સમાન અને વિરુદ્ધ બળ. બળ કેન્સલ થાય (0), પણ ટોર્ક ડબલ થાય! NJ ટ્રીક: 'બળયુગ્મ' ફક્ત ફેરવે, ખસેડે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (સદિશ ગુણાકાર) | વિભાગ B: (પરિણામ) \n(A) A × A | (1) AB sinθ \n(B) |A × B| | (2) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન સદિશો વચ્ચે ખૂણો 0 હોય, sin 0 = 0. ક્રોસ પ્રોડક્ટ એટલે સાઈન (sin)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (કોણીય વેગમાન) | વિભાગ B: (ન્યુટનનો નિયમ) \n(A) F = dp/dt | (1) રેખીય ગતિ માટે \n(B) τ = dL/dt | (2) ચાકગતિ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગમાનમાં ફેરફારનો દર એટલે બળ. રેખીય વેગમાન (p) તો બળ (F), કોણીય વેગમાન (L) તો ટોર્ક (τ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (દ્રવ્યમાન કેન્દ્ર - સમાંતર અક્ષો પર) \n(A) અડધી રિંગ (Center થી) | (1) 4R/3π \n(B) અડધી તકતી (Center થી) | (2) 2R/π",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિંગ (2R/π) અને તકતી (4R/3π). NJ ટ્રીક: 'ત'ક્તી માં 'ત્રણ' (3) નીચે આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (ભૌતિક રાશિ) | વિભાગ B: (એકમ) \n(A) કોણીય પ્રવેગ (α) | (1) rad/s \n(B) કોણીય વેગ (ω) | (2) rad/s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગમાં સમયનો વર્ગ (s²) છેદમાં હોય, વેગમાં ફક્ત સમય (s) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (ઢાળ પર ગબડતો પદાર્થ) | વિભાગ B: (પ્રવેગનું સૂત્ર) \n(A) ઘર્ષણરહિત સરકતો પદાર્થ | (1) g sinθ / (1 + k²/R²) \n(B) ગબડતો પદાર્થ | (2) g sinθ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગબડવામાં વિરોધ (k²/R²) નડે એટલે પ્રવેગ ઘટે. સરકવામાં બધું જ g sinθ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (ગતિ ઊર્જાનું વિભાજન) | વિભાગ B: (પદાર્થ - રિંગ) \n(A) સ્થાનાંતરિત ગતિ ઊર્જા | (1) 50% \n(B) ચાકગતિ ઊર્જા | (2) 50%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિંગ માટે I = MR², તેથી 1/2 mv² અને 1/2 Iω² સરખા થાય. NJ ટ્રીક: રિંગમાં અડધું-અડધું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (એકમ સદિશ ડોટ ગુણાકાર) | વિભાગ B: (પરિણામ) \n(A) î · î | (1) 1 \n(B) î · ĵ | (2) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડોટ' (Dot) એટલે સરખા હોય તો 1, જુદા હોય તો 0. 'ક્રોસ' માં ઊંધું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (દ્રવ્યમાન કેન્દ્ર - CM) | વિભાગ B: (નિયમ) \n(A) પદાર્થનું કુલ વેગમાન | (1) M × A_cm \n(B) પદાર્થ પરનું કુલ બળ | (2) M × V_cm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = MV અને F = MA. બસ, કેન્દ્રનું વેગ (V_cm) અને પ્રવેગ (A_cm) વાપરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (તંત્ર) | વિભાગ B: (દ્રવ્યમાન કેન્દ્રની ગતિ) \n(A) વિસ્ફોટ થતો ફટાકડો | (1) મૂળ પરવલય ગતિ ચાલુ રાખે \n(B) પૃથ્વી-ચંદ્ર તંત્ર | (2) સૂર્યની આસપાસ લંબવૃત્તીય ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરિક બળોથી CM ની ગતિ બદલાય નહીં. ફટાકડો ફૂટે તો પણ તેનું કેન્દ્ર તો જૂના રસ્તે જ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (જડત્વની ચાકમાત્રા - I) | વિભાગ B: (પરિબળ) \n(A) પદાર્થનું દળ | (1) I તેના પર આધાર રાખે છે \n(B) ભ્રમણ અક્ષની સ્થિતિ | (2) I તેના પર પણ આધાર રાખે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I = Σmr². એટલે કે દળ (m) અને અંતર (r) બંને મહત્વના છે. અક્ષ બદલાય તો 'r' બદલાય, એટલે I બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (સૂત્ર) | વિભાગ B: (રાશિ) \n(A) ω = dθ/dt | (1) કોણીય પ્રવેગ \n(B) α = dω/dt | (2) કોણીય વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતરનું વિકલન વેગ, વેગનું વિકલન પ્રવેગ. ખૂણો (θ) → વેગ (ω) → પ્રવેગ (α)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (જડત્વની ચાકમાત્રા - લંબ અક્ષ પર) \n(A) સળિયો (કેન્દ્રમાંથી) | (1) ML²/3 \n(B) સળિયો (છેડામાંથી) | (2) ML²/12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેડેથી પકડીને ફેરવવું અઘરું હોય એટલે I વધારે (1/3), વચ્ચેથી સહેલું એટલે I ઓછું (1/12). NJ ટ્રીક: છેડો = 3, કેન્દ્ર = 12!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (જડત્વ) | વિભાગ B: (માપ) \n(A) રેખીય જડત્વ | (1) જડત્વની ચાકમાત્રા (I) \n(B) ભ્રમણીય જડત્વ | (2) દળ (m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વ એટલે ફેરફારનો વિરોધ. સીધી ગતિમાં દળ નડે, ગોળ ગતિમાં ચાકમાત્રા (I) નડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (રાશિ) | વિભાગ B: (સંબંધ) \n(A) ટોર્ક અને કોણીય પ્રવેગ | (1) τ = I α \n(B) બળ અને રેખીય પ્રવેગ | (2) F = m a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F=ma માં m ની જગ્યાએ I અને a ની જગ્યાએ α મૂકો એટલે ચાકગતિનું સૂત્ર રેડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (ગતિ ઊર્જા K) | વિભાગ B: (સૂત્ર) \n(A) K = p²/2m | (1) ચાકગતિ માટે \n(B) K = L²/2I | (2) રેખીય ગતિ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગમાનનો વર્ગ / 2 × જડત્વ. p→L અને m→I. NJ ટ્રીક: બેઉ સૂત્રો જોડિયા ભાઈઓ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (સદિશ ગુણાકાર દિશા) | વિભાગ B: (નિયમ) \n(A) જમણા હાથનો સ્ક્રૂ | (1) ટોર્કની દિશા માટે \n(B) જમણા હાથનો અંગૂઠો | (2) કોણીય વેગની દિશા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાકગતિમાં બધી જ અક્ષીય રાશિઓની દિશા 'જમણા હાથના નિયમ' થી જ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (k²/R² ગુણોત્તર) \n(A) ગોળાકાર કવચ (પોલો ગોળો) | (1) 2/5 \n(B) ઘન ગોળો | (2) 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I = βMR² માં β એટલે જ k²/R². પોલા ગોળા માટે 2/3 અને ઘન માટે 2/5!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (સમીકરણ) | વિભાગ B: (ગતિનો પ્રકાર) \n(A) v = ω r | (1) શુદ્ધ સ્થાનાંતરિત ગતિ \n(B) v = 0 (સંપર્ક બિંદુએ) | (2) શુદ્ધ ગબડતી ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગબડતી ગતિમાં જમીન સાથેના સંપર્ક બિંદુનો વેગ હંમેશા શૂન્ય હોય છે (સરક્યા વગર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (ટૂંકી સમજ) | વિભાગ B: (રાશિ) \n(A) અંતર × બળ | (1) કોણીય વેગમાન \n(B) અંતર × વેગમાન | (2) ટોર્ક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r × F = ટોર્ક, r × P = કોણીય વેગમાન. અંતર ગુણ્યા બળ એટલે ટાઢ (τ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (પરિભ્રમણ અક્ષ) | વિભાગ B: (ઉદાહરણ) \n(A) સ્થિર અક્ષ | (1) ભમરડાની ગતિ \n(B) ગતિમાન અક્ષ | (2) છતનો પંખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખો એક જ જગ્યાએ ફરે (સ્થિર અક્ષ), ભમરડો ફરતા-ફરતા નમે એટલે અક્ષ ગતિમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (સદિશ ગુણાકાર) | વિભાગ B: (જવાબ) \n(A) ĵ × k̂ | (1) -î \n(B) k̂ × ĵ | (2) î",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: XYZ ચક્ર યાદ રાખો. Y(j) પછી Z(k) આવે તો X(i) પ્લસ. ઊંધું જાવ તો માઈનસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (ભૌતિક રાશિ) | વિભાગ B: (એકમ) \n(A) જડત્વની ત્રિજ્યા (k) | (1) rad \n(B) કોણીય સ્થાનાંતર (θ) | (2) m (મીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રિજ્યા' ગમે તે હોય, એકમ મીટર જ આવે. ખૂણાનો એકમ રેડિયન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (કોણીય વેગમાન L) | વિભાગ B: (ઘટક સૂત્ર) \n(A) L_z | (1) x p_y - y p_x \n(B) ટોર્ક τ_z | (2) x F_y - y F_x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z ઘટક શોધવો હોય તો X અને Y નો ઉપયોગ થાય (xy - yx). L માટે p વપરાય, τ માટે F!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (ગબડતી ગતિ - Rolling) | વિભાગ B: (વેગ v) \n(A) ટોચનું બિંદુ | (1) 0 \n(B) સંપર્ક બિંદુ (તળિયું) | (2) 2v_cm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગબડતા ટાયરમાં ઉપરનું બિંદુ સૌથી ફાસ્ટ (Double velocity) અને નીચેનું બિંદુ ક્ષણિક સ્થિર (Zero)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (કોણીય વેગમાન સંરક્ષણ) | વિભાગ B: (ઉદાહરણ) \n(A) આઈસ સ્કેટર હાથ ખેંચે | (1) કોણીય વેગ (ω) ઘટે \n(B) આઈસ સ્કેટર હાથ ફેલાવે | (2) કોણીય વેગ (ω) વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Iω = અચળ. હાથ ખેંચો તો I ઘટે એટલે સ્પીડ (ω) વધે. NJ ટ્રીક: નાનું થાય તો ફાસ્ટ ફરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (કણોનું તંત્ર) | વિભાગ B: (CM નું સ્થાન) \n(A) બે સમાન દળના કણો | (1) ભારે દળ તરફ \n(B) બે અસમાન દળના કણો | (2) મધ્યમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રવ્યમાન કેન્દ્ર હંમેશા 'ભારે' માણસ બાજુ નમેલું હોય. સમાન હોય તો વચ્ચે ન્યાય કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (લંબ અક્ષ પ્રમેય) | વિભાગ B: (લાગુ પાડી શકાય) \n(A) રિંગ, તકતી | (1) માત્ર સમતલીય પદાર્થો \n(B) ગોળો, ઘન | (2) ત્રિ-પરિમાણીય પદાર્થો (લાગુ ન પડે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ અક્ષ પ્રમેય ફક્ત 'ચપટા' (2D) પદાર્થો માટે જ છે. દડા માટે ન ચાલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (જડત્વની ચાકમાત્રા - વ્યાસ પર) \n(A) રિંગ (વ્યાસ પર) | (1) 1/2 MR² \n(B) તકતી (વ્યાસ પર) | (2) 1/4 MR²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ અક્ષ પ્રમેય મુજબ Iz = Ix + Iy. અક્ષીય કરતા વ્યાસ પર અડધું થઈ જાય. રિંગ: 1 → 1/2, તકતી: 1/2 → 1/4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (રેખીય ગતિ ઊર્જા / કુલ ગતિ ઊર્જા) | વિભાગ B: (પદાર્થ) \n(A) રિંગ | (1) 1/2 \n(B) ઘન ગોળો | (2) 5/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર = 1 / (1 + k²/R²). રિંગ માટે 1/(1+1) = 1/2. ગોળા માટે 1/(1+0.4) = 5/7!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (ટોર્ક τ) | વિભાગ B: (મૂલ્ય) \n(A) બળ અક્ષમાંથી પસાર થાય | (1) મહત્તમ \n(B) બળ લંબરૂપે લાગે | (2) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિજાગરા (Hinge) પર ધક્કો મારો તો દરવાજો ન ખુલે (τ=0). લંબ ધક્કો મારો તો જલ્દી ખુલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (ચાકગતિ કાર્ય) | વિભાગ B: (નિયમ) \n(A) W = ΔK | (1) કાર્ય-ઊર્જા પ્રમેય \n(B) τ = I α | (2) ગતિનો બીજો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તે ગતિ હોય, કાર્ય હંમેશા ગતિ ઊર્જાના ફેરફાર જેટલું જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (પદાર્થ) | વિભાગ B: (દ્રવ્યમાન કેન્દ્ર CM) \n(A) ત્રિકોણાકાર લેમિના | (1) મધ્યગાઓનું છેદબિંદુ \n(B) નળાકાર | (2) અક્ષનું મધ્યબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌમિતિક આકારો માટે ભૌમિતિક કેન્દ્ર જ CM હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (ગબડતા પદાર્થનો વેગ) | વિભાગ B: (સૂત્ર) \n(A) ઘર્ષણરહિત ઢાળ પર (સરકતા) | (1) √(2gh / (1+k²/R²)) \n(B) ગબડતા (Rolling) | (2) √(2gh)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગબડવામાં ઉર્જા વહેંચાઈ જાય એટલે વેગ ઓછો મળે. છેદમાં 1+k²/R² આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (રાશિ) | વિભાગ B: (સૂર્ય-પૃથ્વી તંત્રમાં અચળ) \n(A) રેખીય વેગમાન | (1) ના \n(B) કોણીય વેગમાન | (2) હા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રીય બળ (ગુરુત્વાકર્ષણ) હેઠળ કોણીય વેગમાન હંમેશા સંરક્ષિત રહે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (દ્રવ્યમાન કેન્દ્ર CM) | વિભાગ B: (વિશેષતા) \n(A) પદાર્થની અંદર | (1) રિંગ, પોલો નળાકાર \n(B) પદાર્થની બહાર | (2) ઘન ગોળો, સળિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CM એવી જગ્યાએ પણ હોઈ શકે જ્યાં કોઈ દ્રવ્ય ન હોય (જેમ કે રિંગનું કેન્દ્ર)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (સદિશ ગુણાકાર) | વિભાગ B: (શૂન્ય ક્યારે થાય?) \n(A) સમાંતર સદિશો (θ=0°) | (1) હા \n(B) પ્રતિ-સમાંતર સદિશો (θ=180°) | (2) હા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર કે વિરુદ્ધ, જો લાઈન એક જ હોય તો ક્રોસ પ્રોડક્ટ 0 થાય. sin 0 = sin 180 = 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (જડત્વની ચાકમાત્રા I) | વિભાગ B: (પરિમાણ) \n(A) I = ∑mr² | (1) અદિશ જેવું (ટેન્સર) \n(B) પારિમાણિક સૂત્ર | (2) M¹ L² T⁰",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ (M) અને અંતરનો વર્ગ (L²). સમય (T) ની જરૂર નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (ભૌતિક વિજ્ઞાની) | વિભાગ B: (યોગદાન) \n(A) ન્યુટન | (1) ગતિના નિયમો (રેખીય) \n(B) લીઓનાર્ડ ઓઇલર | (2) ચાકગતિના સમીકરણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટન બાપા રેખીય ગતિમાં, ઓઇલર ચાકગતિમાં એક્સપર્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (પદાર્થ - સમાન દળ) | વિભાગ B: (કયો ઢાળ પર વહેલો પહોંચશે?) \n(A) ઘન ગોળો | (1) મોડો પહોંચશે \n(B) રિંગ | (2) વહેલો પહોંચશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો I ઓછો તે ફાસ્ટ. ઘન ગોળો (0.4) સૌથી ફાસ્ટ, રિંગ (1.0) સૌથી ધીમી. NJ ટ્રીક: 'ગોળો' વહેલો પહોંચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (લંબાઈ 'L' નો સળિયો) | વિભાગ B: (I નું મૂલ્ય) \n(A) લંબ દ્વિભાજક પર | (1) ML²/12 \n(B) એક છેડામાંથી પસાર થતી લંબ અક્ષ | (2) ML²/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટર થી છેડો 4 ગણો અઘરો (12/3 = 4)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (ગબડતો પદાર્થ) | વિભાગ B: (કુલ ગતિ ઉર્જા K) \n(A) K | (1) 1/2 mv² (1 + k²/R²) \n(B) k²/R² રિંગ માટે | (2) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ ગબડતી ગતિનું આ બ્રહ્માસ્ત્ર સૂત્ર છે. NJ ટ્રીક: (1 + બીટા) યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (કોણીય વેગમાન) | વિભાગ B: (સૂત્ર) \n(A) બિંદુવત કણ માટે | (1) I ω \n(B) દ્રઢ પદાર્થ માટે | (2) mvr sinθ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ કણ હોય તો mvr, આખો પદાર્થ હોય તો Iω!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (એકમ સદિશ) | વિભાગ B: (ક્રોસ પ્રોડક્ટ) \n(A) k̂ × î | (1) ĵ \n(B) î × k̂ | (2) -ĵ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: i-j-k-i-j-k... ચક્રમાં જે ક્રમમાં આવે તે પ્લસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (પૃથ્વીની ચાકગતિ) | વિભાગ B: (અસરો) \n(A) પૃથ્વી સંકોચાય (ત્રિજ્યા ઘટે) | (1) દિવસ લાંબો થાય (ω ઘટે) \n(B) બરફ પીગળે (ત્રિજ્યા વધે) | (2) દિવસ ટૂંકો થાય (ω વધે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિજ્યા ઘટે તો જડત્વ ઘટે અને સ્પીડ (ω) વધે. સ્પીડ વધે તો દિવસ ટૂંકો થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (દ્રઢ પદાર્થ) | વિભાગ B: (લાક્ષણિકતા) \n(A) આદર્શ દ્રઢ પદાર્થ | (1) આંતર-કણીય અંતર અચળ રહે \n(B) વ્યવહારિક પદાર્થ | (2) થોડું વિરૂપણ પામે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રઢ એટલે પથ્થર જેવું, ગમે તેટલું દબાવો અંતર ન બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (ત્રિજ્યાવર્તી પ્રવેગ a_r) | વિભાગ B: (સૂત્ર) \n(A) a_r | (1) v² / r \n(B) v (રેખીય વેગ) | (2) ω r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (1), (B) - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રગામી પ્રવેગ એટલે v²/r અથવા ω²r!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (પદાર્થ - ચાકમાત્રા) | વિભાગ B: (સાચું વિધાન) \n(A) વધુ જડત્વની ચાકમાત્રા | (1) ફેરવવા માટે ઓછું ટોર્ક જોઈએ \n(B) ઓછી જડત્વની ચાકમાત્રા | (2) ફેરવવા માટે વધુ ટોર્ક જોઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) - (2), (B) - (1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વ એટલે જ 'આળસ'. જેટલી આળસ (I) વધારે એટલું જોર (Torque) વધુ કરવું પડે!</p></div>"
+    }
+  ]
+}

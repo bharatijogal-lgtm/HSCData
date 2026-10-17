@@ -4334,3 +4334,366 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "દોલનો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) આવર્તગતિ, (2) દોલિતગતિ <br> વિભાગ B: (i) ઘડિયાળના લોલકની ગતિ, (ii) સૂર્યની આસપાસ પૃથ્વીની ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ દોલિતગતિ આવર્તગતિ હોય, પણ બધી આવર્તગતિ દોલિત ન હોય (ગોળ ફરે તે આવર્ત, આગળ-પાછળ થાય તે દોલિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) આવર્તકાળ (T) નો એકમ, (2) આવૃત્તિ (f) નો એકમ <br> વિભાગ B: (i) Hertz (Hz), (ii) Second (s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T એટલે ટાઈમ (s), f એટલે ફ્રીક્વન્સી (Hz). T અને f એકબીજાના દુશ્મન (વ્યસ્ત) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) કોણીય આવૃત્તિ (ω), (2) કળા (Phase) <br> વિભાગ B: (i) rad/s, (ii) rad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો હોય તો 'rad', અને ખૂણો બદલાવાનો દર હોય તો 'rad/s'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) સ્થાનાંતર સમીકરણ, (2) વેગ સમીકરણ <br> વિભાગ B: (i) $A\\cos(\\omega t + \\phi)$, (ii) $-\\omega A\\sin(\\omega t + \\phi)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Displacement (x) નું વિકલન એટલે વેગ (v). Cos નું વિકલન -Sin થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) પ્રવેગ (a) સમીકરણ, (2) પુનઃસ્થાપક બળ (F) <br> વિભાગ B: (i) $-\\omega^2 x$, (ii) $-kx$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SHM માં પ્રવેગ હંમેશા સ્થાનાંતરના સમપ્રમાણમાં અને વિરુદ્ધ દિશામાં હોય (a ∝ -x).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) મધ્યમાન સ્થાન પાસે વેગ, (2) અંત્યબિંદુ પાસે વેગ <br> વિભાગ B: (i) શૂન્ય, (ii) મહત્તમ ($v_{max} = A\\omega$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમાં સ્પીડ ફૂલ (Top speed), અને છેડે જઈને વળવું પડે એટલે ત્યાં સ્પીડ ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) મધ્યમાન સ્થાન પાસે પ્રવેગ, (2) અંત્યબિંદુ પાસે પ્રવેગ <br> વિભાગ B: (i) મહત્તમ ($a_{max} = \\omega^2 A$), (ii) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ અને સ્થાનાંતર પાકા મિત્રો છે. જ્યાં x = 0 ત્યાં a = 0, જ્યાં x = A ત્યાં a = max.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) ગતિઊર્જા (K) નું સૂત્ર, (2) સ્થિતિઊર્જા (U) નું સૂત્ર <br> વિભાગ B: (i) $\\frac{1}{2} k x^2$, (ii) $\\frac{1}{2} m v^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ કે સ્થાનાંતર હોય તો સ્થિતિ (U), અને વેગ હોય તો ગતિ (K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) કુલ ઊર્જા (E), (2) બળ અચળાંક (k) <br> વિભાગ B: (i) $m \\omega^2$, (ii) $\\frac{1}{2} k A^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ ઊર્જા હંમેશા અચળ રહે અને તે કંપવિસ્તારના વર્ગ (A²) પર આધાર રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) સરળ લોલકનો આવર્તકાળ, (2) સ્પ્રિંગ-બ્લોકનો આવર્તકાળ <br> વિભાગ B: (i) $2\\pi \\sqrt{\\frac{m}{k}}$, (ii) $2\\pi \\sqrt{\\frac{l}{g}}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલક માટે 'લલ્લુ/ગલ્લુ' (l/g) અને સ્પ્રિંગ માટે 'મકાન' (m/k).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) સ્પ્રિંગનું શ્રેણી જોડાણ ($k_s$), (2) સ્પ્રિંગનું સમાંતર જોડાણ ($k_p$) <br> વિભાગ B: (i) $k_1 + k_2$, (ii) $\\frac{k_1 k_2}{k_1 + k_2}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગનું જોડાણ અવરોધ કરતાં ઊલટું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) સ્થાનાંતર અને વેગ વચ્ચે કળા તફાવત, (2) વેગ અને પ્રવેગ વચ્ચે કળા તફાવત <br> વિભાગ B: (i) $\\pi/2$ rad, (ii) $\\pi/2$ rad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x → v → a માં દરેક સ્ટેપ પર 90 ડિગ્રી (π/2) નો કુદકો મારવાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) સ્થાનાંતર અને પ્રવેગ વચ્ચે કળા તફાવત, (2) એક પૂર્ણ ચક્રમાં સરેરાશ વેગ <br> વિભાગ B: (i) શૂન્ય, (ii) $\\pi$ rad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x અને a વચ્ચે 180 (π) નો ડખો છે (સામસામે હોય), અને આખા ચક્રમાં જ્યાં હતા ત્યાં પાછા એટલે સરેરાશ વેગ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) બળ અચળાંક k નું પારિમાણિક સૂત્ર, (2) કોણીય આવૃત્તિ ω નું પારિમાણિક સૂત્ર <br> વિભાગ B: (i) $[M^0 L^0 T^{-1}]$, (ii) $[M^1 L^0 T^{-2}]$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k = Force/Length (MT⁻²), ω = 1/Time (T⁻¹).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) કંપવિસ્તાર (Amplitude), (2) પ્રારંભિક કળા (Initial Phase) <br> વિભાગ B: (i) t = 0 સમયે કણની સ્થિતિ દર્શાવે છે, (ii) મધ્યમાન સ્થાનથી મહત્તમ સ્થાનાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમ્પ્લિટ્યુડ એટલે બાઉન્ડ્રી લાઈન, અને પ્રારંભિક કળા એટલે શરૂઆત ક્યાંથી કરી તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) સેકન્ડ લોલકનો આવર્તકાળ, (2) સેકન્ડ લોલકની આવૃત્તિ <br> વિભાગ B: (i) 0.5 Hz, (ii) 2 s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ 'સેકન્ડ' લોલક પણ ટાઈમ '2' સેકન્ડ (એક બાજુ જવા 1 સેકન્ડ, આવવા 1 સેકન્ડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) અવરોધક બળ (Damping Force), (2) અવમંદિત દોલનોમાં કંપવિસ્તાર <br> વિભાગ B: (i) સમય સાથે ઘટે છે, (ii) વેગના સમપ્રમાણમાં ($F_d = -bv$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવમંદન (Damping) એટલે હવા કે પાણીનો અવરોધ જે વેગને રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) અનુનાદ (Resonance), (2) બાહ્ય આવર્તક બળ <br> વિભાગ B: (i) પ્રાકૃતિક આવૃત્તિ = બાહ્ય આવૃત્તિ, (ii) પ્રણોદિત દોલનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે બહારનો ધક્કો અને અંદરની ધૂન મેચ થાય ત્યારે અનુનાદ (મોટા દોલનો) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) ગતિઊર્જા મહત્તમ ક્યારે?, (2) સ્થિતિઊર્જા મહત્તમ ક્યારે? <br> વિભાગ B: (i) x = ±A પાસે, (ii) x = 0 પાસે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટરમાં ગાડી સ્પીડમાં હોય (K max), અને છેડે સ્પ્રિંગ ખેંચાયેલી હોય (U max).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) લોલકની લંબાઈ 4 ગણી કરતાં આવર્તકાળ, (2) લોલકની લંબાઈ 1/4 ગણી કરતાં આવર્તકાળ <br> વિભાગ B: (i) અડધો થાય, (ii) બમણો થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $T \\propto \\sqrt{L}$ , વર્ગમૂળ કાઢવાનું ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) sin વિધેયનો આવર્તકાળ, (2) sin² વિધેયનો આવર્તકાળ <br> વિભાગ B: (i) $\\pi/\\omega$, (ii) $2\\pi/\\omega$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગ કરવાથી માઈનસ વાળું પ્લસ થઈ જાય, એટલે ચક્ર અડધું થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) $\\omega = 2\\pi f$ માં $2\\pi$ નો એકમ, (2) દોલનનો કંપવિસ્તાર A નો એકમ <br> વિભાગ B: (i) મીટર (m), (ii) રેડિયન (rad)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2\\pi$ એટલે આખું ગોળ ચક્ર (rad), A એટલે અંતર (m).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) $x = A/2$ પાસે સ્થિતિઊર્જા, (2) $x = A/2$ પાસે ગતિઊર્જા <br> વિભાગ B: (i) $3/4 E$, (ii) $1/4 E$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર અડધું તો સ્થિતિઊર્જા ચોથા ભાગની ($1/2^2$), બાકીની 3/4 ગતિઊર્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) સ્પ્રિંગને કાપતા તેનો બળ અચળાંક, (2) બે સ્પ્રિંગને શ્રેણીમાં જોડતા <br> વિભાગ B: (i) ઘટે છે, (ii) વધે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની સ્પ્રિંગ કડક હોય (k વધારે), લાંબી સ્પ્રિંગ પોચી હોય (k ઓછો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) $T = 2\\pi \\sqrt{l/g}$ માં g વધારતા, (2) m વધારતા લોલકનો આવર્તકાળ <br> વિભાગ B: (i) અચળ રહે છે, (ii) ઘટે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલકને દળ (m) સાથે કંઈ લેવા-દેવા નથી, પણ ગુરુત્વાકર્ષણ (g) વધે તો લોલક ફટાફટ પાછું આવે (T ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) મુક્ત દોલનો, (2) પ્રણોદિત દોલનો <br> વિભાગ B: (i) બાહ્ય બળની હાજરીમાં, (ii) આંતરિક પુનઃસ્થાપક બળ વડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત એટલે પોતાની મરજીથી, પ્રણોદિત એટલે કોઈના ધક્કાથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) શૂન્યાવકાશમાં લોલક, (2) હવાના માધ્યમમાં લોલક <br> વિભાગ B: (i) અવમંદિત દોલનો, (ii) આદર્શ SHM",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા છે એટલે રોકશે (અવમંદન), વેક્યૂમમાં કોઈ રોકનાર નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) $v = \\omega \\sqrt{A^2 - x^2}$ માં x = A મુકતા, (2) x = 0 મુકતા <br> વિભાગ B: (i) $v = A\\omega$, (ii) v = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેડે વેગ ઝીરો, વચ્ચે વેગ હીરો ($A\\omega$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) $a = -\\omega^2 x$ માં x = A મુકતા, (2) x = 0 મુકતા <br> વિભાગ B: (i) a = 0, (ii) $a = -\\omega^2 A$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ અને સ્થાનાંતર 'જેવા તેવા' મિત્રો છે, x વધે તો a પણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) શિરોલંબ સ્પ્રિંગમાં લટકાવેલ દળનો આવર્તકાળ, (2) સમક્ષિતિજ સ્પ્રિંગનો આવર્તકાળ <br> વિભાગ B: (i) $2\\pi \\sqrt{m/k}$, (ii) $2\\pi \\sqrt{m/k}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ આડી હોય કે ઉભી, આવર્તકાળમાં ફેર ના પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (1) સેકન્ડ લોલકની લંબાઈ (પૃથ્વી પર), (2) પૃથ્વીના કેન્દ્ર પર g <br> વિભાગ B: (i) શૂન્ય, (ii) આશરે 1 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી પર સેકન્ડ લોલક 1 મીટરનું હોય (ગણતરી મુજબ 0.99 m).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (1) કળા અચળાંક (Phase Constant) $\\phi = \\pi/2$ હોય તો x =, (2) $\\phi = 0$ હોય તો x = <br> વિભાગ B: (i) $A\\cos(\\omega t)$, (ii) $-A\\sin(\\omega t)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\cos(\\theta + 90) = -\\sin\\theta$. ત્રિકોણમિતિ યાદ કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (1) સ્પ્રિંગના અડધા ટુકડાનો k, (2) બે સમાન સ્પ્રિંગ સમાંતરમાં <br> વિભાગ B: (i) 2k, (ii) 2k",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાપો તો k વધે, સમાંતર જોડો તોય k વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (1) લિફ્ટ મુક્તપતન કરે ત્યારે લોલકનો આવર્તકાળ, (2) લિફ્ટ સ્થિર હોય ત્યારે <br> વિભાગ B: (i) અનંત ($\infty$), (ii) $2\\pi \\sqrt{l/g}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્તપતન એટલે g_eff = 0. છેદમાં 0 એટલે જવાબ અનંત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (1) ગતિઊર્જા વિરુદ્ધ સમયનો ગ્રાફ, (2) કુલ ઊર્જા વિરુદ્ધ સમયનો ગ્રાફ <br> વિભાગ B: (i) સીધી રેખા (ક્ષિતિજ સમાંતર), (ii) પરવલયાકાર (ધન મૂલ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊર્જા ક્યારેય નેગેટિવ ના હોય અને કુલ ઊર્જા ક્યારેય બદલાય નહીં (Ideal SHM માં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (1) એક આવર્તકાળમાં કાપેલું અંતર, (2) એક આવર્તકાળમાં સ્થાનાંતર <br> વિભાગ B: (i) શૂન્ય, (ii) 4A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર = 4 ખિસ્સા (A+A+A+A), સ્થાનાંતર = પાછા ઘરે એટલે 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (1) લોલકને ચંદ્ર પર લઈ જતાં, (2) પૃથ્વી પર g વધારતા <br> વિભાગ B: (i) આવર્તકાળ ઘટે, (ii) આવર્તકાળ વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદ્ર પર g ઓછું એટલે લોલક આળસું (ધીમું) બને, T વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (1) આવર્તકાળ T અને આવૃત્તિ f નો ગુણાકાર, (2) ω અને T નો ગુણાકાર <br> વિભાગ B: (i) $2\\pi$, (ii) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T × f = 1 (વ્યસ્તનો ગુણાકાર), ω = 2π/T એટલે ωT = 2π.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (1) શૂન્ય સ્થાનાંતર, (2) મહત્તમ સ્થાનાંતર <br> વિભાગ B: (i) સ્થિતિઊર્જા મહત્તમ, (ii) ગતિઊર્જા મહત્તમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x = 0 (મધ્ય) એટલે ગતિ, x = A (છેડે) એટલે સ્થિતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (1) લોલકના ગોળાને પોલો કરી તેમાં પાણી ભરતા અને પાણી લીક થાય ત્યારે, (2) આખું પાણી નીકળી જાય ત્યારે <br> વિભાગ B: (i) આવર્તકાળ મૂળ જેટલો જ થાય, (ii) આવર્તકાળ પહેલા વધે પછી ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી લીક થાય તો સેન્ટર ઓફ માસ નીચે જાય (L વધે), બધું નીકળી જાય તો પાછું વચ્ચે આવી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (1) આવૃત્તિનો એકમ $s^{-1}$, (2) આવર્તકાળનો એકમ $Hz^{-1}$ <br> વિભાગ B: (i) સાચું, (ii) સાચું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f = 1/T અને T = 1/f. બંને સાચા જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (1) $k_1$ અને $k_2$ શ્રેણીમાં, (2) $k_1$ અને $k_2$ સમાંતરમાં <br> વિભાગ B: (i) સમાન બળ લાગે, (ii) સમાન સ્થાનાંતર થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રેણીમાં 'Force' સેમ, સમાંતરમાં 'Stretch' (x) સેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (1) SHM નું વિકલ સમીકરણ, (2) બળનો નિયમ <br> વિભાગ B: (i) $F = -kx$, (ii) $\\frac{d^2x}{dt^2} + \\omega^2 x = 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકલ સમીકરણ એટલે જેમાં 'd' (વિકલન) આવતું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (1) કંપવિસ્તાર અડધો કરતાં કુલ ઊર્જા, (2) કંપવિસ્તાર બમણો કરતાં કુલ ઊર્જા <br> વિભાગ B: (i) 4 ગણી થાય, (ii) ચોથા ભાગની થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊર્જા ∝ $A^2$. વર્ગનો સંબંધ છે ભાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (1) 0.1 સેકન્ડ આવર્તકાળ એટલે, (2) 10 Hz આવૃત્તિ એટલે <br> વિભાગ B: (i) 0.1 સેકન્ડ આવર્તકાળ, (ii) 10 Hz આવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/0.1 = 10. બંને એક જ વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (1) અવમંદિત દોલનોમાં યાંત્રિક ઊર્જા, (2) આદર્શ દોલનોમાં યાંત્રિક ઊર્જા <br> વિભાગ B: (i) સમય સાથે ઘટે છે, (ii) અચળ રહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ હોય તો ઊર્જા ખાઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (1) લોલકની લંબાઈ 'L', (2) ગુરુત્વપ્રવેગ 'g' <br> વિભાગ B: (i) $T \\propto \\sqrt{L}$, (ii) $T \\propto 1/\\sqrt{g}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ વધે તો લોલક લટકે (મોડું થાય), g વધે તો ખેંચાઈને જલ્દી આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (1) $t=0$ સમયે કણ મધ્યસ્થાને હોય તો $\\phi$, (2) $t=0$ સમયે કણ અંત્યબિંદુ (+A) પર હોય તો $\\phi$ <br> વિભાગ B: (i) 0, (ii) $\\pi/2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો Cos વિધેય વાપરો તો x = A એટલે $\\phi = 0$. (કારણ કે $\\cos 0 = 1$)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (1) $y = a \\sin(\\omega t) + b \\cos(\\omega t)$ નો કંપવિસ્તાર, (2) પરિણામી આવૃત્તિ <br> વિભાગ B: (i) $\\omega$, (ii) $\\sqrt{a^2+b^2}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે લંબ દોલનો ભેગા થાય તો પાયથાગોરસ દાદા આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (1) આવર્તકાળનું સૂત્ર (દોલનો), (2) આવર્તકાળનું સૂત્ર (વર્તુળમય ગતિ) <br> વિભાગ B: (i) $2\\pi/\\omega$, (ii) $2\\pi/\\omega$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોલન એ વર્તુળમય ગતિનો પડછાયો છે, સૂત્ર સેમ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (1) વસંત (Spring) અચળાંકનો એકમ, (2) પૃષ્ઠતાણનો એકમ <br> વિભાગ B: (i) N/m, (ii) N/m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ અચળાંક અને પૃષ્ઠતાણ બંને 'Force/Length' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (1) લોલકની લંબાઈ અનંત હોય તો આવર્તકાળ, (2) પૃથ્વીની ત્રિજ્યા R જેટલી લંબાઈ હોય તો <br> વિભાગ B: (i) 84.6 min, (ii) 84.6 min",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ ખાસ કિસ્સો છે, મેક્સિમમ ટાઈમ 84.6 મિનિટ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (1) $x = A\\sin(\\omega t)$, (2) $v = v_{max} \\cos(\\omega t)$ <br> વિભાગ B: (i) વેગનું સમીકરણ, (ii) સ્થાનાંતરનું સમીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sine નું વિકલન Cos થાય, એટલે સ્થાનાંતર Sine હોય તો વેગ Cos હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (1) નાના કોણ માટે $\\sin\\theta \\approx$, (2) નાના કોણ માટે $\\tan\\theta \\approx$ <br> વિભાગ B: (i) $\\theta$, (ii) $\\theta$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે લોલક થોડુંક જ હલે ત્યારે ગણિત સહેલું થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (1) સ્થિતિઊર્જા $U = \\frac{1}{2} k x^2$, (2) ગતિઊર્જા $K = \\frac{1}{2} k (A^2 - x^2)$ <br> વિભાગ B: (i) પરવલય (નીચેથી ખુલ્લો), (ii) પરવલય (ઉપરથી ખુલ્લો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U નો ગ્રાફ 'U' જેવો જ (સીધો કપ), K નો ગ્રાફ ઊંધો કપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (1) SHM માં અચળ રહેતી રાશિ, (2) SHM માં બદલાતી રાશિ <br> વિભાગ B: (i) વેગ, (ii) કુલ ઊર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોટલ એનર્જી હંમેશા ફિક્સ, બાકી બધું મિક્સ (બદલાયા કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (1) લોલકનો આવર્તકાળ પૃથ્વી પર 2s, (2) પૃથ્વી પર g = $10 m/s^2$ લેતા લંબાઈ L <br> વિભાગ B: (i) આશરે 1 m, (ii) સેકન્ડ લોલક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $L = g/\\pi^2$ , અને $\\pi^2$ આશરે 10 થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (1) સ્પ્રિંગ અચળાંક k નો એકમ, (2) કોણીય વેગનો એકમ <br> વિભાગ B: (i) rad/s, (ii) $kg/s^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $N/m = (kg \u00b7 m/s^2) / m = kg/s^2$. એકમની માયાજાળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (1) સરળ આવર્ત ગતિ, (2) નિયમિત વર્તુળમય ગતિ <br> વિભાગ B: (i) એકપરિમાણીય આવર્તગતિ, (ii) દ્વિપરિમાણીય આવર્તગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SHM માં કણ એક જ લાઈનમાં જાય, વર્તુળમાં આખું પ્લેન વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (1) લોલક ઘડિયાળ શિયાળામાં, (2) લોલક ઘડિયાળ ઉનાળામાં <br> વિભાગ B: (i) ધીમી પડે (ટાઈમ ગુમાવે), (ii) ઝડપી બને (ટાઈમ મેળવે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉનાળામાં ગરમીથી લંબાઈ વધે (L↑), એટલે આવર્તકાળ વધે (ધીમી પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (1) સ્થાનાંતર જ્યારે ઊર્જા અડધી-અડધી હોય, (2) ગતિઊર્જા 0 હોય ત્યારે સ્થાનાંતર <br> વિભાગ B: (i) x = ±A, (ii) $x = A/\\sqrt{2}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/√2 એટલે 0.707A પાસે K = U = E/2 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (1) સાઈનસોર્ડલ ગતિ, (2) બિન-સાઈનસોર્ડલ ગતિ <br> વિભાગ B: (i) દોલિત પણ SHM નહીં, (ii) SHM",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SHM થવા માટે 'Sin' કે 'Cos' ના ખોળામાં બેસવું જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (1) દોલનનો કંપવિસ્તાર 0.1m, (2) દોલનનો આવર્તકાળ 2s <br> વિભાગ B: (i) f = 0.5 Hz, (ii) $x_{max} = 0.1m$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f = 1/2 = 0.5. ડેટા મેચિંગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (1) લોલકના દોલનોનો કંપવિસ્તાર વધારતા આવર્તકાળ, (2) ગુરુત્વાકર્ષણ મુક્ત અવકાશમાં <br> વિભાગ B: (i) અપરિવર્તિત (નાના દોલનો માટે), (ii) દોલન શક્ય નથી (T = અનંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલક માટે g બહુ જરૂરી છે, g વગર લોલક પાછું જ ના આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (1) બળ અચળાંક k વધારતા આવર્તકાળ, (2) દળ m વધારતા આવર્તકાળ <br> વિભાગ B: (i) વધે છે, (ii) ઘટે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $T = 2\\pi \\sqrt{m/k}$. m સાથે સીધો અને k સાથે ઉંધો સંબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (1) $F = -kx$ માં '-' નિશાની, (2) $a = -\\omega^2 x$ માં '-' નિશાની <br> વિભાગ B: (i) પ્રવેગ સ્થાનાંતરની વિરુદ્ધ છે, (ii) બળ સ્થાનાંતરની વિરુદ્ધ છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈનસ એટલે 'ખેંચતાણ' - તમે જમણે ખેંચો તો બળ ડાબે લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (1) આવૃત્તિ 50 Hz હોય તો ω, (2) આવૃત્તિ 1/π Hz હોય તો ω <br> વિભાગ B: (i) 2 rad/s, (ii) 100π rad/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\omega = 2\\pi f$. બસ કિંમત જ મુકવાની છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (1) એક કંપન પૂર્ણ કરવા લાગતો સમય, (2) એક સેકન્ડમાં થતા કંપનોની સંખ્યા <br> વિભાગ B: (i) આવૃત્તિ, (ii) આવર્તકાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય = આવર્તકાળ, સંખ્યા = આવૃત્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (1) લોલકના દોલનો કયા બળને કારણે થાય?, (2) સ્પ્રિંગના દોલનો કયા બળને કારણે થાય? <br> વિભાગ B: (i) સ્થિતિસ્થાપક બળ, (ii) ગુરુત્વાકર્ષણ બળનો ઘટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલકમાં $mg \\sin\\theta$ અને સ્પ્રિંગમાં $kx$ વિલન છે (પુનઃસ્થાપક બળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (1) અવમંદન ગુણાંક b નો એકમ, (2) $k/m$ નો એકમ <br> વિભાગ B: (i) $s^{-2}$, (ii) kg/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $F = bv \\Rightarrow b = F/v$ (kg/s). અને $\\omega^2 = k/m$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: (1) સ્થાનાંતર $x = A/2$ થવા માટે સમય, (2) સ્થાનાંતર $x = A$ થવા માટે સમય <br> વિભાગ B: (i) T/4, (ii) T/12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 થી A/2 જવામાં T/12 લાગે, અને A/2 થી A જવામાં T/6 લાગે. ટોટલ T/4.</p></div>"
+    }
+  ]
+}

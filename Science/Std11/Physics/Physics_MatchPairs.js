@@ -3971,3 +3971,366 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વાયુનો ગતિવાદ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (i) બોઈલનો નિયમ, (ii) ચાર્લ્સનો નિયમ --- વિભાગ B: (A) અચળ દબાણે V ∝ T, (B) અચળ તાપમાને P ∝ 1/V",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બોઈલ-તા' (બોઈલમાં તાપમાન અચળ) અને 'ચાર્લ્સ-દ' (ચાર્લ્સમાં દબાણ અચળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (i) ગે-લ્યુસેકનો નિયમ, (ii) એવોગેડ્રો નિયમ --- વિભાગ B: (A) સમાન P અને T એ V ∝ N, (B) અચળ કદે P ∝ T",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગે-લ્યુસેક એટલે 'ગલી' (ગલીમાં કદ અચળ), એવોગેડ્રો એટલે 'સંખ્યા' (N).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (i) સાર્વત્રિક વાયુ અચળાંક (R), (ii) બોલ્ટઝમેન અચળાંક (kB) --- વિભાગ B: (A) 1.38 × 10^-23 J/K, (B) 8.314 J/mol·K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R મોટો (8.31), kB નાનો (ઘાત -23).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (i) મોલર દળ (M), (ii) એવોગેડ્રો અંક (NA) --- વિભાગ B: (A) 6.022 × 10^23 mol^-1, (B) m × NA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક અણુનું દળ × એવોગેડ્રો અંક = આખા મોલનું દળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (i) આદર્શ વાયુ અવસ્થા સમીકરણ, (ii) બોલ્ટઝમેન અચળાંકનું સૂત્ર --- વિભાગ B: (A) kB = R/NA, (B) PV = nRT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PV = nRT' એ વાયુનો રાજા છે અને kB એ R નો 'નાનો' (NA) ભાઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (i) મોલ સંખ્યા (n), (ii) વાયુની ઘનતા (ρ) --- વિભાગ B: (A) M/V, (B) N/NA",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા ભાગ્યા એવોગેડ્રો = મોલ. દળ ભાગ્યા કદ = ઘનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (i) આદર્શ વાયુનું દબાણ (P), (ii) સરેરાશ ગતિ ઊર્જા (E) --- વિભાગ B: (A) (3/2) kBT, (B) (1/3) ρ v_rms^2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણમાં '1/3' આવે, ઊર્જામાં '3/2' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (i) એકપરમાણ્વિક વાયુના મુક્તિના અંશો (f), (ii) દ્વિપરમાણ્વિક (દ્રઢ) વાયુના મુક્તિના અંશો --- વિભાગ B: (A) 5, (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલો હોય તો 3 દિશામાં દોડે, બે હોય તો 3 (રેખીય) + 2 (ચાકગતિ) = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (i) એકપરમાણ્વિક વાયુ માટે Cv, (ii) એકપરમાણ્વિક વાયુ માટે Cp --- વિભાગ B: (A) (5/2) R, (B) (3/2) R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cp હંમેશા Cv કરતા R જેટલો મોટો હોય. (3/2 + 1 = 5/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (i) મેયરનું સમીકરણ, (ii) અચળ કદે વિશિષ્ટ ઉષ્મા Cv --- વિભાગ B: (A) dU/dT, (B) Cp - Cv = R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેયર' એટલે મોટામાંથી નાનું બાદ કરો તો R મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (i) v_rms, (ii) v_avg --- વિભાગ B: (A) √(8RT/πM), (B) √(3RT/M)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RMS માં 3 (Root 3), Average માં 8/π (2.54).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (i) મહત્તમ સંભવિત ઝડપ (v_mp), (ii) v_rms અને તાપમાનનો સંબંધ --- વિભાગ B: (A) v_rms ∝ √T, (B) √(2RT/M)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RAM (R > A > M) -> √3 > √2.54 > √2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (i) સરેરાશ મુક્ત પથ (λ), (ii) λ અને વ્યાસ (d) નો સંબંધ --- વિભાગ B: (A) λ ∝ 1/d^2, (B) 1 / (√2 π n d^2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો વ્યાસ મોટો એનો રસ્તો (મુક્ત પથ) સાંકડો (વર્ગના વ્યસ્તમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (i) ઉર્જાના સમવિભાજનનો નિયમ, (ii) દરેક મુક્તિના અંશ દીઠ ઉર્જા --- વિભાગ B: (A) 1/2 kBT, (B) તાપમાન T એ દરેક અંશને સમાન ઉર્જા મળે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમવિભાજન' એટલે સરખા ભાગે વહેંચણી (અડધો kBT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (i) હિલિયમ (He) માટે Cv, (ii) હાઇડ્રોજન (H2 - દ્રઢ) માટે Cv --- વિભાગ B: (A) 5/2 R, (B) 3/2 R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: He (એકપરમાણ્વિક f=3), H2 (દ્વિપરમાણ્વિક f=5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (i) ગામા (γ) નું સૂત્ર, (ii) એકપરમાણ્વિક વાયુ માટે γ --- વિભાગ B: (A) 5/3 (1.67), (B) Cp / Cv",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામા = Cp/Cv = (5/2)/(3/2) = 5/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (i) દ્વિપરમાણ્વિક (દ્રઢ) વાયુ માટે γ, (ii) દ્વિપરમાણ્વિક (કંપન સાથે) f --- વિભાગ B: (A) 7, (B) 7/5 (1.40)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપન આવે એટલે 2 અંશ વધી જાય (5+2=7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (i) બહુપરમાણ્વિક વાયુ માટે Cv, (ii) બહુપરમાણ્વિક વાયુ માટે Cp --- વિભાગ B: (A) (4+f) R, (B) (3+f) R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cv = (3+f)R, Cp = Cv+R = (4+f)R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (i) પાણીની વિશિષ્ટ ઉષ્મા (C), (ii) ઘન પદાર્થો માટે C --- વિભાગ B: (A) 3R, (B) 9R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન માટે 3R, પાણી માટે 3 પરમાણુ (H2O) હોવાથી 3x3R = 9R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (i) ડાલ્ટનનો આંશિક દબાણનો નિયમ, (ii) સરેરાશ મુક્ત પથ (λ) અને ઘનતા (n) --- વિભાગ B: (A) λ ∝ 1/n, (B) P = P1 + P2 + ...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાલ્ટન એટલે કુલ સરવાળો. વધુ ગીચતા (n) એટલે ઓછો મુક્ત પથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (i) 0°C તાપમાન (K માં), (ii) STP એ દબાણ --- વિભાગ B: (A) 1.013 × 10^5 Pa, (B) 273.15 K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ્સિયસ માં 273 ઉમેરો એટલે કેલ્વિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (i) એકપરમાણ્વિક વાયુનું ઉદાહરણ, (ii) દ્વિપરમાણ્વિક વાયુનું ઉદાહરણ --- વિભાગ B: (A) O2, (B) Ar",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉમદા વાયુ એકલા રહે (Mono), ઓક્સિજન જોડીમાં રહે (Di).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (i) મુક્તિના અંશો f = 3, (ii) મુક્તિના અંશો f = 5 --- વિભાગ B: (A) માત્ર રેખીય ગતિ, (B) રેખીય + ચાકગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 અક્ષ (x,y,z) = 3 રેખીય ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (i) PV/T નો આલેખ (આદર્શ વાયુ), (ii) PV નો P વિરુદ્ધ આલેખ (અચળ T) --- વિભાગ B: (A) અતિવલય (Hyperbola), (B) ક્ષિતિજ સમાંતર રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PV/T = અચળ (સીધી રેખા), P ∝ 1/V (વક્ર રેખા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (i) વાયુના અણુઓનું કદ, (ii) વાયુના અણુઓ વચ્ચેનું આકર્ષણ બળ --- વિભાગ B: (A) આદર્શ સ્થિતિમાં શૂન્ય ગણાય, (B) પાત્રના કદની સરખામણીમાં અવગણ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ વાયુ એટલે 'સ્વાર્થી' અને 'નાનો' (કોઈ આકર્ષણ નહિ, કદ નહિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (i) kB ના પરિમાણ, (ii) R ના પરિમાણ --- વિભાગ B: (A) [M1 L2 T-2 K-1 mol-1], (B) [M1 L2 T-2 K-1]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા/તાપમાન = પરિમાણ. R માં 'mol' વધારાનું આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (i) દબાણ P (સૂત્ર), (ii) v_rms (સૂત્ર) --- વિભાગ B: (A) √(3P/ρ), (B) 1/3 n m v_rms^2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ પરથી વેગ શોધવા 3 ને ઉપર લઈ જઈ વર્ગમૂળ કાઢવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (i) ઉર્જા E અને દબાણ P નો સંબંધ, (ii) આંતરિક ઉર્જા U --- વિભાગ B: (A) f/2 nRT, (B) E = 3/2 P",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમ કદ દીઠ ઉર્જા = 1.5 ગણું દબાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (i) v_rms : v_avg : v_mp, (ii) √3 : √2.54 : √2 --- વિભાગ B: (A) સાચો ગુણોત્તર, (B) 1.73 : 1.59 : 1.41",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RAM - Root (સૌથી મોટો), Average (વચ્ચે), Most Probable (નાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (i) ઘન પદાર્થ માટે વિશિષ્ટ ઉષ્મા (J/mol K માં), (ii) પાણી માટે (J/mol K માં) --- વિભાગ B: (A) ~75, (B) ~25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3R = 3 × 8.31 ≈ 25. 9R = 9 × 8.31 ≈ 75.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (i) સ્થિતિસ્થાપક અથડામણ, (ii) અથડામણનો સમય --- વિભાગ B: (A) બે ક્રમિક અથડામણ વચ્ચેના સમય કરતા ઘણો ઓછો, (B) ગતિ ઉર્જાનું સંરક્ષણ થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેસના અણુઓ બિલિયર્ડ બોલ જેવા 'ટપ્પા' ખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (i) n (સંખ્યા ઘનતા), (ii) m (એક અણુનું દળ) --- વિભાગ B: (A) M / NA, (B) N / V",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્મોલ m એટલે મોટું દળ ભાગ્યા સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (i) એકપરમાણ્વિક γ, (ii) બહુપરમાણ્વિક γ --- વિભાગ B: (A) (4+f)/(3+f), (B) 1.67",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ અણુ મોટો થાય તેમ γ ઘટતો જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (i) અચળ તાપમાને P અને ρ, (ii) અચળ દબાણે ρ અને T --- વિભાગ B: (A) ρ ∝ 1/T, (B) P ∝ ρ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા ગરમ થાય એટલે હલકી (ઓછી ઘનતા) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (i) મુક્ત પથ λ અને P, (ii) મુક્ત પથ λ અને T --- વિભાગ B: (A) λ ∝ T (અચળ P એ), (B) λ ∝ 1/P (અચળ T એ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ વધે તો અણુઓ નજીક આવે, એટલે ભટકાવાની શક્યતા વધે (પથ ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (i) f=3 (દા.ત.), (ii) f=5 (દા.ત.) --- વિભાગ B: (A) N2, (B) Ne",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયોન એકલો, નાઈટ્રોજન બે ના ગ્રુપમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (i) અણુની ત્રિજ્યા (r), (ii) અથડામણ વ્યાસ (d) --- વિભાગ B: (A) 2r, (B) d/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાસ = 2 × ત્રિજ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (i) v_rms (ρ અને P ના પદમાં), (ii) P (E ના પદમાં) --- વિભાગ B: (A) 2/3 E, (B) √(3P/ρ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ એ ઊર્જાના બે-તૃતીયાંશ ભાગ જેટલું હોય (એકમ કદ દીઠ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (i) Cv (f ના પદમાં), (ii) Cp (f ના પદમાં) --- વિભાગ B: (A) (f/2 + 1) R, (B) f/2 R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'v' પરથી 'Vertical' (ઉભી લીટી f/2), 'p' પરથી '+1'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (i) 1 cal, (ii) R (cal/mol K માં) --- વિભાગ B: (A) ~2, (B) 4.184 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8.31 / 4.18 ≈ 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (i) વાયુના અણુઓની ગતિ, (ii) અણુઓ વચ્ચે લાગતું બળ --- વિભાગ B: (A) આંતર-આણ્વીય બળ લઘુઅંતરીય છે, (B) અસ્તવ્યસ્ત (Random)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેસના અણુઓ 'પાગલ' ની જેમ ગમે ત્યાં દોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (i) CO2 માટે f (કંપન વગર), (ii) CO2 માટે Cv --- વિભાગ B: (A) 5/2 R (રેખીય અણુ), (B) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 રેખીય હોવાથી તે દ્વિપરમાણ્વિક જેવું જ વર્તે (f=5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (i) બ્રાઉનિયન ગતિ, (ii) બ્રાઉનિયન ગતિના શોધક --- વિભાગ B: (A) રોબર્ટ બ્રાઉન, (B) અણુઓના ધક્કાને કારણે કણોની વાંકીચૂકી ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રાઉન નામ પરથી જ બ્રાઉનિયન ગતિ પડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (i) 1 atm, (ii) 1 bar --- વિભાગ B: (A) 10^5 Pa, (B) 1.013 × 10^5 Pa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ATM મોટું છે (1.013), બાર (Bar) રાઉન્ડ ફિગર છે (10^5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (i) Cp/Cv રેશિયો વધે તો, (ii) Cp/Cv રેશિયો ઘટે તો --- વિભાગ B: (A) અણુની જટિલતા વધે, (B) અણુની જટિલતા ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો અણુ (Complex) = નાનો ગામા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (i) T = 0 K, (ii) v_rms at 0 K --- વિભાગ B: (A) 0 m/s, (B) પરમ શૂન્ય તાપમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K એટલે બધું થીજી જાય (ગતિ બંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (i) હાઇડ્રોજન અણુનું દળ, (ii) હાઇડ્રોજન મોલર દળ --- વિભાગ B: (A) 2 g/mol, (B) 3.34 × 10^-27 kg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલર દળ હંમેશા ગ્રામ/મોલ માં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (i) મુક્તિના અંશ દીઠ સરેરાશ ગતિ ઉર્જા, (ii) એક અણુની કુલ સરેરાશ ગતિ ઉર્જા (f=3) --- વિભાગ B: (A) 3/2 kBT, (B) 1/2 kBT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ દીઠ અડધો kBT, 3 અંશ હોય તો 1.5 kBT.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (i) v_rms ∝ √(1/M), (ii) સમાન T એ ભારે અણુનો વેગ --- વિભાગ B: (A) ઓછો હોય, (B) ગ્રેહામનો પ્રસરણનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાડો માણસ ધીમે દોડે (M વધુ, V ઓછો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (i) દબાણ P વધારતા λ, (ii) તાપમાન T વધારતા λ --- વિભાગ B: (A) વધે, (B) ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T વધે તો વાયુ ફેલાય (રસ્તો મોકળો λ વધે). P વધે તો દબાય (λ ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (i) પાણીના અણુના અંશો (કંપન સાથે), (ii) પાણી માટે Cv --- વિભાગ B: (A) 3R, (B) 3 (રેખીય) + 3 (ચાક) + 3 (કંપન) = 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન માટે 3R, પણ પાણી (H2O) માટે 3x3=9R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (i) આદર્શ વાયુ માટે Cp - Cv, (ii) વાસ્તવિક વાયુ માટે Cp - Cv --- વિભાગ B: (A) હંમેશા R જેટલું જ હોવું જરૂરી નથી, (B) R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આદર્શ' જ નિયમો પાળે, બાકીના તો રખડુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (i) સરેરાશ વેગ <v>, (ii) સરેરાશ વર્ગીત વેગ <v^2> --- વિભાગ B: (A) 3kBT/m, (B) શૂન્ય (સદિશ હોવાથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા જમણે જાય એટલા ડાબે જાય (સરવાળો 0), પણ વર્ગ તો (+) જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (i) ઘન પદાર્થ (f), (ii) વાયુ (f) --- વિભાગ B: (A) માત્ર 3 (રેખીય), (B) 6 (3 ગતિ + 3 સ્થિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન પદાર્થમાં 'સ્પ્રિંગ' જેવું બંધારણ હોય એટલે ડબલ અંશ (3x2=6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (i) હાઇડ્રોજન (H2) v_rms, (ii) ઓક્સિજન (O2) v_rms (સમાન T એ) --- વિભાગ B: (A) ઓછો (4 ગણો), (B) વધુ (4 ગણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √M ના વ્યસ્તમાં. M(O2)=32, M(H2)=2. √16 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (i) એક મોલ વાયુનું STP એ કદ, (ii) એક મોલ વાયુના અણુઓની સંખ્યા --- વિભાગ B: (A) 6.022 × 10^23, (B) 22.4 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મોલ = 22.4 લિટર (STP યાદ રાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (i) મુક્તિના અંશો (વ્યાખ્યા), (ii) ઉષ્મા ધારિતા --- વિભાગ B: (A) તાપમાન દીઠ ઉર્જાનો ફેરફાર, (B) સ્વતંત્ર રીતે ગતિ કરી શકતા યામોની સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્તિ એટલે આઝાદી (કેટલી રીતે ફરી શકે?).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (i) અચળ કદ (પ્રક્રિયા), (ii) અચળ દબાણ (પ્રક્રિયા) --- વિભાગ B: (A) આઈસોબેરિક, (B) આઈસોકોરિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાર' (Bar) દબાણનો એકમ છે, એટલે આઈસોબેરિક = અચળ દબાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (i) ઉષ્માગતિશાસ્ત્રનો શૂન્ય નિયમ, (ii) વાયુનો ગતિવાદ --- વિભાગ B: (A) અણુઓની સરેરાશ ગતિ પર આધારિત, (B) તાપમાનની વ્યાખ્યા આપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિવાદ એટલે અણુઓની 'દોડધામ' (Microscopic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (i) એકમ કદમાં અણુઓની સંખ્યા n, (ii) વાયુનું કુલ દળ M --- વિભાગ B: (A) n × m × V, (B) P / (kBT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PV = NkT પરથી N/V = P/kT.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (i) Cv ફોર હિલિયમ, (ii) Cv ફોર હાઇડ્રોજન --- વિભાગ B: (A) 20.8 J/mol K, (B) 12.5 J/mol K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1.5R (He) ≈ 12.5, 2.5R (H2) ≈ 20.8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (i) તાપમાન વધે તો સ્નિગ્ધતા (વાયુની), (ii) તાપમાન વધે તો મુક્ત પથ --- વિભાગ B: (A) વધે, (B) વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુમાં બધું જ તાપમાન સાથે વધે (દબાણ, વેગ, પથ, સ્નિગ્ધતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (i) λ (મીટરમાં) STP એ, (ii) અણુનો વ્યાસ (d) --- વિભાગ B: (A) ~10^-10 m, (B) ~10^-7 m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો (λ) અણુના કદ (d) કરતા 1000 ગણો મોટો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (i) PV = (1/3) M v_rms^2, (ii) PV = RT --- વિભાગ B: (A) એક મોલ માટે, (B) કુલ દળ M માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PV = RT માં n=1 મોલ છુપાયેલો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (i) આદર્શ વાયુની આંતરિક ઉર્જા માત્ર કોનું વિધેય છે?, (ii) વાસ્તવિક વાયુની આંતરિક ઉર્જા --- વિભાગ B: (A) T અને V બંને, (B) માત્ર તાપમાન (T)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ વાયુ એટલે 'માત્ર તાપમાનનો દીવાનો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (i) Cp/Cv ફોર દ્વિપરમાણ્વિક, (ii) Cv/Cp ફોર દ્વિપરમાણ્વિક --- વિભાગ B: (A) 5/7, (B) 1.4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7/5 = 1.4. ઉંધુ કરો તો 5/7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (i) રેખીય ગતિના અંશો, (ii) ચાકગતિના અંશો (દ્વિપરમાણ્વિક) --- વિભાગ B: (A) 2, (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીય હંમેશા 3 (x,y,z), ચાકગતિ ડંબેલ માટે 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (i) 1 u (એટોમિક માસ યુનિટ), (ii) NA --- વિભાગ B: (A) 6.022 × 10^26 kmol-1, (B) 1.66 × 10^-27 kg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: kmol હોય તો 10^26 આવે, mol હોય તો 10^23.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (i) v_rms ∝ √T, (ii) v_rms ∝ 1/√M --- વિભાગ B: (A) સમાન વાયુ માટે T બદલતા, (B) સમાન T એ જુદા વાયુ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી (T) વેગ વધારે, વજન (M) વેગ ઘટાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (i) આદર્શ વાયુ માટે f (કુલ), (ii) આદર્શ વાયુ માટે 1 મોલની ઉર્જા --- વિભાગ B: (A) (f/2) RT, (B) 3 (એકપરમાણ્વિક માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મોલ માટે kB ની જગ્યાએ R વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: (i) અણુઓનું કદ શૂન્ય ક્યારે લેવાય?, (ii) વાયુ આદર્શ ક્યારે બને? --- વિભાગ B: (A) ઊંચું તાપમાન અને નીચું દબાણ, (B) માત્ર ગાણિતિક સરળતા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ બનવું હોય તો 'દબાણ' ઓછું કરો અને 'ગરમી' (તાપમાન) વધારો.</p></div>"
+    }
+  ]
+}

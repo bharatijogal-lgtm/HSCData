@@ -2897,3 +2897,361 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "તરલના યાંત્રિક ગુણધર્મો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (i) દબાણ (P), (ii) ઘનતા (ρ) | વિભાગ B: (A) દળ / કદ, (B) બળ / ક્ષેત્રફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દબાણ એટલે બળનો અખાડો (F/A)' અને 'ઘનતા એટલે દળનું કદ (M/V)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (i) 1 atm, (ii) 1 bar | વિભાગ B: (A) 10^5 Pa, (B) 1.013 x 10^5 Pa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ATM મોટું છે (1.013), Bar રાઉન્ડ ફિગર છે (10^5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (i) પાસ્કલનો નિયમ, (ii) આર્કિમીડિઝનો સિદ્ધાંત | વિભાગ B: (A) ઉત્પ્લાવક બળ, (B) દબાણનું પ્રસરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલ = પ્રેશર (P-P), આર્કિમીડિઝ = તરવું (Buoyancy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (i) હાઇડ્રોલિક લિફ્ટ, (ii) બેરોમીટર | વિભાગ B: (A) વાતાવરણનું દબાણ, (B) પાસ્કલનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટમાં પાસ્કલભાઈ બેઠા છે, બેરોમીટરથી હવા મપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (i) વહનરેખી વહન, (ii) પ્રક્ષુબ્ધ વહન | વિભાગ B: (A) અનિયમિત વેગ, (B) સ્થિર વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહનરેખી = શિસ્તબદ્ધ (Steady), પ્રક્ષુબ્ધ = તોફાની (Turbulent).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (i) સાતત્ય સમીકરણ, (ii) બર્નુલીનું સમીકરણ | વિભાગ B: (A) ઉર્જા સંરક્ષણ, (B) દળ સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતત્ય (A1v1) = દળ, બર્નુલી = ઉર્જા (Energy balance).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (i) સ્નિગ્ધતા ગુણાંક (η), (ii) પૃષ્ઠતાણ (S) | વિભાગ B: (A) N/m, (B) Pa·s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: η (ઈટા) = પાસ (Pa·s), પૃષ્ઠતાણ (Surface Tension) = બળ/લંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (i) રેનોલ્ડ્સ આંક (Re < 1000), (ii) રેનોલ્ડ્સ આંક (Re > 2000) | વિભાગ B: (A) પ્રક્ષુબ્ધ વહન, (B) વહનરેખી વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછો Re = શાંત (Laminar), વધુ Re = તોફાની (Turbulent).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (i) સ્ટોક્સનો નિયમ, (ii) ટૉરિસેલીનો નિયમ | વિભાગ B: (A) બહિષ્કૃત વેગ, (B) સ્નિગ્ધ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટોક્સ = 6πηrv (સ્નિગ્ધ), ટૉરિસેલી = ટાંકીમાંથી બહાર નીકળતું પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (i) સ્પર્શકોણ (કાચ-પાણી), (ii) સ્પર્શકોણ (કાચ-પારો) | વિભાગ B: (A) ગુરુકોણ (> 90°), (B) લઘુકોણ (< 90°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ભીંજવે એટલે લઘુકોણ, પારો ના ભીંજવે એટલે ગુરુકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (i) શ્યાનતા બળ, (ii) ઘર્ષણ બળ | વિભાગ B: (A) માત્ર સંપર્ક સપાટી પર આધારિત, (B) સાપેક્ષ વેગ પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરલમાં ઘર્ષણ એટલે શ્યાનતા, જે વેગ સાથે બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (i) ગેજ દબાણ, (ii) નિરપેક્ષ દબાણ | વિભાગ B: (A) P_atm + hρg, (B) hρg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેજ એટલે વધારાનું (hρg), નિરપેક્ષ એટલે ટોટલ (સરવાળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (i) વેન્ચુરીમીટર, (ii) સ્ફિગ્મોમેનોમીટર | વિભાગ B: (A) લોહીનું દબાણ, (B) તરલના વહનનો દર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેન્ચુરી = વેગ/દર, સ્ફિગ્મો = ડોક્ટરનું B.P. માપવાનું મશીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (i) પ્રવાહીના ટીપામાં વધારાનું દબાણ, (ii) સાબુના પરપોટામાં વધારાનું દબાણ | વિભાગ B: (A) 4S/r, (B) 2S/r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપું (Drop) = 1 સપાટી (2S/r), પરપોટો (Bubble) = 2 સપાટી (4S/r).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (i) ટર્મિનલ વેગ (v_t), (ii) બહિષ્કૃત વેગ (v) | વિભાગ B: (A) √(2gh), (B) (2r²g/9η)(ρ - σ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટર્મિનલ એટલે અંતિમ વેગ (મોટું સૂત્ર), બહિષ્કૃત એટલે મુક્ત પતન જેવો વેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (i) તાપમાન વધારતા સ્નિગ્ધતા (પ્રવાહી), (ii) તાપમાન વધારતા સ્નિગ્ધતા (વાયુ) | વિભાગ B: (A) વધે, (B) ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ ગરમ કરો તો પાતળું થાય (ઘટે), ગેસ ગરમ કરો તો અણુઓ ભટકાય (વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (i) પૃષ્ઠ ઉર્જા, (ii) પૃષ્ઠ તાણ | વિભાગ B: (A) જૂલ/મીટર², (B) ન્યૂટન/મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા (Work/Area) = J/m², તાણ (Force/Length) = N/m.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (i) મેગ્નસ અસર, (ii) એટોમાઈઝર | વિભાગ B: (A) બર્નુલીનો સિદ્ધાંત, (B) સ્પિન થતો દડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિકેટનો દડો વળે એટલે મેગ્નસ, સેન્ટ કે સ્પ્રે એટલે એટોમાઈઝર (બંને બર્નુલી પર!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (i) અંતર્ગત સપાટી (Concave), (ii) બહિર્ગત સપાટી (Convex) | વિભાગ B: (A) વધુ દબાણ, (B) ઓછું દબાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાડા વાળી (Concave) બાજુ હંમેશા દબાણ વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (i) આદર્શ તરલ, (ii) વાસ્તવિક તરલ | વિભાગ B: (A) શૂન્ય સ્નિગ્ધતા, (B) અશૂન્ય સ્નિગ્ધતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ એટલે 'નો ટેન્શન, નો ફ્રિકશન' (η = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (i) સ્નિગ્ધતાનું પારિમાણિક સૂત્ર, (ii) દબાણનું પારિમાણિક સૂત્ર | વિભાગ B: (A) [M1 L-1 T-2], (B) [M1 L-1 T-1]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નિગ્ધતા એટલે 'બારસો અગિયાર' (1, -1, -1), દબાણ એટલે 'બારસો બાર' (1, -1, -2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (i) એસ્પિરેટર પંપ, (ii) કેશવાહિની ઘટના | વિભાગ B: (A) પૃષ્ઠતાણ, (B) બર્નુલીનો સિદ્ધાંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંપ એટલે બર્નુલી, કેશવાહિની (Capillary) એટલે પૃષ્ઠતાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (i) આસંજક બળ (Adhesive), (ii) સસંજક બળ (Cohesive) | વિભાગ B: (A) સમાન અણુઓ વચ્ચે, (B) અસમાન અણુઓ વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ'સંજક એટલે 'સ'માન, આસંજક એટલે ફિવીકોલ જેવું (જુદા જુદા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (i) પાણીના સ્તંભની ઊંચાઈ (h), (ii) ક્ષેત્રફળ (A) અને વેગ (v) નો ગુણાકાર | વિભાગ B: (A) કદ ફ્લક્સ (Volume flux), (B) દબાણ શીર્ષ (Pressure head)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A×v એટલે નળીમાંથી નીકળતું પાણી (કદ), h એટલે હાઈટ (શીર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (i) રેનોલ્ડ્સ આંક (શૂન્ય પરિમાણી), (ii) પૃષ્ઠતાણ (પારિમાણિક સૂત્ર) | વિભાગ B: (A) [M1 L0 T-2], (B) [M0 L0 T0]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડો (Number) હંમેશા પરિમાણ વગરનો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (i) તાપમાન વધતા પૃષ્ઠતાણ, (ii) અશુદ્ધિ ઉમેરતા પૃષ્ઠતાણ | વિભાગ B: (A) ફેરફાર થાય (ઘટે/વધે), (B) હંમેશા ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી પૃષ્ઠતાણને તોડી નાખે (ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (i) હાઈડ્રોસ્ટેટિક પેરાડોક્સ, (ii) ઉત્પ્લાવક બળ | વિભાગ B: (A) પાત્રના આકાર પર આધારિત નથી, (B) વિસ્થાપિત તરલના વજન જેટલું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરાડોક્સ એટલે દેખાય કંઈક અને હોય કંઈક (આકારથી કોઈ લેવાદેવા નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (i) તરલ સ્તંભને લીધે દબાણ, (ii) કેશવાહિનીમાં ઊંચાઈ | વિભાગ B: (A) (2S cosθ) / (rρg), (B) hρg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉંડાઈ સાથે hρg, પતલી નળીમાં પૃષ્ઠતાણ વાળું લાંબુ સૂત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (i) બર્નુલીનો સિદ્ધાંત ક્યાં લાગુ પડે?, (ii) સાતત્ય સમીકરણ ક્યાં લાગુ પડે? | વિભાગ B: (A) અદબનીય તરલ, (B) અસ્નિગ્ધ અને અદબનીય તરલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્નુલીને બધું પરફેક્ટ જોઈએ (અસ્નિગ્ધ + અદબનીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (i) લોહીનું વહન, (ii) પાણીનો ધોધ | વિભાગ B: (A) વહનરેખી વહન, (B) પ્રક્ષુબ્ધ વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નસમાં લોહી શાંતિથી વહે (Laminar), ધોધ તો તોફાની જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (i) 1 torr, (ii) 1 Pa | વિભાગ B: (A) 1 N/m², (B) 133 Pa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Torr એટલે મિલિમીટર Hg, 133 યાદ રાખવા જેવું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (i) ડાયનેમિક લિફ્ટ, (ii) હાઈડ્રોલિક બ્રેક | વિભાગ B: (A) પાસ્કલનો નિયમ, (B) વિમાનની પાંખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાડીની બ્રેક પાસ્કલ મારે, પ્લેનને બર્નુલી (લિફ્ટ) ઉડાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (i) ρ (Density) - SI એકમ, (ii) P (Pressure) - CGS એકમ | વિભાગ B: (A) dyne/cm², (B) kg/m³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SI માં Kg/m, CGS માં dyne/cm.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (i) વહનનળી (Streamline tube), (ii) સાંકડી નળીમાં વેગ | વિભાગ B: (A) વધુ, (B) કાલ્પનિક નળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નળી સાંકડી તો વેગ ફાસ્ટ (પાઈપ દબાવો ત્યારે પાણી દૂર જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (i) શૂન્ય સ્પર્શકોણ, (ii) 180° સ્પર્શકોણ | વિભાગ B: (A) સૈદ્ધાંતિક (સંપૂર્ણ ન ભીંજવે), (B) શુદ્ધ પાણી અને કાચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ પાણી કાચને પૂરેપૂરું વળગી જાય (0°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (i) ઘનતા માપવા, (ii) સાપેક્ષ ઘનતા માપવા | વિભાગ B: (A) હાઈડ્રોમીટર, (B) ડેન્સિટી બોટલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રોમીટર એટલે તરલની ઘનતા માપતું સાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (i) રુધિર કેશિકામાં પ્રવાહીનું ઉપર ચઢવું, (ii) પ્રવાહીનું ટીપું ગોળ હોવું | વિભાગ B: (A) પૃષ્ઠતાણને કારણે સપાટી લઘુત્તમ કરવા, (B) કેશવાહિની ઘટના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપું ગોળ કેમ? કારણ કે પૃષ્ઠતાણ એને ટૂંકું (લઘુત્તમ) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (i) સ્થિર તરલમાં દબાણ, (ii) ગતિમાન તરલમાં દબાણ | વિભાગ B: (A) વેગ વધતા દબાણ ઘટે, (B) બધી દિશામાં સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્નુલી કહે છે: સ્પીડ વધે તો પ્રેશર ડાઉન (Low Pressure).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (i) મધની સ્નિગ્ધતા, (ii) પાણીની સ્નિગ્ધતા | વિભાગ B: (A) ઓછી, (B) વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ ઘટ્ટ છે એટલે વધુ 'સ્નિગ્ધ' (ચીકણું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (i) ન્યૂટનિયન તરલ, (ii) નોન-ન્યૂટનિયન તરલ | વિભાગ B: (A) સ્નિગ્ધતા અચળ રહેતી નથી (દા.ત. બ્લડ), (B) સ્નિગ્ધતા અચળ રહે છે (દા.ત. પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટનના નિયમ પાળે એ પાણી, ન પાળે એ આપણું લોહી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (i) વેગ પ્રચલન (Velocity Gradient), (ii) શ્યાનતા ગુણાંક (η) | વિભાગ B: (A) s-1, (B) N·s/m²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રચલન એટલે અંતર વડે ભાગાકાર (v/l = 1/s).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (i) મિશ્ર ન થઈ શકે તેવા પ્રવાહી, (ii) મિશ્ર થઈ શકે તેવા પ્રવાહી | વિભાગ B: (A) પાણી અને આલ્કોહોલ, (B) તેલ અને પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ પાણી કદી ભેગા ન થાય (Immiscible).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (i) 1000 kg/m³, (ii) 13600 kg/m³ | વિભાગ B: (A) પારાની ઘનતા, (B) પાણીની ઘનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 1000 (standard), પારો ભારે છે (13.6 ગણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (i) ઉર્ધ્વ ધક્કો (Buoyant force), (ii) પૃષ્ઠતાણ બળ | વિભાગ B: (A) માત્ર સપાટી પર, (B) સમગ્ર ડૂબેલા ભાગ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠ એટલે 'ઉપર' (Surface), ઉત્પ્લાવક એટલે 'નીચેથી' (Bulk).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (i) કેશવાહિનીમાં પ્રવાહી નીચે ઉતરે, (ii) કેશવાહિનીમાં પ્રવાહી ઉપર ચઢે | વિભાગ B: (A) લઘુકોણ (θ < 90°), (B) ગુરુકોણ (θ > 90°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુકોણ = Lift (ઉપર), ગુરુકોણ = Down (નીચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (i) પૉઇઝ (Poise), (ii) પાસ્કલ (Pascal) | વિભાગ B: (A) દબાણનો એકમ, (B) સ્નિગ્ધતાનો CGS એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Poiseuille પરથી Poise (સ્નિગ્ધતા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (i) તરલની સપાટી પર તરતા કીટકો, (ii) લોખંડની સોય પાણી પર તરવી | વિભાગ B: (A) પૃષ્ઠતાણ, (B) ઉત્પ્લાવક બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકી વસ્તુઓ પાણીની સપાટી પર તરે એ પૃષ્ઠતાણનો કમાલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (i) શ્યાનતા ગુણાંક η = 0, (ii) દબનીયતા k = 0 | વિભાગ B: (A) અદબનીય તરલ, (B) અસ્નિગ્ધ તરલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અસ્નિગ્ધ' એટલે ચીકાશ વગરનું, 'અદબનીય' એટલે દબાય નહીં તેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (i) પર્વત પર વાતાવરણનું દબાણ, (ii) દરિયાની ઉંડાઈએ દબાણ | વિભાગ B: (A) ઘટે, (B) વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જાવ તો હવા ઓછી (દબાણ ઘટે), નીચે જાવ તો પાણીનું વજન વધે (દબાણ વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (i) વાયુના પરપોટામાં દબાણ, (ii) સાબુના પરપોટામાં દબાણ | વિભાગ B: (A) P_atm + 4S/r, (B) P_atm + 2S/r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુનો પરપોટો (બે સપાટી) = ડબલ દબાણ (4S).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (i) પૃષ્ઠતાણ અને તાપમાન, (ii) સ્નિગ્ધતા અને તાપમાન (વાયુ) | વિભાગ B: (A) સીધો સંબંધ (વધે), (B) વ્યસ્ત સંબંધ (ઘટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી પૃષ્ઠતાણ ઘટાડે, પણ વાયુના અણુઓને ગતિમાં લાવી સ્નિગ્ધતા વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (i) મિટિઓરોલોજીકલ માપન (1 bar), (ii) 1 mm of Hg | વિભાગ B: (A) 1 Torr, (B) 10^5 Pa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 mm Hg = 1 Torr (યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (i) અદબનીય વહન, (ii) સ્થિર વહન | વિભાગ B: (A) વેગ સમય સાથે બદલાતો નથી, (B) ઘનતા બદલાતી નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અદબનીય = Density Fixed, સ્થિર = Velocity Fixed.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (i) પૃષ્ઠતાણ (T) અને લંબાઈ (L), (ii) પૃષ્ઠ ઉર્જા (U) અને ક્ષેત્રફળ (A) | વિભાગ B: (A) U = T × A, (B) F = T × L",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ હોય તો લંબાઈ, ઉર્જા હોય તો ક્ષેત્રફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (i) પ્રક્ષુબ્ધ વહન માટે Re, (ii) સ્થિર વહન માટે Re | વિભાગ B: (A) < 1000, (B) > 2000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેનોલ્ડ્સનો આંકડો મોટો તો વહન 'તોફાની' (પ્રક્ષુબ્ધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (i) સાબુનું દ્રાવણ, (ii) શુદ્ધ પાણી | વિભાગ B: (A) વધુ પૃષ્ઠતાણ, (B) ઓછું પૃષ્ઠતાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાબુ નાખવાથી પૃષ્ઠતાણ ઘટે એટલે જ મેલ દૂર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (i) મેનિસ્કસ (અંતર્ગોળ), (ii) મેનિસ્કસ (બહિર્ગોળ) | વિભાગ B: (A) પારો, (B) પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી પ્યાલામાં વચ્ચેથી દબાયેલું (અંતર્ગોળ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (i) ગતિશીલ તરલના દબાણનો તફાવત, (ii) સ્થિર તરલના દબાણનો તફાવત | વિભાગ B: (A) hρg, (B) 1/2 ρ(v2² - v1²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિ હોય તો 'v' (વેગ) આવે, સ્થિર હોય તો માત્ર 'h' (ઊંડાઈ) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (i) હાઈડ્રોલિક પ્રેસ, (ii) વિમાનનું ટેક-ઓફ | વિભાગ B: (A) બર્નુલીનો સિદ્ધાંત, (B) પાસ્કલનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારે વસ્તુ ઉંચકવી (Press) = પાસ્કલ, ઉડવું (Flight) = બર્નુલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (i) સ્નિગ્ધ બળ F_v, (ii) ઉત્પ્લાવક બળ F_b | વિભાગ B: (A) પ્રવાહીની ઘનતા પર આધારિત, (B) વેગ પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્નિગ્ધતા ગતિ રોકે (વેગ), ઉત્પ્લાવકતા વજન ખાળે (ઘનતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (i) 10 Poise, (ii) 1 Pa·s | વિભાગ B: (A) 1 Pa·s, (B) 10 Poise",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (A), (ii) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 SI એકમ = 10 CGS એકમ (સ્નિગ્ધતા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (i) બર્નુલી અચળાંક, (ii) સાતત્ય અચળાંક | વિભાગ B: (A) Av = constant, (B) P + 1/2ρv² + ρgh = constant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Av = સાતત્ય (Continuity), મોટું પદ = બર્નુલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (i) કેશનળીની ત્રિજ્યા અડધી કરતા ઊંચાઈ, (ii) કેશનળીની ત્રિજ્યા બમણી કરતા ઊંચાઈ | વિભાગ B: (A) અડધી થાય, (B) બમણી થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: h ∝ 1/r (વ્યસ્ત સંબંધ). પાતળી નળીમાં પાણી વધુ ઉપર જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (i) પ્રવાહી અને વાયુ બંને, (ii) માત્ર પ્રવાહી | વિભાગ B: (A) પૃષ્ઠતાણ, (B) તરલ (Fluids)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠતાણ માત્ર પ્રવાહીની સપાટી પર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (i) ડેન્સિટી (Density), (ii) વિશિષ્ટ ઘનતા (Specific Gravity) | વિભાગ B: (A) એકમ રહિત, (B) kg/m³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપેક્ષ કે વિશિષ્ટ એટલે ગુણોત્તર, જેનો કોઈ એકમ ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (i) ટોરેસેલી પ્રયોગમાં પ્રવાહી, (ii) બ્લાસ્ટિંગ ફર્નેસમાં હવા ફૂંકવી | વિભાગ B: (A) બર્નુલી અસર, (B) પારો (Hg)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોરેસેલીએ પારાથી બેરોમીટર બનાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (i) તરલનું વજન, (ii) તરલનું દબાણ | વિભાગ B: (A) ક્ષેત્રફળ પર આધારિત નથી (P=hρg), (B) કદ પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ માટે માત્ર 'ઊંડાઈ' (h) મહત્વની છે, જથ્થો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (i) સ્ટોક્સનું બળ અને ત્રિજ્યા, (ii) ટર્મિનલ વેગ અને ત્રિજ્યા | વિભાગ B: (A) v ∝ r², (B) F ∝ r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળમાં rની 1 ઘાત (6πηrv), વેગમાં rની 2 ઘાત આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (i) હવાનું દબાણ માપવા, (ii) પાઈપમાં વહેતા પ્રવાહીનું દબાણ માપવા | વિભાગ B: (A) મેનોમીટર, (B) બેરોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુલ્લી હવા માટે બેરોમીટર, બંધ પાઈપ માટે મેનોમીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (i) સ્પર્શકોણ θ = 90°, (ii) સ્પર્શકોણ θ < 90° | વિભાગ B: (A) સપાટીને ભીંજવે, (B) સપાટીને લંબ (સૈદ્ધાંતિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (i) - (B), (ii) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછો ખૂણો (Acute) એટલે વળગી રહેવું (ભીંજવવું).</p></div>"
+    }
+  ]
+}

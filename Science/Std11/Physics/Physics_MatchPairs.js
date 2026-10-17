@@ -3255,3 +3255,361 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દ્રવ્યના ઉષ્મીય ગુણધર્મો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A (તાપમાનના માપક્રમ) ને વિભાગ B (તેના મૂલ્યો) સાથે જોડો:\n(1) સેલ્સિયસમાં પાણીનું ઠારણબિંદુ\n(2) ફેરનહીટમાં પાણીનું ઠારણબિંદુ\n(3) કેલ્વિનમાં પાણીનું ઠારણબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - 0°C<br>(2) - 32°F<br>(3) - 273.15 K</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બરફ બને ત્યારે: C = 0, F = 32, K = 273. (Trick: 0-32-273)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A (પ્રસરણાંક) ને વિભાગ B (તેના સંકેત) સાથે જોડો:\n(1) રેખીય પ્રસરણાંક\n(2) પૃષ્ઠ પ્રસરણાંક\n(3) કદ પ્રસરણાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - α (આલ્ફા)<br>(2) - β (બીટા)<br>(3) - γ (ગામા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1D = α, 2D = β, 3D = γ (ક્રમ યાદ રાખો: રેખા-પૃષ્ઠ-કદ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A (ભૌતિક રાશિ) ને વિભાગ B (તેના SI એકમ) સાથે જોડો:\n(1) વિશિષ્ટ ઉષ્માધારિતા\n(2) મોલર વિશિષ્ટ ઉષ્માધારિતા\n(3) ઉષ્માધારિતા (Heat Capacity)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - J kg⁻¹ K⁻¹<br>(2) - J mol⁻¹ K⁻¹<br>(3) - J K⁻¹</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિશિષ્ટ' આવે તો છેદમાં kg, 'મોલર' આવે તો mol, ખાલી 'ઉષ્માધારિતા' માં છેદમાં માત્ર K.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A (અવસ્થા ફેરફાર) ને વિભાગ B (વ્યાખ્યા) સાથે જોડો:\n(1) ગલન (Melting)\n(2) ઠારણ (Freezing)\n(3) બાષ્પીભવન (Vaporization)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઘન થી પ્રવાહી<br>(2) - પ્રવાહી થી ઘન<br>(3) - પ્રવાહી થી વાયુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ ઓગળે તો ગલન, બરફ બને તો ઠારણ, વરાળ બને તો બાષ્પીભવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A (અચળાંક) ને વિભાગ B (તેના પારિમાણિક સૂત્ર) સાથે જોડો:\n(1) સ્ટીફન-બોલ્ટઝમેન અચળાંક (σ)\n(2) વિનનો અચળાંક (b)\n(3) ઉષ્મા વાહકતા (k)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - [M¹ L⁰ T⁻³ K⁻⁴]<br>(2) - [M⁰ L¹ T⁰ K¹]<br>(3) - [M¹ L¹ T⁻³ K⁻¹]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિન (b) = λT એટલે મીટર-કેલ્વિન (L¹K¹). સ્ટીફન (σ) માં પાવર/એરિયા/T⁴ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A (નિયમ) ને વિભાગ B (સમીકરણ) સાથે જોડો:\n(1) સ્ટીફન-બોલ્ટઝમેન નિયમ\n(2) વિનનો સ્થાનાંતર નિયમ\n(3) ન્યૂટનનો શીતન નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - H = σ A e T⁴<br>(2) - λm T = constant<br>(3) - dQ/dt = -k(T₂ - T₁)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીફન = T ની 4 ઘાત, વિન = λ અને T દુશ્મન (વ્યસ્ત), ન્યૂટન = તાપમાનનો તફાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A (પાણીના તાપમાન) ને વિભાગ B (ઘનતાની લાક્ષણિકતા) સાથે જોડો:\n(1) 0°C થી 4°C તાપમાન\n(2) 4°C તાપમાન\n(3) 4°C થી ઉપર તાપમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઘનતા વધે છે<br>(2) - મહત્તમ ઘનતા<br>(3) - ઘનતા ઘટે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 4°C એ સૌથી 'ભારે' (ઘન) હોય. આ પાણીનું 'અસંગત' પ્રસરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A (પ્રસરણાંક વચ્ચેનો સંબંધ) ને વિભાગ B (સાચા સમીકરણ) સાથે જોડો:\n(1) β અને α નો સંબંધ\n(2) γ અને α નો સંબંધ\n(3) α, β, γ નો ગુણોત્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - β = 2α<br>(2) - γ = 3α<br>(3) - 1 : 2 : 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1D, 2D, 3D યાદ રાખો. α (1), β (2), γ (3). બધું જ α ના ગુણાંકમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A (ઉષ્મા પ્રસરણની રીત) ને વિભાગ B (માધ્યમની જરૂરિયાત) સાથે જોડો:\n(1) ઉષ્મા વહન (Conduction)\n(2) ઉષ્મા નયન (Convection)\n(3) ઉષ્મા વિકિરણ (Radiation)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઘન પદાર્થ (સંપર્ક જરૂરી)<br>(2) - તરલ (પ્રવાહી/વાયુ)<br>(3) - માધ્યમની જરૂર નથી (શૂન્યાવકાશ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહન = ઘન, નયન = વહેતા (તરલ), વિકિરણ = પ્રકાશની જેમ (કોઈપણ માધ્યમ વગર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A (ઉષ્મીય ગુણધર્મો) ને વિભાગ B (વ્યાખ્યા/સૂત્ર) સાથે જોડો:\n(1) ઉષ્માનો મિકેનિકલ ઇક્વિવેલન્ટ (J)\n(2) ગુપ્ત ઉષ્મા (L)\n(3) પાણીનું ત્રિબિંદુ (Triple point)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - 4.186 J/cal<br>(2) - Q / m<br>(3) - 273.16 K</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: J એટલે જૂલ અને કેલરીનો પુલ. L એટલે છુપાયેલી (ગુપ્ત) ઉષ્મા જે અવસ્થા બદલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A (તાપમાન સ્કેલના રૂપાંતર) ને વિભાગ B (યોગ્ય સંબંધ) સાથે જોડો:\n(1) C થી F રૂપાંતર\n(2) C થી K રૂપાંતર\n(3) F થી C રૂપાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - F = (9/5)C + 32<br>(2) - K = C + 273.15<br>(3) - C = (5/9)(F - 32)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ્સિયસ ને 1.8 વડે ગુણી 32 ઉમેરો તો ફેરનહીટ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (પદાર્થ) ને વિભાગ B (વિશિષ્ટ ઉષ્મા J/kg K અંદાજિત) સાથે જોડો:\n(1) પાણી (Water)\n(2) બરફ (Ice)\n(3) એલ્યુમિનિયમ (Al)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - 4186<br>(2) - 2100<br>(3) - 900</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની વિશિષ્ટ ઉષ્મા સૌથી વધુ (યાદ રાખો 4186), બરફ તેની અડધી (અંદાજે 2100).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A (અવસ્થા ફેરફાર પ્રક્રિયા) ને વિભાગ B (નામ) સાથે જોડો:\n(1) ઘન થી સીધું વાયુ\n(2) વાયુ થી પ્રવાહી\n(3) પ્રવાહી થી વાયુ (બધી સપાટી પરથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉર્ધ્વપાતન (Sublimation)<br>(2) - સંઘનન (Condensation)<br>(3) - ઉત્કલન (Boiling)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્ધ્વપાતન = શોર્ટકટ (ઘન→વાયુ), સંઘનન = ભેગું થવું (વાયુ→પ્રવાહી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A (ઉષ્મા વહનનો દર H) ને વિભાગ B (પરિબળો) સાથે જોડો:\n(1) તાપમાન તફાવત (ΔT)\n(2) આડછેદનું ક્ષેત્રફળ (A)\n(3) લંબાઈ (L)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - H ના સમપ્રમાણમાં<br>(2) - H ના સમપ્રમાણમાં<br>(3) - H ના વ્યસ્ત પ્રમાણમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H = KA(ΔT)/L. ઉપર હોય તે 'સીધું' (સમ), નીચે હોય તે 'ઊંધું' (વ્યસ્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A (વાયુના નિયમો) ને વિભાગ B (અચળ પરિબળ) સાથે જોડો:\n(1) બોઇલનો નિયમ (Boyle's Law)\n(2) ચાર્લ્સનો નિયમ (Charles's Law)\n(3) ગેલ્યુસેકનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - તાપમાન (T) અચળ<br>(2) - દબાણ (P) અચળ<br>(3) - કદ (V) અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B-T (બોઈલ-તાપમાન), C-P (ચાર્લ્સ-પ્રેશર), G-V (ગેલ્યુસેક-વોલ્યુમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A (વિશિષ્ટ ઉષ્મા) ને વિભાગ B (સંજ્ઞા) સાથે જોડો:\n(1) અચળ દબાણે મોલર વિશિષ્ટ ઉષ્મા\n(2) અચળ કદ મોલર વિશિષ્ટ ઉષ્મા\n(3) વિશિષ્ટ ઉષ્મા ગુણોત્તર (γ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - Cp<br>(2) - Cv<br>(3) - Cp / Cv</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p એટલે પ્રેશર (દબાણ), v એટલે વોલ્યુમ (કદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (ભૌતિક વિજ્ઞાની) ને વિભાગ B (શોધ/નિયમ) સાથે જોડો:\n(1) જે. પી. જૂલ\n(2) એન્ડર્સ સેલ્સિયસ\n(3) લોર્ડ કેલ્વિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉષ્માનો યાંત્રિક તુલ્યાંક<br>(2) - સેલ્સિયસ માપક્રમ<br>(3) - નિરપેક્ષ તાપમાન માપક્રમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે! જૂલ-કાર્ય, સેલ્સિયસ-ડિગ્રી, કેલ્વિન-K.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A (ઉષ્મીય અવરોધ Rₜ) ને વિભાગ B (સૂત્ર) સાથે જોડો:\n(1) Rₜ (ઉષ્મીય અવરોધ)\n(2) H (ઉષ્મા પ્રવાહ)\n(3) k (ઉષ્મા વાહકતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - L / (kA)<br>(2) - ΔT / Rₜ<br>(3) - H L / (A ΔT)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓહ્મના નિયમ જેવું જ: V=IR ને બદલે ΔT = H Rₜ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A (ઉષ્મા વહન) ને વિભાગ B (એકમ) સાથે જોડો:\n(1) ઉષ્મા પ્રવાહ (H)\n(2) તાપમાન પ્રચલન (Temperature Gradient)\n(3) સ્ટીફન અચળાંક (σ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - Watt (J/s)<br>(2) - K/m<br>(3) - W m⁻² K⁻⁴</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રચલન એટલે અંતર સાથે બદલાવ (K/m). ઉષ્મા પ્રવાહ એટલે પાવર (Watt).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A (ગ્રીનહાઉસ વાયુઓ) ને વિભાગ B (ઉદાહરણ) સાથે જોડો:\n(1) મુખ્ય ગ્રીનહાઉસ વાયુ\n(2) અન્ય ગ્રીનહાઉસ વાયુ\n(3) રક્ષણાત્મક પડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - CO₂ (કાર્બન ડાયોક્સાઈડ)<br>(2) - CH₄ (મિથેન)<br>(3) - O₃ (ઓઝોન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO₂ ગરમી પકડે, O₃ પારજાંબલી કિરણોથી બચાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A (રેખીય પ્રસરણના ઉદાહરણ) ને વિભાગ B (કારણ) સાથે જોડો:\n(1) રેલ્વેના બે પાટા વચ્ચે જગ્યા\n(2) કાચના ગ્લાસમાં ગરમ પાણી નાખતા તે તૂટી જાય\n(3) લોખંડના પૈડા પર વલય ચઢાવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉનાળામાં થતું રેખીય પ્રસરણ<br>(2) - અસમાન ઉષ્મીય પ્રસરણ<br>(3) - ગરમ કરી પ્રસરણ બાદ ઠંડુ પાડી સંકોચન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી = પ્રસરણ (Expansion), ઠંડી = સંકોચન (Contraction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A (થર્મોમીટરના પ્રકાર) ને વિભાગ B (વપરાતા ગુણધર્મ) સાથે જોડો:\n(1) પ્રવાહી થર્મોમીટર\n(2) વાયુ થર્મોમીટર\n(3) પ્લેટિનમ રેઝિસ્ટન્સ થર્મોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - કદનું પ્રસરણ<br>(2) - દબાણમાં ફેરફાર<br>(3) - અવરોધમાં ફેરફાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહી-કદ, વાયુ-દબાણ, પ્લેટિનમ-અવરોધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A (પદાર્થની અવસ્થા) ને વિભાગ B (અણુઓની સ્થિતિ) સાથે જોડો:\n(1) ઘન (Solid)\n(2) પ્રવાહી (Liquid)\n(3) વાયુ (Gas)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ચોક્કસ સ્થાનની આસપાસ દોલનો<br>(2) - અણુઓ ગતિ કરી શકે પણ સંપર્કમાં રહે<br>(3) - અણુઓ અસ્તવ્યસ્ત ગતિ કરવા મુક્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન-કડક, પ્રવાહી-વહેતા, વાયુ-ઉડતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A (મૂલ્યો) ને વિભાગ B (યોગ્ય નામ) સાથે જોડો:\n(1) 5.67 × 10⁻⁸ W m⁻² K⁻⁴\n(2) 2.898 × 10⁻³ m K\n(3) 8.314 J mol⁻¹ K⁻¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - સ્ટીફન-બોલ્ટઝમેન અચળાંક (σ)<br>(2) - વિનનો અચળાંક (b)<br>(3) - સાર્વત્રિક વાયુ અચળાંક (R)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: σ = 5,6,7,8 (Trick: 5.67e-8), R = 8.314 (Common).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A (ઉષ્મીય ઘટના) ને વિભાગ B (ઉદાહરણ) સાથે જોડો:\n(1) કુદરતી ઉષ્મા નયન\n(2) બળજબરીપૂર્વકનું ઉષ્મા નયન (Forced)\n(3) ઉષ્મા વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - દરિયાઈ લહેર અને જમીનની લહેર<br>(2) - પંપ કે ફેન દ્વારા હવા ફેંકવી<br>(3) - ધાતુના સળિયાના એક છેડાને ગરમ કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી = આપમેળે (ઘનતા તફાવત), ફોર્સ્ડ = મશીનથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A (બાષ્પીભવનના પ્રકાર) ને વિભાગ B (લક્ષણ) સાથે જોડો:\n(1) બાષ્પીભવન (Evaporation)\n(2) ઉત્કલન (Boiling)\n(3) ઉર્ધ્વપાતન (Sublimation)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - માત્ર સપાટી પરથી થતી પ્રક્રિયા<br>(2) - સમગ્ર જથ્થામાંથી થતી પ્રક્રિયા<br>(3) - ઘન પદાર્થનું સીધું જ બાષ્પમાં રૂપાંતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાષ્પીભવન શાંત છે (સપાટી), ઉત્કલન તોફાની છે (આખો જથ્થો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A (ઉષ્મા ધારિતા) ને વિભાગ B (સૂત્ર) સાથે જોડો:\n(1) ઉષ્મા ધારિતા (S)\n(2) વિશિષ્ટ ઉષ્મા (s)\n(3) મોલર વિશિષ્ટ ઉષ્મા (C)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ΔQ / ΔT<br>(2) - (1/m) (ΔQ / ΔT)<br>(3) - (1/μ) (ΔQ / ΔT)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S = ms, C = Mc. (m = દળ, μ = મોલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A (પદાર્થ) ને વિભાગ B (ઉષ્મા વાહકતા k ના અંદાજિત મૂલ્ય) સાથે જોડો:\n(1) ચાંદી (Silver)\n(2) કાચ (Glass)\n(3) લાકડું (Wood)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઊંચી વાહકતા (~406 W/mK)<br>(2) - ઓછી વાહકતા (~0.8 W/mK)<br>(3) - અત્યંત ઓછી (અવાહક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ = બેસ્ટ કન્ડક્ટર, લાકડું = બેસ્ટ ઇન્સ્યુલેટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A (અચળાંકો વચ્ચેના ગુણોત્તર) ને વિભાગ B (નામ) સાથે જોડો:\n(1) R / Nₐ\n(2) Cp / Cv\n(3) ΔL / (L ΔT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - બોલ્ટઝમેન અચળાંક (k_B)<br>(2) - એડિઆબેટિક ઇન્ડેક્સ (γ)<br>(3) - રેખીય પ્રસરણાંક (α)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R/Nₐ = k_B (વાયુનો અચળાંક / એવોગાડ્રો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A (વિકિરણ પાવર) ને વિભાગ B (પરિબળો) સાથે જોડો:\n(1) પદાર્થનું તાપમાન (T)\n(2) પદાર્થનું ક્ષેત્રફળ (A)\n(3) પદાર્થની ઉત્સર્જકતા (e)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - T⁴ ના સમપ્રમાણમાં<br>(2) - A ના સમપ્રમાણમાં<br>(3) - e ના સમપ્રમાણમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીફનનું સૂત્ર P = eσAT⁴ યાદ રાખો, બધા જ 'સીધા' (સમપ્રમાણ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A (તાપમાન ફેરફાર) ને વિભાગ B (અવસ્થા) સાથે જોડો:\n(1) ગુપ્ત ઉષ્મા શોષાય ત્યારે\n(2) વિશિષ્ટ ઉષ્મા શોષાય ત્યારે\n(3) ઠારણ બિંદુએ પાણી ઠરે ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - તાપમાન અચળ રહે છે<br>(2) - તાપમાનમાં ફેરફાર થાય છે<br>(3) - ઉષ્મા ગુમાવે પણ તાપમાન 0°C રહે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગુપ્ત' એટલે છુપાયેલી, જે તાપમાન બદલ્યા વગર અવસ્થા બદલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A (ઘટના) ને વિભાગ B (વૈજ્ઞાનિક સમજૂતી) સાથે જોડો:\n(1) ઉનાળામાં સફેદ કપડાં\n(2) શિયાળામાં ઉનના કપડાં\n(3) રસોઈના વાસણોના હાથા લાકડાના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉષ્માનું ઓછું શોષણ (પરાવર્તન વધારે)<br>(2) - હવાનો સ્તર ઉષ્માનો અવાહક છે<br>(3) - લાકડું ઉષ્માનું અવાહક છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફેદ = રિફ્લેક્ટર, ઉન = ઇન્સ્યુલેટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A (કેલરીમેટ્રી) ને વિભાગ B (મુખ્ય સિદ્ધાંત) સાથે જોડો:\n(1) ગરમ પદાર્થ દ્વારા ગુમાવેલી ઉષ્મા\n(2) ઉષ્માનું પ્રસરણ ક્યાં સુધી થાય?\n(3) કેલરીમીટર સામાન્ય રીતે શેનું બનેલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઠંડા પદાર્થ દ્વારા મેળવેલી ઉષ્મા<br>(2) - તાપમાન સમાન થાય ત્યાં સુધી<br>(3) - તાંબુ (Copper)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળવેલી ઉષ્મા = ગુમાવેલી ઉષ્મા (ઉર્જા સંરક્ષણનો નિયમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A (એકમ પરિવર્તન) ને વિભાગ B (મૂલ્ય) સાથે જોડો:\n(1) 0 K\n(2) 373.15 K\n(3) -40°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - -273.15°C<br>(2) - 100°C<br>(3) - -40°F</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -40 એવું જાદુઈ તાપમાન છે જ્યાં C અને F બંને સરખા થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A (ગ્રાફના ઢાળ) ને વિભાગ B (માહિતી) સાથે જોડો:\n(1) ઠંડુ પડવાના દર વિરુદ્ધ ΔT નો આલેખ\n(2) તાપમાન વિરુદ્ધ સમયનો આલેખ\n(3) દબાણ વિરુદ્ધ તાપમાન (P-T) આલેખનો ઢાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - સુરેખા (ન્યૂટનનો નિયમ)<br>(2) - અચળ હોતો નથી (વક્ર)<br>(3) - અચળ કદે nR/V</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટનનો શીતન નિયમ કહે છે કે દર ΔT ના સમપ્રમાણમાં છે, એટલે આલેખ સુરેખા જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A (સંજ્ઞા) ને વિભાગ B (ભૌતિક અર્થ) સાથે જોડો:\n(1) ΔQ\n(2) m\n(3) ΔT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - આપવી પડતી ઉષ્માનો જથ્થો<br>(2) - પદાર્થનું દળ<br>(3) - તાપમાનમાં થતો ફેરફાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Δ (ડેલ્ટા) હંમેશા 'ફેરફાર' બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A (અસંગત પ્રસરણ) ને વિભાગ B (અસર) સાથે જોડો:\n(1) તળાવમાં માછલીઓનું જીવિત રહેવું\n(2) શિયાળામાં નળની પાઈપનું ફાટી જવું\n(3) બરફનું પાણી પર તરવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - તળિયે 4°C તાપમાન જળવાય<br>(2) - ઠરતી વખતે પાણીનું કદ વધે<br>(3) - બરફની ઘનતા પાણી કરતા ઓછી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 0°C એ બરફ બને ત્યારે ફૂલે (કદ વધે), એટલે પાઈપ ફાટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A (નિરપેક્ષ શૂન્ય તાપમાન) ને વિભાગ B (લાક્ષણિકતા) સાથે જોડો:\n(1) 0 K તાપમાને વાયુનું દબાણ\n(2) 0 K તાપમાને વાયુનું કદ (આદર્શ)\n(3) 0 K તાપમાને અણુઓની ગતિશક્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - શૂન્ય થાય<br>(2) - શૂન્ય થાય<br>(3) - લઘુત્તમ/શૂન્ય થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K એટલે બધું 'Freeze' - ગતિ પણ બંધ, દબાણ પણ ગાયબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A (વાયુ અચળાંક R) ને વિભાગ B (એકમ) સાથે જોડો:\n(1) SI એકમમાં R\n(2) કેલરીમાં R (અંદાજે)\n(3) લિટર-એટમોસ્ફિયરમાં R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - 8.314 J/mol K<br>(2) - 1.987 cal/mol K<br>(3) - 0.0821 L atm/mol K</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેલરીમાં R ને લગભગ 2 ગણી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A (પદાર્થની ઉષ્મીય અવસ્થા) ને વિભાગ B (માપન સાધન) સાથે જોડો:\n(1) અત્યંત ઊંચું તાપમાન (તારાનું)\n(2) મધ્યમ તાપમાન (માનવ શરીર)\n(3) અતિ નીચું તાપમાન (ક્રાયોજેનિક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - પાયરોમીટર (વિકિરણ આધારિત)<br>(2) - ક્લિનિકલ થર્મોમીટર<br>(3) - ચુંબકીય થર્મોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યનું તાપમાન માપવા ડોક્ટરનું થર્મોમીટર ન વપરાય, પાયરોમીટર જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A (રેખીય પ્રસરણાંક α ના એકમ) ને વિભાગ B (વિવિધ પદ્ધતિ) સાથે જોડો:\n(1) સેલ્સિયસમાં\n(2) કેલ્વિનમાં\n(3) ફેરનહીટમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (°C)⁻¹<br>(2) - K⁻¹<br>(3) - (°F)⁻¹</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: α = (ΔL/L) / ΔT. એટલે કે (1 / તાપમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A (ઉષ્મા અને કાર્ય) ને વિભાગ B (વ્યાખ્યા) સાથે જોડો:\n(1) ઉષ્મા\n(2) તાપમાન\n(3) આંતરિક ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - વહન પામતી ઉર્જા<br>(2) - ઉષ્મીય અવસ્થાની તીવ્રતા<br>(3) - અણુઓની ગતિજ અને સ્થિતિજ ઉર્જાનો સરવાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન એટલે 'કેટલું ગરમ', ઉષ્મા એટલે 'વહેતી ઉર્જા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A (સ્ટીફનનો નિયમ) ને વિભાગ B (સંજ્ઞાના અર્થ) સાથે જોડો:\n(1) σ\n(2) e\n(3) A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - સ્ટીફન-બોલ્ટઝમેન અચળાંક<br>(2) - ઉત્સર્જકતા (Emissivity)<br>(3) - પદાર્થની સપાટીનું ક્ષેત્રફળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ કૃષ્ણ પદાર્થ માટે e = 1 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A (ઉષ્મીય સંતુલન) ને વિભાગ B (શરત) સાથે જોડો:\n(1) બે પદાર્થો સંપર્કમાં હોય ત્યારે\n(2) તાપમાન સમાન હોય ત્યારે\n(3) અવાહક દીવાલ હોય ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉષ્મા વધુ થી ઓછા તાપમાન તરફ વહે<br>(2) - ઉષ્મીય સંતુલન સ્થપાય (ઉષ્મા વહન અટકે)<br>(3) - ઉષ્માની આપ-લે ન થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે 'બધું સરખું', લેવડ-દેવડ બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A (પાણીની અવસ્થા) ને વિભાગ B (ગુપ્ત ઉષ્મા L) સાથે જોડો:\n(1) બરફની ગલન ગુપ્ત ઉષ્મા (L_f)\n(2) પાણીની બાષ્પાયન ગુપ્ત ઉષ્મા (L_v)\n(3) 1 cal/g ને J/kg માં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - 80 cal/g (3.33 × 10⁵ J/kg)<br>(2) - 540 cal/g (22.6 × 10⁵ J/kg)<br>(3) - 4186 J/kg</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાષ્પ બનવામાં વધુ ઉર્જા જોઈએ (540 > 80).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A (પદાર્થના પ્રકાર) ને વિભાગ B (પ્રસરણાંક) સાથે જોડો:\n(1) દ્રઢ પદાર્થ\n(2) આદર્શ વાયુ\n(3) પ્રવાહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - અત્યંત ઓછો α<br>(2) - γ = 1/T (ખૂબ વધારે)<br>(3) - માત્ર કદ પ્રસરણાંક (γ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુઓ ગરમી મળતા સૌથી વધુ 'ફૂલે' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A (નિયમો) ને વિભાગ B (ગ્રાફનો આકાર) સાથે જોડો:\n(1) P વિરુદ્ધ V (બોઇલ)\n(2) V વિરુદ્ધ T (ચાર્લ્સ)\n(3) P વિરુદ્ધ T (ગેલ્યુસેક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - અતિવલય (Hyperbola)<br>(2) - ઉગમબિંદુમાંથી પસાર થતી સુરેખા<br>(3) - સુરેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત પ્રમાણ હોય તો વક્ર (અતિવલય), સમપ્રમાણ હોય તો સીધી લાઈન (સુરેખા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A (સૂત્ર) ને વિભાગ B (ભૌતિક રાશિ) સાથે જોડો:\n(1) dQ/dt\n(2) msΔT\n(3) mL",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉષ્મા પ્રવાહ દર (પાવર)<br>(2) - તાપમાન બદલવા જરૂરી ઉષ્મા<br>(3) - અવસ્થા બદલવા જરૂરી ઉષ્મા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' એટલે 'Latent' (અવસ્થા), 's' એટલે 'Specific' (તાપમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A (પદાર્થ) ને વિભાગ B (ઉત્સર્જકતા e ના મૂલ્યો) સાથે જોડો:\n(1) આદર્શ કૃષ્ણ પદાર્થ\n(2) સામાન્ય પદાર્થ\n(3) સંપૂર્ણ પરાવર્તક પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - e = 1<br>(2) - 0 < e < 1<br>(3) - e = 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળો પદાર્થ (Black body) બધું જ શોષે અને બધું જ ઉત્સર્જિત કરે એટલે 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A (ઉષ્મીય પ્રસરણ) ને વિભાગ B (પ્રાયોગિક ઉપયોગ) સાથે જોડો:\n(1) દ્વિ-ધાતુ પટ્ટી (Bimetallic strip)\n(2) પાયરેક્સ કાચ\n(3) લોખંડના સળિયામાં વચ્ચે ગેપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - થર્મોસ્ટેટ (સ્વિચ તરીકે)<br>(2) - પ્રયોગશાળાના સાધનો (ઓછો α)<br>(3) - થર્મલ સ્ટ્રેસ નિવારવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અલગ ધાતુ હોય તો અલગ પ્રસરણ થાય અને પટ્ટી વળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A (સીમા રેખાઓ) ને વિભાગ B (અર્થ) સાથે જોડો:\n(1) આડિયાબેટિક દીવાલ\n(2) ડાયાથર્મિક દીવાલ\n(3) અવાહક પડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉષ્માની આપ-લે ન થવા દે<br>(2) - ઉષ્માની આપ-લે થવા દે<br>(3) - ઉષ્માના વ્યયને રોકે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયાથર્મિક = 'રસ્તો ખુલ્લો', આડિયાબેટિક = 'રસ્તો બંધ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A (પરિભાષા) ને વિભાગ B (એકમ) સાથે જોડો:\n(1) એન્ટ્રોપી\n(2) તાપમાન\n(3) ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - J/K<br>(2) - Kelvin (K)<br>(3) - Joule (J)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ટ્રોપી (ΔS) = ΔQ / T, એટલે J / K.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A (વિનનો નિયમ) ને વિભાગ B (ઉપયોગ) સાથે જોડો:\n(1) λ_m શોધવા\n(2) T (તાપમાન) શોધવા\n(3) રંગ પરથી તાપમાન નક્કી કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - મહત્તમ વિકિરણ ઉર્જાની તરંગલંબાઈ<br>(2) - તારાઓનું સપાટીનું તાપમાન<br>(3) - લાલ ચોળ લોખંડનું તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનનો નિયમ 'ખૂબ ગરમ' વસ્તુઓ માટે વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A (તાપમાનનો તફાવત ΔT) ને વિભાગ B (વિવિધ સ્કેલ વચ્ચેનો તફાવત) સાથે જોડો:\n(1) ΔT = 1°C\n(2) ΔT = 1 K\n(3) ΔT = 1.8°F",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - 1.8°F ના ફેરફાર જેટલું<br>(2) - 1°C ના ફેરફાર જેટલું<br>(3) - 1°C ના ફેરફાર જેટલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ડિગ્રી સેલ્સિયસનો 'ફેરફાર' અને 1 કેલ્વિનનો 'ફેરફાર' હંમેશા સમાન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A (સંપૂર્ણ કૃષ્ણ પદાર્થ) ને વિભાગ B (ઉદાહરણ) સાથે જોડો:\n(1) ફેરીનો કૃષ્ણ પદાર્થ\n(2) સૂર્ય\n(3) પ્લેટિનમ બ્લેક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - પોલાણ (Hollow sphere) માં નાનું છિદ્ર<br>(2) - કુદરતી કૃષ્ણ પદાર્થની નજીક<br>(3) - કૃષ્ણ પદાર્થ તરીકે લેવાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ કૃષ્ણ પદાર્થ એટલે જે બધી જ તરંગલંબાઈને હજમ કરી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A (ઉષ્મા નયન) ને વિભાગ B (પ્રકાર) સાથે જોડો:\n(1) દરિયાઈ લહેર (Sea breeze)\n(2) જમીનની લહેર (Land breeze)\n(3) વેપારી પવનો (Trade winds)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - દિવસ દરમિયાન (દરિયાથી જમીન તરફ)<br>(2) - રાત્રિ દરમિયાન (જમીનથી દરિયા તરફ)<br>(3) - પૃથ્વીના ઉષ્મા નયનનું ઉદાહરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન હંમેશા 'ઠંડા' થી 'ગરમ' તરફ વહે (કારણ કે ગરમ હવા ઉપર જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A (આદર્શ વાયુ અવસ્થા સમીકરણ) ને વિભાગ B (નામ) સાથે જોડો:\n(1) P\n(2) V\n(3) T",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - દબાણ (Pressure)<br>(2) - કદ (Volume)<br>(3) - નિરપેક્ષ તાપમાન (Absolute Temp)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PV = nRT માં T હંમેશા કેલ્વિન (K) માં જ લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A (ઉષ્મા વાહકતા k) ને વિભાગ B (પરિબળ) સાથે જોડો:\n(1) k નું મૂલ્ય શેના પર આધારિત છે?\n(2) k નું મૂલ્ય શેના પર આધારિત નથી?\n(3) હવાની ઉષ્મા વાહકતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - દ્રવ્યના પ્રકાર પર<br>(2) - આકાર કે પરિમાણ પર<br>(3) - અત્યંત ઓછી (ઉત્તમ અવાહક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k એ પદાર્થનો 'સ્વભાવ' (ગુણધર્મ) છે, એ લંબાઈ કે ક્ષેત્રફળ બદલાતા ન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A (તાપમાન ફેરફાર) ને વિભાગ B (ઉષ્માના પ્રકાર) સાથે જોડો:\n(1) તાપમાન વધે ત્યારે\n(2) તાપમાન ઘટે ત્યારે\n(3) તાપમાન અચળ રહી અવસ્થા બદલે ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - સંવેદનશીલ ઉષ્મા (Sensible heat)<br>(2) - મુક્ત થતી ઉષ્મા<br>(3) - ગુપ્ત ઉષ્મા (Latent heat)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન દેખાય તો સેન્સિબલ, ન દેખાય તો લેટન્ટ (ગુપ્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A (ન્યૂટનનો શીતન નિયમ) ને વિભાગ B (મર્યાદા) સાથે જોડો:\n(1) તાપમાનનો તફાવત\n(2) શીતનની પ્રક્રિયા\n(3) આસપાસનું તાપમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઓછો હોવો જોઈએ (ΔT < 40°C)<br>(2) - માત્ર વિકિરણ દ્વારા ન હોવી જોઈએ<br>(3) - અચળ રહેવું જોઈએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટનનો નિયમ 'થોડા' ગરમ પદાર્થો માટે જ સાચો પડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A (ગલનબિંદુ પર દબાણની અસર) ને વિભાગ B (પરિણામ) સાથે જોડો:\n(1) બરફ (દબાણ વધારતા)\n(2) મીણ (દબાણ વધારતા)\n(3) પુનઃગલન (Regelation)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ગલનબિંદુ ઘટે છે<br>(2) - ગલનબિંદુ વધે છે<br>(3) - દબાણ હટાવતા ફરીથી ઠરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ અપવાદ છે! દબાણ વધે તો એ વહેલું ઓગળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A (ઉષ્મા નયન) ને વિભાગ B (બળ) સાથે જોડો:\n(1) કુદરતી નયન\n(2) કૃત્રિમ નયન\n(3) શૂન્યાવકાશમાં નયન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - ઉત્પ્લાવક બળ (Buoyant force)<br>(2) - બાહ્ય બળ (પંપ/ફેન)<br>(3) - શક્ય નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નયન એટલે 'તરલ' (પ્રવાહી/વાયુ) નું વહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A (ઉષ્મા સંચાલન) ને વિભાગ B (અવરોધ) સાથે જોડો:\n(1) શ્રેણી જોડાણ\n(2) સમાંતર જોડાણ\n(3) ઉષ્મા અવરોધનો SI એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - R = R₁ + R₂<br>(2) - 1/R = 1/R₁ + 1/R₂<br>(3) - K/W</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રિક અવરોધ જેવા જ નિયમો અહી લાગુ પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A (તરંગલંબાઈ λ_m) ને વિભાગ B (તાપમાન T) સાથે જોડો:\n(1) સૂર્ય (પીળો રંગ)\n(2) લાલ તારો\n(3) બ્લુ તારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - મધ્યમ તાપમાન (~6000 K)<br>(2) - ઓછું તાપમાન<br>(3) - ઊંચું તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લુ એટલે વધુ ગરમ, લાલ એટલે ઓછું ગરમ (વિનનો નિયમ: λ ∝ 1/T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A (અચળ) ને વિભાગ B (કિંમત) સાથે જોડો:\n(1) પાણીનું ઉત્કલન બિંદુ (K)\n(2) પાણીનું ઠારણ બિંદુ (F)\n(3) પાણીની વિશિષ્ટ ઉષ્મા (cal/g °C)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - 373.15 K<br>(2) - 32°F<br>(3) - 1.0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની વિશિષ્ટ ઉષ્મા cal માં 1 અને Joule માં 4186.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A (તાપમાન પ્રચલન) ને વિભાગ B (સૂત્ર) સાથે જોડો:\n(1) તાપમાન પ્રચલન\n(2) ઉષ્મા પ્રવાહ ઘનતા\n(3) સ્થાયી ઉષ્મા અવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - (T₁ - T₂) / L<br>(2) - H / A<br>(3) - dQ/dt = અચળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રચલન' એટલે લંબાઈ વડે ભાગાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A (થર્મોમીટ્રી) ને વિભાગ B (બિંદુઓ) સાથે જોડો:\n(1) લોઅર ફિક્સ્ડ પોઈન્ટ (LFP)\n(2) અપર ફિક્સ્ડ પોઈન્ટ (UFP)\n(3) મૂળભૂત તફાવત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - બરફનું બિંદુ (Ice point)<br>(2) - વરાળ બિંદુ (Steam point)<br>(3) - UFP - LFP</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડુ બિંદુ નીચે (Lower), ગરમ બિંદુ ઉપર (Upper).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A (ભૌતિક રાશિ) ને વિભાગ B (પારિમાણિક સૂત્ર) સાથે જોડો:\n(1) તાપમાન\n(2) ઉષ્મા (ઉર્જા)\n(3) ઉષ્મા ધારિતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - [K¹]<br>(2) - [M¹ L² T⁻²]<br>(3) - [M¹ L² T⁻² K⁻¹]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા ગમે તે હોય (કાર્ય, ઉષ્મા), એનું પારિમાણિક સૂત્ર 122 (M1 L2 T-2) જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A (ઉષ્મીય સંતુલન) ને વિભાગ B (કાયદો) સાથે જોડો:\n(1) શૂન્ય ક્રમનો નિયમ\n(2) પ્રથમ નિયમ\n(3) બીજો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - તાપમાનની વ્યાખ્યા આપે છે<br>(2) - ઉર્જા સંરક્ષણ (ΔQ = ΔU + ΔW)<br>(3) - ઉષ્મા પ્રસરણની દિશા નક્કી કરે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય ક્રમનો નિયમ થર્મોમીટરનો પાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A (માધ્યમ) ને વિભાગ B (ઉષ્મા પ્રસરણ વેગ) સાથે જોડો:\n(1) ઉષ્મા વહન\n(2) ઉષ્મા નયન\n(3) ઉષ્મા વિકિરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>(1) - સૌથી ધીમી પ્રક્રિયા<br>(2) - મધ્યમ ગતિની પ્રક્રિયા<br>(3) - સૌથી ઝડપી (પ્રકાશની ઝડપે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકિરણ એટલે 'સુપરફાસ્ટ' - સીધું સૂર્યથી પૃથ્વી પર 8 મિનિટમાં!</p></div>"
+    }
+  ]
+}

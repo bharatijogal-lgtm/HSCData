@@ -3613,3 +3613,361 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "થર્મોડાયનેમિક્સ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) થર્મોડાયનેમિક્સનો શૂન્ય ક્રમનો નિયમ (2) થર્મોડાયનેમિક્સનો પ્રથમ નિયમ --- વિભાગ B: (a) ઉર્જા સંરક્ષણનો નિયમ (b) તાપમાનની વ્યાખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 (શૂન્ય) એટલે તાપમાનનું 'શરૂઆત' બિંદુ, અને 1 (પ્રથમ) એટલે ઉર્જા 'એક' જ રહે (સંરક્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) સમતાપી પ્રક્રિયા (2) સમોષ્મી પ્રક્રિયા --- વિભાગ B: (a) તાપમાન અચળ (b) ઉષ્માનો વિનિમય શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ-તાપી' એટલે સમાન તાપમાન, 'સમોષ્મી' એટલે સમાન (શૂન્ય) ઉષ્મા (Heat).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) સમકદ પ્રક્રિયા (2) સમદાબ પ્રક્રિયા --- વિભાગ B: (a) દબાણ અચળ (b) કદ અચળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ તેવા ગુણ - સમકદ (કદ સમાન), સમદાબ (દાબ એટલે દબાણ સમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) ઉષ્મા એન્જિન (2) રેફ્રિજરેટર --- વિભાગ B: (a) ઉષ્માનું કાર્યમાં રૂપાંતર (b) કાર્ય દ્વારા ઉષ્માનું વહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિન ગાડી ચલાવે (કાર્ય કરે), ફ્રીજ ઠંડુ કરવા માટે વીજળી (કાર્ય) ખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) આંતરિક ઉર્જા (2) કાર્ય --- વિભાગ B: (a) અવસ્થા ચલ (b) પથ ચલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આંતરિક' બાબત સ્થિતિ પર આધાર રાખે, પણ 'કાર્ય' કયા રસ્તે (Path) કર્યું તેના પર આધાર રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) ઉષ્મા ક્ષમતા (2) વિશિષ્ટ ઉષ્મા ક્ષમતા --- વિભાગ B: (a) $S = \\Delta Q / \\Delta T$ (b) $s = \\Delta Q / (m \\Delta T)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિશિષ્ટ' આવે એટલે છેદમાં દળ (m) આવે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) મોલર વિશિષ્ટ ઉષ્મા (અચળ કદ) (2) મોલર વિશિષ્ટ ઉષ્મા (અચળ દબાણ) --- વિભાગ B: (a) $C_p$ (b) $C_v$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = Volume (કદ), p = Pressure (દબાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) મેયરનું સમીકરણ (2) એડિયાબેટિક ઇન્ડેક્સ --- વિભાગ B: (a) $\\gamma = C_p / C_v$ (b) $C_p - C_v = R$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મેયર' ની બાદબાકી R થાય, અને 'ગામા' નો ભાગાકાર રેશિયો આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) ક્લોશિયસ વિધાન (2) કેલ્વિન-પ્લાન્ક વિધાન --- વિભાગ B: (a) રેફ્રિજરેટર સાથે સંબંધિત (b) હીટ એન્જિન સાથે સંબંધિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોશિયસ = ઠંડુ (Cold/Fridge), કેલ્વિન = ગરમ (Heat Engine).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) કાર્નોટ એન્જિનની કાર્યક્ષમતા (2) રેફ્રિજરેટરનો પરફોર્મન્સ ગુણાંક --- વિભાગ B: (a) $\\eta = 1 - T_2/T_1$ (b) $\\alpha = T_2 / (T_1 - T_2)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્યક્ષમતા ($\\eta$) હંમેશા 1 કરતા ઓછી હોય (1 માંથી બાદબાકી), આલ્ફા ($\\alpha$) ગમે તે હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) વિસ્તરણમાં કાર્ય (2) સંકોચનમાં કાર્ય --- વિભાગ B: (a) ધન (+) (b) ઋણ (-)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ વધે (વિસ્તરણ) તો કામ પોઝિટિવ, કદ ઘટે (સંકોચન) તો કામ નેગેટિવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) તંત્ર દ્વારા શોષાયેલી ઉષ્મા (2) તંત્ર દ્વારા ગુમાવાયેલી ઉષ્મા --- વિભાગ B: (a) ધન (b) ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર આવે તો (+) એટલે કે ધન, બહાર જાય તો (-) એટલે કે ઋણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) સઘન ચલ (Intensive) (2) વિસ્તૃત ચલ (Extensive) --- વિભાગ B: (a) દળ પર આધારિત (b) દળ પર આધારિત નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સઘન' (Independent) - દળથી સ્વતંત્ર. 'વિસ્તૃત' (Extensive) - દળ પર વિસ્તરેલું (આધારિત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) તાપમાન (2) કદ --- વિભાગ B: (a) સઘન ચલ (b) વિસ્તૃત ચલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લાસનું પાણી અડધું કરો તોય તાપમાન સરખું રહે (સઘન), પણ કદ અડધું થઈ જાય (વિસ્તૃત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) દબાણ (2) આંતરિક ઉર્જા --- વિભાગ B: (a) સઘન ચલ (b) વિસ્તૃત ચલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું સિલિન્ડર હોય કે અડધું, દબાણ સરખું રહે. પણ ઉર્જા દળ સાથે વહેંચાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) પ્રતિવર્તી પ્રક્રિયા (2) અપ્રતિવર્તી પ્રક્રિયા --- વિભાગ B: (a) અત્યંત ધીમી પ્રક્રિયા (b) કુદરતી પ્રક્રિયાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિવર્તી (Reversible) માટે કાચબા જેવી ધીમી ગતિ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) ક્વાસી-સ્ટેટિક પ્રક્રિયા (2) ચક્રીય પ્રક્રિયા --- વિભાગ B: (a) શરૂઆત અને અંતિમ અવસ્થા સમાન (b) લગભગ સ્થિર પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્વાસી એટલે 'લગભગ', સ્ટેટિક એટલે 'સ્થિર'. ચક્રીય એટલે જ્યાંથી નીકળ્યા ત્યાં જ પાછા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) આદર્શ વાયુ સમીકરણ (2) સમોષ્મી પ્રક્રિયાનું સમીકરણ --- વિભાગ B: (a) $PV = nRT$ (b) $PV^\\gamma = \\text{Constant}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોષ્મી આવે એટલે માથે 'ગામા' ($\\gamma$) ની ચોટલી આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) સમતાપી વક્રનો ઢાળ (2) સમોષ્મી વક્રનો ઢાળ --- વિભાગ B: (a) ઓછો (b) વધારે ($\\gamma$ ગણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોષ્મી વક્ર વધુ 'ઢોળાવ' વાળો (Steeper) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) ઉષ્મા પ્રાપ્તિસ્થાન (Source) (2) ઉષ્મા ઠારણ વ્યવસ્થા (Sink) --- વિભાગ B: (a) ઊંચું તાપમાન $T_1$ (b) નીચું તાપમાન $T_2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોર્સ એટલે સૂરજ (ગરમ), સિંક એટલે ગટર/ઠંડુ (નીચું તાપમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) સમકદ પ્રક્રિયામાં કાર્ય (2) સમદાબ પ્રક્રિયામાં કાર્ય --- વિભાગ B: (a) $W = 0$ (b) $W = P(V_2 - V_1)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ ના બદલાય તો કામ 'ઝીરો'. સમદાબમાં સીધું દબાણ x કદનો ફેરફાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) મોનોએટોમિક વાયુ માટે $\\gamma$ (2) ડાયએટોમિક વાયુ માટે $\\gamma$ --- વિભાગ B: (a) $5/3 \\approx 1.67$ (b) $7/5 = 1.4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોનો (1) માટે મોટો આંકડો 1.67, ડાય (2) માટે નાનો આંકડો 1.4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) આંતરિક ઉર્જાનો ફેરફાર (ચક્રીય પ્રક્રિયા) (2) આંતરિક ઉર્જાનો ફેરફાર (સમતાપી પ્રક્રિયા) --- વિભાગ B: (a) $\\Delta U = 0$ (b) $\\Delta U = 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્રીય અને સમતાપી બંનેમાં આંતરિક ઉર્જાનો ફેરફાર લાડવો (0) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) ઉષ્મા એન્જિન દ્વારા કાર્ય (2) રેફ્રિજરેટરમાં કાર્ય --- વિભાગ B: (a) તંત્ર દ્વારા થાય (b) તંત્ર પર થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિન જાતે કામ કરે, ફ્રીજમાં કોમ્પ્રેસર વડે કામ કરવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) હીટ પંપ (2) રેફ્રિજરેટર --- વિભાગ B: (a) ઓરડો ગરમ કરવા માટે (b) વસ્તુ ઠંડી કરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીટ પંપ ગરમી પંપ કરે (ગરમ રાખે), ફ્રીજ ગરમી બહાર કાઢે (ઠંડુ રાખે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) દબાણ (P) (2) તાપમાન (T) --- વિભાગ B: (a) $N/m^2$ (b) $Kelvin (K)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ એટલે બળ/ક્ષેત્રફળ ($N/m^2$). તાપમાનનો SI એકમ તો જગજાણીતો 'કેલ્વિન' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) કાર્નોટ ચક્રનો પ્રથમ તબક્કો (2) કાર્નોટ ચક્રનો બીજો તબક્કો --- વિભાગ B: (a) સમતાપી વિસ્તરણ (b) સમોષ્મી વિસ્તરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્નોટ પહેલા વિસ્તરે (Isothermal then Adiabatic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) કાર્નોટ ચક્રનો ત્રીજો તબક્કો (2) કાર્નોટ ચક્રનો ચોથો તબક્કો --- વિભાગ B: (a) સમતાપી સંકોચન (b) સમોષ્મી સંકોચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા બે માં વિસ્તરણ, બીજા બે માં સંકોચન. ક્રમ: ઈઝો-એડિયા-ઈઝો-એડિયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) સમતાપી પ્રક્રિયા માટે $W$ (2) સમોષ્મી પ્રક્રિયા માટે $W$ --- વિભાગ B: (a) $nRT \\ln(V_2/V_1)$ (b) $[nR(T_1-T_2)] / (\\gamma - 1)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમતાપીમાં 'Log' (ln) આવે, સમોષ્મીમાં છેદમાં $(\\gamma - 1)$ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) શૂન્ય ક્રમનો નિયમ શોધનાર (2) કાર્નોટ એન્જિનનો વિચાર આપનાર --- વિભાગ B: (a) ફાઉલર (R.H. Fowler) (b) સાદી કાર્નોટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય - ફાઉલર (Zero Fowler), એન્જિન - કાર્નોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (1) ઉષ્માગતિશાસ્ત્રનો બીજો નિયમ (2) ઉષ્માગતિશાસ્ત્રનો પ્રથમ નિયમ --- વિભાગ B: (a) ઉષ્મા પ્રસરણની દિશા (b) ઉર્જા જથ્થાનું સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલો નિયમ જથ્થો (Quantity) બતાવે, બીજો નિયમ દિશા (Direction) બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (1) મુક્ત વિસ્તરણ (Free Expansion) (2) ઉત્ક્રમણીય પ્રક્રિયા --- વિભાગ B: (a) અપ્રતિવર્તી (b) આદર્શ પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચાનક થતું વિસ્તરણ પાછું ના આવે (અપ્રતિવર્તી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (1) પાણીની વિશિષ્ટ ઉષ્મા (2) બરફની ગુપ્ત ઉષ્મા --- વિભાગ B: (a) $4186 J/kg K$ (b) $3.33 \\times 10^5 J/kg$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી 4186 (લગભગ 4200) યાદ રાખવું, બરફ માટે $10^5$ નો પાવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (1) ઉષ્મા એન્જિનની કાર્યક્ષમતા $\\eta$ (2) રેફ્રિજરેટરનો COP $\\alpha$ --- વિભાગ B: (a) $W / Q_1$ (b) $Q_2 / W$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિનમાં આઉટપુટ $W$ ઉપર, ફ્રીજમાં શું ઠંડુ કર્યું ($Q_2$) તે ઉપર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (1) સમાન દબાણ (2) સમાન તાપમાન --- વિભાગ B: (a) આઇસોબેરિક (b) આઇસોથર્મલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Bar' દબાણનો એકમ છે (Isobaric). 'Thermal' તાપમાન સાથે જોડાયેલું છે (Isothermal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (1) $C_p / C_v$ (2) $C_p - C_v$ --- વિભાગ B: (a) $\\gamma$ (b) $R$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકાર 'ગામા' આપે, બાદબાકી 'R' આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (1) તંત્ર પર કાર્ય થાય (2) તંત્ર દ્વારા કાર્ય થાય --- વિભાગ B: (a) $W$ ઋણ (b) $W$ ધન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે કામ કરવું પડે તો નુકસાન (ઋણ), સિસ્ટમ કરી આપે તો ફાયદો (ધન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (1) સમોષ્મી પ્રક્રિયા (2) સમકદ પ્રક્રિયા --- વિભાગ B: (a) $dQ = 0$ (b) $dV = 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓષ્મા (Heat) $Q=0$. કદ (Volume) $V=0$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (1) વરાળની ગુપ્ત ઉષ્મા (2) બરફની ગુપ્ત ઉષ્મા --- વિભાગ B: (a) $22.6 \\times 10^5 J/kg$ (b) $3.33 \\times 10^5 J/kg$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરાળ વધુ દઝાડે કારણ કે તેની ગુપ્ત ઉષ્મા બરફ કરતા ઘણી વધારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (1) તાપમાનનો તફાવત 0 (2) ઉષ્માનો તફાવત 0 --- વિભાગ B: (a) ઉષ્મીય સંતુલન (b) સમોષ્મી સંતુલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન સમાન તો 'ઉષ્મીય સંતુલન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (1) કાર્યનો એકમ (2) એન્ટ્રોપીનો એકમ --- વિભાગ B: (a) Joule (b) J/K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ય તો ઉર્જા છે (Joule), એન્ટ્રોપી એટલે ઉષ્મા/તાપમાન (J/K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (1) આંતરિક ઉર્જા $U$ (2) ઉષ્મા $Q$ --- વિભાગ B: (a) અવસ્થા વિધેય (b) પથ વિધેય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $U$ એટલે 'You' - તમારી હાલત (અવસ્થા), $Q$ અને $W$ એટલે કામ કરવાની 'રીત' (પથ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (1) $PV$ આલેખ નીચેનું ક્ષેત્રફળ (2) $TV$ આલેખ --- વિભાગ B: (a) કાર્ય $W$ આપે (b) કોઈ સીધું ભૌતિક રાશિ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PV = Work. આ મગજમાં ફિટ કરી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (1) બળતણનું દહન (2) વાયુનું વિસ્તરણ --- વિભાગ B: (a) ઉષ્મા પ્રાપ્તિ (b) કાર્યની પ્રાપ્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દહનથી ગરમી (ઉષ્મા) મળે, વિસ્તરણથી પિસ્ટન ધકેલાય (કાર્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (1) આદર્શ વાયુની આંતરિક ઉર્જા (2) વાસ્તવિક વાયુની આંતરિક ઉર્જા --- વિભાગ B: (a) માત્ર તાપમાનનું વિધેય (b) તાપમાન અને કદનું વિધેય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ છોકરો (વાયુ) માત્ર એક જ વાત (તાપમાન) માને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (1) દઢ પદાર્થ માટે $C_v$ (2) પાણી માટે $C$ --- વિભાગ B: (a) $3R$ (b) $9R$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોલિડ માટે 3R, પાણી ($H_2O$) માટે 3 પરમાણુ x 3R = 9R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (1) ઉત્ક્રમણીય એન્જિન (2) અનુત્ક્રમણીય એન્જિન --- વિભાગ B: (a) મહત્તમ કાર્યક્ષમતા (b) ઓછી કાર્યક્ષમતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્નોટ (ઉત્ક્રમણીય) રાજા છે, તેની કાર્યક્ષમતા સૌથી વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (1) સાર્વત્રિક વાયુ નિયતાંક $R$ (2) બોલ્ટઝમેન અચળાંક $k_B$ --- વિભાગ B: (a) $8.314 J/mol K$ (b) $1.38 \\times 10^{-23} J/K$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R મોટો ભાઈ છે (8.314), $k_B$ નાનો ભાઈ છે ($10^{-23}$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (1) ઉષ્મા એન્જિનમાં $Q_1$ (2) ઉષ્મા એન્જિનમાં $Q_2$ --- વિભાગ B: (a) શોષાયેલી ઉષ્મા (b) ગુમાવેલી ઉષ્મા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 એટલે પહેલું કામ (ખોરાક/ઉષ્મા લેવી), 2 એટલે બીજું કામ (કચરો/ઉષ્મા બહાર કાઢવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (1) ઉષ્માગતિશાસ્ત્રનો શૂન્ય નિયમ (2) ઉષ્માગતિશાસ્ત્રનો બીજો નિયમ --- વિભાગ B: (a) તાપમાનની માપણી (b) એન્ટ્રોપીનો વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 થી તાપમાન માપવાનું શરૂ કરો, 2 માં અવ્યવસ્થા (Entropy) વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (1) ડાયએટોમિક (vibrational mode વગર) (2) ડાયએટોમિક (vibrational mode સાથે) --- વિભાગ B: (a) $C_v = 5/2 R$ (b) $C_v = 7/2 R$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાઈબ્રેશન આવે એટલે 2 ડિગ્રી ઓફ ફ્રીડમ વધી જાય (5 માં 2 ઉમેરો તો 7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (1) ઉષ્મા એન્જિનનો સિદ્ધાંત (2) રેફ્રિજરેટરનો સિદ્ધાંત --- વિભાગ B: (a) ઉષ્મા ગરમ થી ઠંડા તરફ (b) ઉષ્મા ઠંડા થી ગરમ તરફ (કાર્ય દ્વારા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિન ઢાળ ઉતરે (ગરમ થી ઠંડુ), ફ્રીજ ઢાળ ચઢે (ઠંડા થી ગરમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (1) અચળ દબાણે વિશિષ્ટ ઉષ્મા (2) અચળ કદે વિશિષ્ટ ઉષ્મા --- વિભાગ B: (a) $C_p$ હંમેશા મોટી (b) $C_v$ હંમેશા નાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' for Plus (વધારે), $C_p > C_v$ હંમેશા યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (1) $\\Delta Q = \\Delta U + \\Delta W$ (2) $\\Delta Q = \\Delta U$ --- વિભાગ B: (a) પ્રથમ નિયમ (સામાન્ય) (b) સમકદ પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમકદ માં $W=0$, એટલે બધી ઉષ્મા આંતરિક ઉર્જામાં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (1) સમોષ્મી પ્રક્રિયામાં $\\Delta U$ (2) સમતાપી પ્રક્રિયામાં $\\Delta Q$ --- વિભાગ B: (a) $-W$ (b) $W$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમોષ્મી માં ઉષ્મા નથી, એટલે ઉર્જા અને કાર્ય સામસામે. સમતાપીમાં $U=0$, એટલે $Q=W$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (1) ગેસ ભરેલા ફુગ્ગાનું ફૂટવું (2) ટાયરમાંથી હવા નીકળવી --- વિભાગ B: (a) સમોષ્મી પ્રક્રિયા (b) સમોષ્મી પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝડપી' ઘટનાઓ હંમેશા સમોષ્મી (Adiabatic) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (1) પાણીનું ઉત્કલન (2) બરફનું પીગળવું --- વિભાગ B: (a) સમતાપી પ્રક્રિયા (b) સમતાપી પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવસ્થા બદલાય ત્યારે તાપમાન અચળ રહે (જ્યાં સુધી બધું પીગળી કે ઉકળી ન જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (1) શૂન્ય કાર્ય (2) મહત્તમ કાર્ય --- વિભાગ B: (a) સમકદ પ્રક્રિયા (b) સમદાબ પ્રક્રિયા (આપેલ કદના ફેરફાર માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલનચલન (કદ ફેરફાર) વગર કાર્ય શૂન્ય જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (1) હીટ એન્જિનની મહત્તમ શક્ય કાર્યક્ષમતા (2) વાસ્તવિક એન્જિનની કાર્યક્ષમતા --- વિભાગ B: (a) કાર્નોટ કાર્યક્ષમતા (b) કાર્નોટ કરતા ઓછી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્નોટ એન્જિન એ 'બેન્ચમાર્ક' છે, તેનાથી ઉપર કોઈ ન જઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (1) તાપમાન $T$ (2) આંતરિક ઉર્જા $U$ --- વિભાગ B: (a) કેલ્વિન (b) જ્યુલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપમાન માપવા કેલ્વિન, ઉર્જા માપવા જ્યુલ (બહુ બેઝિક છે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (1) પર્યાવરણ (Environment) (2) અલગ કરેલું તંત્ર --- વિભાગ B: (a) તંત્ર સિવાયનું બ્રહ્માંડ (b) કોઈ ઉર્જા કે દ્રવ્યનો વિનિમય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અલગ' એટલે દુનિયાથી કપાયેલું (No Exchange).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (1) પ્રવાહીની વિશિષ્ટ ઉષ્મા (2) વાયુની વિશિષ્ટ ઉષ્મા --- વિભાગ B: (a) એક જ મૂલ્ય (b) પરિસ્થિતિ મુજબ અનંત મૂલ્યો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુ બહુ ચંચળ હોય, એટલે તેના માટે $C_p, C_v$ અલગ અલગ વ્યાખ્યાયિત કરવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (1) કાર્યનું ઉષ્મામાં રૂપાંતર (2) ઉષ્માનું કાર્યમાં સંપૂર્ણ રૂપાંતર --- વિભાગ B: (a) 100% શક્ય (b) અશક્ય (બીજા નિયમ મુજબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથ ઘસો તો બધું કાર્ય ગરમી બને, પણ ગરમીથી બધું કામ ન થાય (થોડી વેસ્ટ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (1) પિસ્ટન નીચે જાય (વિસ્તરણ) (2) પિસ્ટન ઉપર આવે (સંકોચન) --- વિભાગ B: (a) કાર્ય ધન (b) કાર્ય ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિસ્ટન ધકેલાય તો એન્જિન ચાલે (ધન), આપણે પિસ્ટન દબાવવો પડે તો (ઋણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (1) કાર્નોટ પ્રમેય (2) થર્મોડાયનેમિક તાપમાન માપક્રમ --- વિભાગ B: (a) કાર્યક્ષમતા માત્ર તાપમાન પર આધારિત (b) પદાર્થના ગુણધર્મથી સ્વતંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્નોટ એટલે 'માત્ર તાપમાનનો ખેલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (1) રેફ્રિજરેટરમાં $T_1$ (2) રેફ્રિજરેટરમાં $T_2$ --- વિભાગ B: (a) બહારનું તાપમાન (વાતાવરણ) (b) અંદરનું તાપમાન (ફ્રીઝર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $T_1$ હંમેશા મોટું (ગરમ વાતાવરણ), $T_2$ હંમેશા નાનું (ઠંડુ ફ્રીજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (1) એડિઆબેટિક દિવાલ (2) ડાયાથર્મિક દિવાલ --- વિભાગ B: (a) ઉષ્મા રોધક (b) ઉષ્મા સુવાહક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડિઆબેટિક = ઇન્સ્યુલેટર (થર્મોસ), ડાયાથર્મિક = કંડક્ટર (તાંબાનું વાસણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (1) $C_p$ (2) $C_v$ --- વિભાગ B: (a) મોલર વિશિષ્ટ ઉષ્મા (અચળ દબાણે) (b) મોલર વિશિષ્ટ ઉષ્મા (અચળ કદે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $P$ = Pressure, $V$ = Volume. સૂત્રમાં જ જવાબ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (1) ઉષ્મા એન્જિનનો ત્યાગ કરેલો ભાગ (2) ઉષ્મા એન્જિનનો મુખ્ય ભાગ --- વિભાગ B: (a) ઠારણ વ્યવસ્થા (Sink) (b) કાર્યકારી પદાર્થ (Working Substance)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વધારાનું છે તે 'સિંક' માં જાય, જે કામ કરે તે 'કાર્યકારી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (1) અચળ તાપમાને થતી પ્રક્રિયા (2) ઉષ્માના આદાનપ્રદાન વગર થતી પ્રક્રિયા --- વિભાગ B: (a) સમતાપી (b) સમોષ્મી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા ચેપ્ટરનો સાર: તાપમાન સમાન તો સમતાપી, ઉષ્મા 'લોક' તો સમોષ્મી!</p></div>"
+    }
+  ]
+}

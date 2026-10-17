@@ -2171,3 +2171,371 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ગુરુત્વાકર્ષણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: કેપ્લરના નિયમો | વિભાગ B: બીજા નામ <br> (1) પ્રથમ નિયમ <br> (2) દ્વિતીય નિયમ <br> (3) તૃતીય નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) કક્ષાઓનો નિયમ, (2) ક્ષેત્રફળનો નિયમ, (3) આવર્તકાળનો નિયમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કક્ષા-ક્ષેત્ર-આવર્ત (K-K-A) - લાઈનમાં યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: ભૌતિક રાશિ | વિભાગ B: એકમ <br> (1) ગુરુત્વાકર્ષણનો સાર્વત્રિક અચળાંક (G) <br> (2) ગુરુત્વીય પ્રવેગ (g) <br> (3) ગુરુત્વીય સ્થિતિમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) N m²/kg², (2) m/s², (3) J/kg.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G મોટો છે એટલે મોટો એકમ (N m²/kg²), g નાનો છે એટલે સાદો એકમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: વૈજ્ઞાનિક | વિભાગ B: યોગદાન <br> (1) કેપ્લર <br> (2) ન્યૂટન <br> (3) કેવેન્ડિશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ગ્રહોની ગતિના નિયમો, (2) ગુરુત્વાકર્ષણનો સાર્વત્રિક નિયમ, (3) G નું મૂલ્ય નક્કી કરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેપ્લરે નિયમ આપ્યા, ન્યૂટને સૂત્ર આપ્યું, કેવેન્ડિશે કિંમત (Value) આપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: ભૌતિક રાશિ | વિભાગ B: પારિમાણિક સૂત્ર <br> (1) G <br> (2) g <br> (3) ગુરુત્વીય સ્થિતિઊર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) [M⁻¹ L³ T⁻²], (2) [M⁰ L¹ T⁻²], (3) [M¹ L² T⁻²].</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G એટલે -132 (માઈનસ 1, 3, 2). ઊર્જા એટલે હંમેશા 122.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: પૃથ્વીની સપાટીથી અંતર | વિભાગ B: 'g' માં ફેરફાર <br> (1) ઊંચાઈ (h) સાથે <br> (2) ઊંડાઈ (d) સાથે <br> (3) કેન્દ્ર પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ઘટે, (2) ઘટે, (3) શૂન્ય થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટીથી ઉપર જાઓ કે નીચે, 'g' ને તો ખોટ જ જાય (ઘટે જ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: ગ્રહનું નામ | વિભાગ B: નિષ્ક્રમણ ઝડપ (km/s) <br> (1) પૃથ્વી <br> (2) ચંદ્ર <br> (3) ગુરુ (Jupiter)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 11.2, (2) 2.3, (3) 59.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી પરથી ભાગવું હોય તો 'બે એકડા (11.2)' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: ઉપગ્રહનો પ્રકાર | વિભાગ B: આવર્તકાળ <br> (1) ભૂ-સ્થિર ઉપગ્રહ <br> (2) ધ્રુવીય ઉપગ્રહ <br> (3) પૃથ્વીની નજીકની કક્ષાનો ઉપગ્રહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 24 કલાક, (2) 100 મિનિટ (અંદાજે), (3) 84 મિનિટ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂ-સ્થિર એટલે પૃથ્વીની સાથે 'સ્થિર' એટલે 24 કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: ભૌતિક રાશિ | વિભાગ B: સૂત્ર <br> (1) નિષ્ક્રમણ ઝડપ (vₑ) <br> (2) કક્ષીય ઝડપ (vₒ) <br> (3) ગુરુત્વીય સ્થિતિમાન (V)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) √(2gR), (2) √(gR), (3) -GM/r.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષ્ક્રમણ માટે 'બમણી' તાકાત જોઈએ એટલે √2 વધારાનો આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: ઉપગ્રહની ઊર્જા | વિભાગ B: સંબંધ <br> (1) ગતિ ઊર્જા (K) <br> (2) સ્થિતિ ઊર્જા (U) <br> (3) કુલ ઊર્જા (E)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) E જેટલી પણ ધન, (2) 2E જેટલી, (3) K જેટલી પણ ઋણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: U = 2E = -2K. સ્થિતિ ઊર્જા હંમેશા સૌથી વધુ (ઋણમાં) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: કેપ્લરનો તૃતીય નિયમ | વિભાગ B: સંબંધ <br> (1) T² વિરુદ્ધ r³ નો આલેખ <br> (2) અચળાંક Kₛ નું મૂલ્ય <br> (3) ગ્રહનું સરેરાશ અંતર r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સુરેખા, (2) 4π²/GMₛ, (3) અર્ધ-દીર્ધ અક્ષ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T² ∝ r³ એટલે કે 'ટી-ટુ, આર-થ્રી' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: પૃથ્વીનો આકાર | વિભાગ B: 'g' નું મૂલ્ય <br> (1) વિષુવવૃત્ત પર <br> (2) ધ્રુવ પ્રદેશ પર <br> (3) કેન્દ્ર પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) લઘુત્તમ, (2) મહત્તમ, (3) શૂન્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી 'ધ્રુવ' પાસે ચપટી છે, એટલે ત્યાં g મોટો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: ઉપગ્રહની ઊંચાઈ | વિભાગ B: પ્રકાર <br> (1) 35800 km <br> (2) 500 થી 800 km <br> (3) 0 km (સપાટી પર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ભૂ-સ્થિર ઉપગ્રહ, (2) ધ્રુવીય ઉપગ્રહ, (3) સૈદ્ધાંતિક કક્ષીય ઝડપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 36000 એટલે 'ભૂ-સ્થિર' નો આંકડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: ભૌતિક પરિસ્થિતિ | વિભાગ B: અસર <br> (1) લિફ્ટ મુક્ત પતન કરે <br> (2) પૃથ્વીની આસપાસ ઉપગ્રહ <br> (3) પૃથ્વીના કેન્દ્ર પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ભારહીનતા, (2) ભારહીનતા, (3) ભારહીનતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં લંબબળ (N) શૂન્ય, ત્યાં ભાર 'ઝીરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: ગુરુત્વાકર્ષણ બળ | વિભાગ B: લાક્ષણિકતા <br> (1) અંતરનો નિયમ <br> (2) માધ્યમ પર આધાર <br> (3) પ્રકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) વ્યસ્ત વર્ગનો નિયમ, (2) આધાર રાખતું નથી, (3) આકર્ષી બળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુત્વાકર્ષણ એટલે 'પ્રેમ' - હંમેશા આકર્ષણ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: રાશિ | વિભાગ B: સદિશ/અદિશ <br> (1) ગુરુત્વાકર્ષણ બળ <br> (2) ગુરુત્વીય સ્થિતિમાન <br> (3) ગુરુત્વીય ક્ષેત્રની તીવ્રતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સદિશ, (2) અદિશ, (3) સદિશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થિતિમાન' અને 'ઊર્જા' હંમેશા અદિશ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: પદાર્થનું સ્થાન | વિભાગ B: સ્થિતિ ઊર્જાનું મૂલ્ય <br> (1) અનંત અંતરે <br> (2) પૃથ્વીની સપાટી પર <br> (3) પૃથ્વીની અંદર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) શૂન્ય (મહત્તમ), (2) -GMm/Rₑ, (3) વધુ ઋણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનંત અંતરે જઈને માણસ 'ઝીરો' થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: ઉપગ્રહનો ઉપયોગ | વિભાગ B: ઉપગ્રહનો પ્રકાર <br> (1) ટેલિવિઝન પ્રસારણ <br> (2) હવામાનની આગાહી <br> (3) જાસૂસી અને રિમોટ સેન્સિંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ભૂ-સ્થિર, (2) ભૂ-સ્થિર, (3) ધ્રુવીય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: TV જોવો હોય તો ડિશ 'સ્થિર' રાખવી પડે (ભૂ-સ્થિર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: ગતિનો પ્રકાર | વિભાગ B: અચળ રહેતી રાશિ <br> (1) ક્ષેત્રીય ઝડપ (dA/dt) <br> (2) ગ્રહની કક્ષીય ગતિ <br> (3) મુક્ત પતન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) અચળ, (2) કોણીય વેગમાન સંરક્ષણ, (3) પ્રવેગ અચળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેપ્લરનો બીજો નિયમ એટલે 'L' (કોણીય વેગમાન) અચળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: પરિમાણ | વિભાગ B: ફેરફાર <br> (1) જો પૃથ્વીની ત્રિજ્યા વધે (દળ અચળ) <br> (2) જો પૃથ્વીનું દળ વધે (ત્રિજ્યા અચળ) <br> (3) જો ઊંચાઈ h વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) g ઘટે, (2) g વધે, (3) g ઘટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: g = GM/R². ઉપરવાળું વધે તો g વધે, નીચેવાળું વધે તો g ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: ભૌતિક અચળાંક | વિભાગ B: પ્રાયોગિક સાધન <br> (1) G નું મૂલ્ય <br> (2) ગ્રહોના અવલોકનો <br> (3) સૂર્યકેન્દ્રીય વાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ટોર્સન બેલેન્સ (વળ તુલા), (2) ટાઈકો બ્રાહે, (3) કોપરનિકસ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઈકોએ જોયું, કેપ્લરે ગણ્યું અને ન્યૂટને સાબિત કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: નિષ્ક્રમણ ઝડપ સૂત્ર | વિભાગ B: પદ <br> (1) vₑ = √[2GMₑ/Rₑ] <br> (2) vₑ = √[2gRₑ] <br> (3) vₑ = √[8πGρRₑ²/3]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) દળના પદમાં, (2) ગુરુત્વીય પ્રવેગના પદમાં, (3) ઘનતાના પદમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્રમાં જે દેખાય તે પદ (M દેખાય તો દળ, g દેખાય તો પ્રવેગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: પદાર્થનું વજન | વિભાગ B: સ્થળ <br> (1) પૃથ્વીના કેન્દ્ર પર <br> (2) પૃથ્વીની સપાટી પર <br> (3) અનંત અંતરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) શૂન્ય, (2) મહત્તમ (mg), (3) શૂન્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન એટલે mg, જ્યાં g શૂન્ય ત્યાં વજન પણ શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: ગુરુત્વીય સ્થિતિઊર્જા (U) | વિભાગ B: સૂત્ર <br> (1) સાદું સૂત્ર (સપાટી પર) <br> (2) h ઊંચાઈએ <br> (3) સ્થિતિઊર્જાનો તફાવત (h << R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -GMm/R, (2) -GMm/(R+h), (3) mgh.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના ફેરફાર માટે 'mgh' સુપરહિટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: ગુરુત્વાકર્ષણનો નિયમ | વિભાગ B: ગાણિતિક સ્વરૂપ <br> (1) બળ F <br> (2) પ્રવેગ g <br> (3) અચળાંક G",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) G m₁m₂/r², (2) GM/R², (3) Fr²/m₁m₂.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળમાં 'બે' દળ, પ્રવેગમાં માત્ર 'એક' (ગ્રહનું) દળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: ઉપગ્રહની કક્ષા | વિભાગ B: ઊર્જાનું ચિહ્ન <br> (1) બંધિત અવસ્થા (Bound) <br> (2) મુક્ત અવસ્થા <br> (3) નિષ્ક્રમણ વખતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ઋણ કુલ ઊર્જા, (2) ધન કુલ ઊર્જા, (3) શૂન્ય કુલ ઊર્જા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઋણ (Negative) છે તે જ બંધાયેલો (Bound) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: પૃથ્વીની સપાટીથી ઊંચાઈ h | વિભાગ B: g(h) નું આશરે સૂત્ર <br> (1) h << R <br> (2) h = R <br> (3) h = 2R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) g(1 - 2h/R), (2) g/4, (3) g/9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે (R+h)² છે, એટલે R+R = 2R નો વર્ગ 4 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: પૃથ્વીની ઊંડાઈ d | વિભાગ B: g(d) નું સૂત્ર <br> (1) સપાટી પર (d=0) <br> (2) અડધી ઊંડાઈએ (d=R/2) <br> (3) કેન્દ્ર પર (d=R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) g, (2) g/2, (3) 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંડાઈમાં 'સીધો' સંબંધ છે, અડધે જાઓ તો g અડધો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: નિષ્ક્રમણ ઝડપનો આધાર | વિભાગ B: નિર્ભરતા <br> (1) પદાર્થના દળ (m) પર <br> (2) ગ્રહના દળ (M) પર <br> (3) પ્રક્ષિપ્ત કોણ (θ) પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) આધાર રાખતી નથી, (2) આધાર રાખે છે, (3) આધાર રાખતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેંકવા વાળો ગમે તેટલો જાડો હોય, ઝડપ તો સરખી જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: અંતર r સાથે 'g' નો આલેખ | વિભાગ B: આલેખનો પ્રકાર <br> (1) r < R (અંદર) <br> (2) r = R (સપાટી) <br> (3) r > R (બહાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ઉગમબિંદુમાંથી નીકળતી રેખા, (2) મહત્તમ બિંદુ, (3) અતિવલય (1/r² મુજબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર 'સીધી' લીટી, બહાર 'વળાંક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: ઉપગ્રહની ઝડપ | વિભાગ B: અંતર સાથે સંબંધ <br> (1) કક્ષીય ઝડપ vₒ <br> (2) આવર્તકાળ T <br> (3) નિષ્ક્રમણ ઝડપ vₑ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 1/√r ના સમપ્રમાણમાં, (2) r³/² ના સમપ્રમાણમાં, (3) 1/√R ના સમપ્રમાણમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂર જાઓ તો ઝડપ ઘટે અને સમય વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: કેપ્લરના ક્ષેત્રફળના નિયમનું કારણ | વિભાગ B: સંરક્ષણનો નિયમ <br> (1) રેખીય વેગમાન <br> (2) કોણીય વેગમાન <br> (3) ઊર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ના, (2) હા, (3) ના (માત્ર બીજા નિયમ માટે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજો નિયમ = બગડો = બે અક્ષરનું 'L' (કોણીય વેગમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: પૃથ્વીના કેન્દ્રથી અંતર r | વિભાગ B: ગુરુત્વીય સ્થિતિમાન V <br> (1) r = ∞ <br> (2) r = R <br> (3) r = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 0, (2) -GM/R, (3) -1.5 GM/R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર પર સ્થિતિમાન સપાટી કરતા 1.5 ગણું (દોઢું) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: સંજ્ઞા | વિભાગ B: અર્થ <br> (1) g <br> (2) G <br> (3) g₀",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સ્થાનિક ગુરુત્વીય પ્રવેગ, (2) સાર્વત્રિક અચળાંક, (3) પૃથ્વીની સપાટી પર પ્રવેગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G એટલે 'Global' (બધે સરખો), g એટલે 'Ground' (બદલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: અંતર r | વિભાગ B: ગુરુત્વીય બળ F <br> (1) અંતર બમણું (2r) <br> (2) અંતર અડધું (r/2) <br> (3) અંતર ત્રણ ગણું (3r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) F/4, (2) 4F, (3) F/9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગ કરીને ઉલટાવી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: પૃથ્વીનું દળ M | વિભાગ B: પદાર્થનું દળ m <br> (1) 2M અને m <br> (2) M અને 2m <br> (3) 2M અને 2m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) બળ 2F, (2) બળ 2F, (3) બળ 4F.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારનો સંબંધ છે, 2 × 2 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: ઉપગ્રહની કક્ષા | વિભાગ B: ભ્રમણની દિશા <br> (1) ભૂ-સ્થિર (Geostationary) <br> (2) ધ્રુવીય (Polar) <br> (3) ચંદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પશ્ચિમથી પૂર્વ, (2) ઉત્તરથી દક્ષિણ, (3) પશ્ચિમથી પૂર્વ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધ્રુવ' એટલે ઠંડી, ઉત્તર-દક્ષિણ ઠંડા પ્રદેશ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: ઉપગ્રહની કુલ ઊર્જા E | વિભાગ B: સૂત્ર <br> (1) સપાટી પર <br> (2) r અંતરે કક્ષામાં <br> (3) નિષ્ક્રમણ વખતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) -GMm/R, (2) -GMm/2r, (3) 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કક્ષામાં ઊર્જા અડધી (-1/2) થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: Kepler's Law 3 | વિભાગ B: સાચો સંબંધ <br> (1) T² ∝ r³ <br> (2) T ∝ r³/² <br> (3) T² / r³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) હા, (2) હા, (3) અચળાંક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T-2, R-3. આ જોડી ક્યારેય ન ભૂલતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: ગ્રેવિટેશનલ ફીલ્ડ | વિભાગ B: ગુણધર્મ <br> (1) સંરક્ષી બળ <br> (2) અસંરક્ષી બળ <br> (3) મધ્યસ્થ બળ (Central force)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) હા, (2) ના, (3) હા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી બળો (ગુરુત્વ, સ્થિત વિદ્યુત) મોટાભાગે સંરક્ષી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: શૂન્ય ઊર્જાની પસંદગી | વિભાગ B: સ્થાન <br> (1) સપાટી પર <br> (2) અનંત અંતરે <br> (3) કેન્દ્ર પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ના, (2) હા (પ્રમાણિત), (3) ના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનંત (Infinity) એટલે બધી ચિંતામાંથી મુક્તિ, એટલે શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: ઉપગ્રહની ઝડપ | વિભાગ B: કિંમત (પૃથ્વીની નજીક) <br> (1) કક્ષીય ઝડપ vₒ <br> (2) નિષ્ક્રમણ ઝડપ vₑ <br> (3) vₑ / vₒ નો ગુણોત્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 7.9 km/s, (2) 11.2 km/s, (3) √2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગવું હોય તો કક્ષામાં ફરવા કરતા √2 ગણી ઝડપ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: પૃથ્વીની ત્રિજ્યા (R) | વિભાગ B: આશરે કિંમત <br> (1) પૃથ્વીની ત્રિજ્યા <br> (2) ભૂ-સ્થિર કક્ષાની ત્રિજ્યા <br> (3) પૃથ્વીથી ચંદ્રનું અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 6400 km, (2) 42000 km (આશરે), (3) 3.84 લાખ km.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6400 એટલે આપણું ઘર (પૃથ્વી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: પરિસ્થિતિ | વિભાગ B: 'g' માં થતો ફેરફાર (%) <br> (1) h = 32 km ઊંચાઈએ <br> (2) d = 64 km ઊંડાઈએ <br> (3) h = 64 km ઊંચાઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 1% ઘટાડો, (2) 1% ઘટાડો, (3) 2% ઘટાડો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈએ ફેરફાર બમણો (2h/R) હોય, ઊંડાઈએ સાદો (d/R).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: નિષ્ક્રમણ ઝડપ (vₑ) | વિભાગ B: ગ્રહની સરખામણી (પૃથ્વી સાથે) <br> (1) બમણી ત્રિજ્યા, સમાન ઘનતા <br> (2) બમણું દળ, સમાન ત્રિજ્યા <br> (3) અડધી ત્રિજ્યા, સમાન દળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 2 vₑ, (2) √2 vₑ, (3) √2 vₑ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર √M/R વાપરો અને ચેક કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: ભૌતિક જથ્થો | વિભાગ B: બદલાય કે નહીં? <br> (1) પદાર્થનું દળ (પૃથ્વીથી ચંદ્ર પર) <br> (2) પદાર્થનું વજન (પૃથ્વીથી ચંદ્ર પર) <br> (3) સાર્વત્રિક અચળાંક G (પૃથ્વીથી મંગળ પર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) અચળ રહે, (2) બદલાય, (3) અચળ રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દળ એટલે અંદરનો માલ, જે ક્યારેય ના બદલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: બળના નિયમો | વિભાગ B: સામ્યતા <br> (1) ન્યૂટનનો ગુરુત્વાકર્ષણ નિયમ <br> (2) કુલંબનો નિયમ <br> (3) ચુંબકીય બળનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 1/r², (2) 1/r², (3) 1/r².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતના લાંબા અંતરના બળો 'વર્ગના વ્યસ્ત' માં જ ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: ગ્રહનું સ્થાન (કક્ષામાં) | વિભાગ B: ઝડપ <br> (1) પેરીહિલિયન (સૂર્યની નજીક) <br> (2) એફેલિયન (સૂર્યથી દૂર) <br> (3) સરેરાશ અંતરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) મહત્તમ ઝડપ, (2) લઘુત્તમ ઝડપ, (3) સરેરાશ ઝડપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાસે' હોય તો 'ફાસ્ટ' ભાગવું પડે (P-P: Pass-Perihelion).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: ઉપગ્રહની ગતિ ઊર્જા K | વિભાગ B: અંતર r સાથે સંબંધ <br> (1) r વધે <br> (2) r ઘટે <br> (3) r અનંત થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) K ઘટે, (2) K વધે, (3) K શૂન્ય થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂર જાય એટલે થાકી જાય, એટલે ગતિ ઊર્જા ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: જો ગુરુત્વાકર્ષણ બળ 1/r² ને બદલે 1/r³ હોય તો | વિભાગ B: અસર <br> (1) કેપ્લરનો બીજો નિયમ <br> (2) કેપ્લરનો ત્રીજો નિયમ <br> (3) કક્ષાની સ્થિરતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સાચો રહે (કેન્દ્રીય બળ છે), (2) ખોટો પડે, (3) અસ્થિર કક્ષાઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજો નિયમ 'કોણીય વેગમાન' પર છે, એટલે તે બળના નિયમથી સ્વતંત્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: પૃથ્વીની ભ્રમણ ગતિ | વિભાગ B: 'g' પર અસર <br> (1) જો કોણીય ઝડપ ω વધે <br> (2) વિષુવવૃત્ત પર <br> (3) ધ્રુવો પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) g ઘટે, (2) સૌથી વધુ અસર, (3) કોઈ અસર નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુવ પર બેઠેલા માણસને ગોળ ફરવાથી કોઈ ચક્કર ના આવે (અસર ન થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: મુક્તિ ઉર્જા (Binding Energy) | વિભાગ B: સૂત્ર <br> (1) સપાટી પર સ્થિર પદાર્થ <br> (2) કક્ષામાં ફરતો ઉપગ્રહ <br> (3) મુક્ત પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) GMm/R, (2) GMm/2r, (3) 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્તિ ઉર્જા = + (કુલ ઉર્જાનું ધન મૂલ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: એકમ | વિભાગ B: રાશિ <br> (1) N kg⁻¹ <br> (2) J kg⁻¹ <br> (3) kg m s⁻¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ગુરુત્વીય ક્ષેત્ર (તીવ્રતા), (2) ગુરુત્વીય સ્થિતિમાન, (3) રેખીય વેગમાન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N/kg એ જ m/s² છે (F/m = a).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: ભૂ-સ્થિર ઉપગ્રહની શરત | વિભાગ B: મૂલ્ય <br> (1) આવર્તકાળ <br> (2) કોણીય ઝડપ (ω) <br> (3) કક્ષા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પૃથ્વી જેટલી (24h), (2) પૃથ્વી જેટલી, (3) વિષુવવૃત્તીય સમતલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જેવી પૃથ્વી, તેવો ઉપગ્રહ' એટલે ભૂ-સ્થિર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: ઊર્જાના પ્રકાર | વિભાગ B: સૂત્ર (ઉપગ્રહ માટે) <br> (1) K (ગતિ ઊર્જા) <br> (2) U (સ્થિતિ ઊર્જા) <br> (3) E (કુલ ઊર્જા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) +GMm/2r, (2) -GMm/r, (3) -GMm/2r.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K ધન, U ઋણ, E ઋણ. U એ K અને E બંને કરતા બમણી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: પદાર્થની ગતિ | વિભાગ B: પથનો આકાર <br> (1) v < vₒ <br> (2) v = vₒ <br> (3) v = vₑ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) દીર્ધવૃત્ત (પૃથ્વી પર પડે), (2) વર્તુળાકાર, (3) પરવલય (Parabola).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપ વધી એટલે 'ગોળ' માંથી 'વળાંક' વધી ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: અગત્યના ગ્રાફ | વિભાગ B: સંબંધ <br> (1) V વિરુદ્ધ r <br> (2) g વિરુદ્ધ r (r>R) <br> (3) U વિરુદ્ધ r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 1/r મુજબ ઘટે, (2) 1/r² મુજબ ઘટે, (3) 1/r મુજબ વધે (ઓછું ઋણ થાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બળ (F) અને પ્રવેગ (g) માં 'વર્ગ' આવે, બાકીમાં સાદો r.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: ઊંચાઈ h સાથે g નો ઘટાડો | વિભાગ B: મૂલ્ય <br> (1) h = R <br> (2) h = 2R <br> (3) h = 3R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) 75% ઘટાડો (બાકી g/4), (2) 89% ઘટાડો (બાકી g/9), (3) 93.7% ઘટાડો (બાકી g/16).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં વર્ગ કરો, એ ભાગ બાકી રહે (1/4 એટલે 25% બાકી, 75% ગયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: વાતાવરણની હાજરી | વિભાગ B: કારણ <br> (1) પૃથ્વી પર વાતાવરણ છે <br> (2) ચંદ્ર પર વાતાવરણ નથી <br> (3) ગુરુ પર ઘટ્ટ વાતાવરણ છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) vₑ > vᵣₘₛ, (2) vₑ < vᵣₘₛ, (3) vₑ >>> vᵣₘₛ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો નિષ્ક્રમણ ઝડપ ગેસની ઝડપ કરતા ઓછી હોય, તો ગેસ 'ટા-ટા' કહીને ઉડી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: ક્ષેત્રીય ઝડપ dA/dt | વિભાગ B: સૂત્ર <br> (1) dA/dt <br> (2) કોણીય વેગમાન L <br> (3) ક્ષેત્રફળ A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) L / 2m, (2) mvr, (3) πab.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: dA/dt = L/2m (એલ બાય ટુ એમ) - આને ગોખી જ નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: કેપ્લરના અચળાંક Kₛ નો એકમ | વિભાગ B: એકમ <br> (1) T²/R³ મુજબ <br> (2) Kₛ = 4π²/GMₛ મુજબ <br> (3) વ્યસ્ત અચળાંક 1/Kₛ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) s²/m³, (2) kg s²/m³ (ખોટું, તે m³/kg s² ના છેદમાં છે), (3) m³/s².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવું સૂત્ર એવો એકમ. T² (સેકન્ડ²) અને R³ (મીટર³).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: ગુરુત્વીય તરંગો | વિભાગ B: માહિતી <br> (1) આગાહી કરનાર <br> (2) પ્રથમ શોધ (LIGO) <br> (3) સ્ત્રોત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) આઈન્સ્ટાઈન, (2) 2015 માં, (3) બ્લેક હોલનું જોડાણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈન્સ્ટાઈન એટલે ભવિષ્યવાણીના રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: ભારહીનતાના અનુભવ | વિભાગ B: સ્થિતિ <br> (1) કક્ષામાં ફરતો ઉપગ્રહ <br> (2) મુક્ત પતન કરતી લિફ્ટ <br> (3) અવકાશમાં તરતો પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સાચું, (2) સાચું, (3) સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Weightless' એટલે 'No Support'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: પૃથ્વીનું કોણીય વેગમાન | વિભાગ B: ફેરફાર <br> (1) સૂર્યની નજીક આવતા <br> (2) સૂર્યથી દૂર જતા <br> (3) આખી કક્ષા દરમિયાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) અચળ રહે, (2) અચળ રહે, (3) સંરક્ષણ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોર્ક (Torque) શૂન્ય એટલે L હંમેશા હીરો (અચળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: ભૌતિક રાશિ | વિભાગ B: અન્ય એકમ <br> (1) G <br> (2) g <br> (3) GM/R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) m³ kg⁻¹ s⁻², (2) N/kg, (3) J/kg (સ્થિતિમાન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમો ફેરવીને પણ પૂછાય, યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: ગ્રહની કક્ષીય ઝડપ v | વિભાગ B: ત્રિજ્યા r સાથે <br> (1) v ∝ r⁰ <br> (2) v ∝ r⁻¹/² <br> (3) v ∝ r¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) જો r પર આધાર ન હોય, (2) સાચો સંબંધ, (3) ખોટો સંબંધ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = √(GM/r) એટલે કે v ∝ 1/√r.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: ભરતી-ઓટ (Tides) | વિભાગ B: કારણ <br> (1) મુખ્ય કારણ <br> (2) ગૌણ કારણ <br> (3) અસર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ચંદ્રનું ગુરુત્વાકર્ષણ, (2) સૂર્યનું ગુરુત્વાકર્ષણ, (3) સમુદ્રના સ્તરમાં ફેરફાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદ્ર પૃથ્વીની નજીક છે એટલે એ વધુ ખેંચાણ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: પૃથ્વીની આસપાસ ભ્રમણ | વિભાગ B: કેન્દ્રગામી બળ પૂરું પાડે <br> (1) ચંદ્ર <br> (2) કૃત્રિમ ઉપગ્રહ <br> (3) સૂર્યની આસપાસ પૃથ્વી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) પૃથ્વીનું ગુરુત્વાકર્ષણ, (2) પૃથ્વીનું ગુરુત્વાકર્ષણ, (3) સૂર્યનું ગુરુત્વાકર્ષણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મોટો છે તે જ 'સેન્ટ્રલ ફોર્સ' આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: નિષ્ક્રમણ વેગ vₑ અને કક્ષીય વેગ vₒ | વિભાગ B: સાચો વિકલ્પ <br> (1) vₑ = √2 vₒ <br> (2) vₒ = vₑ / √2 <br> (3) vₑ - vₒ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) હા, (2) હા, (3) (√2 - 1)vₒ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '√2' યાદ રાખો, બધું સેટ થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: ઉપગ્રહની કક્ષાનો ફેરફાર | વિભાગ B: ઉર્જામાં ફેરફાર <br> (1) નીચી કક્ષામાંથી ઊંચી કક્ષામાં <br> (2) ઊંચી કક્ષામાંથી નીચી કક્ષામાં <br> (3) કક્ષામાંથી અનંત અંતરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ઉર્જા આપવી પડે, (2) ઉર્જા મુક્ત થાય, (3) મુક્તિ ઉર્જા આપવી પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જવું હોય તો પેટ્રોલ (Energy) જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: મહત્તમ અને લઘુત્તમ | વિભાગ B: ભૌતિક રાશિ <br> (1) g નું મૂલ્ય <br> (2) સ્થિતિ ઊર્જાનું મૂલ્ય <br> (3) નિષ્ક્રમણ ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સપાટી પર મહત્તમ, (2) અનંત અંતરે મહત્તમ (શૂન્ય), (3) દ્રવ્યમાન પર આધારિત નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિતિ ઊર્જા ઋણ હોવાથી શૂન્ય એ તેનું 'મહત્તમ' મૂલ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: ઉપગ્રહ માટે સમયગાળો T | વિભાગ B: ઘનતા ρ સાથે સંબંધ <br> (1) T ∝ ρ⁻¹/² <br> (2) T² ∝ 1/ρ <br> (3) T ∝ ρ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સાચું, (2) સાચું, (3) ખોટું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ઘનતા (ભારે ગ્રહ) એટલે ઓછો સમયગાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A: ગ્રહની ગતિ | વિભાગ B: લાક્ષણિક બિંદુ <br> (1) સૂર્ય ક્યાં હોય? <br> (2) ગ્રહ ક્યાં ફરે? <br> (3) કઈ રેખા સમાન સમયમાં સમાન ક્ષેત્રફળ કાપે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) કોઈ એક કેન્દ્ર (Focus) પર, (2) દીર્ધવૃત્ત પર, (3) સૂર્ય અને ગ્રહને જોડતી રેખા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય એ ગ્રાઉન્ડનો મેઈન પિલર (Focus) છે.</p></div>"
+    }
+  ]
+}

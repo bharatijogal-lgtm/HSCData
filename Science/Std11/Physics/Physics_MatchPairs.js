@@ -2539,3 +2539,361 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ઘન પદાર્થોના યાંત્રિક ગુણધર્મો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) પ્રતિબળ (Stress), (2) વિકૃતિ (Strain) | વિભાગ B: (P) એકમ રહિત, (Q) N/m²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળ' (Stress) લાગે તો 'એકમ' (N/m²) લાગે, પણ 'વિકૃતિ' તો ફેરફાર છે એટલે 'એકમ રહિત' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) યંગ મોડ્યુલસ (Y), (2) બલ્ક મોડ્યુલસ (B) | વિભાગ B: (P) કદમાં ફેરફાર, (Q) લંબાઈમાં ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Y' for 'Young' અને 'L' for 'Length'. 'B' for 'Bulk' અને 'V' for 'Volume'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) આકાર સ્થિતિસ્થાપકતા અંક (G), (2) દબનીયતા (k) | વિભાગ B: (P) આકારમાં ફેરફાર, (Q) 1/B",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' (Shear) આકાર બદલે, અને 'દબનીયતા' એ બલ્ક મોડ્યુલસનું ઉલટું (Inverse) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) સ્થિતિસ્થાપકતા, (2) પ્લાસ્ટિસિટી | વિભાગ B: (P) કાયમી વિરૂપણ, (Q) મૂળ સ્થિતિ પ્રાપ્ત કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થિતિસ્થાપક' એટલે રબર જેવું (પાછું આવે), 'પ્લાસ્ટિક' એટલે માટી જેવું (ત્યાં જ રહી જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) પ્રતિબળનું પારિમાણિક સૂત્ર, (2) વિકૃતિનું પારિમાણિક સૂત્ર | વિભાગ B: (P) [M⁰L⁰T⁰], (Q) [M¹L⁻¹T⁻²]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિબળ = દબાણ, એટલે [M¹L⁻¹T⁻²]. વિકૃતિ = ગુણોત્તર, એટલે શૂન્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) પ્રબળતા બિંદુ (Yield Point), (2) ફ્રેક્ચર બિંદુ | વિભાગ B: (P) પદાર્થ તૂટી જાય, (Q) પ્લાસ્ટિક વર્તણૂકની શરૂઆત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Yield એટલે 'હાર માનવી' (પ્લાસ્ટિક બનવું), Fracture એટલે 'હાડકું તૂટવું' (પદાર્થ તૂટવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) સ્ટીલ, (2) રબર | વિભાગ B: (P) ઓછું સ્થિતિસ્થાપક, (Q) વધુ સ્થિતિસ્થાપક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિઝિક્સમાં જે ખેંચતા વધુ 'પ્રતિકાર' કરે (સ્ટીલ), તે વધુ સ્થિતિસ્થાપક કહેવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) હૂકનો નિયમ, (2) પોઈસન રેશિયો | વિભાગ B: (P) પ્રતિબળ ∝ વિકૃતિ, (Q) પાશ્વિય વિકૃતિ / પ્રતાન વિકૃતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૂક બાપાએ કીધું 'જેટલું દબાવો એટલું સામે થાય'. પોઈસન એટલે સાઈડની જાડાઈ અને લંબાઈનો ખેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) તન્ય (Ductile) પદાર્થ, (2) બરડ (Brittle) પદાર્થ | વિભાગ B: (P) કાચ, (Q) સોનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ductile એટલે વાયર બને તેવું, Brittle એટલે તરત તૂટી જાય (ચકચૂર) તેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) હાઇડ્રોલિક પ્રતિબળ, (2) સ્પર્શીય પ્રતિબળ | વિભાગ B: (P) આકાર ફેરફાર, (Q) કદ ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાઇડ્રો' (પાણી) બધી બાજુથી દબાવે એટલે 'કદ' બદલાય. સ્પર્શક હંમેશા 'આકાર' બગાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) પદાર્થમાં સંગ્રહિત ઉર્જા, (2) એકમ કદ દીઠ ઉર્જા | વિભાગ B: (P) 1/2 × પ્રતિબળ × વિકૃતિ, (Q) 1/2 × બળ × લંબાઈ વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું 'બળ' (Force) અને 'લંબાઈ' (L) ગણો તો કુલ ઉર્જા, પણ પ્રતિબળ-વિકૃતિ લો તો કદ દીઠ ઉર્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) પ્રતાન વિકૃતિ, (2) આકાર વિકૃતિ | વિભાગ B: (P) ΔL/L, (Q) Δx/h = tan θ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ વધે તો પ્રતાન (Longitudinal), ખૂણો બદલાય તો આકાર (Shear).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) સ્ટીલનો યંગ મોડ્યુલસ, (2) તાંબાનો યંગ મોડ્યુલસ | વિભાગ B: (P) 1.1 × 10¹¹ Pa, (Q) 2.0 × 10¹¹ Pa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીલ મજબૂત છે એટલે તેનો આંકડો મોટો (2.0) યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) લંબાઈ વધારો (ΔL), (2) નમન (Sagging - δ) | વિભાગ B: (P) FL / AY, (Q) W L³ / 4bd³Y",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નમન' માં હંમેશા L નો ઘન (L³) હોય, પુલ બનાવવામાં આ કામ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) ઇલાસ્ટોમર (Elastomers), (2) ક્વાર્ટઝ | વિભાગ B: (P) લગભગ સંપૂર્ણ સ્થિતિસ્થાપક, (Q) રક્તવાહિનીની દીવાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરીરમાં હોય તે ઇલાસ્ટોમર, પથ્થર (ક્વાર્ટઝ) હોય તે આદર્શ સ્થિતિસ્થાપક જેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) બલ્ક મોડ્યુલસનો એકમ, (2) પોઈસન રેશિયોનો એકમ | વિભાગ B: (P) એકમ રહિત, (Q) Pa (પાસ્કલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ મોડ્યુલસ હોય તો પાસ્કલ, પણ કોઈ પણ રેશિયો (Ratio) હોય તો એકમ વગરનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) પુનઃસ્થાપક બળ, (2) વિરૂપક બળ | વિભાગ B: (P) પદાર્થનો આકાર બદલે, (Q) પદાર્થને મૂળ સ્થિતિમાં લાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરૂપક = રૂડા રૂપ બગાડે, પુનઃસ્થાપક = પાછું સ્થાપિત કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) પ્રતાન પ્રતિબળ, (2) કદ પ્રતિબળ | વિભાગ B: (P) પાયાને લંબ બળ, (Q) બધી બાજુથી લંબ બળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતાન એટલે વાયર જેવું (એક દિશા), કદ એટલે ફૂગ્ગો (બધી દિશા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) બરડ પદાર્થમાં D અને E બિંદુઓ, (2) તન્ય પદાર્થમાં D અને E બિંદુઓ | વિભાગ B: (P) ખૂબ નજીક હોય, (Q) ખૂબ દૂર હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચ તરત તૂટે એટલે નજીક, સોનું લાંબુ ખેંચાય એટલે દૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) પ્રતાન વિકૃતિ સૂત્ર, (2) કદ વિકૃતિ સૂત્ર | વિભાગ B: (P) -ΔV/V, (Q) ΔL/L",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદમાં ઘટાડો થાય એટલે માઈનસ (-) નિશાની આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) ક્રેનનો વાયર, (2) પહાડની મહત્તમ ઊંચાઈ | વિભાગ B: (P) હૂકનો નિયમ, (Q) પ્રતિબળ < સ્થિતિસ્થાપક મર્યાદા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિનિયરિંગમાં 'સેફટી' એટલે મર્યાદામાં રહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) પ્રતાન પ્રતિબળ / પ્રતાન વિકૃતિ, (2) આકાર પ્રતિબળ / આકાર વિકૃતિ | વિભાગ B: (P) આકાર સ્થિતિસ્થાપકતા અંક, (Q) યંગ મોડ્યુલસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્ર' થી 'પ્ર' એટલે યંગ, 'આકાર' થી 'આકાર' એટલે G.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) તાણમાં રહેલા તારમાં ઉર્જા ઘનતા, (2) તાર પર થયેલું કાર્ય | વિભાગ B: (P) 1/2 × F × ΔL, (Q) 1/2 × Y × (વિકૃતિ)²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા ઘનતામાં 'Y' અને 'વિકૃતિનો વર્ગ' આવે, જેમ ગતિઉર્જામાં v² આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) વિકૃતિ (ε), (2) પ્રતિબળ (σ) | વિભાગ B: (P) બળ / ક્ષેત્રફળ, (Q) લંબાઈ વધારો / મૂળ લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિગ્મા એટલે 'સાંઢ' જેવું બળ, એપ્સીલોન એટલે લંબાઈનો ખેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) યંગ મોડ્યુલસનું મૂલ્ય, (2) આકાર મોડ્યુલસનું મૂલ્ય | વિભાગ B: (P) G ≈ Y / 3, (Q) Y > G",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'યંગ' (Y) હંમેશા મોટો હોય, G તો તેનો ત્રીજો ભાગ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) સંપૂર્ણ દ્રઢ પદાર્થ, (2) સંપૂર્ણ પ્લાસ્ટિક પદાર્થ | વિભાગ B: (P) કાદવ (Putty), (Q) અસ્તિત્વ ધરાવતો નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયામાં કોઈ 'પરફેક્ટ' નથી, પણ કાદવ સૌથી વધુ 'પ્લાસ્ટિક' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) વાયુઓ માટે બલ્ક મોડ્યુલસ, (2) પ્રવાહી માટે બલ્ક મોડ્યુલસ | વિભાગ B: (P) ખૂબ ઓછો, (Q) વાયુ કરતા વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવાને દબાવવી સહેલી (ઓછો B), પાણીને અઘરું (વધારે B).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) એલ્યુમિનિયમનો Y, (2) હાડકાંનો Y | વિભાગ B: (P) 0.9 × 10¹¹ Pa, (Q) 0.7 × 10¹¹ Pa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાડકાં (Bone) એલ્યુમિનિયમ કરતા થોડા વધુ મજબૂત (Y ની દ્રષ્ટિએ) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) કમ્પ્રેશન (Compression), (2) ટેન્શન (Tension) | વિભાગ B: (P) પદાર્થ ખેંચાય, (Q) પદાર્થ દબાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'C' for Compress (દબાવવું), 'T' for Tanti (ખેંચવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) આકાર વિકૃતિનો એકમ, (2) બલ્ક વિકૃતિનો એકમ | વિભાગ B: (P) એકમ રહિત, (Q) રેડિયન (પણ ભૌતિક રાશિ તરીકે એકમ રહિત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્કડ ટ્રીક: આકારમાં ખૂણો આવે એટલે રેડિયન દેખાય, પણ 'વિકૃતિ' એટલે નો-એકમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (1) સ્થિતિસ્થાપક અંક (Modulus), (2) વિકૃતિ | વિભાગ B: (P) દ્રવ્યનો ગુણધર્મ છે, (Q) પરિમાણ પર આધાર રાખે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ ગમે તેટલું મોટું હોય, તેનો 'Y' અચળ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (1) બલ્ક મોડ્યુલસ (B), (2) દબનીયતા (k) | વિભાગ B: (P) -V(ΔP/ΔV), (Q) -(1/V)(ΔV/ΔP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'B' ઉપર છે, 'k' નીચે છે. દબનીયતામાં વ્યસ્ત સંબંધ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (1) સ્ટીલ બીમમાં 'I' આકાર, (2) પુલની ઉપર મર્યાદા | વિભાગ B: (P) વજન ઘટાડવા અને મજબૂતી વધારવા, (Q) સુરક્ષા ગુણાંક (Safety Factor)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' સેક્શન રેલવેના પાટામાં પણ જોયો હશે, વજન ઓછું અને તાકાત વધારે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (1) લંબાઈ વધારો (ΔL), (2) મૂળ લંબાઈ (L) | વિભાગ B: (P) છેદમાં (Denominator), (Q) અંશમાં (Numerator)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકૃતિ = નવું / જૂનું (ΔL / L).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (1) પોઈસન રેશિયોનું મૂલ્ય (ધાતુઓ માટે), (2) પોઈસન રેશિયોનું સૈદ્ધાંતિક મૂલ્ય | વિભાગ B: (P) -1 થી 0.5, (Q) 0.25 થી 0.33",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેક્ટિકલી પોઝીટીવ (0.3) અને થીયરીમાં નેગેટિવ પણ હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (1) મહત્તમ પ્રતિબળ, (2) સ્થિતિસ્થાપક મર્યાદા | વિભાગ B: (P) પદાર્થ પાછો ફરે તે છેલ્લું બિંદુ, (Q) તાર તૂટતા પહેલાનું બિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મર્યાદા (Limit) ઓળંગો તો પાછા ન આવો, મહત્તમ (Ultimate) પર પહોંચો તો તૂટવાની તૈયારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (1) પાણીનો બલ્ક મોડ્યુલસ, (2) હવા (STP) નો બલ્ક મોડ્યુલસ | વિભાગ B: (P) 1.0 × 10⁻⁴ GPa, (Q) 2.2 GPa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી હવા કરતા ઘણું વધારે અદબનીય (Incompressible) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (1) દબાણ (P), (2) પ્રતિબળ (Stress) | વિભાગ B: (P) માત્ર લંબ દિશામાં, (Q) લંબ કે સ્પર્શીય હોઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ સીધું (Normal) જ લાગે, પ્રતિબળ ત્રાંસું (Shear) પણ હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (1) 1 Pascal, (2) 1 GPa | વિભાગ B: (P) 10⁹ N/m², (Q) 1 N/m²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G એટલે 'ગિગા' એટલે 9 મીંડા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (1) રબર, (2) સ્ટીલ | વિભાગ B: (P) ભંગુર (Brittle) નથી, (Q) સ્થિતિસ્થાપકતા વધુ છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રબર એ 'ઇલાસ્ટોમર' છે, સ્ટીલ એ એન્જિનિયરનો 'કિંગ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (1) અપરૂપણ પ્રતિબળ, (2) અપરૂપણ વિકૃતિ | વિભાગ B: (P) θ ≈ tan θ, (Q) F_tangential / A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપરૂપણ (Shear) એટલે લપસણું બળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (1) પ્રતિબળ વિરુદ્ધ વિકૃતિનો ઢાળ, (2) આલેખ હેઠળનું ક્ષેત્રફળ | વિભાગ B: (P) ઉર્જા ઘનતા, (Q) સ્થિતિસ્થાપક મોડ્યુલસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ (Slope) એટલે Y-axis/X-axis = Stress/Strain = Modulus. ક્ષેત્રફળ એટલે ગુણાકાર = ઉર્જા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (1) એવરેસ્ટની ઊંચાઈ (મર્યાદા), (2) પૃથ્વીના ખડકોની સીમા | વિભાગ B: (P) ~ 10 km, (Q) પૃથ્વીની ઘનતા અને ખડકોનો બ્રેકિંગ સ્ટ્રેસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 km થી વધુ ઊંચો પહાડ હોય તો તે પોતાના વજનથી જ દબાઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (1) તાણમાં વધારો, (2) ત્રિજ્યામાં ઘટાડો | વિભાગ B: (P) પાશ્વિય વિકૃતિ, (Q) પ્રતાન વિકૃતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેંચો તો લાંબુ થાય (પ્રતાન), અને પાતળું થાય (પાશ્વિય - Lateral).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (1) સપ્રમાણતા સીમા, (2) પ્લાસ્ટિક વિરૂપણ | વિભાગ B: (P) OA ભાગ, (Q) BC ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં બધું 'સીધું' (OA) હોય, પછી 'વાંકું' (BC) વળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (1) ઘન પદાર્થ, (2) પ્રવાહી પદાર્થ | વિભાગ B: (P) માત્ર બલ્ક મોડ્યુલસ ધરાવે, (Q) ત્રણેય મોડ્યુલસ ધરાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવાહીનો કોઈ 'આકાર' નથી, એટલે તેનો યંગ કે આકાર મોડ્યુલસ ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (1) કાસ્ટ આયર્ન (Brittle), (2) તાંબુ (Ductile) | વિભાગ B: (P) ફ્રેક્ચર પોઈન્ટ નજીક, (Q) ફ્રેક્ચર પોઈન્ટ દૂર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો વાયર બને (તાંબુ), તેનો આલેખ લાંબો ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (1) વિકૃતિ (ε_l), (2) વિકૃતિ (ε_t) | વિભાગ B: (P) lateral (પાશ્વિય), (Q) longitudinal (પ્રતાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L' for Longitudinal (લંબાઈ), 'T' for Transverse/Lateral (જાડાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (1) યંગ મોડ્યુલસની વ્યાખ્યા, (2) આકાર મોડ્યુલસની વ્યાખ્યા | વિભાગ B: (P) σ / θ, (Q) σ / ε",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યંગમાં વિકૃતિ (ε) આવે, આકારમાં ખૂણો (θ) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (1) તાપમાનમાં વધારો, (2) યંગ મોડ્યુલસમાં ફેરફાર | વિભાગ B: (P) યંગ મોડ્યુલસ ઘટે, (Q) યંગ મોડ્યુલસ વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q (ખોટું, તાપમાન વધતા ઘટે જ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ કરો તો પદાર્થ નરમ બને, એટલે મોડ્યુલસ ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (1) સ્ટીલનો આકાર મોડ્યુલસ (G), (2) સ્ટીલનો યંગ મોડ્યુલસ (Y) | વિભાગ B: (P) 200 × 10⁹ Pa, (Q) 84 × 10⁹ Pa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હંમેશા Y > G જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (1) હીરાનો બલ્ક મોડ્યુલસ, (2) ગ્લાસનો બલ્ક મોડ્યુલસ | વિભાગ B: (P) 37 GPa, (Q) 442 GPa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીરો (Diamond) દુનિયાનો સૌથી કઠણ પદાર્થ છે, એટલે બલ્ક મોડ્યુલસ સૌથી વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (1) કમ્પ્રેશન (Compression), (2) રેરફેક્શન (Rarefaction) | વિભાગ B: (P) કદ વધારો, (Q) કદ ઘટાડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - Q, (2) - P</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કમ્પ્રેશન એટલે દબાવવું (-ΔV).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (1) યંગ મોડ્યુલસ સૂત્ર, (2) કાર્ય (W) | વિભાગ B: (P) F×L / A×ΔL, (Q) 1/2 × F × ΔL",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y = FL / AΔL. યાદ રાખો 'ફાલ' (FL) ઉપર અને 'આદલ' (AΔL) નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (1) બીમનું નમન (δ) ∝ L³, (2) બીમનું નમન (δ) ∝ 1/d³ | વિભાગ B: (P) લંબાઈ વધારતા નમન વધે, (Q) ઊંડાઈ વધારતા નમન ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂટપટ્ટીને આડી રાખીને દબાવો તો જલ્દી નમે, પણ ઊભી (Depth) રાખો તો ન નમે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (1) ઇનવાર (Invar), (2) સ્ફટિક | વિભાગ B: (P) તાપમાન સાથે લંબાઈ બદલાતી નથી, (Q) લાંબા ગાળાની વ્યવસ્થિત ગોઠવણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઇનવાર' એટલે 'Invariable' (બદલાય નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (1) પ્રતિબળ (Stress), (2) દબાણ (Pressure) | વિભાગ B: (P) દિશાયુક્ત ગુણધર્મ હોઈ શકે, (Q) હંમેશા અદિશ જેવું વર્તે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિબળ એ 'ટેન્સર' રાશિ છે, પણ સ્કૂલમાં તેને આપણે દબાણ જેવી જ ગણીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (1) સ્થિતિસ્થાપકતાનો આંકડો મોટો, (2) સ્થિતિસ્થાપકતાનો આંકડો નાનો | વિભાગ B: (P) વધુ મજબૂત પદાર્થ, (Q) નરમ પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો 'Y' એટલે જલ્દી ન ખેંચાય એવો 'મોટો માથા' વાળો પદાર્થ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (1) બ્રેકિંગ પ્રતિબળ (Breaking Stress), (2) આડછેદનું ક્ષેત્રફળ | વિભાગ B: (P) પદાર્થની જાત પર આધાર રાખે, (Q) બળ સહન કરવાની ક્ષમતા બદલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેકિંગ સ્ટ્રેસ એ લોખંડ માટે ફિક્સ હોય, પણ જાડો તાર હોય તો વધુ 'બળ' (Force) સહન કરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (1) હાઇડ્રોલિક લિફ્ટ, (2) સ્ટીલ ક્રેન | વિભાગ B: (P) પાસ્કલનો નિયમ, (Q) સ્થિતિસ્થાપકતાનો ઉપયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ઓઈલ-પાણી આવે ત્યાં પાસ્કલ, જ્યાં લોખંડના દોરડા આવે ત્યાં સ્થિતિસ્થાપકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (1) સિલિકોન રબર, (2) તાંબુ | વિભાગ B: (P) સ્થિતિસ્થાપકતા ઓછી, (Q) સ્થિતિસ્થાપકતા વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરીથી, રબર કરતા ધાતુઓ વધુ સ્થિતિસ્થાપક છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (1) લંબાઈ વધારો ΔL, (2) ઉર્જા U | વિભાગ B: (P) મીટર (m), (Q) જૂલ (J)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ તો પાયાની વાત છે, ઉર્જા એટલે જૂલ બાપા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (1) પ્રતાન વિકૃતિ, (2) કદ વિકૃતિ | વિભાગ B: (P) ΔL/L, (Q) ΔV/V",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L એટલે લાઈન (Line), V એટલે વેસલ (Vessel/Volume).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (1) કાયમી સેટ (Permanent Set), (2) સ્થિતિસ્થાપક આફ્ટર ઇફેક્ટ | વિભાગ B: (P) વિકૃતિ શૂન્ય ન થાય, (Q) વિકૃતિ શૂન્ય થવામાં સમય લાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમેનેન્ટ એટલે રહી ગયું, આફ્ટર ઇફેક્ટ એટલે વાર લાગી (જેમ કે કાચમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (1) બરડ પદાર્થનું ઉદાહરણ, (2) પ્લાસ્ટિક પદાર્થનું ઉદાહરણ | વિભાગ B: (P) કાચ, (Q) ભીની માટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચ તૂટે, માટી દબાઈને ત્યાં જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (1) યંગ મોડ્યુલસ (Y), (2) બલ્ક મોડ્યુલસ (B) | વિભાગ B: (P) માત્ર ઘન પદાર્થ, (Q) ઘન, પ્રવાહી અને વાયુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ ખેંચવી હોય તો ઘન જ જોઈએ, પણ કદ તો બધાનું દબાવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (1) સ્પ્રિંગનો બળ અચળાંક (k), (2) યંગ મોડ્યુલસ (Y) | વિભાગ B: (P) પરિમાણ પર આધારિત, (Q) દ્રવ્યની જાત પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ કાપો તો 'k' બદલાય, પણ લોખંડ કાપો તો 'Y' ન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (1) આકાર વિકૃતિ, (2) પોઈસન ગુણોત્તર | વિભાગ B: (P) સ્પર્શીય બળથી ઉદભવે, (Q) પરિમાણ રહિત રાશિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકૃતિ અને ગુણોત્તર બંને એકમ વગરના રખડતા હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (1) એકમ કદ દીઠ સ્થિતિસ્થાપક ઉર્જા, (2) તારની લંબાઈ વધારતા થતું કાર્ય | વિભાગ B: (P) σ²/2Y, (Q) 1/2 × F × ΔL",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: σ²/2Y એ ઉર્જા ઘનતાનું બીજું રૂપ છે (Stress²/2Y).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (1) તારની ત્રિજ્યા બમણી કરતા Y, (2) તારની લંબાઈ બમણી કરતા Y | વિભાગ B: (P) બદલાતો નથી, (Q) અચળ રહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - P, (2) - Q</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તે બદલો, જો દ્રવ્ય (Material) ન બદલાય તો 'Y' ક્યારેય ન બદલાય. આ પરીક્ષાનો ફેવરિટ સવાલ છે!</p></div>"
+    }
+  ]
+}

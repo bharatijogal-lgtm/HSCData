@@ -4697,3 +4697,366 @@ var Std11_Physics_MatchPairs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "તરંગો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (તરંગના પ્રકાર) - વિભાગ B: (માધ્યમના કણોનું દોલન) <br> (1) લંબગત તરંગ (A) તરંગ પ્રસરણની દિશામાં <br> (2) સંગત તરંગ (B) તરંગ પ્રસરણની દિશાને લંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લંબ'ગત એટલે 'લંબ'રૂપે અને 'સંગ'ત એટલે 'સાથે' (દિશામાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (ભૌતિક રાશિ) - વિભાગ B: (એકમ) <br> (1) આવૃત્તિ (A) મીટર <br> (2) તરંગલંબાઈ (B) હર્ટ્ઝ (Hz)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ (f) = 1/T (Hz) અને લંબાઈ હંમેશા મીટરમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (સંજ્ઞા) - વિભાગ B: (સૂત્ર) <br> (1) કોણીય તરંગ સંખ્યા k (A) 2π/T <br> (2) કોણીય આવૃત્તિ ω (B) 2π/λ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k એટલે 'કા'કા (λ નીચે), ω એટલે 'ઓ'મ (T નીચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (તરંગો) - વિભાગ B: (ઉદાહરણ) <br> (1) લંબગત તરંગ (A) હવામાં ધ્વનિ તરંગો <br> (2) સંગત તરંગ (B) તણાયેલી દોરીમાં તરંગો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા = સંગત (H-S), દોરી = લંબગત (D-L).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (માધ્યમ) - વિભાગ B: (તરંગનો પ્રકાર) <br> (1) ઘન પદાર્થ (A) માત્ર સંગત <br> (2) વાયુ પદાર્થ (B) લંબગત અને સંગત બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુમાં 'વાવ' (વાયુ-માત્ર-સંગત), ઘનમાં બંને શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (રાશિ) - વિભાગ B: (પારિમાણિક સૂત્ર) <br> (1) તરંગાંક k (A) [L^0 M^0 T^-1] <br> (2) આવૃત્તિ f (B) [L^-1 M^0 T^0]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k = 2π/λ (1/L), f = 1/T (1/T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (તરંગની ઝડપ) - વિભાગ B: (માધ્યમ) <br> (1) v = √(T/μ) (A) વાયુમાં ધ્વનિ <br> (2) v = √(B/ρ) (B) તણાયેલી દોરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T' એટલે Tension (દોરી), 'B' એટલે Bulk Modulus (તરલ/વાયુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (ન્યૂટનનું સૂત્ર) - વિભાગ B: (પ્રક્રિયા) <br> (1) ન્યૂટનનું અનુમાન (A) સમતાપી પ્રક્રિયા <br> (2) લાપ્લાસનો સુધારો (B) સમોષ્મી પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટન 'ઠંડો' (સમતાપી), લાપ્લાસ 'ઝડપી' (સમોષ્મી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (ચલ) - વિભાગ B: (તરંગ સમીકરણમાં ભૂમિકા) <br> (1) A (A) કળા અચળાંક <br> (2) φ (B) કંપવિસ્તાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = Amplitude (કંપવિસ્તાર), φ = Phase (કળા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (સૂત્ર) - વિભાગ B: (ઝડપ) <br> (1) v = √(P/ρ) (A) લાપ્લાસ મુજબ ઝડપ <br> (2) v = √(γP/ρ) (B) ન્યૂટન મુજબ ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: γ (ગામા) એટલે 'ગ્રે'ટ સુધારો (લાપ્લાસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (તરંગ ઘટના) - વિભાગ B: (પરિણામ) <br> (1) વ્યતિકરણ (A) સ્પંદ (Beats) <br> (2) સહેજ જુદી આવૃત્તિના તરંગો (B) સંપાતીકરણનો સિદ્ધાંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિમાં 'સહેજ' તફાવત = સ્પંદ (Beats).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (સીમા શરતો) - વિભાગ B: (કળા તફાવત) <br> (1) જડિત આધાર (A) 0 અથવા 2π rad <br> (2) મુક્ત છેડો (B) π rad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જડ' પદાર્થ ઉલટાવી નાખે (π), 'મુક્ત' છેડો એમનેમ રાખે (0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (નિષ્પંદ બિંદુ) - વિભાગ B: (કિંમત) <br> (1) સ્થાનાંતર (A) મહત્તમ <br> (2) પ્રસ્પંદ બિંદુ પર સ્થાનાંતર (B) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિ'ષ્પંદ = 'ની'ચે (Zero), 'પ્ર'સ્પંદ = 'પ્ર'ચંડ (Max).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (ઓપન પાઇપ) - વિભાગ B: (હાર્મોનિક્સ) <br> (1) પ્રથમ હાર્મોનિક (A) λ/2 = L <br> (2) દ્વિતીય હાર્મોનિક (B) λ = L",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપન પાઇપમાં n(λ/2) = L. n=1 મૂકો, n=2 મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (ક્લોઝ્ડ પાઇપ) - વિભાગ B: (આવૃત્તિ) <br> (1) મૂળભૂત આવૃત્તિ (A) 3v/4L <br> (2) પ્રથમ ઓવરટોન (B) v/4L",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોઝ્ડમાં માત્ર એકી (1, 3, 5...) ગુણક જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (તરંગ ગુણધર્મ) - વિભાગ B: (નિર્ભરતા) <br> (1) વેગ (A) ઉદગમ પર <br> (2) આવૃત્તિ (B) માધ્યમ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ માધ્યમ બદલાય તો બદલાય, આવૃત્તિ બાપ (Source) બદલાય તો જ બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (તરંગ સમીકરણ) - વિભાગ B: (દિશા) <br> (1) y = A sin(kx - ωt) (A) ઋણ X-અક્ષ <br> (2) y = A sin(kx + ωt) (B) ધન X-અક્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (-) હોય તો (+) અક્ષ, (+) હોય તો (-) અક્ષ. ઉલટું યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (સ્પંદ) - વિભાગ B: (સૂત્ર) <br> (1) સ્પંદની આવૃત્તિ (A) T = 1/|f1 - f2| <br> (2) સ્પંદનો સમયગાળો (B) fb = |f1 - f2|",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પંદ એટલે બાદબાકી (Difference).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (ઘનતા) - વિભાગ B: (ધ્વનિનો વેગ) <br> (1) વરાળ (A) ઓછો વેગ <br> (2) સૂકી હવા (B) વધુ વેગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજવાળી હવાની ઘનતા ઓછી, એટલે વેગ વધુ (v ∝ 1/√ρ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (બે ક્રમિક નિષ્પંદ) - વિભાગ B: (અંતર) <br> (1) નિષ્પંદ અને નિષ્પંદ (A) λ/4 <br> (2) નિષ્પંદ અને પ્રસ્પંદ (B) λ/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમ-સેમ હોય તો λ/2, અલગ-અલગ હોય તો λ/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (ગ્રાફ) - વિભાગ B: (ઢાળ) <br> (1) ω વિરુદ્ધ k (A) તરંગલંબાઈ <br> (2) x વિરુદ્ધ t (B) તરંગનો વેગ v",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = ω/k અને v = distance/time. બંને વેગ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (ધ્વનિ) - વિભાગ B: (લક્ષણ) <br> (1) પિચ (Pitch) (A) કંપવિસ્તાર <br> (2) પ્રબળતા (Loudness) (B) આવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પિ'ચ એટલે 'આ'વૃત્તિ, પ્રબળતા એટલે 'એ'મ્પ્લિટ્યુડ (A).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (દોરીની લંબાઈ L) - વિભાગ B: (તરંગલંબાઈ λ) <br> (1) n=1 (મૂળભૂત) (A) λ = L <br> (2) n=2 (દ્વિતીય) (B) λ = 2L",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોરી માટે λ = 2L/n સૂત્ર વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (તરંગનો પ્રકાર) - વિભાગ B: (ઉર્જા વહન) <br> (1) પ્રગામી તરંગ (A) ઉર્જાનું વહન થતું નથી <br> (2) સ્થિર તરંગ (B) ઉર્જાનું વહન થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્ર'ગામી એટલે 'પ્ર'ગતિ કરે (વહન થાય), 'સ્થિર' એટલે 'ખોડાઈ' ગયેલું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (માધ્યમ) - વિભાગ B: (ધ્વનિનો વેગ) <br> (1) પોલાદ (Steel) (A) ~ 340 m/s <br> (2) હવા (Air) (B) ~ 5000 m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન > પ્રવાહી > વાયુ. સ્ટીલ સૌથી કડક, એટલે વેગ વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (તરંગ વિધેય) - વિભાગ B: (અર્થ) <br> (1) f(x - vt) (A) સ્થિર તરંગ <br> (2) sin(kx)cos(ωt) (B) પ્રગામી તરંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x અને t સાથે હોય તો પ્રગામી, અલગ હોય (ગુણાકારમાં) તો સ્થિર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (એકમ) - વિભાગ B: (રાશિ) <br> (1) kg/m (A) તણાવ બળ <br> (2) Newton (B) રેખીય દળ ઘનતા (μ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: μ = Mass/Length (kg/m), Tension = Force (N).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (કળા તફાવત Δφ) - વિભાગ B: (પથ તફાવત Δx) <br> (1) Δφ = π (A) λ/2 <br> (2) Δφ = 2π (B) λ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Δφ = (2π/λ) * Δx. 2π એટલે આખી લૂપ (λ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (તાપમાન વધારતા) - વિભાગ B: (ધ્વનિનો વેગ) <br> (1) તાપમાન (T) વધે (A) વેગ ઘટે <br> (2) ઘનતા (ρ) વધે (B) વેગ વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી (T) વધે તો ધ્વનિ 'ભાગે' (વધે). ઘનતા રોકે (ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (દબાણ ફેરફાર) - વિભાગ B: (ધ્વનિનો વેગ) <br> (1) અચળ તાપમાને દબાણ વધે (A) વેગ વધે <br> (2) તાપમાન વધે (B) વેગ અચળ રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણથી વેગને કોઈ ફરક ન પડે (જો T અચળ હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (સંજ્ઞા) - વિભાગ B: (એકમ) <br> (1) કંપવિસ્તાર A (A) મીટર <br> (2) રેખીય દળ ઘનતા μ (B) kg/m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: μ = 'મ'ાસ / 'લ'ંબાઈ (kg/m).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (તરંગ) - વિભાગ B: (વ્યાખ્યા) <br> (1) શૃંગ (Crest) (A) લંબગત તરંગનું ન્યૂનતમ સ્થાનાંતર <br> (2) ગર્ત (Trough) (B) લંબગત તરંગનું મહત્તમ સ્થાનાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શૃં'ગ એટલે 'શિં'ગુ (ટોચ), 'ગ'ર્ત એટલે 'ખાડો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (સંગત તરંગ) - વિભાગ B: (ભાગો) <br> (1) સંઘનન (Compression) (A) ઓછી ઘનતા <br> (2) વિઘનન (Rarefaction) (B) વધુ ઘનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સં'ઘનન એટલે 'ભેગું' (વધુ ઘનતા), 'વિ'ઘનન એટલે 'છૂટું' (ઓછી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (સૂત્ર) - વિભાગ B: (રાશિ) <br> (1) 1/T (A) કોણીય આવૃત્તિ <br> (2) 2πf (B) રેખીય આવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ω = 2πf (કોણીય), f = 1/T (રેખીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (માપદંડ) - વિભાગ B: (તરંગ સમીકરણ) <br> (1) આવર્તકાળ T (A) λ અંતરે પુનરાવર્તન <br> (2) તરંગલંબાઈ λ (B) T સમયે પુનરાવર્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = Time, λ = Length.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (હાર્મોનિક્સ) - વિભાગ B: (આવૃત્તિનો ગુણોત્તર) <br> (1) ઓપન પાઇપ (A) 1 : 3 : 5 : ... <br> (2) ક્લોઝ્ડ પાઇપ (B) 1 : 2 : 3 : ...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપન = ઓલ (All), ક્લોઝ્ડ = ઓડ (Odd).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (તરંગ વેગ) - વિભાગ B: (સૂત્ર) <br> (1) તરંગાંક k ના પદમાં (A) v = fλ <br> (2) આવૃત્તિ f ના પદમાં (B) v = ω/k",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ = અંતર/સમય = λ/T = fλ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (સ્થિત તરંગ) - વિભાગ B: (શરત) <br> (1) x = 0 પર નિષ્પંદ (A) સાઈન વિધેય (sin kx) <br> (2) x = 0 પર પ્રસ્પંદ (B) કોસાઈન વિધેય (cos kx)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: sin(0) = 0 (નિષ્પંદ), cos(0) = 1 (પ્રસ્પંદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (દોરીમાં તરંગો) - વિભાગ B: (પરિબળ) <br> (1) વેગ v ∝ √T (A) વ્યાસ વધારતા <br> (2) વેગ v ∝ 1/√μ (B) તણાવ વધારતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોરી ખેંચો (T) તો વેગ વધે, જાડી કરો (μ) તો વેગ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (ગામા γ) - વિભાગ B: (વાયુનો પ્રકાર) <br> (1) એક પરમાણ્વીય (A) 1.40 <br> (2) દ્વિ-પરમાણ્વીય (B) 1.67",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીલિયમ (1) > ઓક્સિજન (2). એટલે 1.67 > 1.40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (ગુંજારવ - Echo) - વિભાગ B: (શરત) <br> (1) લઘુત્તમ અંતર (A) પરાવર્તક સપાટી <br> (2) ઘટના (B) 17.2 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડઘો પાડવો હોય તો 17 મીટર દૂર રહેવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (ઉર્જા) - વિભાગ B: (સૂત્ર) <br> (1) તીવ્રતા I (A) P/A (Power/Area) <br> (2) તરંગ વેગ v (B) ω/k",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્રતા એટલે 'પાવર' ફુલ 'એરિયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (તરંગ પ્રકાર) - વિભાગ B: (માધ્યમની સ્થિતિસ્થાપકતા) <br> (1) લંબગત તરંગ (A) આકાર સ્થિતિસ્થાપકતા <br> (2) સંગત તરંગ (B) કદ સ્થિતિસ્થાપકતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબગત માટે 'આકાર' બદલવો પડે, સંગત માટે 'કદ' દબાવવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (તરંગ સમીકરણ) - વિભાગ B: (બિંદુનું સ્થાનાંતર) <br> (1) મહત્તમ સ્થાનાંતર (A) શૂન્ય <br> (2) મધ્યમાન સ્થિતિ (B) કંપવિસ્તાર A",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપવિસ્તાર એટલે જ 'મહત્તમ' આઘા જવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (ગૌણ એકમ) - વિભાગ B: (રાશિ) <br> (1) rad/m (A) કોણીય આવૃત્તિ (ω) <br> (2) rad/s (B) તરંગાંક (k)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: m નીચે હોય તો k (તરંગ), s નીચે હોય તો ω (સમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (તરંગાંક) - વિભાગ B: (સૂત્ર) <br> (1) k = ω/v (A) તરંગલંબાઈના પદમાં <br> (2) k = 2π/λ (B) વેગના પદમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k = 2π/λ એ પાયાનું સૂત્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (સ્થિર તરંગના પ્રકાર) - વિભાગ B: (પાઇપ) <br> (1) એક છેડો બંધ (A) બંને છેડે પ્રસ્પંદ <br> (2) બંને છેડા ખુલ્લા (B) એક છેડે નિષ્પંદ, એક છેડે પ્રસ્પંદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બંધ' એટલે 'નિષ્પંદ' (No motion), 'ખુલ્લું' એટલે 'પ્રસ્પંદ' (Free motion).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (ગણિત) - વિભાગ B: (તરંગમાં ઉપયોગ) <br> (1) sin(A+B) + sin(A-B) (A) બીટ્સ (Beats) <br> (2) sin(A+B) - sin(A-B) (B) સ્થિત તરંગો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિકોણમિતિના સરવાળા-બાદબાકી સ્થિત તરંગોનું સમીકરણ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (પાણીના તરંગો) - વિભાગ B: (પ્રકાર) <br> (1) ઉંડા પાણીમાં (A) માત્ર લંબગત <br> (2) સપાટી પર (B) લંબગત અને સંગતનું મિશ્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની સપાટી પર કણો વર્તુળાકાર ગતિ કરે, એટલે બંને અસર દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (ધ્વનિના સ્ત્રોત) - વિભાગ B: (ઉદાહરણ) <br> (1) તારવાળું વાદ્ય (A) વાંસળી <br> (2) ફૂંકવાળું વાદ્ય (B) ગિટાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાર = ગિટાર, ફૂંક = વાંસળી (Flute).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (તરંગ પ્રસરણ) - વિભાગ B: (ભૌતિક રાશિ) <br> (1) માધ્યમના કણો (A) ઉર્જા <br> (2) તરંગ સાથે વહન પામતી (B) પોતાની જગ્યાએ દોલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણો દોડે નહીં, ખાલી 'ઉર્જા' દોડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (દોરીમાં તણાવ 4 ગણો કરતા) - વિભાગ B: (પરિણામ) <br> (1) વેગ v (A) અડધો થાય <br> (2) જો તણાવ 1/4 થાય (B) બમણો થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v ∝ √T. એટલે 4 નું વર્ગમૂળ 2 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (તરંગ સમીકરણ y = 5 sin(4x - 2t)) - વિભાગ B: (કિંમત) <br> (1) કંપવિસ્તાર A (A) 2 <br> (2) કોણીય આવૃત્તિ ω (B) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y = A sin(kx - ωt) સાથે સરખાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (ગિટારનો તાર ખેંચતા) - વિભાગ B: (આવૃત્તિ) <br> (1) તણાવ વધે (A) આવૃત્તિ ઘટે <br> (2) તારની લંબાઈ વધે (B) આવૃત્તિ વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f ∝ √T અને f ∝ 1/L. (ખેંચો તો તીણો અવાજ આવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (નિષ્પંદ બિંદુ) - વિભાગ B: (દબાણ ફેરફાર) <br> (1) નિષ્પંદ પાસે (A) ન્યૂનતમ દબાણ ફેરફાર <br> (2) પ્રસ્પંદ પાસે (B) મહત્તમ દબાણ ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર નિષ્પંદ = દબાણ પ્રસ્પંદ. (ઉલટું હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (ઓપન પાઇપ L લંબાઈ) - વિભાગ B: (તરંગલંબાઈ λ) <br> (1) ત્રીજો હાર્મોનિક (A) λ = 2L/3 <br> (2) ચોથો હાર્મોનિક (B) λ = L/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: λ = 2L/n સૂત્રમાં n=3 અને n=4 મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (સંજ્ઞા) - વિભાગ B: (ભૌતિક અર્થ) <br> (1) y(x, t) (A) તરંગની ઝડપ <br> (2) v = λ/T (B) કણનું સ્થાનાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y એ સ્થાન અને સમયનું વિધેય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (તરંગોનું સંપાતીકરણ) - વિભાગ B: (પરિણામ) <br> (1) સમાન આવૃત્તિ, વિરુદ્ધ દિશા (A) સ્પંદ <br> (2) થોડી જુદી આવૃત્તિ, સમાન દિશા (B) સ્થિર તરંગો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ દિશા = સ્થિર, જુદી આવૃત્તિ = બીટ્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (આવૃત્તિ f = 500 Hz) - વિભાગ B: (આવર્તકાળ T) <br> (1) T (A) 2 ms <br> (2) 2T (B) 4 ms",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = 1/500 = 0.002 s = 2 ms.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (માધ્યમ) - વિભાગ B: (બલ્ક મોડ્યુલસ B) <br> (1) વધુ દબનીય (A) ઓછું B <br> (2) ઓછું દબનીય (B) વધુ B",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bulk Modulus એટલે 'કડકાઈ'. જેટલું કડક એટલું B વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (તરંગ સમીકરણ) - વિભાગ B: (પરિમાણ) <br> (1) kx (A) પરિમાણરહિત (રેડિયન) <br> (2) ωt (B) પરિમાણરહિત (રેડિયન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાઈન (sin) ની અંદર જે હોય એ બધું 'લગ્ન વગરનું' (એકમરહિત) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (બીટ્સની સંખ્યા) - વિભાગ B: (ઉપયોગ) <br> (1) અજ્ઞાત આવૃત્તિ શોધવા (A) સ્પંદનો ઉપયોગ <br> (2) વાદ્યો મેળવવા (Tuning) (B) સ્પંદનો ઉપયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પંદ એટલે 'તફાવત', જે શોધવા માટે કામ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (ગ્રાફનો આકાર) - વિભાગ B: (તરંગ પ્રકાર) <br> (1) સાઈન વક્ર (A) હાર્મોનિક તરંગ <br> (2) અનિયમિત વક્ર (B) બિન-હાર્મોનિક તરંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાઈન/કોસ એટલે જ હાર્મોનિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (તરંગ ઝડપ) - વિભાગ B: (અન્ય રાશિ) <br> (1) v = λf (A) તરંગલંબાઈ અને આવૃત્તિ <br> (2) v = √(γRT/M) (B) તાપમાન અને આણ્વિય દળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા માટે ઝડપ 'મોલીક્યુલર વેઈટ' (M) પર પણ આધાર રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (કળા તફાવત 0) - વિભાગ B: (વ્યતિકરણ) <br> (1) રચનાત્મક (A) તીવ્રતા મહત્તમ <br> (2) વિનાશક (B) તીવ્રતા લઘુત્તમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રચના = પ્લસ (Max), વિનાશ = માઈનસ (Min).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (ધ્વનિનો વેગ) - વિભાગ B: (લાપ્લાસ સુધારો) <br> (1) ગણતરી કરેલ મૂલ્ય (A) 332 m/s <br> (2) ન્યૂટનનું મૂલ્ય (B) 280 m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટન થોડો 'પાછળ' રહી ગયો (ઓછો વેગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (ઓપન પાઇપ) - વિભાગ B: (તરંગલંબાઈ λ) <br> (1) n મો હાર્મોનિક (A) 2L/n <br> (2) મૂળભૂત (n=1) (B) 2L",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપન પાઇપ અને દોરીના સૂત્રો સેમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (ક્લોઝ્ડ પાઇપ n=1) - વિભાગ B: (તરંગલંબાઈ λ) <br> (1) λ (A) 4L <br> (2) બીજો હાર્મોનિક (B) અસ્તિત્વ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોઝ્ડ પાઇપમાં 'બેકી' (Even) હાર્મોનિક્સ ખોવાઈ ગયા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (દોલકનો વેગ) - વિભાગ B: (સૂત્ર) <br> (1) તરંગ વેગ v (A) dy/dt <br> (2) કણ વેગ vp (B) λ/T",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરંગ 'દોડે' (λ/T), કણ 'ઉપર-નીચે' થાય (dy/dt).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (સ્થિર તરંગનું સમીકરણ) - વિભાગ B: (ભાગો) <br> (1) 2A sin(kx) (A) સમય સાથે બદલાતો ભાગ <br> (2) cos(ωt) (B) સ્થાન સાથે બદલાતો કંપવિસ્તાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x વાળો ભાગ કંપવિસ્તાર નક્કી કરે, t વાળો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: (એકમ) - વિભાગ B: (રાશિ) <br> (1) Watt/m^2 (A) ધ્વનિની તીવ્રતા <br> (2) kg/s^2 (B) પૃષ્ઠતાણ (તરંગ માટે ગૌણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્રતા = પાવર / એરિયા (W/m^2).</p></div>"
+    }
+  ]
+}

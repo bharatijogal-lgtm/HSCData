@@ -116,3 +116,111 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "સુરેખ પથ પર ગતિ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પથલંબાઈ અને સ્થાનાંતર વચ્ચેનો મુખ્ય તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પથલંબાઈ એ પદાર્થે કાપેલું કુલ અંતર છે, જે હંમેશા ધન હોય છે અને અદિશ રાશિ છે. જ્યારે સ્થાનાંતર એ પદાર્થના સ્થાનમાં થતો ફેરફાર (અંતિમ સ્થાન - પ્રારંભિક સ્થાન) છે, જે ધન, ઋણ કે શૂન્ય હોઈ શકે છે અને તે સદિશ રાશિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથલંબાઈ = 'દોડેલું બધું જ', સ્થાનાંતર = 'શોર્ટ-કટ' (અંતિમ - પ્રારંભિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સરેરાશ વેગ અને સરેરાશ ઝડપ કયા સંજોગોમાં સમાન થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ સુરેખ પથ પર એક જ દિશામાં ગતિ કરતો હોય, ત્યારે તેની પથલંબાઈ અને સ્થાનાંતરનું મૂલ્ય સમાન થાય છે. આ કિસ્સામાં સરેરાશ વેગનું મૂલ્ય અને સરેરાશ ઝડપ સમાન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિશા ન બદલાય તો વેગ = ઝડપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "તત્કાલીન વેગ (Instantaneous Velocity) વ્યાખ્યાયિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિમાન પદાર્થના કોઈ ચોક્કસ સમયે અથવા નિશ્ચિત ક્ષણે વેગને તત્કાલીન વેગ કહે છે. સૂત્ર: $v = \\lim_{\\Delta t \\to 0} \\frac{\\Delta x}{\\Delta t} = \\frac{dx}{dt}$. તે સ્થાનનું સમય સાપેક્ષ પ્રથમ વિકલન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તત્કાલીન' એટલે જે-તે સેકન્ડનો સ્પિડોમીટર વાળો વેગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પ્રવેગ એટલે શું? તેનો એકમ અને પારિમાણિક સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમય સાથે વેગમાં થતા ફેરફારના દરને પ્રવેગ કહે છે. $a = \\frac{dv}{dt}$. તેનો SI એકમ $m/s^2$ અથવા $ms^{-2}$ છે. પારિમાણિક સૂત્ર $[M^0 L^1 T^{-2}]$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ = વેગનો ફેરફાર / સમય (V / T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સ્થાન-સમય ($x-t$) આલેખનો ઢાળ શું દર્શાવે છે? સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાન-સમય આલેખનો ઢાળ તે ક્ષણે પદાર્થનો તત્કાલીન વેગ દર્શાવે છે. જો આલેખ સુરેખા હોય અને ધન ઢાળ ધરાવતો હોય, તો વેગ અચળ અને ધન હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x vs t નો ઢાળ = વેગ (v).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વેગ-સમય ($v-t$) આલેખ દ્વારા ઘેરાયેલા ક્ષેત્રફળનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગ-સમય ($v-t$) ના આલેખ નીચે ઘેરાયેલું ક્ષેત્રફળ આપેલ સમયગાળામાં પદાર્થ દ્વારા થયેલું સ્થાનાંતર દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v-t આલેખનું 'Area' = સ્થાનાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મુક્ત પતન (Free Fall) એટલે શું? તેના માટે ગુરુત્વપ્રવેગનું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ માત્ર પૃથ્વીના ગુરુત્વાકર્ષણ બળની અસર હેઠળ ગતિ કરે (હવાના અવરોધને અવગણતા), ત્યારે તેવી ગતિને મુક્ત પતન કહે છે. પૃથ્વીની સપાટી નજીક તેનું મૂલ્ય $g = 9.8 \\, m/s^2$ લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતન એટલે $v_0 = 0$ અને $a = g$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સ્ટોપિંગ ડિસ્ટન્સ (Stopping Distance) એટલે શું? તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિમાન વાહનને બ્રેક માર્યા પછી તે સ્થિર થાય તે પહેલાં તેણે કાપેલા અંતરને સ્ટોપિંગ ડિસ્ટન્સ કહે છે. સૂત્ર: $d_s = \\frac{-v_0^2}{2a}$ અથવા $d_s = \\frac{v_0^2}{2|a|}$. તે વાહનના પ્રારંભિક વેગના વર્ગના સમપ્રમાણમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ બમણો તો સ્ટોપિંગ ડિસ્ટન્સ 4 ગણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રતિક્રિયા સમય (Reaction Time) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ ઘટના બને અને વ્યક્તિ તેનું અવલોકન કરી તેના પર પ્રતિક્રિયા આપે તે વચ્ચેના સમયગાળાને પ્રતિક્રિયા સમય કહે છે. દા.ત. લાલ લાઈટ જોઈ બ્રેક મારવા વચ્ચેનો સમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિક્રિયા સમય = વિચારવાનો સમય + એક્શન લેવાનો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો પદાર્થનો વેગ શૂન્ય હોય, તો શું તેનો પ્રવેગ અશૂન્ય હોઈ શકે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, પદાર્થનો વેગ શૂન્ય હોય છતાં પ્રવેગ હોઈ શકે છે. ઉદાહરણ તરીકે, જ્યારે પદાર્થને ઉર્ધ્વ દિશામાં ફેંકવામાં આવે ત્યારે મહત્તમ ઊંચાઈએ ક્ષણિક વેગ શૂન્ય હોય છે, પરંતુ ગુરુત્વપ્રવેગ $g$ કાર્યરત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર $v=0$ પણ $a=g$ (જીવતો હોય!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સાપેક્ષ વેગ (Relative Velocity) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પદાર્થની સાપેક્ષે બીજા પદાર્થના વેગને સાપેક્ષ વેગ કહે છે. જો પદાર્થ $A$ નો વેગ $v_A$ અને $B$ નો વેગ $v_B$ હોય, તો $B$ ની સાપેક્ષે $A$ નો વેગ $v_{AB} = v_A - v_B$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપેક્ષ વેગ = પોતાનો વેગ - જેની સાપેક્ષે હોય તેનો વેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નિયમિત ગતિ અને અનિયમિત ગતિ વચ્ચેનો ભેદ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પદાર્થ સમાન સમયગાળામાં સમાન અંતર કાપતો હોય, તો તેને નિયમિત ગતિ કહેવાય (અચળ વેગ). જો પદાર્થ સમાન સમયગાળામાં અસમાન અંતર કાપતો હોય, તો તેને અનિયમિત ગતિ કહેવાય (બદલાતો વેગ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ વેગ = નિયમિત, બદલાતો વેગ = અનિયમિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગેલેલીયોનો એકી સંખ્યાનો નિયમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિર સ્થિતિમાંથી મુક્ત પતન કરતા પદાર્થ દ્વારા સમાન સમયગાળામાં કપાયેલા અંતરોનો ગુણોત્તર એકી સંખ્યામાં હોય છે. એટલે કે $1 : 3 : 5 : 7 : ...$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતનમાં અંતરનો રેશિયો = $1:3:5:7$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અચળ પ્રવેગી ગતિનું સમીકરણ $v = v_0 + at$ આલેખની રીતે મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગ-સમયના આલેખનો ઢાળ પ્રવેગ આપે છે. ઢાળ $a = \frac{v - v_0}{t - 0} \Rightarrow a = \frac{v - v_0}{t}$. માટે $at = v - v_0$, તેથી $v = v_0 + at$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગનો ફેરફાર = પ્રવેગ $\times$ સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પ્રતિપ્રવેગ એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો સમય સાથે પદાર્થના વેગમાં ઘટાડો થતો હોય, તો પદાર્થની ગતિને પ્રતિપ્રવેગી ગતિ કહે છે અને તેના પ્રવેગને પ્રતિપ્રવેગ કહે છે. ઉદાહરણ: બ્રેક મારતા વાહનની ગતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ ઘટે તો પ્રતિપ્રવેગ (ઋણ ચિહ્ન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નિર્દેશ ફ્રેમ (Frame of Reference) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થનું સ્થાન દર્શાવવા માટે જે યામ પદ્ધતિનો ઉપયોગ થાય છે અને જેની સાપેક્ષે અવલોકનકાર ગતિ માપે છે, તેને નિર્દેશ ફ્રેમ કહે છે. સામાન્ય રીતે 'સ્થિર પૃથ્વી' ને નિર્દેશ ફ્રેમ તરીકે લેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ઊભા રહીને તમે ગતિ જુઓ છો, તે તમારી નિર્દેશ ફ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નિયમિત ગતિ કરતા પદાર્થ માટે $x-t$ આલેખ દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમિત ગતિ (અચળ વેગ) માટે સ્થાન-સમય ($x-t$) આલેખ હંમેશા એક ઉગમબિંદુમાંથી પસાર થતી અથવા કોઈ ચોક્કસ બિંદુથી શરૂ થતી 'સીધી રેખા' (સુરેખા) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ વેગ = ઢાળ અચળ = સીધી લાઈન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$n$-મી સેકન્ડમાં કાપેલા અંતરનું સૂત્ર લખો અને તેના પદો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $D_n = v_0 + \frac{a}{2}(2n - 1)$. જ્યાં $v_0$ = પ્રારંભિક વેગ, $a$ = પ્રવેગ અને $n$ = જે-તે સેકન્ડનો ક્રમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર કોઈ એક ચોક્કસ સેકન્ડનું અંતર શોધવા આ સૂત્ર વાપરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શા માટે પથલંબાઈ હંમેશા સ્થાનાંતરના મૂલ્ય જેટલી અથવા તેનાથી વધારે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પથલંબાઈ એ ગતિપથની કુલ લંબાઈ છે, જ્યારે સ્થાનાંતર એ બે બિંદુઓ વચ્ચેનું લઘુત્તમ અંતર છે. જો ગતિ વાંકીચૂકી હોય, તો પથલંબાઈ હંમેશા વધી જાય. સુરેખ ગતિમાં જ તે સમાન હોય શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો ગમે તેવો હોય, પથલંબાઈ ક્યારેય ઘટે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વેગ-સમય ($v-t$) આલેખનો ઢાળ શું આપે છે? જો ઢાળ શૂન્ય હોય તો ગતિ કેવી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v-t$ આલેખનો ઢાળ 'પ્રવેગ' આપે છે. જો ઢાળ શૂન્ય હોય, તો પ્રવેગ શૂન્ય કહેવાય, જેનો અર્થ છે કે પદાર્થ અચળ વેગથી (નિયમિત ગતિ) ગતિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ = 0 $\rightarrow$ વેગમાં ફેરફાર = 0 $\rightarrow$ નિયમિત ગતિ.</p></div>"
+    }
+  ]
+}

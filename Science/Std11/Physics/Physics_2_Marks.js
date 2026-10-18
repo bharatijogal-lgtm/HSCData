@@ -332,3 +332,111 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "ગતિના નિયમો",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એરિસ્ટોટલનો ગતિ અંગેનો ફલિતાર્થ શું હતો અને તેમાં શું ક્ષતિ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરિસ્ટોટલનો મત હતો કે 'પદાર્થને ગતિમાં રાખવા માટે બાહ્ય બળ જરૂરી છે.' <br><strong>ક્ષતિ:</strong> એરિસ્ટોટલ એ સમજવામાં નિષ્ફળ રહ્યા કે પદાર્થની ગતિનો વિરોધ કરતું ઘર્ષણબળ હાજર હોય છે. વાસ્તવમાં, અચળ વેગથી ગતિ કરતા પદાર્થ પરનું પરિણામી બાહ્ય બળ શૂન્ય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરિસ્ટોટલ = 'બળ વગર ગતિ નહીં' (જે ખોટું છે), ગેલિલિયો = 'બળ વગર અચળ વેગ શક્ય છે' (જે સાચું છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જડત્વ (Inertia) એટલે શું? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થ પોતાની અવસ્થા (સ્થિર કે ગતિમાન) જાતે બદલી શકતો નથી, પદાર્થના આ ગુણધર્મને જડત્વ કહે છે. <br><strong>પ્રકારો:</strong> (1) સ્થિર સ્થિતિનું જડત્વ, (2) ગતિનું જડત્વ, (3) દિશાનું જડત્વ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જડત્વ એટલે પદાર્થનો 'આળસ'. જેવો છે તેવો જ રહેવાની વૃત્તિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ન્યૂટનનો ગતિનો પ્રથમ નિયમ લખો અને તે શાની વ્યાખ્યા આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમ: 'જ્યાં સુધી પદાર્થ પર ચોખ્ખું બાહ્ય બળ ન લાગે ત્યાં સુધી સ્થિર પદાર્થ સ્થિર રહે છે અને ગતિમાન પદાર્થ પોતાની અચળ વેગી ગતિ ચાલુ રાખે છે.' <br>આ નિયમ <strong>બળ</strong> અને <strong>જડત્વ</strong> ની વ્યાખ્યા આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = 0 તો a = 0 (અવસ્થા બદલાશે નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વેગમાન (Momentum) ની વ્યાખ્યા આપી તેનું સૂત્ર અને એકમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના દળ (m) અને તેના વેગ (v) ના ગુણાકારને વેગમાન (p) કહે છે. <br>સૂત્ર: p = mv <br>એકમ: kg·m/s અથવા N·s <br>પારિમાણિક સૂત્ર: [M¹ L¹ T⁻¹]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'p = mv' - દળદાર પદાર્થ જો વેગમાં આવે તો વેગમાન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ન્યૂટનનો ગતિનો બીજો નિયમ લખો અને તેનું ગાણિતિક સ્વરૂપ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના વેગમાનના ફેરફારનો દર તેના પર લાગતા બાહ્ય બળના સમપ્રમાણમાં હોય છે. <br>F ∝ dp/dt <br>F = k(d(mv)/dt) = m(dv/dt) [જો m અચળ હોય]<br>F = ma</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળ = મા' (F = ma). મમ્મી હંમેશા બળવાન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બળનો આઘાત (Impulse of Force) એટલે શું? તેનું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ જ મોટું બળ ખૂબ જ ટૂંકા સમયગાળા માટે લાગતું હોય, તો બળ અને સમયના ગુણાકારને બળનો આઘાત કહે છે. <br>બળનો આઘાત = F × Δt = Δp (વેગમાનમાં થતો ફેરફાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઘાત = વેગમાનનો ફેરફાર. ક્રિકેટર કેચ પકડતી વખતે હાથ પાછળ ખેંચે તે આનું ઉદાહરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ન્યૂટનનો ગતિનો ત્રીજો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'દરેક ક્રિયાબળ સામે હંમેશા સમાન મૂલ્યનું અને વિરુદ્ધ દિશામાં પ્રતિક્રિયાબળ લાગે છે.' <br>નોંધ: આઘાત અને પ્રત્યાઘાત બે જુદા જુદા પદાર્થો પર લાગે છે, તેથી તેઓ એકબીજાની અસર નાબૂદ કરતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવું કરશો તેવું ભરશો! Action = -Reaction.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વેગમાન સંરક્ષણનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ અલગ કરેલા તંત્ર પરનું કુલ બાહ્ય બળ શૂન્ય હોય, ત્યારે તંત્રનું કુલ વેગમાન અચળ રહે છે. <br>P_total = constant.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બાહ્ય બળ 0, તો વેગમાનમાં કોઈ ફેરફાર (∆p) નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કણનું સંતુલન (Equilibrium) એટલે શું? તેના માટેની શરત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કણ પર લાગતા બધા જ બળોનો સદિશ સરવાળો શૂન્ય થાય, ત્યારે તે કણ સંતુલનમાં છે તેમ કહેવાય. <br>શરત: ΣF = 0 <br>અર્થાત F₁ + F₂ + F₃ + ... = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે બધી બાજુથી ખેંચતા બળોનો 'હિસાબ ઝીરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થિત ઘર્ષણબળ (Static Friction) એટલે શું? તેનું મહત્તમ મૂલ્ય શાના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે પદાર્થોની સંપર્ક સપાટીઓ વચ્ચે સાપેક્ષ ગતિ ન થતી હોય ત્યારે પ્રવર્તતા ઘર્ષણબળને સ્થિત ઘર્ષણબળ (fs) કહે છે. <br>મહત્તમ સ્થિત ઘર્ષણ: (fs)max = μsN <br>જ્યાં μs = સ્થિત ઘર્ષણાંક અને N = લંબબળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિત ઘર્ષણ એ 'સ્વ-નિયંત્રિત' (Self-adjusting) બળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગતિજ ઘર્ષણ (Kinetic Friction) સમજાવી તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે સપાટીઓ વચ્ચે સાપેક્ષ ગતિ શરૂ થાય ત્યારે લાગતા ઘર્ષણને ગતિજ ઘર્ષણ (fk) કહે છે. <br>સૂત્ર: fk = μkN <br>જ્યાં μk = ગતિજ ઘર્ષણાંક. હંમેશા μk < μs હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થને ખસેડવો અઘરો છે (μs), પણ ખસતો રાખવો સહેલો છે (μk).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઘર્ષણ ઘટાડવાના કોઈપણ બે ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) સ્નેહક (Lubricants) નો ઉપયોગ કરીને: તેલ કે ગ્રીસ લગાડવાથી સપાટી લીસી બને છે. <br>(2) બોલ-બેરિંગનો ઉપયોગ કરીને: તે સરકતા ઘર્ષણને ગબડતા ઘર્ષણમાં ફેરવે છે, જેનું મૂલ્ય ખૂબ ઓછું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્રીસિંગ' અને 'રોલિંગ' એ ઘર્ષણના દુશ્મન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નિયમિત વર્તુળમય ગતિ માટે કેન્દ્રગામી બળનું સૂત્ર અને તેની દિશા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> m દળનો પદાર્થ v વેગથી r ત્રિજ્યાના વર્તુળ પર ગતિ કરે ત્યારે લાગતું બળ: <br>Fc = mv²/r <br><strong>દિશા:</strong> હંમેશા વર્તુળના કેન્દ્ર તરફ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ ફરવા માટે 'કેન્દ્ર' સાથે જોડાઈ રહેવું જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સમતલ રસ્તા પર કારની સલામત ઝડપ (v_max) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વળાંક પર જરૂરી કેન્દ્રગામી બળ ઘર્ષણબળ પૂરૂં પાડે છે. <br>mv²/r ≤ μsN <br>mv²/r ≤ μsmg <br>v² ≤ μsrg <br>v_max = √ (μsrg)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v = √(μrg). જો રસ્તો ભીનો (μ ઓછો) તો ઝડપ ઘટાડવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઢોળાવવાળા (Banked) રસ્તાની જરૂરિયાત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતલ રસ્તા પર માત્ર ઘર્ષણ પર આધાર રાખવો જોખમી છે (ટાયર ઘસાય અથવા વરસાદમાં લપસી જવાય). ઢોળાવવાળા રસ્તામાં લંબબળનો ઘટક (N sinθ) જરૂરી કેન્દ્રગામી બળ પૂરૂં પાડે છે, જેથી વધુ ઝડપે સલામત વળાંક લઈ શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્કિંગ = ઘર્ષણ પરની નિર્ભરતા ઘટાડવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઢોળાવવાળા રસ્તા પર કારની ઓપ્ટિમમ (ઇષ્ટતમ) ઝડપનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ઘર્ષણબળ શૂન્ય ગણીએ ત્યારે જે ઝડપે ટાયરનો ઘસારો ન્યૂનતમ હોય તેને ઓપ્ટિમમ ઝડપ કહે છે. <br>v_o = √ (rg tanθ) <br>જ્યાં θ = ઢોળાવનો ખૂણો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘર્ષણ વગર વળાંક લેવો હોય તો 'tanθ' ની મદદ લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મુક્ત પદાર્થ રેખાકૃતિ (Free Body Diagram - FBD) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જટિલ તંત્રમાંથી કોઈ એક પદાર્થને અલગ કલ્પી, તેના પર લાગતા તમામ બાહ્ય બળોને સદિશ સ્વરૂપે દર્શાવતી આકૃતિને FBD કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થને 'એકલો' પાડી તેના પરના બધા 'બળ' બતાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગબડતું ઘર્ષણ (Rolling Friction) એ ગતિજ ઘર્ષણ કરતા કેમ ઓછું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગબડતી ગતિ દરમિયાન સંપર્ક સપાટીનું ક્ષેત્રફળ અત્યંત ઓછું હોય છે અને સંપર્ક બિંદુઓ ક્ષણિક રીતે સ્થિર હોય છે. આથી વિરોધક બળ ઘણું ઓછું લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકવા કરતા ગબડવું સહેલું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બળના આઘાત અને વેગમાન વચ્ચેનો સંબંધ દર્શાવતું ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કરાટે પ્લેયર બરફની પાટલી તોડે છે, ત્યારે તે ખૂબ જ ટૂંકા સમયમાં (t ઘટાડીને) મોટું બળ (F વધારીને) વેગમાનમાં મોટો ફેરફાર લાવે છે, જે પાટલી તોડવા માટે પૂરતો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય ઓછો = બળ વધુ (F ∝ 1/Δt).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બંદૂકમાંથી ગોળી છોડતા બંદૂક પાછળ ધકેલાય છે - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગમાન સંરક્ષણના નિયમ મુજબ, શરૂઆતનું કુલ વેગમાન શૂન્ય હોવાથી અંતિમ કુલ વેગમાન પણ શૂન્ય થવું જોઈએ. <br>m_v + M_V = 0 => V = -(m/M)v <br>અહીં ઋણ નિશાની દર્શાવે છે કે બંદૂક (M) ગોળીની વિરુદ્ધ દિશામાં ગતિ કરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળી આગળ, બંદૂક પાછળ. વેગમાનનો હિસાબ બરાબર!</p></div>"
+    }
+  ]
+}

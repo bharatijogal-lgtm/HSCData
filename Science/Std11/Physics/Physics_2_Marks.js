@@ -440,3 +440,111 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "કાર્ય, ઊર્જા અને પાવર",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કાર્યની વ્યાખ્યા આપી તેનું સૂત્ર અને પારિમાણિક સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ પર બળ લાગતું હોય અને પદાર્થનું સ્થાનાંતર બળની દિશામાં અથવા બળ સાથે કોઈ ખૂણે થતું હોય, ત્યારે બળ અને સ્થાનાંતરના અદિશ ગુણાકારને 'કાર્ય' કહે છે. <br> સૂત્ર: $W = \vec{F} \cdot \vec{d} = Fd \cos \theta$ <br> એકમ: જૂલ (J) અથવા ન્યૂટન-મીટર (N·m) <br> પારિમાણિક સૂત્ર: $[M^1 L^2 T^{-2}]$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - કાર્ય એટલે 'બળ x સ્થાનાંતર x cos θ'. યાદ રાખો: 'કા-બ-સ' (કાર્ય = બળ * સ્થાનાંતર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ધન કાર્ય, ઋણ કાર્ય અને શૂન્ય કાર્ય ક્યારે થાય તે ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <b>ધન કાર્ય:</b> જ્યારે $\\theta < 90^\\circ$ હોય (દા.ત. પદાર્થ મુક્ત પતન કરે ત્યારે ગુરુત્વાકર્ષણ બળ વડે થતું કાર્ય). <br> 2. <b>ઋણ કાર્ય:</b> જ્યારે $\\theta > 90^\\circ$ હોય (દા.ત. ઘર્ષણ બળ વડે થતું કાર્ય). <br> 3. <b>શૂન્ય કાર્ય:</b> જ્યારે $\\theta = 90^\\circ$ હોય (દા.ત. પદાર્થ માથા પર ઉપાડીને સમક્ષિતિજ ચાલતો મજૂર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - દિશા સમાન તો કાર્ય ધન (+), દિશા વિરુદ્ધ તો કાર્ય ઋણ (-), દિશા લંબ તો કાર્ય શૂન્ય (0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગતિઊર્જાની વ્યાખ્યા આપી તેનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થ તેની ગતિને કારણે કાર્ય કરવાની જે ક્ષમતા ધરાવે છે તેને પદાર્થની 'ગતિઊર્જા' કહે છે. <br> ધારો કે m દળનો પદાર્થ v વેગથી ગતિ કરે છે, તો ગતિઊર્જા $K = \\frac{1}{2} mv^2$ થાય. <br> તે પદાર્થના વેગમાન (p) સાથે $K = \\frac{p^2}{2m}$ સંબંધ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 'અડધું દળ ગુણ્યા વેગનો વર્ગ' એટલે ગતિઊર્જા. $K = 0.5 mv^2$ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાર્ય-ઊર્જા પ્રમેય લખો અને અચળ બળ માટે તે સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કણ પર લાગતા પરિણામી બળ વડે થયેલું કાર્ય તેની ગતિઊર્જામાં થતા ફેરફાર જેટલું હોય છે. <br> સાબિતી: $v^2 - v_0^2 = 2ad$ પરથી, $\\frac{1}{2}mv^2 - \\frac{1}{2}mv_0^2 = mad$ <br> $K_f - K_i = F \cdot d = W$ <br> આમ, $W = \\Delta K$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - કાર્ય = ગતિઊર્જાનો બદલાવ (Delta K). જેટલું કામ કરશો એટલી ઊર્જા બદલાશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સ્થિતિઊર્જાની વ્યાખ્યા આપી ગુરુત્વીય સ્થિતિઊર્જાનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના સ્થાન અથવા તેના સંરૂપણ (Configuration) ને કારણે પદાર્થમાં સંગ્રહાયેલી કાર્ય કરવાની ક્ષમતાને 'સ્થિતિઊર્જા' (Potential Energy) કહે છે. <br> પૃથ્વીની સપાટીથી h ઊંચાઈએ રહેલા m દળના પદાર્થની ગુરુત્વીય સ્થિતિઊર્જા: $V(h) = mgh$ <br> જ્યાં g = ગુરુત્વપ્રવેગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - સ્થિતિઊર્જા એટલે પદાર્થની ઊંચાઈ (h) નો પાવર! સૂત્ર: m-g-h.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંરક્ષી બળ એટલે શું? તેના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો બળ વડે થતું કાર્ય માત્ર પદાર્થના પ્રારંભિક અને અંતિમ સ્થાન પર જ આધાર રાખતું હોય અને તે ગતિમાર્ગ પર આધારિત ન હોય, તો તેવા બળને 'સંરક્ષી બળ' કહે છે. <br> ઉદાહરણ: 1. ગુરુત્વાકર્ષણ બળ 2. સ્પ્રિંગ બળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - રસ્તો ગમે તે હોય, જો જવાબ સ્થાન પરથી મળે તો તે 'સંરક્ષી'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અસંરક્ષી બળ એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બળ વડે પદાર્થ પર થતું કાર્ય પદાર્થના ગતિમાર્ગ પર આધાર રાખતું હોય, તેને 'અસંરક્ષી બળ' કહે છે. <br> ઉદાહરણ: ઘર્ષણ બળ, સ્નિગ્ધતા બળ. <br> આવા બળોમાં ગતિ દરમિયાન ઊર્જાનો વ્યય ઉષ્મા સ્વરૂપે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - જે બળ 'રસ્તા' (Path) ને મહત્વ આપે તે અસંરક્ષી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "યાંત્રિક ઊર્જા સંરક્ષણનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'જો પદાર્થ પર માત્ર સંરક્ષી બળો જ કાર્ય કરતા હોય, તો તેની કુલ યાંત્રિક ઊર્જા (ગતિઊર્જા + સ્થિતિઊર્જા) અચળ રહે છે.' <br> ગાણિતિક સ્વરૂપ: $E = K + V = \\text{constant}$ <br> એટલે કે $\\Delta K + \\Delta V = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 'K + V = અચળ'. એક વધે તો બીજી ઘટે પણ સરવાળો સરખો જ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્પ્રિંગના બળ અચળાંક (k) ની વ્યાખ્યા અને એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પ્રિંગમાં એકમ લંબાઈના વધારા કે ઘટાડા દીઠ ઉદ્ભવતા પુનઃસ્થાપક બળને 'સ્પ્રિંગનો બળ અચળાંક' (k) કહે છે. <br> સૂત્ર: $F = -kx \\Rightarrow k = \\frac{|F|}{x}$ <br> એકમ: $N/m$ <br> પારિમાણિક સૂત્ર: $[M^1 L^0 T^{-2}]$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - k એટલે સ્પ્રિંગ કેટલી 'કડક' છે તેનું માપ. જેટલું k વધારે એટલી સ્પ્રિંગ કડક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખેંચાયેલી કે દબાયેલી સ્પ્રિંગની સ્થિતિઊર્જાનું સૂત્ર લખો અને તેની લાક્ષણિકતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પ્રિંગને x જેટલી ખેંચતા કે દબાવતા તેમાં સંગ્રહિત સ્થિતિઊર્જા $V(x) = \\frac{1}{2} kx^2$ છે. <br> લાક્ષણિકતા: સ્પ્રિંગની સ્થિતિઊર્જા હંમેશા ધન હોય છે, ભલે સ્પ્રિંગ ખેંચાયેલી હોય (x > 0) કે દબાયેલી હોય (x < 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - $x$ નો સ્ક્વેર (વર્ગ) છે, એટલે સ્થિતિઊર્જા હંમેશા પોઝિટિવ (+) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પાવર એટલે શું? તેનું સૂત્ર અને એકમો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્ય કરવાના સમય દરને 'પાવર' (Power) કહે છે. <br> પાવર $P = \\frac{W}{t}$ <br> એકમ: વોટ (Watt), $1 W = 1 J/s$ <br> અન્ય એકમ: હોર્સ પાવર (HP), $1 HP = 746 W$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - પાવર એટલે 'કામ કેટલું ઝડપી થયું તે'. $P = W/t$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "તાત્ક્ષણિક પાવરનું બળ અને વેગના પદમાં સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાવર $P = \\frac{dW}{dt}$ <br> પણ $dW = \\vec{F} \\cdot d\\vec{r}$ <br> તેથી $P = \\vec{F} \\cdot \\frac{d\\vec{r}}{dt}$ <br> આપણે જાણીએ છીએ કે $\\vec{v} = \\frac{d\\vec{r}}{dt}$ <br> આમ, $P = \\vec{F} \\cdot \\vec{v} = Fv \\cos \\theta$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - પાવર એટલે 'બળ અને વેગનો ડોટ ગુણાકાર'. P = F.v યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંપૂર્ણ સ્થિતિસ્થાપક સંઘાત (Elastic Collision) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંઘાત (અથડામણ) દરમિયાન તંત્રનું કુલ રેખીય વેગમાન અને કુલ ગતિઊર્જા બંનેનું સંરક્ષણ થતું હોય, તેવા સંઘાતને 'સંપૂર્ણ સ્થિતિસ્થાપક સંઘાત' કહે છે. <br> ઉદાહરણ: પરમાણ્વિક કણો વચ્ચેની અથડામણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - સ્થિતિસ્થાપક = વેગમાન OK + ગતિઊર્જા પણ OK (બંને સચવાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અસ્થિતિસ્થાપક સંઘાત એટલે શું? તેમાં ઊર્જાનું શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંઘાતમાં તંત્રનું કુલ વેગમાન સચવાય છે પરંતુ કુલ ગતિઊર્જાનું સંરક્ષણ થતું નથી, તેને 'અસ્થિતિસ્થાપક સંઘાત' કહે છે. <br> ગતિઊર્જાનો વ્યય ઉષ્મા, ધ્વનિ કે પ્રકાશ સ્વરૂપે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - અસ્થિતિસ્થાપક = વેગમાન OK પણ ગતિઊર્જામાં લોચો (વ્યય)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સંપૂર્ણ અસ્થિતિસ્થાપક સંઘાત (Completely Inelastic Collision) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો બે પદાર્થો અથડાયા પછી એકબીજા સાથે જોડાઈને (ચોંટીને) સંયુક્ત પદાર્થ તરીકે ગતિ કરે, તો તેવા સંઘાતને 'સંપૂર્ણ અસ્થિતિસ્થાપક સંઘાત' કહે છે. <br> ઉદાહરણ: ગતિ કરતી બુલેટનું લાકડાના બ્લોકમાં ભરાઈ જવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ફેવિકોલ જેવી અથડામણ! અથડાયા પછી 'સાથ સાથ' ગતિ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "1 કિલોવોટ-કલાક (1 kWh) એટલે કેટલા જૂલ? ગણતરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1 kWh = 1000 W \\times 3600 s$ <br> $1 kWh = 36,00,000 J$ <br> $1 kWh = 3.6 \\times 10^6 J$ <br> આ ઊર્જાનો વ્યાપારી એકમ છે, જેને 'યુનિટ' પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 1 kWh = 3.6 મેગા જૂલ. યાદ રાખો: 'ત્રણ પોઈન્ટ છ, ઘાત છ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મુક્ત પતન કરતા પદાર્થ માટે કુલ યાંત્રિક ઊર્જાના સંરક્ષણની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ h ઊંચાઈએથી નીચે પડે છે, ત્યારે તેની સ્થિતિઊર્જા (mgh) ઘટતી જાય છે અને ગતિઊર્જા (1/2 mv²) વધતી જાય છે. <br> દરેક બિંદુએ ગતિઊર્જા અને સ્થિતિઊર્જાનો સરવાળો હંમેશા mgh જેટલો અચળ રહે છે. $E = K + V = \\text{constant}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - જેમ ઊંચાઈ ઘટે તેમ વેગ વધે, સરવાળો તો સરખો જ રે'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બળ અને સ્થિતિઊર્જા વચ્ચેનો સંબંધ સૂત્ર સ્વરૂપે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંરક્ષી બળ ક્ષેત્રમાં પદાર્થ પર લાગતું બળ એ સ્થિતિઊર્જાના અંતર સાપેક્ષ ઋણ વિકલન બરાબર હોય છે. <br> $F(x) = - \\frac{dV(x)}{dx}$ <br> આ સૂત્ર દર્શાવે છે કે બળ હંમેશા સ્થિતિઊર્જા ઘટતી હોય તે દિશામાં લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 'બળ = માઈનસ ઢાળ'. સ્થિતિઊર્જાના ગ્રાફનો ઢાળ એટલે બળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બે પરિમાણમાં થતા સંઘાત (Collisions in 2D) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો બે પદાર્થોની અથડામણ પછી તેઓ એક જ રેખા પર ગતિ કરવાને બદલે કોઈ સમતલમાં જુદી જુદી દિશામાં ગતિ કરે, તો તેને 'દ્વિ-પરિમાણીય સંઘાત' કહે છે. <br> અહીં x અને y બંને અક્ષો પર વેગમાનનું અલગ-અલગ સંરક્ષણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - કેરમની કૂકી જેવી ગતિ! અથડાયા પછી ફંટાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાર્ય માટે અદિશ ગુણાકાર (Dot Product) ના બે ગુણધર્મો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. અદિશ ગુણાકાર ક્રમના નિયમનું પાલન કરે છે: $\\vec{A} \\cdot \\vec{B} = \\vec{B} \\cdot \\vec{A}$. <br> 2. તે વિભાજનના નિયમનું પાલન કરે છે: $\\vec{A} \\cdot (\\vec{B} + \\vec{C}) = \\vec{A} \\cdot \\vec{B} + \\vec{A} \\cdot \\vec{C}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ડોટ ગુણાકારમાં ક્રમ બદલાય તો પણ જવાબ ન બદલાય!</p></div>"
+    }
+  ]
+}

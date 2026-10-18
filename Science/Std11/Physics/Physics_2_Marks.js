@@ -224,3 +224,111 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સમતલમાં ગતિ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અદિશ અને સદિશ રાશિઓ વચ્ચેનો મુખ્ય તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ભૌતિક રાશિને દર્શાવવા માટે માત્ર મૂલ્યની જ જરૂર હોય તેને અદિશ રાશિ કહે છે (દા.ત. દળ, અંતર). જ્યારે જે રાશિને દર્શાવવા માટે મૂલ્ય અને દિશા બંનેની જરૂર હોય તેને સદિશ રાશિ કહે છે (દા.ત. વેગ, બળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અદિશ = માત્ર આંકડો (Value), સદિશ = આંકડો + તીર (Direction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એકમ સદિશ એટલે શું? તેનું સૂત્ર અને મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સદિશનું મૂલ્ય એક (1) હોય તેને એકમ સદિશ કહે છે. સદિશ $\\vec{A}$ ની દિશામાંનો એકમ સદિશ $\\hat{n} = \\frac{\\vec{A}}{|\\vec{A}|}$ છે. તે માત્ર દિશા સૂચવવા માટે વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમ સદિશ = સદિશના છેદમાં તેનું માન (Value). તે દિશાનો 'કેપ્ટન' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શૂન્ય સદિશ (Null Vector) એટલે શું? તેના કોઈપણ બે ગુણધર્મો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સદિશનું મૂલ્ય શૂન્ય હોય તેને શૂન્ય સદિશ ($\\vec{0}$) કહે છે. (1) કોઈપણ સદિશમાં શૂન્ય સદિશ ઉમેરતા તે જ સદિશ મળે: $\\vec{A} + \\vec{0} = \\vec{A}$. (2) કોઈપણ વાસ્તવિક સંખ્યા $\\lambda$ સાથે ગુણાકાર કરતા શૂન્ય સદિશ મળે: $\\lambda \\cdot \\vec{0} = \\vec{0}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય સદિશ એટલે ગણિતનો 'ઝીરો', પણ સદિશની દુનિયાનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સદિશોના સરવાળા માટેનો ત્રિકોણનો નિયમ આકૃતિ દોર્યા વગર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો બે સદિશોને ક્રમમાં લેવાયેલી ત્રિકોણની બે બાજુઓ તરીકે દર્શાવવામાં આવે, તો ત્રીજી બાજુ વિરુદ્ધ ક્રમમાં લેતા તે બે સદિશોનો પરિણામી સદિશ દર્શાવે છે. એટલે કે, $\\vec{R} = \\vec{A} + \\vec{B}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાનું પૂંછડું + બીજાનું માથું = પરિણામી (Tail to Head Method).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સદિશનું સમતલમાં વિભાજન (Resolution of Vector) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સદિશ $\\vec{A}$ ને બે લંબ ઘટકોમાં વિભાજીત કરી શકાય છે: $A_x = A \\cos\\theta$ (X-ઘટક) અને $A_y = A \\sin\\theta$ (Y-ઘટક). જ્યાં $\\theta$ એ સદિશે X-અક્ષ સાથે બનાવેલો ખૂણો છે. સદિશ $\\vec{A} = A_x \\hat{i} + A_y \\hat{j}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણાની પાસેનો ઘટક Cosine ($\\\\cos\\\\theta$) અને સામેનો Sine ($\\\\sin\\\\theta$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પરિણામી સદિશનું મૂલ્ય અને દિશા શોધવાનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે સદિશો $\\vec{A}$ અને $\\vec{B}$ વચ્ચેનો ખૂણો $\\theta$ હોય, તો પરિણામી સદિશનું મૂલ્ય: $R = \\sqrt{A^2 + B^2 + 2AB \\cos\\theta}$. દિશા માટે: $\\tan\\alpha = \\frac{B \\sin\\theta}{A + B \\cos\\theta}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરસ જેવું જ પણ વધારાનું $2AB\\cos\\theta$ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સરેરાશ વેગ અને તાત્ક્ષણિક વેગ વચ્ચેનો તફાવત સમતલમાં ગતિ માટે સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ વેગ એટલે કુલ સ્થાનાંતર અને તે માટે લાગતા કુલ સમયનો ગુણોત્તર ($\\vec{v}_{avg} = \\Delta\\vec{r} / \\Delta t$). જ્યારે સમયનો ગાળો અત્યંત સૂક્ષ્મ ($\\Delta t \\to 0$) લેવામાં આવે ત્યારે મળતા વેગને તાત્ક્ષણિક વેગ ($\\vec{v} = d\\vec{r}/dt$) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશ = આખી મુસાફરી, તાત્ક્ષણિક = સ્પીડોમીટરનો તે ક્ષણનો આંકડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પ્રક્ષિપ્ત ગતિ (Projectile Motion) એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થને પૃથ્વીના ગુરુત્વાકર્ષણ ક્ષેત્રમાં ત્રાંસી દિશામાં ફેંકવામાં આવે ત્યારે તે પદાર્થ અચલ ક્ષિતિજ સમાંતર વેગ અને અચલ ઊર્ધ્વ પ્રવેગ (g) સાથે ગતિ કરે છે, જેને પ્રક્ષિપ્ત ગતિ કહે છે. ઉદા. બેટ્સમેને ફટકારેલો સિક્સર, હવામાં ફેંકેલો દડો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રક્ષિપ્ત ગતિ એટલે 'હવામાં જતો પરવલય (Parabola)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાબિત કરો કે પ્રક્ષિપ્ત પદાર્થનો ગતિપથ પરવલય આકારનો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રક્ષિપ્ત ગતિમાં $x = (v_0 \\cos\\theta)t$ અને $y = (v_0 \\sin\\theta)t - \\frac{1}{2}gt^2$ છે. $t$ ની કિંમત બીજા સમીકરણમાં મૂકતા, $y = (\\tan\\theta)x - \\frac{g}{2(v_0 \\cos\\theta)^2}x^2$ મળે. આ સમીકરણ $y = ax + bx^2$ જેવું હોવાથી ગતિપથ પરવલય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિતમાં $x^2$ વાળું સમીકરણ હંમેશા 'પરવલય' જ બતાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રક્ષિપ્ત પદાર્થ માટે મહત્તમ ઊંચાઈએ પહોંચવા માટે લાગતા સમય ($t_m$) નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ ઊંચાઈએ વેગનો Y-ઘટક $v_y = 0$ થાય. $v_y = v_0 \\sin\\theta - gt$ સૂત્રમાં $v_y = 0$ મૂકતા, $0 = v_0 \\sin\\theta - gt_m \\implies t_m = \\frac{v_0 \\sin\\theta}{g}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈએ જવું હોય તો Sine ઘટક અને 'g' નો ભાગાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રક્ષિપ્ત પદાર્થનો કુલ ઉડ્ડયન સમય (Time of Flight - $T_f$) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થને ફેંકવામાં આવે ત્યારથી તે ફરી જમીન પર આવે તે માટે લાગતા કુલ સમયને ઉડ્ડયન સમય કહે છે. તે મહત્તમ ઊંચાઈએ પહોંચવા માટે લાગતા સમય કરતાં બમણો હોય છે. $T_f = 2t_m = \\frac{2v_0 \\sin\\theta}{g}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર જવા માટે $t_m$, નીચે આવવા માટે $t_m$, કુલ $2t_m$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રક્ષિપ્ત પદાર્થની મહત્તમ ઊંચાઈ ($H$) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રક્ષિપ્ત પદાર્થે તેની ગતિ દરમિયાન મેળવેલી જમીનથી મહત્તમ શિરોલંબ અંતરને મહત્તમ ઊંચાઈ કહે છે. $H = \\frac{(v_0 \\sin\\theta)^2}{2g}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગના સ્ક્વેર સાથે $\\sin^2\\theta$ અને છેદમાં $2g$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પ્રક્ષિપ્ત પદાર્થની અવધિ (Horizontal Range - $R$) એટલે શું? તેનું સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉડ્ડયન સમય $T_f$ દરમિયાન પદાર્થે કાપેલા કુલ ક્ષિતિજ સમાંતર (આડા) અંતરને અવધિ કહે છે. $R = v_{0x} \\times T_f = (v_0 \\cos\\theta) \\times \\frac{2v_0 \\sin\\theta}{g} = \\frac{v_0^2 \\sin 2\\theta}{g}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2 \\sin\\theta \\cos\\theta = \\sin 2\\theta$ (ત્રિકોણમિતિ યાદ કરો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કયા ખૂણે ફેંકવામાં આવે તો પ્રક્ષિપ્ત પદાર્થની અવધિ (Range) મહત્તમ મળે? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવધિ $R = \\frac{v_0^2 \\sin 2\\theta}{g}$. જ્યારે $\\sin 2\\theta = 1$ થાય ત્યારે $R$ મહત્તમ મળે. આ માટે $2\\theta = 90^\\circ \\implies \\theta = 45^\\circ$. આમ, $45^\\circ$ ના ખૂણે અવધિ મહત્તમ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવલિન થ્રો (ભાલા ફેંક) માં ખેલાડી $45^\\circ$ પર જ ફોકસ કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાબિત કરો કે $\\theta$ અને $(90 - \\theta)$ ખૂણે ફેંકતા પ્રક્ષિપ્ત પદાર્થની અવધિ સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂણા $(90-\\theta)$ માટે $\\sin 2(90-\\theta) = \\sin(180-2\\theta) = \\sin 2\\theta$. સૂત્ર મુજબ અવધિ $R$ માં $\\sin 2\\theta$ આવતો હોવાથી બંને ખૂણે $R$ ની કિંમત સમાન મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $30^\\circ$ અને $60^\\circ$ બંને પર દડો એક જ જગ્યાએ પડશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નિયમિત વર્તુળમય ગતિ (Uniform Circular Motion) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ અચળ ઝડપે વર્તુળાકાર પથ પર ગતિ કરતો હોય, ત્યારે તેની ગતિને નિયમિત વર્તુળમય ગતિ કહે છે. ઉદા. ઘડિયાળના કાંટાની ગતિ, પૃથ્વીની સૂર્યની આસપાસની ગતિ (લગભગ નિયમિત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝડપ ફિક્સ, રસ્તો ગોળ = નિયમિત વર્તુળમય ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કોણીય વેગ ($\\omega$) અને રેખીય વેગ ($v$) વચ્ચેનો સંબંધ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $v = \\omega r$, જ્યાં $v$ એ રેખીય વેગ, $\\omega$ એ કોણીય વેગ અને $r$ એ વર્તુળાકાર પથની ત્રિજ્યા છે. કોણીય વેગ $\\omega = \\Delta\\theta / \\Delta t$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીય = કોણીય $\\times$ ત્રિજ્યા ($v = \\omega r$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કેન્દ્રગામી પ્રવેગ (Centripetal Acceleration) એટલે શું? તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમિત વર્તુળમય ગતિમાં વેગની દિશા સતત બદલાતી હોવાથી પ્રવેગ ઉત્પન્ન થાય છે, જે હંમેશા વર્તુળના કેન્દ્ર તરફ હોય છે. તેને કેન્દ્રગામી પ્રવેગ કહે છે. $a_c = \\frac{v^2}{r} = \\omega^2 r$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કેન્દ્ર તરફ ખેંચે, તે કેન્દ્રગામી પ્રવેગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વર્તુળમય ગતિ માટે આવર્તકાળ ($T$) અને આવૃત્તિ ($f$ or $\\nu$) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પૂર્ણ ચક્ર પૂરું કરવા માટે લાગતા સમયને આવર્તકાળ ($T$) કહે છે. એકમ સમયમાં પૂર્ણ થતા ચક્રોની સંખ્યાને આવૃત્તિ ($f$) કહે છે. $f = 1/T$ અને $\\omega = 2\\pi f$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તકાળ = Time, આવૃત્તિ = સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમતલમાં સાપેક્ષ વેગ (Relative Velocity) નું ઉદાહરણ આપી સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે પદાર્થો A અને B વેગ $\\vec{v}_A$ અને $\\vec{v}_B$ થી ગતિ કરતા હોય, ત્યારે A ની સાપેક્ષે B નો વેગ $\\vec{v}_{BA} = \\vec{v}_B - \\vec{v}_A$ થાય. ઉદા. વરસાદમાં છત્રી કઈ દિશામાં પકડવી તે સાપેક્ષ વેગ પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપેક્ષ વેગ = જેનો શોધવો છે તે (-) જેની સાપેક્ષે છે તે.</p></div>"
+    }
+  ]
+}

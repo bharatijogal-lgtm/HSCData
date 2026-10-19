@@ -661,3 +661,116 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ગુરુત્વાકર્ષણ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કેપ્લરનો પ્રથમ નિયમ (કક્ષાનો નિયમ) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બધા જ ગ્રહો સૂર્યની આસપાસ દીર્ઘવૃત્તીય (Elliptical) કક્ષાઓમાં ભ્રમણ કરે છે અને સૂર્ય આ દીર્ઘવૃત્તની બે પૈકીની એક નાભિ (Focus) પર રહેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'દીર્ઘવૃત્ત + નાભિ' - યાદ રાખો કે કક્ષા ગોળ નથી પણ લંબગોળ છે અને સૂર્ય સેન્ટરમાં નથી પણ સાઈડની નાભિ પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કેપ્લરનો બીજો નિયમ (ક્ષેત્રફળનો નિયમ) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્ય અને ગ્રહને જોડતી રેખા સમાન સમયગાળામાં સમાન ક્ષેત્રફળ આંતરે છે. એટલે કે ગ્રહનો ક્ષેત્રીય વેગ (Areal Velocity) અચળ રહે છે. આ નિયમ કોણીય વેગમાન સંરક્ષણના નિયમનું પરિણામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'સમાન સમય = સમાન ક્ષેત્રફળ'. જ્યારે ગ્રહ સૂર્યની નજીક હોય ત્યારે ઝડપી અને દૂર હોય ત્યારે ધીમો ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કેપ્લરનો ત્રીજો નિયમ (આવર્તકાળનો નિયમ) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રહના સૂર્યની આસપાસના પરિભ્રમણના સમયગાળા (આવર્તકાળ T) નો વર્ગ, તેની દીર્ઘવૃત્તીય કક્ષાની અર્ધ-દીર્ઘ અક્ષ (a) ના ઘનના સમપ્રમાણમાં હોય છે. <br>સૂત્ર: T² ∝ a³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'T નો સ્ક્વેર અને a નો ક્યુબ'. જેટલો ગ્રહ દૂર, તેટલો તેનો વર્ષ (આવર્તકાળ) લાંબો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ન્યૂટનનો ગુરુત્વાકર્ષણનો સાર્વત્રિક નિયમ લખો અને તેનું ગાણિતિક સ્વરૂપ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વનો પ્રત્યેક કણ બીજા કણને આકર્ષે છે. આ બળ બે કણોના દળના ગુણાકારના સમપ્રમાણમાં અને તેમની વચ્ચેના અંતરના વર્ગના વ્યસ્ત પ્રમાણમાં હોય છે.<br>સૂત્ર: F = G (m₁m₂) / r²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'દળ વધે તો બળ વધે, અંતર વધે તો બળ ઘટે (વર્ગના પ્રમાણમાં)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સાર્વત્રિક ગુરુત્વાકર્ષણ અચળાંક G ની વ્યાખ્યા અને તેનું મૂલ્ય એકમ સાથે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ દળ ધરાવતા અને એકમ અંતરે રહેલા બે કણો વચ્ચે લાગતા ગુરુત્વાકર્ષણ બળને G કહે છે. <br>મૂલ્ય: G = 6.67 × 10⁻¹¹ N·m²/kg²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: G એટલે 'God' - જે આખા બ્રહ્માંડમાં ગમે ત્યાં જાઓ, ક્યારેય બદલાતો નથી (Constant)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગુરુત્વ પ્રવેગ 'g' અને ગુરુત્વાકર્ષણ અચળાંક 'G' વચ્ચેનો સંબંધ દર્શાવતું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પર m દળના પદાર્થ પર લાગતું બળ F = mg અને ન્યૂટનના નિયમ મુજબ F = GMe·m / Re².<br>આથી, mg = GMe·m / Re² <br>તેથી, g = GMe / Re²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'g એ G નો નાનો ભાઈ છે'. g પૃથ્વીના દળ અને ત્રિજ્યા પર આધાર રાખે છે, પદાર્થના દળ પર નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પૃથ્વીની સપાટીથી ઊંચાઈ (h) સાથે 'g' માં થતો ફેરફાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમ જેમ આપણે પૃથ્વીની સપાટીથી ઉપર જઈએ તેમ અંતર વધતા g ઘટે છે. <br>જો h << Re હોય, તો gh ≈ g [1 - 2h/Re].</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'હાઈટ પર જાઓ તો g ઘટે'. યાદ રાખો: ઉપર જાઓ તો 2 ગણો ઘટાડો (2h/Re).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પૃથ્વીની સપાટીથી ઊંડાઈ (d) સાથે 'g' માં થતો ફેરફાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની અંદર ઊંડાઈએ જતાં પણ g નું મૂલ્ય ઘટે છે. <br>સૂત્ર: gd = g [1 - d/Re]. <br>પૃથ્વીના કેન્દ્ર પર (d=Re) g નું મૂલ્ય શૂન્ય થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'ડેપ્થ (ઊંડાઈ) માં જાઓ તો પણ g ઘટે'. સેન્ટરમાં વજન શૂન્ય થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુરુત્વીય સ્થિતિ ઉર્જાની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ પદાર્થને અનંત અંતરેથી ગુરુત્વાકર્ષી ક્ષેત્રમાં આપેલા બિંદુએ લાવવા માટે કરવા પડતા કાર્યને તે બિંદુએ પદાર્થની ગુરુત્વીય સ્થિતિ ઉર્જા કહે છે. <br>U = -G m₁m₂ / r</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'સ્થિતિ ઉર્જા હંમેશા ઋણ (-ve) હોય' કારણ કે આ આકર્ષી પ્રકારનું બળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નિષ્ક્રમણ ઝડપ (Escape Speed) એટલે શું? પૃથ્વી માટે તેનું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પરથી પદાર્થને ફેંકવા માટે જરૂરી લઘુત્તમ ઝડપ કે જેથી તે પૃથ્વીના ગુરુત્વાકર્ષણમાંથી મુક્ત થઈ અનંત અંતરે પહોંચી જાય. <br>ve = √(2GMe/Re) = √(2gRe). પૃથ્વી માટે ve = 11.2 km/s.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'ટુ-જી-આર (2gR) નું રૂટ'. જો 11.2 ની સ્પીડે ભાગ્યા તો પૃથ્વી ક્યારેય પાછા નહીં બોલાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચંદ્ર પર વાતાવરણ કેમ નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચંદ્ર પર નિષ્ક્રમણ ઝડપનું મૂલ્ય ખૂબ ઓછું (2.3 km/s) છે. વાયુના અણુઓની ઉષ્મીય ઝડપ આ નિષ્ક્રમણ ઝડપ કરતા વધારે હોવાથી વાયુઓ ચંદ્ર પરથી છટકી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'સ્પીડ વધુ, પકડ ઓછી'. ગેસના અણુઓ ચંદ્ર કરતા વધુ ફાસ્ટ છે એટલે ભાગી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઉપગ્રહની કક્ષીય ઝડપ (Orbital Speed) નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપગ્રહને વર્તુળાકાર કક્ષામાં રાખવા માટે જરૂરી કેન્દ્રગામી બળ (mv²/r) પૃથ્વીના ગુરુત્વાકર્ષણ બળ (GMm/r²) માંથી મળે છે. <br>mv²/r = GMm/r² ⇒ v = √(GM/r).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'GM/r નું રૂટ'. અંતર વધે તો કક્ષીય ઝડપ ઘટે. એટલે જ દૂરના ગ્રહો ધીમે ફરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઉપગ્રહના આવર્તકાળનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવર્તકાળ T = (કક્ષાનો પરિઘ) / (કક્ષીય ઝડપ) = 2πr / v. <br>v = √(GM/r) મૂકતા, T = 2π √(r³/GM).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'T² ∝ r³' સાબિત કરવા માટે આ સૂત્રનો ઉપયોગ થાય છે. r વધે તો T પણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઉપગ્રહની કુલ ઉર્જા ઋણ શા માટે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપગ્રહની કુલ ઉર્જા E = K + U = ½mv² - GMm/r = -GMm/2r. ઋણ નિશાની દર્શાવે છે કે ઉપગ્રહ પૃથ્વી સાથે ગુરુત્વાકર્ષણથી બંધાયેલો (Bounded) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'ઋણ ઉર્જા એટલે જેલમાં હોવું'. જો ઉર્જા ધન થઈ જાય, તો ઉપગ્રહ આઝાદ થઈને ભાગી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભૂ-સ્થિર ઉપગ્રહ (Geostationary Satellite) ની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. તેનો આવર્તકાળ પૃથ્વીના ભ્રમણ જેટલો એટલે કે 24 કલાક હોય છે. 2. તે પૃથ્વીની સાપેક્ષે સ્થિર દેખાય છે. 3. તે વિષુવવૃત્તીય કક્ષામાં ઊંચાઈ (આશરે 36000 km) પર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'સાથે સાથે'. પૃથ્વી ફરે તેમ આ પણ ફરે, એટલે જ તે હંમેશા માથા પર દેખાય (ટેલિવિઝન સિગ્નલ માટે વપરાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ધ્રુવીય ઉપગ્રહ (Polar Satellite) વિશે સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ ઉપગ્રહો પૃથ્વીના ઉત્તર અને દક્ષિણ ધ્રુવો પરથી પસાર થતી કક્ષામાં ભ્રમણ કરે છે. તેમની ઊંચાઈ ઓછી (500-800 km) હોય છે. તેનો ઉપયોગ રિમોટ સેન્સિંગ અને હવામાનની આગાહી માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'ઉભી કક્ષા'. આ પૃથ્વીની પટ્ટીઓ સ્કેન કરે છે, જેમ આપણે ઝેરોક્ષ મશીનમાં પેપર સ્કેન કરીએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભારહિનતા (Weightlessness) એટલે શું? ઉપગ્રહમાં આ સ્થિતિ કેમ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ પર લાગતું લંબબળ (Normal Force) શૂન્ય થાય, ત્યારે પદાર્થ ભારહિનતા અનુભવે છે. ઉપગ્રહ મુક્ત પતન કરતો હોવાથી તેની અંદરની સપાટી પદાર્થ પર કોઈ પ્રતિક્રિયા બળ લગાડતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'ફ્રી ફોલ = નો વજન'. લિફ્ટની દોરી તૂટી જાય તો જે થાય, એ જ ઉપગ્રહમાં હંમેશા થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગુરુત્વીય તીવ્રતા (Gravitational Intensity) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુત્વાકર્ષી ક્ષેત્રમાં કોઈ બિંદુએ મુકેલા એકમ દળના પદાર્થ પર લાગતા ગુરુત્વાકર્ષણ બળને તે બિંદુએ ગુરુત્વીય તીવ્રતા (I) કહે છે. I = F/m = GM/r².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'તીવ્રતા એટલે બીજું કાંઈ નહીં પણ પ્રવેગ (g) જ છે'. એકમ: N/kg અથવા m/s².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગુરુત્વીય સ્થિતિમાન (Gravitational Potential) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ દળના પદાર્થને અનંત અંતરેથી ગુરુત્વાકર્ષી ક્ષેત્રમાં આપેલા બિંદુએ લાવવા માટે કરવા પડતા કાર્યને તે બિંદુએ ગુરુત્વીય સ્થિતિમાન (V) કહે છે. V = U/m = -GM/r.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'સ્થિતિ ઉર્જા પ્રતિ એકમ દળ'. યાદ રાખો સ્થિતિમાન હંમેશા અધિશ રાશિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પૃથ્વીની સપાટીથી ઊંચાઈએ પદાર્થનું વજન શા માટે ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થનું વજન W = mg છે. આપણે જાણીએ છીએ કે પૃથ્વીની સપાટીથી ઊંચાઈએ જતાં ગુરુત્વ પ્રવેગ g ઘટે છે (g ∝ 1/r²). પરિણામે પદાર્થનું વજન પણ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'દળ (Mass) અચળ રહે, પણ પ્રવેગ (g) બદલાય એટલે વજન બદલાય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગુરુત્વાકર્ષણ માટે સંપાતપણાનો સિદ્ધાંત (Principle of Superposition) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ એક કણ પર ઘણા બધા કણો દ્વારા ગુરુત્વાકર્ષણ બળ લાગતું હોય, ત્યારે તે કણ પર લાગતું કુલ બળ એ દરેક કણ દ્વારા સ્વતંત્ર રીતે લાગતા બળોના સદિશ સરવાળા બરાબર હોય છે. F_total = F₁ + F₂ + ... + Fn.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'બધા બળોનો સદિશ સરવાળો કરો'. એક બળ બીજા બળની હાજરીથી બદલાતું નથી.</p></div>"
+    }
+  ]
+}

@@ -774,3 +774,116 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ઘન પદાર્થોના યાંત્રિક ગુણધર્મો",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સ્થિતિસ્થાપકતા અને પ્લાસ્ટિસિટી વચ્ચેનો મુખ્ય તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ પર બાહ્ય બળ લગાડવામાં આવે અને બળ દૂર કરતા તે પદાર્થ પોતાનો મૂળ આકાર અને કદ પાછું મેળવે, તો તેને 'સ્થિતિસ્થાપકતા' (Elasticity) કહેવાય છે. પરંતુ, જો બળ દૂર કર્યા પછી પણ પદાર્થ કાયમી રીતે વિરૂપિત થઈ જાય અને મૂળ આકાર પાછો ન મેળવે, તો તેને 'પ્લાસ્ટિસિટી' (Plasticity) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = Eager to return (પાછા આવવું), P = Permanent change (કાયમી ફેરફાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પ્રતિબળ (Stress) એટલે શું? તેનો એકમ અને પારિમાણિક સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના આડછેદના એકમ ક્ષેત્રફળ દીઠ ઉદ્ભવતા પુનઃસ્થાપક બળને 'પ્રતિબળ' કહે છે. <br> સૂત્ર: σ = F / A <br> એકમ: N/m² અથવા પાસ્કલ (Pa). <br> પારિમાણિક સૂત્ર: [M¹ L⁻¹ T⁻²].</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિબળ એટલે દબાણ જેવું જ (P = F/A), એટલે એકમ અને પારિમાણિક સૂત્ર પણ સમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિકૃતિ (Strain) ની વ્યાખ્યા આપો અને સમજાવો કે તે એકમરહિત કેમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના પરિમાણમાં થતા ફેરફાર અને તેના મૂળ પરિમાણના ગુણોત્તરને 'વિકૃતિ' કહે છે. <br> વિકૃતિ = પરિમાણમાં ફેરફાર / મૂળ પરિમાણ. <br> તે સમાન ભૌતિક રાશિઓનો ગુણોત્તર હોવાથી તે એકમરહિત અને પરિમાણરહિત રાશિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકૃતિ એટલે 'Change / Original'. ઉપર-નીચે એકમ ઉડી જાય એટલે 'No Unit'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તણાવ પ્રતિબળ (Tensile Stress) અને દાબીય પ્રતિબળ (Compressive Stress) વચ્ચેનો ભેદ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થની લંબાઈમાં વધારો કરવાના હેતુથી બળ લગાડવામાં આવે ત્યારે ઉદ્ભવતા પ્રતિબળને 'તણાવ પ્રતિબળ' કહે છે. જ્યારે પદાર્થની લંબાઈમાં ઘટાડો કરવાના હેતુથી બળ લગાડવામાં આવે ત્યારે ઉદ્ભવતા પ્રતિબળને 'દાબીય પ્રતિબળ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તણાવ = ખેંચાણ (Tension), દાબીય = દબાણ (Compression).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હૂકનો નિયમ (Hooke's Law) લખો અને તેની મર્યાદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લઘુ વિરૂપણ માટે, પદાર્થમાં ઉદ્ભવતું પ્રતિબળ તેમાં ઉદ્ભવતી વિકૃતિના સમપ્રમાણમાં હોય છે. <br> પ્રતિબળ ∝ વિકૃતિ => σ = E × ε <br> મર્યાદા: આ નિયમ માત્ર 'સ્થિતિસ્થાપક મર્યાદા' સુધી જ સાચો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૂકનો 'હુકમ' = જેટલું ખેંચો (વિકૃતિ), એટલું જ સામે બળ (પ્રતિબળ) લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "યંગ મોડ્યુલસ (Young's Modulus) ની વ્યાખ્યા અને સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપક મર્યાદામાં, પ્રતાન પ્રતિબળ (Longitudinal Stress) અને પ્રતાન વિકૃતિ (Longitudinal Strain) ના ગુણોત્તરને 'યંગ મોડ્યુલસ' (Y) કહે છે. <br> Y = (F × L) / (A × ΔL) <br> એકમ: N/m²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y = 'FL / A-Delta L'. યાદ રાખો: યંગ એટલે લાંબો તાર (Length).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આકાર પ્રતિબળ (Shearing Stress) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થની સપાટીને સમાંતર સ્પર્શીય બળ લગાડવામાં આવે, ત્યારે પદાર્થનો આકાર બદલાય છે પરંતુ કદ બદલાતું નથી. આ કિસ્સામાં એકમ ક્ષેત્રફળ દીઠ લાગતા સ્પર્શીય બળને 'આકાર પ્રતિબળ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર બદલવો એટલે 'Shape shift'. બળ હંમેશા સપાટીને સમાંતર (Parallel) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બલ્ક મોડ્યુલસ (Bulk Modulus) અને દબનીયતા (Compressibility) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કદ પ્રતિબળ અને કદ વિકૃતિના ગુણોત્તરને 'બલ્ક મોડ્યુલસ' (B) કહે છે. <br> B = -P / (ΔV/V). <br> બલ્ક મોડ્યુલસના વ્યસ્તને 'દબનીયતા' (K) કહે છે. K = 1/B.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bulk = કદ (Volume). B વધારે તો દબાવવું અઘરું, K વધારે તો સહેલું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શા માટે સ્ટીલ રબર કરતા વધુ સ્થિતિસ્થાપક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ સમાન વિકૃતિ માટે સ્ટીલમાં રબર કરતા વધુ પુનઃસ્થાપક બળ ઉદ્ભવે છે. સ્ટીલનો યંગ મોડ્યુલસ રબર કરતા ઘણો વધારે છે. ભૌતિકવિજ્ઞાન મુજબ, જે પદાર્થને વિરૂપિત કરવા વધુ બળ જોઈએ તે વધુ સ્થિતિસ્થાપક કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદાર્થ જલ્દી ન નમે (વધુ બળ માંગે), તે વધુ સ્થિતિસ્થાપક (Elastic)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પોઇસન ગુણોત્તર (Poisson's Ratio) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તારને ખેંચવામાં આવે ત્યારે તેની લંબાઈ વધે છે અને વ્યાસ ઘટે છે. પાર્શ્વિય વિકૃતિ (Lateral Strain) અને પ્રતાન વિકૃતિ (Longitudinal Strain) ના ગુણોત્તરને 'પોઇસન ગુણોત્તર' (σ) કહે છે. <br> σ = -(Δd/d) / (ΔL/L).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઇસન = 'Side change / Length change'. તાર લાંબો થાય તો પતલો પણ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સ્થિતિસ્થાપક અંક (Elastic Modulus) શેના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપક અંક (જેમ કે Y, G, B) માત્ર દ્રવ્યની જાત (Nature of material) અને તાપમાન પર આધાર રાખે છે. તે પદાર્થના પરિમાણ (લંબાઈ કે ક્ષેત્રફળ) પર આધાર રાખતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Modulus એ દ્રવ્યનો 'આત્મા' છે, તે આકાર બદલવાથી બદલાતો નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "તણાવ-વિકૃતિ આલેખમાં 'Yield Point' (પરાભવ બિંદુ) શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Yield Point એ આલેખ પરનું તે બિંદુ છે જે સ્થિતિસ્થાપક મર્યાદાનો અંત દર્શાવે છે. આ બિંદુ પછી જો બળ વધારવામાં આવે, તો પદાર્થમાં પ્લાસ્ટિક વિરૂપણ શરૂ થાય છે, એટલે કે બળ દૂર કરતા તે મૂળ સ્થિતિમાં પાછો આવતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Yield Point = 'હાર માની લેવાનું બિંદુ'. અહીંથી પદાર્થ પ્લાસ્ટિક બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બ્રિટલ (Brittle) અને ડક્ટાઈલ (Ductile) પદાર્થો વચ્ચેનો તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થોમાં Yield point પછી તરત જ ફ્રેક્ચર (તૂટી જવું) થઈ જાય તેને 'બ્રિટલ' (કાચ જેવું) કહેવાય. જે પદાર્થોમાં Yield point પછી ઘણું પ્લાસ્ટિક વિરૂપણ થાય અને તેના તાર ખેંચી શકાય તેને 'ડક્ટાઈલ' (તાંબા જેવું) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Brittle = બ્રેક (જલ્દી તૂટે), Ductile = ડ્રો (લાંબો ખેંચાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખેંચાયેલા તારમાં સંગ્રહિત સ્થિતિસ્થાપક સ્થિતિ ઊર્જાનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિરૂપક બળ વિરુદ્ધ થયેલું કાર્ય સ્થિતિ ઊર્જા સ્વરૂપે સંગ્રહાય છે. <br> U = ½ × બળ × લંબાઈમાં વધારો <br> U = ½ × F × ΔL. <br> એકમ દીઠ ઊર્જા (ઘનતા) u = ½ × પ્રતિબળ × વિકૃતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊર્જા = અડધો 'બળિયો' (F) 'લાંબો' (L) થયો! U = ½ F.ΔL</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હાઇડ્રોલિક પ્રતિબળ (Hydraulic Stress) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થને પ્રવાહીમાં ડૂબાડવામાં આવે ત્યારે પ્રવાહી દ્વારા પદાર્થની સપાટી પર દરેક બિંદુએ લંબરૂપે સમાન બળ લાગે છે. આના કારણે પદાર્થના કદમાં ઘટાડો થાય છે. આ કિસ્સામાં ઉદ્ભવતા આંતરિક પુનઃસ્થાપક બળને 'હાઇડ્રોલિક પ્રતિબળ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hydraulic = પાણીનું દબાણ. જે બધી બાજુથી સરખું લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શા માટે ક્રેનની દોરીઓ (Ropes) પાતળા તાર વણીને બનાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જાડા સળિયા કરતા ઘણા પાતળા તાર વણીને બનાવેલી દોરીની લવચીકતા (Flexibility) અને મજબૂતી વધુ હોય છે. વણેલા તારને કારણે પ્રતિબળ વહેંચાઈ જાય છે અને દોરી તૂટવાની શક્યતા ઘટી જાય છે. તેમજ તે સહેલાઈથી પુલી પર ફરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકતામાં બળ છે! ઘણા તાર ભેગા થાય તો વળવાની શક્તિ અને ભાર સહન કરવાની શક્તિ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઇલાસ્ટોમર્સ (Elastomers) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થોને ખેંચીને મોટી વિકૃતિ (ખૂબ વધારે લંબાઈ) પેદા કરી શકાય તેને 'ઇલાસ્ટોમર્સ' કહે છે. આવા પદાર્થો હૂકના નિયમનું પાલન કરતા નથી. <br> ઉદાહરણ: રબર, હૃદયની મહાધમનીના પેશીઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Elastomers = Super stretchable! ખેંચાય બહુ પણ હૂકનો નિયમ ન માને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પુનઃસ્થાપક બળ (Restoring Force) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ પર બાહ્ય વિરૂપક બળ લગાડી તેનો આકાર બદલવામાં આવે, ત્યારે પદાર્થના અણુઓ વચ્ચે આંતરિક આકર્ષણ બળ પેદા થાય છે જે પદાર્થને મૂળ સ્થિતિમાં લાવવાનો પ્રયત્ન કરે છે. આ બળને 'પુનઃસ્થાપક બળ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુનઃ + સ્થાપક = ફરીથી સ્થાપના કરનાર બળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નક્કર ગોળા માટે બલ્ક મોડ્યુલસનું મૂલ્ય વધુ કેમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નક્કર ગોળાના અણુઓ એકબીજાની ખૂબ નજીક હોય છે અને તેમની વચ્ચે પ્રબળ આંતર-આણ્વીય બળો પ્રવર્તે છે. કદમાં નાનો ફેરફાર કરવા માટે પણ ખૂબ મોટા દબાણની જરૂર પડે છે (ΔV નાનું, P મોટું), તેથી B = P / (ΔV/V) મુજબ બલ્ક મોડ્યુલસનું મૂલ્ય ખૂબ ઊંચું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલો પદાર્થ 'નક્કર' (Solid), એટલો જ તેને દબાવવો અઘરો (High B)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શા માટે બ્રિજ (Bridges) લાંબા સમય પછી જોખમી જાહેર કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વારંવારના ભાર (Stress) અને ભારમુક્તિને કારણે બ્રિજનું દ્રવ્ય 'સ્થિતિસ્થાપક થાક' (Elastic Fatigue) અનુભવે છે. લાંબા સમય પછી, તેની સ્થિતિસ્થાપકતા ગુમાવાય છે અને તે પ્લાસ્ટિક બની જાય છે, જેથી તે તૂટી જવાની શક્યતા વધી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ માણસ કામ કરી થાકી જાય, તેમ બ્રિજ પણ લોડ લઈ લઈ 'થાકી' (Fatigue) જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "I-આકારના બીમ (I-shaped beams) નો ઉપયોગ બાંધકામમાં શા માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીમ પર ભાર મૂકતા તે વળે છે (Sagging). I-આકારના બીમમાં ઉપર અને નીચેની સપાટી પહોળી હોવાથી તે વંકન (Bending) સામે વધુ પ્રતિરોધ આપે છે અને વજનમાં હલકા હોવા છતાં વધુ મજબૂતી પૂરી પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I shape = High Strength + Low Weight!</p></div>"
+    }
+  ]
+}

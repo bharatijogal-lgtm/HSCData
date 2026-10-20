@@ -1349,3 +1349,116 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "દોલનો",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આવર્ત ગતિ અને દોલિત ગતિ વચ્ચેનો મુખ્ય તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ગતિ નિશ્ચિત સમયના અંતરે પુનરાવર્તિત થતી હોય તેને આવર્ત ગતિ કહે છે (દા.ત. પૃથ્વીનું સૂર્યની આસપાસ ભ્રમણ). જ્યારે કોઈ પદાર્થ નિશ્ચિત બિંદુની આસપાસ આગળ-પાછળ કે ઉપર-નીચે ગતિ કરતો હોય, તો તેને દોલિત ગતિ કહેવાય છે (દા.ત. લોલકની ગતિ). <strong>નોંધ:</strong> દરેક દોલિત ગતિ આવર્ત ગતિ છે, પણ દરેક આવર્ત ગતિ દોલિત ગતિ હોવી જરૂરી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બધા જ દોલનો આવર્ત છે, પણ બધા આવર્ત દોલનો નથી' - જેમ કે દરેક પપ્પા પુરુષ છે પણ દરેક પુરુષ પપ્પા નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સરળ આવર્ત ગતિ (SHM) ની વ્યાખ્યા આપો અને તેનું સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો કોઈ કણ પર લાગતું બળ તેના સ્થાનાંતરના સમપ્રમાણમાં અને મધ્યમાન સ્થિતિ તરફની દિશામાં હોય, તો તેવી ગતિને સરળ આવર્ત ગતિ કહે છે. <br>સમીકરણ: x(t) = A cos(ωt + φ) <br>જ્યાં A = કંપવિસ્તાર, ω = કોણીય આવૃત્તિ, φ = પ્રારંભિક કળા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SHM = સીધી ગતિ + 'પુનઃસ્થાપક બળ' (F ∝ -x).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કંપવિસ્તાર (Amplitude) અને કળા (Phase) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કંપવિસ્તાર (A): મધ્યમાન સ્થિતિથી કણના મહત્તમ સ્થાનાંતરને કંપવિસ્તાર કહે છે. <br>2. કળા (Phase): સરળ આવર્ત ગતિ કરતા કણની કોઈપણ સમયે સ્થિતિ અને ગતિની દિશા દર્શાવતી ભૌતિક રાશિને કળા (ωt + φ) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કંપવિસ્તાર' એટલે મેક્સિમમ ઠેકડો અને 'કળા' એટલે કણનું સરનામું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સરળ આવર્ત ગતિ કરતા કણ માટે વેગનું સૂત્ર મેળવી તેની મહત્તમ કિંમત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x(t) = A cos(ωt + φ) નું વિકલન કરતા, <br>v(t) = -ωA sin(ωt + φ) મળે. <br>અથવા v = ω√(A² - x²) <br>જ્યારે કણ મધ્યમાન સ્થિતિ (x=0) પર હોય ત્યારે વેગ મહત્તમ થાય: v_max = ωA.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ મધ્યમાં 'સુપરફાસ્ટ' (Max) અને છેડા પર 'ઝીરો' (Stop).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સરળ આવર્ત ગતિમાં પ્રવેગનું સૂત્ર લખો અને તે ક્યારે શૂન્ય થાય તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગનું સમય સાપેક્ષ વિકલન કરતા પ્રવેગ a(t) = -ω² A cos(ωt + φ) = -ω² x મળે. <br>જ્યારે કણ મધ્યમાન સ્થિતિ (x=0) પર હોય ત્યારે પ્રવેગ શૂન્ય (a = 0) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ એ 'ગામડાના રસ્તા' જેવો છે, જેમ છેડા પર જાઓ એમ જોર (બળ) વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બળ અચળાંક (k) ની વ્યાખ્યા અને તેનો SI એકમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ સ્થાનાંતર દીઠ ઉદ્ભવતા પુનઃસ્થાપક બળને બળ અચળાંક (Spring Constant) k કહે છે. <br>સૂત્ર: k = |F| / x <br>SI એકમ: N/m અથવા kg/s².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k એટલે સ્પ્રિંગની 'તાકાત', જેટલો k મોટો એટલી સ્પ્રિંગ કડક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સરળ આવર્ત ગતિ કરતા કણની ગતિ ઊર્જા (K) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિ ઊર્જા K = ½ mv² <br>v = ω√(A² - x²) મુકતા, <br>K = ½ mω²(A² - x²) <br>અથવા K = ½ k(A² - x²) (જ્યાં k = mω²)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x=0 પર K ગત્ત મહત્તમ, x=A પર K ગત્ત શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સરળ આવર્ત ગતિમાં સ્થિતિ ઊર્જા (U) નું સૂત્ર અને આલેખ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુનઃસ્થાપક બળ વિરુદ્ધ થતું કાર્ય સ્થિતિ ઊર્જા રૂપે સંગ્રહાય છે. <br>U = ½ kx² = ½ mω²x² <br>તેનો આલેખ મધ્યમાન સ્થિતિ પાસે લઘુત્તમ ધરાવતો 'પરવલય' (Parabola) મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'U' આકારનો ગ્રાફ એટલે સ્થિતિ ઊર્જા (U).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાબિત કરો કે સરળ આવર્ત ગતિમાં કુલ યાંત્રિક ઊર્જા સંરક્ષિત રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુલ ઊર્જા E = K + U <br>E = ½ k(A² - x²) + ½ kx² <br>E = ½ kA² (અચળ) <br>આમ, કુલ ઊર્જા સ્થાનાંતર x પર આધારિત નથી, તેથી તે સંરક્ષિત રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K ઘટે તો U વધે, પણ બંનેનો સરવાળો હંમેશા 'ફિક્સ' (½ kA²).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્પ્રિંગના છેડે લટકાવેલ દળ માટે આવર્તકાળનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પ્રિંગ માટે પુનઃસ્થાપક બળ F = -kx અને SHM માટે F = -mω²x. <br>સરખાવતા, mω² = k ⇒ ω = √(k/m). <br>આવર્તકાળ T = 2π/ω = 2π√(m/k).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = 2π 'મા-કી' (m/k) - યાદ રાખવા માટે સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સેકન્ડ લોલક એટલે શું? તેની લંબાઈ આશરે કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લોલકનો આવર્તકાળ (T) બરાબર 2 સેકન્ડ હોય, તેને સેકન્ડ લોલક કહે છે. <br>પૃથ્વી પર તેની લંબાઈ આશરે 1 મીટર (લગભગ 99.4 cm) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સેકન્ડ ડાબે + 1 સેકન્ડ જમણે = 2 સેકન્ડ (સેકન્ડ લોલક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાદા લોલક માટે આવર્તકાળનું સૂત્ર લખો અને તે કઈ બાબતો પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂત્ર: T = 2π√(L/g) <br>તે (1) લોલકની લંબાઈ (L) અને (2) ગુરુત્વ પ્રવેગ (g) પર આધાર રાખે છે. તે લોલકના દળ (m) પર આધાર રાખતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T = 2π 'લગ્ન' (L/g) - યાદ રાખવા માટે 'L' અને 'g'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્પ્રિંગોના શ્રેણી જોડાણ માટે સમતુલ્ય બળ અચળાંકનું સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે k₁ અને k₂ બળ અચળાંકવાળી બે સ્પ્રિંગો શ્રેણીમાં જોડવામાં આવે, ત્યારે સમતુલ્ય બળ અચળાંક k_eq: <br>1/k_eq = 1/k₁ + 1/k₂ અથવા k_eq = (k₁k₂) / (k₁ + k₂).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ શ્રેણીમાં = અવરોધ સમાંતરમાં (ઉલટું યાદ રાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્પ્રિંગોના સમાંતર જોડાણ માટે સમતુલ્ય બળ અચળાંકનું સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે k₁ અને k₂ બળ અચળાંકવાળી બે સ્પ્રિંગો સમાંતરમાં જોડવામાં આવે, ત્યારે સમતુલ્ય બળ અચળાંક k_eq: <br>k_eq = k₁ + k₂.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદો સરવાળો કરો એટલે સમાંતર જોડાણનો k મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અવમંદિત દોલનો (Damped Oscillations) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે દોલનોમાં ઘર્ષણ કે સ્નિગ્ધતા જેવા અવરોધક બળોને કારણે સમય સાથે દોલનનો કંપવિસ્તાર ઘટતો જાય, તેને અવમંદિત દોલનો કહે છે. અંતે પદાર્થ સ્થિર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અવમંદન' = 'મંદ' પડી જવું (Amplitude Down).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પ્રણોદિત દોલનો (Forced Oscillations) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ દોલક પર બાહ્ય આવર્તક બળ લગાડીને તેને દોલનો કરાવવામાં આવે, ત્યારે તે દોલક પોતાની પ્રાકૃતિક આવૃત્તિ છોડી બાહ્ય બળની આવૃત્તિથી દોલન કરે છે. આને પ્રણોદિત દોલનો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળજબરીથી' કરાવવામાં આવતા દોલનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અનુનાદ (Resonance) ની ઘટના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બાહ્ય આવર્તક બળની આવૃત્તિ એ દોલકની પ્રાકૃતિક આવૃત્તિ જેટલી થાય, ત્યારે દોલનનો કંપવિસ્તાર મહત્તમ બને છે. આ ઘટનાને અનુનાદ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ 'મેચ' થાય ત્યારે કંપવિસ્તાર 'બ્લાસ્ટ' (Max) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કોણીય આવૃત્તિ (ω) અને આવૃત્તિ (f) વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય આવૃત્તિ ω = 2πf અથવા ω = 2π/T. <br>જ્યાં f = આવૃત્તિ (Hz) અને T = આવર્તકાળ (s).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f એટલે એક સેકન્ડના ચક્કર, ω એટલે એક સેકન્ડના રેડિયન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સરળ આવર્ત ગતિ માટે પુનઃસ્થાપક બળનો નિયમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> SHM માટે પુનઃસ્થાપક બળ (F) હંમેશા સ્થાનાંતર (x) ના સમપ્રમાણમાં અને સ્થાનાંતરની વિરુદ્ધ દિશામાં હોય છે. <br>F = -kx.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '-' ચિન્હ બતાવે છે કે બળ હંમેશા 'ઘર (મધ્યમાન સ્થિતિ)' તરફ ખેંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો સાદા લોલકને પૃથ્વીના કેન્દ્ર પર લઈ જવામાં આવે, તો તેનો આવર્તકાળ કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના કેન્દ્ર પર ગુરુત્વ પ્રવેગ g = 0 હોય છે. <br>સૂત્ર T = 2π√(L/g) મુજબ, છેદમાં શૂન્ય હોવાથી T = અનંત (∞) થાય. <br>એટલે કે લોલક દોલન કરશે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: g = 0 તો T = 'નવરો' (Infinite time).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સરળ આવર્ત ગતિમાં વેગ અને સ્થાનાંતર વચ્ચેનો કળા તફાવત કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાનાંતર x = A cos(ωt) હોય, તો વેગ v = -Aω sin(ωt) = Aω cos(ωt + π/2) થાય. <br>તેથી, વેગ અને સ્થાનાંતર વચ્ચેનો કળા તફાવત π/2 rad (90 ડિગ્રી) હોય છે. વેગ સ્થાનાંતર કરતા કળામાં આગળ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનાંતર '0' હોય ત્યારે વેગ 'Max' - 90 ડિગ્રીનો ફરક!</p></div>"
+    }
+  ]
+}

@@ -1118,3 +1118,116 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "થર્મોડાયનેમિક્સ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "થર્મોડાયનેમિક્સનો શૂન્ય ક્રમનો નિયમ લખો અને તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમ: 'જો બે તંત્રો A અને B કોઈ ત્રીજા તંત્ર C સાથે અલગ-અલગ રીતે તાપીય સંતુલનમાં હોય, તો તંત્રો A અને B પણ એકબીજા સાથે તાપીય સંતુલનમાં હોય છે.' <br>મહત્વ: આ નિયમ તાપમાનની વિભાવના આપે છે અને તાપમાન માપવા માટેનો આધાર પૂરો પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A=C અને B=C તો A=B. (મિત્રનો મિત્ર એ આપણો પણ મિત્ર!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આંતરિક ઉર્જા એટલે શું? તે કઈ બાબતો પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રના અણુઓની અસ્તવ્યસ્ત ગતિને લીધે મળતી ગતિઉર્જા અને તેમની વચ્ચેના બળોને લીધે મળતી સ્થિતિઉર્જાના સરવાળાને 'આંતરિક ઉર્જા' (U) કહે છે. આદર્શ વાયુ માટે તે માત્ર 'તાપમાન' (T) પર આધાર રાખે છે. તે અવસ્થા વિધેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરિક ઉર્જા = અંદરની શક્તિ. આદર્શ વાયુ હોય તો માત્ર 'T' (તાપમાન) જ જોવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "થર્મોડાયનેમિક્સનો પ્રથમ નિયમ લખો અને તેનું ગાણિતિક સ્વરૂપ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમ: 'તંત્રને આપેલી ઉષ્મા (ΔQ) એ તેની આંતરિક ઉર્જામાં થતા ફેરફાર (ΔU) અને તંત્ર દ્વારા થયેલા કાર્ય (ΔW) ના સરવાળા બરાબર હોય છે.'<br>સમીકરણ: ΔQ = ΔU + ΔW. આ નિયમ ઉર્જા સંરક્ષણના નિયમનું જ એક સ્વરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q = U + W (પગાર = બચત + ખર્ચ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઉષ્મા (Q) અને કાર્ય (W) માટેની સંજ્ઞા પ્રણાલી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. તંત્ર દ્વારા મેળવાયેલી ઉષ્મા Q ધન (+), તંત્ર દ્વારા ગુમાવાયેલી ઉષ્મા Q ઋણ (-).<br>2. તંત્ર દ્વારા થયેલું કાર્ય W ધન (+), તંત્ર પર થયેલું કાર્ય W ઋણ (-) લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર આવે તો '+' (Positive), બહાર જાય તો '-' (Negative). (તંત્રના સંદર્ભમાં)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મોલર વિશિષ્ટ ઉષ્માધારિતા વ્યાખ્યાયિત કરો અને તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> '1 મોલ પદાર્થનું તાપમાન 1 K (અથવા 1°C) વધારવા માટે આપવી પડતી ઉષ્માને મોલર વિશિષ્ટ ઉષ્માધારિતા (C) કહે છે.'<br>પ્રકારો: 1. અચલ કદ પર મોલર વિશિષ્ટ ઉષ્મા ($C_v$) 2. અચલ દબાણ પર મોલર વિશિષ્ટ ઉષ્મા ($C_p$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C = ΔQ / (μ ΔT). એક મોલ માટેની ગરમી એટલે C.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શા માટે $C_p > C_v$ હોય છે? ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચલ કદે ($C_v$) આપેલી બધી જ ઉષ્મા આંતરિક ઉર્જા વધારવામાં વપરાય છે. જ્યારે અચલ દબાણે ($C_p$) આપેલી ઉષ્મા આંતરિક ઉર્જા વધારવાની સાથે કાર્ય (PΔV) કરવામાં પણ વપરાય છે. તેથી તાપમાનનો સમાન વધારો કરવા માટે $C_p$ માં વધુ ઉષ્મા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $C_p$ માં બે કામ થાય (U અને W), $C_v$ માં એક જ (U). એટલે $C_p$ મોટું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મેયરનું સમીકરણ ($C_p - C_v = R$) તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચલ કદે: $dQ = dU = C_v dT$. <br>અચલ દબાણે: $dQ = dU + P dV$. <br>અહીં $dQ = C_p dT$ અને આદર્શ વાયુ માટે $PV = RT \Rightarrow P dV = R dT$. <br>કિંમતો મૂકતા: $C_p dT = C_v dT + R dT \Rightarrow C_p - C_v = R$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' માંથી 'V' બાદ કરો તો 'R' મળે. (P-V=R)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમતાપી પ્રક્રિયા (Isothermal Process) એટલે શું? તેની શરતો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા દરમિયાન તંત્રનું તાપમાન (T) અચળ જળવાઈ રહે તેને સમતાપી પ્રક્રિયા કહે છે. <br>શરતો: 1. તંત્રની દીવાલો સંપૂર્ણ સુવાહક હોવી જોઈએ. 2. પ્રક્રિયા અત્યંત ધીમી હોવી જોઈએ જેથી તાપીય સંતુલન જળવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ-તાપી' = સમાન તાપમાન (ΔT = 0, ΔU = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમતાપી પ્રક્રિયામાં થતા કાર્યનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> n મોલ આદર્શ વાયુ માટે સમતાપી પ્રક્રિયામાં કાર્ય: <br>$W = nRT \ln(\frac{V_2}{V_1})$ અથવા $W = 2.303 nRT \log_{10}(\frac{V_2}{V_1})$. <br>અહીં $V_1$ અને $V_2$ એ પ્રારંભિક અને અંતિમ કદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isothermal Work = 'nRT log(V2/V1)'. યાદ રાખો 'LN'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એડિયાબેટિક (મોક્ષદ્વષ્ટ) પ્રક્રિયા એટલે શું? તેની શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા દરમિયાન તંત્ર અને પરિસર વચ્ચે ઉષ્માનો વિનિમય થતો ન હોય ($ΔQ = 0$), તેને એડિયાબેટિક પ્રક્રિયા કહે છે. <br>શરતો: 1. તંત્રની દીવાલો અવાહક હોવી જોઈએ. 2. પ્રક્રિયા અત્યંત ઝડપી હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડિયાબેટિક = નો ગરમી લેવી, નો ગરમી દેવી (Q = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "એડિયાબેટિક પ્રક્રિયા માટે P અને V વચ્ચેનો સંબંધ દર્શાવતું સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એડિયાબેટિક પ્રક્રિયા માટે: $PV^\gamma = \text{અચળ}$. <br>જ્યાં $\gamma = C_p / C_v$ (એડિયાબેટિક ઇન્ડેક્સ) છે. <br>અન્ય સ્વરૂપ: $TV^{\gamma-1} = \text{અચળ}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PV ની ઉપર 'ગામા' ($\gamma$) બેસાડી દેવાનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમકદ (Isochoric) અને સમદાબ (Isobaric) પ્રક્રિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. સમકદ પ્રક્રિયા: જે પ્રક્રિયામાં તંત્રનું કદ (V) અચળ રહે તેને સમકદ પ્રક્રિયા કહે છે ($ΔV=0$, તેથી $W=0$). <br>2. સમદાબ પ્રક્રિયા: જે પ્રક્રિયામાં તંત્રનું દબાણ (P) અચળ રહે તેને સમદાબ પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમકદ = કદ ફિક્સ (W=0), સમદાબ = દબાણ ફિક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ક્વાસી-સ્ટેટિક (Quasi-static) પ્રક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા એટલી ધીમી હોય કે તેના દરેક તબક્કે તંત્ર પરિસર સાથે તાપીય અને યાંત્રિક સંતુલનમાં હોય, તેને ક્વાસી-સ્ટેટિક પ્રક્રિયા કહે છે. આ એક આદર્શ કલ્પના છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્વાસી' એટલે 'જાણે કે' અને 'સ્ટેટિક' એટલે 'સ્થિર'. સ્થિર જેવી ધીમી પ્રક્રિયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઉષ્મા એન્જિન એટલે શું? તેના મુખ્ય ભાગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સાધન ઉષ્મા ઉર્જાનું સતત યાંત્રિક કાર્યમાં રૂપાંતર કરે તેને ઉષ્મા એન્જિન કહે છે. <br>મુખ્ય ભાગો: 1. ઉષ્મા પ્રાપ્તિસ્થાન (Source - ઊંચું તાપમાન $T_1$), 2. કાર્યકારી પદાર્થ (Working Substance), 3. ઠારણ વ્યવસ્થા (Sink - નીચું તાપમાન $T_2$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્જિન = ગરમી લેવી $\rightarrow$ કામ કરવું $\rightarrow$ વધેલી ગરમી ફેંકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઉષ્મા એન્જિનની કાર્યક્ષમતા ($\eta$) નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્યક્ષમતા $\eta = \frac{\text{થયેલું કાર્ય (W)}}{\text{મેળવેલી ઉષ્મા (Q_1)}}$. <br>$\eta = \frac{Q_1 - Q_2}{Q_1} = 1 - \frac{Q_2}{Q_1}$. <br>કાર્નો એન્જિન માટે: $\eta = 1 - \frac{T_2}{T_1}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Efficiency = (Input - Output) / Input. હંમેશા 1 થી ઓછી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રેફ્રિજરેટરનો કાર્યકારી સિદ્ધાંત અને પરફોર્મન્સ ગુણાંક ($\alpha$) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેફ્રિજરેટર નીચા તાપમાનેથી ઉષ્મા શોષી બહારના કાર્યની મદદથી ઊંચા તાપમાને ઉષ્મા મુક્ત કરે છે. <br>પરફોર્મન્સ ગુણાંક $\alpha = \frac{Q_2}{W} = \frac{Q_2}{Q_1 - Q_2} = \frac{T_2}{T_1 - T_2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: COP ($\alpha$) = ઠંડક / કરેલું કામ. આ 1 થી મોટું હોઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "થર્મોડાયનેમિક્સનો બીજો નિયમ: કેલ્વિન-પ્લાન્કનું વિધાન લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'એવું કોઈ ઉષ્મા એન્જિન બનાવવું અશક્ય છે કે જે ચક્રીય પ્રક્રિયા દરમિયાન કોઈ એક જ પ્રાપ્તિસ્થાનમાંથી ઉષ્માનું શોષણ કરી તેનું સંપૂર્ણપણે કાર્યમાં રૂપાંતર કરે.' એટલે કે, કાર્યક્ષમતા 100% શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100% કાર્યક્ષમતા = અશક્ય (No Engine is Perfect).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "થર્મોડાયનેમિક્સનો બીજો નિયમ: ક્લોસિયસનું વિધાન લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'બાહ્ય મદદ વગર કોઈ એવી સ્વયંસંચાલિત મશીન બનાવવી અશક્ય છે કે જે નીચા તાપમાનવાળા પદાર્થમાંથી ઉષ્મા મેળવી તેને ઊંચા તાપમાનવાળા પદાર્થને આપે.'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી ક્યારેય જાતે નીચેથી ઉપર (Low to High T) ન જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રતિવર્તી (Reversible) અને અપ્રતિવર્તી (Irreversible) પ્રક્રિયાઓ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. પ્રતિવર્તી: જે પ્રક્રિયાને ઉલટાવતા તંત્ર અને પરિસર પોતાની મૂળ સ્થિતિમાં પાછા આવે. (દા.ત. અત્યંત ધીમી પ્રક્રિયા). <br>2. અપ્રતિવર્તી: જે પ્રક્રિયાને ઉલટાવી ન શકાય અને મૂળ સ્થિતિમાં પાછા ન આવી શકાય. (દા.ત. ઘર્ષણવાળી પ્રક્રિયા, વિસ્ફોટ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reversible = 'Undo' કરી શકાય, Irreversible = 'Undo' ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાર્નો સાયકલ (Carnot Cycle) ના ચાર તબક્કા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્નો સાયકલના ચાર તબક્કા: <br>1. સમતાપી વિસ્તરણ (Isothermal Expansion) <br>2. એડિયાબેટિક વિસ્તરણ (Adiabatic Expansion) <br>3. સમતાપી સંકોચન (Isothermal Compression) <br>4. એડિયાબેટિક સંકોચન (Adiabatic Compression)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ISO-ADI-ISO-ADI (વિસ્તરણ-વિસ્તરણ-સંકોચન-સંકોચન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચક્રીય પ્રક્રિયા (Cyclic Process) એટલે શું? તેમાં આંતરિક ઉર્જાનો ફેરફાર કેટલો હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો તંત્ર વિવિધ અવસ્થાઓમાંથી પસાર થઈને ફરી પોતાની પ્રારંભિક અવસ્થામાં પાછું આવે, તો તેવી પ્રક્રિયાને ચક્રીય પ્રક્રિયા કહે છે. <br>ચક્રીય પ્રક્રિયામાં આંતરિક ઉર્જાનો કુલ ફેરફાર શૂન્ય ($ΔU = 0$) હોય છે, તેથી $ΔQ = ΔW$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી શરૂ કર્યું ત્યાં જ પાછા આવ્યા એટલે 'બચત' (ΔU) શૂન્ય!</p></div>"
+    }
+  ]
+}

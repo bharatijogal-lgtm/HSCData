@@ -1231,3 +1231,121 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વાયુનો ગતિવાદ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આદર્શ વાયુ અવસ્થા સમીકરણ લખો અને તેના દરેક પદ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદર્શ વાયુ અવસ્થા સમીકરણ: PV = nRT<br>જ્યાં, P = વાયુનું દબાણ, V = વાયુનું કદ, n = મોલની સંખ્યા, R = સાર્વત્રિક વાયુ નિયતાંક (8.314 J/mol·K) અને T = નિરપેક્ષ તાપમાન (કેલ્વિનમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PV = nRT' ને 'પાર્વતી = નવરાત્રિ' તરીકે યાદ રાખો જેથી ક્રમ ભૂલાય નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ડાલ્ટનનો આંશિક દબાણનો નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરસ્પર રાસાયણિક પ્રક્રિયા ન કરતા હોય તેવા વાયુઓના મિશ્રણનું કુલ દબાણ, દરેક વાયુના વ્યક્તિગત આંશિક દબાણોના સરવાળા જેટલું હોય છે. <br>P = P1 + P2 + P3 + ...</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાલ્ટન = સરવાળો. બધા વાયુઓ પોતાનું દબાણ 'ભેગું' કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાયુના ગતિવાદની કોઈ પણ બે મુખ્ય ધારણાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) વાયુના અણુઓ સખત, સ્થિતિસ્થાપક ગોળા જેવા છે. (2) અણુઓ વચ્ચેના સંઘાત (અથડામણ) સંપૂર્ણ સ્થિતિસ્થાપક હોય છે, એટલે કે ગતિઊર્જાનું સંરક્ષણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુના અણુઓ એટલે નાના 'રબરના દડા' જે સતત દોડતા રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બોલ્ટઝમેન અચળાંક (k_B) એટલે શું? તેનું મૂલ્ય અને સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાર્વત્રિક વાયુ નિયતાંક (R) અને એવોગેડ્રો અંક (N_A) ના ગુણોત્તરને બોલ્ટઝમેન અચળાંક કહે છે. <br>સૂત્ર: k_B = R / N_A <br>મૂલ્ય: 1.38 × 10^-23 J/K.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k_B = 'R' ના છેદમાં 'ના' (N_A). ર ના!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાયુના દબાણનું સૂત્ર લખી તેમાં વપરાતા પદો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P = (1/3) * ρ * v_rms^2 <br>જ્યાં, P = વાયુનું દબાણ, ρ = વાયુની ઘનતા, v_rms = અણુઓની સરેરાશ વર્ગિતનું વર્ગમૂળ (RMS) ઝડપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેશર એટલે ત્રીજા ભાગની ઘનતા અને વેગનો વર્ગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "તાપમાનનું ગતિવાદી અર્થઘટન સમજાવો (ગતિઊર્જા અને તાપમાનનો સંબંધ).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુના અણુની સરેરાશ ટ્રાન્સલેશનલ (રેખીય) ગતિઊર્જા તેના નિરપેક્ષ તાપમાનના સમપ્રમાણમાં હોય છે. <br>E = (3/2) * k_B * T. આ દર્શાવે છે કે તાપમાન એ અણુઓની અસ્તવ્યસ્ત ગતિનું માપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી (T) વધે તો દોડધામ (E) વધે. E ∝ T.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "RMS ઝડપ (v_rms) નું તાપમાનના પદમાં સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિઊર્જા (1/2)mv^2 = (3/2)k_B*T પરથી, <br>v_rms = √(3k_B*T / m) અથવા v_rms = √(3RT / M). <br>જ્યાં M = મોલર દળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RMS વેગ એટલે '√3RT / M'. ત્રણ રોટલી છેદમાં મમ્મી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મુક્તતાના અંશો (Degrees of Freedom) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રની સ્થિતિ સંપૂર્ણપણે દર્શાવવા માટે જરૂરી સ્વતંત્ર યામો અથવા ઉર્જાના સ્વતંત્ર પદોની સંખ્યાને મુક્તતાના અંશો (f) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણ કેટલી દિશામાં 'આઝાદી' થી ફરી શકે તેને મુક્તતાના અંશો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એકપરમાણ્વિક (Monoatomic) વાયુ માટે મુક્તતાના અંશો કેટલા હોય છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકપરમાણ્વિક વાયુ (જેમ કે હિલિયમ He, આર્ગોન Ar) માટે મુક્તતાના અંશો f = 3 હોય છે. આ ત્રણેય રેખીય (translational) ગતિના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલો માણસ (Mono) ફક્ત 3 દિશામાં (x, y, z) દોડી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દ્વિ-પરમાણ્વિક (Diatomic) વાયુ માટે મુક્તતાના અંશો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિ-પરમાણ્વિક વાયુ (જેમ કે O2, N2) માટે: <br>1. સામાન્ય તાપમાને: f = 5 (3 રેખીય + 2 ચાકગતિ). <br>2. ઊંચા તાપમાને: f = 7 (3 રેખીય + 2 ચાકગતિ + 2 કંપન ગતિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે જણા (Diatomic) સાથે હોય ત્યારે 3 દિશામાં દોડે + 2 દિશામાં ફરે = કુલ 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉર્જાના સમવિભાજનનો નિયમ (Law of Equipartition of Energy) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપીય સંતુલનમાં રહેલા કોઈપણ તંત્ર માટે, કુલ ઉર્જા દરેક મુક્તતાના અંશ દીઠ સમાન રીતે વહેંચાયેલી હોય છે અને તેનું મૂલ્ય (1/2)k_B*T જેટલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખે ભાગે વહેંચણી એટલે 'અડધું kBT'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એકપરમાણ્વિક વાયુ માટે વિશિષ્ટ ઉષ્મા Cv અને Cp ના મૂલ્યો મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકપરમાણ્વિક વાયુ માટે f = 3. <br>Cv = (f/2)R = (3/2)R. <br>Cp = Cv + R = (3/2)R + R = (5/2)R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cv માં અડધા f, અને Cp માં 1 ઉમેરવાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મેયરનું સમીકરણ (Mayer's Relation) લખો અને તેના પદો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cp - Cv = R <br>જ્યાં Cp = અચળ દબાણે મોલર વિશિષ્ટ ઉષ્મા, Cv = અચળ કદે મોલર વિશિષ્ટ ઉષ્મા, R = સાર્વત્રિક વાયુ નિયતાંક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P' મોટો છે એટલે 'P' માંથી 'V' બાદ કરો તો 'R' વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સરેરાશ મુક્ત પથ (Mean Free Path) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુના અણુની બે ક્રમિક અથડામણો વચ્ચે કાપેલા સરેરાશ અંતરને 'સરેરાશ મુક્ત પથ' (λ) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે એક્સિડન્ટ વચ્ચેની શાંતિ એટલે મુક્ત પથ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સરેરાશ મુક્ત પથ (λ) નું સૂત્ર જણાવી તે કઈ બાબતો પર આધાર રાખે છે તે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> λ = 1 / (√2 * n * π * d^2) <br>જ્યાં n = સંખ્યા ઘનતા, d = અણુનો વ્યાસ. <br>આધાર: (1) અણુના કદ પર (2) વાયુની ઘનતા પર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડ (n) વધે તો ભટકવાનું અંતર (λ) ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઘન પદાર્થોની વિશિષ્ટ ઉષ્માધારિતાનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘન પદાર્થમાં પરમાણુઓ 3 પરિમાણમાં કંપન કરે છે, દરેક કંપન માટે 2 મુક્તતાના અંશો (ગતિ અને સ્થિતિ ઉર્જા) હોય છે. કુલ f = 6. <br>U = 3RT, તેથી C = dU/dT = 3R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન માટે 'C = 3R' (નિયમ: ડ્યુલોંગ અને પેટિટનો નિયમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શા માટે વાયુની બે પ્રકારની વિશિષ્ટ ઉષ્માઓ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુને ગરમ કરતા તેના કદ અને દબાણમાં મોટો ફેરફાર થાય છે. જો કદ અચળ રાખી ગરમ કરીએ તો કાર્ય થતું નથી (Cv), પણ જો દબાણ અચળ રાખી ગરમ કરીએ તો ઉર્જાનો અમુક ભાગ કદ વધારવામાં (કાર્ય કરવામાં) વપરાય છે (Cp).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુ બહુ ચંચળ છે, તેને દબાવીને (V) કે ખુલ્લેઆમ (P) બંને રીતે ગરમ કરી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એવોગેડ્રો અંક (N_A) નું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ પદાર્થના 1 મોલ જથ્થામાં રહેલા અણુઓની સંખ્યાને એવોગેડ્રો અંક કહે છે. મૂલ્ય: 6.022 × 10^23. તે અણુના દ્રવ્યમાન અને મોલર દળ વચ્ચેનો સંબંધ જોડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિસ્ટ્રી અને ફિઝિક્સનો 'કોમન ફ્રેન્ડ' એટલે એવોગેડ્રો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બ્રાઉનિયન ગતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહી કે વાયુમાં રહેલા સૂક્ષ્મ કણો (જેમ કે પરાગરજ) ની અસ્તવ્યસ્ત (Zig-zag) ગતિને બ્રાઉનિયન ગતિ કહે છે. આ ગતિ વાયુના અણુઓ સાથેની અથડામણને કારણે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝિગ-ઝેગ' ગતિ = બ્રાઉનિયન ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાણીની વિશિષ્ટ ઉષ્મા Cp = 9R કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી (H2O) માં 3 પરમાણુ છે. દરેક પરમાણુને સરેરાશ 3R ઉર્જા મળે (ઘનની જેમ). તેથી કુલ ઉર્જા U = 3 × 3RT = 9RT. આથી C = dU/dT = 9R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H-O-H (3 પરમાણુ) × 3R = 9R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વાયુના અણુઓની સરેરાશ ઝડપ (v_avg) અને RMS ઝડપ (v_rms) વચ્ચેનો તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ ઝડપ એ બધી ઝડપનો ગાણિતિક સરેરાશ છે, જ્યારે RMS ઝડપ એ વર્ગોના સરેરાશનું વર્ગમૂળ છે. હંમેશા v_rms > v_avg હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RMS હંમેશા 'મોટો' ભાઈ છે, Average નાનો ભાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિશિષ્ટ ઉષ્માઓનો ગુણોત્તર (Gamma - γ) એટલે શું? દ્વિ-પરમાણ્વિક વાયુ માટે તેનું મૂલ્ય કેટલું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> γ = Cp / Cv. <br>દ્વિ-પરમાણ્વિક વાયુ (સામાન્ય તાપમાને f=5) માટે: <br>Cv = 5/2 R, Cp = 7/2 R. <br>તેથી γ = (7/2) / (5/2) = 7/5 = 1.4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Gamma એટલે Cp/Cv નો રેશિયો. દ્વિ-પરમાણ્વિક માટે 1.4 યાદ જ રાખી લો!</p></div>"
+    }
+  ]
+}

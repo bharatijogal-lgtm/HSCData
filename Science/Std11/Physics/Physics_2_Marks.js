@@ -1462,3 +1462,116 @@ var Std11_Physics_2_Marks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "તરંગો",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "તરંગ ગતિ એટલે શું? તેના મુખ્ય બે પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માધ્યમમાં વિક્ષોભની ગતિને તરંગ ગતિ કહે છે. તેમાં દ્રવ્યના કણોનું સ્થળાંતર થતું નથી પરંતુ ઉર્જાનું વહન થાય છે. તેના મુખ્ય બે પ્રકાર છે: (1) લંબગત તરંગો અને (2) સંગત તરંગો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરંગ = ઉર્જાની મુસાફરી, કણોની નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લંબગત તરંગો અને સંગત તરંગો વચ્ચેનો મુખ્ય તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબગત તરંગોમાં માધ્યમના કણો તરંગ પ્રસરણની દિશાને લંબરૂપે દોલનો કરે છે (દા.ત. દોરી પરના તરંગો). જ્યારે સંગત તરંગોમાં માધ્યમના કણો તરંગ પ્રસરણની દિશામાં જ આગળ-પાછળ દોલનો કરે છે (દા.ત. ધ્વનિ તરંગો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબગત = L આકાર (લંબ), સંગત = સમાંતર (સાથે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્રગામી તરંગનું સમીકરણ $y(x, t) = a \\sin(kx - \\omega t + \\phi)$ માં દરેક પદ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં, $a$ = કંપવિસ્તાર, $k$ = કોણીય તરંગ સંખ્યા ($2\\pi/\\lambda$), $\\omega$ = કોણીય આવૃત્તિ ($2\\pi/T$), $\\phi$ = કળા અચળાંક, અને $(kx - \\omega t + \\phi)$ એ તરંગની કળા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k એટલે જગ્યા (x) સાથેનો સંબંધ, ω એટલે સમય (t) સાથેનો સંબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તરંગ લંબાઈ ($\\lambda$) અને તરંગ સંખ્યા ($k$) વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ અંતરમાં રહેલા તરંગોના પૂર્ણ ચક્રની સંખ્યાને તરંગ સંખ્યા કહે છે. $2\\pi$ જેટલા અંતરમાં જો એક તરંગ સમાતું હોય તો, $k = \\frac{2\\pi}{\\lambda}$ સૂત્ર મળે. તેનો એકમ $rad/m$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: k અને λ એકબીજાના દુશ્મન (વ્યસ્ત) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "તરંગના વેગ ($v$), આવૃત્તિ ($\nu$) અને તરંગ લંબાઈ ($\\lambda$) વચ્ચેનો સંબંધ દર્શાવતું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગ = અંતર / સમય. એક આવર્તકાળ $T$ માં તરંગ $\\lambda$ જેટલું અંતર કાપે છે. તેથી, $v = \\frac{\\lambda}{T}$. હવે, $\\nu = \\frac{1}{T}$ હોવાથી, $v = \\nu \\lambda$ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: V = New Lambda (V = νλ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખેંચાયેલી દોરી પર લંબગત તરંગની ઝડપનું સૂત્ર લખી તેના પદ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેંચાયેલી દોરી પર લંબગત તરંગની ઝડપ $v = \\sqrt{\\frac{T}{\\mu}}$ છે. જ્યાં, $T$ = દોરીમાં તણાવ બળ અને $\\mu$ = દોરીની રેખીય દળ ઘનતા (દળ/લંબાઈ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તણાવ વધે તો ઝડપ વધે (T અંશમાં છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ન્યુટનનું ધ્વનિની ઝડપ માટેનું સૂત્ર લખો અને તેની મર્યાદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુટન મુજબ હવામાં ધ્વનિની ઝડપ $v = \\sqrt{\\frac{P}{\\rho}}$. આ સૂત્રથી હવામાં ઝડપ 280 m/s મળે છે, જે પ્રાયોગિક મૂલ્ય 332 m/s કરતા ઓછી છે. ન્યુટને આ પ્રક્રિયા સમતાપી ધારી હતી, જે તેની ભૂલ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટન = સમતાપી (ભૂલ), લાપ્લાસ = સમોષ્મી (સુધારો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ધ્વનિની ઝડપ માટે લાપ્લાસનો સુધારો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાપ્લાસે સૂચવ્યું કે ધ્વનિનું પ્રસરણ એટલું ઝડપી હોય છે કે ઉષ્માની આપ-લે થતી નથી, એટલે કે પ્રક્રિયા 'સમોષ્મી' છે. તેથી સૂત્ર સુધારીને $v = \\sqrt{\\frac{\\gamma P}{\\rho}}$ આપ્યું, જ્યાં $\\gamma = C_p/C_v$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાપ્લાસ લાવ્યા 'ગામા' (γ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તરંગોના સંપાતીકરણનો સિદ્ધાંત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે માધ્યમમાં બે કે તેથી વધુ તરંગો એકસાથે પ્રસરતા હોય, ત્યારે કોઈ પણ કણનું પરિણામી સ્થાનાંતર એ દરેક તરંગ દ્વારા ઉદભવતા સ્વતંત્ર સ્થાનાંતરોના સદિશ સરવાળા બરાબર હોય છે. $y = y_1 + y_2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંપાતીકરણ = સરવાળો (Total displacement = Sum).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થિર તરંગો (Standing Waves) એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન કંપવિસ્તાર અને આવૃત્તિવાળા બે પ્રગામી તરંગો વિરુદ્ધ દિશામાં ગતિ કરી સંપાત થાય ત્યારે ઉદભવતા તરંગને સ્થિર તરંગ કહે છે. ઉદાહરણ: ગિટારના તારમાં ઉત્પન્ન થતા તરંગો, વાંસળીની હવામાં ઉદભવતા તરંગો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિર તરંગમાં ઉર્જાનું વહન શૂન્ય હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સ્થિર તરંગોમાં 'નિષ્પંદ બિંદુ' (Nodes) અને 'પ્રસ્પંદ બિંદુ' (Antinodes) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિર તરંગમાં જે બિંદુઓ પાસે સ્થાનાંતર હંમેશા શૂન્ય હોય તેને નિષ્પંદ બિંદુ (N) કહે છે. જ્યારે જે બિંદુઓ પાસે સ્થાનાંતર મહત્તમ હોય તેને પ્રસ્પંદ બિંદુ (A) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N = No motion (શૂન્ય), A = All motion (મહત્તમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બે ક્રમિક નિષ્પંદ બિંદુઓ અને ક્રમિક પ્રસ્પંદ બિંદુઓ વચ્ચેનું અંતર કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે ક્રમિક નિષ્પંદ બિંદુઓ (N-N) વચ્ચેનું અંતર $\\lambda/2$ હોય છે. તેવી જ રીતે બે ક્રમિક પ્રસ્પંદ બિંદુઓ (A-A) વચ્ચેનું અંતર પણ $\\lambda/2$ હોય છે. નિષ્પંદ અને પાસેના પ્રસ્પંદ વચ્ચેનું અંતર $\\lambda/4$ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું ચક્ર = λ/2, પા ચક્ર = λ/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બંને છેડે જકડેલી દોરીમાં ઉદભવતી મૂળભૂત આવૃત્તિ (Fundamental Frequency) નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $L$ લંબાઈની દોરી માટે મૂળભૂત મોડમાં $L = \\lambda/2$ થાય, તેથી $\\lambda = 2L$. હવે $\\nu = v/\\lambda$ માં કિંમત મુકતા, $\\nu = \\frac{v}{2L}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂળભૂત એટલે એક જ લૂપ (Loop).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક છેડે બંધ પાઈપ (Closed Pipe) માટે હાર્મોનિક્સની શ્રેણી કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક છેડે બંધ પાઈપમાં માત્ર 'એકી' (Odd) હાર્મોનિક્સ જ જોવા મળે છે. એટલે કે આવૃત્તિઓનો ગુણોત્તર $\\nu_1 : \\nu_3 : \\nu_5 = 1 : 3 : 5$ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Closed = Only Odd (1, 3, 5...).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બંને છેડે ખુલ્લી પાઈપ (Open Pipe) માટે હાર્મોનિક્સ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખુલ્લી પાઈપમાં એકી અને બેકી બંને પ્રકારના હાર્મોનિક્સ જોવા મળે છે. આવૃત્તિઓનો ગુણોત્તર $\\nu_1 : \\nu_2 : \\nu_3 = 1 : 2 : 3$ હોય છે. તેની મૂળભૂત આવૃત્તિ $\\nu = v/2L$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Open = All (બધા જ હાર્મોનિક્સ હાજર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સ્પંદ (Beats) એટલે શું? તેની આવૃત્તિનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે લગભગ સમાન આવૃત્તિ (તફાવત 10 Hz થી ઓછો) ધરાવતા બે ધ્વનિ તરંગો સંપાત થાય ત્યારે અવાજની તીવ્રતામાં જે ક્રમિક વધારો-ઘટારો થાય છે તેને સ્પંદ કહે છે. સ્પંદ આવૃત્તિ $\\nu_b = |\\nu_1 - \\nu_2|$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પંદ = આવૃત્તિનો તફાવત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કળા તફાવત ($\\Delta \\phi$) અને પથ તફાવત ($\\Delta x$) વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરંગ પરના બે બિંદુઓ વચ્ચેનો કળા તફાવત $\\Delta \\phi = \\frac{2\\pi}{\\lambda} \\cdot \\Delta x$ અથવા $\\Delta \\phi = k \\cdot \\Delta x$ દ્વારા અપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતરને k વડે ગુણો એટલે કળા મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તરંગોનું પરાવર્તન સમજાવો: (1) દ્રઢ સીમા અને (2) મુક્ત સીમા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) દ્રઢ સીમાથી પરાવર્તન થાય ત્યારે તરંગની કળામાં $\\pi$ (180°) નો ફેરફાર થાય છે. (2) મુક્ત સીમાથી પરાવર્તન થાય ત્યારે કળામાં કોઈ ફેરફાર થતો નથી (0°).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hard Boundary = Reverse ($\\pi$), Soft Boundary = Same (0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ધ્વનિના તરંગો શૂન્યાવકાશમાં કેમ પ્રસરતા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્વનિ તરંગો યાંત્રિક સંગત તરંગો છે. યાંત્રિક તરંગોના પ્રસરણ માટે સ્થિતિસ્થાપક માધ્યમ (હવા, પાણી કે ઘન) અનિવાર્ય છે. શૂન્યાવકાશમાં દ્રવ્યના કણો ન હોવાથી તે પ્રસરી શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાંત્રિક તરંગ = માધ્યમની જરૂર (No medium, No sound).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રેખીય દળ ઘનતા ($\\mu$) એટલે શું? તેનો એકમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દોરીની એકમ લંબાઈ દીઠ દળને તેની રેખીય દળ ઘનતા કહે છે. $\\mu = M/L$. તેનો SI એકમ $kg/m$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાડી દોરી = વધુ $\\mu$, પાતળી દોરી = ઓછો $\\mu$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સ્થિર તરંગનું સમીકરણ $y(x, t) = 2a \\sin(kx) \\cos(\\omega t)$ માં કંપવિસ્તારનું સૂત્ર શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિર તરંગમાં પરિણામી કંપવિસ્તાર સ્થાન $x$ પર આધારિત હોય છે, જે $A(x) = 2a \\sin(kx)$ દ્વારા દર્શાવાય છે. આ કારણે જ અલગ અલગ સ્થાને કંપવિસ્તાર અલગ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રગામીમાં $a$ અચળ, સ્થિર તરંગમાં $A(x)$ ચલ!</p></div>"
+    }
+  ]
+}

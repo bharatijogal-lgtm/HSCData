@@ -224,3 +224,116 @@ var Std11_Physics_3_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સમતલમાં ગતિ",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અદિશ અને સદિશ રાશિઓ વચ્ચેનો તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>અદિશ રાશિ:</strong> જે રાશિને દર્શાવવા માટે માત્ર મૂલ્યની જ જરૂર પડે તેને અદિશ રાશિ કહે છે. દા.ત. દળ, સમય, તાપમાન, અંતર. અદિશ રાશિઓના સરવાળા સામાન્ય બીજગણિતના નિયમો મુજબ થાય છે.<br>2. <strong>સદિશ રાશિ:</strong> જે રાશિને સંપૂર્ણપણે દર્શાવવા માટે મૂલ્ય અને દિશા બંનેની જરૂર પડે તેને સદિશ રાશિ કહે છે. દા.ત. વેગ, પ્રવેગ, બળ, સ્થાનાંતર. સદિશ રાશિઓના સરવાળા માટે સદિશ બીજગણિતના નિયમો (જેમ કે ત્રિકોણનો નિયમ) વાપરવા પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અદિશ = માત્ર આંકડો (Value), સદિશ = આંકડો + દિશા (Value + Direction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સદિશોના સરવાળા માટેનો ત્રિકોણનો નિયમ આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો બે સદિશો A અને B ને કોઈ ત્રિકોણની બે પાસપાસેની બાજુઓ તરીકે (ક્રમમાં) દર્શાવવામાં આવે, તો પ્રથમ સદિશના પૂંછ (Tail) થી બીજા સદિશના શીર્ષ (Head) ને જોડતો સદિશ એ તે બે સદિશોનો પરિણામી સદિશ R દર્શાવે છે. <br>સમીકરણ: R = A + B. <br>આ રીતમાં પ્રથમ સદિશના શીર્ષ પર બીજા સદિશની પૂંછ મૂકવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Head to Tail' મેથડ એટલે ત્રિકોણનો નિયમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સદિશોના સરવાળા માટે સમાંતરબાજુ ચતુષ્કોણની રીત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો બે સદિશો A અને B ને એક જ ઉદગમબિંદુમાંથી નીકળતી સમાંતરબાજુ ચતુષ્કોણની બે પાસપાસેની બાજુઓ તરીકે દર્શાવવામાં આવે, તો તે ઉદગમબિંદુમાંથી પસાર થતો વિકર્ણ (Diagonal) તે બે સદિશોનો પરિણામી સદિશ R દર્શાવે છે. <br>પરિણામી સદિશનું મૂલ્ય: R = √(A² + B² + 2AB cosθ), જ્યાં θ એ બે સદિશો વચ્ચેનો ખૂણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ = બંને પૂંછડી ભેગી (Tail to Tail join)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "એકમ સદિશ એટલે શું? કાર્તેઝીયન કો-ઓર્ડિનેટ સિસ્ટમમાં એકમ સદિશો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સદિશનું મૂલ્ય એક (1) હોય તેને એકમ સદિશ કહે છે. તે માત્ર દિશા દર્શાવવા માટે વપરાય છે. <br>એકમ સદિશ n̂ = A / |A|. <br>કાર્તેઝીયન પદ્ધતિમાં X-અક્ષની દિશામાં î, Y-અક્ષની દિશામાં ĵ અને Z-અક્ષની દિશામાં k̂ એકમ સદિશો લેવામાં આવે છે. આ સદિશો પરસ્પર લંબ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમ સદિશ = સદિશ ભાગ્યા તેનું માન (Vector / Magnitude).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સદિશનું દ્વિ-પરિમાણમાં વિભાજન (Resolution) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ સદિશ A ને બે પરસ્પર લંબ ઘટકોમાં વિભાજીત કરવાની પ્રક્રિયાને સદિશનું વિભાજન કહે છે. <br>જો સદિશ A એ X-અક્ષ સાથે θ ખૂણો બનાવતો હોય, તો: <br>1. X-ઘટક: Ax = A cosθ <br>2. Y-ઘટક: Ay = A sinθ <br>સદિશ સ્વરૂપે: A = Ax î + Ay ĵ. <br>મૂલ્ય: A = √(Ax² + Ay²).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની સાથે ખૂણો (θ) હોય તે 'cos' અને બીજો 'sin'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમતલમાં ગતિ કરતા કણ માટે વેગ અને સરેરાશ વેગની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>સરેરાશ વેગ (v_avg):</strong> સ્થાનાંતર (Δr) અને તે માટે લાગતા સમયગાળા (Δt) ના ગુણોત્તરને સરેરાશ વેગ કહે છે. v_avg = Δr / Δt.<br>2. <strong>તાત્કાલિક વેગ (v):</strong> સમયગાળો Δt શૂન્યની નજીક (limit Δt->0) લેતા મળતા વેગને તાત્કાલિક વેગ કહે છે. v = dr / dt.<br>વેગના ઘટકો: v = vx î + vy ĵ, જ્યાં vx = dx/dt અને vy = dy/dt.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ એટલે સ્થાનનું સમય સાપેક્ષ વિકલન (Differentiation)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમતલમાં અચળ પ્રવેગી ગતિ માટેના સમીકરણો મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે પદાર્થનો પ્રવેગ 'a' અચળ છે. t = 0 સમયે વેગ v0 અને t સમયે વેગ v છે. <br>1. વેગ માટે: v = v0 + at <br>2. સ્થાનાંતર માટે: r = r0 + v0t + (1/2)at² <br>આ સમીકરણોને x અને y ઘટકોમાં અલગ પાડી શકાય: <br>x = x0 + v0xt + (1/2)axt² અને y = y0 + v0yt + (1/2)ayt².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરેખ પથ પરની ગતિના સમીકરણોમાં માત્ર સદિશ ચિહ્ન લગાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાપેક્ષ વેગ (Relative Velocity) દ્વિ-પરિમાણમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે પદાર્થો A અને B ગતિમાં હોય ત્યારે, A ની સાપેક્ષે B ના વેગને V_BA કહે છે. <br>V_BA = V_B - V_A. <br>તેવી જ રીતે B ની સાપેક્ષે A નો વેગ V_AB = V_A - V_B. <br>અહીં V_AB = -V_BA. <br>વરસાદમાં છત્રી પકડવાના દાખલાઓમાં સાપેક્ષ વેગનો ઉપયોગ થાય છે (V_RG = V_R - V_G).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની સાપેક્ષે શોધવું હોય તેને બાદ કરો! (Relative to A = Subtract A).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રક્ષિપ્ત ગતિ (Projectile Motion) એટલે શું? તેના ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થને પૃથ્વીના ગુરુત્વાકર્ષણ ક્ષેત્રમાં શિરોલંબ દિશા સિવાયના કોઈ ખૂણે ફેંકવામાં આવે ત્યારે તે પદાર્થ અચળ ગુરુત્વાકર્ષી પ્રવેગ (g) હેઠળ ગતિ કરે છે, તેને પ્રક્ષિપ્ત ગતિ કહે છે. <br>ઉદાહરણ: <br>1. ફૂટબોલને કિક મારતા તેની ગતિ. <br>2. તોપમાંથી છૂટેલા ગોળાની ગતિ. <br>આ ગતિમાં હવાનો અવરોધ નગણ્ય ધારવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રક્ષિપ્ત ગતિ = x-અક્ષ પર અચળ વેગ + y-અક્ષ પર અચળ પ્રવેગ (g).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સાબિત કરો કે પ્રક્ષિપ્ત પદાર્થનો ગતિપથ પરવલય (Parabola) હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x = (v0 cosθ)t => t = x / (v0 cosθ). <br>હવે y = (v0 sinθ)t - (1/2)gt² માં t ની કિંમત મુકતા: <br>y = (v0 sinθ) * [x / (v0 cosθ)] - (1/2)g * [x / (v0 cosθ)]² <br>y = (tanθ)x - [g / (2v0² cos²θ)]x² <br>આ સમીકરણ y = ax + bx² જેવું છે, જે પરવલયનું સમીકરણ છે. તેથી ગતિપથ પરવલય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x માંથી t શોધો અને y માં મૂકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રક્ષિપ્ત ગતિમાં મહત્તમ ઊંચાઈ (H) મેળવવા માટેનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-color:#16a085; border-radius:8px; border-left:5px solid #16a085;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ ઊંચાઈએ પદાર્થનો શિરોલંબ વેગ vy = 0 થાય છે. <br>સૂત્ર vy² = v0y² - 2gy મુજબ: <br>0 = (v0 sinθ)² - 2gH <br>2gH = v0² sin²θ <br>H = (v0² sin²θ) / 2g. <br>જ્યાં v0 = પ્રારંભિક વેગ, θ = પ્રક્ષિપ્ત કોણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Height માટે sin² વાપરો અને છેદમાં 2g મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રક્ષિપ્ત ગતિમાં મહત્તમ ઊંચાઈએ પહોંચવા માટે લાગતો સમય (tm) અને કુલ ઉડ્ડયન સમય (Tf) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>મહત્તમ ઊંચાઈ માટેનો સમય (tm):</strong> vy = v0 sinθ - gt માં vy = 0 લેતા, tm = (v0 sinθ) / g.<br>2. <strong>કુલ ઉડ્ડયન સમય (Tf):</strong> પદાર્થ જેટલા સમયમાં ઉપર જાય તેટલા જ સમયમાં નીચે આવે (હવાનો અવરોધ અવગણતા). <br>Tf = 2 * tm = (2 v0 sinθ) / g.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tf એ tm કરતા બમણો (Double) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પ્રક્ષિપ્ત ગતિમાં સમક્ષિતિજ અવધિ (Range - R) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવધિ R = સમક્ષિતિજ વેગ × કુલ ઉડ્ડયન સમય (Tf). <br>R = (v0 cosθ) * (2 v0 sinθ / g) <br>R = v0² (2 sinθ cosθ) / g <br>R = (v0² sin2θ) / g. <br>(નોંધ: 2 sinθ cosθ = sin2θ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Range માં ખૂણો બમણો (2θ) થઈ જાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કયા પ્રક્ષિપ્ત કોણે અવધિ મહત્તમ મળે? મહત્તમ અવધિનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવધિનું સૂત્ર R = (v0² sin2θ) / g છે. <br>મહત્તમ અવધિ માટે sin2θ = 1 થવું જોઈએ. <br>2θ = 90° => θ = 45°. <br>આમ, 45° ના ખૂણે પદાર્થને ફેંકતા તે સૌથી વધુ અંતર (અવધિ) કાપશે. <br>મહત્તમ અવધિ R_max = v0² / g.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 45 ડિગ્રી = સૌથી લાંબો ઘા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નિયમિત વર્તુળમય ગતિ (Uniform Circular Motion) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ અચળ ઝડપથી વર્તુળાકાર પથ પર ગતિ કરતો હોય, તો તેવી ગતિને નિયમિત વર્તુળમય ગતિ કહે છે. <br>નોંધ: અહીં ઝડપ અચળ રહે છે, પરંતુ દિશા બદલાતી હોવાથી વેગ સતત બદલાય છે. <br>ઉદાહરણ: પૃથ્વીની આસપાસ ચંદ્રની ગતિ, ઘડિયાળના કાંટાના છેડાની ગતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત = ઝડપ Fixed, દિશા Change.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કેન્દ્રગામી પ્રવેગ (Centripetal Acceleration) સમજાવી તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળમય ગતિ કરતા પદાર્થમાં વેગની દિશા બદલાવાને કારણે જે પ્રવેગ ઉદ્ભવે છે, અને જેની દિશા હંમેશા વર્તુળના કેન્દ્ર તરફ હોય છે, તેને કેન્દ્રગામી પ્રવેગ (ac) કહે છે. <br>સૂત્ર: ac = v² / r. <br>કોણીય વેગ ω ના પદમાં: ac = ω² r. (કારણ કે v = rω).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Centripetal = Center Seeking (કેન્દ્ર તરફ ખેંચતો પ્રવેગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કોણીય ઝડપ (ω) અને રેખીય ઝડપ (v) વચ્ચેનો સંબંધ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે પદાર્થ r ત્રિજ્યાના વર્તુળ પર Δt સમયમાં Δθ જેટલું કોણીય સ્થાનાંતર કરે છે. <br>કોણીય ઝડપ ω = Δθ / Δt. <br>ચાપની લંબાઈ Δs = r * Δθ. <br>રેખીય ઝડપ v = Δs / Δt = (r * Δθ) / Δt <br>v = r * (Δθ / Δt) <br>v = rω. <br>સદિશ સ્વરૂપે: v = ω × r.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Linear = Radius × Angular.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વર્તુળમય ગતિ માટે આવર્તકાળ (T) અને આવૃત્તિ (ν) ની વ્યાખ્યા અને સંબંધ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>આવર્તકાળ (T):</strong> એક પૂર્ણ ચક્ર પૂરું કરવા માટે લાગતા સમયને આવર્તકાળ કહે છે. T = 2πr / v.<br>2. <strong>આવૃત્તિ (ν):</strong> એક સેકન્ડમાં થતા ચક્રોની સંખ્યાને આવૃત્તિ કહે છે. ν = 1 / T. <br>કોણીય ઝડપ સાથે સંબંધ: ω = 2π / T = 2πν.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T અને ν એકબીજાના વ્યસ્ત (Inverse) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સદિશના સરવાળા માટે જૂથનો નિયમ અને ક્રમનો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>ક્રમનો નિયમ:</strong> બે સદિશોનો સરવાળો ગમે તે ક્રમમાં કરવામાં આવે તો પરિણામ સમાન મળે છે. A + B = B + A.<br>2. <strong>જૂથનો નિયમ:</strong> ત્રણ સદિશોના સરવાળામાં ગમે તે બેના જૂથ બનાવી ત્રીજો સદિશ ઉમેરવામાં આવે તો પણ પરિણામ બદલાતું નથી. (A + B) + C = A + (B + C).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સદિશ સરવાળા એ સાદા સરવાળાની જેમ જ ક્રમ અને જૂથને અનુસરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શૂન્ય સદિશ (Null Vector) એટલે શું? તેના ગુણધર્મો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સદિશનું મૂલ્ય શૂન્ય હોય તેને શૂન્ય સદિશ (0) કહે છે. તેની દિશા અનિશ્ચિત હોય છે. <br>ગુણધર્મો: <br>1. A + 0 = A <br>2. λ * 0 = 0 (જ્યાં λ અદિશ છે) <br>3. 0 * A = 0 <br>જ્યારે બે સમાન સદિશોની બાદબાકી કરવામાં આવે ત્યારે શૂન્ય સદિશ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય સદિશ એટલે 'કંઈ નહીં' પણ દિશા સાથે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સ્થાન સદિશ અને સ્થાનાંતર સદિશ વચ્ચેનો તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>સ્થાન સદિશ (r):</strong> ઉદગમબિંદુની સાપેક્ષે કણનું સ્થાન દર્શાવતા સદિશને સ્થાન સદિશ કહે છે. r = x î + y ĵ.<br>2. <strong>સ્થાનાંતર સદિશ (Δr):</strong> ગતિ દરમિયાન કણના અંતિમ સ્થાન અને પ્રારંભિક સ્થાનના તફાવતને સ્થાનાંતર સદિશ કહે છે. Δr = r2 - r1 = (x2-x1) î + (y2-y1) ĵ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાન = ક્યાં છે?, સ્થાનાંતર = કેટલું ખસ્યું?</p></div>"
+    }
+  ]
+}

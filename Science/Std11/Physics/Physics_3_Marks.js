@@ -769,3 +769,111 @@ var Std11_Physics_3_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "ઘન પદાર્થોના યાંત્રિક ગુણધર્મો",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સ્થિતિસ્થાપકતા અને પ્લાસ્ટિસિટી વચ્ચેનો તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ પર બાહ્ય બળ લગાડવામાં આવે અને બળ દૂર કરતા પદાર્થ પોતાનો મૂળ આકાર અને કદ પાછો મેળવે, તો તેને 'સ્થિતિસ્થાપકતા' કહેવાય (દા.ત. સ્ટીલ, રબર). જો પદાર્થ પોતાનો મૂળ આકાર પાછો ન મેળવે અને કાયમી વિરૂપણ અનુભવે, તો તેને 'પ્લાસ્ટિસિટી' કહેવાય (દા.ત. પ્લાસ્ટિસિન, કાદવ, પુટ્ટી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = Elastic (Echo - પાછું આવવું), P = Plastic (Permanent - કાયમી રહી જવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પ્રતિબળ (Stress) એટલે શું? તેના પ્રકારો માત્ર જણાવી સંગત પ્રતિબળ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના એકમ આડછેદના ક્ષેત્રફળ દીઠ ઉદ્ભવતા પુનઃસ્થાપક બળને પ્રતિબળ કહે છે. σ = F/A. તેના ત્રણ પ્રકાર છે: (1) સંગત (Longitudinal) (2) આકાર (Shearing) (3) કદ (Hydraulic). જ્યારે બળ લંબાઈને સમાંતર લાગે ત્યારે તેને સંગત પ્રતિબળ કહેવાય. જો ખેંચાણ થાય તો 'તણાવ પ્રતિબળ' અને દબાય તો 'દાબ પ્રતિબળ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રતિબળ એટલે બળના છેદમાં એરિયા (Force per Area). યુનિટ: N/m² અથવા Pascal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિકૃતિ (Strain) એટલે શું? તેના ત્રણેય પ્રકારો સૂત્રો સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના પરિમાણમાં થતા ફેરફાર અને મૂળ પરિમાણના ગુણોત્તરને વિકૃતિ કહે છે. (1) સંગત વિકૃતિ (ε = ΔL/L): લંબાઈમાં ફેરફાર. (2) આકાર વિકૃતિ (tanθ ≈ θ = Δx/h): આકારમાં ફેરફાર. (3) કદ વિકૃતિ (εv = ΔV/V): કદમાં ફેરફાર. વિકૃતિ એકમરહિત રાશિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકૃતિ = 'જે બદલાયું તે' / 'જે પહેલા હતું તે'. તે માત્ર એક નંબર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હૂકનો નિયમ લખો અને તેની મર્યાદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમ: લઘુ વિરૂપણ માટે, પદાર્થમાં ઉદ્ભવતું પ્રતિબળ તેમાં ઉદ્ભવતી વિકૃતિના સમપ્રમાણમાં હોય છે. એટલે કે, પ્રતિબળ ∝ વિકૃતિ (σ = kε), જ્યાં k સ્થિતિસ્થાપકતા અંક છે. મર્યાદા: આ નિયમ માત્ર સ્થિતિસ્થાપકતાની હદમાં જ સાચો છે. મોટા વિરૂપણ માટે પ્રતિબળ અને વિકૃતિ વચ્ચેનો સંબંધ રૈખિક રહેતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hooke = Hook (પકડ) -> જે બળ વધારો એટલી ખેંચાણ વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ધાતુના તાર માટે પ્રતિબળ વિરુદ્ધ વિકૃતિનો આલેખ દોરી 'પ્રમાણતા સીમા' અને 'નમન બિંદુ' સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલેખમાં O થી A સુધીનો ભાગ સીધી રેખા છે, જ્યાં હૂકનો નિયમ પળાય છે, બિંદુ A ને 'પ્રમાણતા સીમા' કહે છે. બિંદુ B એવું બિંદુ છે જ્યાં સુધી બળ દૂર કરતા પદાર્થ મૂળ સ્થિતિમાં આવે છે, તેને 'સ્થિતિસ્થાપકતા સીમા' અથવા 'નમન બિંદુ' (Yield Point) કહે છે. અહીં પ્રતિબળ σy છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O-A (સીધી લાઈન), B (છેલ્લી તક પાછા આવવાની), D (મજબૂતીની હદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "યંગ મોડ્યુલસ (Young's Modulus) વ્યાખ્યાયિત કરી તેનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપકતાની હદમાં, સંગત પ્રતિબળ (σ) અને સંગત વિકૃતિ (ε) ના ગુણોત્તરને યંગ મોડ્યુલસ (Y) કહે છે. Y = σ / ε. જો બળ F, લંબાઈ L, આડછેદ A અને લંબાઈમાં વધારો ΔL હોય, તો σ = F/A અને ε = ΔL/L. તેથી Y = (F × L) / (A × ΔL). એકમ: N/m².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Y = FL / AΔL. યાદ રાખો: 'ફ્લાવર' (FL) ઉપર, 'એપલ' (AΔL) નીચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'રબર કરતા સ્ટીલ વધુ સ્થિતિસ્થાપક છે' - સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન પરિમાણ ધરાવતા રબર અને સ્ટીલના તાર પર સમાન બળ લગાડતા, રબરમાં ઉદ્ભવતી વિકૃતિ સ્ટીલ કરતા ઘણી વધારે હોય છે. Y = σ/ε મુજબ, જેની વિકૃતિ ઓછી તેનો યંગ મોડ્યુલસ વધુ. સ્ટીલ માટે Y મોટો હોવાથી તે રબર કરતા વધુ સ્થિતિસ્થાપક ગણાય. વિજ્ઞાનમાં જે વધુ વિરોધ કરે તે વધુ સ્થિતિસ્થાપક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Elasticity એટલે મૂળ આકારમાં આવવાની તાકાત. સ્ટીલ જલ્દી પાછું આવે, રબર તો ઢીલું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આકાર મોડ્યુલસ (Shear Modulus / Modulus of Rigidity) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થિતિસ્થાપકતાની હદમાં, આકાર પ્રતિબળ (σs) અને આકાર વિકૃતિ (θ) ના ગુણોત્તરને આકાર મોડ્યુલસ (G) કહે છે. G = σs / θ = (F/A) / (Δx/L). તે પદાર્થની જડતા (Rigidity) દર્શાવે છે. સામાન્ય રીતે G નું મૂલ્ય યંગ મોડ્યુલસ Y કરતા ત્રીજા ભાગનું (G ≈ Y/3) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G = 'G'ujarat (Shape of State). આકાર બદલાય ત્યારે G આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બલ્ક મોડ્યુલસ (Bulk Modulus) અને દબનીયતા (Compressibility) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈડ્રોલિક પ્રતિબળ (P) અને કદ વિકૃતિ (ΔV/V) ના ગુણોત્તરને બલ્ક મોડ્યુલસ (B) કહે છે. B = -P / (ΔV/V). ઋણ નિશાની સૂચવે છે કે દબાણ વધતા કદ ઘટે છે. બલ્ક મોડ્યુલસના વ્યસ્તને દબનીયતા (k) કહે છે. k = 1/B. વાયુઓ સૌથી વધુ દબનીય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B = Bulk (કદ). k = 1/B. બલૂન (વાયુ) ની k સૌથી વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પોઈસન ગુણોત્તર (Poisson's Ratio) ની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તારને ખેંચવામાં આવે, ત્યારે તેની લંબાઈ વધે છે પણ વ્યાસ ઘટે છે. પાશ્વિય વિકૃતિ (Δd/d) અને સંગત વિકૃતિ (ΔL/L) ના ગુણોત્તરને પોઈસન ગુણોત્તર (ν) કહે છે. ν = - (Δd/d) / (ΔL/L). તે પરિમાણરહિત છે. સ્ટીલ માટે તેનું મૂલ્ય 0.28 થી 0.30 ની વચ્ચે હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેંચો તો લાંબુ થાય (L), પણ પાતળું થાય (d). આ બેનો રેશિયો એટલે પોઈસન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખેંચાયેલા તારમાં સંગ્રહિત સ્થિતિસ્થાપક સ્થિતિ ઊર્જાનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તારને ખેંચવા માટે બાહ્ય બળ વડે કાર્ય કરવું પડે છે, જે ઊર્જા સ્વરૂપે સંગ્રહાય છે. W = ∫ F dl. F = YA(l/L) મુકતા, W = (1/2) × (YAl²/L). તેથી, ઊર્જા U = (1/2) × બળ × લંબાઈમાં વધારો. અથવા ઊર્જા ઘનતા u = (1/2) × પ્રતિબળ × વિકૃતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Energy = 1/2 × Stress × Strain × Volume. અડધો સ્ટ્રેસ-સ્ટ્રેઈનનો ગુણાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્થિતિસ્થાપક હિસ્ટેરેસિસ (Elastic Hysteresis) એટલે શું? આલેખ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રબર જેવા પદાર્થો (Elastomers) માટે ભારણ (Loading) અને ભારમુક્તિ (Unloading) ના આલેખો એકબીજા પર સંપાત થતા નથી. આલેખો વચ્ચે ઘેરાયેલું ક્ષેત્રફળ ઉષ્મા સ્વરૂપે વ્યય પામતી ઊર્જા દર્શાવે છે. આ ઘટનાને સ્થિતિસ્થાપક હિસ્ટેરેસિસ કહે છે. ગાડીના ટાયરમાં શોક એબ્સોર્બર તરીકે રબરનો ઉપયોગ આ ગુણને લીધે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગયા એ રસ્તે પાછા ન આવ્યા! જે વચ્ચે જગ્યા બચી એ ગરમી (Heat) બની ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઈલાસ્ટોમર્સ (Elastomers) એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થોને ખેંચીને ઘણી મોટી વિકૃતિ (દા.ત. મૂળ લંબાઈ કરતા અનેક ગણી) પેદા કરી શકાય તેને ઈલાસ્ટોમર્સ કહે છે. આ પદાર્થો હૂકના નિયમનું પાલન કરતા નથી. ઉદાહરણ: રબર, હૃદયની મહાધમની (Aorta) ના પેશીઓ. તેમનો આલેખ વક્ર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Elastomer = Super Elastic. જે રબરની જેમ બહુ ખેંચાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ક્રિટીકલ લોડ (Critical Load) અને બ્રેકિંગ સ્ટ્રેસ (Breaking Stress) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થ પર લગાડવામાં આવતું એ મહત્તમ પ્રતિબળ કે જેના પછી પદાર્થ તૂટી જાય, તેને બ્રેકિંગ સ્ટ્રેસ અથવા અંતિમ તણાવ સામર્થ્ય (Ultimate Tensile Strength) કહે છે. બ્રેકિંગ સ્ટ્રેસ પદાર્થની જાત પર આધાર રાખે છે, આડછેદ પર નહીં, પરંતુ બ્રેકિંગ બળ (Force) આડછેદના ક્ષેત્રફળ પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાર ગમે તેટલો જાડો હોય, મટીરીયલ તો એ જ છે. એટલે 'સ્ટ્રેસ' સેમ રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નમ્ય પદાર્થો (Ductile) અને બરડ પદાર્થો (Brittle) વચ્ચેનો તફાવત આલેખના આધારે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થોમાં 'નમન બિંદુ' (B) અને 'ફ્રેક્ચર બિંદુ' (E) વચ્ચેનું અંતર વધુ હોય તેને નમ્ય પદાર્થો કહેવાય (દા.ત. તાંબુ, સોનું). તેમાંથી તાર બનાવી શકાય છે. જો B અને E બિંદુઓ ખૂબ નજીક હોય, તો તેને બરડ પદાર્થો કહેવાય (દા.ત. કાચ, બિડ લોખંડ). તે તરત જ તૂટી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ductile = ખેંચાય તેવા, Brittle = બટકણા (કાચ જેવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ક્રુડ તેલને પાઈપલાઈન દ્વારા મોકલવા માટે પંપિંગ દબાણ કેમ મહત્વનું છે? બલ્ક મોડ્યુલસના સંદર્ભમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહીઓનો બલ્ક મોડ્યુલસ ઘણો ઊંચો હોય છે, એટલે કે તેઓ અદબનીય (Incompressible) જેવા હોય છે. પાઈપલાઈનમાં દબાણ વધારતા ક્રુડ તેલના કદમાં બહુ ઓછો ફેરફાર થાય છે, જેથી તે વધુ અંતર કાપી શકે છે. જો પદાર્થ દબનીય હોત તો દબાણ કદ ઘટાડવામાં વપરાઈ જાત અને પ્રવાહ અવરોધાત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: High B = Low Compressibility = Easy Flow.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પુલની ડિઝાઈનમાં વપરાતા બીમ (Beam) કેમ 'I' આકારના રાખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીમનું નમન (Bending) δ = Wl³ / (4bd³Y) સૂત્ર મુજબ થાય છે. અહીં નમન ઘટાડવા માટે બીમની ઊંડાઈ (d) વધારવી ફાયદાકારક છે કારણ કે તે છેદમાં d³ તરીકે છે. 'I' આકારનો બીમ ઓછું વજન ધરાવે છે અને તેની ઊંડાઈ વધુ હોવાથી તે વળવા સામે વધુ મજબૂતી (Buckling prevention) આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'd' for Depth, 'd' for Don't bend. ઊંડાઈ વધારો, નમન ઘટાડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પર્વતની મહત્તમ ઊંચાઈ શા માટે આશરે 10 કિમી સુધી મર્યાદિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતના તળિયે તેના વજનને લીધે ઉદ્ભવતું દબાણ hρg છે. ખડકોની આકારિત સ્થિતિસ્થાપકતા મર્યાદા (Yield strength) આશરે 3 × 10⁸ N/m² છે. hρg < σy હોવું જોઈએ. કિંમતો મુકતા, h < σy / ρg ≈ (3 × 10⁸) / (3000 × 10) ≈ 10,000 m. તેથી પૃથ્વી પર પર્વતની ઊંચાઈ 10 km થી વધી શકતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત પોતાની જ મજબૂતી (Yield strength) થી દબાઈ જાય જો વધુ ઊંચો થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ક્રેન (Crane) માં વપરાતા સ્ટીલના દોરડાની ત્રિજ્યા કઈ રીતે નક્કી કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રેન દ્વારા ઊંચકવાનું વજન Mg છે. તારમાં ઉદ્ભવતું પ્રતિબળ Mg / πr² છે. આ પ્રતિબળ સ્ટીલની નમન મર્યાદા (σy) થી ઓછું હોવું જોઈએ. સુરક્ષા માટે (Safety factor) આપણે 10 ગણું ઓછું પ્રતિબળ લઈએ છીએ. તેથી, r² = 10Mg / πσy પરથી ત્રિજ્યા નક્કી થાય છે. સામાન્ય રીતે 10 ટન માટે 3 cm ત્રિજ્યાનું દોરડું વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વજન વધે તો ત્રિજ્યા (r) પણ વધારવી જ પડે! Radius is safety.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સ્થિતિસ્થાપકતા પર તાપમાન અને અશુદ્ધિની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) તાપમાન: તાપમાન વધતા આંતર-આણ્વિય બળો નબળા પડે છે, તેથી પદાર્થની સ્થિતિસ્થાપકતા ઘટે છે. (2) અશુદ્ધિ: જો અશુદ્ધિ વધુ સ્થિતિસ્થાપક હોય તો પદાર્થની સ્થિતિસ્થાપકતા વધે છે, અને જો ઓછી સ્થિતિસ્થાપક હોય તો ઘટે છે. પોલાદમાં કાર્બન ઉમેરવાથી તેની મજબૂતી વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી (Temp) આપો તો પદાર્થ ઢીલો (Soft) પડે, એટલે Elasticity ઘટે!</p></div>"
+    }
+  ]
+}

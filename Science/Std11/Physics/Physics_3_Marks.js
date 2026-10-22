@@ -877,3 +877,116 @@ var Std11_Physics_3_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "તરલના યાંત્રિક ગુણધર્મો",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "તરલ એટલે શું? તેના પર લાગતા બળ અને તેના ગુણધર્મો ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ વહી શકે તેને તરલ કહેવાય. પ્રવાહી અને વાયુ બંને તરલ છે. <br>1. તરલને પોતાનો ચોક્કસ આકાર હોતો નથી, તે પાત્રનો આકાર ધારણ કરે છે. <br>2. સ્થિર તરલ પર લાગતું બળ તેની સપાટીને લંબ જ હોય છે. જો બળ સમાંતર હોત, તો તરલ ગતિ કરવા લાગત. <br>3. તરલ પર લાગતા લંબ બળ અને ક્ષેત્રફળના ગુણોત્તરને દબાણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તરલ એટલે વહેતું' - ગમે તે આકારમાં ગોઠવાઈ જાય અને હંમેશા લંબ રૂપે જ દબાણ આપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "તરલના દબાણની વ્યાખ્યા આપી તેના એકમો અને પરિમાણિક સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સપાટી પર લંબરૂપે લાગતા બળ અને તે સપાટીના ક્ષેત્રફળના ગુણોત્તરને દબાણ (P) કહે છે. <br>સૂત્ર: $P = F / A$ <br>1. તે અદિશ રાશિ છે. <br>2. SI એકમ: $N/m^2$ અથવા પાસ્કલ (Pa). <br>3. પરિમાણિક સૂત્ર: $[M^1 L^{-1} T^{-2}]$. <br>4. અન્ય એકમો: 1 bar = $10^5$ Pa, 1 atm = $1.013 \\times 10^5$ Pa.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળ ભાગ્યા ક્ષેત્રફળ' - દબાણ એટલે ક્ષેત્રફળ પર થતી બળજબરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "તરલ સ્તંભને લીધે ઉદ્ભવતા દબાણનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે 'h' ઊંચાઈ અને 'ρ' (રો) ઘનતા ધરાવતો તરલ સ્તંભ છે. <br>પાત્રના તળિયે લાગતું બળ = તરલનું વજન (W) <br>$F = mg = (V \\times \\rho) \\times g = (A \\times h \\times \\rho) \\times g$ <br>દબાણ $P = F / A = (A h \\rho g) / A$ <br>તેથી, $P = h\\rho g$ <br>આમ, દબાણ ઊંડાઈ, ઘનતા અને ગુરુત્વપ્રવેગ પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = hρg (હેપી જી - hρg) - જેમ ઊંડા ઉતરો, તેમ 'હેપી જી' એટલે કે પ્રેશર વધતું જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાસ્કલનો નિયમ લખો અને સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમ: 'બંધ પાત્રમાંના સ્થિર તરલના કોઈ એક ભાગ પર દબાણ વધારવામાં આવે, તો તે દબાણ તરલના દરેક બિંદુએ અને પાત્રની દીવાલો પર એક સરખી રીતે પ્રસરે છે.' <br>સમજૂતી: જો તરલમાં એક જગ્યાએ દબાણ $P$ વધારવામાં આવે, તો તે સમગ્ર તરલમાં તેટલું જ ફેલાય છે, જો ગુરુત્વાકર્ષણની અસર અવગણીએ તો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક જગ્યાએ દબાવો, બધે જ દબાશે' - આ જ પાસ્કલનો જાદુ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હાઈડ્રોલિક લિફ્ટનો સિદ્ધાંત અને કાર્યપદ્ધતિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈડ્રોલિક લિફ્ટ પાસ્કલના નિયમ પર કાર્ય કરે છે. <br>તેમાં નાના આડછેદ $A_1$ પર નાનું બળ $F_1$ લગાડતા ઉદ્ભવતું દબાણ $P = F_1/A_1$ છે. <br>પાસ્કલના નિયમ મુજબ આ દબાણ મોટા આડછેદ $A_2$ પર ટ્રાન્સમિટ થાય છે. <br>મોટા પિસ્ટન પર લાગતું બળ $F_2 = P \\times A_2 = (F_1/A_1) \\times A_2$. <br>જો $A_2 >> A_1$ હોય, તો $F_2 >> F_1$ મળે, એટલે કે ઓછા બળે ભારે વજન ઉંચકી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનું ક્ષેત્રફળ-નાનું બળ, મોટું ક્ષેત્રફળ-મોટું બળ' - આ છે મલ્ટીપ્લાયર ઈફેક્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગૉજ દબાણ (Gauge Pressure) અને નિરપેક્ષ દબાણ (Absolute Pressure) વચ્ચેનો તફાવત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>નિરપેક્ષ દબાણ (P):</strong> કોઈ બિંદુએ વાસ્તવિક કુલ દબાણને નિરપેક્ષ દબાણ કહે છે. $P = P_a + h\\rho g$. <br>2. <strong>ગૉજ દબાણ ($P_g$):</strong> કોઈ બિંદુએ રહેલા દબાણ અને વાતાવરણના દબાણના તફાવતને ગૉજ દબાણ કહે છે. $P_g = P - P_a = h\\rho g$. <br>જ્યાં $P_a$ વાતાવરણનું દબાણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગૉજ દબાણ = કુલ દબાણ - વાતાવરણનું દબાણ (જેમ કે ટાયરમાં ભરાતી હવાનું દબાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ધારારેખી વહન (Streamline flow) અને પ્રક્ષુબ્ધ વહન (Turbulent flow) વચ્ચેના તફાવતના ત્રણ મુદ્દા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>ધારારેખી વહન:</strong> વહનના દરેક બિંદુએ તરલના કણોનો વેગ સમય સાથે અચળ રહે છે. <br>2. <strong>પ્રક્ષુબ્ધ વહન:</strong> વહનમાં તરલના કણોનો વેગ અસ્તવ્યસ્ત અને અનિયમિત હોય છે. <br>3. ધારારેખી વહનમાં રેખાઓ એકબીજાને છેદતી નથી, જ્યારે પ્રક્ષુબ્ધમાં વમળો (eddies) રચાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારારેખી = શિસ્તબદ્ધ કૂચ, પ્રક્ષુબ્ધ = મેળાવડામાં થતી નાસભાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાતત્ય સમીકરણ (Equation of Continuity) તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદબનીય તરલ માટે, પાઇપમાં દાખલ થતું દળ = બહાર નીકળતું દળ. <br>દળ $m = \rho AV$ પરથી, <br>$\rho A_1 v_1 \Delta t = \rho A_2 v_2 \Delta t$ <br>$A_1 v_1 = A_2 v_2$ અથવા $Av = \text{constant}$. <br>જ્યાં $A$ આડછેદનું ક્ષેત્રફળ અને $v$ વેગ છે. <br>આમ, સાંકડી જગ્યાએ વેગ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જેટલું સાંકડું, તેટલું ઝડપી' - પાઈપ દબાવો તો પાણી દૂર સુધી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બર્નુલીનું સમીકરણ લખો અને તેના પદો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદર્શ તરલના ધારારેખી વહન માટે: <br>$P + \frac{1}{2}\rho v^2 + \rho gh = \text{constant}$ <br>જ્યાં, <br>$P$ = દબાણ ઉર્જા પ્રતિ એકમ કદ <br>$\frac{1}{2}\rho v^2$ = ગતિ ઉર્જા પ્રતિ એકમ કદ <br>$\rho gh$ = સ્થિતિ ઉર્જા પ્રતિ એકમ કદ <br>આ નિયમ ઉર્જા સંરક્ષણના નિયમ પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દબાણ + ગતિ + ઊંચાઈ = અચળ' - બર્નુલી એટલે તરલનું ઉર્જા સંરક્ષણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વેન્ચ્યુરીમીટર (Venturimeter) ની રચના અને તેનો ઉપયોગ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેન્ચ્યુરીમીટર નળીમાં વહેતા તરલનો વેગ માપવા વપરાય છે. <br>તેમાં વચ્ચેનો ભાગ સાંકડો (throat) હોય છે. <br>બર્નુલીના સિદ્ધાંત મુજબ, સાંકડા ભાગમાં વેગ વધુ અને દબાણ ઓછું હોય છે. <br>દબાણના તફાવત $\Delta P = \rho gh$ પરથી વેગ 'v' શોધી શકાય છે. <br>ઉપયોગ: કાર્બ્યુરેટરમાં અને સ્પ્રેયર (atomizer) માં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેન્ચ્યુરીમીટર = 'વેગ માપવા માટેનું મીટર' - બર્નુલીનો ખાસ દોસ્ત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તરલની શ્યાનતા (Viscosity) એટલે શું? શ્યાનતા ગુણાંકની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરલના બે સ્તરો વચ્ચેની સાપેક્ષ ગતિને અવરોધતા ગુણધર્મને શ્યાનતા કહે છે. <br>ન્યૂટનના નિયમ મુજબ, શ્યાનતા બળ $F = \eta A (dv/dx)$. <br>શ્યાનતા ગુણાંક ($\eta$): એકમ વેગ પ્રચલન અને એકમ ક્ષેત્રફળ દીઠ લાગતા શ્યાનતા બળને શ્યાનતા ગુણાંક કહે છે. <br>એકમ: Poiseuille (Pl) અથવા $N s/m^2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્યાનતા એટલે તરલનું ઘર્ષણ! મધ વધારે શ્યાન છે, પાણી ઓછું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્ટોક્સનો નિયમ (Stokes' Law) લખો અને તેની શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે 'r' ત્રિજ્યાનો નાનો ગોળો '$\eta$' શ્યાનતા ગુણાંક ધરાવતા તરલમાં 'v' વેગથી ગતિ કરતો હોય, ત્યારે તેના પર લાગતું શ્યાનતા બળ: <br>$F = 6\pi \eta r v$ <br>શરતો: <br>1. માધ્યમ અનંત હોવું જોઈએ. <br>2. ગોળો સખત અને લીસો હોવો જોઈએ. <br>3. વેગ ઓછો હોવો જોઈએ જેથી વહન ધારારેખી રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = 6π ηrv (6 પાઈ ની રવ) - આ સૂત્ર ગોળાને રોકવા માટે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ટર્મિનલ વેગ (Terminal Velocity) એટલે શું? તેનું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ વસ્તુ શ્યાન માધ્યમમાં પડે છે, ત્યારે તેના પર લાગતું પરિણામી બળ શૂન્ય થતા તે અચળ વેગ પ્રાપ્ત કરે છે, જેને ટર્મિનલ વેગ ($v_t$) કહે છે. <br>સૂત્ર: $v_t = \frac{2}{9} \frac{r^2 (\rho - \sigma) g}{\eta}$ <br>જ્યાં $\rho$ ગોળાની ઘનતા અને $\sigma$ તરલની ઘનતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટર્મિનલ એટલે 'ફાઈનલ વેગ' - હવે આનાથી સ્પીડ વધશે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રેનોલ્ડ્ઝ નંબર ($R_e$) સમજાવી તેનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેનોલ્ડ્ઝ નંબર એક પરિમાણરહિત આંક છે જે વહનનો પ્રકાર નક્કી કરે છે. <br>$R_e = \frac{\rho v d}{\eta}$ <br>1. જો $R_e < 1000$ હોય, તો વહન ધારારેખી છે. <br>2. જો $R_e > 2000$ હોય, તો વહન પ્રક્ષુબ્ધ છે. <br>3. 1000 થી 2000 વચ્ચે વહન અસ્થિર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેનોલ્ડ્ઝ નંબર એટલે 'વહનનું ટ્રાફિક સિગ્નલ' - નાનો નંબર તો શાંત વહન, મોટો તો ધમાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પૃષ્ઠતાણ (Surface Tension) એટલે શું? તેનું કારણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહીની મુક્ત સપાટી પર દોરેલી કાલ્પનિક રેખાની એકમ લંબાઈ દીઠ લાગતા લંબ બળને પૃષ્ઠતાણ કહે છે. <br>$S = F / l$ <br>કારણ: સપાટી પરના અણુઓ પર અંદરની તરફ પરિણામી આકર્ષણ બળ લાગે છે, જેથી સપાટી ખેંચાયેલી સ્થિતિસ્થાપક મેમ્બ્રેન જેવી વર્તે છે અને લઘુત્તમ ક્ષેત્રફળ ધરાવવાનો પ્રયત્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠતાણ એટલે પ્રવાહીની સપાટીનું 'ટેન્શન' - બધું જ અંદર ખેંચાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સંપર્કકોણ (Angle of Contact) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહીની સપાટી પરના સંપર્ક બિંદુ પાસે દોરેલા સ્પર્શક અને ઘન સપાટી વચ્ચેના પ્રવાહીની અંદરના ખૂણાને સંપર્કકોણ ($\theta$) કહે છે. <br>1. જો પ્રવાહી કાચને ભીંજવે (દા.ત. પાણી), તો $\theta < 90^\circ$ (લઘુકોણ). <br>2. જો પ્રવાહી કાચને ન ભીંજવે (દા.ત. પારો), તો $\theta > 90^\circ$ (ગુરુકોણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીંજવે તો લઘુકોણ, ન ભીંજવે તો ગુરુકોણ - સંપર્કકોણ રાખે છે બધું ટાંકણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પ્રવાહીના ટીપાંની અંદરના વધારાના દબાણ (Excess Pressure) નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાહીના ટીપાંને એક જ મુક્ત સપાટી હોય છે. <br>કાર્ય $W = \text{Surface Tension} \times \text{Change in Area}$ <br>$W = S \\times (4\pi(r+\Delta r)^2 - 4\pi r^2) \approx S \\times 8\pi r \Delta r$ <br>પણ કાર્ય $W = \text{Force} \times \text{distance} = (P_i - P_o) \times 4\pi r^2 \times \Delta r$ <br>સરખાવતા: $(P_i - P_o) = 2S / r$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપું = 1 સપાટી = 2S/r; પરપોટો = 2 સપાટી = 4S/r!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કેશાકર્ષણ (Capillarity) એટલે શું? તેના વ્યવહારિક ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂબ જ સાંકડી નળી (કેશનળી) ને પ્રવાહીમાં ડુબાડતા તેમાં પ્રવાહી ઉપર ચઢવાની કે નીચે ઉતરવાની ઘટનાને કેશાકર્ષણ કહે છે. <br>ઉદાહરણો: <br>1. દીવાની વાટમાં તેલનું ઉપર ચઢવું. <br>2. બ્લોટિંગ પેપર દ્વારા શાહીનું શોષણ. <br>3. વૃક્ષોમાં મૂળથી પાંદડા સુધી પાણીનું પહોંચવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેશાકર્ષણ = વાળ જેવી પાતળી નળીમાં પ્રવાહીનું ચઢાણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મેગ્નસ અસર (Magnus Effect) ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે હવામાં ગતિ કરતો દડો પોતાની ધરી પર ભ્રમણ (spin) કરે છે, ત્યારે તેની ઉપર અને નીચેની સપાટી પર હવાનો વેગ બદલાય છે. <br>બર્નુલીના સિદ્ધાંત મુજબ, જ્યાં વેગ વધુ હોય ત્યાં દબાણ ઘટે છે. <br>દબાણના આ તફાવતને કારણે દડા પર ઉર્ધ્વબળ લાગે છે અને તે વળાંક લે છે, જેને મેગ્નસ અસર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિકેટમાં 'સ્વિંગ' બોલિંગ એટલે જ મેગ્નસ અસરનો જાદુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શા માટે પાણીમાં ડિટર્જન્ટ ઉમેરવાથી કપડાં જલ્દી સાફ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. શુદ્ધ પાણીનું પૃષ્ઠતાણ વધારે હોય છે, તેથી તે કપડાંના ઝીણા છિદ્રોમાં પ્રવેશી શકતું નથી. <br>2. ડિટર્જન્ટ ઉમેરવાથી પાણીનું પૃષ્ઠતાણ ઘટે છે અને સંપર્કકોણ પણ ઘટે છે. <br>3. આથી પાણી છિદ્રોમાં ઊંડે સુધી પ્રસરી શકે છે અને મેલને દૂર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિટર્જન્ટ = પૃષ્ઠતાણનો દુશ્મન! ટેન્શન ઘટાડે તો જ પાણી અંદર જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બર્નુલીના સિદ્ધાંતની મર્યાદાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. તે માત્ર અદબનીય (Incompressible) તરલ માટે જ સાચું છે. <br>2. તે વહનમાં શ્યાનતા (Viscosity) ને લીધે થતા ઉર્જાના વ્યયને ગણતરીમાં લેતું નથી. <br>3. તે માત્ર ધારારેખી વહન માટે જ લાગુ પડે છે, પ્રક્ષુબ્ધ વહન માટે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્નુલી આદર્શ છે, પણ હકીકતમાં શ્યાનતા ઉર્જા ખાઈ જાય છે!</p></div>"
+    }
+  ]
+}

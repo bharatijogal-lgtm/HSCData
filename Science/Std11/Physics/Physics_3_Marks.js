@@ -553,3 +553,111 @@ var Std11_Physics_3_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "કણોનાં તંત્રો અને ચાકગતિ",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બે કણોના બનેલા તંત્ર માટે દ્રવ્યમાન કેન્દ્ર (Center of Mass) સમજાવો અને તેનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે બે કણોના દળ $m_1$ અને $m_2$ છે અને તેઓ ઉગમબિંદુથી અનુક્રમે $x_1$ અને $x_2$ અંતરે આવેલા છે. આ તંત્રનું દ્રવ્યમાન કેન્દ્ર (C) એવું બિંદુ છે જેનું અંતર $X$ નીચે મુજબ અપાય છે:<br>$$X = \\frac{m_1x_1 + m_2x_2}{m_1 + m_2}$$<br>જો બંને દળ સમાન હોય ($m_1 = m_2 = m$), તો $X = \\frac{x_1 + x_2}{2}$ થાય, એટલે કે દ્રવ્યમાન કેન્દ્ર બરાબર મધ્યમાં હોય છે. ત્રિ-પરિમાણમાં સ્થાન સદિશ માટે: $$\\vec{R} = \\frac{m_1\\vec{r}_1 + m_2\\vec{r}_2}{m_1 + m_2}$$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ યાદ રાખો - 'દળ અને અંતરનો ગુણાકાર કરો, સરવાળો કરો અને કુલ દળ વડે ભાગો.' જો પદાર્થ ભારે હોય, તો દ્રવ્યમાન કેન્દ્ર તેની નજીક ખસે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "n-કણોના બનેલા તંત્રના દ્રવ્યમાન કેન્દ્રનો વેગ અને પ્રવેગ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> n-કણોના તંત્ર માટે સ્થાન સદિશ: $\\vec{R} = \\frac{\\sum m_i \\vec{r}_i}{M}$<br>1. **વેગ ($V$):** સ્થાનનું સમય સાપેક્ષ વિકલન કરતા, $V = \\frac{dR}{dt} = \\frac{\\sum m_i \\vec{v}_i}{M}$. અહીં $M V = \\sum m_i \\vec{v}_i$ જે કુલ રેખીય વેગમાન દર્શાવે છે.<br>2. **પ્રવેગ ($A$):** વેગનું સમય સાપેક્ષ વિકલન કરતા, $A = \\frac{dV}{dt} = \\frac{\\sum m_i \\vec{a}_i}{M}$. આથી $M A = \\sum \\vec{F}_i = \\vec{F}_{ext}$.<br>આમ, તંત્રના દ્રવ્યમાન કેન્દ્રનો પ્રવેગ ફક્ત બાહ્ય બળો પર જ આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતરિક બળો (Internal Forces) દ્રવ્યમાન કેન્દ્રની ગતિમાં કોઈ ફાળો આપતા નથી. $F_{ext} = M A$ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બે સદિશોના 'સદિશ ગુણાકાર' (Vector Product) ના ગુણધર્મો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે સદિશો $\\vec{A}$ અને $\\vec{B}$ નો સદિશ ગુણાકાર $\\vec{C} = \\vec{A} \\times \\vec{B} = AB \\sin \\theta \\hat{n}$ છે.<br>1. તે ક્રમના નિયમનું પાલન કરતો નથી: $\\vec{A} \\times \\vec{B} = -(\\vec{B} \\times \\vec{A})$.<br>2. તે વિતરણના નિયમનું પાલન કરે છે: $\\vec{A} \\times (\\vec{B} + \\vec{C}) = \\vec{A} \\times \\vec{B} + \\vec{A} \\times \\vec{C}$.<br>3. બે સમાંતર સદિશો માટે ગુણાકાર શૂન્ય સદિશ થાય (કારણ કે $\\theta = 0, \\sin 0 = 0$).<br>4. લંબ સદિશો માટે મૂલ્ય મહત્તમ ($AB$) થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણા હાથના પંજાનો નિયમ (Right Hand Thumb Rule) દિશા માટે વાપરો. i x j = k, j x k = i, k x i = j (ઘડિયાળની દિશામાં પ્લસ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રેખીય વેગ ($v$) અને કોણીય વેગ ($\\omega$) વચ્ચેનો સંબંધ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે એક કણ $r$ ત્રિજ્યાના વર્તુળાકાર માર્ગે ગતિ કરે છે. સમય $\\Delta t$ માં તેનું કોણીય સ્થાનાંતર $\\Delta \\theta$ હોય, તો ચાપની લંબાઈ $\\Delta s = r \\Delta \\theta$ થાય.<br>બંને બાજુ સમય વડે ભાગતા: $\\frac{\\Delta s}{\\Delta t} = r \\frac{\\Delta \\theta}{\\Delta t}$<br>લિમિટ લેતા: $v = r \\omega$<br>સદિશ સ્વરૂપે: $\\vec{v} = \\vec{\\omega} \\times \\vec{r}$<br>અહીં $\\vec{v}$ એ $\\vec{\\omega}$ અને $\\vec{r}$ બંનેને લંબ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Equation: $v = \\omega r$. યાદ રાખવા માટે 'વિરુ' (v-r-w) શબ્દ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કોણીય પ્રવેગ (Angular Acceleration) સમજાવી તેનો રેખીય પ્રવેગ સાથેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગના સમય સાથેના ફેરફારના દરને કોણીય પ્રવેગ ($\\alpha$) કહે છે.<br>$\\alpha = \\frac{d\\omega}{dt}$<br>તેનો એકમ $rad/s^2$ છે. <br>રેખીય વેગ $v = r \\omega$ હોવાથી, તેનું વિકલન કરતા:<br>$a_t = \\frac{dv}{dt} = r \\frac{d\\omega}{dt} = r \\alpha$<br>જ્યાં $a_t$ એ સ્પર્શકીય પ્રવેગ છે. સદિશ સ્વરૂપે: $\\vec{a}_t = \\vec{\\alpha} \\times \\vec{r}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ $v$ માટે $\\omega r$ છે, તેમ $a$ માટે $\\alpha r$ છે. $r$ ને ગુણો એટલે રેખીય મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ટોર્ક (Torque) અથવા બળની ચાકમાત્રા વ્યાખ્યાયિત કરી તેનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળની પરિભ્રમણ કરાવવાની ક્ષમતાને ટોર્ક ($\\tau$) કહે છે.<br>$\\vec{\\tau} = \\vec{r} \\times \\vec{F}$<br>મૂલ્ય: $\\tau = r F \\sin \\theta = r (F \\sin \\theta) = r_{\\perp} F$<br>જ્યાં $r_{\\perp}$ એ ઉગમબિંદુથી બળની કાર્યરેખાનું લંબ અંતર છે. <br>એકમ: $N \\cdot m$, પરિમાણિક સૂત્ર: $[M^1 L^2 T^{-2}]$.<br>ટોર્ક સદિશ રાશિ છે અને તેની દિશા જમણા હાથના નિયમથી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોર્ક એટલે 'બળ x લંબ અંતર'. દરવાજો ખોલવા હેન્ડલ મિજાગરાથી દૂર કેમ હોય? કારણ કે $r$ વધે તો $\\tau$ વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કોણીય વેગમાન (Angular Momentum) એટલે શું? તેનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય વેગમાનની ચાકમાત્રાને કોણીય વેગમાન ($l$) કહે છે.<br>$\\vec{l} = \\vec{r} \\times \\vec{p}$<br>જ્યાં $\\vec{p} = m \\vec{v}$ એ રેખીય વેગમાન છે.<br>મૂલ્ય: $l = r p \\sin \\theta = mvr \\sin \\theta$.<br>એકમ: $kg \\cdot m^2/s$ અથવા $J \\cdot s$.<br>પરિમાણિક સૂત્ર: $[M^1 L^2 T^{-1}]$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લેંગ્વેજ ઓફ ફિઝિક્સ' - ટોર્ક બળ જેવું છે, કોણીય વેગમાન રેખીય વેગમાન જેવું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ટોર્ક અને કોણીય વેગમાન વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણીય વેગમાન $\\vec{l} = \\vec{r} \\times \\vec{p}$ નું સમય સાપેક્ષ વિકલન કરતા:<br>$\\frac{d\\vec{l}}{dt} = \\frac{d\\vec{r}}{dt} \\times \\vec{p} + \\vec{r} \\times \\frac{d\\vec{p}}{dt}$<br>અહીં $\\frac{d\\vec{r}}{dt} = \\vec{v}$ અને $\\vec{p} = m \\vec{v}$, તેથી $\\vec{v} \\times m \\vec{v} = 0$.<br>વળી, $\\frac{d\\vec{p}}{dt} = \\vec{F}$ (ન્યુટનનો બીજો નિયમ).<br>આથી, $\\frac{d\\vec{l}}{dt} = \\vec{r} \\times \\vec{F} = \\vec{\\tau}$<br>આમ, કોણીય વેગમાનના ફેરફારનો દર ટોર્ક બરાબર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $F = dp/dt$ (રેખીય) $\\rightarrow$ $\\tau = dl/dt$ (ચાકગતિ). જોડિયા ભાઈઓ જેવું સામ્ય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કોણીય વેગમાનના સંરક્ષણનો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો કોઈ તંત્ર પર લાગતું કુલ પરિણામી બાહ્ય ટોર્ક શૂન્ય હોય ($\\tau_{ext} = 0$), તો તે તંત્રનું કુલ કોણીય વેગમાન અચળ રહે છે.<br>$\\frac{d\\vec{L}}{dt} = \\vec{\\tau}_{ext} = 0 \\implies \\vec{L} = \\text{constant}$<br>એટલે કે $I_1 \\omega_1 = I_2 \\omega_2$.<br>ઉદાહરણ: બેલે ડાન્સર જ્યારે હાથ નજીક લાવે ત્યારે ઝડપ વધે છે (કારણ કે $I$ ઘટે તો $\\omega$ વધે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય ટોર્ક ગેરહાજર = કોણીય વેગમાન હાજર (અચળ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દ્રઢ પદાર્થના સંતુલન માટેની શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રઢ પદાર્થ સંપૂર્ણ સંતુલનમાં હોવા માટે બે શરતો જરૂરી છે:<br>1. **રેખીય સંતુલન:** પદાર્થ પર લાગતા બધા જ બાહ્ય બળોનો સદિશ સરવાળો શૂન્ય હોવો જોઈએ. $\\sum \\vec{F}_{ext} = 0$. આ સ્થિતિમાં રેખીય વેગમાન અચળ રહે છે.<br>2. **ચાકગતિ સંતુલન:** પદાર્થ પર લાગતા બધા જ બાહ્ય ટોર્કનો સદિશ સરવાળો શૂન્ય હોવો જોઈએ. $\\sum \\vec{\\tau}_{ext} = 0$. આ સ્થિતિમાં કોણીય વેગમાન અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન = નો ખેંચાણ (F=0) + નો ફેરફાર (Torque=0)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉત્તાલન (Lever) ના સિદ્ધાંત અને મિકેનિકલ એડવાન્ટેજ (MA) વિશે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તાલન એ એક સાદું મશીન છે. સંતુલન માટે, આલંબ (Fulcrum) ની આસપાસ ટોર્ક શૂન્ય હોવું જોઈએ.<br>$d_1 F_1 = d_2 F_2$ (ભાર $\\times$ ભારભુજા = પ્રયત્નબળ $\\times$ પ્રયત્નભુજા)<br>યાંત્રિક લાભ (Mechanical Advantage): $MA = \\frac{F_1}{F_2} = \\frac{d_2}{d_1}$<br>જો પ્રયત્નભુજા ($d_2$) ભારભુજા ($d_1$) કરતા મોટી હોય, તો ઓછા બળ વડે વધુ ભાર ઉઠાવી શકાય (MA > 1).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જેનો હાથ (ભુજા) લાંબો, તેનું બળ ઓછું લાગે!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દ્રવ્યમાન કેન્દ્ર અને ગુરુત્વ કેન્દ્ર વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1. **દ્રવ્યમાન કેન્દ્ર (CM):** એવું બિંદુ જ્યાં પદાર્થનું સમગ્ર દળ કેન્દ્રિત થયેલું ગણી શકાય. તે ગુરુત્વાકર્ષણ પર આધારિત નથી.<br>2. **ગુરુત્વ કેન્દ્ર (CG):** એવું બિંદુ જ્યાં પદાર્થ પર લાગતું કુલ ગુરુત્વીય ટોર્ક શૂન્ય હોય (સમગ્ર વજન ત્યાં લાગે).<br>જો ગુરુત્વાકર્ષી ક્ષેત્ર સમાન હોય, તો CM અને CG એક જ બિંદુ પર હોય છે. પરંતુ પહાડ જેવા ખૂબ મોટા પદાર્થો માટે CM અને CG અલગ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના પદાર્થો માટે CM = CG. ખૂબ ઊંચા બિલ્ડિંગ માટે CG થોડું નીચે હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જડત્વની ચાકમાત્રા (Moment of Inertia) વ્યાખ્યાયિત કરો અને તેના પર અસર કરતા પરિબળો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાકગતિમાં પદાર્થ પોતાની ગતિના ફેરફારનો જે વિરોધ કરે છે તેને જડત્વની ચાકમાત્રા (I) કહે છે.<br>$I = \\sum m_i r_i^2$<br>એકમ: $kg \\cdot m^2$. પરિમાણિક સૂત્ર: $[M^1 L^2 T^0]$.<br>**અસર કરતા પરિબળો:**<br>1. પદાર્થનું દળ.<br>2. પદાર્થનો આકાર અને કદ.<br>3. પરિભ્રમણ અક્ષની સાપેક્ષે દળનું વિતરણ.<br>4. પરિભ્રમણ અક્ષનું સ્થાન અને અભિદિશા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાકગતિનું દળ એટલે જડત્વની ચાકમાત્રા! 'દળ જેટલું અક્ષથી દૂર, I તેટલું વધુ.'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચક્રાવર્તન ત્રિજ્યા (Radius of Gyration) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અક્ષથી એવું લંબ અંતર ($k$) કે જ્યાં પદાર્થનું સમગ્ર દળ કેન્દ્રિત થયેલું ગણીએ તો તેની જડત્વની ચાકમાત્રા ($Mk^2$) એ મૂળ જડત્વની ચાકમાત્રા ($I$) જેટલી જ રહે.<br>$I = Mk^2 \\implies k = \\sqrt{\\frac{I}{M}}$<br>ચક્રાવર્તન ત્રિજ્યા પદાર્થના દળના વિતરણ અને અક્ષના સ્થાન પર આધારિત છે. તેનો એકમ મીટર ($m$) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $k$ એટલે 'ઇફેક્ટિવ ડિસ્ટન્સ'. દળ અક્ષની નજીક તો $k$ નાનું, દૂર તો $k$ મોટું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નિયમિત રિંગ અને તકતી (Disc) ની તેની ભૌમિતિક અક્ષને અનુલક્ષીને જડત્વની ચાકમાત્રાના સૂત્રો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે દળ $M$ અને ત્રિજ્યા $R$ છે.<br>1. **રિંગ (Ring):** રિંગમાં બધું જ દળ કિનારી પર હોય છે, તેથી $I_{ring} = MR^2$.<br>2. **તકતી (Disc):** તકતીમાં દળ વહેંચાયેલું હોવાથી જડત્વ ઓછું હોય છે, $I_{disc} = \\frac{1}{2} MR^2$.<br>આમ, સમાન દળ અને ત્રિજ્યા માટે રિંગની જડત્વની ચાકમાત્રા તકતી કરતા બમણી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિંગ ખાલી છે (દૂર દળ) = વધુ I. તકતી ભરેલી છે (નજીક દળ) = ઓછું I.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચાકગતિ માટેના શુદ્ધ ગતિવિજ્ઞાનના સમીકરણો (Kinematics Equations) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ કોણીય પ્રવેગ $\\alpha$ માટે:<br>1. $\\omega = \\omega_0 + \\alpha t$<br>2. $\\theta = \\omega_0 t + \\frac{1}{2} \\alpha t^2$<br>3. $\\omega^2 - \\omega_0^2 = 2 \\alpha \\theta$<br>જ્યાં $\\omega_0$ = પ્રારંભિક કોણીય વેગ, $\\omega$ = અંતિમ કોણીય વેગ, $\\theta$ = કોણીય સ્થાનાંતર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v=u+at$ માં $v \\rightarrow \\omega$, $u \\rightarrow \\omega_0$, $a \\rightarrow \\alpha$, $s \\rightarrow \\theta$ બદલી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચાકગતિમાં કાર્ય અને પાવરના સૂત્રો તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. **કાર્ય (Work):** રેખીય ગતિમાં $dW = F ds$. ચાકગતિમાં $ds = r d\\theta$ અને $F = \\tau/r$ મુકતા: $dW = \\tau d\\theta$. કુલ કાર્ય $W = \\int \\tau d\\theta$.<br>2. **પાવર (Power):** કાર્ય કરવાના દરને પાવર કહે છે.<br>$P = \\frac{dW}{dt} = \\tau \\frac{d\\theta}{dt} = \\tau \\omega$.<br>આમ, પાવર = ટોર્ક $\\times$ કોણીય વેગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Linear: $P = Fv \\rightarrow$ Rotational: $P = \\tau \\omega$. સેમ ટુ સેમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દ્રઢ પદાર્થની કુલ ગતિઊર્જા (ચાકગતિ + સ્થાનાંતરિત ગતિ) નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ ગબડતી ગતિ (Rolling) કરે છે, ત્યારે તેમાં બે પ્રકારની ગતિઊર્જા હોય છે:<br>1. સ્થાનાંતરિત ગતિઊર્જા: $K_t = \\frac{1}{2} M v_{cm}^2$<br>2. ચાકગતિ ઊર્જા: $K_r = \\frac{1}{2} I \\omega^2$<br>કુલ ઊર્જા $K = K_t + K_r = \\frac{1}{2} M v_{cm}^2 + \\frac{1}{2} I \\omega^2$<br>જો $I = Mk^2$ અને $v = R\\omega$ લઈએ તો:<br>$K = \\frac{1}{2} M v_{cm}^2 (1 + \\frac{k^2}{R^2})$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગબડતો પદાર્થ = દોડે પણ છે + ફરે પણ છે! એટલે બંને ઊર્જાનો સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટોર્ક અને જડત્વની ચાકમાત્રા વચ્ચેનો સંબંધ ($ \\tau = I \\alpha $) મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે જાણીએ છીએ કે $L = I \\omega$.<br>સમય સાપેક્ષ વિકલન કરતા:<br>$\\frac{dL}{dt} = I \\frac{d\\omega}{dt}$ (અહીં $I$ અચળ છે)<br>પરંતુ $\\frac{dL}{dt} = \\tau$ અને $\\frac{d\\omega}{dt} = \\alpha$.<br>તેથી, $\\tau = I \\alpha$.<br>આ સમીકરણ ન્યુટનના બીજા નિયમ $F = ma$ જેવું જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $F=ma$ નો મોટો ભાઈ $\\tau = I \\alpha$ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રેખીય ગતિ અને ચાકગતિ વચ્ચેની સામ્યતા દર્શાવતું કોષ્ટક બનાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1. સ્થાનાંતર: $x \\leftrightarrow \\theta$<br>2. વેગ: $v \\leftrightarrow \\omega$<br>3. પ્રવેગ: $a \\leftrightarrow \\alpha$<br>4. દળ/જડત્વ: $M \\leftrightarrow I$<br>5. બળ/ટોર્ક: $F \\leftrightarrow \\tau$<br>6. વેગમાન: $p \\leftrightarrow L$<br>7. કાર્ય: $F dx \\leftrightarrow \\tau d\\theta$<br>8. ગતિઊર્જા: $\\frac{1}{2}mv^2 \\leftrightarrow \\frac{1}{2}I\\omega^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો તમને રેખીય ગતિના સૂત્રો આવડે, તો ચાકગતિના સૂત્રો ફ્રીમાં આવડી જાય!</p></div>"
+    }
+  ]
+}

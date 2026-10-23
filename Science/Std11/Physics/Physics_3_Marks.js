@@ -1103,3 +1103,111 @@ var Std11_Physics_3_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "થર્મોડાયનેમિક્સ",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "થર્મોડાયનેમિક્સનો શૂન્ય ક્રમનો નિયમ (Zeroth Law of Thermodynamics) સમજાવો અને તેનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે તંત્રો A અને B, ત્રીજા તંત્ર C સાથે સ્વતંત્ર રીતે ઉષ્મીય સંતુલનમાં હોય, ત્યારે તેઓ એકબીજા સાથે પણ ઉષ્મીય સંતુલનમાં હોય છે. <br>1. જો A અને C સંતુલનમાં હોય ($T_A = T_C$) અને B અને C સંતુલનમાં હોય ($T_B = T_C$), તો A અને B પણ સંતુલનમાં હોય ($T_A = T_B$). <br>2. આ નિયમ તાપમાનની વિભાવના આપે છે. <br>3. તે સાબિત કરે છે કે તાપમાન એ એવો ગુણધર્મ છે જે નક્કી કરે છે કે તંત્ર ઉષ્મીય સંતુલનમાં છે કે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'ત્રીજો મિત્ર' - જો A નો મિત્ર C હોય અને B નો મિત્ર પણ C હોય, તો A અને B પણ મિત્રો (સંતુલનમાં) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આંતરિક ઉર્જા (Internal Energy) એટલે શું? તે કઈ બાબતો પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રના અણુઓની અસ્તવ્યસ્ત ગતિને કારણે મળતી ગતિઉર્જા અને તેમની વચ્ચેના બળોને કારણે મળતી સ્થિતિઉર્જાના સરવાળાને આંતરિક ઉર્જા (U) કહે છે. <br>1. આંતરિક ઉર્જા એ 'અવસ્થા વિધેય' (State Function) છે, એટલે કે તે માત્ર તંત્રની પ્રારંભિક અને અંતિમ અવસ્થા પર આધાર રાખે છે, પથ પર નહીં. <br>2. આદર્શ વાયુ માટે આંતરિક ઉર્જા માત્ર તેના તાપમાન (T) પર જ આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: આંતરિક ઉર્જા = 'ઘરની સંપત્તિ'. તમે ગમે તે રસ્તે કમાયા હોવ, છેલ્લે બેંક બેલેન્સ (અવસ્થા) જ જોવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "થર્મોડાયનેમિક્સનો પ્રથમ નિયમ લખો અને તેની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ નિયમ ઉર્જા સંરક્ષણના નિયમનું જ એક સ્વરૂપ છે. <br>સમીકરણ: ΔQ = ΔU + ΔW <br>1. ΔQ: તંત્રને આપેલી ઉષ્મા. <br>2. ΔU: આંતરિક ઉર્જામાં થતો ફેરફાર. <br>3. ΔW: તંત્ર દ્વારા થયેલું કાર્ય. <br>જ્યારે તંત્રને ઉષ્મા આપવામાં આવે છે, ત્યારે તેનો અમુક ભાગ તેની આંતરિક ઉર્જા વધારવામાં અને બાકીનો ભાગ બાહ્ય કાર્ય કરવામાં વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: ખિસ્સા ખર્ચ - પપ્પાએ આપેલા પૈસા (Q) = આપણી બચત (U) + આપણો ખર્ચ (W).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિશિષ્ટ ઉષ્માધારિતા (Specific Heat Capacity) અને મોલર વિશિષ્ટ ઉષ્માધારિતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. વિશિષ્ટ ઉષ્માધારિતા (s): એકમ દળના પદાર્થનું તાપમાન 1°C વધારવા આપવી પડતી ઉષ્મા. $s = \\frac{1}{m} \\frac{dQ}{dT}$. <br>2. મોલર વિશિષ્ટ ઉષ્માધારિતા (C): 1 મોલ પદાર્થનું તાપમાન 1°C વધારવા આપવી પડતી ઉષ્મા. $C = \\frac{1}{\\mu} \\frac{dQ}{dT}$. <br>તેના બે પ્રકાર છે: અચળ દબાણે ($C_p$) અને અચળ કદે ($C_v$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'વિશિષ્ટ' એટલે 1kg માટે, અને 'મોલર' એટલે 1 મોલ માટે. બસ આટલું જ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મેયરનું સમીકરણ ($C_p - C_v = R$) તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. અચળ કદે, $dQ = dU = C_v dT$. <br>2. અચળ દબાણે, $dQ = dU + P dV$. <br>3. $C_p dT = C_v dT + P dV$. <br>4. આદર્શ વાયુ સમીકરણ $PV = RT$ પરથી (1 મોલ માટે), અચળ દબાણે $P dV = R dT$. <br>5. કિંમત મૂકતા: $C_p dT = C_v dT + R dT$. <br>6. બંને બાજુથી $dT$ ઉડાડતા, $C_p = C_v + R \\implies C_p - C_v = R$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'પવન' (P-V) ને બદલે 'રાત' (R-T) યાદ રાખો. $P dV$ ની જગ્યાએ $R dT$ મૂકો એટલે જવાબ હાજર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમતાપી પ્રક્રિયા (Isothermal Process) એટલે શું? તેના માટે કાર્યનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા દરમિયાન તંત્રનું તાપમાન (T) અચળ જળવાઈ રહે તેને સમતાપી પ્રક્રિયા કહે છે. <br>1. આ પ્રક્રિયામાં $\\Delta U = 0$ હોય છે, તેથી $Q = W$. <br>2. અવસ્થા સમીકરણ: $PV = Constant$. <br>3. કાર્યનું સૂત્ર: $W = \\mu RT \\ln\\left(\\frac{V_2}{V_1}\\right)$ અથવા $W = 2.303 \\mu RT \\log\\left(\\frac{V_2}{V_1}\\right)$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'સમ-તાપી' = સમાન તાપમાન. તાપમાન અચળ તો $PV$ નો ગુણાકાર પણ અચળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એડિઆબેટિક (મોક્ષ્મ) પ્રક્રિયા એટલે શું? તેની શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયામાં તંત્ર અને પરિસર વચ્ચે ઉષ્માનો વિનિમય થતો નથી ($Q = 0$), તેને મોક્ષ્મ પ્રક્રિયા કહે છે. <br>શરતો: <br>1. તંત્રની દીવાલો સંપૂર્ણ ઉષ્માવાહક હોવી જોઈએ. <br>2. પ્રક્રિયા ખૂબ જ ઝડપી હોવી જોઈએ જેથી ઉષ્માની આપ-લેનો સમય ન મળે. <br>સમીકરણ: $PV^\\gamma = Constant$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'મોક્ષ્મ' એટલે ઉષ્માનો મોક્ષ (ત્યાગ). $Q = 0$. ટાયર ફાટવું એ આનું શ્રેષ્ઠ ઉદાહરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમકદ (Isochoric) અને સમદાબ (Isobaric) પ્રક્રિયા વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. સમકદ પ્રક્રિયામાં કદ (V) અચળ રહે છે, તેથી કાર્ય $W = P \\Delta V = 0$ થાય. બધી જ ઉષ્મા આંતરિક ઉર્જા વધારવામાં વપરાય છે. <br>2. સમદાબ પ્રક્રિયામાં દબાણ (P) અચળ રહે છે. કાર્ય $W = P(V_2 - V_1)$ થાય. <br>3. સમકદમાં $P/T = Constant$, જ્યારે સમદાબમાં $V/T = Constant$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'કદ' અચળ તો કાર્ય 'ઝીરો' ($W=0$). 'દાબ' અચળ તો દબાણ સીધું કાર્ય સાથે ગુણાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચક્રીય પ્રક્રિયા (Cyclic Process) સમજાવો અને તેમાં થતા કાર્ય વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો કોઈ તંત્ર વિવિધ અવસ્થાઓમાંથી પસાર થઈને ફરી પોતાની મૂળ સ્થિતિમાં પાછું આવે, તો તેવી પ્રક્રિયાને ચક્રીય પ્રક્રિયા કહે છે. <br>1. ચક્રીય પ્રક્રિયામાં આંતરિક ઉર્જાનો ફેરફાર $\\Delta U = 0$ હોય છે. <br>2. પ્રથમ નિયમ મુજબ, $Q = W$. એટલે કે કુલ શોષાયેલી ઉષ્મા બરાબર કુલ કાર્ય. <br>3. P-V ગ્રાફમાં બંધ લૂપનું ક્ષેત્રફળ કુલ કાર્ય દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: જ્યાંથી શરૂ કર્યું ત્યાં જ પાછા આવ્યા, એટલે 'સ્થિતિ' (U) માં કોઈ ફેરફાર નહીં! $U_{final} = U_{initial}$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રતિવર્તી (Reversible) અને અપ્રતિવર્તી (Irreversible) પ્રક્રિયાઓ વચ્ચેના તફાવતના મુદ્દા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. પ્રતિવર્તી પ્રક્રિયા ખૂબ જ ધીમી (Quasi-static) હોય છે, જ્યારે અપ્રતિવર્તી પ્રક્રિયા ઝડપી હોય છે. <br>2. પ્રતિવર્તી પ્રક્રિયામાં ઉર્જાનો વ્યય (ઘર્ષણ વગેરે) થતો નથી, અપ્રતિવર્તીમાં વ્યય થાય છે. <br>3. કુદરતમાં થતી મોટાભાગની પ્રક્રિયાઓ અપ્રતિવર્તી છે. <br>4. પ્રતિવર્તી પ્રક્રિયાને ઉલટાવી શકાય છે અને તંત્ર તેમજ પરિસર મૂળ સ્થિતિમાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: પ્રતિવર્તી = આદર્શ દુનિયા (જે શક્ય નથી). અપ્રતિવર્તી = અસલી દુનિયા (ઘર્ષણ વાળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉષ્મા એન્જિન (Heat Engine) ના મુખ્ય ભાગો અને કાર્ય પદ્ધતિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્ય ત્રણ ભાગો: <br>1. ઉષ્મા પ્રાપ્તિસ્થાન (Source): ઊંચા તાપમાને ($T_1$) રહેલ ઉષ્માનો ભંડાર. <br>2. કાર્યકારી પદાર્થ (Working Substance): જે ઉષ્મા મેળવી કાર્ય કરે છે (દા.ત. વરાળ કે ગેસ). <br>3. ઠારણ વ્યવસ્થા (Sink): નીચા તાપમાને ($T_2$) રહેલ ભાગ જ્યાં વધારાની ઉષ્મા ફેંકાય છે. <br>કાર્ય: પદાર્થ $Q_1$ ઉષ્મા લે છે, $W$ કાર્ય કરે છે અને $Q_2$ ઉષ્મા ઠારણમાં મુક્ત કરે છે. $W = Q_1 - Q_2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: એન્જિન એટલે 'ઉષ્મા થી કાર્ય'. ગરમ માંથી લેવાનું, કામ કરવાનું અને ઠંડામાં ફેંકવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઉષ્મા એન્જિનની કાર્યક્ષમતા (Efficiency) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્યક્ષમતા ($\\eta$) = ચોખ્ખું કાર્ય / મેળવેલી કુલ ઉષ્મા <br>1. $\\eta = \\frac{W}{Q_1}$ <br>2. આપણે જાણીએ છીએ કે $W = Q_1 - Q_2$. <br>3. તેથી, $\\eta = \\frac{Q_1 - Q_2}{Q_1} = 1 - \\frac{Q_2}{Q_1}$. <br>4. કાર્નોટ એન્જિન માટે, $\\eta = 1 - \\frac{T_2}{T_1}$. <br>કાર્યક્ષમતા હંમેશા 1 (અથવા 100%) કરતા ઓછી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'આઉટપુટ / ઇનપુટ'. તમે કેટલું કામ કર્યું અને કેટલું ખાધું (ઉર્જા લીધી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રેફ્રિજરેટર અને હીટ પંપનો કાર્યકારી સિદ્ધાંત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેફ્રિજરેટર એ ઉષ્મા એન્જિનનું ઉલટું સ્વરૂપ છે. <br>1. તે ઠંડા પદાર્થ (Sink) માંથી $Q_2$ ઉષ્મા શોષે છે. <br>2. તેના પર બાહ્ય કાર્ય $W$ કરવામાં આવે છે. <br>3. તે ગરમ પદાર્થ (Source) ને $Q_1 = Q_2 + W$ ઉષ્મા આપે છે. <br>આમ, તે નીચા તાપમાનથી ઊંચા તાપમાન તરફ ઉષ્માનું વહન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: એન્જિન એટલે પહાડ પરથી પથ્થર નીચે આવવો (કુદરતી), રેફ્રિજરેટર એટલે પથ્થર નીચેથી ઉપર ચડાવવો (કાર્ય કરવું પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રેફ્રિજરેટરનો પરફોર્મન્સ ગુણાંક (Coefficient of Performance - $\\alpha$) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરફોર્મન્સ ગુણાંક ($\\alpha$) = ઠારણમાંથી શોષાયેલી ઉષ્મા / તેના પર કરવું પડતું કાર્ય. <br>1. $\\alpha = \\frac{Q_2}{W}$ <br>2. આપણે જાણીએ છીએ કે $W = Q_1 - Q_2$. <br>3. તેથી, $\\alpha = \\frac{Q_2}{Q_1 - Q_2}$. <br>$\\alpha$ ની કિંમત 1 કરતા મોટી હોઈ શકે છે. તે જેટલો વધારે, તેટલું રેફ્રિજરેટર સારું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: એન્જિનમાં 'કાર્ય' ઉપર આવે (ઉપર જવું છે), રેફ્રિજરેટરમાં 'શોષાયેલી ઉષ્મા' ($Q_2$) ઉપર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "થર્મોડાયનેમિક્સનો બીજો નિયમ (કેલ્વિન-પ્લાન્ક અને ક્લોસિયસના વિધાનો) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કેલ્વિન-પ્લાન્ક વિધાન: એવું એન્જિન બનાવવું અશક્ય છે જે માત્ર એક જ પ્રાપ્તિસ્થાનમાંથી ઉષ્મા મેળવી તેનું સંપૂર્ણ કાર્યમાં રૂપાંતર કરે. (એટલે કે $\\eta < 100\\%$). <br>2. ક્લોસિયસ વિધાન: બાહ્ય કાર્ય કર્યા વગર નીચા તાપમાનવાળા પદાર્થમાંથી ઉષ્મા શોષી ઊંચા તાપમાનવાળા પદાર્થને આપવી અશક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 1. કેલ્વિન = 100% રિઝલ્ટ અશક્ય. 2. ક્લોસિયસ = મફતમાં (વગર કાર્યએ) ઠંડામાંથી ગરમ ન થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ક્વાસી-સ્ટેટિક (Quasi-static) પ્રક્રિયા એટલે શું? તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયા એટલી ધીમી હોય કે તેના દરેક તબક્કે તંત્ર પરિસર સાથે ઉષ્મીય અને યાંત્રિક સંતુલનમાં જ હોય, તેને ક્વાસી-સ્ટેટિક પ્રક્રિયા કહે છે. <br>1. આ એક આદર્શ પ્રક્રિયા છે. <br>2. તેમાં દબાણ અને તાપમાન જેવા ચલ દરેક ક્ષણે વ્યાખ્યાયિત કરી શકાય છે. <br>3. બધી જ પ્રતિવર્તી પ્રક્રિયાઓ ક્વાસી-સ્ટેટિક હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'ક્વાસી' એટલે જાણે કે, 'સ્ટેટિક' એટલે સ્થિર. પ્રક્રિયા થાય છે પણ લાગે કે સ્થિર છે એટલી ધીમી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઉષ્મા અને કાર્ય માટેની સંજ્ઞા પ્રણાલી (Sign Convention) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. તંત્ર દ્વારા શોષાયેલી ઉષ્મા (Q): ધન (+). <br>2. તંત્ર દ્વારા ગુમાવાયેલી ઉષ્મા (Q): ઋણ (-). <br>3. તંત્ર દ્વારા થયેલું કાર્ય (W): ધન (+). (કદ વધે ત્યારે) <br>4. તંત્ર પર થયેલું કાર્ય (W): ઋણ (-). (કદ ઘટે ત્યારે) <br>5. આંતરિક ઉર્જામાં વધારો ($\\Delta U$): ધન (+). <br>6. આંતરિક ઉર્જામાં ઘટાડો ($\\Delta U$): ઋણ (-).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: તંત્રને 'ફાયદો' થાય (ઉષ્મા મળી, કાર્ય કર્યું) તો ધન. 'નુકસાન' થાય તો ઋણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મોક્ષ્મ (Adiabatic) પ્રક્રિયામાં થતા કાર્યનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. $W = \\int_{V_1}^{V_2} P dV$. <br>2. મોક્ષ્મ પ્રક્રિયા માટે $PV^\\gamma = K$, તેથી $P = K/V^\\gamma$. <br>3. $W = K \\int_{V_1}^{V_2} V^{-\\gamma} dV = K \\left[ \\frac{V^{1-\\gamma}}{1-\\gamma} \\right]_{V_1}^{V_2}$. <br>4. સાદું રૂપ આપતા, $W = \\frac{P_1 V_1 - P_2 V_2}{\\gamma - 1} = \\frac{\\mu R(T_1 - T_2)}{\\gamma - 1}$. <br>જ્યાં $\\gamma = C_p/C_v$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: છેદમાં $(\\gamma - 1)$ યાદ રાખો. અંશમાં $PV$ નો તફાવત (પહેલા - પછી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અવસ્થા ચલ (State Variables) એટલે શું? તેના પ્રકારો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રની સંતુલિત અવસ્થા દર્શાવતા ચલોને અવસ્થા ચલ કહે છે (દા.ત. P, V, T, U). <br>બે પ્રકાર છે: <br>1. વિસ્તૃત (Extensive): જે તંત્રના દ્રવ્યના જથ્થા પર આધાર રાખે છે. દા.ત. કદ (V), આંતરિક ઉર્જા (U), દળ (m). <br>2. ગહન (Intensive): જે જથ્થા પર આધાર રાખતા નથી. દા.ત. દબાણ (P), તાપમાન (T), ઘનતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: તંત્રના બે ટુકડા કરો. જે અડધું થઈ જાય તે 'વિસ્તૃત', જે સરખું રહે તે 'ગહન' (તાપમાન બદલાય નહીં!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "P-V ડાયાગ્રામનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. P-V ડાયાગ્રામને સૂચક આકૃતિ (Indicator Diagram) કહે છે. <br>2. આ વક્ર નીચેનું ક્ષેત્રફળ $W = \\int P dV$ એટલે કે કાર્ય દર્શાવે છે. <br>3. જો વક્ર જમણી બાજુ (કદ વધે) જાય તો કાર્ય ધન, ડાબી બાજુ જાય તો કાર્ય ઋણ. <br>4. ચક્રીય પ્રક્રિયામાં જો લૂપ સમઘડી (Clockwise) હોય તો કાર્ય ધન, અને વિષમઘડી હોય તો ઋણ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: Area = Work. ક્ષેત્રફળ શોધો એટલે કાર્ય મળી જાય!</p></div>"
+    }
+  ]
+}

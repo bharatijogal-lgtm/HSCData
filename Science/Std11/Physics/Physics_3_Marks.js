@@ -1319,3 +1319,111 @@ var Std11_Physics_3_Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "દોલનો",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આવર્ત ગતિ અને દોલિત ગતિ વચ્ચેનો તફાવત સ્પષ્ટ કરો અને દરેકનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>આવર્ત ગતિ:</b> જે ગતિ નિશ્ચિત સમયના અંતરે પુનરાવર્તિત થતી હોય તેને આવર્ત ગતિ કહે છે. ઉદા. તરીકે, સૂર્યની આસપાસ પૃથ્વીની ગતિ.<br>2. <b>દોલિત ગતિ:</b> જો પદાર્થ નિશ્ચિત બિંદુની આસપાસ મધ્યમાન સ્થાનથી આગળ-પાછળ કે ઉપર-નીચે ગતિ કરતો હોય, તો તેને દોલિત ગતિ કહે છે. ઉદા. તરીકે, લોલકની ગતિ.<br><b>નોંધ:</b> દરેક દોલિત ગતિ એ આવર્ત ગતિ છે, પરંતુ દરેક આવર્ત ગતિ એ દોલિત ગતિ હોવી જરૂરી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બધા જ દોલનો આવર્ત છે, પણ બધા જ આવર્ત દોલનો નથી' - જેમ કે પૃથ્વી ફરે છે પણ એ દોલન નથી કરતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સરળ આવર્ત ગતિ (SHM) માટે સ્થાનાંતરનું સમીકરણ તારવો અને તેના દરેક પદ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરળ આવર્ત ગતિ કરતા કણનું સ્થાનાંતર સમય t ના વિધેય તરીકે નીચે મુજબ દર્શાવાય છે:<br><b>x(t) = A cos(ωt + Φ)</b><br>જ્યાં,<br>1. <b>x(t):</b> t સમયે સ્થાનાંતર.<br>2. <b>A:</b> કંપવિસ્તાર (મહત્તમ સ્થાનાંતર).<br>3. <b>ω:</b> કોણીય આવૃત્તિ (ω = 2π/T).<br>4. <b>(ωt + Φ):</b> કળા (Phase).<br>5. <b>Φ:</b> પ્રારંભિક કળા (Phase constant).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A-Cos-Wt-Phi' - આ સૂત્ર SHM નું હૃદય છે. કોસાઈન વિધેય હંમેશા મહત્તમથી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નિયમિત વર્તુળમય ગતિનું પ્રક્ષેપ એ સરળ આવર્ત ગતિ છે તેમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ કણ ત્રિજ્યા A ના વર્તુળ પર અચળ કોણીય ઝડપ ω થી ગતિ કરે છે, ત્યારે તેના વ્યાસ પરના પ્રક્ષેપ બિંદુની ગતિ સરળ આવર્ત ગતિ હોય છે. ધારો કે કણ P વર્તુળ પર છે, તો તેના X-અક્ષ પરના પ્રક્ષેપનું સ્થાનાંતર x = A cos(ωt + Φ) થાય. આ સમીકરણ SHM નું સમીકરણ હોવાથી કહી શકાય કે વર્તુળમય ગતિનો પ્રક્ષેપ SHM છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળ = 2D ગતિ, પ્રક્ષેપ (પડછાયો) = 1D ગતિ (SHM). પડછાયો હંમેશા વ્યાસ પર આગળ-પાછળ થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સરળ આવર્ત ગતિમાં વેગનું સમીકરણ મેળવો અને કયા સ્થાને વેગ મહત્તમ અને શૂન્ય હશે તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાનાંતર x(t) = A cos(ωt + Φ) નું સમય સાપેક્ષ વિકલન કરતા:<br>v(t) = dx/dt = -ωA sin(ωt + Φ)<br>અથવા v = ±ω√(A² - x²)<br>1. <b>મધ્યમાન સ્થાને (x=0):</b> વેગ મહત્તમ હોય છે, v_max = ωA.<br>2. <b>અંત્ય બિંદુએ (x=A):</b> વેગ શૂન્ય હોય છે, v = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચે (Mean) સ્પીડ ફૂલ, છેડે (Extreme) સ્પીડ ગુલ (Zero)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સરળ આવર્ત ગતિમાં પ્રવેગનું સૂત્ર તારવો અને પ્રવેગ તથા સ્થાનાંતર વચ્ચેનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેગ v(t) = -ωA sin(ωt + Φ) નું ફરીથી વિકલન કરતા:<br>a(t) = dv/dt = -ω²A cos(ωt + Φ)<br>પરંતુ A cos(ωt + Φ) = x હોવાથી,<br><b>a(t) = -ω²x</b><br>આમ, SHM માં પ્રવેગ સ્થાનાંતરના સમપ્રમાણમાં અને તેની વિરુદ્ધ દિશામાં (મધ્યમાન સ્થાન તરફ) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'a proportional to -x' - આ શરત સંતોષાય તો જ ગતિ SHM કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સરળ આવર્ત ગતિ માટે બળનો નિયમ (Force Law) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યૂટનના બીજા નિયમ મુજબ F = ma. SHM માટે a = -ω²x હોવાથી,<br>F = m(-ω²x) = -(mω²)x<br>જો mω² = k (બળ અચળાંક) લઈએ, તો<br><b>F = -kx</b><br>અહીં k ને સ્પ્રિંગ અચળાંક અથવા બળ અચળાંક કહે છે. ઋણ નિશાની દર્શાવે છે કે પુનઃસ્થાપક બળ હંમેશા સ્થાનાંતરની વિરુદ્ધ દિશામાં લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = -kx ને 'પુનઃસ્થાપક બળ' કહેવાય કારણ કે તે પદાર્થને પાછો ખેંચી લાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "SHM માં ગતિઊર્જા (K) નું સૂત્ર મેળવો અને તેનો આલેખ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિઊર્જા K = ½mv²<br>v = -ωA sin(ωt + Φ) મૂકતા,<br>K = ½mω²A² sin²(ωt + Φ)<br>અથવા સ્થાનાંતરના પદમાં: <b>K = ½k(A² - x²)</b><br>મધ્યમાન સ્થાને (x=0) ગતિઊર્જા મહત્તમ (½kA²) હોય છે અને અંત્ય બિંદુએ (x=A) શૂન્ય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં વેગ વધુ ત્યાં ગતિઊર્જા વધુ. વચ્ચે 'Max', છેડે 'Zero'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "SHM માં સ્થિતિઊર્જા (U) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાનાંતર x કરવા માટે કરવા પડતા કાર્ય W = ∫F dx = ∫kx dx = ½kx²<br>આ કાર્ય સ્થિતિઊર્જા તરીકે સંગ્રહ પામે છે.<br>તેથી, <b>U(x) = ½kx²</b><br>સમયના પદમાં: U(t) = ½kA² cos²(ωt + Φ)<br>મધ્યમાન સ્થાને (x=0) સ્થિતિઊર્જા શૂન્ય અને અંત્ય બિંદુએ (x=A) મહત્તમ (½kA²) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગ ખેંચાયેલી હોય ત્યારે 'U' ફૂલ હોય, એટલે કે છેડા પર સ્થિતિઊર્જા મહત્તમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાબિત કરો કે સરળ આવર્ત ગતિમાં કુલ યાંત્રિક ઊર્જા સંરક્ષિત રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુલ ઊર્જા E = K + U<br>E = ½k(A² - x²) + ½kx²<br>E = ½kA² - ½kx² + ½kx²<br><b>E = ½kA²</b><br>અહીં k અને A અચળ હોવાથી કુલ ઊર્જા E પણ અચળ રહે છે. આમ, SHM માં ઊર્જાનું એક સ્વરૂપમાંથી બીજામાં રૂપાંતર થાય છે પણ કુલ ઊર્જા બદલાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = K + U = હંમેશા અચળ. અડધું આપો અડધું લો, કુલ તો ½kA² જ રહો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સરળ લોલક (Simple Pendulum) ના આવર્તકાળનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોલક માટે પુનઃસ્થાપક ટોર્ક τ = -L(mg sinθ). નાના ખૂણા માટે sinθ ≈ θ = x/L.<br>τ = -mgx<br>કોણીય પ્રવેગ α = τ/I = -mgx / mL² = -(g/L)θ<br>SHM ની શરત α = -ω²θ સાથે સરખાવતા, ω² = g/L => ω = √(g/L)<br>આવર્તકાળ <b>T = 2π√(L/g)</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T = 2 પાઈ લલ્લુ છેદમાં ગલ્લુ' (L/g). આવર્તકાળ માત્ર લંબાઈ L અને g પર આધાર રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સેકન્ડ લોલક (Seconds Pendulum) એટલે શું? પૃથ્વી પર તેની લંબાઈ આશરે કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લોલકનો આવર્તકાળ <b>2 સેકન્ડ</b> હોય તેને સેકન્ડ લોલક કહે છે. <br>સૂત્ર T = 2π√(L/g) માં T = 2 મૂકતા:<br>2 = 2π√(L/g) => 1 = π²(L/g) => L = g/π²<br>g ≈ 9.8 અને π² ≈ 9.87 લેતા, L ≈ 0.992 મીટર અથવા આશરે <b>1 મીટર</b> મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેકન્ડ લોલક એટલે 'ટીક-ટોક' - એક બાજુ જવામાં 1 સેકન્ડ અને પાછા આવવામાં 1 સેકન્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્પ્રિંગના શ્રેણી જોડાણ માટે પરિણામી બળ અચળાંકનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રેણી જોડાણમાં બંને સ્પ્રિંગ પર લાગતું બળ F સમાન હોય છે, પણ સ્થાનાંતર x = x1 + x2 થાય.<br>x = F/k1 + F/k2 = F(1/k1 + 1/k2)<br>પરંતુ x = F/k_eq હોવાથી,<br><b>1/k_eq = 1/k1 + 1/k2</b><br>અથવા k_eq = (k1.k2) / (k1 + k2).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પ્રિંગનું શ્રેણી જોડાણ = અવરોધનું સમાંતર જોડાણ જેવું સૂત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સ્પ્રિંગના સમાંતર જોડાણ માટે સમતુલ્ય બળ અચળાંક સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાંતર જોડાણમાં સ્થાનાંતર x સમાન રહે છે, પણ કુલ બળ F = F1 + F2 થાય.<br>k_eq.x = k1.x + k2.x<br><b>k_eq = k1 + k2</b><br>આમ, સમાંતર જોડાણમાં પરિણામી બળ અચળાંક વધે છે અને સિસ્ટમ વધુ સખત (stiff) બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરમાં સીધો સરવાળો! (k = k1 + k2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અવમંદિત દોલનો (Damped Oscillations) એટલે શું? તેનું સ્થાનાંતરનું સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે દોલનોનો કંપવિસ્તાર સમય સાથે ઘર્ષણ કે માધ્યમના અવરોધને કારણે ઘટતો જતો હોય, તેને અવમંદિત દોલનો કહે છે.<br>તેનું સ્થાનાંતર: x(t) = A.e^(-bt/2m) cos(ω't + Φ)<br>અહીં કંપવિસ્તાર A(t) = A.e^(-bt/2m) સમય સાથે ઘાતાંકીય રીતે ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિંચકો ખાતા હોઈએ અને ધક્કો મારવાનું બંધ કરીએ ત્યારે જે થાય તે 'અવમંદિત દોલન'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મુક્ત દોલનો અને પ્રણોદિત દોલનો (Forced Oscillations) વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>મુક્ત દોલનો:</b> પદાર્થ પોતાની પ્રાકૃતિક આવૃત્તિ (ω0) થી દોલન કરે ત્યારે તેને મુક્ત દોલન કહે છે.<br>2. <b>પ્રણોદિત દોલનો:</b> જ્યારે પદાર્થ પર બાહ્ય આવર્તક બળ લગાડવામાં આવે અને પદાર્થ બાહ્ય બળની આવૃત્તિ (ω) થી દોલન કરે, ત્યારે તેને પ્રણોદિત દોલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુક્ત' એટલે પોતાની મરજી (ω0), 'પ્રણોદિત' એટલે બીજાની મરજી (ω - External Force).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અનુનાદ (Resonance) ની ઘટના સમજાવો અને તેનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બાહ્ય આવર્તક બળની આવૃત્તિ (ω) પદાર્થની પ્રાકૃતિક આવૃત્તિ (ω0) જેટલી થાય, ત્યારે દોલનનો કંપવિસ્તાર અત્યંત મોટો બને છે. આ ઘટનાને અનુનાદ કહે છે.<br><b>ઉદાહરણ:</b> સૈનિકો જ્યારે પુલ પરથી પસાર થાય ત્યારે તેમને કદમતાલ (Marching) ન કરવાની સલાહ અપાય છે, કારણ કે જો કદમતાલની આવૃત્તિ પુલની પ્રાકૃતિક આવૃત્તિ જેટલી થાય તો પુલ તૂટી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ Matching = કંપવિસ્તાર Rocking (Maximum)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સરળ આવર્ત ગતિ માટે ગતિશાસ્ત્રનું વિકલ સમીકરણ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બળના નિયમ મુજબ F = -kx<br>ma = -kx => m(d²x/dt²) = -kx<br>d²x/dt² + (k/m)x = 0<br>k/m = ω² મૂકતા:<br><b>d²x/dt² + ω²x = 0</b><br>આ SHM નું દ્વિતીય ક્રમનું વિકલ સમીકરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેગ (a) + ω²x = 0. બસ આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કળા (Phase) અને પ્રારંભિક કળા (Initial Phase) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>કળા (Phase):</b> t સમયે કણની સ્થિતિ અને ગતિની દિશા દર્શાવતી ભૌતિક રાશિ (ωt + Φ) ને કળા કહે છે.<br>2. <b>પ્રારંભિક કળા (Φ):</b> t = 0 સમયે કણની સ્થિતિ દર્શાવતા ખૂણાને પ્રારંભિક કળા અથવા કળા અચળાંક કહે છે. તે નક્કી કરે છે કે દોલન ક્યાંથી શરૂ થયું (મધ્યમાન સ્થાનથી કે અંત્ય બિંદુથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કળા એટલે કણનું 'સરનામું' (Address) જે સમય સાથે બદલાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "SHM માં સ્થાનાંતર, વેગ અને પ્રવેગ વચ્ચેનો કળા તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. વેગ એ સ્થાનાંતર કરતા <b>π/2 rad</b> જેટલો કળામાં આગળ હોય છે.<br>2. પ્રવેગ એ વેગ કરતા <b>π/2 rad</b> જેટલો કળામાં આગળ હોય છે.<br>3. પ્રવેગ અને સ્થાનાંતર વચ્ચે <b>π rad (180°)</b> નો કળા તફાવત હોય છે (બંને પરસ્પર વિરુદ્ધ દિશામાં હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x -> v -> a (દરેક વચ્ચે 90 ડિગ્રીનો ગેપ). x અને a તો પાકા દુશ્મન (180 ડિગ્રી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સરળ આવર્ત ગતિ કરતા કણ માટે આવર્તકાળ (T) અને આવૃત્તિ (f) નો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>આવર્તકાળ (T):</b> એક પૂર્ણ દોલન પૂર્ણ કરવા માટે લાગતા સમયને આવર્તકાળ કહે છે. T = 2π/ω.<br>2. <b>આવૃત્તિ (f):</b> એકમ સમયમાં થતા દોલનોની સંખ્યાને આવૃત્તિ કહે છે. f = 1/T.<br>તેથી, f = ω / 2π. તેનો એકમ હર્ટ્ઝ (Hz) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T અને f એકબીજાના ઉલટા (Inverse) છે. T વધે તો f ઘટે!</p></div>"
+    }
+  ]
+}

@@ -116,3 +116,116 @@ var Std11_Physics_4_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "સુરેખ પથ પર ગતિ",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પથલંબાઈ અને સ્થાનાંતરની વ્યાખ્યા આપી, તેમની વચ્ચેનો તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>પથલંબાઈ:</strong> પદાર્થ દ્વારા કપાયેલા કુલ અંતરને પથલંબાઈ કહે છે. તે અદિશ રાશિ છે અને હંમેશા ધન હોય છે.<br>2. <strong>સ્થાનાંતર:</strong> પદાર્થના સ્થાનમાં થતા ફેરફારને સ્થાનાંતર કહે છે. (અંતિમ સ્થાન - પ્રારંભિક સ્થાન). તે સદિશ રાશિ છે, જે ધન, ઋણ કે શૂન્ય હોઈ શકે છે.<br><strong>ઉદાહરણ:</strong> જો કોઈ પદાર્થ A થી B (5m) જાય અને પાછો B થી A (5m) આવે, તો પથલંબાઈ 10m થાય, પણ સ્થાનાંતર 0m થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથલંબાઈ એટલે 'કુલ ડગલાં' અને સ્થાનાંતર એટલે 'પ્રથમ અને છેલ્લા બિંદુ વચ્ચેની સીધી લીટી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સરેરાશ વેગ અને સરેરાશ ઝડપ સમજાવી, કયા સંજોગોમાં બંને સમાન હોઈ શકે તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>સરેરાશ વેગ:</strong> સ્થાનાંતર અને તે માટે લાગતા સમયના ગુણોત્તરને સરેરાશ વેગ કહે છે. $V_{avg} = \\Delta x / \\Delta t$.<br>2. <strong>સરેરાશ ઝડપ:</strong> કુલ પથલંબાઈ અને તે માટે લાગતા સમયના ગુણોત્તરને સરેરાશ ઝડપ કહે છે.<br><strong>સમાનતાની શરત:</strong> જો પદાર્થ સુરેખ પથ પર એક જ દિશામાં ગતિ કરતો હોય (દિશા બદલ્યા વગર), તો સરેરાશ વેગનું મૂલ્ય અને સરેરાશ ઝડપ સમાન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો U-Turn ન મારે તો વેગ = ઝડપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આલેખની રીતનો ઉપયોગ કરી અચળ પ્રવેગી ગતિનું સમીકરણ $v = v_0 + at$ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>વેગ વિરુદ્ધ સમયના (v-t) આલેખમાં ઢાળ પ્રવેગ દર્શાવે છે.<br>ઢાળ $a = \\frac{BC}{AC} = \\frac{v - v_0}{t - 0}$<br>માટે, $a = \\frac{v - v_0}{t}$<br>$at = v - v_0$<br>$v = v_0 + at$<br>જ્યાં $v$ = અંતિમ વેગ, $v_0$ = પ્રારંભિક વેગ, $a$ = અચળ પ્રવેગ, $t$ = સમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: v-t આલેખનો ઢાળ = પ્રવેગ (a). બસ ઢાળ શોધો એટલે સમીકરણ હાજર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આલેખની રીતથી અચળ પ્રવેગી ગતિનું સમીકરણ $x = v_0t + \\frac{1}{2}at^2$ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>v-t આલેખ નીચે ઘેરાયેલું ક્ષેત્રફળ સ્થાનાંતર (x) આપે છે.<br>ક્ષેત્રફળ = લંબચોરસનું ક્ષેત્રફળ + ત્રિકોણનું ક્ષેત્રફળ<br>$x = (v_0 \\times t) + \\frac{1}{2} \\times t \\times (v - v_0)$<br>પરંતુ $v - v_0 = at$ હોવાથી,<br>$x = v_0t + \\frac{1}{2} \\times t \\times (at)$<br>$x = v_0t + \\frac{1}{2}at^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટકોણ ત્રિકોણ + લંબચોરસ = સ્થાનાંતર (x).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અચળ પ્રવેગી ગતિ માટેનું સમીકરણ $v^2 - v_0^2 = 2ax$ આલેખની રીતે મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>સ્થાનાંતર $x = $ સમલંબ ચતુષ્કોણનું ક્ષેત્રફળ<br>$x = \\frac{(v + v_0)}{2} \\times t$<br>હવે $t = \\frac{v - v_0}{a}$ મુકતા,<br>$x = \\frac{(v + v_0)}{2} \\times \\frac{(v - v_0)}{a}$<br>$x = \\frac{v^2 - v_0^2}{2a}$<br>$2ax = v^2 - v_0^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x = \\text{average velocity} \\times \\text{time}$. $t$ ની કિંમત પહેલા સમીકરણમાંથી મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કલનશાસ્ત્ર (Integration) ની રીતનો ઉપયોગ કરી $v = v_0 + at$ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>પ્રવેગની વ્યાખ્યા મુજબ, $a = \\frac{dv}{dt} \\Rightarrow dv = a \\cdot dt$<br>બંને બાજુ સંકલન લેતા:<br>$\\int_{v_0}^{v} dv = \\int_{0}^{t} a \\cdot dt$<br>$[v]_{v_0}^{v} = a [t]_{0}^{t}$ (કારણ કે a અચળ છે)<br>$v - v_0 = at - 0$<br>$v = v_0 + at$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $a$ થી શરૂ કરો અને $v$ મેળવવા માટે સમયની સાપેક્ષે સંકલન કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કલનશાસ્ત્રની મદદથી $x = v_0t + \\frac{1}{2}at^2$ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>વેગ $v = \\frac{dx}{dt} \\Rightarrow dx = v \\cdot dt$<br>પરંતુ $v = v_0 + at$ હોવાથી,<br>$dx = (v_0 + at) dt$<br>સંકલન લેતા: $\\int_{0}^{x} dx = \\int_{0}^{t} (v_0 + at) dt$<br>$x = [v_0t + \\frac{1}{2}at^2]_{0}^{t}$<br>$x = v_0t + \\frac{1}{2}at^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v$ નું સંકલન કરો એટલે $x$ મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મુક્ત પતન એટલે શું? પદાર્થના મુક્ત પતન માટે ગતિના સમીકરણો મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>જ્યારે કોઈ પદાર્થને અમુક ઊંચાઈએથી માત્ર ગુરુત્વાકર્ષણ બળની અસર હેઠળ છોડવામાં આવે ત્યારે તેને 'મુક્ત પતન' કહે છે.<br>શરતો: $v_0 = 0$ અને $a = g$ (અથવા $-g$ દિશા મુજબ).<br>સમીકરણો:<br>1. $v = gt$<br>2. $y = \\frac{1}{2}gt^2$<br>3. $v^2 = 2gy$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ પ્રવેગી સમીકરણોમાં $v_0 = 0$ અને $a = g$ મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્ટોપિંગ ડિસ્ટન્સ (Stopping Distance) એટલે શું? તેનું સૂત્ર મેળવો અને તેની ઉપયોગિતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>ગતિમાન વાહનને બ્રેક માર્યા પછી તે સ્થિર થાય તે પહેલાં કાપેલા અંતરને સ્ટોપિંગ ડિસ્ટન્સ $d_s$ કહે છે.<br>$v^2 - v_0^2 = 2ax$ માં $v = 0$ અને $x = d_s$ લેતા:<br>$0 - v_0^2 = 2(-a)d_s$ (અહીં પ્રતિપ્રવેગ છે)<br>$d_s = \\frac{v_0^2}{2a}$<br>ઉપયોગિતા: માર્ગ સલામતી અને વાહનોની ક્ષમતા ચકાસવા માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટોપિંગ ડિસ્ટન્સ વેગના વર્ગના સમપ્રમાણમાં હોય ($d_s \\propto v_0^2$). વેગ બમણો તો અંતર 4 ગણું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રતિક્રિયા સમય (Reaction Time) એટલે શું? તેને માપવાની એક રીત વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>કોઈ ઘટના બને અને વ્યક્તિ તે સામે પ્રતિભાવ આપે તે વચ્ચેના સમયગાળાને પ્રતિક્રિયા સમય $t_r$ કહે છે.<br><strong>રીત:</strong> એક ફૂટપટ્ટીને બે આંગળી વચ્ચે લટકાવો, મિત્ર તેને છોડે અને તમે પકડો. જો ફૂટપટ્ટી $d$ અંતર નીચે ઉતરી હોય, તો:<br>$d = \\frac{1}{2}gt_r^2 \\Rightarrow t_r = \\sqrt{\\frac{2d}{g}}$<br>આ સૂત્ર પરથી સમય શોધી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી ફૂટપટ્ટી વધારે સરકી એટલો તમારો રીએક્શન ટાઈમ ધીમો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પદાર્થની $n$-મી સેકન્ડમાં કાપેલા અંતરનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>$D_n = S_n - S_{n-1}$<br>$S_n = v_0n + \\frac{1}{2}an^2$<br>$S_{n-1} = v_0(n-1) + \\frac{1}{2}a(n-1)^2$<br>બાદબાકી કરતા:<br>$D_n = v_0 + \\frac{a}{2}(2n - 1)$<br>આ સૂત્ર $n$-મી સેકન્ડ દરમિયાન થતું સ્થાનાંતર આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $v_0 + \\frac{a}{2}(\\text{Odd Number})$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્થાન-સમય ($x-t$) આલેખના જુદા જુદા કિસ્સાઓ આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>સ્થિર પદાર્થ:</strong> સમયની અક્ષને સમાંતર સીધી રેખા.<br>2. <strong>નિયમિત ગતિ:</strong> ઉગમબિંદુમાંથી પસાર થતી ત્રાસી સીધી રેખા.<br>3. <strong>ધન પ્રવેગી ગતિ:</strong> ઉપરની તરફ વળાંક લેતો વક્ર (Parabola).<br>4. <strong>ઋણ પ્રવેગી ગતિ:</strong> નીચેની તરફ વળતો વક્ર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ વધે તો વેગ વધે, ઢાળ ઘટે તો વેગ ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તાત્ક્ષણિક વેગ અને તાત્ક્ષણિક પ્રવેગ સમજાવો. તે કેવી રીતે મેળવી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>તાત્ક્ષણિક વેગ:</strong> સમયગાળો અત્યંત સૂક્ષ્મ ($\\Delta t \\to 0$) હોય ત્યારે મળતા વેગને તાત્ક્ષણિક વેગ કહે છે. $v = \\frac{dx}{dt}$. તે $x-t$ આલેખના ઢાળ દ્વારા મળે છે.<br>2. <strong>તાત્ક્ષણિક પ્રવેગ:</strong> વેગમાં થતા ફેરફારનો સમય દર જ્યારે $\\Delta t \\to 0$ હોય. $a = \\frac{dv}{dt}$. તે $v-t$ આલેખના ઢાળ દ્વારા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાત્ક્ષણિક એટલે 'તે જ ક્ષણે' (Just like speedometer reading).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સાપેક્ષ વેગ એટલે શું? એક જ દિશામાં અને વિરુદ્ધ દિશામાં ગતિ કરતા બે પદાર્થો માટે સાપેક્ષ વેગ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>એક પદાર્થની સાપેક્ષે બીજા પદાર્થના વેગને સાપેક્ષ વેગ કહે છે.<br>પદાર્થ A નો B ની સાપેક્ષે વેગ $V_{AB} = V_A - V_B$.<br>1. <strong>એક જ દિશામાં:</strong> વેગની બાદબાકી થાય. ($V_{AB} = V_A - V_B$)<br>2. <strong>વિરુદ્ધ દિશામાં:</strong> વેગનો સરવાળો થાય. ($V_{AB} = V_A - (-V_B) = V_A + V_B$)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સામે આવે તો પ્લસ (+), જોડે જાય તો માઈનસ (-)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગેલેલીયોનો એકી સંખ્યાનો નિયમ (Law of Odd Numbers) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>સ્થિર સ્થિતિમાંથી મુક્ત પતન કરતા પદાર્થ દ્વારા સમાન સમયગાળામાં કપાયેલા અંતરો એકબીજાના ગુણોત્તરમાં 1 : 3 : 5 : 7... જેવી એકી સંખ્યામાં હોય છે.<br>સાબિતી: $y = \\frac{1}{2}gt^2$ મુજબ $t=1, 2, 3$ સેકન્ડમાં અંતરો $1, 4, 9$ ના પ્રમાણમાં હોય, પણ ક્રમિક ગાળામાં તે $1, (4-1=3), (9-4=5)$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત પતનમાં અંતર હંમેશા 1, 3, 5, 7 ના ઓર્ડરમાં જ કપાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ધન પ્રવેગ, ઋણ પ્રવેગ અને શૂન્ય પ્રવેગ આલેખની મદદથી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>ધન પ્રવેગ:</strong> $v-t$ આલેખનો ઢાળ ધન હોય (વેગ વધે).<br>2. <strong>ઋણ પ્રવેગ:</strong> $v-t$ આલેખનો ઢાળ ઋણ હોય (વેગ ઘટે - પ્રતિપ્રવેગ).<br>3. <strong>શૂન્ય પ્રવેગ:</strong> $v-t$ આલેખ સમયની અક્ષને સમાંતર હોય (અચળ વેગ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલેખ ચઢાણવાળો તો '+' પ્રવેગ, ઉતરાણવાળો તો '-' પ્રવેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વેગ-સમય ($v-t$) આલેખ નીચે ઘેરાયેલા ક્ષેત્રફળનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>$v-t$ આલેખ અને સમયની અક્ષ વચ્ચે ઘેરાયેલું ક્ષેત્રફળ પદાર્થનું સ્થાનાંતર દર્શાવે છે.<br>જો આલેખ સમયની અક્ષની ઉપર હોય તો સ્થાનાંતર ધન અને નીચે હોય તો ઋણ ગણાય.<br>કુલ ક્ષેત્રફળનો સરવાળો (ચિહ્ન વગર) પથલંબાઈ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Area under V-t = Displacement (x).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નિયમિત ગતિ અને અનિયમિત ગતિ વચ્ચેના તફાવતના મુદ્દા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>નિયમિત ગતિ:</strong> પદાર્થ સમાન સમયમાં સમાન અંતર કાપે, વેગ અચળ રહે, પ્રવેગ શૂન્ય હોય.<br>2. <strong>અનિયમિત ગતિ:</strong> પદાર્થ સમાન સમયમાં અસમાન અંતર કાપે, વેગ બદલાતો રહે, પ્રવેગ શૂન્ય હોતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત એટલે 'No Change in Velocity'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કલનશાસ્ત્રની મદદથી સાબિત કરો કે $v^2 = v_0^2 + 2ax$.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>$a = \\frac{dv}{dt} = \\frac{dv}{dx} \\cdot \\frac{dx}{dt} = v \\cdot \\frac{dv}{dx}$<br>માટે, $a \\cdot dx = v \\cdot dv$<br>સંકલન લેતા: $\\int_{0}^{x} a \\cdot dx = \\int_{v_0}^{v} v \\cdot dv$<br>$a[x]_0^x = [\\frac{v^2}{2}]_{v_0}^v$<br>$ax = \\frac{v^2 - v_0^2}{2} \\Rightarrow 2ax = v^2 - v_0^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $a = v(dv/dx)$ - આ ચેઈન રૂલ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સુરેખ પથ પર ગતિ કરતા પદાર્થ માટે ચિહ્ન પ્રણાલી (Sign Convention) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ઉગમબિંદુની જમણી બાજુના સ્થાન ધન (+) અને ડાબી બાજુના ઋણ (-) લેવાય છે.<br>2. ગતિની દિશામાં વેગ ધન અને વિરુદ્ધ દિશામાં ઋણ લેવાય છે.<br>3. ઉર્ધ્વગતિમાં ઉપરની દિશા ધન (+) અને અધોદિશા (ગુરુત્વાકર્ષણ) ઋણ (-) લેવામાં આવે છે (સામાન્ય રીતે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાફ પેપરની જેમ જ: Right/Up = '+', Left/Down = '-'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "એક પદાર્થને ઉપર તરફ ફેંકતા તે મહત્તમ ઊંચાઈ પ્રાપ્ત કરે તે માટેનું સૂત્ર અને સમય મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>મહત્તમ ઊંચાઈએ $v = 0$ અને $a = -g$ હોય.<br>1. <strong>સમય ($t_m$):</strong> $v = v_0 + at \\Rightarrow 0 = v_0 - gt_m \\Rightarrow t_m = \\frac{v_0}{g}$<br>2. <strong>મહત્તમ ઊંચાઈ ($H$):</strong> $v^2 - v_0^2 = 2as \\Rightarrow 0 - v_0^2 = 2(-g)H \\Rightarrow H = \\frac{v_0^2}{2g}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર વેગ 'ઝીરો' (0) જ હોય, આ યાદ રાખો એટલે જવાબ આવી જાય!</p></div>"
+    }
+  ]
+}

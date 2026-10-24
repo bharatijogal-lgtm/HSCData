@@ -229,3 +229,111 @@ var Std11_Physics_4_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "સમતલમાં ગતિ",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અદિશ અને સદિશ રાશિઓ વચ્ચેનો તફાવત ઉદાહરણ આપી સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદિશ રાશિઓને માત્ર મૂલ્યની જ જરૂર હોય છે, જ્યારે સદિશ રાશિઓને મૂલ્ય અને દિશા બંનેની જરૂર પડે છે. અદિશના ઉદાહરણોમાં દળ, અંતર, સમય અને તાપમાનનો સમાવેશ થાય છે. સદિશના ઉદાહરણોમાં સ્થાનાંતર, વેગ, પ્રવેગ અને બળનો સમાવેશ થાય છે. સદિશને તીર (Arrow) વડે દર્શાવવામાં આવે છે. સદિશના સરવાળા માટે ત્રિકોણ કે સમાંતરબાજુ ચતુષ્કોણની રીત વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અદિશ = માત્ર આંકડો, સદિશ = આંકડો + દિશા'. સદિશ એટલે એવો રસ્તો જેમાં Google Maps ની જરૂર પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બે સદિશોના સરવાળા માટે સમાંતરબાજુ ચતુષ્કોણની રીત સમજાવો અને પરિણામી સદિશના મૂલ્યનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે બે સદિશો A અને B વચ્ચેનો ખૂણો θ છે. તેમને સમાંતરબાજુ ચતુષ્કોણની પાસપાસેની બાજુઓ તરીકે લેતા, તેમનો વિકર્ણ પરિણામી સદિશ R આપે છે. R = √(A² + B² + 2AB cosθ). તેની દિશા tan α = (B sinθ) / (A + B cosθ) દ્વારા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): R² = A² + B² + 2AB cosθ. યાદ રાખો: 'પાસ-પાસે બાજુ, વચ્ચેથી નીકળે પરિણામી ડાજુ (વિકર્ણ)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સદિશોના સરવાળા માટે ત્રિકોણની રીત આકૃતિ દોરી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે સદિશ A ના શીર્ષ (Head) પર સદિશ B નું પૂંછ (Tail) મૂકવામાં આવે, ત્યારે A ના પૂંછથી B ના શીર્ષને જોડતો સદિશ એ પરિણામી સદિશ R = A + B કહેવાય છે. આને 'Head-to-Tail' રીત પણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શીર્ષ પર પૂંછ મૂકો, અને પહેલાની પૂંછથી છેલ્લાના શીર્ષને જોડો. 'પૂંછ થી શીર્ષ, રસ્તો ફિનિશ!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સદિશોનું કાર્તેઝીયન ઘટકોમાં વિભાજન (Resolution of Vectors) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સદિશ A ને x અને y દિશાના ઘટકોમાં વહેંચી શકાય. Ax = A cosθ અને Ay = A sinθ. અહીં θ એ x-અક્ષ સાથે બનાવેલ ખૂણો છે. સદિશ A = Ax î + Ay ĵ. મૂલ્ય A = √(Ax² + Ay²) અને દિશા tanθ = Ay/Ax.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેની સાથે ખૂણો (Angle) તેની સાથે Cosine (Cos), અને બીજો સાઈન (Sin). ખૂણો અડે તો Cos નડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દ્વિ-પરિમાણમાં સ્થાનાંતર અને વેગ સદિશની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થાન સદિશ r = x î + y ĵ. સ્થાનાંતર Δr = Δx î + Δy ĵ. સરેરાશ વેગ V = Δr / Δt. તાત્કાલિક વેગ v = dr/dt = (dx/dt)î + (dy/dt)ĵ = vx î + vy ĵ. વેગની દિશા ગતિપથના તે બિંદુએ દોરેલા સ્પર્શકની દિશામાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગ એટલે સ્થાનનું સમય સાપેક્ષ વિકલન. 'દરેક બિંદુએ સ્પર્શક, વેગનો છે સાચો માર્ગદર્શક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દ્વિ-પરિમાણમાં પ્રવેગ સદિશ સમજાવો અને તેના ઘટકો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ પ્રવેગ a = Δv / Δt. તાત્કાલિક પ્રવેગ a = dv/dt = d²r/dt². ઘટકો સ્વરૂપે: a = ax î + ay ĵ, જ્યાં ax = dvx/dt અને ay = dvy/dt. પ્રવેગ વેગના મૂલ્યમાં ફેરફાર અથવા દિશામાં ફેરફાર અથવા બંનેને કારણે હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગ બદલાય તો પ્રવેગ જન્મે. 'વેગનું વિકલન = પ્રવેગનું આગમન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અચળ પ્રવેગી ગતિ માટે સમતલમાં ગતિના સમીકરણો સદિશ સ્વરૂપે મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) v = v₀ + at (2) r = r₀ + v₀t + ½at² (3) v² - v₀² = 2a(r-r₀). આ સમીકરણો x અને y ઘટકો માટે અલગ-અલગ વાપરી શકાય છે. જેમ કે: x = x₀ + v₀xt + ½axt² અને y = y₀ + v₀yt + ½ayt².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1D ના સમીકરણો જ છે, બસ x અને y માં બે વાર લગાવો. 'Double the axis, same the practice!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાપેક્ષ વેગ એટલે શું? દ્વિ-પરિમાણમાં સાપેક્ષ વેગ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પદાર્થની સાપેક્ષે બીજા પદાર્થના વેગને સાપેક્ષ વેગ કહે છે. પદાર્થ A નો B ની સાપેક્ષે વેગ vAB = vA - vB. સમતલમાં આ બાદબાકી સદિશ સ્વરૂપે થાય છે. ઉદાહરણ તરીકે: વરસાદમાં છત્રી કઈ દિશામાં રાખવી તે સાપેક્ષ વેગ પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'A સાપેક્ષ B' એટલે A માંથી B બાદ કરો. સાપેક્ષ વેગ = પોતાનો વેગ - સામેવાળાનો વેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રક્ષિપ્ત ગતિ (Projectile Motion) એટલે શું? પ્રક્ષિપ્ત પદાર્થના ગતિપથનું સમીકરણ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થને પૃથ્વીના ગુરુત્વાકર્ષણ હેઠળ સમક્ષિતિજ સાથે કોઈ ખૂણે ફેંકવામાં આવે ત્યારે તેને પ્રક્ષિપ્ત ગતિ કહે છે. x = (v₀ cosθ)t અને y = (v₀ sinθ)t - ½gt². t ની કિંમત મૂકતા: y = (tanθ)x - [g / (2v₀² cos²θ)]x². આ સમીકરણ પરવલય (Parabola) દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગતિપથ એટલે 'y વિરુદ્ધ x'. આમાં x નો વર્ગ આવે એટલે તે 'પરવલય' (Parabola) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રક્ષિપ્ત પદાર્થ માટે મહત્તમ ઊંચાઈએ પહોંચવા માટે લાગતા સમય (tm) અને કુલ ઉડ્ડયન સમય (Tf) ના સૂત્રો મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ ઊંચાઈએ vy = 0. તેથી 0 = v₀ sinθ - gtm => tm = (v₀ sinθ) / g. કુલ ઉડ્ડયન સમય Tf = 2tm = (2v₀ sinθ) / g.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઉપર જવાનો સમય = નીચે આવવાનો સમય'. એકવાર (v₀ sinθ)/g શોધો અને ડબલ કરી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રક્ષિપ્ત પદાર્થ દ્વારા પ્રાપ્ત થતી 'મહત્તમ ઊંચાઈ' (H) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ ઊંચાઈ H મેળવવા માટે y-દિશાના સમીકરણમાં t = tm મૂકતા: H = (v₀ sinθ)² / 2g. અથવા H = v₀² sin²θ / 2g.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'H' માટે Sin² અને છેદમાં 2g. યાદ રાખો: 'ઊંચાઈએ જવું હોય તો વર્ગ કરવો પડે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રક્ષિપ્ત પદાર્થની 'સમક્ષિતિજ અવધિ' (Range - R) નું સૂત્ર મેળવો અને મહત્તમ અવધિની શરત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવધિ R = સમક્ષિતિજ વેગ × કુલ સમય = (v₀ cosθ) × (2v₀ sinθ / g) = v₀² (2 sinθ cosθ) / g = (v₀² sin 2θ) / g. મહત્તમ અવધિ માટે sin 2θ = 1, એટલે કે 2θ = 90° અથવા θ = 45°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો લાંબો ઘા (Max Range) કરવો હોય, તો 45 ડિગ્રીએ જ ફેંકવું પડે. ક્રિકેટમાં સિક્સર મારવા માટે આ બેસ્ટ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાબિત કરો કે પ્રક્ષિપ્ત પદાર્થ માટે (45° + α) અને (45° - α) ખૂણે ફેંકતા અવધિ સમાન મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવધિનું સૂત્ર R = (v₀² sin 2θ) / g છે. જો θ₁ = 45 + α અને θ₂ = 45 - α લઈએ, તો 2θ₁ = 90 + 2α અને 2θ₂ = 90 - 2α. sin(90 + 2α) = cos 2α અને sin(90 - 2α) = cos 2α. બંને કિસ્સામાં અવધિ સમાન મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો બે ખૂણાનો સરવાળો 90° થાય (કોટિકોણ), તો અવધિ હંમેશા સમાન જ રહે. 30° અને 60° પર રેન્જ સરખી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નિયમિત વર્તુળમય ગતિ (Uniform Circular Motion) એટલે શું? કોણીય વેગ અને રેખીય વેગ વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ અચળ ઝડપે વર્તુળાકાર પથ પર ગતિ કરે, ત્યારે તેને નિયમિત વર્તુળમય ગતિ કહે છે. કોણીય વેગ ω = dθ/dt. રેખીય વેગ v = ds/dt. ચાપ s = rθ હોવાથી, ds/dt = r(dθ/dt) => v = rω.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'V = rω'. ત્રિજ્યા (r) ને કોણીય વેગ (ω) થી ગુણો એટલે રેખીય વેગ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કેન્દ્રગામી પ્રવેગ (Centripetal Acceleration) એટલે શું? તેનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તુળમય ગતિમાં વેગની દિશા સતત બદલાતી હોવાથી ઉદ્ભવતા પ્રવેગને કેન્દ્રગામી પ્રવેગ કહે છે. તેની દિશા હંમેશા કેન્દ્ર તરફ હોય છે. ac = v² / r. v = rω મૂકતા, ac = (rω)² / r = ω²r.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'કેન્દ્ર તરફ ખેંચાણ, એટલે કેન્દ્રગામી પ્રવેગનું પ્રમાણ'. ac = v²/r અથવા ω²r.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નિયમિત વર્તુળમય ગતિમાં આવર્તકાળ (T) અને આવૃત્તિ (f) સમજાવી તેમનો કેન્દ્રગામી પ્રવેગ સાથેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક ચક્ર પૂર્ણ કરવા લાગતા સમયને આવર્તકાળ T કહે છે. એક સેકન્ડમાં થતા પરિભ્રમણને આવૃત્તિ f = 1/T કહે છે. ω = 2π/T = 2πf. કેન્દ્રગામી પ્રવેગ ac = ω²r = (2πf)²r = 4π²f²r.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'એક ફેરો એટલે 2π રેડિયન'. ω = 2πf યાદ રાખો, બાકી બધું આવડી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સમતલમાં ગતિ કરતા કણ માટે વેગ અને પ્રવેગ વચ્ચેનો ખૂણો કઈ રીતે બદલાય છે તે પ્રક્ષિપ્ત ગતિના ઉદાહરણથી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રક્ષિપ્ત ગતિમાં પ્રવેગ g હંમેશા નીચે તરફ (ઋણ y-અક્ષ) હોય છે. શરૂઆતમાં વેગ ઉપર તરફ હોવાથી ખૂણો લઘુકોણ હોય છે. મહત્તમ ઊંચાઈએ વેગ માત્ર સમક્ષિતિજ હોય છે, તેથી ખૂણો 90° બને છે. નીચે આવતી વખતે ખૂણો ગુરુકોણ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટોચ પર (Max Height) હંમેશા વેગ અને પ્રવેગ વચ્ચે 90 ડિગ્રીનો 'સેટિંગ' હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એકમ સદિશ એટલે શું? î, ĵ અને k̂ ની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સદિશનું મૂલ્ય 1 હોય તેને એકમ સદિશ કહે છે. તે માત્ર દિશા દર્શાવે છે. x, y અને z અક્ષોની દિશામાં એકમ સદિશો અનુક્રમે î, ĵ અને k̂ છે. કોઈપણ સદિશ A = A.n̂ જ્યાં n̂ એ એકમ સદિશ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'એકમ સદિશ = સદિશ / તેનું મૂલ્ય'. આ ભૌતિકવિજ્ઞાનનો હોકાયંત્ર (Compass) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સદિશોના સરવાળા માટેનો ક્રમનો અને જૂથનો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) ક્રમનો નિયમ: A + B = B + A. સદિશોને ગમે તે ક્રમમાં ઉમેરો, પરિણામ બદલાતું નથી. (2) જૂથનો નિયમ: (A + B) + C = A + (B + C). ત્રણ સદિશોના સરવાળામાં ગમે તે બેનું જૂથ બનાવી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સદિશ સરવાળો એ સાદા સરવાળા જેવો જ ઉદાર છે, ક્રમ કે જૂથથી તેને કોઈ ફર્ક પડતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમતલમાં ગતિ કરતા કણના વેગના માન (Magnitude) અને દિશા માટેના વ્યાપક સૂત્રો તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો વેગ v = vx î + vy ĵ હોય, તો તેનું માન |v| = √(vx² + vy²) થાય. તેની દિશા x-અક્ષ સાથે θ ખૂણો બનાવતી હોય, તો tan θ = vy / vx. આ પરથી θ = tan⁻¹(vy / vx) દ્વારા દિશા જાણી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૂલ્ય માટે પાયથાગોરસ અને દિશા માટે ટેન્જન્ટ (Tan). 'ઉભો ઘટક / આડો ઘટક = Tan થી દિશા ફટક!'</p></div>"
+    }
+  ]
+}

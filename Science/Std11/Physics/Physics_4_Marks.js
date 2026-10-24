@@ -553,3 +553,111 @@ var Std11_Physics_4_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "કણોનાં તંત્રો અને ચાકગતિ",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બે કણોના બનેલા તંત્ર માટે દ્રવ્યમાન કેન્દ્ર (Center of Mass) નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે બે કણોના દળ m₁ અને m₂ છે, જે ઉગમબિંદુથી x₁ અને x₂ અંતરે આવેલા છે. આ તંત્રનું દ્રવ્યમાન કેન્દ્ર X એવી રીતે વ્યાખ્યાયિત થાય છે કે: <br>X = (m₁x₁ + m₂x₂) / (m₁ + m₂)<br>જો બંને કણોના દળ સમાન હોય (m₁ = m₂ = m), તો X = (x₁ + x₂) / 2, જે દર્શાવે છે કે દ્રવ્યમાન કેન્દ્ર બરાબર મધ્યમાં હશે. જો તંત્ર ત્રિ-પરિમાણમાં હોય, તો તેના યામ R = (m₁r₁ + m₂r₂) / M (જ્યાં M = m₁ + m₂) વડે અપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'દળ ગુણ્યા અંતરનો સરવાળો, છેદમાં કુલ દળનો ફાળો'. એટલે કે m અને x ના ગુણાકારનો સરવાળો કરી કુલ દળ વડે ભાગી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "n-કણોના બનેલા તંત્ર માટે દ્રવ્યમાન કેન્દ્રના વેગ અને પ્રવેગના સૂત્રો તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> n-કણોના તંત્ર માટે સ્થાન વેક્ટર R = Σmᵢrᵢ / M છે. <br>1. વેગ માટે: R નું સમય t સાપેક્ષે વિકલન કરતા, V = dR/dt = Σmᵢvᵢ / M મળે. એટલે કે MV = m₁v₁ + m₂v₂ + ... + mₙvₙ.<br>2. પ્રવેગ માટે: V નું ફરીથી વિકલન કરતા, A = dV/dt = Σmᵢaᵢ / M મળે. એટલે કે MA = m₁a₁ + m₂a₂ + ... + mₙaₙ.<br>અહીં MA = F_ext (બાહ્ય બળ) થાય છે, કારણ કે આંતરિક બળો એકબીજાની અસર નાબૂદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: વેગ માટે 'વેગમાનનો સરવાળો / કુલ દળ' અને પ્રવેગ માટે 'બળનો સરવાળો / કુલ દળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બે સદિશોના સદિશ ગુણાકાર (Vector Product) ના ગુણધર્મો સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે સદિશો A અને B નો સદિશ ગુણાકાર C = A × B = AB sinθ n̂ છે.<br>ગુણધર્મો:<br>1. તે ક્રમના નિયમનું પાલન કરતું નથી: A × B = -(B × A).<br>2. વિભાજનના નિયમનું પાલન કરે છે: A × (B + C) = A × B + A × C.<br>3. બે સમાંતર સદિશો માટે (θ=0), A × B = 0.<br>4. લંબ સદિશો માટે (θ=90), મૂલ્ય મહત્તમ (AB) હોય છે.<br>5. એકમ સદિશો માટે: î × î = 0, î × ĵ = k̂, ĵ × k̂ = î, k̂ × î = ĵ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'ચક્ર યાદ રાખો' -> i → j → k. જો દિશામાં જાઓ તો ધન (+), ઉલ્ટી દિશામાં જાઓ તો ઋણ (-). સમાન હોય તો શૂન્ય (0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોણીય વેગ અને રેખીય વેગ વચ્ચેનો સંબંધ v = ω × r તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાકગતિ કરતા કણ માટે રેખીય સ્થાનાંતર Δr = Δθ × r થાય. બંને બાજુ Δt વડે ભાગતા: Δr/Δt = (Δθ/Δt) × r. <br>લિમિટ Δt → 0 લેતા, dr/dt = ω × r મળે. <br>તેથી, v = ω × r. <br>અહીં v એ રેખીય વેગ છે, ω એ કોણીય વેગ છે અને r એ સ્થાન સદિશ છે. સદિશ v ની દિશા હંમેશા વર્તુળના સ્પર્શકની દિશામાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'વોર' (V-O-R) યાદ રાખો. V = Omega cross R. જે ક્રમમાં બોલાય છે તે જ ક્રમમાં સદિશ ગુણાકાર થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ટોર્ક (બળની ચાકમાત્રા) ની વ્યાખ્યા આપી તેનું કાર્તેઝિયન યામ પદ્ધતિમાં સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ બિંદુની સાપેક્ષે બળની ફેરવવાની ક્ષમતાને ટોર્ક (τ) કહે છે. τ = r × F.<br>કાર્તેઝિયન યામોમાં: <br>r = xî + yĵ + zk̂ અને F = Fₓî + Fᵧĵ + F₂k̂.<br>નિશ્ચાયકની રીતે ઉકેલતા: <br>τₓ = yF₂ - zFᵧ <br>τᵧ = zFₓ - xF₂ <br>τ₂ = xFᵧ - yFₓ <br>ટોર્કનો એકમ Newton-meter (Nm) છે અને તેનું પારિમાણિક સૂત્ર [M¹L²T⁻²] છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'XYZ સાયકલ' - જો x શોધવો હોય તો y અને z નો ઉપયોગ કરો (yFz - zFy). ક્રમ જાળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કોણીય વેગમાનની વ્યાખ્યા આપી તેના ફેરફારનો દર અને ટોર્ક વચ્ચેનો સંબંધ (dL/dt = τ) મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેખીય વેગમાનની ચાકમાત્રાને કોણીય વેગમાન (L) કહે છે. L = r × p. <br>સમય t સાપેક્ષે વિકલન કરતા: dL/dt = d(r × p)/dt = (dr/dt × p) + (r × dp/dt). <br>પરંતુ dr/dt = v અને p = mv, તેથી v × mv = 0 (સમાંતર સદિશ). <br>વધુમાં dp/dt = F (ન્યુટનનો બીજો નિયમ), તેથી dL/dt = r × F. <br>પરંતુ r × F = τ, તેથી dL/dt = τ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: જે રીતે F = dp/dt (રેખીય) છે, તે જ રીતે τ = dL/dt (ચાકગતિ) છે. બળની જગ્યાએ ટોર્ક અને રેખીય વેગમાનની જગ્યાએ કોણીય વેગમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દ્રઢ પદાર્થ માટે સંતુલનની શરતો સવિસ્તાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રઢ પદાર્થ સંપૂર્ણ સંતુલનમાં હોવા માટે બે શરતો જરૂરી છે:<br>1. રેખીય સંતુલન (Translational Equilibrium): પદાર્થ પર લાગતા કુલ બાહ્ય બળોનો સરવાળો શૂન્ય હોવો જોઈએ. ΣF_ext = 0. આનાથી રેખીય વેગ અચળ રહે છે.<br>2. ચાકગતિ સંતુલન (Rotational Equilibrium): પદાર્થ પર લાગતા કુલ બાહ્ય ટોર્કનો સરવાળો કોઈ પણ બિંદુની સાપેક્ષે શૂન્ય હોવો જોઈએ. Στ_ext = 0. આનાથી કોણીય વેગ અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: સંતુલન એટલે 'નો ધક્કો (F=0), નો ફેરફાર (τ=0)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉત્તોલનનો સિદ્ધાંત (Principle of Moments) અને યાંત્રિક લાભ (Mechanical Advantage) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક હળવા સળિયાને આધાર (Fulcrum) પર ટેકવેલો હોય ત્યારે, સંતુલન માટે: <br>ભાર (Load) × ભાર ભુજા = પ્રયત્નબળ (Effort) × પ્રયત્ન ભુજા.<br>F₁d₁ = F₂d₂. <br>યાંત્રિક લાભ (MA) = ભાર / પ્રયત્નબળ = d₂ / d₁.<br>જો પ્રયત્ન ભુજા (d₂) મોટી હોય, તો ઓછા બળથી વધુ ભાર ઉઠાવી શકાય છે (MA > 1).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: ચીંચવો (Seesaw) યાદ કરો. ભારે વ્યક્તિને ઉંચકવા માટે તમારે આધારથી દૂર બેસવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જડત્વની ચાકમાત્રા (Moment of Inertia) એટલે શું? તેના પર અસર કરતા પરિબળો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થના પરિભ્રમણના વિરોધ કરવાના ગુણધર્મને જડત્વની ચાકમાત્રા (I) કહે છે. I = Σmᵢrᵢ². <br>પરિબળો:<br>1. પદાર્થનું કુલ દળ.<br>2. પદાર્થનો આકાર અને પરિમાણ.<br>3. ભ્રમણ અક્ષની સાપેક્ષે દળની વહેંચણી.<br>4. ભ્રમણ અક્ષનું સ્થાન અને નમન.<br>તેનો એકમ kg·m² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: રેખીય ગતિમાં જે કામ 'દળ' (m) કરે છે, ચાકગતિમાં એ જ કામ 'જડત્વની ચાકમાત્રા' (I) કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચાકગતિ ઉર્જાનું સૂત્ર K = 1/2 Iω² તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારો કે દ્રઢ પદાર્થ ω કોણીય વેગથી ભ્રમણ કરે છે. i-માં કણની ગતિ ઉર્જા Kᵢ = 1/2 mᵢvᵢ² છે. <br>પરંતુ vᵢ = rᵢω, તેથી Kᵢ = 1/2 mᵢ(rᵢω)² = 1/2 mᵢrᵢ²ω². <br>કુલ ગતિ ઉર્જા K = Σ Kᵢ = Σ (1/2 mᵢrᵢ²ω²). <br>અચળ ω² બહાર લેતા, K = 1/2 (Σ mᵢrᵢ²) ω². <br>પરંતુ Σ mᵢrᵢ² = I (જડત્વની ચાકમાત્રા), તેથી K = 1/2 Iω².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: રેખીય ગતિ ઉર્જા (1/2 mv²) માં m → I અને v → ω મૂકી દો, સૂત્ર તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લંબ અક્ષોના પ્રમેય (Perpendicular Axis Theorem) નું વિધાન લખી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પ્રમેય સમતલીય પદાર્થો (જેમ કે તકતી) માટે લાગુ પડે છે. <br>વિધાન: 'કોઈ સમતલીય પદાર્થના તેના સમતલને લંબ એવી અક્ષ (z-અક્ષ) ને અનુલક્ષીને જડત્વની ચાકમાત્રા, તેના સમતલમાં રહેલી અને પરસ્પર લંબ એવી બે અક્ષો (x અને y) ને અનુલક્ષીને જડત્વની ચાકમાત્રાના સરવાળા જેટલી હોય છે.' <br>સૂત્ર: I₂ = Iₓ + Iᵧ. <br>શરત: ત્રણેય અક્ષો એક જ બિંદુમાંથી પસાર થવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'સૂતેલી બે અક્ષનો સરવાળો = ઉભી અક્ષ'. (x, y સમતલમાં છે, z લંબ છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાંતર અક્ષોના પ્રમેય (Parallel Axis Theorem) નું વિધાન લખી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાન: 'કોઈપણ અક્ષને અનુલક્ષીને પદાર્થની જડત્વની ચાકમાત્રા (I), તેના દ્રવ્યમાન કેન્દ્રમાંથી પસાર થતી સમાંતર અક્ષને અનુલક્ષીને જડત્વની ચાકમાત્રા (Icm) અને પદાર્થના કુલ દળ (M) તથા બે અક્ષો વચ્ચેના લંબ અંતરના વર્ગ (d²) ના ગુણાકારના સરવાળા જેટલી હોય છે.' <br>સૂત્ર: I = Icm + Md². <br>આ પ્રમેય કોઈપણ આકારના પદાર્થ માટે વાપરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'નવી I = જૂની I (center વાળી) + Md²'. હંમેશા દ્રવ્યમાન કેન્દ્ર વાળી અક્ષને જ પાયામાં લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કોણીય વેગમાનના સંરક્ષણનો નિયમ ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમ: જો તંત્ર પર લાગતું કુલ બાહ્ય ટોર્ક શૂન્ય હોય, તો તંત્રનું કુલ કોણીય વેગમાન (L) અચળ રહે છે. <br>τ = dL/dt. જો τ = 0, તો dL/dt = 0, એટલે કે L = Iω = અચળ. <br>ઉદાહરણ: <br>1. બેલે ડાન્સર: જ્યારે તે હાથ નજીક લાવે છે, ત્યારે I ઘટે છે અને ω વધે છે, જેથી તે ઝડપથી ફરી શકે છે. <br>2. સૂર્યની આસપાસ ગ્રહોની ગતિ: જ્યારે ગ્રહ સૂર્યની નજીક હોય ત્યારે વેગ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'I ઘટે તો ω વધે' (I ∝ 1/ω). ડાન્સરની જેમ હાથ સંકોચો એટલે સ્પીડ ફૂલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દ્રઢ પદાર્થની ચાકગતિ માટે કાર્ય અને પાવરના સૂત્રો મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. કાર્ય (Work): રેખીય ગતિમાં dW = F dx. ચાકગતિમાં બળ F ને બદલે ટોર્ક τ અને સ્થાનાંતર dx ને બદલે dθ લેતા: dW = τ dθ. કુલ કાર્ય W = ∫ τ dθ.<br>2. પાવર (Power): પાવર P = dW/dt = τ (dθ/dt). <br>પરંતુ dθ/dt = ω (કોણીય વેગ), તેથી P = τω. <br>આ સૂત્ર રેખીય ગતિના P = Fv ને સમતુલ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: રેખીયમાં P = 'બળ × વેગ', ચાકગતિમાં P = 'ટોર્ક × કોણીય વેગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લોટણ ગતિ (Rolling Motion) એટલે શું? તેની કુલ ગતિ ઉર્જાનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ (જેમ કે પૈડું) સરક્યા વગર ગતિ કરે છે, ત્યારે તે રેખીય સ્થાનાંતર અને ચાકગતિ બંને એકસાથે કરે છે, જેને લોટણ ગતિ કહે છે. <br>કુલ ગતિ ઉર્જા K = K_trans + K_rot <br>K = 1/2 mv² + 1/2 Iω² <br>I = mk² (જ્યાં k ચક્રાવર્તન ત્રિજ્યા છે) અને ω = v/R મૂકતા: <br>K = 1/2 mv² [1 + k²/R²]. <br>અહીં v એ દ્રવ્યમાન કેન્દ્રનો વેગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: લોટણ ગતિ એટલે 'સરકવું + ફરવું'. કૌંસમાં હંમેશા (1 + k²/R²) વાળું પદ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચક્રાવર્તન ત્રિજ્યા (Radius of Gyration) ની વ્યાખ્યા આપી સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભ્રમણ અક્ષથી એવું લંબ અંતર કે જેના વર્ગનો પદાર્થના કુલ દળ સાથેનો ગુણાકાર પદાર્થની તે અક્ષને અનુલક્ષીને જડત્વની ચાકમાત્રા જેટલો થાય, તેને ચક્રાવર્તન ત્રિજ્યા (k) કહે છે. <br>I = Mk² → k = √(I/M). <br>તે પદાર્થના દળની વહેંચણી પર આધારિત છે. <br>ઉદાહરણ: પાતળી રીંગ માટે I = MR², તેથી k = R. તકતી માટે I = 1/2 MR², તેથી k = R/√2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'I માંથી M કાઢી નાખો અને જે વધે તેનું વર્ગમૂળ કાઢો', એટલે મળી ગઈ k.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઢાળવાળા સમતલ પરથી સરક્યા વિના ગબડતા પદાર્થના પ્રવેગનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> θ કોણવાળા ઢાળ પરથી ગબડતા પદાર્થ પર લાગતું બળ mg sinθ છે. <br>ઉર્જા સંરક્ષણ અથવા બળના સમીકરણો પરથી પ્રવેગ a = (g sinθ) / (1 + I/MR²) અથવા a = (g sinθ) / (1 + k²/R²). <br>આ સૂત્ર દર્શાવે છે કે જે પદાર્થની ચક્રાવર્તન ત્રિજ્યા (k) વધુ હશે, તેનો પ્રવેગ ઓછો હશે અને તે મોડો નીચે પહોંચશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: 'નીચે આવતા ઢીલા પડે' - છેદમાં (1 + k²/R²) હોવાથી પ્રવેગ હંમેશા g sinθ કરતા ઓછો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચાકગતિના શુદ્ધ ગતિવિજ્ઞાનના સમીકરણો રેખીય ગતિ સાથે સરખાવીને લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ કોણીય પ્રવેગ α માટે:<br>1. ω = ω₀ + αt (રેખીય: v = v₀ + at)<br>2. θ = ω₀t + 1/2 αt² (રેખીય: d = v₀t + 1/2 at²)<br>3. ω² - ω₀² = 2αθ (રેખીય: v² - v₀² = 2ad)<br>જ્યાં ω₀ = પ્રારંભિક કોણીય વેગ, ω = અંતિમ કોણીય વેગ, θ = કોણીય સ્થાનાંતર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: માત્ર સિમ્બોલ બદલો: v→ω, a→α, d→θ, m→I. ફિઝિક્સના નિયમો તો એ જ રહેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટોર્ક અને કોણીય પ્રવેગ વચ્ચેનો સંબંધ τ = Iα તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે જાણીએ છીએ કે L = Iω. <br>સમય સાપેક્ષે વિકલન કરતા: dL/dt = d(Iω)/dt. <br>દ્રઢ પદાર્થ માટે I અચળ હોવાથી, dL/dt = I (dω/dt). <br>પરંતુ dL/dt = τ (ટોર્ક) અને dω/dt = α (કોણીય પ્રવેગ). <br>તેથી, τ = Iα. <br>આ સમીકરણ ન્યુટનના બીજા નિયમ F = ma નું ચાકગતિ સ્વરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: F=ma માં F ની જગ્યાએ τ, m ની જગ્યાએ I, અને a ની જગ્યાએ α મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બળયુગ્મ (Couple) એટલે શું? તેના દ્વારા ઉદ્ભવતા ટોર્કનું સૂત્ર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ પર સમાન મૂલ્યના અને પરસ્પર વિરુદ્ધ દિશામાં હોય તેવા બે બળો એક જ રેખા પર ન લાગે (Non-collinear), ત્યારે તે 'બળયુગ્મ' રચે છે. <br>બળયુગ્મનું ટોર્ક = કોઈપણ એક બળનું મૂલ્ય × બે બળો વચ્ચેનું લંબ અંતર (Couple arm). <br>τ = F × d. <br>બળયુગ્મ પદાર્થમાં માત્ર ચાકગતિ ઉત્પન્ન કરે છે, રેખીય ગતિ નહીં (કારણ કે કુલ બળ શૂન્ય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Trick: કારનું સ્ટીયરીંગ ફેરવવું એ બળયુગ્મનું બેસ્ટ ઉદાહરણ છે. બે હાથથી વિરુદ્ધ દિશામાં બળ લગાવાય છે.</p></div>"
+    }
+  ]
+}

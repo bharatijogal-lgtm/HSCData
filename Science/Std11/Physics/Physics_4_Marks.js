@@ -661,3 +661,111 @@ var Std11_Physics_4_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ગુરુત્વાકર્ષણ",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કેપ્લરના ગ્રહોની ગતિના ત્રણ નિયમો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1. <strong>કક્ષાઓનો નિયમ:</strong> બધા જ ગ્રહો એવી લંબવૃત્તીય કક્ષામાં ભ્રમણ કરે છે જેના એક કેન્દ્ર (focus) પર સૂર્ય રહેલો હોય.<br>2. <strong>ક્ષેત્રફળનો નિયમ:</strong> ગ્રહને સૂર્ય સાથે જોડતી રેખા સમાન સમયગાળામાં સમાન ક્ષેત્રફળ આંતરે છે. એટલે કે ગ્રહની ક્ષેત્રીય ઝડપ અચળ રહે છે (કોણીય વેગમાનના સંરક્ષણનો નિયમ).<br>3. <strong>આવર્તકાળનો નિયમ:</strong> ગ્રહના પરિભ્રમણના સમયગાળાનો વર્ગ (T²) તેની અર્ધ-દીર્ધ અક્ષ (a) ના ઘનના સમપ્રમાણમાં હોય છે. (T² ∝ a³)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કક્ષ-ક્ષેત્ર-કાળ' - પેલો કક્ષાનો, બીજો ક્ષેત્રફળનો અને ત્રીજો આવર્તકાળનો. T² ∝ a³ યાદ રાખવા માટે 'બે-ત્રણ' ની જોડી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ન્યુટનનો ગુરુત્વાકર્ષણનો સાર્વત્રિક નિયમ સમજાવી તેનું ગાણિતિક સ્વરૂપ આપો અને G નું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્રહ્માંડનો દરેક કણ બીજા કણ પર આકર્ષણ બળ લગાડે છે. આ બળ:<br>1. બંને દળોના ગુણાકારના સમપ્રમાણમાં (F ∝ m₁m₂)<br>2. તેમની વચ્ચેના અંતરના વર્ગના વ્યસ્ત પ્રમાણમાં હોય છે (F ∝ 1/r²).<br>સૂત્ર: F = G (m₁m₂ / r²)<br>જ્યાં G = સાર્વત્રિક ગુરુત્વાકર્ષણ અચળાંક છે. G = 6.67 × 10⁻¹¹ N m²/kg².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકાર ઉપર, વર્ગ નીચે! G નું મૂલ્ય યાદ રાખવા 6.67 યાદ રાખો, જે 'બે છગડા અને સાતડો' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પૃથ્વીની સપાટીથી h ઊંચાઈએ જવા પર ગુરુત્વપ્રવેગ g માં થતો ફેરફાર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પર g = GM/R² છે. સપાટીથી h ઊંચાઈએ g(h) = GM / (R+h)². <br>જો h << R હોય, તો દ્વિપદી પ્રમેય વાપરતા: <br>g(h) = g [1 - (2h/R)].<br>આમ, જેમ ઊંચાઈ વધે તેમ ગુરુત્વપ્રવેગ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈએ જાવ તો 'બમણું' ઘટે (2h/R). ઊંચાઈ વધે તો g ઘટે - લિફ્ટ ઉપર જાય તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પૃથ્વીની સપાટીથી d ઊંડાઈએ જવા પર ગુરુત્વપ્રવેગ g માં થતો ફેરફાર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> d ઊંડાઈએ પૃથ્વીનું અસરકારક દળ ઘટે છે. <br>સૂત્ર: g(d) = g [1 - (d/R)].<br>જ્યાં d એ સપાટીથી ઊંડાઈ છે. પૃથ્વીના કેન્દ્ર પર d = R હોવાથી g = 0 થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંડાઈમાં માત્ર 'd/R' (એકગણું) ઘટે, જ્યારે ઊંચાઈમાં 2h/R (બમણું) ઘટતું હતું. કેન્દ્રમાં શૂન્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુરુત્વીય સ્થિતિઊર્જાની વ્યાખ્યા આપી તેનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનંત અંતરેથી કોઈ પદાર્થને ગુરુત્વાકર્ષી ક્ષેત્રના આપેલા બિંદુ સુધી લાવવા માટે કરવા પડતા કાર્યને તે બિંદુએ ગુરુત્વીય સ્થિતિઊર્જા કહે છે.<br>સૂત્ર: U = -G M m / r<br>ઋણ નિશાની દર્શાવે છે કે બળ આકર્ષી પ્રકારનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિતિઊર્જા એટલે 'માઈનસ' G-M-m છેદમાં r (અંતરનો વર્ગ નહીં!). આકર્ષણ છે એટલે ઋણ (Negative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નિષ્ક્રમણ ઝડપ (Escape Speed) એટલે શું? પૃથ્વી માટે તેનું સૂત્ર અને મૂલ્ય મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે લઘુત્તમ ઝડપથી પદાર્થને ફેંકતા તે પૃથ્વીના ગુરુત્વાકર્ષી ક્ષેત્રમાંથી કાયમ માટે બહાર નીકળી જાય તેને નિષ્ક્રમણ ઝડપ (vₑ) કહે છે.<br>સૂત્ર: vₑ = √(2GM/R) અથવા vₑ = √(2gR).<br>પૃથ્વી માટે તેનું મૂલ્ય 11.2 km/s છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાર સાડા અગિયાર' - એટલે કે 11.2. યાદ રાખો રૂટમાં 2gR.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પૃથ્વીના ઉપગ્રહ માટે કક્ષીય ઝડપ (v₀) નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપગ્રહને વર્તુળાકાર કક્ષામાં રાખવા માટે જરૂરી કેન્દ્રગામી બળ ગુરુત્વાકર્ષણ બળ પૂરું પાડે છે.<br>mv₀² / (R+h) = G M m / (R+h)²<br>v₀ = √[GM / (R+h)].<br>જો ઉપગ્રહ સપાટીની નજીક હોય તો v₀ = √(gR) ≈ 7.9 km/s.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષ્ક્રમણ ઝડપમાં √2 છે, કક્ષીય ઝડપમાં નથી. vₑ = √2 v₀.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉપગ્રહના આવર્તકાળનું સૂત્ર તારવો અને સાબિત કરો કે T² ∝ r³.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવર્તકાળ T = પરિઘ / કક્ષીય ઝડપ = 2πr / v₀.<br>v₀ = √(GM/r) મુકતા: T = 2πr / √(GM/r) = 2π √(r³/GM).<br>બંને બાજુ વર્ગ કરતા: T² = (4π²/GM) r³.<br>આમ, T² ∝ r³ સાબિત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: T² અને r³ નો પ્રેમ સંબંધ! અચળાંક છે 4π²/GM.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કક્ષામાં ભ્રમણ કરતા ઉપગ્રહની કુલ ઊર્જાનું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિઊર્જા K = ½ mv₀² = G M m / 2r.<br>સ્થિતિઊર્જા U = -G M m / r.<br>કુલ ઊર્જા E = K + U = (G M m / 2r) - (G M m / r) = -G M m / 2r.<br>કુલ ઊર્જા ઋણ હોવી એ દર્શાવે છે કે ઉપગ્રહ પૃથ્વી સાથે બંધિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K = |E| અને U = 2E. સ્થિતિઊર્જા હંમેશા કુલ ઊર્જા કરતા બમણી અને ગતિઊર્જા ધન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભૂ-સ્થિર ઉપગ્રહ (Geostationary Satellite) વિશે ટૂંકનોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ઉપગ્રહનો આવર્તકાળ પૃથ્વીના પરિભ્રમણ જેટલો (24 કલાક) હોય તેને ભૂ-સ્થિર ઉપગ્રહ કહે છે.<br>1. તે પૃથ્વીની સપાટીથી આશરે 35,800 km ઊંચાઈએ હોય છે.<br>2. પૃથ્વી પરથી જોતા તે સ્થિર દેખાય છે.<br>3. તેનો ઉપયોગ ટેલિકોમ્યુનિકેશન અને ટીવી પ્રસારણ માટે થાય છે (દા.ત. INSAT શ્રેણી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સેમ ટુ સેમ' - પૃથ્વી ફરે તેમ જ ફરે એટલે સ્થિર દેખાય. 24 કલાક યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ધ્રુવીય ઉપગ્રહ (Polar Satellite) એટલે શું? તેના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ઉપગ્રહ ઉત્તર-દક્ષિણ ધ્રુવો પરથી પસાર થતી કક્ષામાં ભ્રમણ કરે છે તેને ધ્રુવીય ઉપગ્રહ કહે છે.<br>1. તે પૃથ્વીની નજીક (500-800 km ઊંચાઈએ) હોય છે.<br>2. તેનો આવર્તકાળ 100 મિનિટ જેવો ઓછો હોય છે.<br>3. ઉપયોગ: રિમોટ સેન્સિંગ, હવામાનની આગાહી અને જાસૂસી માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુવીય = ઉત્તર-દક્ષિણ. નજીક છે એટલે ફોટા સ્પષ્ટ પાડે (Remote Sensing).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વજનરહિતતા (Weightlessness) ની અવસ્થા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પદાર્થ મુક્ત પતન કરતો હોય અથવા પૃથ્વીની આસપાસ ઉપગ્રહમાં હોય, ત્યારે સપાટી દ્વારા લાગતું લંબબળ (Reaction Force) શૂન્ય થઈ જાય છે. આ સ્થિતિમાં પદાર્થને પોતાનું વજન અનુભવાતું નથી, જેને વજનરહિતતા કહે છે. ઉપગ્રહમાં પ્રવેગ g જેટલો જ હોવાથી આભાસી વજન શૂન્ય થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબબળ N = 0 તો વજન 0. લિફ્ટનો તાર તૂટે તેવી હાલત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગુરુત્વીય સ્થિતિમાન (Gravitational Potential) ની વ્યાખ્યા આપી બિંદુવત દળ માટે તેનું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકમ દળના પદાર્થને અનંત અંતરેથી ગુરુત્વાકર્ષી ક્ષેત્રના કોઈ બિંદુએ લાવવા માટે કરવા પડતા કાર્યને તે બિંદુનું ગુરુત્વીય સ્થિતિમાન V કહે છે.<br>V = W / m = -G M / r.<br>તે અદિશ રાશિ છે અને તેનો એકમ J/kg છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થિતિઊર્જામાંથી 'નાનું m' કાઢી નાખો એટલે સ્થિતિમાન બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પૃથ્વીના દળ અને ઘનતાના પદમાં g નું સૂત્ર મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે જાણીએ છીએ કે g = G M / R².<br>દળ M = ઘનતા (ρ) × કદ = ρ × (4/3 π R³).<br>આ મૂલ્ય મુકતા: g = G [ρ × (4/3 π R³)] / R²<br>g = 4/3 π ρ G R.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: g એ પૃથ્વીની ત્રિજ્યા (R) અને ઘનતા (ρ) ના સમપ્રમાણમાં છે. યાદ રાખો: 4/3 પાઈ રો જી આર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગુરુત્વાકર્ષી બળના સાર્વત્રિક નિયમની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. તે હંમેશા આકર્ષી બળ છે.<br>2. તે કેન્દ્રીય બળ છે (બંનેના કેન્દ્રોને જોડતી રેખા પર લાગે).<br>3. તે અંતરના વ્યસ્ત વર્ગના નિયમને અનુસરે છે.<br>4. તે માધ્યમ પર આધાર રાખતું નથી.<br>5. તે સંરક્ષી બળ છે (કાર્ય માર્ગ પર આધારિત નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ-કે-વ્ય-મા-સં' - આકર્ષી, કેન્દ્રીય, વ્યસ્ત વર્ગ, માધ્યમ સ્વતંત્ર, સંરક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગુરુત્વાકર્ષણ બળ માટે સંપાતપણાનો સિદ્ધાંત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ એક કણ પર ઘણા બધા કણો દ્વારા ગુરુત્વાકર્ષણ બળ લાગતું હોય, ત્યારે તે કણ પર લાગતું કુલ પરિણામી બળ એ દરેક કણ દ્વારા સ્વતંત્ર રીતે લાગતા બળોના સદિશ સરવાળા જેટલું હોય છે.<br>F_total = F₁ + F₂ + F₃ + ... + Fₙ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંપાતપણું એટલે 'બધાનો ભેગો સરવાળો' પણ યાદ રાખજો - સદિશ સરવાળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગુરુત્વપ્રવેગ (g) અને ગુરુત્વાકર્ષણના સાર્વત્રિક અચળાંક (G) વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1. <strong>g:</strong> તે ગુરુત્વપ્રવેગ છે, <strong>G:</strong> તે સાર્વત્રિક અચળાંક છે.<br>2. <strong>g:</strong> નું મૂલ્ય સ્થળ બદલાતા બદલાય છે, <strong>G:</strong> નું મૂલ્ય સમગ્ર બ્રહ્માંડમાં અચળ રહે છે.<br>3. <strong>g:</strong> નો એકમ m/s² છે, <strong>G:</strong> નો એકમ N m²/kg² છે.<br>4. <strong>g:</strong> સદિશ રાશિ છે, <strong>G:</strong> અદિશ રાશિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: g એ 'ગામઠી' છે (બદલાયા કરે), G એ 'ગ્લોબલ' છે (બધે સરખો)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "શા માટે ચંદ્ર પર વાતાવરણ નથી? નિષ્ક્રમણ ઝડપના આધારે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચંદ્રનું દળ અને ત્રિજ્યા પૃથ્વી કરતા ઘણા ઓછા હોવાથી ચંદ્ર પર નિષ્ક્રમણ ઝડપ (vₑ ≈ 2.3 km/s) ખૂબ ઓછી છે. વાયુના અણુઓની સરેરાશ ઉષ્મીય ઝડપ આ નિષ્ક્રમણ ઝડપ કરતા વધી જાય છે, પરિણામે વાયુઓ ચંદ્રના ગુરુત્વાકર્ષણમાંથી છટકી જાય છે. તેથી ચંદ્ર પર વાતાવરણ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદ્રની પકડ નબળી (Low vₑ), વાયુઓ ભાગી ગયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગુરુત્વીય તીવ્રતા એટલે શું? પૃથ્વી માટે તેનું સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુત્વાકર્ષી ક્ષેત્રમાંના કોઈ બિંદુએ મૂકેલા એકમ દળ પર લાગતા ગુરુત્વાકર્ષણ બળને તે બિંદુએ ગુરુત્વીય ક્ષેત્રની તીવ્રતા (I) કહે છે.<br>I = F / m = GM / r².<br>તીવ્રતાનું મૂલ્ય તે બિંદુએ ગુરુત્વપ્રવેગ g જેટલું જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્રતા I અને પ્રવેગ g બંને જુડિયા ભાઈઓ જેવા છે, સૂત્ર સરખા જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કેપ્લરના ત્રીજા નિયમ (T² ∝ r³) પરથી ન્યુટને શું તારણ કાઢ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યુટને જોયું કે વર્તુળાકાર કક્ષા માટે કેન્દ્રગામી બળ F = mv²/r હોય. જો v = 2πr/T મુકીએ, તો F ∝ r/T². કેપ્લરના નિયમ મુજબ T² ∝ r³ હોવાથી, F ∝ r/r³ એટલે કે F ∝ 1/r². આમ, ન્યુટને તારણ કાઢ્યું કે ગુરુત્વાકર્ષણ બળ અંતરના વર્ગના વ્યસ્ત પ્રમાણમાં હોવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેપ્લરનો 'ત્રગડો' (r³) અને ન્યુટનનો 'બગડો' (1/r²) એકબીજા સાથે કનેક્ટેડ છે!</p></div>"
+    }
+  ]
+}

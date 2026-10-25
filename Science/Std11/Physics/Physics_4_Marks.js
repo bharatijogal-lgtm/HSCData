@@ -995,3 +995,116 @@ var Std11_Physics_4_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "દ્રવ્યના ઉષ્મીય ગુણધર્મો",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "તાપમાન અને ઉષ્મા વચ્ચેનો ભેદ સ્પષ્ટ કરી, તાપમાન માપન માટેના વિવિધ સ્કેલ (સેલ્સિયસ, ફેરનહીટ અને કેલ્વિન) વચ્ચેનો સંબંધ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> ઉષ્મા એ ઉર્જાનું એક સ્વરૂપ છે જે તાપમાનના તફાવતને કારણે વહે છે, જ્યારે તાપમાન એ પદાર્થની ગરમીની માત્રા દર્શાવતું માપ છે.</p><p>સંબંધિત સૂત્રો:<br>1. સેલ્સિયસ અને ફેરનહીટ: (t_F - 32) / 180 = t_C / 100 અથવા t_F = (9/5)t_C + 32<br>2. સેલ્સિયસ અને કેલ્વિન: T = t_C + 273.15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'CFK' યાદ રાખો - C (100 ભાગ), F (180 ભાગ), K (273 થી શરૂ). 9/5 યાદ રાખવા માટે: F મોટો અક્ષર છે એટલે ઉપર 9 આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આદર્શ વાયુ સમીકરણનો ઉપયોગ કરી 'નિરપેક્ષ શૂન્ય તાપમાન' (Absolute Zero) ની વિભાવના સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> આદર્શ વાયુ સમીકરણ PV = nRT મુજબ, જો દબાણ (P) અને મોલ (n) અચળ રાખવામાં આવે, તો કદ V ∝ T થાય. ચાર્લ્સના નિયમ મુજબ, જેમ તાપમાન ઘટે તેમ કદ ઘટે છે. જે તાપમાને વાયુનું કદ સૈદ્ધાંતિક રીતે શૂન્ય થઈ જાય, તેને નિરપેક્ષ શૂન્ય તાપમાન કહેવાય. આ મૂલ્ય -273.15 °C અથવા 0 K છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડુ કરો તો સંકોચાય, એટલું ઠંડુ કરો કે કદ 'Zero' થઈ જાય, એ જ 'Absolute Zero'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઘન પદાર્થમાં થતું રેખીય પ્રસરણ સમજાવી, રેખીય પ્રસરણાંક (α_l) ની વ્યાખ્યા અને સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> જ્યારે પદાર્થના તાપમાનમાં વધારો કરવામાં આવે ત્યારે તેની લંબાઈમાં થતા વધારાને રેખીય પ્રસરણ કહે છે. સૂત્ર: ΔL = α_l * L * ΔT. જ્યાં, ΔL = લંબાઈમાં ફેરફાર, L = મૂળ લંબાઈ, ΔT = તાપમાનનો ફેરફાર. α_l નો એકમ K⁻¹ અથવા °C⁻¹ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L-L-T' (લંબાઈ-લંબાઈ-તાપમાન) યાદ રાખો. α એટલે લંબાઈનો 'Alpha'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પદાર્થનું ક્ષેત્રીય પ્રસરણ અને કદ પ્રસરણ સમજાવી, તેમના પ્રસરણાંક (α_a અને α_v) વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> ક્ષેત્રીય પ્રસરણ: ΔA = α_a * A * ΔT. કદ પ્રસરણ: ΔV = α_v * V * ΔT. સમરૂપ (Isotropic) પદાર્થો માટે સંબંધ: α_a = 2 * α_l અને α_v = 3 * α_l.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1D (રેખા) = 1, 2D (ક્ષેત્રફળ) = 2, 3D (કદ) = 3. બસ, α ને 1, 2, 3 વડે ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાણીનું અસંગત પ્રસરણ (Anomalous Expansion of Water) સમજાવો અને તેનું જૈવિક મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> સામાન્ય રીતે પદાર્થ ગરમ કરતાં પ્રસરણ પામે છે, પણ પાણી 0°C થી 4°C ની વચ્ચે ગરમ કરતાં સંકોચાય છે. 4°C એ પાણીની ઘનતા મહત્તમ હોય છે. આ કારણે ઠંડા પ્રદેશોમાં તળાવની ઉપર બરફ જામી જાય તો પણ નીચે 4°C વાળું પાણી રહે છે, જે જળચર સૃષ્ટિને જીવતી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '4' એ મેજિક નંબર છે. 4 પર પાણી સૌથી વજનદાર (Dense) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિશિષ્ટ ઉષ્માધારિતા (Specific Heat Capacity) ની વ્યાખ્યા આપી, મોલર વિશિષ્ટ ઉષ્માધારિતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> પદાર્થના એકમ દળનું તાપમાન 1 K વધારવા માટે આપવી પડતી ઉષ્માને વિશિષ્ટ ઉષ્માધારિતા (s) કહે છે. s = ΔQ / (m * ΔT). જો પદાર્થનો 1 મોલ જથ્થો લેવામાં આવે, તો તેને મોલર વિશિષ્ટ ઉષ્માધારિતા (C) કહે છે. C = ΔQ / (n * ΔT).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Q = mST' (ક્યુ બરાબર મસ્ત). યાદ રાખવામાં સરળ પડશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કેલરીમેટ્રીનો સિદ્ધાંત સમજાવો અને મિશ્રણનું અંતિમ તાપમાન શોધવા માટેનું સૂત્ર આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> જ્યારે બે જુદા જુદા તાપમાન ધરાવતા પદાર્થો સંપર્કમાં આવે, ત્યારે ગરમ પદાર્થ ઉષ્મા ગુમાવે છે અને ઠંડો પદાર્થ ઉષ્મા મેળવે છે. સિદ્ધાંત: ગુમાવેલી ઉષ્મા = મેળવેલી ઉષ્મા. m1*s1*(T1 - T) = m2*s2*(T - T2).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Give = Take'. જેની પાસે વધુ છે એ આપશે, જેની પાસે ઓછું છે એ લેશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અવસ્થા રૂપાંતરણ (Change of State) એટલે શું? ગલન ગુપ્ત ઉષ્મા (Latent Heat of Fusion) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> પદાર્થ એક ભૌતિક અવસ્થામાંથી બીજી અવસ્થામાં જાય તેને અવસ્થા રૂપાંતરણ કહે છે. નિયત તાપમાને (ગલનબિંદુએ) એકમ દળના ઘન પદાર્થને પ્રવાહીમાં ફેરવવા જરૂરી ઉષ્માને ગલન ગુપ્ત ઉષ્મા L_f કહે છે. Q = m * L_f.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Hidden Heat'. તાપમાન વધતું નથી પણ અવસ્થા બદલાઈ જાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બાષ્પીભવન ગુપ્ત ઉષ્મા (Latent Heat of Vaporization) અને ઠારણ પ્રક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> નિયત તાપમાને (ઉત્કલનબિંદુએ) એકમ દળના પ્રવાહીને વાયુમાં ફેરવવા જરૂરી ઉષ્માને બાષ્પીભવન ગુપ્ત ઉષ્મા L_v કહે છે. પાણી માટે L_v = 540 cal/g. ઠારણ એટલે પ્રવાહીનું ઘનમાં રૂપાંતર થવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ગરમ થાય તો 'L_v' અને બરફ ઓગળે તો 'L_f'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પુનઃહિમીભવન (Regelation) એટલે શું? બરફના ઉદાહરણ દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> દબાણ વધારવાથી બરફનું ગલનબિંદુ નીચું જાય છે અને દબાણ હટાવતા તે ફરીથી જામી જાય છે, આ ઘટનાને પુનઃહિમીભવન કહે છે. બરફના બે ટુકડાને દબાવતા તે જોડાઈ જાય છે કારણ કે દબાણથી સપાટી પરનો બરફ ઓગળે છે અને દબાણ મુક્ત થતા ફરી જામી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pressure = Melting, No Pressure = Freezing!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉષ્મા વહનના પ્રકારો સમજાવી, ઉષ્મા વહન (Conduction) અને ઉષ્મા વાહકતા (k) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> ઉષ્મા પ્રસરણની ત્રણ રીતો: વહન, નયન અને વિકિરણ. ઉષ્મા વહન માટે: H = ΔQ/Δt = k * A * (T1 - T2) / L. જ્યાં k = ઉષ્મા વાહકતા ગુણાંક છે. જે દ્રવ્યના પ્રકાર પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H = kAΔT/L'. યાદ રાખો: 'કાટ' (kAT) ના છેદમાં L!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઉષ્મીય અવરોધ (Thermal Resistance) ની વિભાવના વિદ્યુત અવરોધ સાથે સરખામણી કરીને સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> જેમ વિદ્યુતમાં R = V/I, તેમ ઉષ્મામાં R_th = (T1 - T2) / H. સૂત્ર પરથી: R_th = L / (k * A). ઉષ્મા વાહકતા જેટલી ઓછી, તેટલો ઉષ્મીય અવરોધ વધારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Current = Heat Flow, Voltage = Temp Difference!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઉષ્મા નયન (Convection) એટલે શું? તેના પ્રકારો ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> દ્રવ્યના કણોના વાસ્તવિક સ્થળાંતર દ્વારા થતા ઉષ્માના પ્રસરણને ઉષ્મા નયન કહે છે. પ્રકારો: 1. પ્રાકૃતિક નયન (દરિયાઈ લહેર), 2. બળપૂર્વકનું નયન (પંખો અથવા પમ્પ દ્વારા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કણો પોતે ગરમ થઈને ચાલીને જાય એ 'નયન'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દરિયાઈ લહેર (Sea Breeze) અને જમીનની લહેર (Land Breeze) ની ઘટના ઉષ્મા નયન દ્વારા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> દિવસે જમીન ઝડપથી ગરમ થાય છે, હવા ઉપર જાય છે અને દરિયાની ઠંડી હવા જમીન તરફ આવે છે (Sea Breeze). રાત્રે જમીન ઝડપથી ઠંડી પડે છે, દરિયાનું પાણી ગરમ હોય છે, તેથી હવા દરિયા તરફ વહે છે (Land Breeze).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસે દરિયો 'Cool', રાત્રે જમીન 'Cool'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઉષ્મીય વિકિરણ (Thermal Radiation) અને કાળા પદાર્થ (Black Body) વિશે નોંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> માધ્યમ વગર થતા ઉષ્મા પ્રસરણને વિકિરણ કહે છે. જે પદાર્થ પોતાની સપાટી પર આપાત થતા તમામ વિકિરણોનું શોષણ કરે તેને આદર્શ કાળો પદાર્થ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યપ્રકાશ પૃથ્વી પર આવે એ જ 'વિકિરણ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સ્ટીફન-બોલ્ટઝમેનનો નિયમ સમજાવો અને ઉત્સર્જન પાવરનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> કાળા પદાર્થની સપાટી પરથી એકમ સમયમાં ઉત્સર્જાતી ઉષ્મા ઉર્જા (H), તેના નિરપેક્ષ તાપમાનના ચતુર્થ ઘાતના સમપ્રમાણમાં હોય છે. H = σ * A * T⁴. જ્યાં σ = સ્ટીફન-બોલ્ટઝમેન અચળાંક (5.67 x 10⁻⁸ W m⁻² K⁻⁴).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T power 4' યાદ રાખો. પાવરફુલ નિયમ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વીનનો સ્થાનાંતરનો નિયમ (Wien’s Displacement Law) આકૃતિ સહ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> કાળા પદાર્થમાંથી ઉત્સર્જાતા મહત્તમ વિકિરણની તરંગલંબાઈ (λm) તેના નિરપેક્ષ તાપમાનના વ્યસ્ત પ્રમાણમાં હોય છે. λm * T = b (અચળાંક). જેમ તાપમાન વધે તેમ λm ટૂંકી તરંગલંબાઈ તરફ ખસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Hot = Short'. ગરમ પદાર્થની તરંગલંબાઈ ટૂંકી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ન્યૂટનનો શીતનનો નિયમ (Newton’s Law of Cooling) લખો અને તેની શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> પદાર્થના ઉષ્મા ગુમાવવાનો દર, પદાર્થ અને આસપાસના તાપમાનના તફાવતના સમપ્રમાણમાં હોય છે. -dQ/dt = k(T - Ts). શરત: તાપમાનનો તફાવત બહુ મોટો ન હોવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ ચા શરૂઆતમાં જલ્દી ઠંડી થાય, પછી ધીમે ધીમે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ન્યૂટનના શીતનના નિયમ પરથી પદાર્થને ઠંડો પડવા માટે લાગતા સમયનું સૂત્ર મેળવવા માટેની રીત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> જો તાપમાન T1 થી T2 થતા t સમય લાગે, તો સરેરાશ તાપમાન (T1+T2)/2 લેવું. (T1 - T2) / t = K [ (T1 + T2)/2 - Ts ]. આ સૂત્રનો ઉપયોગ દાખલા ગણવા માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Avg Temp' લો અને તફાવત સાથે ગુણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાણીના ત્રિ-બિંદુ (Triple Point of Water) ની સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> જે તાપમાને અને દબાણે પાણીની ત્રણેય અવસ્થાઓ (બરફ, પાણી અને વરાળ) સંતુલનમાં સહ-અસ્તિત્વ ધરાવતી હોય, તેને પાણીનું ત્રિ-બિંદુ કહે છે. તાપમાન: 273.16 K (0.01 °C) અને દબાણ: 6.11 hPa.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 in 1. એક જ જગ્યાએ ઘન, પ્રવાહી અને વાયુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગ્રીનહાઉસ અસર (Greenhouse Effect) ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong> પૃથ્વીનું વાતાવરણ સૂર્યના ટૂંકી તરંગલંબાઈના વિકિરણોને અંદર આવવા દે છે, પણ પૃથ્વી દ્વારા ઉત્સર્જાતા લાંબી તરંગલંબાઈના (ઇન્ફ્રારેડ) વિકિરણોને CO2 જેવા વાયુઓ રોકે છે, જેથી પૃથ્વીનું તાપમાન જળવાઈ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી માટે 'કાર્બન ડાયોક્સાઈડ' એ ધાબળા (Blanket) જેવું કામ કરે છે!</p></div>"
+    }
+  ]
+}

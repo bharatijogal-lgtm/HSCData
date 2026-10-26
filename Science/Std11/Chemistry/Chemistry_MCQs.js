@@ -798,3 +798,366 @@ var Std11_Chemistry_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "પરમાણુનું બંધારણ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કૅથોડ કિરણો (ઇલેક્ટ્રોન) ના શોધક વૈજ્ઞાનિક કોણ હતા?\n(A) જે. જે. થોમસન\n(B) રૂથરફોર્ડ\n(C) જેમ્સ ચેડવિક\n(D) જોન ડાલ્ટન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જે. જે. થોમસન. 1897માં થોમસને કૅથોડ કિરણ વિભાર નળીના પ્રયોગો દ્વારા ઇલેક્ટ્રોનની શોધ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઈટા પર નાચે' -> ઇ(ઇલેક્ટ્રોન)-ટા(થોમસન), પ(પ્રોટોન)-ર(રધરફોર્ડ), ના(ન્યુટ્રોન)-ચે(ચેડવિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ન્યુટ્રોનની શોધ કયા વૈજ્ઞાનિકે કરી હતી?\n(A) માઈકલ ફેરાડે\n(B) જે. જે. થોમસન\n(C) જેમ્સ ચેડવિક\n(D) નીલ્સ બોહર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જેમ્સ ચેડવિક. 1932 માં બેરિલિયમ પર આલ્ફા કણોના પ્રતાડન દ્વારા ન્યુટ્રોન શોધાયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુટ્રલ (તટસ્થ) કણની શોધ 'ચેડ' (ચેડવિક) એ કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઇલેક્ટ્રોન પરના વીજભારનું મૂલ્ય સૌપ્રથમ કોણે નક્કી કર્યું હતું?\n(A) થોમસન\n(B) આર. એ. મિલિકન\n(C) રધરફોર્ડ\n(D) મોસેલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આર. એ. મિલિકન. તેલબિંદુ પ્રયોગ (Oil Drop Experiment) દ્વારા -1.6022 × 10^-19 C મૂલ્ય શોધાયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ (Oil) માં 'મિલિ' (Millikan) પડી ગયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પરમાણુના કેન્દ્ર (Nucleus) ની શોધ કયા પ્રયોગ દ્વારા થઈ?\n(A) કૅથોડ કિરણ પ્રયોગ\n(B) ઓઈલ ડ્રોપ પ્રયોગ\n(C) α-કણ પ્રકીર્ણન પ્રયોગ\n(D) વિભાર નળી પ્રયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) α-કણ પ્રકીર્ણન પ્રયોગ. રધરફોર્ડે સોનાના વરખ પર આલ્ફા કણોનો મારો કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રમાં 'રધરફોર્ડ' નો બંગલો છે (કેન્દ્રની શોધ રધરફોર્ડે કરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેના પૈકી કયા કણો વીજભારરહિત છે?\n(A) ઇલેક્ટ્રોન\n(B) પ્રોટોન\n(C) આલ્ફા કણ\n(D) ન્યુટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ન્યુટ્રોન. ન્યુટ્રોન પર કોઈ વીજભાર હોતો નથી, તે તટસ્થ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ન્યુટ્રલ' એટલે 'ન્યુટ્રોન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પરમાણ્વીય ક્રમાંક (Z) એટલે શું?\n(A) પ્રોટોન અને ન્યુટ્રોનનો સરવાળો\n(B) કેન્દ્રમાં રહેલા પ્રોટોનની સંખ્યા\n(C) માત્ર ન્યુટ્રોનની સંખ્યા\n(D) પરમાણુનું દળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કેન્દ્રમાં રહેલા પ્રોટોનની સંખ્યા. તટસ્થ પરમાણુમાં પ્રોટોન = ઇલેક્ટ્રોન = Z.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z = પ્રોટોનનો ઝટકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દળાંક (A) એ કોનો સરવાળો છે?\n(A) પ્રોટોન + ઇલેક્ટ્રોન\n(B) ઇલેક્ટ્રોન + ન્યુટ્રોન\n(C) પ્રોટોન + ન્યુટ્રોન\n(D) માત્ર પ્રોટોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્રોટોન + ન્યુટ્રોન. ન્યુક્લિયસમાં રહેલા કણો (ન્યુક્લિઓન્સ) નો સરવાળો એટલે દળાંક A.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A = p + n (આ પણ યાદ રાખજો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમસ્થાનિકો (Isotopes) માં કઈ સંખ્યા સમાન હોય છે?\n(A) દળાંક\n(B) ન્યુટ્રોન સંખ્યા\n(C) પરમાણ્વીય ક્રમાંક (Z)\n(D) પ્રોટોન અને ન્યુટ્રોનનો સરવાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પરમાણ્વીય ક્રમાંક. જેમના Z સમાન પણ A જુદા હોય તેને સમસ્થાનિકો કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ-સ્થાનિક' = એક જ સ્થાન (Z) ધરાવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમભારીકો (Isobars) માં શું સમાન હોય છે?\n(A) દળાંક (A)\n(B) પરમાણ્વીય ક્રમાંક (Z)\n(C) ઇલેક્ટ્રોન સંખ્યા\n(D) રાસાયણિક ગુણધર્મો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દળાંક (A). જેમના પરમાણ્વીય દળ સમાન હોય પણ Z જુદા હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભાર' એટલે વજન (Mass Number) સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રોટિયમ, ડ્યુટેરિયમ અને ટ્રીટિયમ એ કોના સમસ્થાનિકો છે?\n(A) હિલિયમ\n(B) હાઇડ્રોજન\n(C) કાર્બન\n(D) ઓક્સિજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હાઇડ્રોજન. હાઇડ્રોજનના ત્રણ સમસ્થાનિકો 1H1, 1H2, 1H3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H ના ત્રણ ભાઈ: P, D, T.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તરંગની આવૃત્તિ (ν) અને તરંગલંબાઇ (λ) વચ્ચેનો સંબંધ કયો છે?\n(A) ν = c / λ\n(B) ν = c × λ\n(C) λ = c × ν\n(D) c = ν / λ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ν = c / λ. જ્યાં c પ્રકાશની ગતિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચિરાગ ને લેમડા ગમે' (c = νλ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "તરંગ સંખ્યા (Wave number, ν̄) નો એકમ કયો છે?\n(A) Hertz (Hz)\n(B) m^-1\n(C) m/s\n(D) Joule",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) m^-1. તરંગ સંખ્યા ν̄ = 1/λ હોવાથી તેનો એકમ લંબાઈનો વ્યસ્ત થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરંગ સંખ્યા = લંબાઈની ઉંધી (વ્યસ્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પ્લાન્ક અચળાંક (h) નું મૂલ્ય કેટલું છે?\n(A) 6.626 × 10^-34 J·s\n(B) 9.11 × 10^-31 kg\n(C) 1.6 × 10^-19 C\n(D) 3.0 × 10^8 m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6.626 × 10^-34 J·s. ક્વોન્ટમ સિદ્ધાંતમાં આ અચળાંક ખૂબ મહત્વનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: h = 66 છાપેલા (6.626) અને 34 ઘાત (ઋણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "E = hν સમીકરણ કોણે આપ્યું?\n(A) આઈન્સ્ટાઈન\n(B) મેક્સ પ્લાન્ક\n(C) બોહર\n(D) રધરફોર્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મેક્સ પ્લાન્ક. ઊર્જાના ક્વોન્ટાઇઝેશન માટે આ સમીકરણ પાયાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા (E) અને આવૃત્તિ (ν) ને 'પ્લાન્ક' એ જોડ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ફોટોઇલેક્ટ્રિક અસરની સમજૂતી કયા વૈજ્ઞાનિકે આપી હતી?\n(A) મેક્સ પ્લાન્ક\n(B) આલ્બર્ટ આઈન્સ્ટાઈન\n(C) થોમસન\n(D) નીલ્સ બોહર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આલ્બર્ટ આઈન્સ્ટાઈન. તેમણે પ્લાન્કના ક્વોન્ટમ સિદ્ધાંતનો ઉપયોગ કરી આ સમજૂતી આપી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટો ખેંચ્યો આઈન્સ્ટાઈને (Photoelectric Effect).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "હાઇડ્રોજન વર્ણપટની કઈ શ્રેણી દ્રશ્યમાન (Visible) વિભાગમાં જોવા મળે છે?\n(A) લાયમન\n(B) પાશ્ચન\n(C) બામર\n(D) બ્રેકેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બામર. n1 = 2 ધરાવતી બામર શ્રેણી દ્રશ્ય પ્રકાશ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બામર' દેખાય છે, બાકીના છુપાયેલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લાયમન શ્રેણી વર્ણપટના કયા વિભાગમાં જોવા મળે છે?\n(A) પારજાંબલી (UV)\n(B) દ્રશ્યમાન\n(C) પારરક્ત (IR)\n(D) માઇક્રોવેવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પારજાંબલી (UV). લાયમન શ્રેણી માટે n1 = 1 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-UV (Love) -> Lyman-UV.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બોહરના પરમાણુ નમૂના મુજબ, ઇલેક્ટ્રોનનું કોણીય વેગમાન (mvr) કેટલું હોય છે?\n(A) h / 2π\n(B) nh / 2π\n(C) n^2h / 2π\n(D) h / 4π",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) nh / 2π. કોણીય વેગમાન ક્વોન્ટાઇઝ્ડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંગળવાર (mvr) = 'નાહવાની' (nh) જગ્યા / 2π.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બોહરની પ્રથમ કક્ષાની ત્રિજ્યા (a0) કેટલી હોય છે?\n(A) 0.529 Å\n(B) 1.058 Å\n(C) 2.116 Å\n(D) 0.264 Å",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0.529 Å. સૂત્ર: r = 0.529 * n^2 / Z Å.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોહરની ત્રિજ્યા 'બાવન (52)' અને 'નવ (9)' જેવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "હાઇડ્રોજન પરમાણુમાં ધરા-અવસ્થા (n=1) માં ઇલેક્ટ્રોનની ઉર્જા કેટલી હોય છે?\n(A) -13.6 eV\n(B) -3.4 eV\n(C) -1.51 eV\n(D) 0 eV",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -13.6 eV. સૂત્ર: En = -13.6 / n^2 eV.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી પેલી (1) કક્ષામાં નેગેટિવ તેર (13.6) નો ઝટકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દ-બ્રોગ્લી (de Broglie) તરંગલંબાઇનું સૂત્ર કયું છે?\n(A) λ = h / mv\n(B) λ = h / mc\n(C) λ = mc / h\n(D) λ = mv / h",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) λ = h / mv. દ્રવ્યના દ્વૈત સ્વભાવ માટેનું આ સૂત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લેમડા' એટલે 'હાથી' (h) ભાગ્યા 'માણસનું વેગમાન' (mv).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "હાઇઝનબર્ગનો અનિશ્ચિતતાનો સિદ્ધાંત કયા સમીકરણ દ્વારા દર્શાવાય છે?\n(A) Δx · Δp ≥ h / 4π\n(B) Δx · Δp = h / 2π\n(C) Δx / Δp ≥ h / 4π\n(D) Δx · Δp ≥ h / 2π",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Δx · Δp ≥ h / 4π. સ્થાન અને વેગમાન બંને એકસાથે ચોકસાઈથી માપી શકાતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4π માં 'ફોર' (4) ચોકસાઈ બતાવે છે (પણ અહીં અનિશ્ચિતતા છે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મુખ્ય ક્વોન્ટમ આંક (n) શું દર્શાવે છે?\n(A) કક્ષાનો આકાર\n(B) કક્ષાનું કદ અને ઉર્જા\n(C) કક્ષાનું નમન\n(D) ઇલેક્ટ્રોનનું ભ્રમણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કક્ષાનું કદ અને ઉર્જા. n વધે તેમ અંતર અને ઉર્જા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મુખ્ય' માણસ ઘરનું 'કદ' અને 'ઉર્જા' (પાવર) નક્કી કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગૌણ (એઝીમ્યુથલ) ક્વોન્ટમ આંક (l) નું મૂલ્ય l=2 હોય તો કઈ પેટાકક્ષા હશે?\n(A) s\n(B) p\n(C) d\n(D) f",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) d પેટાકક્ષા. l=0 (s), l=1 (p), l=2 (d), l=3 (f).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0, 1, 2, 3 -> s, p, d, f (સીરીયલ યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચુંબકીય ક્વોન્ટમ આંક (ml) શું દર્શાવે છે?\n(A) કક્ષકોની સંખ્યા\n(B) કક્ષકોનું અવકાશીય અભિવીન્યાસ\n(C) ઇલેક્ટ્રોનની ગતિ\n(D) પરમાણુનું દળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કક્ષકોનું અવકાશીય અભિવીન્યાસ (Orientation). તે પેટાકક્ષામાં કેટલી કક્ષકો છે તે જણાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચુંબકીય' દિશા બતાવે (Orientation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કોઈપણ કક્ષામાં સમાઈ શકતા મહત્તમ ઇલેક્ટ્રોનની સંખ્યા કયા સૂત્રથી મળે છે?\n(A) n^2\n(B) 2n^2\n(C) 2n\n(D) 4n+2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2n^2. દા.ત. બીજી કક્ષામાં 2(2)^2 = 8 ઇલેક્ટ્રોન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કક્ષક ડબલ (2n^2) તો ઇલેક્ટ્રોન બમણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "p-પેટાકક્ષામાં કેટલી કક્ષકો હોય છે?\n(A) 1\n(B) 3\n(C) 5\n(D) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3. px, py અને pz એમ ત્રણ કક્ષકો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-1, p-3, d-5, f-7 (એકી સંખ્યા યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પૌલીનો નિષેધનો નિયમ શું કહે છે?\n(A) એક જ કક્ષકમાં રહેલા બે ઇલેક્ટ્રોનના ચારેય ક્વોન્ટમ આંક સમાન હોઈ શકે નહીં\n(B) ઇલેક્ટ્રોન પ્રથમ ઓછી ઉર્જાવાળી કક્ષકમાં ભરાય\n(C) પેટાકક્ષાની બધી જ કક્ષકોમાં એક-એક ઇલેક્ટ્રોન ભરાયા પછી જ યુગ્મીકરણ થાય\n(D) ઉર્જા પેકેટ સ્વરૂપે હોય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A). પૌલી મુજબ, જો n, l, ml સમાન હોય, તો ms વિરુદ્ધ (+1/2 અને -1/2) હોવો જ જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૌલી = 'પર્સનલ આઈડી' (કોઈપણ બે ઈલેક્ટ્રોનનું આઈડી સમાન ન હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "હુન્ડના નિયમ મુજબ, કઈ પેટાકક્ષામાં ઇલેક્ટ્રોનનું યુગ્મીકરણ ક્યારે શરૂ થાય?\n(A) જ્યારે બધી કક્ષકોમાં એક-એક ઇલેક્ટ્રોન ગોઠવાઈ જાય ત્યારે\n(B) જ્યારે પ્રથમ કક્ષક ભરાઈ જાય ત્યારે\n(C) જ્યારે ઉર્જા વધી જાય ત્યારે\n(D) તરત જ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A). સમાન ઉર્જા ધરાવતી (Degenerate) કક્ષકોમાં પહેલા દરેકને એક-એક મળે પછી જ જોડી બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુન્ડ = 'હાજર રહેલા દરેકને એક લાડવો મળવો જોઈએ' પછી બીજો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ક્રોમિયમ (Cr, Z=24) ની સાચી ઇલેક્ટ્રોન રચના કઈ છે?\n(A) [Ar] 4s2 3d4\n(B) [Ar] 4s1 3d5\n(C) [Ar] 4s0 3d6\n(D) [Ar] 4s2 3d6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) [Ar] 4s1 3d5. અર્ધપૂર્ણ ભરાયેલી d-પેટાકક્ષા વધુ સ્થિરતા આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cr અને Cu અપવાદ છે, s-માં 1 અને d-માં 5 કે 10 જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કોપર (Cu, Z=29) ની ઇલેક્ટ્રોન રચના કઈ છે?\n(A) [Ar] 4s2 3d9\n(B) [Ar] 4s1 3d10\n(C) [Ar] 4s0 3d11\n(D) [Ar] 4s2 3d10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) [Ar] 4s1 3d10. પૂર્ણ ભરાયેલી d-પેટાકક્ષા (d10) વધુ સ્થાયી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણ સંતોષ (d10) કોપર (Cu) ને ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કઈ કક્ષકનો આકાર ડંબેલ (Dumbbell) જેવો હોય છે?\n(A) s\n(B) p\n(C) d\n(D) f",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) p-કક્ષક. p-કક્ષકોનો આકાર ડંબેલ જેવો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-ગોળ, p-ડંબેલ, d-ડબલ ડંબેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "3d કક્ષક માટે n અને l ના મૂલ્યો અનુક્રમે કયા હશે?\n(A) n=3, l=1\n(B) n=3, l=2\n(C) n=2, l=3\n(D) n=3, l=3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) n=3, l=2. 3d માં આગળનો આંકડો 3 એ n છે અને d માટે l=2 હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંકડો એ n, અને અક્ષર એ l (s=0, p=1, d=2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "નોડલ સપાટી (Nodes) એટલે એવો વિસ્તાર જ્યાં...\n(A) ઇલેક્ટ્રોન મળી આવવાની સંભાવના મહત્તમ હોય\n(B) ઇલેક્ટ્રોન મળી આવવાની સંભાવના શૂન્ય હોય\n(C) પ્રોટોન રહેલા હોય\n(D) ઉર્જા ન્યૂનતમ હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઇલેક્ટ્રોન મળી આવવાની સંભાવના શૂન્ય હોય. Ψ^2 = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નોડ' (Node) = 'નો' (No) ઈલેક્ટ્રોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કક્ષકની ઉર્જા નક્કી કરવા માટે કયો નિયમ વપરાય છે?\n(A) (n + l) નિયમ\n(B) હુન્ડનો નિયમ\n(C) પૌલીનો નિયમ\n(D) બોહરનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (n + l) નિયમ. જે કક્ષક માટે (n+l) ઓછું તેની ઉર્જા ઓછી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનું સરવાળું' (n+l) એટલે 'પહેલો વારો' (ઓછી ઉર્જા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "થોમસનના પરમાણુ નમૂનાનું બીજું નામ શું છે?\n(A) સોલાર મોડલ\n(B) પ્લમ પુડિંગ મોડલ\n(C) ન્યુક્લિયર મોડલ\n(D) ક્વોન્ટમ મોડલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્લમ પુડિંગ મોડલ. તેને તરબૂચ મોડલ પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થોમસનનું તરબૂચ (Watermelon).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "α-કણો એટલે શું?\n(A) હાઇડ્રોજન આયન\n(B) દ્વિ-વીજભારિત હિલિયમ આયન (He2+)\n(C) ઇલેક્ટ્રોન\n(D) ન્યુટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He2+. α-કણોનું દળ 4u અને વીજભાર +2 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્ફા = હિલિયમનો દીકરો (He2+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "3s કક્ષક માટે રેડિયલ નોડની સંખ્યા કેટલી હશે?\n(A) 0\n(B) 1\n(C) 2\n(D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2. રેડિયલ નોડ = n - l - 1. અહીં 3 - 0 - 1 = 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર યાદ રાખો: n - l - 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સોડિયમ (Na, Z=11) ના છેલ્લા ઇલેક્ટ્રોન માટે ક્વોન્ટમ આંકનો સાચો સેટ કયો છે?\n(A) n=3, l=0, ml=0, ms=+1/2\n(B) n=3, l=1, ml=0, ms=+1/2\n(C) n=2, l=0, ml=0, ms=+1/2\n(D) n=3, l=2, ml=1, ms=+1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A). Na ની રચના 1s2 2s2 2p6 3s1 છે. છેલ્લો e 3s માં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Na માટે 3s યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "નીચેના પૈકી કઈ જોડ આઈસોઈલેક્ટ્રોનિક (Isoelectronic) છે?\n(A) Na+, Ne\n(B) Na, Ne\n(C) Mg2+, Ar\n(D) Cl-, Ne",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Na+, Ne. બંનેમાં 10 ઇલેક્ટ્રોન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આઈસો' એટલે સરખું, 'ઈલેક્ટ્રોનિક' એટલે ઇલેક્ટ્રોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કઈ કક્ષક માટે દિશાકીય ગુણધર્મ હોતો નથી?\n(A) s-કક્ષક\n(B) p-કક્ષક\n(C) d-કક્ષક\n(D) f-કક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) s-કક્ષક. તે ગોળાકાર હોવાથી બધી દિશામાં સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળો (s) બધેથી સરખો જ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "બ્રેકેટ (Brackett) શ્રેણી માટે n1 નું મૂલ્ય કેટલું હોય છે?\n(A) 2\n(B) 3\n(C) 4\n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 4. લાયમન-1, બામર-2, પાશ્ચન-3, બ્રેકેટ-4, ફુન્ડ-5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L, B, P, B, P (1, 2, 3, 4, 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "એક પ્રોટોનનું દળ ઇલેક્ટ્રોનના દળ કરતા આશરે કેટલા ગણું હોય છે?\n(A) 1836\n(B) 2000\n(C) 100\n(D) 500",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1836. પ્રોટોન ઇલેક્ટ્રોન કરતા ઘણો ભારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન એટલે 'કીડી' અને પ્રોટોન એટલે 'હાથી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "રધરફોર્ડના પ્રયોગમાં મોટાભાગના α-કણો સોનાના વરખમાંથી સીધા પસાર થઈ ગયા, જે શું સૂચવે છે?\n(A) પરમાણુમાં ધન વીજભાર કેન્દ્રિત છે\n(B) પરમાણુનો મોટાભાગનો વિસ્તાર ખાલી છે\n(C) પરમાણુમાં ઇલેક્ટ્રોન સ્થિર છે\n(D) કેન્દ્ર ખૂબ મોટું છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પરમાણુનો મોટાભાગનો વિસ્તાર ખાલી છે. જો અવરોધ હોત તો કણો વિચલિત થાત.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો ખાલી તો ગાડી (alpha) સીધી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ફોટોનની ઉર્જા (E) અને તરંગલંબાઇ (λ) વચ્ચેનો સંબંધ શું છે?\n(A) E ∝ λ\n(B) E ∝ 1/λ\n(C) E ∝ λ^2\n(D) E = λ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) E ∝ 1/λ. કારણ કે E = hc / λ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરંગ લાંબો (λ) તો ઉર્જા (E) ઓછી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ચુંબકીય ક્ષેત્રની હાજરીમાં વર્ણપટ રેખાઓનું વિભાજન થવાની ઘટનાને શું કહે છે?\n(A) સ્ટાર્ક અસર\n(B) ઝીમેન અસર\n(C) ફોટોઇલેક્ટ્રિક અસર\n(D) કોમ્પ્ટન અસર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઝીમેન અસર (Zeeman effect). (વિદ્યુત ક્ષેત્ર માટે સ્ટાર્ક અસર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-Z (Magnetic - Zeeman) અને E-S (Electric - Stark).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કઈ કક્ષા માટે (n+l) નું મૂલ્ય સૌથી ઓછું છે?\n(A) 4s\n(B) 3d\n(C) 4p\n(D) 3p",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 3p. 3p માટે n+l = 3+1 = 4. (જ્યારે 4s માટે પણ 4 છે પણ 3p નો n ઓછો હોવાથી તેની ઉર્જા ઓછી ગણાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો કરો: 4s(4+0=4), 3d(3+2=5), 4p(4+1=5), 3p(3+1=4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ઇલેક્ટ્રોન પ્રચક્રણ (Spin) ક્વોન્ટમ આંકના કયા બે મૂલ્યો હોઈ શકે?\n(A) 0, 1\n(B) +1, -1\n(C) +1/2, -1/2\n(D) 1/2, 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) +1/2, -1/2. તે ઘડિયાળની દિશા કે વિરુદ્ધ દિશામાં ભ્રમણ સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો પ્લસ, અડધો માઈનસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "He+ આયનની બીજી કક્ષાની ત્રિજ્યા કેટલી હશે?\n(A) a0\n(B) 2 a0\n(C) 4 a0\n(D) 0.5 a0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2 a0. સૂત્ર: r = a0 * n^2 / Z. અહીં n=2, Z=2. તેથી r = a0 * 4 / 2 = 2 a0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n નો વર્ગ કરો અને Z વડે ભાગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "નીચેનામાંથી કયો ક્વોન્ટમ આંકનો સેટ શક્ય નથી?\n(A) n=2, l=1, ml=0\n(B) n=1, l=0, ml=0\n(C) n=3, l=2, ml=-3\n(D) n=2, l=0, ml=0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) n=3, l=2, ml=-3. ml નું મૂલ્ય -l થી +l સુધી જ હોય. અહીં l=2 હોવાથી ml, -3 ન હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દીકરો' (ml) ક્યારેય 'બાપ' (l) કરતા મોટો ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "તરંગનું સમીકરણ (Ψ) કોણે આપ્યું?\n(A) હાઇઝનબર્ગ\n(B) શ્રોડિંજર\n(C) દ-બ્રોગ્લી\n(D) પૌલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શ્રોડિંજર. ક્વોન્ટમ મિકેનિક્સનું પાયાનું સમીકરણ શ્રોડિંજરે આપ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરંગ (Wave) ઉપર 'શ્રોડિંજર' ની સવારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "d-પેટાકક્ષામાં મહત્તમ કેટલા ઇલેક્ટ્રોન સમાઈ શકે?\n(A) 2\n(B) 6\n(C) 10\n(D) 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10. d-પેટાકક્ષામાં 5 કક્ષકો હોય, દરેક માં 2 મુજબ કુલ 10.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-2, p-6, d-10, f-14 (4-4 ઉમેરતા જાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "3dxy કક્ષકમાં ઇલેક્ટ્રોન મળી આવવાની સંભાવના ક્યાં શૂન્ય હોય છે?\n(A) x અને y અક્ષ પર\n(B) x અને z અક્ષની વચ્ચે\n(C) કેન્દ્રમાં\n(D) (A) અને (C) બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D). dxy કક્ષકના લોબ્સ અક્ષોની વચ્ચે હોય છે, તેથી અક્ષ પર સંભાવના શૂન્ય હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: xy નામ છે તો લોબ્સ 'વચ્ચે' છે, અક્ષ પર 'નો' (No).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "આઉફબાઉ (Aufbau) શબ્દનો અર્થ શું થાય?\n(A) ઉર્જા\n(B) ગોઠવણી (Building up)\n(C) ભ્રમણ\n(D) અનિશ્ચિતતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગોઠવણી અથવા રચના કરવી (Building up). આ જર્મન શબ્દ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઉફબાઉ = પાયાથી ચણતર (ઓછી ઉર્જાથી શરૂઆત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "1s2 2s2 2p6 3s2 3p5 એ કયા તત્વની ઇલેક્ટ્રોન રચના છે?\n(A) ક્લોરીન (Cl)\n(B) સલ્ફર (S)\n(C) ફ્લોરિન (F)\n(D) આર્ગોન (Ar)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ક્લોરીન. કુલ ઇલેક્ટ્રોન 2+2+6+2+5 = 17. Z=17 એટલે ક્લોરીન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરના આંકડા ગણી લો, એ જ પરમાણુ ક્રમાંક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "શૂન્ય કોણીય નોડ (Angular Node) કઈ કક્ષકમાં હોય છે?\n(A) s-કક્ષક\n(B) p-કક્ષક\n(C) d-કક્ષક\n(D) f-કક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) s-કક્ષક. કોણીય નોડ = l. s માટે l=0 હોવાથી કોણીય નોડ શૂન્ય હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-ગોળ છે, એમાં કોઈ ખૂણો (Angle) નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "જો n=4 હોય, તો કુલ કેટલી કક્ષકો શક્ય છે?\n(A) 4\n(B) 8\n(C) 16\n(D) 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 16. કુલ કક્ષકો = n^2. અહીં 4^2 = 16.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કક્ષકો એટલે n નો વર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "નીચેનામાંથી કયું તરંગ સૌથી વધુ ઉર્જા ધરાવે છે?\n(A) ક્ષ-કિરણો (X-rays)\n(B) રેડિયો તરંગો\n(C) માઇક્રોવેવ\n(D) દ્રશ્ય પ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ક્ષ-કિરણો. તેમની આવૃત્તિ સૌથી વધુ અને તરંગલંબાઇ સૌથી ઓછી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ તરંગ ટૂંકો, એમ શક્તિ (Energy) વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "હાઇડ્રોજન વર્ણપટમાં 'રીડબર્ગ અચળાંક' (RH) નું મૂલ્ય કેટલું છે?\n(A) 109677 cm^-1\n(B) 109677 m^-1\n(C) 1.09677 × 10^-7 cm^-1\n(D) 1.602 × 10^-19 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 109677 cm^-1. આ અચળાંક તરંગ સંખ્યા ગણવા વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૦૯-૬૭૭ (યાદ રાખવા માટે મોબાઈલ નંબરની જેમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ઇલેક્ટ્રોનનો વીજભાર/દળ (e/m) ગુણોત્તર કોણે શોધ્યો?\n(A) થોમસન\n(B) મિલિકન\n(C) ચેડવિક\n(D) ગોલ્ડસ્ટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જે. જે. થોમસન. તેમણે વિદ્યુત અને ચુંબકીય ક્ષેત્રના વિચલન દ્વારા આ શોધ કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોનનો 'રેશિયો' થોમસને કાઢ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "નીચેના પૈકી કયા આયનમાં અયુગ્મિત ઇલેક્ટ્રોનની સંખ્યા સૌથી વધુ છે?\n(A) Fe3+ (Z=26)\n(B) Mn2+ (Z=25)\n(C) Cu2+ (Z=29)\n(D) (A) અને (B) બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D). Fe3+ (3d5) અને Mn2+ (3d5) બંનેમાં 5 અયુગ્મિત ઇલેક્ટ્રોન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d5 એટલે 'પાંચે પાંચ સિંગલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "Ψ^2 (સાઇ સ્ક્વેર) શું સૂચવે છે?\n(A) ઇલેક્ટ્રોનનું વેગમાન\n(B) ઇલેક્ટ્રોન મળી આવવાની સંભાવના ઘનતા\n(C) ઇલેક્ટ્રોનની ઉર્જા\n(D) કેન્દ્રનું અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઇલેક્ટ્રોન મળી આવવાની સંભાવના ઘનતા (Probability Density).Ψ પોતે કોઈ ભૌતિક અર્થ ધરાવતું નથી પણ તેનો વર્ગ મહત્વનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ક્વેર (વર્ગ) એટલે 'ચોકસાઈ' કે ઇલેક્ટ્રોન ક્યાં છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "f-પેટાકક્ષા માટે l નું મૂલ્ય કેટલું હોય?\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3. s=0, p=1, d=2, f=3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f એટલે 'ફોર' નહીં પણ 'થ્રી' (3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કઈ જોડી 'સમન્યુટ્રોનિક' (Isotones) છે?\n(A) 6C14 અને 8O16\n(B) 6C12 અને 6C14\n(C) 1H1 અને 1H2\n(D) 18Ar40 અને 20Ca40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6C14 અને 8O16. બંનેમાં ન્યુટ્રોન (A-Z) = 14-6 = 8 અને 16-8 = 8 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરનામાંથી નીચેનું બાદ કરો, જો જવાબ સરખો તો 'સમન્યુટ્રોનિક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "નીચેનામાંથી કયો વર્ણપટ સતત (Continuous) હોય છે?\n(A) ઉત્સર્જન વર્ણપટ\n(B) અવશોષણ વર્ણપટ\n(C) સૂર્યપ્રકાશનો વર્ણપટ (મેઘધનુષ)\n(D) પરમાણ્વીય વર્ણપટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સૂર્યપ્રકાશ. મેઘધનુષમાં રંગો એકબીજામાં ભળી ગયેલા હોય છે, કોઈ સ્પષ્ટ રેખા હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી (મેઘધનુષ) = સતત, માનવસર્જિત (લેમ્પ) = રેખીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "એક મોલ ફોટોનની ઉર્જાને શું કહેવામાં આવે છે?\n(A) એક જુલ\n(B) એક આઈન્સ્ટાઈન\n(C) એક ઇલેક્ટ્રોન વોલ્ટ\n(D) એક કેલરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એક આઈન્સ્ટાઈન. E = NA * hν.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટોનનો આખો મોલ (ઢગલો) = આઈન્સ્ટાઈન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "બોહરના નમૂનાની મર્યાદા કઈ છે?\n(A) તે માત્ર એક ઇલેક્ટ્રોન ધરાવતા પરમાણુ માટે જ સાચો છે\n(B) તે ઝીમેન અસર સમજાવી શકતો નથી\n(C) તે પરમાણુના આકાર વિશે જણાવતો નથી\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ. બોહર મોડલ વધુ ઇલેક્ટ્રોન વાળા પરમાણુઓ માટે નિષ્ફળ ગયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બોહર = 'સિંગલ' (H) માટે હીરો, 'મલ્ટી' માટે ઝીરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "થ્રેશોલ્ડ આવૃત્તિ (ν0) એટલે શું?\n(A) મહત્તમ આવૃત્તિ\n(B) લઘુત્તમ આવૃત્તિ જે ઇલેક્ટ્રોન મુક્ત કરવા જરૂરી છે\n(C) શૂન્ય આવૃત્તિ\n(D) પ્રકાશની આવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B). દરેક ધાતુ માટે ચોક્કસ લઘુત્તમ આવૃત્તિ હોય છે, જેનાથી ઓછી આવૃત્તિએ ફોટોઇલેક્ટ્રિક અસર જોવા મળતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થ્રેશોલ્ડ = 'ઉંબરો' (જે ઓળંગવો જરૂરી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "dz^2 કક્ષકમાં કેટલા નોડલ પ્લેન (Nodal planes) હોય છે?\n(A) 0\n(B) 1\n(C) 2\n(D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0. dz^2 કક્ષકમાં સમતલીય નોડ હોતા નથી, પણ બે શંકુ આકારના (Conical) નોડલ વિસ્તાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: dz^2 માં 'વીંટી' (doughnut) છે, સમતલ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "2p કક્ષક માટે કુલ નોડ (n-1) ની સંખ્યા કેટલી?\n(A) 0\n(B) 1\n(C) 2\n(D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1. કુલ નોડ = n - 1 = 2 - 1 = 1. (આ એક નોડ કોણીય નોડ હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ નોડ એટલે આગળનો આંકડો - 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સ્કેન્ડિયમ (Sc, Z=21) નો છેલ્લો ઇલેક્ટ્રોન કઈ કક્ષકમાં ભરાય છે?\n(A) 4s\n(B) 3p\n(C) 3d\n(D) 4p",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3d. Sc ની રચના [Ar] 4s2 3d1 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 21 થી 30 માં 'd' ની એન્ટ્રી થાય!</p></div>"
+    }
+  ]
+}

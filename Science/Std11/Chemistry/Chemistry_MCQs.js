@@ -2318,3 +2318,366 @@ var Std11_Chemistry_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ઉષ્માગતિશાસ્ત્ર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઉષ્માગતિશાસ્ત્ર મુખ્યત્વે દ્રવ્યના કયા ગુણધર્મો સાથે સંબંધિત છે?\n(A) આણ્વીય સ્તરના ગુણધર્મો\n(B) પરમાણ્વીય સ્તરના ગુણધર્મો\n(C) જથ્થાત્મક (Macroscopic) ગુણધર્મો\n(D) ઇલેક્ટ્રોનિક ગુણધર્મો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જથ્થાત્મક (Macroscopic) ગુણધર્મો. ઉષ્માગતિશાસ્ત્ર જથ્થાત્મક પ્રણાલીના ગુણધર્મો (જેમ કે તાપમાન, દબાણ) નો અભ્યાસ કરે છે, તે વ્યક્તિગત અણુઓ વિશે માહિતી આપતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'થર્મો' એટલે ગરમી અને 'ડાયનેમિક્સ' એટલે ગતિ, જે આખા જથ્થા (Bulk) માટે હોય, માઈક્રોસ્કોપિક અણુ માટે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિશ્વનો જે ભાગ અભ્યાસ હેઠળ પસંદ કરેલ હોય તેને શું કહેવાય?\n(A) પર્યાવરણ\n(B) પ્રણાલી (System)\n(C) સીમા (Boundary)\n(D) સાર્વત્રિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રણાલી (System). બ્રહ્માંડનો જે ભાગ પ્રયોગ માટે પસંદ કરવામાં આવે તેને પ્રણાલી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રણાલી = જેનો તમે 'પર્સનલી' અભ્યાસ કરો છો તે ભાગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કઈ પ્રણાલી તેના પર્યાવરણ સાથે ઉર્જા અને દ્રવ્ય બંનેનો વિનિમય કરી શકે છે?\n(A) ખુલ્લી પ્રણાલી\n(B) બંધ પ્રણાલી\n(C) નિરાળી પ્રણાલી\n(D) આદર્શ પ્રણાલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ખુલ્લી પ્રણાલી. ખુલ્લી પ્રણાલીમાં દ્રવ્ય અને ઉર્જા બંનેની આપ-લે શક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: ખુલ્લો કપ ચા = બાષ્પ (દ્રવ્ય) જાય અને ઠંડી (ઉર્જા) પણ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "થર્મોસ ફ્લાસ્કમાં રહેલી ચા કયા પ્રકારની પ્રણાલીનું ઉદાહરણ છે?\n(A) ખુલ્લી પ્રણાલી\n(B) બંધ પ્રણાલી\n(C) નિરાળી (Isolated) પ્રણાલી\n(D) સમતાપી પ્રણાલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નિરાળી (Isolated) પ્રણાલી. આ પ્રણાલી પર્યાવરણ સાથે ઉર્જા કે દ્રવ્ય કોઈનો વિનિમય કરતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરાળી = 'નથી જવું' ક્યાંય (ન દ્રવ્ય, ન ઉર્જા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેનામાંથી કયો ગુણધર્મ જથ્થાત્મક (Extensive) ગુણધર્મ છે?\n(A) ઘનતા\n(B) તાપમાન\n(C) દળ (Mass)\n(D) દબાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દળ (Mass). જે ગુણધર્મ દ્રવ્યના જથ્થા પર આધાર રાખે તેને જથ્થાત્મક ગુણધર્મ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: Extensive = 'E' for 'Extra bits matters' (જથ્થો વધે તો બદલાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીચેનામાંથી કયો વિશિષ્ટ (Intensive) ગુણધર્મ છે?\n(A) કદ\n(B) એન્થાલ્પી\n(C) મોલર ઉષ્માક્ષમતા\n(D) આંતરિક ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મોલર ઉષ્માક્ષમતા. વિશિષ્ટ ગુણધર્મો દ્રવ્યના જથ્થાથી સ્વતંત્ર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Intensive = 'I' for 'Independent' of size!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જે વિધેયનું મૂલ્ય પ્રણાલીના પ્રારંભિક અને અંતિમ અવસ્થા પર જ આધાર રાખે તેને શું કહેવાય?\n(A) પથ વિધેય\n(B) અવસ્થા વિધેય (State Function)\n(C) કાર્ય વિધેય\n(D) ઉષ્મા વિધેય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અવસ્થા વિધેય. દા.ત. U, H, S, G.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવસ્થા વિધેય એટલે 'મંઝિલ' થી મતલબ છે, રસ્તા (Path) થી નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેનામાંથી કયું પથ વિધેય (Path Function) છે?\n(A) આંતરિક ઉર્જા (U)\n(B) એન્થાલ્પી (H)\n(C) કાર્ય (w)\n(D) ગિબ્સ મુક્ત ઉર્જા (G)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાર્ય (w). કાર્ય અને ઉષ્મા (q) એ પથ વિધેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'q' અને 'w' સિવાયના મોટેભાગના અવસ્થા વિધેય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઉષ્માગતિશાસ્ત્રનો પ્રથમ નિયમ કયા નિયમ પર આધારિત છે?\n(A) દ્રવ્યમાન સંરક્ષણ\n(B) ઉર્જા સંરક્ષણ\n(C) મોમેન્ટમ સંરક્ષણ\n(D) એન્ટ્રોપી વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉર્જા સંરક્ષણ. ઉર્જા ઉત્પન્ન કરી શકાતી નથી કે નાશ કરી શકાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ એટલે 'પાયો' અને પાયો હંમેશા ઉર્જાનું રક્ષણ (સંરક્ષણ) કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઉષ્માગતિશાસ્ત્રના પ્રથમ નિયમનું ગાણિતિક સ્વરૂપ કયું છે?\n(A) ΔU = q + w\n(B) ΔU = q - w\n(C) q = ΔU + w\n(D) w = ΔU + q",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ΔU = q + w. જ્યાં ΔU આંતરિક ઉર્જાનો ફેરફાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ સૂત્ર: 'યુ' (U) એ 'ક્યુ' (q) અને 'ડબ્લ્યુ' (w) નો સરવાળો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો પ્રણાલી દ્વારા પર્યાવરણ પર કાર્ય કરવામાં આવે, તો 'w' ની સંજ્ઞા શું હશે?\n(A) ધન (+)\n(B) ઋણ (-)\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઋણ (-). IUPAC મુજબ પ્રણાલી દ્વારા થતું કાર્ય ઋણ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રણાલી પોતે કામ કરે તો તેની ઉર્જા ઘટે, એટલે ઋણ (-)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો પ્રણાલી પર્યાવરણમાંથી ઉષ્મા મેળવે, તો 'q' ની સંજ્ઞા શું હશે?\n(A) ધન (+)\n(B) ઋણ (-)\n(C) શૂન્ય\n(D) અચળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધન (+). પ્રણાલી ઉષ્મા શોષે ત્યારે ઉર્જા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર આવે તો પ્લસ (+), બહાર જાય તો માઈનસ (-)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમતાપી (Isothermal) પ્રક્રિયા માટે કયું સાચું છે?\n(A) ΔT = 0\n(B) q = 0\n(C) ΔV = 0\n(D) ΔP = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ΔT = 0. જે પ્રક્રિયા દરમિયાન તાપમાન અચળ રહે તેને સમતાપી પ્રક્રિયા કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' = સમાન, 'તાપી' = તાપમાન. એટલે ΔT = 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રુદ્ધોષ્મી (Adiabatic) પ્રક્રિયા માટે કઈ શરત સાચી છે?\n(A) ΔT = 0\n(B) q = 0\n(C) w = 0\n(D) ΔV = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) q = 0. રુદ્ધોષ્મી પ્રક્રિયામાં પ્રણાલી અને પર્યાવરણ વચ્ચે ઉષ્માનો વિનિમય થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રુદ્ધ' એટલે રોકાયેલું, 'ઉષ્મા' એટલે q. એટલે q = 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અચળ કદ (Isochoric) પ્રક્રિયામાં થતું કાર્ય કેટલું હોય?\n(A) મહત્તમ\n(B) લઘુત્તમ\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. w = -Pext ΔV. જો ΔV = 0 હોય, તો w = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: જગ્યા ન બદલાય તો ધક્કો (કાર્ય) ક્યાંથી લાગે? ΔV = 0 તો w = 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "એન્થાલ્પી (H) નું સૂત્ર શું છે?\n(A) H = U - PV\n(B) H = U + PV\n(C) H = U + TS\n(D) H = U - TS",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) H = U + PV. એન્થાલ્પી એ આંતરિક ઉર્જા અને દબાણ-કદના ગુણાકારનો સરવાળો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H = 'U' + 'PV' (હા, હું પીવું છું - યાદ રાખવા માટે રમૂજી ટ્રીક!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અચળ દબાણે શોષાતી કે મુક્ત થતી ઉષ્મા કોના બરાબર હોય છે?\n(A) ΔU\n(B) ΔH\n(C) ΔG\n(D) ΔS",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ΔH. qp = ΔH (અચળ દબાણે ઉષ્મા ફેરફાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P (Pressure) = H (Enthalpy) અને V (Volume) = U (Internal Energy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઉષ્માક્ષેપક પ્રક્રિયા માટે ΔH ની કિંમત કેવી હોય?\n(A) ધન\n(B) ઋણ\n(C) શૂન્ય\n(D) એક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઋણ. ઉષ્માક્ષેપક પ્રક્રિયામાં ઉષ્મા મુક્ત થાય છે, તેથી એન્થાલ્પી ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક્ષેપક' એટલે ફેંકવું, બહાર ફેંકે તો આપણી પાસે ઓછી (ઋણ) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઉષ્માશોષક પ્રક્રિયા માટે સાચું વિધાન કયું છે?\n(A) ΔH < 0\n(B) ΔH > 0\n(C) ΔH = 0\n(D) ΔH = ΔU",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ΔH > 0. ઉષ્માશોષક પ્રક્રિયામાં ઉર્જા મેળવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોષક = શોષવું = પ્લસ (+) થવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ΔH અને ΔU વચ્ચેનો સંબંધ કયો છે?\n(A) ΔH = ΔU + ΔnRT\n(B) ΔU = ΔH + ΔnRT\n(C) ΔH = ΔU - ΔnRT\n(D) ΔH = ΔU + RT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ΔH = ΔU + ΔnRT. આ આદર્શ વાયુ માટેનો સંબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ સૂત્ર: H મોટો ભાઈ, U નાનો ભાઈ. મોટા ભાઈ = નાનો ભાઈ + કંઈક (ΔnRT).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પ્રક્રિયા N2(g) + 3H2(g) → 2NH3(g) માટે Δng નું મૂલ્ય કેટલું હશે?\n(A) +2\n(B) -2\n(C) +4\n(D) -4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -2. Δn = (નીપજના વાયુરૂપ મોલ) - (પ્રક્રિયકના વાયુરૂપ મોલ) = 2 - (1+3) = 2 - 4 = -2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: જમણી બાજુના ગેસ મોલ - ડાબી બાજુના ગેસ મોલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો Δng = 0 હોય, તો ΔH અને ΔU વચ્ચેનો સંબંધ શું થાય?\n(A) ΔH > ΔU\n(B) ΔH < ΔU\n(C) ΔH = ΔU\n(D) ΔH = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ΔH = ΔU. જ્યારે Δng = 0 હોય ત્યારે ΔH = ΔU + (0)RT = ΔU.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ સરખા તો એન્થાલ્પી અને આંતરિક ઉર્જા પણ સરખી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઉષ્માક્ષમતા (C) નો એકમ કયો છે?\n(A) J/K\n(B) J/mol\n(C) J.K\n(D) J/kg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) J/K. C = q / ΔT, તેથી એકમ જૂલ/કેલ્વિન થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉષ્મા (J) ભાગ્યા તાપમાન (K)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Cp અને Cv વચ્ચેનો સંબંધ કયો છે?\n(A) Cv - Cp = R\n(B) Cp - Cv = R\n(C) Cp + Cv = R\n(D) Cp / Cv = R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Cp - Cv = R. આને મેયરનો સંબંધ પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: P પહેલા આવે V કરતા, એટલે P - V = R!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બોમ્બ કેલરીમીટર દ્વારા શું માપવામાં આવે છે?\n(A) ΔH\n(B) ΔU\n(C) ΔG\n(D) ΔS",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ΔU. બોમ્બ કેલરીમીટર અચળ કદે પ્રક્રિયા કરે છે, તેથી તે આંતરિક ઉર્જા ફેરફાર માપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બોમ્બ' કડક (અચળ કદ) હોય, એટલે ΔU માપે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પ્રમાણિત અવસ્થામાં તત્વોની મુક્ત સ્વરૂપે એન્થાલ્પી (ΔfH°) કેટલી લેવામાં આવે છે?\n(A) 100 kJ\n(B) 1 kJ\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. કુદરતમાં મુક્ત રીતે મળતા તત્વો (જેમ કે O2, H2, C-graphite) ની સર્જન એન્થાલ્પી શૂન્ય લેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ભગવાને મફતમાં આપ્યું છે તેનું બિલ (Enthalpy) શૂન્ય હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "હેસનો નિયમ (Hess's Law) શેના પર આધારિત છે?\n(A) પ્રારંભિક અને અંતિમ અવસ્થા\n(B) પ્રક્રિયાના પથ પર\n(C) તાપમાનના ફેરફાર પર\n(D) માત્ર ઉદ્દીપક પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પ્રારંભિક અને અંતિમ અવસ્થા. કુલ એન્થાલ્પી ફેરફાર પથ પર આધારિત નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેસનો નિયમ એટલે 'ગમે તે રસ્તે જાઓ, ભાડું (ΔH) સરખું જ લાગશે'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નીચેનામાંથી કઈ પ્રક્રિયામાં એન્ટ્રોપી વધે છે?\n(A) પ્રવાહીનું ઠારણ\n(B) વાયુનું પ્રવાહીકરણ\n(C) ખાંડનું પાણીમાં ઓગળવું\n(D) સ્ફટિકીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખાંડનું પાણીમાં ઓગળવું. જ્યારે ઘન પદાર્થ ઓગળે ત્યારે અવ્યવસ્થા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ટ્રોપી એટલે 'અવ્યવસ્થા'. જે પ્રક્રિયામાં છૂટા પડે તેમાં એન્ટ્રોપી વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સ્વયંસ્ફુરિત (Spontaneous) પ્રક્રિયા માટે ગિબ્સ મુક્ત ઉર્જા (ΔG) ની શરત કઈ છે?\n(A) ΔG > 0\n(B) ΔG < 0\n(C) ΔG = 0\n(D) ΔG = ΔH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ΔG < 0. સ્વયંસ્ફુરિત પ્રક્રિયા માટે ΔG હંમેશા ઋણ હોવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ΔG ઋણ (-) હોય તો પ્રક્રિયા 'ગો' (Go - ચાલુ થાય)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સંતુલન અવસ્થાએ ΔG નું મૂલ્ય કેટલું હોય?\n(A) મહત્તમ\n(B) લઘુત્તમ\n(C) શૂન્ય\n(D) ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. સંતુલન સમયે ગિબ્સ મુક્ત ઉર્જાનો ફેરફાર શૂન્ય થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે 'શાંતિ', અને શાંતિમાં કોઈ ફેરફાર (ΔG) ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ગિબ્સ-હેલ્મહોલ્ટ્ઝ સમીકરણ કયું છે?\n(A) ΔG = ΔH + TΔS\n(B) ΔG = ΔH - TΔS\n(C) ΔG = ΔS - TΔH\n(D) ΔH = ΔG - TΔS",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ΔG = ΔH - TΔS. આ સમીકરણ પ્રક્રિયાની સ્વયંસ્ફુરિતતા નક્કી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G' = 'H' - 'TS' (Gautam Has Total Satisfaction - માત્ર યાદ રાખવા માટે!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો ΔH ધન હોય અને ΔS પણ ધન હોય, તો પ્રક્રિયા ક્યારે સ્વયંસ્ફુરિત બનશે?\n(A) નીચા તાપમાને\n(B) ઊંચા તાપમાને\n(C) દરેક તાપમાને\n(D) ક્યારેય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઊંચા તાપમાને. જ્યારે T વધારે હોય ત્યારે TΔS નું મૂલ્ય ΔH કરતા વધી જાય, જેથી ΔG ઋણ બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બંને + હોય, તો 'ગરમી' (High T) આપો તો જ કામ થશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઉષ્માગતિશાસ્ત્રનો બીજો નિયમ કોના પર ધ્યાન કેન્દ્રિત કરે છે?\n(A) ઉર્જા સંરક્ષણ\n(B) પ્રક્રિયાની દિશા અને એન્ટ્રોપી\n(C) દળ સંરક્ષણ\n(D) તાપમાનનું માપન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રક્રિયાની દિશા અને એન્ટ્રોપી. વિશ્વની એન્ટ્રોપી સતત વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલો નિયમ 'કેટલી' ઉર્જા, બીજો નિયમ 'કઈ બાજુ' પ્રક્રિયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "નિરાળી પ્રણાલી માટે હંમેશા ΔS શું હોય?\n(A) ΔS < 0\n(B) ΔS = 0\n(C) ΔS > 0\n(D) ΔS = અચળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ΔS > 0. નિરાળી પ્રણાલીમાં સ્વયંસ્ફુરિત પ્રક્રિયા થવા માટે એન્ટ્રોપી વધવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી રીતે બધું વિખરાય (અવ્યવસ્થિત થાય), એટલે ΔS વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "બંધન એન્થાલ્પી હંમેશા કેવી હોય છે?\n(A) ઋણ\n(B) ધન\n(C) શૂન્ય\n(D) તાપમાન પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધન. બંધ તોડવા માટે હંમેશા ઉર્જા આપવી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'તોડવા માટે જોર (ઉર્જા) જોઈએ', એટલે હંમેશા પ્લસ (+)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એક મોલ પદાર્થનું તેના તત્વોમાંથી નિર્માણ થાય ત્યારે થતા એન્થાલ્પી ફેરફારને શું કહેવાય?\n(A) દહન એન્થાલ્પી\n(B) સર્જન એન્થાલ્પી (Formation Enthalpy)\n(C) પરમાણ્વીયકરણ એન્થાલ્પી\n(D) તટસ્થીકરણ એન્થાલ્પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સર્જન એન્થાલ્પી. (ΔfH).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સર્જન = બનાવવું (Formation)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "1 મોલ વાયુરૂપ પદાર્થને તેના ઘટક પરમાણુઓમાં રૂપાંતરિત કરવા જરૂરી ઉર્જાને શું કહેવાય?\n(A) સર્જન એન્થાલ્પી\n(B) દહન એન્થાલ્પી\n(C) પરમાણ્વીયકરણ એન્થાલ્પી (Enthalpy of Atomization)\n(D) ગલન એન્થાલ્પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પરમાણ્વીયકરણ એન્થાલ્પી. અણુમાંથી પરમાણુ બનાવવા માટેની ઉર્જા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અણુ' તોડીને 'પરમાણુ' બનાવવા એટલે પરમાણ્વીયકરણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નીચેનામાંથી કયા ફેરફારમાં ΔH અને ΔU સમાન હશે?\n(A) C(s) + O2(g) → CO2(g)\n(B) PCl5(g) → PCl3(g) + Cl2(g)\n(C) N2(g) + 3H2(g) → 2NH3(g)\n(D) H2(g) + 1/2 O2(g) → H2O(l)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) C(s) + O2(g) → CO2(g). અહીં Δng = 1 - 1 = 0. તેથી ΔH = ΔU.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: ડાબી અને જમણી બાજુ ગેસ (g) ના મોલ ગણો, જો સરખા તો ΔH = ΔU!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પાણીના ગલનબિંદુએ (0°C) બરફનું પાણીમાં રૂપાંતર થાય ત્યારે એન્ટ્રોપીમાં શું ફેરફાર થાય?\n(A) વધે\n(B) ઘટે\n(C) શૂન્ય થાય\n(D) અચળ રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વધે. ઘન (બરફ) માંથી પ્રવાહી (પાણી) બને ત્યારે અણુઓની ગતિશીલતા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફમાં અણુઓ જેલમાં છે, પાણીમાં તે આઝાદ થાય, એટલે એન્ટ્રોપી વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ઉષ્માગતિશાસ્ત્રનો ત્રીજો નિયમ શું જણાવે છે?\n(A) વિશ્વની એન્ટ્રોપી વધે છે\n(B) નિરપેક્ષ શૂન્ય તાપમાને શુદ્ધ સ્ફટિકમય પદાર્થની એન્ટ્રોપી શૂન્ય હોય છે\n(C) ઉર્જા અચળ રહે છે\n(D) ΔG હંમેશા ઋણ હોય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નિરપેક્ષ શૂન્ય તાપમાને (0 K) શુદ્ધ સ્ફટિકમય પદાર્થની એન્ટ્રોપી શૂન્ય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K તાપમાને બધું જ થીજી જાય, એટલે હલચલ (Entropy) = 0!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "આદર્શ વાયુના મુક્ત વિસ્તરણ (Free Expansion) માં કાર્ય (w) કેટલું હોય?\n(A) મહત્તમ\n(B) લઘુત્તમ\n(C) શૂન્ય\n(D) -PΔV",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. મુક્ત વિસ્તરણમાં બાહ્ય દબાણ Pext = 0 હોવાથી w = 0 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત વિસ્તરણ એટલે 'સામે કોઈ રોકવાવાળું (દબાણ) નથી', તો મહેનત (કાર્ય) ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પર્યાવરણની એન્ટ્રોપીનો ફેરફાર ΔSsurr શોધવાનું સૂત્ર કયું છે?\n(A) ΔH / T\n(B) -ΔH / T\n(C) ΔG / T\n(D) ΔU / T",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -ΔH / T. પ્રણાલી જે ઉષ્મા ગુમાવે તે પર્યાવરણ મેળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: પ્રણાલીનું જે માઈનસ તે પર્યાવરણનું પ્લસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "એન્થાલ્પી અને આંતરિક ઉર્જા વચ્ચેનો તફાવત (ΔH - ΔU) ક્યારે RT બરાબર થાય?\n(A) Δng = 0\n(B) Δng = 1\n(C) Δng = -1\n(D) Δng = 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Δng = 1. સૂત્ર: ΔH - ΔU = ΔnRT. જો Δn = 1 હોય, તો તફાવત RT થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધું સૂત્ર યાદ રાખો: ΔH - ΔU = ΔngRT!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કઈ પ્રક્રિયામાં એન્ટ્રોપી ફેરફાર ઋણ (ΔS < 0) હશે?\n(A) H2O(l) → H2O(g)\n(B) H2(g) → 2H(g)\n(C) 2SO2(g) + O2(g) → 2SO3(g)\n(D) CaCO3(s) → CaO(s) + CO2(g)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2SO2(g) + O2(g) → 2SO3(g). અહીં ગેસના મોલ 3 માંથી 2 થાય છે, એટલે વ્યવસ્થા વધે છે અને એન્ટ્રોપી ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ ઘટે તો એન્ટ્રોપી ઘટે, મોલ વધે તો એન્ટ્રોપી વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "એન્ટ્રોપી (S) એ કેવું વિધેય છે?\n(A) માત્ર પથ વિધેય\n(B) અવસ્થા વિધેય અને જથ્થાત્મક ગુણધર્મ\n(C) અવસ્થા વિધેય અને વિશિષ્ટ ગુણધર્મ\n(D) પથ વિધેય અને વિશિષ્ટ ગુણધર્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અવસ્થા વિધેય અને જથ્થાત્મક ગુણધર્મ. તે પ્રણાલીની અવસ્થા પર અને દ્રવ્યના જથ્થા પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: U, H, S, G બધા જ અવસ્થા વિધેય અને જથ્થાત્મક છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પ્રણાલી દ્વારા થતા મહત્તમ કાર્ય માટે કઈ પ્રક્રિયા હોવી જોઈએ?\n(A) અપ્રતિવર્તી (Irreversible)\n(B) પ્રતિવર્તી (Reversible)\n(C) રુદ્ધોષ્મી\n(D) સમકદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રતિવર્તી (Reversible). પ્રતિવર્તી પ્રક્રિયામાં થતું કાર્ય મહત્તમ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધીરે ધીરે (Reversible)' કામ કરો તો રિઝલ્ટ (કાર્ય) બેસ્ટ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "આંતરિક ઉર્જા (U) માં કઈ ઉર્જાઓનો સમાવેશ થાય છે?\n(A) માત્ર ગતિજ ઉર્જા\n(B) માત્ર સ્થિતિજ ઉર્જા\n(C) યાંત્રિક, વિદ્યુતીય, રાસાયણિક વગેરે તમામ ઉર્જાઓનો સરવાળો\n(D) માત્ર ઉષ્મીય ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તમામ ઉર્જાઓનો સરવાળો. આંતરિક ઉર્જા એ પ્રણાલીમાં રહેલી તમામ પ્રકારની ઉર્જાઓનો સરવાળો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: 'આંતરિક' એટલે અંદર જે કંઈ પણ (All Energy) છે તે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ચક્રીય પ્રક્રિયા (Cyclic Process) માટે ΔU નું મૂલ્ય કેટલું હોય?\n(A) ધન\n(B) ઋણ\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શૂન્ય. ચક્રીય પ્રક્રિયામાં પ્રારંભિક અને અંતિમ અવસ્થા એક જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી શરૂ કર્યું ત્યાં જ પાછા આવો તો ફેરફાર (ΔU) ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "અચળ તાપમાને અને દબાણે ΔG < 0 હોય તો પ્રક્રિયા કેવી હશે?\n(A) સંતુલનમાં\n(B) સ્વયંસ્ફુરિત\n(C) બિન-સ્વયંસ્ફુરિત\n(D) અશક્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્વયંસ્ફુરિત. ગિબ્સ મુક્ત ઉર્જાનો ઘટાડો સ્વયંસ્ફુરિતતા દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ΔG = (-) Negative = 'નેગેટિવ વિચારવા વાળા પણ કામ તો કરે જ' (Spontaneous)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "એક આદર્શ વાયુ સમતાપી રીતે વિસ્તરણ પામે છે, તો તેની આંતરિક ઉર્જામાં શું ફેરફાર થશે?\n(A) વધશે\n(B) ઘટશે\n(C) ફેરફાર નહીં થાય (ΔU = 0)\n(D) બમણી થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ફેરફાર નહીં થાય. આદર્શ વાયુ માટે આંતરિક ઉર્જા માત્ર તાપમાન પર આધાર રાખે છે. સમતાપીમાં ΔT = 0, તેથી ΔU = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ વાયુ માટે: NO T change = NO U change!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "દહન એન્થાલ્પી (ΔcH) હંમેશા કેવી હોય છે?\n(A) હંમેશા ધન\n(B) હંમેશા ઋણ\n(C) શૂન્ય\n(D) નક્કી ન કરી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હંમેશા ઋણ. દહન (સળગાવવું) હંમેશા ઉષ્મા મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સળગે તો ગરમી મળે (મુક્ત થાય), એટલે હંમેશા માઈનસ (-)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "તટસ્થીકરણ એન્થાલ્પીનું મૂલ્ય પ્રબળ એસિડ અને પ્રબળ બેઇઝ માટે કેટલું હોય છે?\n(A) -57.1 kJ/mol\n(B) -13.7 kJ/mol\n(C) +57.1 kJ/mol\n(D) -100 kJ/mol",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -57.1 kJ/mol. આ એક અચળ મૂલ્ય છે કારણ કે H+ અને OH- જોડાઈને પાણી બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ યાદ રાખો: પ્રબળ જોડી (એસિડ-બેઇઝ) = 57.1 નું શુકન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "કયા સાધનમાં અચળ દબાણે ઉષ્મા ફેરફાર માપી શકાય?\n(A) બોમ્બ કેલરીમીટર\n(B) કોફી-કપ કેલરીમીટર\n(C) બેરોમીટર\n(D) હાઇગ્રોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કોફી-કપ કેલરીમીટર. તે વાતાવરણના દબાણે (અચળ દબાણે) કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપ ખુલ્લો હોય તો દબાણ અચળ રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "એન્ટ્રોપીનો એકમ કયો છે?\n(A) J K^-1 mol^-1\n(B) J mol^-1\n(C) kJ mol^-1\n(D) J K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) J K^-1 mol^-1. ΔS = qrev / T.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા (J) / (તાપમાન K * મોલ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "નીચેનામાંથી કયા પદાર્થની પ્રમાણિત સર્જન એન્થાલ્પી શૂન્ય નથી?\n(A) C (graphite)\n(B) O2 (g)\n(C) Br2 (g)\n(D) Br2 (l)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Br2 (g). બ્રોમીન તેની પ્રમાણિત અવસ્થામાં પ્રવાહી (l) હોય છે, વાયુ (g) નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક: જે કુદરતી સ્વરૂપ નથી, તેની કિંમત શૂન્ય નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "1 લિટર-એટમોસ્ફિયર (L.atm) બરાબર કેટલા જૂલ થાય?\n(A) 8.314 J\n(B) 101.3 J\n(C) 1.987 J\n(D) 4.184 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 101.3 J. આ એકમ રૂપાંતર ઉષ્માગતિશાસ્ત્રના દાખલામાં ઉપયોગી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ યાદ રાખો: 1 L.atm = આશરે 100 જૂલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "સીમા (Boundary) કેવી હોઈ શકે?\n(A) માત્ર વાસ્તવિક\n(B) માત્ર કાલ્પનિક\n(C) વાસ્તવિક અથવા કાલ્પનિક\n(D) માત્ર જડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વાસ્તવિક અથવા કાલ્પનિક. પ્રણાલીને પર્યાવરણથી અલગ કરતી સપાટી ગમે તે હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીવાલ હોય તો વાસ્તવિક, અને ધારેલી રેખા હોય તો કાલ્પનિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ΔG° = -RT ln K સમીકરણમાં K શું દર્શાવે છે?\n(A) વેગ અચળાંક\n(B) સંતુલન અચળાંક\n(C) વાયુ અચળાંક\n(D) બોલ્ટ્ઝમેન અચળાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સંતુલન અચળાંક. ગિબ્સ ઉર્જા અને સંતુલન અચળાંક વચ્ચેનો આ સંબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K એટલે 'સંતુલનનો કાકો' (Equilibrium Constant)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો ΔG° < 0 હોય, તો સંતુલન અચળાંક K નું મૂલ્ય કેટલું હશે?\n(A) K > 1\n(B) K < 1\n(C) K = 1\n(D) K = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) K > 1. જ્યારે ΔG° ઋણ હોય ત્યારે પ્રક્રિયા પુરોગામી દિશામાં વધુ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો મુક્ત ઉર્જા ઘટે (Negative), તો નીપજ વધે (K > 1)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વરાળનું પાણીમાં રૂપાંતર કઈ પ્રક્રિયા છે?\n(A) ઉષ્માશોષક અને એન્ટ્રોપી વધારો\n(B) ઉષ્માક્ષેપક અને એન્ટ્રોપી ઘટાડો\n(C) ઉષ્માશોષક અને એન્ટ્રોપી ઘટાડો\n(D) ઉષ્માક્ષેપક અને એન્ટ્રોપી વધારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉષ્માક્ષેપક અને એન્ટ્રોપી ઘટાડો. વાયુમાંથી પ્રવાહી બને ત્યારે ઉષ્મા મુક્ત થાય અને અવ્યવસ્થા ઘટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુ (વધુ દોડધામ) માંથી પ્રવાહી (ઓછી દોડધામ) = એન્ટ્રોપી ઘટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "એન્થાલ્પી ફેરફાર ΔH એ પ્રક્રિયાના કયા ગુણધર્મો પર આધારિત નથી?\n(A) પ્રક્રિયકોની અવસ્થા\n(B) નીપજોની અવસ્થા\n(C) મધ્યવર્તી પ્રક્રિયાના પથ\n(D) તાપમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મધ્યવર્તી પ્રક્રિયાના પથ. કારણ કે એન્થાલ્પી અવસ્થા વિધેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવસ્થા વિધેયને 'રસ્તા' (Path) સાથે કોઈ લેવાદેવા નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "અચળ દબાણે પાણીની મોલર ઉષ્માક્ષમતા (Cp) કેટલી છે?\n(A) 75.3 J K^-1 mol^-1\n(B) 4.184 J K^-1 mol^-1\n(C) 18 J K^-1 mol^-1\n(D) 100 J K^-1 mol^-1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 75.3 J K^-1 mol^-1. પાણી માટે Cp નું આ પ્રાયોગિક મૂલ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની વિશિષ્ટ ઉષ્મા 4.184 છે, તેને અણુભાર 18 વડે ગુણો (4.18 * 18 ≈ 75)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "કાર્બન (Graphite) ના દહનથી CO2 બને ત્યારે ΔH = -393.5 kJ છે. તો 44 ગ્રામ CO2 બનતા કેટલી ઉષ્મા મુક્ત થશે?\n(A) 393.5 kJ\n(B) 787 kJ\n(C) 196.7 kJ\n(D) 100 kJ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 393.5 kJ. CO2 નો અણુભાર 44 ગ્રામ/મોલ છે. એટલે કે 1 મોલ માટે આપેલી કિંમત જ રહેશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મોલ CO2 = 44 ગ્રામ. એટલે જે આપ્યું છે તે જ જવાબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કયા તાપમાને પાણી અને બરફ સંતુલનમાં હોય?\n(A) 273 K\n(B) 373 K\n(C) 298 K\n(D) 0 K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 273 K (0°C). આ તાપમાને પ્રવાહી અને ઘન અવસ્થા વચ્ચે સંતુલન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થીજવાનું બિંદુ = ઓગળવાનું બિંદુ = સંતુલન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "બોન-હેબર ચક્ર (Born-Haber Cycle) નો ઉપયોગ શું શોધવા માટે થાય છે?\n(A) આયનીકરણ ઉર્જા\n(B) લેટાઈસ એન્થાલ્પી (Lattice Enthalpy)\n(C) ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી\n(D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ. મુખ્યત્વે લેટાઈસ એન્થાલ્પી માટે વપરાય છે પણ તેમાં બધી એન્થાલ્પીનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયનિક સંયોજનોનું 'કુંડળી' એટલે બોન-હેબર ચક્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "નીચેનામાંથી કયું સમીકરણ કાર્ય (w) માટે પ્રતિવર્તી સમતાપી વિસ્તરણ દર્શાવે છે?\n(A) w = -PΔV\n(B) w = -2.303 nRT log(V2/V1)\n(C) w = ΔU - q\n(D) w = -ΔnRT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) w = -2.303 nRT log(V2/V1). આ મહત્તમ કાર્યનું સૂત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ યાદ રાખો: 'લોગ' (log) વાળું સૂત્ર હંમેશા 'રીવર્સિબલ' (પ્રતિવર્તી) માટે હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "જો q = -20 J અને w = +10 J હોય, તો ΔU કેટલું થાય?\n(A) -30 J\n(B) -10 J\n(C) +10 J\n(D) +30 J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -10 J. ΔU = q + w = -20 + 10 = -10 J.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિહ્નો સાથે સરવાળો કરો: (-20) + (+10) = -10!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "પદાર્થની આંતરિક ઉર્જા કોના ફેરફાર દ્વારા બદલી શકાય?\n(A) ઉષ્મા દ્વારા\n(B) કાર્ય દ્વારા\n(C) દ્રવ્યના જથ્થા દ્વારા\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ. ઉષ્મા, કાર્ય અને દ્રવ્ય ઉમેરવાથી કે દૂર કરવાથી ઉર્જા બદલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લે-વેચ' (Exchange) ગમે તેની કરો, 'બેંક બેલેન્સ' (Internal Energy) બદલાશે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જ્યારે વાયુનું કદ અચળ દબાણે વધે, ત્યારે પ્રણાલી દ્વારા થતું કાર્ય કેવું હોય?\n(A) ધન\n(B) ઋણ\n(C) શૂન્ય\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઋણ. વિસ્તરણ (Expansion) દરમિયાન પ્રણાલી કાર્ય કરે છે, તેથી w ઋણ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ વધે (ΔV = +) તો કાર્ય (w = -PΔV) ઋણ જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "ગલન એન્થાલ્પી (ΔfusH) હંમેશા કેવી હોય છે?\n(A) ધન\n(B) ઋણ\n(C) શૂન્ય\n(D) ઋણ અથવા શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધન. બરફને ઓગાળવા માટે ઉષ્મા આપવી જ પડે, એટલે તે ઉષ્માશોષક પ્રક્રિયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓગાળવા માટે ગરમી 'આપવી' પડે (+)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિશ્વની કુલ ઉર્જાનો જથ્થો કેવો રહે છે?\n(A) વધતો જાય છે\n(B) ઘટતો જાય છે\n(C) અચળ રહે છે\n(D) તાપમાન મુજબ બદલાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અચળ રહે છે. ઉષ્માગતિશાસ્ત્રના પ્રથમ નિયમ મુજબ ઉર્જા સંરક્ષિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિશ્વ એક 'નિરાળી પ્રણાલી' છે, જેની ઉર્જા ક્યારેય બદલાતી નથી!</p></div>"
+    }
+  ]
+}

@@ -1161,3 +1161,371 @@ var Std11_Chemistry_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "તત્ત્વોનું વર્ગીકરણ અને ગુણધર્મોમાં આવર્તિતા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ડોબરેનરની ત્રિપુટીના નિયમ મુજબ, નીચેનામાંથી કઈ ત્રિપુટી સાચી છે?\nA. Li, Na, K\nB. Be, Mg, Ca\nC. Cl, Br, I\nD. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ. ડોબરેનરે સમાન ગુણધર્મો ધરાવતા ત્રણ તત્ત્વોના જૂથ બનાવ્યા હતા જેમાં વચ્ચેના તત્ત્વનું પરમાણ્વીય દળ અન્ય બે તત્ત્વોના સરેરાશ દળ જેટલું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'લી-ના-કે' (Li, Na, K), 'કા-સ-બા' (Ca, Sr, Ba) અને 'કલ-બ્ર-આઈ' (Cl, Br, I) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ન્યુલેન્ડના અષ્ટકનો નિયમ કયા તત્ત્વ સુધી મર્યાદિત હતો?\nA. પોટેશિયમ\nB. કેલ્શિયમ\nC. મેગ્નેશિયમ\nD. આયર્ન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કેલ્શિયમ. ન્યુલેન્ડનો અષ્ટકનો નિયમ માત્ર હલકા તત્ત્વો (કેલ્શિયમ સુધી) માટે જ સાચો જણાતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ન્યુલેન્ડનું 8મુ તત્ત્વ Ca એ અટકી ગયું!' (Ca = Calcium)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લોથર મેયરના આલેખમાં વક્રના શિખર પર કયા તત્ત્વો આવેલા હતા?\nA. હેલોજન\nB. આલ્કલાઈન અર્થ ધાતુઓ\nC. આલ્કલી ધાતુઓ\nD. ઉમદા વાયુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આલ્કલી ધાતુઓ. લોથર મેયરે પરમાણ્વીય કદ વિરુદ્ધ પરમાણ્વીય દળનો આલેખ દોર્યો હતો, જેમાં ટોચ પર આલ્કલી ધાતુઓ (Li, Na, K, Rb, Cs) હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'શિખર પર રાજા બેસે, આવર્ત કોષ્ટકમાં આલ્કલી ધાતુઓ સૌથી મોટી (કદમાં) એટલે તે જ શિખર પર હોય.'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મેન્ડેલીફનો આવર્ત નિયમ કયા ગુણધર્મ પર આધારિત હતો?\nA. પરમાણ્વીય ક્રમાંક\nB. પરમાણ્વીય દળ\nC. આયનીકરણ એન્થાલ્પી\nD. ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પરમાણ્વીય દળ. મેન્ડેલીફના મતે તત્ત્વોના ગુણધર્મો તેમના પરમાણ્વીય દળના આવર્તનીય વિધેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'મેન્ડેલીફ = જૂનું = દળ (Mass); મોઝલે = નવું = ક્રમાંક (Number)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આધુનિક આવર્ત નિયમ કોણે આપ્યો?\nA. મેન્ડેલીફ\nB. ડોબરેનર\nC. હેન્રી મોઝલે\nD. ન્યુલેન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હેન્રી મોઝલે. મોઝલેએ દર્શાવ્યું કે પરમાણ્વીય ક્રમાંક એ પરમાણ્વીય દળ કરતા વધુ પાયાનો ગુણધર્મ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Modern = Moseley' (M થી M યાદ રાખવું)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આધુનિક આવર્ત કોષ્ટકમાં કુલ કેટલા આવર્ત અને સમૂહ આવેલા છે?\nA. 7 આવર્ત, 18 સમૂહ\nB. 18 આવર્ત, 7 સમૂહ\nC. 8 આવર્ત, 18 સમૂહ\nD. 7 આવર્ત, 8 સમૂહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7 આવર્ત, 18 સમૂહ. આડી હરોળને આવર્ત અને ઉભી હરોળને સમૂહ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'સાત ફેરા (આવર્ત) અને 18 વર્ષે લગ્ન (સમૂહ) - યાદ રાખવા માટે માત્ર!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પરમાણ્વીય ક્રમાંક 105 ધરાવતા તત્ત્વનું IUPAC નામ શું થશે?\nA. Unnilpentium\nB. Unnilhexium\nC. Unnilquadium\nD. Unnilseptium",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Unnilpentium. 1=un, 0=nil, 5=pent + ium.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 105 = 1(Un) + 0(Nil) + 5(Pent) + ium = Unnilpentium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "IUPAC સંજ્ઞા 'Uuo' કયા પરમાણ્વીય ક્રમાંક માટે વપરાય છે?\nA. 108\nB. 110\nC. 118\nD. 102",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 118. U = Un (1), u = Un (1), o = Oct (8). કુલ 118.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - સંજ્ઞાના અક્ષરો જુઓ: U(1) U(1) O(8) = 118.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચોથા આવર્તમાં મહત્તમ કેટલા તત્ત્વો હોઈ શકે?\nA. 8\nB. 18\nC. 32\nD. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 18. ચોથા આવર્તમાં 4s, 3d અને 4p કક્ષકો ભરાય છે (2+10+6 = 18).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તમાં તત્ત્વોની સંખ્યા: 2, 8, 8, 18, 18, 32, 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયા બ્લોકના તત્ત્વોને 'પ્રતિનિધિ તત્ત્વો' (Representative Elements) કહેવામાં આવે છે?\nA. માત્ર s-બ્લોક\nB. માત્ર p-બ્લોક\nC. s અને p બ્લોક\nD. d-બ્લોક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) s અને p બ્લોક. સમૂહ 1, 2 અને 13 થી 17 ના તત્ત્વોને પ્રતિનિધિ તત્ત્વો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'S + P = Main Elements (Representative)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "f-બ્લોકના તત્ત્વોને બીજા કયા નામે ઓળખવામાં આવે છે?\nA. સંક્રાંતિ તત્ત્વો\nB. આંતર સંક્રાંતિ તત્ત્વો\nC. સક્રિય ધાતુઓ\nD. ઉમદા વાયુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આંતર સંક્રાંતિ તત્ત્વો. તેઓ સંક્રાંતિ શ્રેણીની અંદર (d-બ્લોકની અંદર) આવેલા હોવાથી તેમને આંતર સંક્રાંતિ તત્ત્વો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'd = સંક્રાંતિ, f = આંતર (Inner) સંક્રાંતિ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પરમાણ્વીય ત્રિજ્યાનો સાચો ક્રમ કયો છે?\nA. Li > Be > B > C\nB. C > B > Be > Li\nC. Li < Be < B < C\nD. Li > B > Be > C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Li > Be > B > C. આવર્તમાં ડાબેથી જમણે જતાં કેન્દ્રીય વીજભાર વધવાને કારણે પરમાણ્વીય ત્રિજ્યા ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ડાબેથી જમણે (L to R) = કદ ઘટે 📉'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નીચેનામાંથી કયું આયન સૌથી નાનું કદ ધરાવે છે?\nA. O²⁻\nB. F⁻\nC. Na⁺\nD. Mg²⁺",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) Mg²⁺. આ આઈસોઈલેક્ટ્રોનિક સ્પીસીઝ છે. જેમાં ધન વીજભાર વધુ તેનું કદ સૌથી નાનું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'વધારે પ્લસ (+), ઓછું કદ (Smallest size)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આયનીકરણ એન્થાલ્પીનો એકમ શું છે?\nA. kJ mol\nB. kJ / mol\nC. J / m\nD. kJ mol⁻²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) kJ / mol. તેને મોલ દીઠ ઉર્જા તરીકે માપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ એન્થાલ્પીનો એકમ સામાન્ય રીતે kJ/mol જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નાઈટ્રોજનની પ્રથમ આયનીકરણ એન્થાલ્પી ઓક્સિજન કરતા વધુ છે, કારણ કે:\nA. નાઈટ્રોજનનું કદ નાનું છે.\nB. નાઈટ્રોજનમાં અર્ધપૂર્ણ p-કક્ષક છે.\nC. ઓક્સિજન વધુ વિદ્યુતઋણ છે.\nD. નાઈટ્રોજન અધાતુ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નાઈટ્રોજનમાં અર્ધપૂર્ણ p-કક્ષક (2p³) છે જે વધુ સ્થાયી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'સ્થાયી (Half/Full filled) માંથી ઈલેક્ટ્રોન કાઢવો અઘરો (High IE)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમૂહમાં ઉપરથી નીચે તરફ જતાં આયનીકરણ એન્થાલ્પીમાં શું ફેરફાર થાય છે?\nA. વધે છે\nB. ઘટે છે\nC. અચળ રહે છે\nD. પહેલા વધે અને પછી ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘટે છે. કારણ કે પરમાણ્વીય કદ વધે છે અને શીલ્ડિંગ અસર વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'કદ વધે, આકર્ષણ ઘટે, IE ઘટે 📉'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સૌથી વધુ ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી (ઋણ મૂલ્ય) ધરાવતું તત્ત્વ કયું છે?\nA. Fluorine (F)\nB. Chlorine (Cl)\nC. Bromine (Br)\nD. Iodine (I)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Chlorine (Cl). ફ્લોરિનનું કદ અત્યંત નાનું હોવાથી આવનારા ઈલેક્ટ્રોન પર અપાકર્ષણ લાગે છે, તેથી ક્લોરિનની ΔegH વધુ ઋણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Exception! Cl > F' (મોસ્ટ આઈએમપી પ્રશ્ન!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કયા તત્ત્વો માટે ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પીનું મૂલ્ય હંમેશા ધન હોય છે?\nA. હેલોજન\nB. આલ્કલી ધાતુઓ\nC. ઉમદા વાયુઓ\nD. ચાલ્કોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉમદા વાયુઓ. તેમની કક્ષકો પૂર્ણ ભરાયેલી હોવાથી નવા ઈલેક્ટ્રોનને દાખલ કરવા માટે ઉર્જા આપવી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'પેટ ભરેલું હોય (Stable), તો જમવા (Electron) માટે પૈસા (Energy) આપવા પડે!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિદ્યુતઋણતા માપવા માટેનો કયો સ્કેલ સૌથી વધુ વપરાય છે?\nA. મોલીકન સ્કેલ\nB. પૌલિંગ સ્કેલ\nC. રોચોવ સ્કેલ\nD. મેન્ડેલીફ સ્કેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પૌલિંગ સ્કેલ. લિનસ પૌલિંગે 1932 માં આ સ્કેલ વિકસાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Pauling = Popular' (વિદ્યુતઋણતા માટે)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આવર્ત કોષ્ટકમાં સૌથી વધુ વિદ્યુતઋણ તત્ત્વ કયું છે?\nA. Oxygen\nB. Chlorine\nC. Fluorine\nD. Cesium",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Fluorine. પૌલિંગ સ્કેલ પર ફ્લોરિનનું મૂલ્ય 4.0 છે જે સૌથી વધુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'FON (ફોન) - F સૌથી મોટો ડોન!' (F > O > N)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ધાતુ ગુણધર્મ આવર્તમાં ડાબેથી જમણે જતાં શું થાય છે?\nA. વધે છે\nB. ઘટે છે\nC. પહેલા ઘટે પછી વધે\nD. ફેરફાર થતો નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘટે છે. ડાબી બાજુ ધાતુઓ અને જમણી બાજુ અધાતુઓ આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'L to R = Non-metallic character 📈, Metallic 📉'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નીચેનામાંથી કયું ઓક્સાઈડ ઉભયગુણી (Amphoteric) છે?\nA. Na₂O\nB. Cl₂O₇\nC. Al₂O₃\nD. MgO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Al₂O₃. એલ્યુમિનિયમ ઓક્સાઈડ એસિડ અને બેઈઝ બંને સાથે પ્રક્રિયા કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Al, Zn, Sn, Pb ના ઓક્સાઈડ = ઉભયગુણી'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તત્ત્વની સંયોજકતા તેના કયા ઈલેક્ટ્રોન પર આધારિત છે?\nA. આંતરિક કક્ષાના ઈલેક્ટ્રોન\nB. બાહ્યતમ કક્ષાના ઈલેક્ટ્રોન\nC. કેન્દ્રના પ્રોટોન\nD. ન્યુટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બાહ્યતમ કક્ષાના ઈલેક્ટ્રોન. જેને વેલેન્સ ઈલેક્ટ્રોન પણ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'બહારના ઈલેક્ટ્રોન જ ભાગીદારી કે દાન કરે!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લિથિયમ અને મેગ્નેશિયમ વચ્ચેના સામ્યતા ધરાવતા સંબંધને શું કહે છે?\nA. સમૂહ સંબંધ\nB. આવર્ત સંબંધ\nC. વિકર્ણ સંબંધ (Diagonal Relationship)\nD. આયનીય સંબંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિકર્ણ સંબંધ. બીજા અને ત્રીજા આવર્તના અમુક તત્ત્વો ત્રાંસી દિશામાં ગુણધર્મોમાં સામ્યતા ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Li-Mg, Be-Al, B-Si = Cross Connection (Diagonal)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "d-બ્લોક તત્ત્વોની સામાન્ય ઈલેક્ટ્રોનિક સંરચના કઈ છે?\nA. ns¹⁻²\nB. (n-1)d¹⁻¹⁰ ns⁰⁻²\nC. ns² np¹⁻⁶\nD. (n-2)f¹⁻¹⁴ (n-1)d⁰⁻¹ ns²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (n-1)d¹⁻¹⁰ ns⁰⁻². આ સંરચનામાં છેલ્લો ઈલેક્ટ્રોન d-કક્ષકમાં ભરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'd બ્લોક એટલે (n-1)d યાદ રાખવું જ!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "એક્ટિનોઇડ્સ શ્રેણી કયા પરમાણ્વીય ક્રમાંકથી શરૂ થાય છે?\nA. 58 થી 71\nB. 90 થી 103\nC. 89 થી 102\nD. 57 થી 70",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 90 (Thorium) થી 103 (Lawrencium). 89 નંબરનું Actinium d-બ્લોકનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'લેન્થેનોઇડ 58-71, એક્ટિનોઇડ 90-103'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નીચેનામાંથી કયું તત્ત્વ સૌથી વધુ ધાત્વિક છે?\nA. K\nB. Mg\nC. Al\nD. Cs",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) Cs (સીઝિયમ). સમૂહમાં નીચે જતાં અને આવર્તમાં ડાબી બાજુએ ધાત્વિક ગુણ સૌથી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Cs એ સૌથી મોટું અને સૌથી વધુ ધાત્વિક (Donating tendency)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પ્રથમ આવર્તમાં કેટલા તત્ત્વો હોય છે?\nA. 2\nB. 8\nC. 18\nD. 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2 (Hydrogen અને Helium).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '1st Period = Smallest = Only 2 elements'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Z = 17 ધરાવતું તત્ત્વ કયા સમૂહનું હશે?\nA. 15\nB. 16\nC. 17\nD. 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 17. Z=17 એટલે ક્લોરિન, જે હેલોજન સમૂહ (17) માં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '17 = 2, 8, 7; બાહ્ય કક્ષામાં 7 એટલે 10+7 = 17મો સમૂહ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મેન્ડેલીફે કયા તત્ત્વ માટે 'એકા-એલ્યુમિનિયમ' નામ વાપર્યું હતું?\nA. Scandium\nB. Gallium\nC. Germanium\nD. Silicon",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Gallium. મેન્ડેલીફે આગાહી કરેલા તત્ત્વોમાં એકા-બોરોન (Sc), એકા-એલ્યુમિનિયમ (Ga) અને એકા-સિલિકોન (Ge) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ScaBo, GaAl, GeSi' (Sc-B, Ga-Al, Ge-Si)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ચાલકોજન તત્ત્વો કયા સમૂહના છે?\nA. 15\nB. 16\nC. 17\nD. 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 16. ઓક્સિજન ફેમિલીને ચાલકોજન (Chalcogens) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '15=Pnictogens, 16=Chalcogens, 17=Halogens'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પરમાણ્વીય ક્રમાંક 120 ધરાવતું તત્ત્વ જો શોધાય, તો તે કયા સમૂહમાં હશે?\nA. 1\nB. 2\nC. 18\nD. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2. 118 ઉમદા વાયુ (સમૂહ 18) છે, 119 સમૂહ 1 માં અને 120 સમૂહ 2 માં આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '118 + 2 = 120. 118 એ છેલ્લું છે, તો નવું આવર્ત શરૂ થશે (Group 2)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "આયનીકરણ એન્થાલ્પીનો સાચો ક્રમ કયો છે?\nA. ΔH₁ > ΔH₂ > ΔH₃\nB. ΔH₃ > ΔH₂ > ΔH₁\nC. ΔH₂ > ΔH₁ > ΔH₃\nD. ΔH₁ = ΔH₂ = ΔH₃",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ΔH₃ > ΔH₂ > ΔH₁. જેમ જેમ ઈલેક્ટ્રોન દૂર થાય, તેમ બાકીના ઈલેક્ટ્રોન પર કેન્દ્રીય આકર્ષણ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'બીજો કાઢવો અઘરો, ત્રીજો એથીય અઘરો!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "નીચેનામાંથી કોની આયનીકરણ એન્થાલ્પી સૌથી ઓછી હશે?\nA. Ne\nB. Cl\nC. Na\nD. Mg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Na. આલ્કલી ધાતુઓનું કદ મોટું હોવાથી તેમની IE સૌથી ઓછી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ડાબી બાજુની ધાતુઓ = Low IE = જલ્દી ઈલેક્ટ્રોન આપે'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કયા તત્ત્વોમાં આંતરિક 'f' કક્ષકો ભરાતી હોય છે?\nA. d-બ્લોક\nB. p-બ્લોક\nC. લેન્થેનોઇડ્સ અને એક્ટિનોઇડ્સ\nD. આલ્કલી ધાતુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લેન્થેનોઇડ્સ અને એક્ટિનોઇડ્સ. તેમાં (n-2)f કક્ષકો ભરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'f-block = Inner Transition = Lanthanoids/Actinoids'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિદ્યુતઋણતાનો સાચો ઘટતો ક્રમ કયો છે?\nA. F > O > N\nB. N > O > F\nC. O > F > N\nD. F > N > O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) F > O > N. ફ્લોરિન સૌથી વધુ વિદ્યુતઋણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ફોન (FON) યાદ રાખવો, F (4.0), O (3.5), N (3.0)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કક્ષકોની પેનિટ્રેશન પાવર (ભેદન શક્તિ) નો ક્રમ કયો છે?\nA. s > p > d > f\nB. f > d > p > s\nC. s < p < d < f\nD. p > s > d > f",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) s > p > d > f. s-કક્ષક કેન્દ્રની સૌથી નજીક હોવાથી તેની ભેદન શક્તિ સૌથી વધુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'કેન્દ્રની નજીક તે શક્તિશાળી (Penetrating)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નીચેનામાંથી કઈ જોડી આઈસોઈલેક્ટ્રોનિક નથી?\nA. Na⁺, Mg²⁺\nB. O²⁻, F⁻\nC. Ar, K⁺\nD. Na⁺, Ne⁺",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) Na⁺, Ne⁺. Na⁺ માં 10 ઈલેક્ટ્રોન છે, પણ Ne⁺ માં 9 ઈલેક્ટ્રોન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Isoelectronic = ઈલેક્ટ્રોન ગણી લો, સરખા હોવા જોઈએ!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પરમાણ્વીય ક્રમાંક 37 ધરાવતું તત્ત્વ કયા બ્લોકમાં હશે?\nA. s-બ્લોક\nB. p-બ્લોક\nC. d-બ્લોક\nD. f-બ્લોક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) s-બ્લોક. 36 એ Krypton (Noble gas) છે, તો 37મું તત્ત્વ (Rubidium) આવર્ત 5 ના 1લા સમૂહમાં હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ઉમદા વાયુના ક્રમાંક (2, 10, 18, 36, 54, 86) પછીનું તત્ત્વ હંમેશા s-block માં જ હોય'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "હેલોજન તત્ત્વો માટે ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પીનો સાચો ક્રમ (ઋણ મૂલ્ય) કયો છે?\nA. F > Cl > Br > I\nB. Cl > F > Br > I\nC. I > Br > Cl > F\nD. F < Cl < Br < I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Cl > F > Br > I. Cl ની ΔegH સૌથી વધુ ઋણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Cl સૌથી વધુ નેગેટિવ એનર્જી રિલીઝ કરે!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "પરમાણ્વીય ક્રમાંક 101 ધરાવતા તત્ત્વનું નામ કયા વૈજ્ઞાનિકની યાદમાં રાખવામાં આવ્યું છે?\nA. આઈન્સ્ટાઈન\nB. મેન્ડેલીફ\nC. નોબેલ\nD. લોરેન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મેન્ડેલીફ (Mendelevium - Md).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '101 = મેન્ડેલીફનું સન્માન'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "સીલ્ડિંગ અસર (Shielding Effect) નો સાચો ક્રમ કયો છે?\nA. s > p > d > f\nB. f > d > p > s\nC. s < p < d < f\nD. બધી કક્ષકો માટે સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) s > p > d > f. s-કક્ષક વધુ નજીક હોવાથી તે સૌથી વધુ સીલ્ડિંગ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'જેટલી કક્ષક ગોળાકાર અને નજીક, તેટલું પ્રોટેક્શન (Shielding) વધુ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "p-બ્લોકના તત્ત્વોની સામાન્ય ઈલેક્ટ્રોનિક સંરચના કઈ છે?\nA. ns² np¹⁻⁶\nB. ns¹⁻²\nC. (n-1)d¹⁻¹⁰ ns²\nD. ns² np⁶",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ns² np¹⁻⁶. સમૂહ 13 થી 18 ના તત્ત્વો આ સંરચના ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'p બ્લોક એટલે છેલ્લો e-, p માં જ જાય'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "નીચેનામાંથી કયું એસિડિક ઓક્સાઈડ છે?\nA. MgO\nB. Na₂O\nC. SO₃\nD. CaO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) SO₃. અધાતુઓના ઓક્સાઈડ સામાન્ય રીતે એસિડિક હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'અધાતુ = એસિડિક, ધાતુ = બેઝિક' (A-A, B-B)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "કદનો સાચો ક્રમ કયો છે?\nA. I⁻ > I > I⁺\nB. I⁺ > I > I⁻\nC. I > I⁻ > I⁺\nD. I⁻ > I⁺ > I",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) I⁻ > I > I⁺. ઋણ આયન હંમેશા મોટો અને ધન આયન હંમેશા નાનો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Anion > Neutral > Cation'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "તત્ત્વોના ગુણધર્મોમાં આવર્તિતાનું મુખ્ય કારણ શું છે?\nA. સમાન પરમાણ્વીય દળ\nB. સમાન બાહ્યતમ ઈલેક્ટ્રોનિક સંરચના\nC. સમાન ન્યુટ્રોન સંખ્યા\nD. સમાન પ્રોટોન સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાન બાહ્યતમ ઈલેક્ટ્રોનિક સંરચના. એક જ સમૂહના તત્ત્વોની વેલેન્સ શેલ સંરચના સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Same Outer Configuration = Same Properties'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "કયા તત્ત્વને 'ઈલેક્ટ્રોન પોઝિટિવ' તત્ત્વ તરીકે ઓળખવામાં આવે છે?\nA. ક્લોરિન\nB. સોડિયમ\nC. ઓક્સિજન\nD. ફ્લોરિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સોડિયમ. ધાતુઓ ઈલેક્ટ્રોન ગુમાવીને ધન આયન બનાવવાની વૃત્તિ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ધાતુ = ઉદાર (ઈલેક્ટ્રોન આપી દે) = Electropositive'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "બીજા આવર્તમાં સૌથી નાનું પરમાણ્વીય કદ કોનું છે? (ઉમદા વાયુ સિવાય)\nA. Li\nB. F\nC. N\nD. C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) F. આવર્તમાં છેલ્લે (ઉમદા વાયુ પહેલા) આવતું હોવાથી તેનું કદ સૌથી નાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'હેલોજન આવર્તમાં સૌથી નાના હોય (Noble gases સિવાય)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "નીચેનામાંથી કઈ આલ્કલાઈન અર્થ ધાતુ છે?\nA. K\nB. Na\nC. Ca\nD. Al",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Ca. સમૂહ 2 ના તત્ત્વો (Be, Mg, Ca, Sr, Ba, Ra) ને આલ્કલાઈન અર્થ ધાતુઓ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'બે-મ-કા-સ-બા' (Be, Mg, Ca, Sr, Ba)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "સૌથી ઓછી વિદ્યુતઋણતા ધરાવતું તત્ત્વ કયું છે?\nA. F\nB. Fr\nC. Cs\nD. Li",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Cs. સીઝિયમ સૌથી વધુ વિદ્યુતધન અને ઓછું વિદ્યુતઋણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Cs = Donating King, F = Grabbing King'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "આવર્ત કોષ્ટકમાં 'ઝિગ-ઝેગ' (વાંકીચૂકી) રેખા કોને અલગ પાડે છે?\nA. લેન્થેનોઇડ્સ અને એક્ટિનોઇડ્સને\nB. ધાતુઓ અને અધાતુઓને\nC. s અને p બ્લોકને\nD. ઉમદા વાયુઓને અન્યથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધાતુઓ અને અધાતુઓને. આ રેખા પર અર્ધધાતુઓ (Metalloids) આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ઝિગ-ઝેગ બોર્ડર પર સેમી-મેટલ્સ (અર્ધધાતુ) બેસે છે.'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "આવર્ત કોષ્ટકના કયા સમૂહના તત્ત્વોને 'સિક્કા ધાતુઓ' (Coinage metals) કહેવામાં આવે છે?\nA. સમૂહ 1\nB. સમૂહ 11\nC. સમૂહ 12\nD. સમૂહ 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમૂહ 11 (Cu, Ag, Au). આ ધાતુઓનો ઉપયોગ સિક્કા બનાવવા માટે થતો હોવાથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '11 નંબરની ટીમમાં ગોલ્ડ (Au) અને સિલ્વર (Ag) છે!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "નિષ્ક્રિય વાયુઓની સંયોજકતા કેટલી હોય છે?\nA. 1\nB. 2\nC. 0\nD. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0. તેમની અષ્ટક રચના પૂર્ણ હોવાથી તેઓ પ્રક્રિયા કરતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'પેટ ભરેલું હોય એટલે કોઈની જોડે લેવડ-દેવડ (Valency) ના કરે = 0'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ટ્રાન્સ-યુરેનિક તત્ત્વો કોને કહેવામાં આવે છે?\nA. U (92) કરતા વધુ પરમાણ્વીય ક્રમાંક વાળા\nB. U (92) કરતા ઓછા પરમાણ્વીય ક્રમાંક વાળા\nC. માત્ર લેન્થેનોઇડ્સને\nD. માત્ર ઉમદા વાયુઓને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) U (92) કરતા વધુ પરમાણ્વીય ક્રમાંક ધરાવતા તત્ત્વોને, જે મોટે ભાગે કૃત્રિમ રીતે બનાવાયેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Trans-Uranium = Beyond Uranium (After 92)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "નીચેનામાંથી કયા તત્ત્વની આયનીકરણ એન્થાલ્પી સૌથી વધુ છે?\nA. Li\nB. Be\nC. B\nD. C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) C. જેમ જેમ ડાબેથી જમણે જઈએ તેમ IE વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'L to R, Size 📉, IE 📈'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "નીચેનામાંથી કઈ અર્ધધાતુ (Metalloid) છે?\nA. Sodium\nB. Silicon\nC. Carbon\nD. Iron",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Silicon (Si). તે ધાતુ અને અધાતુ બંનેના ગુણધર્મો ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Si, Ge, As, Sb = અર્ધધાતુઓ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "Z = 30 ધરાવતું તત્ત્વ કયા બ્લોકનું છે?\nA. s\nB. p\nC. d\nD. f",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) d-બ્લોક. Z=30 એટલે Zinc (Zn), જે પ્રથમ સંક્રાંતિ શ્રેણીનું છેલ્લું તત્ત્વ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '21 થી 30 = 3d શ્રેણી (d-block)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "Be અને Al ના ગુણધર્મોમાં સામ્યતાનું કારણ શું છે?\nA. સમાન પરમાણ્વીય કદ\nB. સમાન વિદ્યુતઋણતા\nC. સમાન આયનીકરણ એન્થાલ્પી\nD. વિકર્ણ સંબંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) વિકર્ણ સંબંધ. ત્રાંસી દિશામાં આવેલા તત્ત્વોના વીજભાર/ત્રિજ્યાનો ગુણોત્તર સમાન હોવાથી ગુણધર્મો સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ત્રાંસું જોવું (Diagonal) = Be-Al સામ્યતા'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "કયા સમૂહના તત્ત્વોને 'હેલોજન' કહેવામાં આવે છે?\nA. 15\nB. 16\nC. 17\nD. 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 17. 'હેલોસ' એટલે ક્ષાર અને 'જીન' એટલે ઉત્પન્ન કરનાર (Salt producers).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'F, Cl, Br, I, At = Group 17 = Halogens'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "પરમાણ્વીય ક્રમાંક 114 ધરાવતા તત્ત્વનું IUPAC નામ શું છે?\nA. Ununquadium\nB. Ununpentium\nC. Ununhexium\nD. Ununnilium",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Ununquadium. 1(Un) + 1(Un) + 4(Quad) + ium.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '1-1-4 = Un-Un-Quad-ium'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી સૌથી ઓછી ઋણ (Least Negative) કોની હોય છે?\nA. O\nB. S\nC. Se\nD. Te",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) O. ઓક્સિજનનું કદ ઘણું નાનું હોવાથી તેમાં ઈલેક્ટ્રોન-ઈલેક્ટ્રોન અપાકર્ષણ વધુ લાગે છે, જે તેને સલ્ફર કરતા ઓછી ઋણ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Group 16 માં Exception: S > Se > Te > O' (O સૌથી છેલ્લે)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "કયા બ્લોકના તત્ત્વો રંગીન આયનો બનાવે છે?\nA. s\nB. p\nC. d\nD. બધા જ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) d-બ્લોક. અપૂર્ણ d-કક્ષકો હોવાથી d-d સંક્રાંતિને લીધે તેઓ રંગીન આયનો બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'd = Design/Color' (યાદ રાખવા માટે)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "તત્ત્વની વિદ્યુતઋણતા કોના પર આધારિત નથી?\nA. પરમાણ્વીય કદ\nB. અસરકારક કેન્દ્રીય વીજભાર\nC. ન્યુટ્રોન સંખ્યા\nD. ઈલેક્ટ્રોનિક સંરચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ન્યુટ્રોન સંખ્યા. વિદ્યુતઋણતા એ કેન્દ્ર અને ઈલેક્ટ્રોન વચ્ચેના આકર્ષણ પર આધારિત છે, ન્યુટ્રોન પર નહિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Chemistry માં કેમિકલ ગુણધર્મો ઈલેક્ટ્રોન અને પ્રોટોન પર જ હોય!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "નીચેનામાંથી કયો ઓક્સાઈડ તટસ્થ (Neutral) છે?\nA. Na₂O\nB. NO\nC. SO₂\nD. CaO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) NO (Nitric Oxide). CO, NO અને N₂O તટસ્થ ઓક્સાઈડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'CO, NO, N2O = Neutral Trio'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "સૌથી વધુ આયનીય ત્રિજ્યા કોની હશે?\nA. N³⁻\nB. O²⁻\nC. F⁻\nD. Na⁺",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) N³⁻. આઈસોઈલેક્ટ્રોનિકમાં જેટલો ઋણ વીજભાર વધુ, તેટલી ત્રિજ્યા મોટી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'વધારે માઈનસ (-) = વધારે મોટું કદ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "આવર્ત કોષ્ટકમાં d-બ્લોક કયા સમૂહની વચ્ચે આવેલો છે?\nA. 1-2\nB. 3-12\nC. 13-18\nD. 1-18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3-12. આ સમૂહના તત્ત્વોને સંક્રાંતિ તત્ત્વો કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 's(1-2) | d(3-12) | p(13-18)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "નીચેનામાંથી કઈ ધાતુ સૌથી પ્રબળ રિડક્શનકર્તા છે?\nA. Li\nB. Na\nC. K\nD. Cs",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Li. લિથિયમ જલીય દ્રાવણમાં સૌથી પ્રબળ રિડક્શનકર્તા છે (તેની હાઈડ્રેશન એન્થાલ્પી વધુ હોવાથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Li = Smallest but Mightiest (in reduction potential)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "પરમાણ્વીય ક્રમાંક 17, 35, 53 ધરાવતા તત્ત્વોને શું કહેવાય?\nA. આલ્કલી ધાતુઓ\nB. ઉમદા વાયુઓ\nC. હેલોજન\nD. ચાલ્કોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હેલોજન. Cl(17), Br(35), I(53) હેલોજન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - '9, 17, 35, 53 = હેલોજન ગેંગ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "મેન્ડેલીફે કયા તત્ત્વના સ્થાન વિશે સ્પષ્ટતા કરી નહોતી?\nA. ઓક્સિજન\nB. હાઈડ્રોજન\nC. કાર્બન\nD. આયર્ન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હાઈડ્રોજન. હાઈડ્રોજન આલ્કલી ધાતુ અને હેલોજન બંને સાથે સામ્યતા ધરાવતો હોવાથી તેનું સ્થાન અનિશ્ચિત હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'હાઈડ્રોજન = આવર્ત કોષ્ટકનો રખડુ તત્ત્વ!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "બીજા આવર્તનું કયું તત્ત્વ સૌથી વધુ વિદ્યુતધન (Electropositive) છે?\nA. Li\nB. F\nC. Ne\nD. B",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Li. આલ્કલી ધાતુઓ સૌથી વધુ વિદ્યુતધન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'ડાબી બાજુની પહેલી હરોળ (Group 1) = સૌથી વધુ પોઝિટિવ'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "નીચેનામાંથી કયા તત્ત્વની ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી શૂન્યની નજીક હોય છે?\nA. Fluorine\nB. Nitrogen\nC. Neon\nD. Oxygen",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Neon. ઉમદા વાયુઓ સ્થાયી રચના ધરાવે છે, તેથી ઈલેક્ટ્રોન મેળવવાની વૃત્તિ ધરાવતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'Stable Elements = No gain, No pain (Zero/Positive ΔegH)'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "f-બ્લોક તત્ત્વો કયા આવર્તમાં જોવા મળે છે?\nA. 1 અને 2\nB. 4 અને 5\nC. 6 અને 7\nD. 5 અને 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6 અને 7. આવર્ત 6 માં લેન્થેનોઇડ્સ અને આવર્ત 7 માં એક્ટિનોઇડ્સ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ ટ્રીક - 'આવર્ત કોષ્ટકની નીચેની બે પટ્ટી = 6ઠ્ઠો અને 7મો આવર્ત'</p></div>"
+    }
+  ]
+}

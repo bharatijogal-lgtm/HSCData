@@ -1529,3 +1529,792 @@ var Std11_Chemistry_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "રાસાયણિક બંધન અને આણ્વીય રચના",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રાસાયણિક બંધન રચવા પાછળનું મુખ્ય કારણ શું છે?",
+      "options": [
+        "A) ઉર્જા વધારવી",
+        "B) સ્થિરતા પ્રાપ્ત કરવી અને ઉર્જા ઘટાડવી",
+        "C) અષ્ટક અપૂર્ણ રાખવું",
+        "D) માત્ર આકર્ષણ બળ વધારવું"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. પરમાણુઓ જ્યારે બંધ બનાવે છે ત્યારે તંત્રની ઉર્જામાં ઘટાડો થાય છે અને સ્થિરતા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછી ઉર્જા = વધુ સ્થિરતા (Low Energy = More Stability). કોઈ પણ સંબંધ સ્થિર થવા માટે શાંતિ (ઓછી ઉર્જા) જરૂરી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોસેલ-લુઈસ અભિગમ મુજબ, પરમાણુઓ બાહ્યતમ કક્ષામાં કેટલા ઇલેક્ટ્રોન પૂર્ણ કરવાનો પ્રયત્ન કરે છે?",
+      "options": [
+        "A) 2",
+        "B) 4",
+        "C) 8",
+        "D) 18"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. તેને 'અષ્ટકનો નિયમ' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અષ્ટક' એટલે 8. નિષ્ક્રિય વાયુ જેવી રચના એટલે છેલ્લી પાટલી પર 8 ઇલેક્ટ્રોન સેટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેનામાંથી કયા સંયોજનમાં અષ્ટકનો નિયમ પૂર્ણ થતો નથી (અપૂર્ણ અષ્ટક)?",
+      "options": [
+        "A) CH4",
+        "B) BeCl2",
+        "C) H2O",
+        "D) NH3"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. BeCl2 માં બેરિલિયમની આસપાસ માત્ર 4 ઇલેક્ટ્રોન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમૂહ 2 અને 13 ના તત્વો (Li, Be, B, Al) મોટેભાગે ગરીબ (અપૂર્ણ અષ્ટક) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "LiCl માં કયો બંધ જોવા મળે છે?",
+      "options": [
+        "A) સહસંયોજક",
+        "B) આયનીય",
+        "C) સવર્ગ સહસંયોજક",
+        "D) ધાત્વિક"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. લિથિયમ (ધાતુ) અને ક્લોરિન (અધાતુ) વચ્ચે ઇલેક્ટ્રોનની આપ-લેથી આયનીય બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ + અધાતુ = આયનીય (લગ્ન જેવું, એક આપે ને બીજો લે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેનામાંથી કયો અણુ વિસ્તૃત અષ્ટક (Expanded Octet) ધરાવે છે?",
+      "options": [
+        "A) NH3",
+        "B) PCl5",
+        "C) BCl3",
+        "D) CH4"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. PCl5 માં ફોસ્ફરસની આસપાસ 10 ઇલેક્ટ્રોન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રીજા આવર્ત કે તેથી નીચેના તત્વો (P, S, I) 8 થી વધુ ઇલેક્ટ્રોન રાખી શકે છે (મોટું ઘર, વધુ મહેમાન!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આયનીય બંધ બનવા માટે અનુકૂળ પરિસ્થિતિ કઈ છે?",
+      "options": [
+        "A) ઊંચી આયનીકરણ એન્થાલ્પી",
+        "B) નીચી ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી",
+        "C) નીચી આયનીકરણ એન્થાલ્પી અને વધુ ઋણ ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી",
+        "D) ઓછી લેટિસ એન્થાલ્પી"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. ધાતુ સરળતાથી ઇલેક્ટ્રોન ગુમાવે (નીચી IE) અને અધાતુ સરળતાથી મેળવે (વધુ ઋણ ΔegH).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયનીય બંધ = દાતા ઉદાર (Low IE) + લેનાર લાલચુ (High negative Electron Gain).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેટિસ એન્થાલ્પી એટલે શું?",
+      "options": [
+        "A) એક મોલ વાયુરૂપ આયનોમાંથી સ્ફટિક બનાવતી વખતે મુક્ત થતી ઉર્જા",
+        "B) એક મોલ પ્રવાહી બનાવવા માટે જરૂરી ઉર્જા",
+        "C) ઇલેક્ટ્રોન દૂર કરવા માટેની ઉર્જા",
+        "D) ઇલેક્ટ્રોન ઉમેરવા માટેની ઉર્જા"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. સ્ફટિક લેટિસની મજબૂતી લેટિસ એન્થાલ્પી દ્વારા માપી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેટિસ = ઘર બનાવવું. ઘર મજબૂત તો તોડવા માટે ઉર્જા પણ વધુ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બંધ લંબાઈ (Bond Length) માટે કયો ક્રમ સાચો છે?",
+      "options": [
+        "A) Single Bond < Double Bond < Triple Bond",
+        "B) Triple Bond < Double Bond < Single Bond",
+        "C) Single Bond = Double Bond",
+        "D) Double Bond < Single Bond < Triple Bond"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. જેમ બંધની સંખ્યા વધે તેમ પરમાણુઓ નજીક આવે અને લંબાઈ ઘટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી વધુ દોરી (Bonds), એટલા વધુ નજીક (Short length)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બંધ એન્થાલ્પી અને બંધ ક્રમાંક વચ્ચેનો સંબંધ કેવો છે?",
+      "options": [
+        "A) વ્યસ્ત પ્રમાણ",
+        "B) સમપ્રમાણ",
+        "C) કોઈ સંબંધ નથી",
+        "D) ચોરસના પ્રમાણમાં"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. બંધ ક્રમાંક વધે તો બંધ તોડવા માટે વધુ ઉર્જા (એન્થાલ્પી) જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ લાકડીઓ (Bond Order) = તોડવામાં વધુ પરસેવો (Bond Enthalpy)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાણીના અણુ (H2O) માં બંધ કોણ કેટલો હોય છે?",
+      "options": [
+        "A) 109.5°",
+        "B) 107°",
+        "C) 104.5°",
+        "D) 120°"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. 2 અબંધકારક ઇલેક્ટ્રોન યુગ્મ (Lone pairs) ને કારણે કોણ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H2O માં 2 લોન પેર ધક્કો મારે એટલે ખૂણો 109 થી ઘટીને 104.5 થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કયા અણુની દ્વિધ્રુવ ચાકમાત્રા (Dipole Moment) શૂન્ય છે?",
+      "options": [
+        "A) NH3",
+        "B) H2O",
+        "C) BF3",
+        "D) NF3"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. BF3 સમતલીય ત્રિકોણ છે, જેમાં બધી બાજુના સદિશો એકબીજાને રદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અણુ 'Symmetric' (બધી બાજુ સરખી) હોય અને લોન પેર ન હોય, તો Dipole = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દ્વિધ્રુવ ચાકમાત્રા માટે કયું એકમ વપરાય છે?",
+      "options": [
+        "A) એમ્પિયર",
+        "B) કેલ્વિન",
+        "C) ડીબાય (Debye)",
+        "D) જૂલ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. 1 D = 3.33 x 10^-30 C.m.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિધ્રુવ નો 'D' અને ડીબાય નો 'D'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "VSEPR સિદ્ધાંત મુજબ, અપાકર્ષણનો સાચો ક્રમ કયો છે?",
+      "options": [
+        "A) lp-lp < lp-bp < bp-bp",
+        "B) bp-bp < lp-bp < lp-lp",
+        "C) lp-bp < lp-lp < bp-bp",
+        "D) બધું સમાન હોય છે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. અબંધકારક યુગ્મો (Lone pairs) વધુ જગ્યા રોકે છે અને વધુ અપાકર્ષણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lone pair એટલે નવરા માણસો, જે વધુ ડખ્ખા (અપાકર્ષણ) કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "CH4 અણુનો આકાર કેવો છે?",
+      "options": [
+        "A) સમતલીય ત્રિકોણ",
+        "B) અષ્ટફલકીય",
+        "C) સમચતુષ્ફલકીય",
+        "D) રેખીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. મિથેનમાં sp3 સંકરણ હોવાથી આકાર Tetrahedral (સમચતુષ્ફલકીય) બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 Bond pairs + 0 Lone pair = Tetrahedral (ચોગડો એટલે ચતુષ્ફલકીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "NH3 અણુનો આકાર કયો છે?",
+      "options": [
+        "A) સમચતુષ્ફલકીય",
+        "B) પિરામિડલ",
+        "C) ત્રિકોણીય દ્વિ-પિરામિડલ",
+        "D) V-આકાર"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. 1 Lone pair ને કારણે આકાર સમચતુષ્ફલકીયને બદલે પિરામિડ જેવો થઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન પાસે એક લોન પેરની 'ટોપી' છે, એટલે પિરામિડ દેખાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "PCl5 અણુમાં કયા પ્રકારનું સંકરણ જોવા મળે છે?",
+      "options": [
+        "A) sp3",
+        "B) sp3d",
+        "C) sp3d2",
+        "D) sp2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. ફોસ્ફરસ 5 ક્લોરિન સાથે બંધ બનાવે છે, તેથી 5 કક્ષકોની જરૂર પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 Bond = s + p(3) + d(1) = કુલ 5 કક્ષકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "SF6 અણુનો આકાર કેવો હોય છે?",
+      "options": [
+        "A) સમચતુષ્ફલકીય",
+        "B) અષ્ટફલકીય",
+        "C) પંચકોણીય દ્વિ-પિરામિડલ",
+        "D) રેખીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. sp3d2 સંકરણ અને 6 બંધકારક યુગ્મોને કારણે અષ્ટફલકીય (Octahedral) આકાર મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 બંધ એટલે 'છક્કો' - અષ્ટફલકીય (Octahedral).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સિગ્મા (σ) અને પાઈ (π) બંધમાં કયો બંધ વધુ મજબૂત હોય છે?",
+      "options": [
+        "A) પાઈ બંધ",
+        "B) સિગ્મા બંધ",
+        "C) બંને સમાન",
+        "D) તાપમાન પર આધાર રાખે છે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. સિગ્મા બંધમાં કક્ષકોનું સંમિશ્રણ આંતરકેન્દ્રીય ધરી પર વધુ પ્રમાણમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sigma = Strong (S-S). પાયો (Sigma) મજબૂત હોવો જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઇથિન (C2H4) માં કેટલા સિગ્મા અને કેટલા પાઈ બંધ હોય છે?",
+      "options": [
+        "A) 4 σ, 1 π",
+        "B) 5 σ, 1 π",
+        "C) 3 σ, 2 π",
+        "D) 6 σ, 0 π"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. 4 C-H સિગ્મા, 1 C-C સિગ્મા અને 1 C-C પાઈ બંધ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ બોન્ડમાં 1 સિગ્મા અને 1 પાઈ હોય. બાકીના સિંગલ એટલે સિગ્મા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બેરીલિયમ ક્લોરાઇડ (BeCl2) માં કયું સંકરણ જોવા મળે છે?",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) dsp2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. BeCl2 રેખીય અણુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીય (Linear) એટલે હંમેશા 'sp' સંકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "H2O માં ઓક્સિજનનું સંકરણ કયું છે?",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) sp3d"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. ઓક્સિજન પાસે 2 બંધકારક અને 2 અબંધકારક યુગ્મો (કુલ 4) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણતરી: (BP + LP) = 2 + 2 = 4. 4 એટલે sp3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આણ્વીય કક્ષકવાદ (MOT) મુજબ, કયો અણુ અસ્તિત્વ ધરાવતો નથી?",
+      "options": [
+        "A) H2",
+        "B) He2",
+        "C) Li2",
+        "D) O2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. He2 નો બંધ ક્રમાંક (Bond Order) શૂન્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bond Order = 0 તો અણુ Hero માંથી Zero (અસ્તિત્વ નથી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "O2 અણુનો સ્વભાવ કેવો છે?",
+      "options": [
+        "A) પ્રતિચુંબકીય",
+        "B) અનુચુંબકીય",
+        "C) લોહચુંબકીય",
+        "D) અચુંબકીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. O2 માં બે અયુગ્મિત ઇલેક્ટ્રોન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી સંખ્યા (1, 3, 5...) અથવા 10 અને 16 ઇલેક્ટ્રોન = અનુચુંબકીય (Paramagnetic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "N2 અણુનો બંધ ક્રમાંક કેટલો છે?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 2.5"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. નાઈટ્રોજન-નાઈટ્રોજન વચ્ચે ત્રિબંધ (Triple bond) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 ઇલેક્ટ્રોન (N2) એટલે Bond Order = 3. આ યાદ જ રાખી લેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "હાઇડ્રોજન બંધ (H-bond) કયા તત્વો સાથે બને છે?",
+      "options": [
+        "A) C, H, N",
+        "B) F, O, N",
+        "C) Cl, S, P",
+        "D) Li, Na, K"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. હાઇડ્રોજન જ્યારે વધુ વિદ્યુતઋણ તત્વો (F, O, N) સાથે જોડાય ત્યારે H-બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'FON' (ફોન) યાદ રાખો! F, O, N સાથે જ હાઇડ્રોજનની દોસ્તી પાકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બહારના વાતાવરણમાં બરફ પાણી પર તરે છે, તેનું કારણ?",
+      "options": [
+        "A) સહસંયોજક બંધ",
+        "B) આયનીય બંધ",
+        "C) હાઇડ્રોજન બંધને લીધે ખુલ્લી પાંજરા જેવી રચના",
+        "D) પૃષ્ઠતાણ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. H-બંધને લીધે બરફની ઘનતા પાણી કરતા ઓછી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ = પાંજરું (Cage). પાંજરામાં હવા હોય એટલે તે તરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નીચેનામાંથી કયા અણુમાં આંત:આણ્વીય (Intramolecular) H-બંધ જોવા મળે છે?",
+      "options": [
+        "A) H2O",
+        "B) NH3",
+        "C) ઓર્થો-નાઈટ્રોફિનોલ",
+        "D) પેરા-નાઈટ્રોફિનોલ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. એક જ અણુની અંદર બંધ બને તેને આંત:આણ્વીય કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓર્થો (Ortho) એટલે નજીક, નજીક હોય તો અંદર અંદર જ બંધ બનાવી લે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કાર્બન ડાયોક્સાઈડ (CO2) નો આકાર કેવો છે?",
+      "options": [
+        "A) વળેલો (Bent)",
+        "B) રેખીય (Linear)",
+        "C) ત્રિકોણીય",
+        "D) પિરામિડલ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. O=C=O માં sp સંકરણ હોવાથી તે 180° પર સીધો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 માં કાર્બન પાસે કોઈ લોન પેર નથી, એટલે તે ટટ્ટાર (રેખીય) ઉભો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "NO3- આયનમાં નાઈટ્રોજન પરનો ફોર્મલ ચાર્જ કેટલો છે?",
+      "options": [
+        "A) 0",
+        "B) -1",
+        "C) +1",
+        "D) +5"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. ફોર્મલ ચાર્જ = V - L - 1/2(B) સૂત્રથી ગણી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Formal Charge એટલે પરમાણુનું પોતાનું 'ખાતું' ચેક કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બંધ ક્રમાંક (Bond Order) 0.5 કોનો હોઈ શકે?",
+      "options": [
+        "A) H2",
+        "B) H2+",
+        "C) He2",
+        "D) N2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. H2+ માં માત્ર 1 ઇલેક્ટ્રોન હોય છે. (1-0)/2 = 0.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધો ઇલેક્ટ્રોન જેવું કામ = અડધો બંધ ક્રમાંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ClF3 અણુનો આકાર કયો છે?",
+      "options": [
+        "A) ત્રિકોણીય સમતલીય",
+        "B) T-આકાર",
+        "C) પિરામિડલ",
+        "D) ચોરસ સમતલીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. Cl પાસે 3 Bond pairs અને 2 Lone pairs હોવાથી T-shape બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ClF3 = 'T' for 'Tea'. ચાના કપ જેવો આકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સસ્પંદન (Resonance) થી અણુની સ્થિરતા પર શું અસર થાય છે?",
+      "options": [
+        "A) સ્થિરતા ઘટે છે",
+        "B) સ્થિરતા વધે છે",
+        "C) કોઈ ફેર પડતો નથી",
+        "D) અણુ અસ્થિર બને છે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. સસ્પંદનથી ઉર્જા વહેંચાય જાય છે અને સ્થિરતા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસ્પંદન = ટીમ વર્ક. ટીમ વર્કથી સ્થિરતા (Stability) વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઓઝોન (O3) અણુમાં કેટલા સસ્પંદન બંધારણો શક્ય છે?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. ઓઝોનમાં ડબલ બોન્ડ બે ઓક્સિજન વચ્ચે ફરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O3 માં એક વાર ડાબે ડબલ બોન્ડ, એક વાર જમણે. કુલ 2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ફજાનના નિયમ (Fajans' Rule) મુજબ કયો આયનીય બંધ વધુ સહસંયોજક લક્ષણ ધરાવશે?",
+      "options": [
+        "A) મોટું ધનાયન, મોટું ઋણાયન",
+        "B) નાનું ધનાયન, મોટું ઋણાયન",
+        "C) નાનું ધનાયન, નાનું ઋણાયન",
+        "D) મોટું ધનાયન, નાનું ઋણાયન"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. ધનાયન જેટલું નાનું તેટલી તેની ધ્રુવીભવન ક્ષમતા વધુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનું ધાપટું' (Small Cation) અને 'મોટું પાપડ' (Large Anion) = વધુ સહસંયોજક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "PCI5 માં અક્ષીય (Axial) બંધની લંબાઈ નિરક્ષીય (Equatorial) કરતા કેવી હોય છે?",
+      "options": [
+        "A) ઓછી",
+        "B) વધુ",
+        "C) સમાન",
+        "D) અડધી"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. અક્ષીય બંધો પર વધુ અપાકર્ષણ હોવાથી તે લાંબા અને નબળા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Axial = Long & Weak. PCl5 ગરમ કરતા અક્ષીય બંધ જ પહેલા તૂટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "BF3 માં બોરોનનું સંકરણ કયું છે?",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) dsp2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. બોરોન 3 બંધ બનાવે છે અને શૂન્ય લોન પેર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 Bond Pairs = sp2 (1+2=3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પાણી (H2O) માં કયા પ્રકારનો હાઇડ્રોજન બંધ જોવા મળે છે?",
+      "options": [
+        "A) આંત:આણ્વીય",
+        "B) આંતર-આણ્વીય",
+        "C) ધાત્વિક",
+        "D) આયનીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. બે અલગ અલગ પાણીના અણુઓ વચ્ચે બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતર-આણ્વીય (Inter) = બે ઘર વચ્ચેનો વ્યવહાર. આંત: (Intra) = ઘરની અંદરનો વ્યવહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નીચેનામાંથી કોની બંધ લંબાઈ સૌથી ઓછી હશે?",
+      "options": [
+        "A) O2",
+        "B) O2+",
+        "C) O2-",
+        "D) O2^2-"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. O2+ નો બંધ ક્રમાંક 2.5 છે, જે સૌથી વધુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bond Order વધુ તો Bond Length ઓછી (Dushman close!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પરમાણ્વીય કક્ષકોના રેખીય સંગઠન (LCAO) માં જો સરવાળો થાય તો કઈ કક્ષક બને?",
+      "options": [
+        "A) બંધકારક આણ્વીય કક્ષક (BMO)",
+        "B) બંધપ્રતિકારક આણ્વીય કક્ષક (ABMO)",
+        "C) બિન-બંધકારક કક્ષક",
+        "D) સંકર કક્ષક"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. કન્સ્ટ્રક્ટિવ ઇન્ટરફિયરન્સ (સરવાળો) થી BMO બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો (+) = બંધકારક (દોસ્તી), બાદબાકી (-) = પ્રતિકારક (દુશ્મની).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "CO3^2- (કાર્બોનેટ) આયનમાં દરેક C-O બંધની લંબાઈ કેવી હોય છે?",
+      "options": [
+        "A) બધી અલગ અલગ",
+        "B) બે સમાન, એક અલગ",
+        "C) બધી સમાન",
+        "D) એક લાંબી, બે ટૂંકી"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. સસ્પંદનને કારણે ત્રણેય બંધ સમાન બની જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સસ્પંદન (Resonance) આવે એટલે બધું સરખું (Equal) કરી નાખે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "sp3 સંકરણમાં 's' લક્ષણ કેટલા ટકા હોય છે?",
+      "options": [
+        "A) 25%",
+        "B) 33.3%",
+        "C) 50%",
+        "D) 75%"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. 1 s અને 3 p એટલે કુલ 4 માંથી 1 ભાગ s નો (1/4 = 25%).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: sp3 = s + p + p + p (કુલ 4 સભ્યો). s એકલો છે એટલે 100/4 = 25%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "HF, HCl, HBr, HI માં કોનું ઉત્કલનબિંદુ સૌથી વધુ છે?",
+      "options": [
+        "A) HCl",
+        "B) HBr",
+        "C) HI",
+        "D) HF"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) છે. HF માં મજબૂત હાઇડ્રોજન બંધ હોવાથી તેનું ઉત્કલનબિંદુ અસામાન્ય રીતે વધુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H-bond જેનામાં, તે સૌથી મોખરે (Top boiling point)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "IF7 અણુનો આકાર કયો છે?",
+      "options": [
+        "A) અષ્ટફલકીય",
+        "B) પંચકોણીય દ્વિ-પિરામિડલ",
+        "C) સમચતુષ્ફલકીય",
+        "D) ચોરસ પિરામિડલ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. 7 બંધ હોવાથી Pentagonal Bipyramidal આકાર બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 બંધ = 5 ખૂણા નીચે + 1 ઉપર + 1 નીચે = કુલ 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "નજીકના પરમાણુઓના કેન્દ્રો વચ્ચેના સરેરાશ અંતરને શું કહે છે?",
+      "options": [
+        "A) ત્રિજ્યા",
+        "B) બંધ લંબાઈ",
+        "C) બંધ એન્થાલ્પી",
+        "D) આયનીય ત્રિજ્યા"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. બે પરમાણુના કેન્દ્ર વચ્ચેનું અંતર એટલે બંધ લંબાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર થી કેન્દ્ર = અંતર = લંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "નીચેનામાંથી કયો અણુ સમતલીય ત્રિકોણ (Trigonal Planar) આકાર ધરાવે છે?",
+      "options": [
+        "A) NH3",
+        "B) PCl3",
+        "C) BF3",
+        "D) ClF3"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. sp2 સંકરણ અને 0 Lone pair.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'B' પાસે 3 ઇલેક્ટ્રોન, ત્રણેય વપરાઈ ગયા, એટલે 'Flat' (સમતલીય) થઈ ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "બે અધાતુ પરમાણુઓ વચ્ચે ઇલેક્ટ્રોનની ભાગીદારીથી બનતા બંધને શું કહે છે?",
+      "options": [
+        "A) આયનીય બંધ",
+        "B) સહસંયોજક બંધ",
+        "C) હાઇડ્રોજન બંધ",
+        "D) ધાત્વિક બંધ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. ભાગીદારી = સહસંયોજક (Covalent).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Partner = સહસંયોજક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "H2O માં અબંધકારક ઇલેક્ટ્રોન યુગ્મ (Lone pairs) ની સંખ્યા કેટલી છે?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 0"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. ઓક્સિજનના 6 ઇલેક્ટ્રોનમાંથી 2 બંધમાં વપરાય અને 4 (એટલે કે 2 જોડી) બાકી રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન પાસે 2 કાન (Lone pairs) હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કક્ષકોનું માથું-માથું (Head-on) અથડાવાથી કયો બંધ બને છે?",
+      "options": [
+        "A) સિગ્મા (σ)",
+        "B) પાઈ (π)",
+        "C) ડેલ્ટા (δ)",
+        "D) આયનીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. અક્ષીય સંમિશ્રણથી સિગ્મા બંધ બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Head-on Collision = Strong = Sigma.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "નીચેનામાંથી કયો પરમાણુ સૌથી વધુ વિદ્યુતઋણતા ધરાવે છે?",
+      "options": [
+        "A) O",
+        "B) N",
+        "C) F",
+        "D) Cl"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. ફ્લોરિન (F) આખા આવર્ત કોષ્ટકમાં સૌથી મોટો ડોન (વિદ્યુતઋણ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = First! (ખેંચવામાં નંબર 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "C2H2 (એસીટીલીન) માં કાર્બનનું સંકરણ કયું છે?",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) dsp2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. ટ્રિપલ બોન્ડ (C≡C) હોવાથી sp સંકરણ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રિપલ બોન્ડ = sp, ડબલ બોન્ડ = sp2, સિંગલ બોન્ડ = sp3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "PCl5 માં અક્ષીય બંધકોણ કેટલો હોય છે?",
+      "options": [
+        "A) 120°",
+        "B) 90°",
+        "C) 180°",
+        "D) 109.5°"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. અક્ષીય બંધ નિરક્ષીય સમતલ સાથે 90° નો ખૂણો બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર અને નીચેની લાકડીઓ જમીન (Plane) સાથે લંબ (90°) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "NH3 અને NF3 માં કોની દ્વિધ્રુવ ચાકમાત્રા વધુ છે?",
+      "options": [
+        "A) NF3",
+        "B) NH3",
+        "C) બંનેની સમાન",
+        "D) બંનેની શૂન્ય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. NH3 માં N-H બંધ અને Lone pair ના સદિશો એક જ દિશામાં છે, જ્યારે NF3 માં વિરુદ્ધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NH3 માં બધું 'ઉપર' જાય છે, એટલે સરવાળો થાય. NF3 માં ફ્લોરિન નીચે ખેંચે છે, એટલે બાદબાકી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "પાણીના અણુમાં બંધકારક યુગ્મ (bp) અને અબંધકારક યુગ્મ (lp) ની સંખ્યા અનુક્રમે કેટલી છે?",
+      "options": [
+        "A) 2, 2",
+        "B) 3, 1",
+        "C) 4, 0",
+        "D) 2, 1"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. 2 O-H બંધ (bp) અને ઓક્સિજન પર 2 લોન પેર (lp).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H2O = 2 Bonded H + 2 Free pairs.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ગ્રેફાઇટમાં કાર્બનનું સંકરણ કયું હોય છે?",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) sp3d"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. ગ્રેફાઇટમાં કાર્બન ત્રણ અન્ય કાર્બન સાથે જોડાયેલ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીરો (Diamond) = sp3, ગ્રેફાઇટ = sp2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "NO2+ માં કયું સંકરણ જોવા મળે છે?",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) dsp2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. NO2+ રેખીય આયન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NO2+ = CO2 જેવું જ માળખું (Isoelectronic)! એટલે sp.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "SF4 અણુનો આકાર કયો છે?",
+      "options": [
+        "A) સમચતુષ્ફલકીય",
+        "B) ચીંચવો (See-saw)",
+        "C) ચોરસ સમતલીય",
+        "D) રેખીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. 4 Bond pairs અને 1 Lone pair ને લીધે See-saw આકાર બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 + 1 = 5 (sp3d) પણ એક લોન પેર એટલે બગીચાનો હીંચકો (See-saw).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "નીચેનામાંથી કયો અણુ પ્રતિચુંબકીય (Diamagnetic) છે?",
+      "options": [
+        "A) O2",
+        "B) B2",
+        "C) N2",
+        "D) NO"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. N2 માં બધા જ ઇલેક્ટ્રોન યુગ્મિત (Paired) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 ઇલેક્ટ્રોન = જોડીમાં સેટ = પ્રતિચુંબકીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "બંધ ક્રમાંક વધતા બંધ લંબાઈ પર શું અસર થાય છે?",
+      "options": [
+        "A) વધે છે",
+        "B) ઘટે છે",
+        "C) સમાન રહે છે",
+        "D) પહેલા વધે પછી ઘટે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. વધુ બંધ એટલે વધુ આકર્ષણ, માટે લંબાઈ ઘટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bonds ∝ 1/Length. જેટલો પ્રેમ (Bond) વધુ, એટલા નજીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "XeF2 અણુમાં કયું સંકરણ અને આકાર જોવા મળે છે?",
+      "options": [
+        "A) sp3, વળેલો",
+        "B) sp3d, રેખીય",
+        "C) sp3d2, ચોરસ સમતલીય",
+        "D) sp2, ત્રિકોણીય"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. Xe પાસે 2 Bond pairs અને 3 Lone pairs છે. ત્રણેય LP મધ્યમાં ગોઠવાય એટલે આકાર રેખીય બને.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 Bond + 3 LP = 5 (sp3d). 3 લોન પેર એકબીજાને રદ કરે, એટલે લીટી (Linear) વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "આણ્વીય કક્ષક શક્તિનો સાચો ક્રમ (Z > 7 માટે) કયો છે?",
+      "options": [
+        "A) σ2pz < (π2px = π2py)",
+        "B) (π2px = π2py) < σ2pz",
+        "C) σ*2pz < π2px",
+        "D) σ2s < σ1s"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. O2 અને F2 માટે σ2pz ની ઉર્જા π2px અને π2py કરતા ઓછી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન (O2) માટે 2-1-2-1 પેટર્ન યાદ રાખો (σ નીચે)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "PCl3 માં લોન પેર કેટલી છે?",
+      "options": [
+        "A) 0",
+        "B) 1",
+        "C) 2",
+        "D) 3"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. ફોસ્ફરસના 5 માંથી 3 વપરાય એટલે 2 ઇલેક્ટ્રોન (1 જોડી) બાકી રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PCl3 = NH3 જેવું. 1 લોન પેર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "દ્વિધ્રુવ ચાકમાત્રા માટેની દિશા કઈ હોય છે?",
+      "options": [
+        "A) વધુ વિદ્યુતઋણ થી ઓછા વિદ્યુતઋણ",
+        "B) ઓછા વિદ્યુતઋણ થી વધુ વિદ્યુતઋણ",
+        "C) પ્રોટોન થી ન્યુટ્રોન",
+        "D) કોઈ દિશા હોતી નથી"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. સદિશ હંમેશા ધન થી ઋણ (લેનાર તરફ) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીર હંમેશા લાલચુ (વધુ EN) તત્વ તરફ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "નીચેનામાંથી કયા અણુમાં ત્રિબંધ (Triple Bond) છે?",
+      "options": [
+        "A) O2",
+        "B) N2",
+        "C) Cl2",
+        "D) NH3"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. નાઈટ્રોજન પરમાણુઓ વચ્ચે 3 સહસંયોજક બંધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N ≡ N. નાઈટ્રોજન એટલે 'નવો ત્રિબંધ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "બંધકોણ (Bond Angle) સૌથી વધુ શેમાં છે?",
+      "options": [
+        "A) CH4",
+        "B) NH3",
+        "C) H2O",
+        "D) BeCl2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) છે. BeCl2 રેખીય હોવાથી 180° નો ખૂણો ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Linear (180°) > Trigonal (120°) > Tetrahedral (109°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "H-F બંધ કેવો બંધ છે?",
+      "options": [
+        "A) અધ્રુવીય સહસંયોજક",
+        "B) ધ્રુવીય સહસંયોજક",
+        "C) શુદ્ધ આયનીય",
+        "D) ધાત્વિક"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. F ની વિદ્યુતઋણતા વધુ હોવાથી ઇલેક્ટ્રોન વાદળ ખેંચાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલગ અલગ તત્વો = વિદ્યુતઋણતામાં તફાવત = ધ્રુવીય (Polar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "કક્ષકોનું સંકરણ (Hybridization) ક્યારે થાય છે?",
+      "options": [
+        "A) બંધ બન્યા પછી",
+        "B) બંધ બનતા પહેલા",
+        "C) માત્ર ઉત્તેજિત અવસ્થામાં",
+        "D) ક્યારેય નહીં"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. સંકરણ એ કાલ્પનિક પ્રક્રિયા છે જે બંધ નિર્માણ પહેલા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોઈ (Bond) બનાવતા પહેલા મસાલા મિક્સ (Hybridize) કરવા પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "ઈથેન (C26) માં કાર્બનનું સંકરણ કયું છે?",
+      "options": [
+        "A) sp",
+        "B) sp2",
+        "C) sp3",
+        "D) dsp2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) છે. ઈથેનમાં કાર્બન સિંગલ બોન્ડથી જોડાયેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ બોન્ડ એટલે sp3 (ચોગડો યાદ રાખવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "ઓર્થો-નાઈટ્રોફિનોલ કરતા પેરા-નાઈટ્રોફિનોલનું ઉત્કલનબિંદુ કેમ વધુ છે?",
+      "options": [
+        "A) આંત:આણ્વીય H-બંધને લીધે",
+        "B) આંતર-આણ્વીય H-બંધને લીધે",
+        "C) આયનીય બંધને લીધે",
+        "D) વધુ આણ્વીય દળને લીધે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. પેરા-સ્વરૂપમાં ઘણા અણુઓ એકબીજા સાથે સાંકળ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંતર-આણ્વીય (Inter) = સાંકળ (Chain). સાંકળ તોડવી અઘરી એટલે BP વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "પાણીના એક અણુ દ્વારા વધુમાં વધુ કેટલા H-બંધ બનાવી શકાય?",
+      "options": [
+        "A) 1",
+        "B) 2",
+        "C) 3",
+        "D) 4"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) છે. બે H અને બે Lone pairs દ્વારા કુલ 4 બંધ શક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનો અણુ 'ચોગડો' મારે છે (Max 4 H-bonds)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "નીચેનામાંથી કયા અણુમાં π (પાઈ) બંધ નથી?",
+      "options": [
+        "A) H2O",
+        "B) CO2",
+        "C) O2",
+        "D) N2"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) છે. H2O માં બધા જ એકલ બંધ (σ બંધ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ બોન્ડ = No Pie (π). પાણીમાં ફક્ત સિગ્માની શાંતિ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "કયા પ્રકારના બંધમાં દિશાકીય ગુણધર્મ હોતો નથી?",
+      "options": [
+        "A) સહસંયોજક",
+        "B) આયનીય",
+        "C) સવર્ગ સહસંયોજક",
+        "D) હાઇડ્રોજન બંધ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) છે. આયનીય બંધ એ સ્થિર વિદ્યુત આકર્ષણ બળ છે જે ચારેય દિશામાં સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયનીય બંધ = ચુંબક જેવું. કોઈ પણ બાજુથી ચોંટી જાય, દિશાની જરૂર નથી!</p></div>"
+    }
+  ]
+}

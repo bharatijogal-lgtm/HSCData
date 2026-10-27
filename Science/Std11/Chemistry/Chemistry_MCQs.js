@@ -2681,3 +2681,437 @@ var Std11_Chemistry_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સંતુલન",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જ્યારે પુરોગામી પ્રક્રિયાનો વેગ અને પ્રતિગામી પ્રક્રિયાનો વેગ સમાન થાય ત્યારે તે અવસ્થાને શું કહેવામાં આવે છે?",
+      "options": "A. સ્થિર અવસ્થા, B. રાસાયણિક સંતુલન, C. પ્રક્રિયાની પૂર્ણતા, D. આયનીય સંતુલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રાસાયણિક સંતુલન. જ્યારે બંને દિશાનો વેગ સમાન થાય ત્યારે સાંદ્રતા અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેગ સમાન = સંતુલન (Rate Forward = Rate Backward).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંતુલન સમયે પ્રક્રિયકો અને નીપજોની સાંદ્રતામાં કેવો ફેરફાર થાય છે?",
+      "options": "A. વધારો થાય છે, B. ઘટાડો થાય છે, C. અચળ રહે છે, D. શૂન્ય થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. અચળ રહે છે. સંતુલને માપી શકાય તેવા ગુણધર્મો બદલાતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંતુલન એટલે 'નો ચેન્જ' (No Change in Concentration).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પ્રક્રિયા H₂(g) + I₂(g) ⇌ 2HI(g) માટે Kp અને Kc વચ્ચેનો સંબંધ કયો છે?",
+      "options": "A. Kp > Kc, B. Kp < Kc, C. Kp = Kc, D. Kp = Kc(RT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Kp = Kc. અહીં Δn = 2 - (1+1) = 0 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો Δn = 0, તો Kp અને Kc હંમેશા સમાન (Kp = Kc).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેનામાંથી કઈ ભૌતિક અવસ્થામાં સંતુલન શક્ય નથી?",
+      "options": "A. બંધ પાત્રમાં પ્રવાહી અને બાષ્પ, B. ખુલ્લા પાત્રમાં પાણીનું બાષ્પીભવન, C. સંતૃપ્ત દ્રાવણ, D. બરફ અને પાણી 0°C તાપમાને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખુલ્લા પાત્રમાં પાણીનું બાષ્પીભવન. સંતુલન હંમેશા બંધ પાત્રમાં જ સ્થપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંતુલન = જેલ (બંધ પાત્ર), ખુલ્લામાં આઝાદી હોય સંતુલન ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રક્રિયા A + B ⇌ C + D માટે Kc = 100 છે, તો પ્રક્રિયા C + D ⇌ A + B માટે Kc' નું મૂલ્ય કેટલું હશે?",
+      "options": "A. 100, B. -100, C. 0.01, D. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 0.01. પ્રક્રિયા ઉલટાવતા નવો અચળાંક Kc' = 1/Kc થાય. 1/100 = 0.01.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રક્રિયા ઉલ્ટી તો K પણ ઉલ્ટો (Reciprocal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લા-શટેલિયરનો સિદ્ધાંત કોને લાગુ પડે છે?",
+      "options": "A. માત્ર રાસાયણિક સંતુલન, B. માત્ર ભૌતિક સંતુલન, C. રાસાયણિક અને ભૌતિક બંને સંતુલન, D. માત્ર અપ્રતિવર્તી પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. રાસાયણિક અને ભૌતિક બંને સંતુલન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લા-શટેલિયર = સંતુલનનો ડોક્ટર (બધા જ સંતુલનને સાજા કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + ઉષ્મા પ્રક્રિયામાં એમોનિયાનું ઉત્પાદન વધારવા માટે કઈ સ્થિતિ અનુકૂળ છે?",
+      "options": "A. નીચું દબાણ, B. ઊંચું તાપમાન, C. ઊંચું દબાણ, D. ઉદ્દીપકનો અભાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઊંચું દબાણ. અહીં નીપજ બાજુ મોલની સંખ્યા (2) પ્રક્રિયક બાજુ (4) કરતા ઓછી હોવાથી દબાણ વધારતા પ્રક્રિયા પુરોગામી દિશામાં જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દબાણ વધે તો ઓછા મોલ તરફ (P↑ Low Moles).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "pH + pOH નું મૂલ્ય 298 K તાપમાને કેટલું હોય છે?",
+      "options": "A. 0, B. 7, C. 14, D. 10⁻¹⁴",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 14. Kw = [H⁺][OH⁻] = 10⁻¹⁴ પરથી -log લેતા pH + pOH = 14 મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): pH અને pOH ના લગ્ન 14 ના આંકડે જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી કયો લુઈસ એસિડ છે?",
+      "options": "A. NH₃, B. H₂O, C. BF₃, D. OH⁻",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. BF₃. બોરોન પાસે અષ્ટક અપૂર્ણ હોવાથી તે ઇલેક્ટ્રોન યુગ્મ સ્વીકારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): BF3, AlCl3 = ભૂખ્યા (ઇલેક્ટ્રોન સ્વીકારનાર) = લુઈસ એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "H₂O નો સંયુગ્મી બેઇઝ કયો છે?",
+      "options": "A. H₃O⁺, B. OH⁻, C. H₂, D. O²⁻",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. OH⁻. એસિડમાંથી H⁺ દૂર કરતા સંયુગ્મી બેઇઝ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડ - H⁺ = સંયુગ્મી બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "0.001 M HCl ના દ્રાવણની pH કેટલી થાય?",
+      "options": "A. 1, B. 2, C. 3, D. 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 3. [H⁺] = 0.001 = 10⁻³. pH = -log(10⁻³) = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિહ્ન પછી જેટલા આંકડા તેટલી pH (0.001 માં 3 આંકડા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કયા પદાર્થ માટે દ્રાવ્યતા ગુણાકાર Ksp = s² સૂત્ર લાગુ પડે?",
+      "options": "A. AgCl, B. MgCl₂, C. AlCl₃, D. Ca₃(PO₄)₂",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. AgCl. AB પ્રકારના ક્ષાર માટે Ksp = [s][s] = s².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1:1 ક્ષાર (AgCl, BaSO4) હોય તો s².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "એસિડિક બફર દ્રાવણ બનાવવા માટે નીચેનું કયું મિશ્રણ વપરાય છે?",
+      "options": "A. HCl + NaCl, B. CH₃COOH + CH₃COONa, C. NH₄OH + NH₄Cl, D. NaOH + HCl",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. CH₃COOH + CH₃COONa. નિર્બળ એસિડ અને તેનો પ્રબળ બેઇઝ સાથેનો ક્ષાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડિક બફર = નિર્બળ એસિડ + ફેમિલી મેમ્બર (Salt).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઓસ્ટવાલ્ડના મંદનનો નિયમ કોને લાગુ પડે છે?",
+      "options": "A. પ્રબળ વિદ્યુતવિભાજ્ય, B. નિર્બળ વિદ્યુતવિભાજ્ય, C. નિષ્ક્રિય વાયુ, D. તમામ પદાર્થો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નિર્બળ વિદ્યુતવિભાજ્ય. પ્રબળ વિદ્યુતવિભાજ્ય તો સંપૂર્ણ આયનીકરણ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓસ્ટવાલ્ડ = નિર્બળનો સાથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાણીનો આયનીય ગુણાકાર Kw તાપમાન વધતા...",
+      "options": "A. ઘટે છે, B. વધે છે, C. અચળ રહે છે, D. શૂન્ય થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વધે છે. કારણ કે આયનીકરણ એ ઉષ્માશોષક પ્રક્રિયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમી વધે તો Kw પણ કૂદે (વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમાન આયન અસર (Common Ion Effect) ને કારણે દ્રાવ્યતામાં શું ફેરફાર થાય છે?",
+      "options": "A. વધારો, B. ઘટાડો, C. કોઈ ફેરફાર નહીં, D. પહેલા વધે પછી ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઘટાડો. સમાન આયનની હાજરીમાં સંતુલન ડાબી બાજુ ખસે છે, તેથી દ્રાવ્યતા ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Common Ion = દ્રાવ્યતાનો દુશ્મન (ઘટાડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "હેન્ડરસન સમીકરણ મુજબ pH = pKa ક્યારે થાય?",
+      "options": "A. [એસિડ] > [ક્ષાર], B. [એસિડ] < [ક્ષાર], C. [એસિડ] = [ક્ષાર], D. [ક્ષાર] = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. [એસિડ] = [ક્ષાર]. pH = pKa + log([Salt]/[Acid]), જો બંને સમાન હોય તો log 1 = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાનતા = pH = pKa.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સંતુલન અચળાંક Kc નું મૂલ્ય નીચેનામાંથી કોના પર આધાર રાખે છે?",
+      "options": "A. પ્રારંભિક સાંદ્રતા, B. દબાણ, C. તાપમાન, D. પાત્રનું કદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. તાપમાન. Kc માત્ર તાપમાન બદલાતા જ બદલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): K (Constant) નો બોસ 'T' (Temperature) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "CH₃COONa ના જલીય દ્રાવણની પ્રકૃતિ કેવી હશે?",
+      "options": "A. એસિડિક, B. બેઝિક, C. તટસ્થ, D. ઉભયગુણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બેઝિક. તે નિર્બળ એસિડ (CH₃COOH) અને પ્રબળ બેઇઝ (NaOH) નો ક્ષાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પ્રબળ હોય તેવું દ્રાવણ બને (Strong Base -> Basic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કયું સંયોજન પ્રોટોનિક એસિડ નથી?",
+      "options": "A. H₂SO₄, B. HCl, C. B(OH)₃, D. CH₃COOH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. B(OH)₃ (બોરિક એસિડ). તે H⁺ આપતો નથી પણ OH⁻ સ્વીકારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બોરિક એસિડ એ છૂપો રુસ્તમ છે, OH સ્વીકારે H ન આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "A₂B₃ ક્ષાર માટે Ksp નું સૂત્ર શું થશે?",
+      "options": "A. 4s³, B. 27s⁴, C. 108s⁵, D. s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 108s⁵. Ksp = (2s)²(3s)³ = 4s² * 27s³ = 108s⁵.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): x^x * y^y * s^(x+y). અહીં 2² * 3³ * s^(2+3) = 4 * 27 * s⁵ = 108s⁵.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઉદ્દીપક સંતુલન અચળાંક (Kc) ના મૂલ્યમાં શું ફેરફાર કરે છે?",
+      "options": "A. વધારે છે, B. ઘટાડે છે, C. કોઈ ફેરફાર કરતો નથી, D. બમણું કરે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કોઈ ફેરફાર કરતો નથી. ઉદ્દીપક ફક્ત સંતુલન વહેલું લાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉદ્દીપક એ શોર્ટકટ રસ્તો છે, મંજિલ (Kc) તો એ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નિર્બળ એસિડના આયનીકરણ અચળાંક Ka અને pKa વચ્ચેનો સંબંધ જણાવો.",
+      "options": "A. pKa = log Ka, B. pKa = -log Ka, C. pKa = 1/Ka, D. Ka = 10^pKa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. pKa = -log Ka.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'p' નો અર્થ જ -log થાય (p = Power of Hydrogen/Negative log).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "H₂S ની હાજરીમાં HCl ઉમેરતા S²⁻ ની સાંદ્રતામાં શું ફેરફાર થાય?",
+      "options": "A. વધે, B. ઘટે, C. સમાન રહે, D. અચળ રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઘટે. સમાન આયન (H⁺) ને લીધે H₂S નું આયનીકરણ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાન આયન (H+) આવ્યો એટલે પિતરાઈ (S2-) ને દબાવશે (ઘટાડશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો પ્રક્રિયા ભાગાંક Qc < Kc હોય તો પ્રક્રિયા કઈ દિશામાં આગળ વધશે?",
+      "options": "A. પ્રતિગામી, B. પુરોગામી, C. સંતુલનમાં રહેશે, D. પ્રક્રિયા બંધ થઈ જશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પુરોગામી. સાંદ્રતા Kc જેટલી કરવા માટે નીપજો વધવી જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Qc નાનો છે, તેને Kc જેવડા મોટા થવા માટે આગળ વધવું પડશે (પુરોગામી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "NH₄Cl ના જલીય દ્રાવણની pH કેટલી હશે?",
+      "options": "A. 7, B. < 7, C. > 7, D. 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. < 7. તે પ્રબળ એસિડ (HCl) અને નિર્બળ બેઇઝ (NH₄OH) નો ક્ષાર હોવાથી એસિડિક હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): NH4Cl માં HCl પ્રબળ છે, એટલે pH 7 થી નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંતુલન અવસ્થાએ ΔG (મુક્ત ઉર્જા ફેરફાર) નું મૂલ્ય કેટલું હોય?",
+      "options": "A. ધન, B. ઋણ, C. શૂન્ય, D. અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શૂન્ય. સંતુલને કોઈ ચોખ્ખો ઉર્જા ફેરફાર થતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંતુલન = સંપૂર્ણ શાંતિ = Zero Energy Change (ΔG = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આયનીય ગુણાકાર Qsp અને દ્રાવ્યતા ગુણાકાર Ksp વચ્ચે કેવો સંબંધ હોય ત્યારે અવક્ષેપન થાય?",
+      "options": "A. Qsp < Ksp, B. Qsp = Ksp, C. Qsp > Ksp, D. Qsp = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Qsp > Ksp. જ્યારે આયનોની સાંદ્રતા મર્યાદા કરતા વધે ત્યારે જ અવક્ષેપ પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Q > K તો બાલ્ટી ઉભરાય (Precipitate).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બ્રોન્સ્ટેડ-લોરી સિદ્ધાંત મુજબ એસિડ એટલે શું?",
+      "options": "A. OH⁻ દાતા, B. H⁺ દાતા, C. ઇલેક્ટ્રોન દાતા, D. H⁺ સ્વીકારનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. H⁺ (પ્રોટોન) દાતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બ્રોન્સ્ટેડ એસિડ = દાનવીર (H+ આપે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "HCO₃⁻ નો સંયુગ્મી એસિડ કયો છે?",
+      "options": "A. CO₃²⁻, B. H₂CO₃, C. CO₂, D. OH⁻",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. H₂CO₃. સંયુગ્મી એસિડ મેળવવા H⁺ ઉમેરવો પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંયુગ્મી એસિડ પૂછ્યું હોય તો +H⁺ કરી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "નિષ્ક્રિય વાયુ (Inert Gas) અચળ કદે ઉમેરતા સંતુલન પર શું અસર થશે?",
+      "options": "A. પુરોગામી ખસશે, B. પ્રતિગામી ખસશે, C. કોઈ અસર થશે નહીં, D. સાંદ્રતા વધશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. કોઈ અસર થશે નહીં. અચળ કદે મોલર સાંદ્રતા બદલાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અચળ કદ + નિષ્ક્રિય વાયુ = નો અસર (No Effect).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "શુદ્ધ પાણીની pH 25°C તાપમાને 7 છે, જો તાપમાન વધારીને 60°C કરવામાં આવે તો pH કેટલી થશે?",
+      "options": "A. 7 થી વધુ, B. 7 થી ઓછી, C. 7 જ રહેશે, D. 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 7 થી ઓછી. તાપમાન વધતા Kw વધે છે, તેથી [H⁺] વધે અને pH ઘટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમી વધી -> H+ વધ્યા -> pH ઘટી (Acidic નહી પણ Neutrality point શિફ્ટ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "નીચેનામાંથી કયો પદાર્થ ઉભયગુણી (Amphoteric) છે?",
+      "options": "A. H₂O, B. HCl, C. NH₃, D. NaOH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. H₂O. તે પ્રોટોન આપી પણ શકે અને મેળવી પણ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી એ 'ઓલરાઉન્ડર' છે (Acid + Base).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો Kc > 10³ હોય, તો સંતુલન સમયે પાત્રમાં કોનું પ્રમાણ વધુ હશે?",
+      "options": "A. પ્રક્રિયકો, B. નીપજો, C. બંને સમાન, D. કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નીપજો. Kc મોટો એટલે અંશ (નીપજ) મોટો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): K મોટો તો નીપજ (Product) નો ફોટો મોટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નીચેનામાંથી કઈ પ્રક્રિયામાં Kp = Kc(RT)⁻¹ થશે?",
+      "options": "A. H₂ + I₂ ⇌ 2HI, B. N₂ + 3H₂ ⇌ 2NH₃, C. PCl₅ ⇌ PCl₃ + Cl₂, D. 2SO₂ + O₂ ⇌ 2SO₃",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. 2SO₂ + O₂ ⇌ 2SO₃. અહીં Δn = 2 - (2+1) = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાત (Power) ચેક કરો, Δn = -1 ક્યાં છે?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સોડા વોટરની બોટલ ખોલતા CO₂ વાયુ બહાર આવે છે, આ શાને કારણે છે?",
+      "options": "A. દબાણ ઘટતા દ્રાવ્યતા ઘટે, B. દબાણ વધતા દ્રાવ્યતા ઘટે, C. તાપમાન ઘટતા, D. રાસાયણિક પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. દબાણ ઘટતા CO₂ ની દ્રાવ્યતા ઘટે છે (હેનરીનો નિયમ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઢાંકણ ખોલ્યું = દબાણ ઘટ્યું = ગેસ આઝાદ થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સંતુલન અચળાંક Kc નો એકમ nA + mB ⇌ pC + qD પ્રક્રિયા માટે શું થાય?",
+      "options": "A. (mol L⁻¹)^Δn, B. (L mol⁻¹)^Δn, C. mol L⁻¹, D. એકમ રહિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. (mol L⁻¹)^Δn.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાંદ્રતાની ઘાતમાં તફાવત (Δn).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "માનવ રુધિર (Blood) ની pH આશરે કેટલી હોય છે?",
+      "options": "A. 6.4, B. 7.0, C. 7.4, D. 8.2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 7.4. રુધિર થોડું બેઝિક બફર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોહી (Blood) = 7.4 (સાત ચોક અઠ્ઠાવીસ નહી પણ 7.4 યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "NH₃ + H₂O ⇌ NH₄⁺ + OH⁻ પ્રક્રિયામાં પાણી કઈ રીતે વર્તે છે?",
+      "options": "A. લુઈસ બેઇઝ, B. બ્રોન્સ્ટેડ એસિડ, C. બ્રોન્સ્ટેડ બેઇઝ, D. તટસ્થ પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બ્રોન્સ્ટેડ એસિડ. પાણી અહીં NH₃ ને પ્રોટોન (H⁺) આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે H+ આપે તે એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "દ્રાવ્યતા 's' અને Ksp વચ્ચેનો સંબંધ Mg(OH)₂ માટે શું હશે?",
+      "options": "A. Ksp = s², B. Ksp = 4s³, C. Ksp = 27s⁴, D. Ksp = 108s⁵",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Ksp = 4s³. Mg(OH)₂ → Mg²⁺ + 2OH⁻. Ksp = [s][2s]² = 4s³.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): AB2 પ્રકાર = 4s³.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "0.1 M NaOH દ્રાવણની pH કેટલી?",
+      "options": "A. 1, B. 13, C. 7, D. 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 13. [OH⁻] = 10⁻¹ => pOH = 1. pH = 14 - 1 = 13.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): NaOH બેઇઝ છે એટલે pH 7 થી વધુ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નૈઋત્ય એસિડ (Acid Rain) ની pH સામાન્ય રીતે કેટલી હોય છે?",
+      "options": "A. 7 થી વધુ, B. 5.6 થી ઓછી, C. 8.5, D. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 5.6 થી ઓછી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5.6 થી નીચે એટલે એસિડ વર્ષાનું જોખમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "BaSO₄ ના સંતૃપ્ત દ્રાવણમાં H₂SO₄ ઉમેરતા Ba²⁺ ની સાંદ્રતા...",
+      "options": "A. વધશે, B. ઘટશે, C. અચળ રહેશે, D. શૂન્ય થશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઘટશે. SO₄²⁻ સમાન આયન હોવાથી સંતુલન પ્રતિગામી દિશામાં ખસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Common Ion Effects always decrease solubility.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કયા પ્રકારના ક્ષારનું જળવિભાજન (Hydrolysis) થતું નથી?",
+      "options": "A. નિર્બળ એસિડ + પ્રબળ બેઇઝ, B. પ્રબળ એસિડ + નિર્બળ બેઇઝ, C. પ્રબળ એસિડ + પ્રબળ બેઇઝ, D. નિર્બળ એસિડ + નિર્બળ બેઇઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પ્રબળ એસિડ + પ્રબળ બેઇઝ (દા.ત. NaCl). તેના આયનો પાણી સાથે પ્રક્રિયા કરતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રબળ + પ્રબળ = કોઈ પંગો નહી (No Hydrolysis).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સંતુલન અચળાંક Kc અને મુક્ત ઉર્જા ΔG° વચ્ચેનો સંબંધ શું છે?",
+      "options": "A. ΔG° = -RT ln Kc, B. ΔG° = RT ln Kc, C. ΔG° = -RT log Kc, D. Kc = e^(ΔG°/RT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ΔG° = -RT ln Kc.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'G' અને 'K' ના સંબંધમાં 'માઈનસ RT' યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "Fe(OH)₃ ના દ્રાવ્યતા ગુણાકારનું સૂત્ર શું થાય?",
+      "options": "A. s², B. 4s³, C. 27s⁴, D. 108s⁵",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 27s⁴. AB₃ પ્રકારના ક્ષાર માટે Ksp = [s][3s]³ = 27s⁴.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): AB3 એટલે 3 નો ઘન (27) અને s ની 4 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "નીચેનામાંથી કયો લુઈસ બેઇઝ છે?",
+      "options": "A. AlCl₃, B. NH₃, C. H⁺, D. Mg²⁺",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. NH₃. નાઈટ્રોજન પાસે અબંધકારક ઇલેક્ટ્રોન યુગ્મ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોન પેર (Loan Pair) હોય તે દાન કરે = લુઈસ બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "નિર્બળ એસિડ HA નો આયનીકરણ અંશ α = ...",
+      "options": "A. √(Ka/C), B. Ka/C, C. √(C/Ka), D. Ka * C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. √(Ka/C). ઓસ્ટવાલ્ડના મંદનના નિયમ મુજબ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Alpha (α) = Root of K/C.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "PCl₅(g) ⇌ PCl₃(g) + Cl₂(g) પ્રક્રિયા માટે પાત્રનું કદ વધારતા શું થશે?",
+      "options": "A. પ્રક્રિયા પ્રતિગામી જશે, B. પુરોગામી જશે, C. કોઈ અસર ન થાય, D. સંતુલન અચળાંક વધશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પુરોગામી જશે. કદ વધતા દબાણ ઘટે છે, તેથી વધુ મોલ (નીપજ) તરફ પ્રક્રિયા ખસે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કદ વધે તો ભીડ કરવા વધુ મોલ તરફ ભાગવું (V↑ -> More Moles).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "HPO₄²⁻ નો સંયુગ્મી બેઇઝ કયો?",
+      "options": "A. H₂PO₄⁻, B. PO₄³⁻, C. H₃PO₄, D. H₂O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. PO₄³⁻. સંયુગ્મી બેઇઝ માટે એક H⁺ ઓછો કરવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંયુગ્મી બેઇઝ એટલે H કાઢી નાખો અને -1 ચાર્જ વધારી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જો પ્રક્રિયા ઉષ્માશોષક (Endothermic) હોય, તો તાપમાન વધારતા સંતુલન કઈ દિશામાં ખસશે?",
+      "options": "A. પ્રતિગામી, B. પુરોગામી, C. અસર થશે નહીં, D. સાંદ્રતા ઘટશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પુરોગામી. ઉષ્માશોષક પ્રક્રિયા ગરમી સ્વીકારીને નીપજ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શોષક + ગરમી = આગળ વધો (Forward).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "નિર્બળ બેઇઝ માટે pOH શોધવાનું સૂત્ર કયું છે?",
+      "options": "A. pKb + log([Salt]/[Base]), B. pKb + log([Base]/[Salt]), C. pKa + log([Salt]/[Acid]), D. -log[H⁺]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. pKb + log([Salt]/[Base]). (હેન્ડરસન સમીકરણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેઇઝ હોય તો બધું 'b' (pOH, pKb, Base) વાળું જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "AgCl ની દ્રાવ્યતા પાણીમાં 's' છે, તો 0.1 M NaCl માં તેની દ્રાવ્યતા કેટલી હશે?",
+      "options": "A. s થી વધુ, B. s થી ઓછી, C. s જેટલી જ, D. શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. s થી ઓછી. Common Ion Effect (Cl⁻) ને કારણે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહારથી સમાન આયન આવે તો દ્રાવ્યતાને દબાવશે (ઘટાડશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "નીચેનામાંથી કયા સંતુલન માટે Kp અને Kc સમાન હશે?",
+      "options": "A. PCl₅ ⇌ PCl₃ + Cl₂, B. N₂ + 3H₂ ⇌ 2NH₃, C. H₂ + Br₂ ⇌ 2HBr, D. 2SO₂ + O₂ ⇌ 2SO₃",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. H₂ + Br₂ ⇌ 2HBr. અહીં Δn = 2 - (1+1) = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંને બાજુ મોલ સરખા -> Kp = Kc.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "સમાંગ સંતુલન (Homogeneous Equilibrium) નું ઉદાહરણ કયું છે?",
+      "options": "A. CaCO₃(s) ⇌ CaO(s) + CO₂(g), B. H₂(g) + I₂(g) ⇌ 2HI(g), C. H₂O(l) ⇌ H₂O(g), D. NH₄HS(s) ⇌ NH₃(g) + H₂S(g)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. H₂(g) + I₂(g) ⇌ 2HI(g). બધા જ ઘટકો વાયુ અવસ્થામાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંગ = બધા જ એક સરખા (Same State).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "પાણીના આયનીય ગુણાકાર Kw નો એકમ શું થાય?",
+      "options": "A. mol L⁻¹, B. mol² L⁻², C. mol⁻¹ L, D. એકમ રહિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. mol² L⁻². Kw = [H⁺][OH⁻] = (mol/L) * (mol/L).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે સાંદ્રતાનો ગુણાકાર = એકમનો વર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "નીચેનામાંથી કયો પદાર્થ બફર દ્રાવણ તરીકે કાર્ય કરી શકતો નથી?",
+      "options": "A. CH₃COOH + CH₃COONa, B. NH₄OH + NH₄Cl, C. HCl + NaCl, D. H₂CO₃ + NaHCO₃",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. HCl + NaCl. બફર બનાવવા માટે નિર્બળ એસિડ કે બેઇઝ હોવો જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રબળ એસિડ બફર ન બનાવી શકે, તે બહુ જીદ્દી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "Ksp નું મૂલ્ય જેટલું વધુ, દ્રાવ્યતા તેટલી...",
+      "options": "A. ઓછી, B. વધુ, C. અચળ, D. શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વધુ. Ksp એટલે દ્રાવ્યતા ગુણાકાર, વધુ કિંમત એટલે વધુ દ્રાવ્યતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Ksp ∝ Solubility (વધે તો વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "A + B ⇌ C + D માટે Kc = 10. જો પ્રક્રિયાને 2 વડે ગુણવામાં આવે તો નવો Kc' શું થશે?",
+      "options": "A. 20, B. 100, C. 5, D. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 100. પ્રક્રિયાને n વડે ગુણતા નવો Kc' = Kcⁿ થાય. 10² = 100.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણાકાર કરો તે ઘાતમાં (Power) જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "બરફ ⇌ પાણી સંતુલનમાં દબાણ વધારતા શું થશે?",
+      "options": "A. બરફ વધુ બનશે, B. પાણી વધુ બનશે, C. કોઈ અસર નહીં, D. તાપમાન ઘટશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાણી વધુ બનશે. પાણીનું કદ બરફ કરતા ઓછું હોવાથી દબાણ વધતા ઓછું કદ ધરાવતી અવસ્થા (પાણી) તરફ સંતુલન ખસે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બરફ પર દબાણ આપો તો તે ઓગળી જાય (પાણી બને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "NH₄⁺ નો સંયુગ્મી બેઇઝ કયો છે?",
+      "options": "A. NH₃, B. NH₂⁻, C. NH₄OH, D. N₂",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. NH₃. એસિડમાંથી H⁺ દૂર કરતા સંયુગ્મી બેઇઝ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): NH4+ માંથી એક H કાઢો એટલે NH3 વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "કેલ્શિયમ કાર્બોનેટનું વિઘટન CaCO₃(s) ⇌ CaO(s) + CO₂(g) કયા પાત્રમાં સંતુલન પ્રાપ્ત કરશે?",
+      "options": "A. ખુલ્લું પાત્ર, B. બંધ પાત્ર, C. કોઈ પણ પાત્રમાં, D. રબરના ફુગ્ગામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બંધ પાત્ર. વાયુયુક્ત નીપજ ઉડી ન જાય તે માટે બંધ પાત્ર અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગેસવાળી પ્રક્રિયા + સંતુલન = બંધ પાત્ર (Closed Vessel).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "જો Kc નું મૂલ્ય ખૂબ જ નાનું (Kc < 10⁻³) હોય, તો...",
+      "options": "A. પ્રક્રિયા લગભગ પૂર્ણ થઈ ગઈ છે, B. પ્રક્રિયા ભાગ્યે જ આગળ વધી છે, C. નીપજોનું પ્રમાણ વધુ છે, D. સંતુલન મધ્યમાં છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પ્રક્રિયા ભાગ્યે જ આગળ વધી છે. સાંદ્રતા પ્રક્રિયકો તરફ વધુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Kc પિગ્મી (નાનો) તો નીપજ પણ ઓછી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "નીચેનામાંથી કયું દ્રાવણ લાલ લિટમસને ભૂરું બનાવશે?",
+      "options": "A. NaCl, B. NH₄Cl, C. Na₂CO₃, D. HCl",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Na₂CO₃. તે નિર્બળ એસિડ અને પ્રબળ બેઇઝનો ક્ષાર હોવાથી બેઝિક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂરું (Blue) = બેઇઝ (Base). Na2CO3 માં NaOH પ્રબળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "સંતુલન અચળાંક Kp નો એકમ SO₂ + 1/2 O₂ ⇌ SO₃ માટે શું થશે?",
+      "options": "A. bar, B. bar⁻¹, C. bar⁻¹/², D. bar¹/²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. bar⁻¹/². Δn = 1 - (1 + 0.5) = -0.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Unit = (Pressure)^Δn. અહીં Δn = -1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "દ્રાવણની pH 4 થી ઘટીને 2 થાય છે, તો H⁺ ની સાંદ્રતા કેટલા ગણી વધશે?",
+      "options": "A. 2 ગણી, B. 10 ગણી, C. 100 ગણી, D. 1/2 ગણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 100 ગણી. pH 4 એટલે 10⁻⁴ અને pH 2 એટલે 10⁻². તફાવત 10² = 100.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): pH માં 1 નો ફેરફાર = 10 ગણો તફાવત. 2 નો ફેરફાર = 100 ગણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "નિર્બળ એસિડ (Ka = 10⁻⁵) માટે pKa કેટલો થાય?",
+      "options": "A. 5, B. -5, C. 10, D. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 5. pKa = -log(10⁻⁵) = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ઘાત (Power) હોય તે જ p value બને (જો આગળ 1 હોય તો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "સલ્ફ્યુરિક એસિડનો બીજો આયનીકરણ અચળાંક (Ka₂) પ્રથમ (Ka₁) કરતા કેવો હોય?",
+      "options": "A. વધુ, B. ઓછો, C. સમાન, D. બમણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઓછો. ઋણ આયનમાંથી પ્રોટોન દૂર કરવો મુશ્કેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા Ka1 > Ka2 > Ka3 (પહેલો ઘા રુઝાય, બીજામાં મહેનત પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "CH₃COOH + H₂O ⇌ CH₃COO⁻ + H₃O⁺ માં સંયુગ્મી એસિડ-બેઇઝની જોડ કઈ છે?",
+      "options": "A. CH₃COOH / H₂O, B. CH₃COOH / CH₃COO⁻, C. H₂O / CH₃COO⁻, D. H₃O⁺ / CH₃COO⁻",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. CH₃COOH / CH₃COO⁻. આ બંનેમાં માત્ર એક H⁺ નો જ તફાવત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેનો ચહેરો મળતો આવે અને 1 હાઈડ્રોજનનો ગેપ હોય તે જોડીદાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "દ્રાવ્યતા ગુણાકારનું મૂલ્ય નીચેનામાંથી કોના માટે લાગુ પડે છે?",
+      "options": "A. વધુ દ્રાવ્ય ક્ષાર, B. અલ્પ દ્રાવ્ય ક્ષાર, C. પ્રવાહી મિશ્રણ, D. આદર્શ વાયુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અલ્પ દ્રાવ્ય ક્ષાર (Sparingly Soluble Salts). AgCl, BaSO₄ જેવા પદાર્થો માટે જ Ksp વ્યાખ્યાયિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Ksp = કંજૂસ પદાર્થો (જે જલ્દી ઓગળે નહી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "હાઇડ્રોજન આયોડાઇડના વિઘટન 2HI(g) ⇌ H₂(g) + I₂(g) માટે Kc નું સૂત્ર શું થાય?",
+      "options": "A. [H₂][I₂]/[HI], B. [H₂][I₂]/[HI]², C. [HI]²/[H₂][I₂], D. [HI]/[H₂][I₂]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. [H₂][I₂]/[HI]². સંતુલન અચળાંક એટલે નીપજોની સાંદ્રતા / પ્રક્રિયકોની સાંદ્રતા (તત્વયોગમિતિય ગુણાંક ઘાતમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Kc = ઉપર નીપજ, નીચે પ્રક્રિયક (Product/Reactant).</p></div>"
+    }
+  ]
+}

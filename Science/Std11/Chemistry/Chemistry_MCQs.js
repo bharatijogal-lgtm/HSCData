@@ -3115,3 +3115,371 @@ var Std11_Chemistry_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રેડોક્ષ પ્રક્રિયાઓ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રાચીન ખ્યાલ મુજબ 'ઓક્સિડેશન' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ: ઓક્સિજનનો ઉમેરો અથવા હાઇડ્રોજનનો દૂર થવો. (A) ઓક્સિજન ઉમેરાય (B) હાઇડ્રોજન દૂર થાય (C) વિદ્યુતઋણીય તત્વ ઉમેરાય (D) આપેલ તમામ. સાચો વિકલ્પ: (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O-H-E: Oxidation માં Oxygen ઉમેરાય, Hydrogen Exit (દૂર) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઈલેક્ટ્રોનીય સંકલ્પના મુજબ 'રિડક્શન' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ: ઈલેક્ટ્રોન મેળવવાની પ્રક્રિયા. વિકલ્પો: (A) e- ગુમાવવા (B) e- મેળવવા (C) O2 ગુમાવવો (D) H2 ગુમાવવો. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GER - Gain of Electrons is Reduction.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેનામાંથી કઈ પ્રક્રિયામાં રેડોક્ષ પ્રક્રિયા જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમાં ઓક્સિડેશન આંકમાં ફેરફાર થતો હોય. 2Na + Cl2 -> 2NaCl એ રેડોક્ષ છે. વિકલ્પો: (A) NaOH + HCl (B) AgNO3 + NaCl (C) 2Na + Cl2 (D) NH3 + HCl. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પ્રક્રિયામાં કોઈ તત્વ મુક્ત અવસ્થામાં (0 O.N.) હોય અને નીપજમાં સંયોજનમાં હોય, તો તે પાક્કું રેડોક્ષ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રિડક્શન કર્તા (Reductant) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ પોતે ઓક્સિડેશન પામે અને બીજાનું રિડક્શન કરે. વિકલ્પો: (A) e- મેળવનાર (B) e- આપનાર (C) H2 મેળવનાર (D) O2 આપનાર. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કર્તા ઉંધું કામ કરે! ઓક્સિડેશન પામનાર પદાર્થ પોતે રિડક્શન કર્તા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "KMnO4 માં Mn નો ઓક્સિડેશન આંક કેટલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> K(+1) + Mn(x) + 4O(-2) = 0 => 1 + x - 8 = 0 => x = +7. વિકલ્પો: (A) +2 (B) +5 (C) +7 (D) +6. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: KMnO4 મેંગેનીઝનો 'સુપરહીરો' છે, સૌથી ઉંચો આંક +7 જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "H2O2 (હાઇડ્રોજન પેરોક્સાઇડ) માં ઓક્સિજનનો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરોક્સાઇડમાં ઓક્સિજન હંમેશા -1 હોય છે. વિકલ્પો: (A) -2 (B) -1 (C) +1 (D) 0. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પેરોક્સાઇડ' શબ્દ આવે એટલે ઓક્સિજન માટે -1 ફિક્સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "K2Cr2O7 માં ક્રોમિયમ (Cr) નો ઓક્સિડેશન આંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2(+1) + 2x + 7(-2) = 0 => 2 + 2x - 14 = 0 => 2x = 12 => x = +6. વિકલ્પો: (A) +3 (B) +6 (C) +7 (D) +4. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cr2O7^(2-) માં Cr હંમેશા +6 જ આવશે. ગણતરી મોઢે રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેનામાંથી કયા સંયોજનમાં હાઇડ્રોજનનો ઓક્સિડેશન આંક -1 છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધાતુના હાઈડ્રાઈડમાં (LiH, NaH) H નો આંક -1 હોય. વિકલ્પો: (A) H2O (B) NH3 (C) LiH (D) HCl. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ (Metal) + Hydrogen = Metal Hydride (-1). બાકી બધે +1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "OF2 સંયોજનમાં ઓક્સિજનનો ઓક્સિડેશન આંક જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F ની ઋણતા O કરતા વધુ હોવાથી F = -1 લેતા, x + 2(-1) = 0 => x = +2. વિકલ્પો: (A) -2 (B) -1 (C) +2 (D) +1. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર ફ્લોરિન (F) સામે જ ઓક્સિજન 'ધન' (+) બને છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિષમીકરણ (Disproportionation) પ્રક્રિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જ તત્વનું એકસાથે ઓક્સિડેશન અને રિડક્શન થાય. વિકલ્પો: (A) બે જુદા તત્વો (B) એક જ તત્વ (C) માત્ર ધાતુ (D) માત્ર અધાતુ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વન મેન શો! એક જ એલિમેન્ટ વધે (Ox) અને ઘટે (Red).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "KO2 (પોટેશિયમ સુપરઓક્સાઇડ) માં O નો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> K(+1) + 2x = 0 => 2x = -1 => x = -1/2. વિકલ્પો: (A) -1 (B) -2 (C) -1/2 (D) 0. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુપરઓક્સાઇડ એટલે 'અડધો' (-1/2) આંક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સ્ટોક નોટેશન (Stock Notation) મુજબ 'FeO' ને કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Fe નો આંક +2 છે, તેથી તેને Iron(II) oxide લખાય. વિકલ્પો: (A) Iron(I) oxide (B) Iron(II) oxide (C) Iron(III) oxide (D) Iron(IV) oxide. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિડેશન આંકને રોમન અંકમાં કૌંસમાં લખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "H2SO4 માં સલ્ફર (S) નો ઓક્સિડેશન આંક ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2(1) + x + 4(-2) = 0 => 2 + x - 8 = 0 => x = +6. વિકલ્પો: (A) +4 (B) +6 (C) -2 (D) +2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફ્યુરિક એસિડમાં સલ્ફર ફૂલ ફોર્મમાં (+6) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કયું તત્વ ક્યારેય ધન ઓક્સિડેશન આંક ધરાવતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્લોરિન સૌથી વધુ વિદ્યુતઋણીય હોવાથી હંમેશા -1 જ હોય. વિકલ્પો: (A) O (B) Cl (C) F (D) N. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F = Forever Negative!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Ni(CO)4 માં નિકલ (Ni) નો ઓક્સિડેશન આંક શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CO એ તટસ્થ લિગેન્ડ છે (0), તેથી Ni પણ 0 થશે. વિકલ્પો: (A) +2 (B) +4 (C) 0 (D) -2. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોનિલ (CO) સાથે જોડાયેલ ધાતુ હંમેશા ઝીરો (0) બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "CH4 માં કાર્બનનો ઓક્સિડેશન આંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x + 4(+1) = 0 => x = -4. વિકલ્પો: (A) +4 (B) -4 (C) 0 (D) +2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રોજન (+1) ચાર વાર છે, તો સામે કાર્બન (-4) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેનામાંથી કઈ રેડોક્ષ પ્રક્રિયા નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયનિક પ્રક્રિયાઓ (અવક્ષેપન) રેડોક્ષ હોતી નથી. AgNO3 + NaCl -> AgCl + NaNO3. વિકલ્પો: (A) Zn + Cu2+ (B) Ag+ + Cl- (C) H2 + Cl2 (D) CH4 + O2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો માત્ર આયનોની અદલા-બદલી થતી હોય, તો તે રેડોક્ષ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ડેનિયલ કોષમાં એનોડ તરીકે કઈ ધાતુ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Zn સળિયો એનોડ તરીકે વર્તે છે. વિકલ્પો: (A) Cu (B) Ag (C) Zn (D) Pt. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LOAN - Left, Oxidation, Anode, Negative.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "NH4+ આયનમાં નાઇટ્રોજનનો ઓક્સિડેશન આંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x + 4(+1) = +1 => x + 4 = 1 => x = -3. વિકલ્પો: (A) +3 (B) -3 (C) +5 (D) -5. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરનો વીજભાર (Charge) બરાબરની સામે મુકવો ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિસ્થાપન પ્રક્રિયા X + YZ -> XZ + Y માં X શું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> X એ Y કરતા વધુ સક્રિય ધાતુ હોવી જોઈએ. વિકલ્પો: (A) ઓછી સક્રિય (B) વધુ સક્રિય (C) નિષ્ક્રિય (D) વાયુ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળિયો બે ભાગ પાડે' - વધુ સક્રિય ધાતુ જ બીજાને ધક્કો મારી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "H2S2O8 (માર્શલ એસિડ) માં S નો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધારણ મુજબ બે ઓક્સિજન પેરોક્સાઇડ બંધમાં છે. માટે સરેરાશ આંક +6 આવશે. વિકલ્પો: (A) +7 (B) +8 (C) +6 (D) +5. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફર ક્યારેય +6 થી ઉપર ન જઈ શકે. ગણતરીમાં +7 આવે તો પણ +6 જ ટીક કરવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ક્રમબદ્ધ પ્રક્રિયાઓ દ્વારા રેડોક્ષ સંતુલિત કરવાની એક પદ્ધતિનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધ પ્રક્રિયા પદ્ધતિ અથવા ઓક્સિડેશન આંક પદ્ધતિ. વિકલ્પો: (A) સરવાળા પદ્ધતિ (B) અર્ધ પ્રક્રિયા પદ્ધતિ (C) બાદબાકી પદ્ધતિ (D) સ્થિરતા પદ્ધતિ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધ એટલે અડધું-અડધું (Ox and Red) કરીને બેલેન્સ કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીચેનામાંથી કયો ઓક્સિડેશન કર્તા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F2 એ સૌથી પ્રબળ ઓક્સિડેશન કર્તા છે. વિકલ્પો: (A) Li (B) Na (C) F2 (D) H2. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્ત કોષ્ટકનો છેલ્લો 'ડોન' એટલે ફ્લોરિન, જે સૌથી મોટો ઓક્સિડેશન કર્તા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ClO4- માં ક્લોરિનનો ઓક્સિડેશન આંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x + 4(-2) = -1 => x - 8 = -1 => x = +7. વિકલ્પો: (A) +5 (B) +7 (C) -1 (D) +1. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પર'ક્લોરેટ એટલે 'પરમ' (સૌથી વધુ) +7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રેડોક્ષ પ્રક્રિયામાં ઈલેક્ટ્રોનનો સ્વીકાર કરનાર પદાર્થ શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈલેક્ટ્રોન મેળવે તેનું રિડક્શન થાય, માટે તે ઓક્સિડેશન કર્તા છે. વિકલ્પો: (A) રિડક્શન કર્તા (B) ઓક્સિડેશન કર્તા (C) ઉદ્દીપક (D) તટસ્થ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વીકારનાર (Gainer) = Oxidant.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "CrO5 (ક્રોમિયમ પેન્ટોક્સાઇડ) માં Cr નો સાચો ઓક્સિડેશન આંક શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે બટરફ્લાય સ્ટ્રક્ચર ધરાવે છે જેમાં 4 O પેરોક્સાઇડ છે. સાચો આંક +6 છે. વિકલ્પો: (A) +10 (B) +6 (C) +5 (D) +3. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગિયા આકારનું CrO5 યાદ રાખો, જવાબ હંમેશા +6 આવશે, +10 નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "PH3 માં ફોસ્ફરસનો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x + 3(+1) = 0 => x = -3. વિકલ્પો: (A) +3 (B) -3 (C) +5 (D) 0. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોસ્ફીન ગેસમાં P, NH3 ના N જેવો જ વર્તે (-3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કોઈપણ તત્વની મુક્ત અવસ્થામાં ઓક્સિડેશન આંક કેટલો લેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુક્ત તત્વ (O2, Cl2, Na, Fe) નો આંક શૂન્ય હોય. વિકલ્પો: (A) +1 (B) -1 (C) 0 (D) ગમે તે. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુક્ત = મોક્ષ! કોઈ ચાર્જ નહિ, એટલે કે 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બેકિંગ સોડા (NaHCO3) માં કાર્બનનો ઓક્સિડેશન આંક ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1(Na) + 1(H) + x + 3(-2) = 0 => 1 + 1 + x - 6 = 0 => x = +4. વિકલ્પો: (A) +4 (B) +2 (C) -4 (D) +3. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોનેટ (CO3) હોય એટલે કાર્બન +4 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કઈ અધાતુ વિસ્થાપન પ્રક્રિયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2Na + 2H2O -> 2NaOH + H2. અહીં હાઇડ્રોજન અધાતુ વિસ્થાપિત થાય છે. વિકલ્પો: (A) CuSO4+Zn (B) Fe+CuSO4 (C) Na+H2O (D) AgNO3+Cu. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો નીપજમાં H2, O2 કે Cl2 ગેસ છૂટો પડે તો તે અધાતુ વિસ્થાપન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સૌથી પ્રબળ રિડક્શન કર્તા ધાતુ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોકેમિકલ સીરીઝમાં લિથિયમ (Li) સૌથી ઉપર/પ્રબળ છે. વિકલ્પો: (A) Na (B) Li (C) K (D) Cs. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Li = Little but LION (સૌથી મોટો રિડક્શન કર્તા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કયા પ્રકારની પ્રક્રિયામાં ઓક્સિડેશન આંક ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રિડક્શનમાં ઓક્સિડેશન આંકમાં ઘટાડો થાય. વિકલ્પો: (A) ઓક્સિડેશન (B) રિડક્શન (C) વિઘટન (D) સંયોગીકરણ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રિડક્શન' શબ્દનો અર્થ જ 'ઘટાડો' થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "MnO4- -> Mn2+ પ્રક્રિયામાં કેટલા ઈલેક્ટ્રોનનો ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mn (+7) માંથી (+2) થાય છે, એટલે કે 5 ઈલેક્ટ્રોન મેળવે છે. વિકલ્પો: (A) 2 (B) 3 (C) 5 (D) 7. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 - 2 = 5. બહુ સરળ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ક્ષાર સેતુ (Salt Bridge) નું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રાવણની વિદ્યુતીય તટસ્થતા જાળવવી. વિકલ્પો: (A) વોલ્ટેજ વધારવો (B) તટસ્થતા જાળવવી (C) પ્રવાહ રોકવો (D) તાપમાન ઘટાડવું. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રિજનું કામ જોડાણ અને બેલેન્સ રાખવાનું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "S4O6^(2-) માં સલ્ફરનો સરેરાશ ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4x + 6(-2) = -2 => 4x = 10 => x = 2.5. વિકલ્પો: (A) +2 (B) +2.5 (C) +3 (D) +6. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેરાશ આંક અપૂર્ણાંક હોઈ શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કાર્બનનો લઘુત્તમ અને મહત્તમ ઓક્સિડેશન આંક અનુક્રમે શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન સમૂહ 14 નો હોવાથી -4 થી +4 ની રેન્જ ધરાવે. વિકલ્પો: (A) -4, +4 (B) -2, +2 (C) 0, +4 (D) -4, 0. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેન્જ = (સમૂહ ક્રમાંક - 18) થી (સમૂહ ક્રમાંક - 10).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બ્રોમીન જળનો રંગ દૂર કરવા માટે કયો પદાર્થ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રિડક્શન કર્તા જેમ કે SO2. વિકલ્પો: (A) ઓક્સિડન્ટ (B) રિડક્ટન્ટ (C) એસિડ (D) બેઝ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રંગીન માંથી રંગહીન બનાવવા રિડક્શન કરવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પ્રમાણિત હાઇડ્રોજન ઇલેક્ટ્રોડ (SHE) નો પોટેન્શિયલ કેટલો સ્વીકારવામાં આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> SHE નો પોટેન્શિયલ શૂન્ય વોલ્ટ છે. વિકલ્પો: (A) 1.0 V (B) 0.0 V (C) 1.1 V (D) 0.5 V. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રોજન એ રેફરન્સ છે, અને રેફરન્સ હંમેશા 0 થી શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "Fe3O4 માં આયર્ન (Fe) નો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3x + 4(-2) = 0 => 3x = 8 => x = 8/3. વિકલ્પો: (A) +2 (B) +3 (C) 8/3 (D) 3/8. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ મિશ્ર ઓક્સાઈડ (FeO + Fe2O3) છે, એટલે અપૂર્ણાંક જવાબ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "નીચેનામાંથી કયું સંયોજન બ્લીચિંગ એજન્ટ (વિરંજક) તરીકે વર્તે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CaOCl2 (બ્લીચિંગ પાવડર) માં Cl રેડોક્ષ સક્રિય છે. વિકલ્પો: (A) NaCl (B) CaOCl2 (C) KCl (D) CaCl2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લીચ એટલે જે દાગ હટાવે, Cl વાળા સંયોજનો બેસ્ટ બ્લીચ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "H2SO5 (કેરો એસિડ) માં S નો ઓક્સિડેશન આંક શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક પેરોક્સાઇડ બંધ હોવાથી સાચો આંક +6 છે. વિકલ્પો: (A) +8 (B) +6 (C) +4 (D) +2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફરીથી, સલ્ફર માટે +6 થી મોટો જવાબ ક્યારેય સાચો ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "રેડોક્ષ અનુમાપનમાં 'સ્વયં સૂચક' (Self Indicator) તરીકે કોણ વર્તે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> KMnO4 પોતે રંગીન હોવાથી સૂચક તરીકે વર્તે છે. વિકલ્પો: (A) K2Cr2O7 (B) KMnO4 (C) ફેનોલફ્થેલીન (D) મિથાઈલ ઓરેન્જ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુલાબી રંગનો જાદુ એટલે KMnO4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "KClO3 માં ક્લોરિનનો ઓક્સિડેશન આંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 + x + 3(-2) = 0 => x - 5 = 0 => x = +5. વિકલ્પો: (A) +1 (B) +3 (C) +5 (D) +7. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોરેટ આયન (ClO3-) માં Cl હંમેશા +5 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "ડેનિયલ કોષમાં કઈ ઉર્જાનું રૂપાંતર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાસાયણિક ઉર્જાનું વિદ્યુત ઉર્જામાં. વિકલ્પો: (A) વિદ્યુતનું રાસાયણિકમાં (B) રાસાયણિકનું વિદ્યુતમાં (C) ઉષ્માનું વિદ્યુતમાં (D) ગતિજનું સ્થિતિજમાં. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોષ (Cell) એટલે જે આપણને વીજળી (Electricity) આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "NaBH4 માં બોરોન (B) નો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1(Na) + x + 4(-1 for Hydride H) = 0 => 1 + x - 4 = 0 => x = +3. વિકલ્પો: (A) +3 (B) -3 (C) +1 (D) +4. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રાઇડમાં H ને -1 લેવાનું ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિસ્થાપન શ્રેણીમાં નીચે રહેલી ધાતુ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછી સક્રિય અને ઓક્સિડેશન કર્તા તરીકે પ્રબળ. વિકલ્પો: (A) વધુ સક્રિય (B) ઓછી સક્રિય (C) વાયુ (D) આલ્કલી. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે (Bottom) = નબળી (Weak) સક્રિયતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "Br3O8 માં બ્રોમીનનો સરેરાશ ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3x + 8(-2) = 0 => 3x = 16 => x = 16/3. વિકલ્પો: (A) +6 (B) 16/3 (C) +4 (D) 8/3. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એક જાણીતું અપૂર્ણાંક ઉદાહરણ છે, મોઢે કરી લેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "શું ફ્લોરિન (F2) વિષમીકરણ પ્રક્રિયા આપી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે તે માત્ર -1 આંક જ દર્શાવે છે, વધી શકતો નથી. વિકલ્પો: (A) હા (B) ના (C) ક્યારેક (D) માત્ર ઊંચા તાપમાને. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષમીકરણ માટે વધવું (+) અને ઘટવું (-) બંને જોઈએ, ફ્લોરિન માત્ર ઘટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "H2O માં હાઇડ્રોજનનો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધાતુ સાથે H હંમેશા +1 હોય છે. વિકલ્પો: (A) -1 (B) +1 (C) +2 (D) 0. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી (Water) માં H હંમેશા +1 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ઓક્સિડેશન આંક પદ્ધતિથી પ્રક્રિયા સંતુલિત કરતી વખતે શું સમાન કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિડેશન આંકમાં થતો કુલ વધારો અને કુલ ઘટાડો. વિકલ્પો: (A) પરમાણુની સંખ્યા (B) આંકનો ફેરફાર (C) કદ (D) દબાણ. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારો = ઘટાડો, તો જ પ્રક્રિયા બેલેન્સ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ક્રિપ્ટોન (Kr) નો ઓક્સિડેશન આંક મુક્ત અવસ્થામાં કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ નિષ્ક્રિય વાયુ મુક્ત અવસ્થામાં 0 હોય. વિકલ્પો: (A) +8 (B) 0 (C) -1 (D) +2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલો હોય એટલે ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "P4 + 3OH- + 3H2O -> PH3 + 3H2PO2- એ કયા પ્રકારની પ્રક્રિયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફોસ્ફરસનું ઓક્સિડેશન અને રિડક્શન બંને થાય છે, માટે તે વિષમીકરણ છે. વિકલ્પો: (A) સંયોગીકરણ (B) વિઘટન (C) વિષમીકરણ (D) વિસ્થાપન. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ રિએક્ટન્ટ (P4) માંથી બે અલગ નીપજ બને જેમાં P ના આંક જુદા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "નીચેનામાંથી કયો વાયુ ઓક્સિડેશન કર્તા અને રિડક્શન કર્તા બંને તરીકે વર્તે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> SO2 માં S નો આંક +4 છે, જે ઘટી પણ શકે અને વધી પણ શકે. વિકલ્પો: (A) O2 (B) SO2 (C) F2 (D) H2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે તત્વ મધ્યવર્તી (In-between) અવસ્થામાં હોય તે બંને કામ કરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "એનોડ પર કઈ પ્રક્રિયા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એનોડ પર હંમેશા ઓક્સિડેશન જ થાય. વિકલ્પો: (A) રિડક્શન (B) ઓક્સિડેશન (C) તટસ્થીકરણ (D) જળવિભાજન. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: An Ox (Anode Oxidation) અને Red Cat (Reduction Cathode).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "કેથોડ પર કઈ પ્રક્રિયા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેથોડ પર હંમેશા રિડક્શન થાય. વિકલ્પો: (A) રિડક્શન (B) ઓક્સિડેશન (C) વિઘટન (D) એકપણ નહીં. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Red Cat યાદ રાખો - Reduction at Cathode.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "I2 + S2O3^(2-) પ્રક્રિયામાં આયોડિનનું શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયોડિન (0) માંથી I- (-1) બને છે, એટલે કે તેનું રિડક્શન થાય છે. વિકલ્પો: (A) ઓક્સિડેશન (B) રિડક્શન (C) વિષમીકરણ (D) અવક્ષેપન. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન હંમેશા ઈલેક્ટ્રોન મેળવીને 'નેગેટિવ' (-) થવાનું પસંદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "રેડોક્ષ પ્રક્રિયા 2Cu2+ -> Cu + Cu2+ માં Cu+ નું શું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cu+ એ Cu (ઘટાડો) અને Cu2+ (વધારો) બંને બનાવે છે, માટે તે વિષમીકરણ છે. વિકલ્પો: (A) માત્ર ઓક્સિડેશન (B) માત્ર રિડક્શન (C) વિષમીકરણ (D) એકપણ નહીં. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક આયન જ્યારે બે અલગ ઓક્સિડેશન આંકમાં વહેંચાય ત્યારે વિષમીકરણ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "નૈસર્ગિક વાયુ (CH4) નું દહન એ કયા પ્રકારની પ્રક્રિયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દહન પ્રક્રિયા હંમેશા ઓક્સિજન સાથેની રેડોક્ષ પ્રક્રિયા હોય છે. વિકલ્પો: (A) રેડોક્ષ (B) બિન-રેડોક્ષ (C) વિસ્થાપન (D) જળવિભાજન. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સળગવું (Combustion) = ઓક્સિજનનો ઉમેરો = ઓક્સિડેશન (રેડોક્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "H2SO4 માં ઓક્સિજનનો ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય સંયોજન હોવાથી ઓક્સિજન -2 હોય છે. વિકલ્પો: (A) -1 (B) -2 (C) +2 (D) 0. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 99% કેસમાં ઓક્સિજન -2 જ લેવો, પેરોક્સાઇડ ન હોય ત્યાં સુધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ડેનિયલ કોષમાં ઈલેક્ટ્રોનનો પ્રવાહ કઈ તરફ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એનોડ (Zn) થી કેથોડ (Cu) તરફ. વિકલ્પો: (A) Zn થી Cu (B) Cu થી Zn (C) ક્ષાર સેતુ થી Zn (D) કેથોડ થી એનોડ. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલેક્ટ્રોન હંમેશા 'નેગેટિવ' થી 'પોઝિટિવ' (A to C) ભાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "K2MnO4 માં Mn નો ઓક્સિડેશન આંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2(+1) + x + 4(-2) = 0 => 2 + x - 8 = 0 => x = +6. વિકલ્પો: (A) +7 (B) +6 (C) +4 (D) +2. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોટેશિયમ 'મેંગેનેટ' માં +6 અને 'પર'મેંગેનેટ માં +7 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "HNO3 માં નાઇટ્રોજનનો મહત્તમ ઓક્સિડેશન આંક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 + x + 3(-2) = 0 => x = +5. વિકલ્પો: (A) +3 (B) +5 (C) +4 (D) -3. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઇટ્રોજન 15માં સમૂહનો છે, એટલે મહત્તમ +5 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "આયોડાઈડ (I-) માંથી આયોડિન (I2) બનવાની પ્રક્રિયાને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંક -1 થી વધીને 0 થાય છે, માટે તે ઓક્સિડેશન છે. વિકલ્પો: (A) ઓક્સિડેશન (B) રિડક્શન (C) હાઈડ્રોજનેશન (D) એકપણ નહીં. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંક વધે તો ઓક્સિડેશન, આંક ઘટે તો રિડક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "નીચેનામાંથી કયું તત્વ તેના સંયોજનોમાં -4 થી +4 સુધીના આંક દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન (C) સમૂહ 14 નું હોવાથી આ રેન્જ ધરાવે છે. વિકલ્પો: (A) N (B) O (C) C (D) S. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન વર્સેટાઈલ છે, CH4 માં -4 અને CO2 માં +4!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "H2O2 માં ઓક્સિજનની ટકાવારી ઓક્સિડેશન આંક કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરોક્સાઇડ હોવાથી -1. વિકલ્પો: (A) -2 (B) -1 (C) 0 (D) +1. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રશ્ન ઘણીવાર પૂછાય છે, યાદ જ રાખી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "રેડોક્ષ અનુમાપનમાં સ્ટાર્ચનો ઉપયોગ ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે આયોડિન (I2) મુક્ત થતું હોય ત્યારે. વિકલ્પો: (A) KMnO4 (B) I2 (C) K2Cr2O7 (D) NaOH. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન + સ્ટાર્ચ = ઘેરો વાદળી રંગ. (Best Friends!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "Na2S4O6 માં સલ્ફરનો ઓક્સિડેશન આંક ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2(1) + 4x + 6(-2) = 0 => 4x = 10 => x = +2.5. વિકલ્પો: (A) +2 (B) +2.5 (C) +6 (D) 0. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોડિયમ ટેટ્રાથાયોનેટમાં સલ્ફરનો સરેરાશ આંક અઢી (+2.5) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "Cr2O3 માં ક્રોમિયમનો ઓક્સિડેશન આંક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2x + 3(-2) = 0 => 2x = 6 => x = +3. વિકલ્પો: (A) +6 (B) +3 (C) +2 (D) 0. સાચો વિકલ્પ: (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિસ-ક્રોસ મેથડ: Cr નો આંક O ના પગમાં (+3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "નીચેનામાંથી કયો પદાર્થ વિષમીકરણ પ્રક્રિયા આપતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F2 વિષમીકરણ આપતું નથી. વિકલ્પો: (A) Cl2 (B) Br2 (C) F2 (D) I2. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન એ પિરિયોડિક ટેબલનો સૌથી જિદ્દી એલિમેન્ટ છે, તે પ્લસ (+) માં ન જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "NH4NO3 માં બંને નાઇટ્રોજનનો ઓક્સિડેશન આંક અનુક્રમે શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> NH4+ માં N = -3 અને NO3- માં N = +5. વિકલ્પો: (A) -3, +5 (B) +3, -5 (C) 0, +5 (D) -3, -3. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયનોને છૂટા પાડીને ગણતરી કરવી સરળ પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "કલોરિન વાયુની ઠંડા અને મંદ NaOH સાથેની પ્રક્રિયા કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cl2 + 2OH- -> Cl- + ClO- + H2O. આ વિષમીકરણ છે. વિકલ્પો: (A) વિઘટન (B) સંયોગીકરણ (C) વિષમીકરણ (D) માત્ર ઓક્સિડેશન. સાચો વિકલ્પ: (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલોજન + બેઝ = વિષમીકરણ (Disproportionation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "રેડોક્ષ પ્રક્રિયામાં ઈલેક્ટ્રોન ગુમાવવાની ક્રિયાને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈલેક્ટ્રોન ગુમાવવા એટલે ઓક્સિડેશન. વિકલ્પો: (A) ઓક્સિડેશન (B) રિડક્શન (C) વિઘટન (D) સંતુલન. સાચો વિકલ્પ: (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LEO - Loss of Electrons is Oxidation.</p></div>"
+    }
+  ]
+}

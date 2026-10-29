@@ -1102,3 +1102,371 @@ var Std11_Chemistry_FillBlanks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "રાસાયણિક બંધન અને આણ્વીય રચના",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોસેલ અને લ્યુઇસ અભિગમ મુજબ, પરમાણુઓ સ્થિર અષ્ટક પ્રાપ્ત કરવા માટે ____ ઇલેક્ટ્રોનની આપ-લે કે ભાગીદારી કરે છે. (સંયોજકતા, આંતરિક, કેન્દ્રીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંયોજકતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાસાયણિક પ્રક્રિયામાં હંમેશા બહારની કક્ષાના (સંયોજકતા) ઇલેક્ટ્રોન જ ભાગ લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લ્યુઇસ સંજ્ઞામાં પરમાણુની આસપાસ દર્શાવવામાં આવતા ટપકાં (dots) ____ ની સંખ્યા દર્શાવે છે. (પ્રોટોન, સંયોજકતા ઇલેક્ટ્રોન, ન્યુટ્રોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંયોજકતા ઇલેક્ટ્રોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Lewis Dot = Valence Electrons. જેટલા બહારના ઇલેક્ટ્રોન એટલા ટપકાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અષ્ટકનો નિયમ મુખ્યત્વે ____ આવર્તના તત્વો માટે વધુ લાગુ પડે છે. (પ્રથમ, બીજા, ચોથા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): C, N, O, F વગેરે બીજા આવર્તના તત્વો છે જે અષ્ટકના નિયમનું ચુસ્ત પાલન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "LiCl માં લિથિયમ અને ક્લોરિન વચ્ચેનો બંધ ____ લાક્ષણિકતા ધરાવે છે. (સહસંયોજક, આયનીય, ધાત્વિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહસંયોજક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફાજાનના નિયમ મુજબ, નાનો ધન આયન (Li+) વધુ સહસંયોજક ગુણધર્મ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "$BeCl_2$ માં બેરિલિયમ પરમાણુની આસપાસ ઇલેક્ટ્રોનની સંખ્યા ____ છે, જે અષ્ટકના નિયમની મર્યાદા દર્શાવે છે. (8, 4, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Be પાસે 2 ઇલેક્ટ્રોન હોય, 2 Cl સાથે બંધ બનાવે એટલે કુલ 2+2=4 થાય (અપૂર્ણ અષ્ટક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "$PCl_5$ માં ફોસ્ફરસ પરમાણુની આસપાસ 10 ઇલેક્ટ્રોન હોવાથી તેને ____ અષ્ટક કહેવાય છે. (અપૂર્ણ, વિસ્તૃત, સામાન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિસ્તૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 8 થી વધુ ઇલેક્ટ્રોન એટલે 'Expanded Octet' (વિસ્તૃત અષ્ટક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ફોર્મલ ચાર્જ ગણવાનું સૂત્ર: F.C. = [કુલ સંયોજકતા e⁻] – [અબંધકારક e⁻] – ½ [____]. (બંધકારક e⁻, કેન્દ્રીય e⁻, આંતરિક e⁻)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધકારક e⁻</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): F.C. = V - L - S/2 (V=Valence, L=Lone pair, S=Shared pair).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક મોલ આયનીય સંયોજનને તેના વાયુમય ઘટક આયનોમાં ફેરવવા માટે આપવી પડતી ઉર્જાને ____ કહે છે. (બંધ એન્થાલ્પી, લેટિસ એન્થાલ્પી, આયનીકરણ એન્થાલ્પી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેટિસ એન્થાલ્પી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખું 'લેટિસ' (સ્ફટિક) તોડવા માટેની ઉર્જા એટલે લેટિસ એન્થાલ્પી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બે પરમાણુઓના કેન્દ્રો વચ્ચેના સરેરાશ અંતરને ____ કહેવામાં આવે છે. (બંધ ખૂણો, બંધ લંબાઈ, બંધ ક્રમાંક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ લંબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે કેન્દ્ર વચ્ચેનું Distance = Bond Length.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સહસંયોજક અણુમાં બંધકારક ઇલેક્ટ્રોન યુગ્મ ધરાવતી કક્ષકો વચ્ચેના ખૂણાને ____ કહે છે. (બંધ ખૂણો, પરિભ્રમણ ખૂણો, કેન્દ્રીય ખૂણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ ખૂણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે બંધ (Bonds) વચ્ચેનો Angle એટલે Bond Angle.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બંધ લંબાઈ અને બંધ ક્રમાંક એકબીજાના ____ પ્રમાણમાં હોય છે. (વ્યસ્ત, સમ, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યસ્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંધ વધે (Triple bond), લંબાઈ ઘટે. Bond Order ∝ 1/Bond Length.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "$O_2$ અણુમાં ઓક્સિજન-ઓક્સિજન વચ્ચે બંધ ક્રમાંક ____ છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): O=O (દ્વિબંધ) હોવાથી બંધ ક્રમાંક 2 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જ્યારે કોઈ અણુને એક જ લ્યુઇસ રચના દ્વારા સમજાવી ન શકાય, ત્યારે ____ નો સિદ્ધાંત વપરાય છે. (સંકરણ, સંસ્પંદન, ધ્રુવીભવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્પંદન (Resonance)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક ફોટાથી કામ ન ચાલે તો મલ્ટીપલ 'Resonance' સ્ટ્રક્ચર બનાવવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઓઝોન ($O_3$) અણુમાં ત્રણેય ઓક્સિજન પરમાણુઓ વચ્ચેની બંધ લંબાઈ ____ હોય છે. (સમાન, અલગ-અલગ, અચોક્કસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંસ્પંદન (Resonance) ને કારણે બંધ લંબાઈ સરેરાશ થઈ જાય અને સમાન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દ્વિધ્રુવ ચાકમાત્રા (Dipole Moment) એ ____ રાશિ છે. (અદિશ, સદિશ, ટેન્સર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સદિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ્વિધ્રુવ ચાકમાત્રાને દિશા (ધનથી ઋણ તરફ) હોય છે, એટલે તે સદિશ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દ્વિધ્રુવ ચાકમાત્રાનો એકમ ____ છે. (ન્યુટન, એમ્પિયર, ડીબાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડીબાય (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'D' for Dipole, 'D' for Debye.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "$BF_3$ અણુની કુલ દ્વિધ્રુવ ચાકમાત્રા ____ છે. (1.5 D, 0 D, 3.0 D)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0 D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): BF3 સમતલીય ત્રિકોણ છે, સદિશોનો સરવાળો શૂન્ય થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$NH_3$ ની દ્વિધ્રુવ ચાકમાત્રા $NF_3$ કરતા ____ હોય છે. (વધારે, ઓછી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): NH3 માં લોન પેર અને બંધની દિશા એક જ છે, NF3 માં વિરુદ્ધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ફાજાનના નિયમ મુજબ, ધન આયનનું કદ જેટલું ____ એટલું સહસંયોજક વલણ વધુ. (મોટું, નાનું, મધ્યમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નાનો ધન આયન, મોટો ઋણ આયન' = વધુ સહસંયોજક લક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "VSEPR સિદ્ધાંત મુજબ, અપાકર્ષણનો ક્રમ: ____ > LP-BP > BP-BP. (LP-LP, BP-LP, BP-BP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> LP-LP</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોન પેર (LP) સૌથી વધુ જગ્યા રોકે અને સૌથી વધુ ધક્કો (અપાકર્ષણ) મારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "$CH_4$ અણુનો આકાર ____ છે. (સમતલીય, ચતુષ્ફલકીય, અષ્ટફલકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચતુષ્ફલકીય (Tetrahedral)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 4 બંધ + 0 લોન પેર = Tetrahedral (109.5°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પાણીના અણુ ($H_2O$) માં ઓક્સિજન પર ____ લોન પેર (અબંધકારક યુગ્મ) હોય છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓક્સિજનના 6 e- માંથી 2 બંધમાં વપરાય, બાકી વધ્યા 4 એટલે 2 જોડી (LP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "$NH_3$ નો આકાર લોન પેરને કારણે વિકૃત થઈને ____ બને છે. (ત્રિકોણીય પિરામિડલ, સમતલીય, રેખીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિકોણીય પિરામિડલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3 બંધ + 1 LP = Pyramidal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "$SF_6$ અણુમાં ભૂમિતિ ____ હોય છે. (ત્રિકોણીય દ્વિપિરામિડલ, અષ્ટફલકીય, પંચકોણીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અષ્ટફલકીય (Octahedral)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 6 બંધ = Octahedral (SF6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પરમાણુ કક્ષકોના મિશ્રણથી નવી સમાન ઉર્જાવાળી કક્ષકો બનવાની ઘટનાને ____ કહે છે. (સંસ્પંદન, સંકરણ, ધ્રુવીભવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંકરણ (Hybridization)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કક્ષકોનું મિક્સિંગ (Mixing) = Hybridization.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "$sp$ સંકરણમાં બંધ ખૂણો ____ હોય છે. (120°, 180°, 109.5°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): sp = રેખીય (Linear) = 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ઈથિન ($C_2H_4$) માં કાર્બન પરમાણુ ____ સંકરણ ધરાવે છે. (sp, sp2, sp3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડબલ બોન્ડ (C=C) હોય તો sp2 સંકરણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "$PCl_5$ માં ફોસ્ફરસ પરમાણુ ____ સંકરણ ધરાવે છે. (sp3, sp3d, sp3d2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp3d</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 બંધ (P-Cl) = sp3d (1s + 3p + 1d = 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પરમાણુ કક્ષકોના અક્ષીય અતિવ્યાપનથી ____ બંધ બને છે. (સિગ્મા, પાઈ, આયનીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિગ્મા (σ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અક્ષ પર' (Axial) ભેટાભેટી થાય તો સિગ્મા બંધ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પરમાણુ કક્ષકોના બાજુએથી થતા અતિવ્યાપનથી (Sideways overlap) ____ બંધ બને છે. (સિગ્મા, પાઈ, હાઈડ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઈ (π)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાઈડમાંથી (Sideways) અડી જાય તો પાઈ બંધ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સિગ્મા (σ) બંધ એ પાઈ (π) બંધ કરતા ____ હોય છે. (પ્રબળ, નિર્બળ, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રબળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સામસામેનું અતિવ્યાપન (σ) હંમેશા સાઈડના અતિવ્યાપન (π) કરતા વધુ મજબૂત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "આણ્વીય કક્ષક સિદ્ધાંત (MOT) મુજબ, બે પરમાણુ કક્ષકોના સરવાળાથી ____ આણ્વીય કક્ષક બને છે. (બંધકારક, બંધપ્રતિકારક, બિન-બંધકારક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધકારક (Bonding MO)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો (+) = બંધ બનાવે (Bonding). બાદબાકી (-) = બંધ તોડે (Anti-bonding).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "બંધપ્રતિકારક આણ્વીય કક્ષકની ઉર્જા પરમાણુ કક્ષકો કરતા ____ હોય છે. (વધારે, ઓછી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Anti-bonding (*) હંમેશા ઉપર (વધારે ઉર્જા) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો બંધ ક્રમાંક (Bond Order) શૂન્ય હોય, તો તે અણુનું અસ્તિત્વ ____. (હોય, ન હોય, કહી શકાય નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન હોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Bond Order 0 = No Bond = No Molecule (દા.ત. He2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ઓક્સિજન અણુ ($O_2$) ____ ગુણધર્મ ધરાવે છે. (પ્રતિચુંબકીય, અનુચુંબકીય, લોહચુંબકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુચુંબકીય (Paramagnetic)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): O2 પાસે 2 અયુગ્મિત ઇલેક્ટ્રોન હોય છે, એટલે તે 'Paramagnetic' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "નાઇટ્રોજન અણુ ($N_2$) નો બંધ ક્રમાંક ____ છે. (1, 2, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): N ≡ N (Triple bond) એટલે બંધ ક્રમાંક 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "$H$-બંધ ત્યારે જ બને જ્યારે હાઇડ્રોજન ____ જેવા વધુ વિદ્યુતઋણ તત્વ સાથે જોડાયેલ હોય. (C, N/O/F, Na)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N/O/F</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો 'FON' (Fluorine, Oxygen, Nitrogen) સાથે જ H-bond બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પાણીના ઊંચા ઉત્કલનબિંદુ માટે ____ બંધ જવાબદાર છે. (સહસંયોજક, આયનીય, હાઈડ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈડ્રોજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): H2O માં આંતર-આણ્વીય H-bond ને કારણે તેને તોડવા વધુ ગરમી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ઓર્થો-નાઇટ્રોફિનોલમાં ____ હાઇડ્રોજન બંધ જોવા મળે છે. (આંતર-આણ્વીય, અંતઃઆણ્વીય, આયનીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતઃઆણ્વીય (Intramolecular)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક જ અણુની અંદર બંધ બને તો 'અંતઃ' (Intra).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "$BeCl_2$ માં બંધ ખૂણો ____ હોય છે. (180°, 120°, 90°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Cl-Be-Cl રેખીય છે, એટલે 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "$ClF_3$ અણુનો આકાર ____ જેવો હોય છે. (T-આકાર, પિરામિડલ, બેન્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> T-આકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3 બંધ + 2 LP = T-shape.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "$XeF_4$ અણુનો આકાર ____ છે. (ચતુષ્ફલકીય, સમતલીય ચોરસ, અષ્ટફલકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતલીય ચોરસ (Square Planar)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 4 બંધ + 2 LP = Square Planar.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "કાર્બન ડાયોક્સાઇડ ($CO_2$) ની દ્વિધ્રુવ ચાકમાત્રા ____ છે. (1.84 D, 0 D, 2.5 D)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0 D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CO2 રેખીય છે (O=C=O), બંને બાજુની અસર કેન્સલ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "બંધ લંબાઈ માપવા માટે ____ પદ્ધતિ વપરાય છે. (ક્ષ-કિરણ વિવર્તન, ટાઇટ્રેશન, ફિલ્ટરેશન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષ-કિરણ વિવર્તન (X-ray diffraction)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂક્ષ્મ અંતર માપવા X-ray સૌથી બેસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "$sp^3d^2$ સંકરણમાં કુલ ____ કક્ષકો ભાગ લે છે. (5, 6, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1(s) + 3(p) + 2(d) = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "ઈથાઈન ($C_2H_2$) માં બે કાર્બન વચ્ચે ____ બંધ હોય છે. (એકબંધ, દ્વિબંધ, ત્રિબંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિબંધ (Triple bond)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈથાઈન = Alkyne = Triple bond.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પાઈ (π) બંધમાં ઇલેક્ટ્રોન વાદળ આંતરકેન્દ્રીય અક્ષની ____ હોય છે. (ઉપર-નીચે, ઉપર જ, અક્ષ પર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપર-નીચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઈ બંધ સાઈડમાંથી બને એટલે વાદળ અક્ષની ઉપર અને નીચે વહેંચાયેલું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "$O_2^{2-}$ (પેરોક્સાઇડ આયન) નો બંધ ક્રમાંક ____ છે. (1, 2, 1.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): O2 (BO=2), O2- (BO=1.5), O2 2- (BO=1). ઇલેક્ટ્રોન વધે તો BO ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "બંધકારક આણ્વીય કક્ષકને ____ સંજ્ઞા વડે દર્શાવાય છે. (σ, σ*, π*)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> σ (અથવા π)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ટાર (*) વગરની કક્ષક એટલે બોન્ડિંગ (Bonding).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "સૌથી વધુ વિદ્યુતઋણ તત્વ ____ છે. (O, N, F)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F (ફ્લોરિન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફ્લોરિન એ આવર્ત કોષ્ટકનો 'ડોન' છે, સૌથી વધુ ખેંચાણ શક્તિ (Electronegativity).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "કાર્બોનેટ આયન ($CO_3^{2-}$) માં બધા જ C-O બંધની લંબાઈ ____ હોય છે. (સમાન, અસમાન, અચોક્કસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંસ્પંદન (Resonance) ના કારણે બધા બંધ એકસરખા થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "$PCl_5$ માં અક્ષીય (axial) બંધની લંબાઈ નિરક્ષીય (equatorial) બંધ કરતા ____ હોય છે. (વધારે, ઓછી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અક્ષીય બંધ પર અપાકર્ષણ વધુ હોવાથી તે ખેંચાઈને લાંબા થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "બંધ એન્થાલ્પીનો એકમ ____ છે. (kJ/mol, J/K, kJ/kg)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> kJ/mol</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેમિસ્ટ્રીમાં ઉર્જા હંમેશા પ્રતિ મોલ (per mol) માં મપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "$SF_4$ અણુનો આકાર ____ જેવો છે. (ચીંચવો-Seesaw, પિરામિડલ, રેખીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચીંચવો (Seesaw)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 4 બંધ + 1 LP = Seesaw shape.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "$BF_3$ માં બોરોનનું સંકરણ ____ છે. (sp, sp2, sp3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3 બંધ + 0 LP = 3 કક્ષકો = sp2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "નીચેનામાંથી કયો અણુ પ્રતિચુંબકીય (Diamagnetic) છે? ($O_2$, $N_2$, $B_2$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): N2 માં બધા ઇલેક્ટ્રોન યુગ્મિત (paired) હોય છે, એટલે તે Diamagnetic છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "આયનીય બંધ ત્યારે બને જ્યારે ઇલેક્ટ્રોનનું એક પરમાણુમાંથી બીજા પરમાણુમાં ____ થાય. (સ્થળાંતર, ભાગીદારી, વિભાજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્થળાંતર (Transfer)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લે-વેચ (Transfer) = Ionic, ભાગીદારી (Sharing) = Covalent.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "$H_2$ અણુમાં બંધ ક્રમાંક ____ છે. (0.5, 1, 2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): H-H (Single bond) એટલે BO = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "$NO$ (નાઇટ્રિક ઓક્સાઇડ) માં ઇલેક્ટ્રોનની કુલ સંખ્યા એકી હોવાથી તે ____ અષ્ટકનું ઉદાહરણ છે. (એકી ઇલેક્ટ્રોન અણુ, વિસ્તૃત, અપૂર્ણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકી ઇલેક્ટ્રોન અણુ (Odd electron molecule)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): N(7) + O(8) = 15. 15 એકી સંખ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "આણ્વીય કક્ષકવાદ મુજબ $Li_2$ નો બંધ ક્રમાંક ____ છે. (1, 2, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Li પાસે 3 e-, Li2 પાસે 6 e-. વિન્યાસ: σ1s2 σ*1s2 σ2s2. BO = (4-2)/2 = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "બંધ લંબાઈનો સાચો ક્રમ કયો છે? (એકબંધ > દ્વિબંધ > ત્રિબંધ, ત્રિબંધ > દ્વિબંધ > એકબંધ, એકબંધ = દ્વિબંધ = ત્રિબંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકબંધ > દ્વિબંધ > ત્રિબંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલી પકડ મજબૂત (વધારે બંધ), તેટલા પરમાણુ નજીક આવે (ટૂંકી લંબાઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "$sp^3$ સંકરણમાં 's' લક્ષણ ____ ટકા હોય છે. (50, 33.3, 25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1(s) + 3(p) = 4 ભાગ. 100/4 = 25%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "પાણી ($H_2O$) માં બંધ ખૂણો 109.5° થી ઘટીને ____ થાય છે. (107°, 104.5°, 120°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 104.5°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 લોન પેર (LP) જોરદાર ધક્કો મારે એટલે ખૂણો સૌથી વધુ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "$NH_3$ માં બંધ ખૂણો ____ હોય છે. (104.5°, 107°, 109.5°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 107°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 લોન પેર (LP) ના લીધે ખૂણો થોડો ઘટે (109.5 થી 107).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "$H_2O$, $HF$ અને $NH_3$ માંથી સૌથી પ્રબળ હાઇડ્રોજન બંધ ____ માં હોય છે. (H2O, HF, NH3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> HF</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): F ની વિદ્યુતઋણતા સૌથી વધુ, એટલે HF માં H-bond સૌથી મજબૂત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "સંયોજકતા બંધનવાદ (VBT) ____ વૈજ્ઞાનિકોએ આપ્યો હતો. (હિટલર અને લંડન, લ્યુઇસ, હૂંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિટલર અને લંડન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): VBT = Hitler-London (1927).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "$O_2$ કરતા $O_2^+$ ની સ્થિરતા ____ હોય છે. (વધારે, ઓછી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): O2 નો BO = 2, O2+ નો BO = 2.5. બંધ ક્રમાંક વધે તો સ્થિરતા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "બરફ પાણી પર તરે છે કારણ કે તેમાં ____ બંધને લીધે પોલાણ વાળી રચના બને છે. (આયનીય, સહસંયોજક, હાઇડ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઇડ્રોજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): H-bond ને કારણે બરફમાં પાંજરા જેવી (Cage-like) રચના બને, જે તેને હલકો બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "$sp^2$ સંકરણમાં ભૂમિતિ ____ હોય છે. (રેખીય, સમતલીય ત્રિકોણ, ચતુષ્ફલકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતલીય ત્રિકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3 કક્ષકો (s+p+p) એકબીજાથી 120° એ ગોઠવાય એટલે ત્રિકોણ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "પરમાણુ કક્ષકોનું અતિવ્યાપન જેટલું ____ એટલો બંધ વધુ પ્રબળ. (વધારે, ઓછું, મધ્યમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલી વધુ ઓવરલેપિંગ (Overlap), તેટલો મજબૂત 'ફેવિકોલ' જેવો સાંધો (Bond).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સમાન પરમાણુઓ વચ્ચે બનતા સહસંયોજક બંધમાં દ્વિધ્રુવ ચાકમાત્રા ____ હોય છે. (શૂન્ય, અનંત, એક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): H2, O2, N2 માં બંને બાજુ સરખી તાકાત હોવાથી ખેંચતાણ શૂન્ય (μ=0) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "$He_2$ અણુ અસ્તિત્વ ધરાવતો નથી કારણ કે તેનો બંધ ક્રમાંક ____ છે. (1, 0.5, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): He2 માટે BO = (2-2)/2 = 0. ઝીરો બોન્ડ એટલે નો અણુ.</p></div>"
+    }
+  ]
+}

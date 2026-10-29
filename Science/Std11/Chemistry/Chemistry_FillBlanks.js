@@ -734,3 +734,371 @@ var Std11_Chemistry_FillBlanks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "તત્ત્વોનું વર્ગીકરણ અને ગુણધર્મોમાં આવર્તિતા",
+  "questionType": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ડોબરેનરના ત્રિપુટીના નિયમ મુજબ, મધ્યમાં રહેલા તત્ત્વનું પરમાણ્વીય વજન બાકીના બે તત્ત્વોના પરમાણ્વીય વજનના _________ જેટલું હોય છે. (સરવાળા, ગુણાકાર, સરેરાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરેરાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રિપુટી એટલે સરેરાશ' - યાદ રાખો (A+C)/2 = B.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ન્યૂલેન્ડનો અષ્ટકનો નિયમ માત્ર _________ તત્ત્વ સુધી જ સાચો જણાતો હતો. (પોટેશિયમ, કેલ્શિયમ, મેગ્નેશિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેલ્શિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂલેન્ડના સૂર (સા-રે-ગા-મા) કેલ્શિયમ (Ca) સુધી જ વાગતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મેન્ડેલીફનો આવર્ત નિયમ જણાવે છે કે તત્ત્વોના ગુણધર્મો તેમના _________ ના આવર્તનીય વિધેયો છે. (પરમાણ્વીય ક્રમાંક, પરમાણ્વીય ભાર, પ્રોટોનની સંખ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરમાણ્વીય ભાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનું (મેન્ડેલીફ) = ભાર (Weight), નવું (મોસલે) = નંબર (Number).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હેનરી મોસલેએ દર્શાવ્યું કે તત્ત્વનો વધુ પાયાનો ગુણધર્મ તેનો _________ છે. (પરમાણ્વીય ભાર, પરમાણ્વીય ક્રમાંક, પરમાણ્વીય કદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરમાણ્વીય ક્રમાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસલે = આધુનિક = પરમાણુ નંબર (Z).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આધુનિક આવર્ત કોષ્ટકમાં ઊભી હરોળને _________ કહેવામાં આવે છે. (આવર્ત, સમૂહ, શ્રેણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમૂહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઊભો સમૂહ, આડો આવર્ત' - આટલું યાદ રાખશો તો ક્યારેય નહીં ભૂલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આધુનિક આવર્ત કોષ્ટકમાં કુલ _________ આવર્ત આવેલા છે. (7, 18, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપ્તાહના દિવસો 7 = આવર્ત કોષ્ટકના આવર્ત 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આવર્ત કોષ્ટકમાં રહેલા 18મા સમૂહના તત્ત્વોને _________ વાયુઓ કહે છે. (સક્રિય, ઉમદા, હેલોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉમદા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમૂહ 18 = 'Noble Gases' (રાજા જેવા, કોઈની સાથે પ્રક્રિયા ન કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "IUPAC મુજબ, 101 પરમાણુ ક્રમાંક ધરાવતા તત્ત્વનું નામ _________ થશે. (યુનનિલયુનિયમ, યુનનિલબિયમ, યુનનિલટ્રિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુનનિલયુનિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1=un, 0=nil, 1=un + ium = Unnilunium (Unu).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આવર્ત કોષ્ટકમાં છઠ્ઠા આવર્તમાં કુલ _________ તત્ત્વો આવેલા છે. (8, 18, 32)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તની ક્ષમતા = 2, 8, 8, 18, 18, 32, 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પરમાણુ ક્રમાંક 114 ધરાવતા તત્ત્વનું નામ _________ છે. (યુનયુનક્વોડિયમ, યુનનિલક્વોડિયમ, યુનટ્રિહેક્સિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુનયુનક્વોડિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1(un) + 1(un) + 4(quad) + ium = Ununquadium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કોઈ પણ આવર્તમાં તત્ત્વનો આવર્ત ક્રમાંક તેમાં રહેલી મુખ્ય ક્વોન્ટમ આંક _________ નું મૂલ્ય દર્શાવે છે. (n, l, m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> n</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્ત નંબર = સૌથી બહારની કક્ષાનો 'n'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમૂહ 1 ના તત્ત્વોને _________ ધાતુઓ કહેવામાં આવે છે. (આલ્કલાઇન અર્થ, આલ્કલી, સંક્રાંતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલ્કલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમૂહ-1 (Li, Na, K...) = Alkali Metals.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમૂહ 17 ના તત્ત્વો _________ તરીકે ઓળખાય છે. (ચાલકોજન, હેલોજન, ઉમદા વાયુઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેલોજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 17 નંબરમાં 'હેલો' (Halogens) બોલવાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "p-વિભાગના તત્ત્વોની સામાન્ય બાહ્યતમ કક્ષાની ઇલેક્ટ્રોન રચના _________ છે. (ns1-2, ns2 np1-6, ns2 nd1-10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ns2 np1-6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p-બ્લોક એટલે p માં 1 થી 6 ઇલેક્ટ્રોન ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "d-વિભાગના તત્ત્વોને _________ તત્ત્વો પણ કહેવામાં આવે છે. (પ્રતિનિધિ, સંક્રાંતિ, આંતર સંક્રાંતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંક્રાંતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d = Transition (વચ્ચે પુલ જેવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "f-વિભાગના તત્ત્વોને _________ તત્ત્વો કહે છે. (પ્રતિનિધિ, સંક્રાંતિ, આંતર સંક્રાંતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંતર સંક્રાંતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f-બ્લોક = સંક્રાંતિની પણ અંદર (Inner Transition).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સમૂહમાં ઉપરથી નીચે તરફ જતાં પરમાણ્વીય ત્રિજ્યામાં _________ થાય છે. (ઘટાડો, વધારો, કોઈ ફેરફાર નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે જાવ = નવી કક્ષા ઉમેરાય = કદ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આવર્તમાં ડાબેથી જમણે જતાં આયનીકરણ એન્થાલ્પીનું મૂલ્ય સામાન્ય રીતે _________ છે. (ઘટે, વધે, અચળ રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ ઘટે = ન્યુક્લિયસ પકડ મજબૂત કરે = ઇલેક્ટ્રોન કાઢવો અઘરો (IE વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેનામાંથી કયું તત્ત્વ સૌથી વધુ વિદ્યુતઋણતા ધરાવે છે? (ઓક્સિજન, ફ્લોરિન, ક્લોરિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્લોરિન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'FON' યાદ રાખો - ફ્લોરિન (F) દુનિયાનો સૌથી મોટો 'ખેંચુ' (Electronegative) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમઈલેક્ટ્રોનીય સ્પીસીઝમાં જેનો પરમાણુ ક્રમાંક વધારે તેની ત્રિજ્યા _________ હોય છે. (વધારે, ઓછી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પ્રોટોન = વધુ ખેંચાણ = નાનું કદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેન્થેનોઇડ શ્રેણી કયા તત્ત્વથી શરૂ થાય છે? (La, Ce, Lu)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ce (સીરિયમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેન્થેનમ (La) પછી સીરિયમ (Ce, Z=58) થી f-બ્લોક શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દ્વિતીય આવર્તના તત્ત્વોમાં સૌથી ઓછી આયનીકરણ એન્થાલ્પી _________ ની છે. (Li, Ne, F)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Li</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુની ધાતુઓ ઇલેક્ટ્રોન આપવા આતુર હોય (ઓછી IE).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમૂહ 16 ના તત્ત્વોને _________ કહેવામાં આવે છે. (હેલોજન, ચાલકોજન, નિકટોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાલકોજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 16 નંબર = 'Ore forming' = Chalcogens.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ક્લોરિનની ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી ફ્લોરિન કરતા _________ ઋણ છે. (વધુ, ઓછી, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપવાદ! Cl એ F કરતા વધુ સરળતાથી ઇલેક્ટ્રોન સ્વીકારે કારણ કે F નું કદ બહુ નાનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આવર્ત કોષ્ટકમાં ડાબી બાજુએ _________ તત્ત્વો આવેલા છે. (અધાતુ, ધાતુ, અર્ધધાતુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધાતુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબે 'ધાતુ' (Strong), જમણે 'અધાતુ' (Gas/Soft).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કયા તત્ત્વની ઇલેક્ટ્રોન રચના [He] 2s2 2p3 છે? (C, N, O)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N (નાઇટ્રોજન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન ગણો: 2+2+3 = 7. સાતમો નંબર નાઇટ્રોજનનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બોરોનનો બીજા આવર્તના કયા તત્ત્વ સાથે વિકર્ણ સંબંધ છે? (Mg, Si, Al)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Si (સિલિકોન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Li-Mg, Be-Al, B-Si. (ત્રાસા સંબંધો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આયનીય ત્રિજ્યાનો સાચો ક્રમ કયો છે? (O2- > F- > Na+, Na+ > F- > O2-, F- > O2- > Na+)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> O2- > F- > Na+</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલો વધુ ઋણભાર, તેટલું મોટું કદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સીઝિયમ (Cs) એ આવર્ત કોષ્ટકના કયા સમૂહનું તત્ત્વ છે? (1, 2, 17)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હા-લી-ના-કે-રબ-સે-ફરિયાદ' (Li, Na, K, Rb, Cs, Fr).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "એક્ટિનોઇડ શ્રેણીમાં કુલ _________ તત્ત્વો હોય છે. (10, 14, 18)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f-કક્ષકમાં 14 ઇલેક્ટ્રોન માય, એટલે શ્રેણીમાં 14 તત્ત્વો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સૌથી વધુ ધાતુ ગુણધર્મ ધરાવતું તત્ત્વ કયું છે? (F, Cs, Li)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cs</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે અને ડાબે જતાં ધાતુપણું વધે. Cs એકદમ નીચે-ડાબે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પરમાણ્વીય ક્રમાંક 17 ધરાવતા તત્ત્વની સંયોજકતા કેટલી હશે? (1, 2, 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 17 એટલે (2, 8, 7). અષ્ટક પૂર્ણ કરવા 1 જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "બીજા આવર્તના તત્ત્વોમાં નાઇટ્રોજનની આયનીકરણ એન્થાલ્પી ઓક્સિજન કરતા વધુ હોવાનું કારણ _________ છે. (કદ, અર્ધપૂર્ણ ભરાયેલી કક્ષક, વિદ્યુતઋણતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્ધપૂર્ણ ભરાયેલી કક્ષક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું ભરાયેલું (p3) અથવા આખું ભરાયેલું (p6) વધુ સ્થાયી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "આધુનિક આવર્ત કોષ્ટકના _________ વિભાગમાં અધાતુઓ આવેલી છે. (s, p, d)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> p</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p-બ્લોક એકમાત્ર એવો છે જેમાં ધાતુ, અધાતુ અને અર્ધધાતુ ત્રણેય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "તત્ત્વની વિદ્યુતઋણતા માપવા માટેનો સ્કેલ _________ એ આપ્યો હતો. (મોસલે, મેન્ડેલીફ, પૌલિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૌલિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pauling Scale = વિદ્યુતઋણતાનો માપદંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સમૂહ 18 ના તત્ત્વોની ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી _________ હોય છે. (ખૂબ જ ઋણ, શૂન્યની નજીક ધન, હંમેશા ઋણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્યની નજીક ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉમદા વાયુઓ પહેલેથી ધરાયેલા છે, ઇલેક્ટ્રોન આપો તો શક્તિ આપવી પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કયું તત્ત્વ 'એકા-એલ્યુમિનિયમ' તરીકે ઓળખાતું હતું? (સ્કેન્ડિયમ, ગેલિયમ, જર્મેનિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગેલિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Al પછી Ga (Eka-Al = Ga), Si પછી Ge (Eka-Si = Ge).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ટ્રાન્સયુરેનિયમ તત્ત્વો કયા તત્ત્વ પછી આવે છે? (થોરિયમ, યુરેનિયમ, નેપ્ચ્યુનિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુરેનિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટ્રાન્સ-યુરેનિયમ' એટલે યુરેનિયમ (Z=92) પછીના માનવસર્જિત તત્ત્વો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "તત્ત્વની સંયોજકતા સામાન્ય રીતે તેના બાહ્યતમ કોષમાં રહેલા _________ ની સંખ્યા જેટલી હોય છે. (પ્રોટોન, ઇલેક્ટ્રોન, ન્યુટ્રોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયોજકતા = Valence Electrons.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સમૂહમાં ઉપરથી નીચે જતાં વિદ્યુતઋણતામાં _________ થાય છે. (વધારો, ઘટાડો, ફેરફાર થતો નથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ વધે = ન્યુક્લિયસથી અંતર વધે = ખેંચવાની શક્તિ (EN) ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "આવર્ત કોષ્ટકના કયા વિભાગના તત્ત્વો રંગીન આયનો બનાવે છે? (s, p, d)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> d</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d-બ્લોક = રંગીન અને ચુંબકીય દુનિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "બેરેલિયમની આયનીકરણ એન્થાલ્પી બોરોન કરતા વધુ છે કારણ કે તે _________ કક્ષક ધરાવે છે. (પૂર્ણ ભરાયેલી 2s, અર્ધપૂર્ણ 2p, ખાલી 2p)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્ણ ભરાયેલી 2s</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Be (1s2 2s2) માં s આખું ભરાયેલું હોવાથી તેમાંથી ઇલેક્ટ્રોન કાઢવો મુશ્કેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "એક્ટિનોઇડ શ્રેણીના તત્ત્વોમાં છેલ્લો ઇલેક્ટ્રોન _________ કક્ષકમાં ભરાય છે. (4f, 5f, 6f)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5f</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેન્થેનોઇડ = 4f, એક્ટિનોઇડ = 5f.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "નિષ્ક્રિય વાયુઓની બાહ્યતમ કક્ષાની સામાન્ય ઇલેક્ટ્રોન રચના _________ છે. (ns2 np5, ns2 np6, ns2 np4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ns2 np6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: np6 એટલે અષ્ટક પૂર્ણ, એકદમ શાંત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "કયા પ્રકારની ત્રિજ્યાનું મૂલ્ય સૌથી વધુ હોય છે? (સહસંયોજક ત્રિજ્યા, વાન્ડર વાલ્સ ત્રિજ્યા, ધાત્વિય ત્રિજ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાન્ડર વાલ્સ ત્રિજ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાન્ડર વાલ્સ (દૂર-દૂર) > ધાત્વિય > સહસંયોજક (ઓવરલેપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "Mg2+ આયનમાં પ્રોટોનની સંખ્યા કેટલી છે? (10, 12, 14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયન બને ત્યારે ઇલેક્ટ્રોન બદલાય, પ્રોટોન નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "તત્ત્વના ઓક્સાઈડનો એસિડિક ગુણધર્મ આવર્તમાં ડાબેથી જમણે જતાં _________ છે. (ઘટે, વધે, સમાન રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધાતુના ઓક્સાઈડ એસિડિક હોય, અને જમણી બાજુ અધાતુઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "નીચેનામાંથી કયું ઉભયગુણી (Amphoteric) ઓક્સાઈડ છે? (Na2O, Al2O3, Cl2O7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Al2O3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Al2O3 અને ZnO બંને બાજુ (એસિડ અને બેઇઝ) રમી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ચોથા આવર્તમાં પ્રથમ તત્ત્વ કયું છે? (Na, K, Ca)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> K (પોટેશિયમ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્ત 1-H, 2-Li, 3-Na, 4-K.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ધન આયનનું કદ તેના જનક પરમાણુ કરતા હંમેશા _________ હોય છે. (મોટું, નાનું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન જાય = પ્રોટોનનું જોર વધે = કદ સંકોચાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિષમ આવર્ત કોષ્ટકના પિતા તરીકે કોણ ઓળખાય છે? (ન્યૂલેન્ડ, મેન્ડેલીફ, લોથર મેયર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેન્ડેલીફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્ત કોષ્ટકનો સાચો પાયો મેન્ડેલીફે નાખ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "f-વિભાગના તત્ત્વોને આવર્ત કોષ્ટકમાં ક્યાં સ્થાન આપવામાં આવ્યું છે? (ડાબી બાજુ, જમણી બાજુ, નીચે અલગ હરોળમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચે અલગ હરોળમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f-બ્લોક એટલે આવર્ત કોષ્ટકના 'તળિયા' ના મહેમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "દ્વિતીય આવર્તમાં સૌથી વધુ આયનીકરણ એન્થાલ્પી ધરાવતું તત્ત્વ _________ છે. (F, Ne, Li)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ne (નિયોન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષ્ક્રિય વાયુઓ ક્યારેય ઇલેક્ટ્રોન છોડતા નથી (Highest IE).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ઋણ આયનનું કદ તેના જનક પરમાણુ કરતા _________ હોય છે. (મોટું, નાનું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ ઇલેક્ટ્રોન = વધુ અપાકર્ષણ = કદ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "લોથર મેયરે કયા ગુણધર્મ વિરુદ્ધ પરમાણ્વીય ભારનો આલેખ દોર્યો હતો? (ગલનબિંદુ, પરમાણ્વીય કદ, આયનીકરણ એન્થાલ્પી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરમાણ્વીય કદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Meyer = Volume vs Weight Curve.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ઝિર્કોનિયમ (Zr) અને હાફનિયમ (Hf) ની ત્રિજ્યા સમાન હોવાનું કારણ _________ છે. (વિકર્ણ સંબંધ, લેન્થેનોઇડ સંકોચન, આયનીકરણ એન્થાલ્પી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેન્થેનોઇડ સંકોચન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4d અને 5d ના કદ સરખા કરવા પાછળ 'લેન્થેનોઇડ સંકોચન' જવાબદાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "કયું તત્ત્વ સૌથી વધુ અધાતુ ગુણધર્મ ધરાવે છે? (N, O, F)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણી તરફ ઉપર જાવ તો અધાતુપણું (Non-metallic) વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પ્રથમ આયનીકરણ એન્થાલ્પી કરતા દ્વિતીય આયનીકરણ એન્થાલ્પીનું મૂલ્ય હંમેશા _________ હોય છે. (ઓછું, વધુ, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ઇલેક્ટ્રોન કાઢ્યા પછી બીજાને કાઢવો વધુ અઘરો પડે. IE2 > IE1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "પરમાણુ ક્રમાંક 37 ધરાવતું તત્ત્વ કયા વિભાગનું હશે? (s, p, d)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> s</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 36 પર Kr (p-બ્લોક પૂરો), તો 37 થી નવો s-બ્લોક શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "સોડિયમ અને મેગ્નેશિયમમાં કોની ત્રિજ્યા મોટી છે? (Na, Mg, બંને સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Na</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તમાં ડાબેથી જમણે જતાં ત્રિજ્યા ઘટે (Na ડાબે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "સૌથી ઓછી વિદ્યુતઋણતા ધરાવતું તત્ત્વ કયું છે? (F, Cs, Fr)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Cs (અથવા Fr)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F સૌથી વધુ EN, Cs/Fr સૌથી ઓછી EN.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "p-વિભાગમાં કુલ કેટલા સમૂહો આવેલા છે? (2, 6, 10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p-કક્ષકમાં 6 ઇલેક્ટ્રોન એટલે 6 સમૂહ (13 થી 18).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "આવર્ત કોષ્ટકમાં અર્ધધાતુઓ કયા વિભાગમાં જોવા મળે છે? (s, p, f)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> p</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p-બ્લોકમાં સીડી (Staircase) જેવા અર્ધધાતુ તત્ત્વો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "સમૂહ 13 ના તત્ત્વોની સામાન્ય ઓક્સિડેશન અવસ્થા કઈ છે? (+1, +3, +5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> +3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમૂહ 13 = 10 + 3. બાહ્યતમ કક્ષામાં 3 ઇલેક્ટ્રોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "સીલ્ડિંગ અસર (Shielding Effect) વધવાથી આયનીકરણ એન્થાલ્પીમાં _________ થાય છે. (વધારો, ઘટાડો, ફેરફાર નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડદો (Shield) મજબૂત = ન્યુક્લિયસનો ખેંચાણ ઓછો = ઇલેક્ટ્રોન સહેલાઈથી નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "સમૂહમાં ઉપરથી નીચે જતાં ધાતુ ગુણધર્મમાં _________ થાય છે. (વધારો, ઘટાડો, સમાન રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ વધે = ઇલેક્ટ્રોન ગુમાવવો સહેલો = વધુ ધાત્વિય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "સિલ્વર (Ag) એ કયા વિભાગનું તત્ત્વ છે? (s, p, d)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> d</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્કા ધાતુઓ (Cu, Ag, Au) d-બ્લોકમાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "કાર્બન અને સિલિકોન પૈકી કોની વિદ્યુતઋણતા વધુ છે? (C, Si, બંને સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમૂહમાં ઉપરનું તત્ત્વ નાનું અને વધુ EN હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "હેલિયમની બાહ્યતમ કક્ષામાં કેટલા ઇલેક્ટ્રોન હોય છે? (2, 8, 18)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: He એ અપવાદ છે, સમૂહ 18 માં હોવા છતાં 2 જ ઇલેક્ટ્રોન ધરાવે (Duplet).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "નિયોન (Ne) અને આર્ગોન (Ar) માંથી કોની આયનીકરણ એન્થાલ્પી વધુ હશે? (Ne, Ar, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ne</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ne ઉપર છે અને Ar નીચે, ઉપરનું તત્ત્વ નાનું હોવાથી વધુ IE ધરાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "આવર્ત કોષ્ટકના બીજા આવર્તમાં કુલ કેટલા તત્ત્વો છે? (2, 8, 18)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્ત 1-2, 2-8, 3-8, 4-18...</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "સમૂહ 2 ના તત્ત્વોની સામાન્ય ઇલેક્ટ્રોન રચના _________ છે. (ns1, ns2, ns2np2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ns2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમૂહ 2 એટલે છેલ્લે 2 ઇલેક્ટ્રોન (ns2).</p></div>"
+    }
+  ]
+}

@@ -1853,3 +1853,371 @@ var Std11_Chemistry_OneWord = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સંતુલન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રતિવર્તી પ્રક્રિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયામાં પ્રક્રિયકોમાંથી નીપજો અને તે જ પરિસ્થિતિમાં નીપજોમાંથી ફરીથી પ્રક્રિયકો બને તેવી પ્રક્રિયાને પ્રતિવર્તી પ્રક્રિયા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટુ-વે ટ્રાફિક (⇌) જેવી પ્રક્રિયા એટલે પ્રતિવર્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગતિશીલ સંતુલન (Dynamic Equilibrium) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પુરોગામી અને પ્રતિગામી પ્રક્રિયાઓના વેગ સમાન થાય અને સાંદ્રતા અચળ રહે, ત્યારે પ્રક્રિયા ચાલુ હોવા છતાં સ્થિર જણાય તેને ગતિશીલ સંતુલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિ ચાલુ પણ પરિણામ શૂન્ય (Net change = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભૌતિક સંતુલનનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બરફ ⇌ પાણી (0 °C તાપમાને અને 1 atm દબાણે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થની અવસ્થા બદલાય પણ અણુસૂત્ર ના બદલાય (H₂O જ રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હેન્રીનો નિયમ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયત તાપમાને દ્રાવકમાં ઓગળેલા વાયુનું દળ (અથવા સાંદ્રતા) તે વાયુના દબાણના સમપ્રમાણમાં હોય છે ($m \\propto p$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલું દબાણ વધુ, એટલી સોડામાં ગેસ વધુ (P ∝ C).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સક્રિય જથ્થાનો નિયમ (Law of Mass Action) કોણે આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુલ્ડબર્ગ અને વાગે (Guldberg and Waage) નામના વૈજ્ઞાનિકોએ આપ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GW - ગઠબંધન ઓફ વેગ (Guldberg & Waage).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંતુલન અચળાંક $K_c$ નું સૂત્ર $aA + bB \\rightleftharpoons cC + dD$ માટે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_c = \\frac{[C]^c [D]^d}{[A]^a [B]^b}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીપજની સાંદ્રતા ઉપર, પ્રક્રિયકની નીચે (Up/Down = Product/Reactant).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "$K_p$ અને $K_c$ વચ્ચેનો સંબંધ દર્શાવતું સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_p = K_c(RT)^{\\Delta n_g}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંકજ (Kp) = કાચલ (Kc) અને RT ની ઘાત ડેલ્ટા n.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "$\\Delta n_g$ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુરૂપ નીપજોના મોલની સંખ્યા અને વાયુરૂપ પ્રક્રિયકોના મોલની સંખ્યાનો તફાવત ($\\Delta n_g = n_{p(g)} - n_{r(g)}$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદબાકી માત્ર 'ગેસ' માટે જ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કઈ પરિસ્થિતિમાં $K_p = K_c$ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે $\\Delta n_g = 0$ હોય ત્યારે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને બાજુ ગેસના મોલ સરખા, તો Kp અને Kc પણ સરખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમાંગ સંતુલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંતુલન પ્રક્રિયામાં પ્રક્રિયકો અને નીપજો એક જ અવસ્થામાં (Phase) હોય તેને સમાંગ સંતુલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ'માંગ = 'સ'માન અવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિષમાંગ સંતુલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંતુલન પ્રક્રિયામાં પ્રક્રિયકો અને નીપજો એકથી વધુ અવસ્થામાં હોય તેને વિષમાંગ સંતુલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જુદી જુદી ભૌતિક અવસ્થા (દા.ત. Solid અને Gas).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંતુલન અચળાંક $K_c$ નું મૂલ્ય શેના પર આધાર રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન પર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેમ્પરેચર બદલાય તો જ 'K' બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો પ્રક્રિયાને ઉલટાવવામાં આવે, તો નવા સંતુલન અચળાંક $K'$ નું મૂલ્ય શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવો સંતુલન અચળાંક મૂળ અચળાંકનો વ્યસ્ત થાય ($K' = 1/K$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉલટું કરો તો વ્યસ્ત (Inverse) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો પ્રક્રિયાને $n$ વડે ગુણવામાં આવે, તો નવો સંતુલન અચળાંક $K'$ શું થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K' = K^n$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો ગુણાકાર કરો, તે ઘાત (Power) માં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પ્રક્રિયા ભાગફળ $Q_c$ (Reaction Quotient) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રક્રિયાના કોઈપણ સમયે (સંતુલન હોય કે ન હોય) સાંદ્રતાના ગુણોત્તરને $Q_c$ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Q' એટલે ગમે ત્યારે, 'K' એટલે માત્ર સંતુલને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો $Q_c < K_c$ હોય તો પ્રક્રિયા કઈ દિશામાં જશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રક્રિયા પુરોગામી (Forward) દિશામાં જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q ઓછો છે તો વધવા માટે આગળ વધશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો $Q_c > K_c$ હોય તો પ્રક્રિયા કઈ દિશામાં જશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રક્રિયા પ્રતિગામી (Backward) દિશામાં જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q વધી ગયો છે તો ઘટવા માટે પાછો આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગિબ્સ ઉર્જા ફેરફાર $\\Delta G$ અને $Q$ વચ્ચેનો સંબંધ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta G = \\Delta G^\\circ + RT \\ln Q$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિબ્સ એટલે કુલ ઉર્જા = પ્રમાણિત ઉર્જા + RT ln Q.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સંતુલન સમયે $\\Delta G$ નું મૂલ્ય કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય (0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે શાંતિ, શાંતિ એટલે ફેરફાર 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "$\\Delta G^\\circ$ અને $K$ વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta G^\\circ = -RT \\ln K$ અથવા $\\Delta G^\\circ = -2.303 RT \\log K$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈનસ ચિહ્ન યાદ રાખવું (G અને K વિરોધી સ્વભાવના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લ-શેટેલિયરનો સિદ્ધાંત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો સંતુલન સ્થિતિમાં રહેલી પ્રણાલીમાં સાંદ્રતા, દબાણ કે તાપમાનનો ફેરફાર કરવામાં આવે, તો પ્રણાલી એવા ફેરફાર તરફ ખસે છે જેથી ફેરફારની અસર નાબૂદ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રણાલી હંમેશા તમારા ફેરફારનો 'વિરોધ' કરશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પ્રક્રિયકની સાંદ્રતા વધારતા સંતુલન કઈ તરફ ખસે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીપજ તરફ (પુરોગામી દિશામાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બાજુ વધારો કરો, તેની વિરુદ્ધ બાજુએ સંતુલન જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દબાણ વધારતા વાયુરૂપ સંતુલન કઈ દિશામાં ખસે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બાજુ વાયુના મોલની સંખ્યા ઓછી હોય તે દિશામાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ દબાણ = ઓછા મોલ (High P $\\rightarrow$ Low moles).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઉષ્માશોષક પ્રક્રિયામાં તાપમાન વધારતા સંતુલન કઈ દિશામાં ખસે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુરોગામી (જમણી) દિશામાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોષક ને ગરમી ગમે (Endo likes Heat).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઉષ્માક્ષેપક પ્રક્રિયામાં તાપમાન વધારતા સંતુલન કઈ દિશામાં ખસે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિગામી (ડાબી) દિશામાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેપક ને ગરમી ન ગમે (Exo hates Heat).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઉદ્દીપકની સંતુલન અચળાંક પર શું અસર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ અસર થતી નથી; તે માત્ર સંતુલન વહેલું પ્રાપ્ત કરવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉદ્દીપક શોર્ટકટ રસ્તો છે, મંજિલ (K) એ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નિષ્ક્રિય વાયુ ઉમેરવાની સંતુલન પર શું અસર થાય (અચળ કદ)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ કદ પર કોઈ અસર થતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Constant Volume = No Change for Inert Gas.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આયોનિક સંતુલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રાવણમાં આયનો અને બિન-આયનીકૃત અણુઓ વચ્ચે સ્થપાતા સંતુલનને આયોનિક સંતુલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયનો (Ions) વચ્ચેનું સંતુલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આરહેનિયસના એસિડની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ જલીય દ્રાવણમાં $H^+$ (હાઇડ્રોજન આયન) આપે તેને એસિડ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A for Acid, A for $H^+$ Giver.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બ્રોન્સ્ટેડ-લોરી એસિડ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ પ્રોટોન ($H^+$) દાન કરવાની વૃત્તિ ધરાવે છે તેને એસિડ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટોન દાતા = એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "બ્રોન્સ્ટેડ-લોરી બેઇઝ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ પ્રોટોન ($H^+$) સ્વીકારવાની વૃત્તિ ધરાવે છે તેને બેઇઝ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રોટોન ગ્રાહી = બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સંયુગ્મી એસિડ-બેઇઝ જોડી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે એસિડ-બેઇઝની જોડી માત્ર એક પ્રોટોન ($H^+$) ના તફાવતથી અલગ પડતી હોય તેને સંયુગ્મી જોડી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 H+ નો ગેપ = Conjugate pair.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "$NH_3$ નો સંયુગ્મી એસિડ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $NH_4^+$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ બનાવવા $H^+$ ઉમેરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "$H_2O$ નો સંયુગ્મી બેઇઝ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $OH^-$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઇઝ બનાવવા $H^+$ દૂર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "લુઈસ એસિડ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ ઇલેક્ટ્રોન યુગ્મ સ્વીકારી શકે તેને લુઈસ એસિડ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ = ઇલેક્ટ્રોન ભિખારી (Acceptor).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "લુઈસ બેઇઝ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ ઇલેક્ટ્રોન યુગ્મનું દાન કરી શકે તેને લુઈસ બેઇઝ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઇઝ = ઇલેક્ટ્રોન દાતા (Donor).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "$BF_3$ કેવા પ્રકારનો લુઈસ પદાર્થ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લુઈસ એસિડ (કારણ કે તેનું અષ્ટક અપૂર્ણ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B (બોરોન) પાસે માત્ર 6 ઇલેક્ટ્રોન હોય, 2 ઘટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પાણીનો આયનીય ગુણાકાર $K_w$ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઇડ્રોજન આયન ($H^+$) અને હાઇડ્રોક્સિલ આયન ($OH^-$) ની સાંદ્રતાના ગુણાકારને $K_w$ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kw = [H+][OH-].</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "298 K તાપમાને $K_w$ નું મૂલ્ય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1.0 \\times 10^{-14} M^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 એ જાદુઈ નંબર છે (pH 0 થી 14).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "pH ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઇડ્રોજન આયન સાંદ્રતાના ઋણ લઘુગુણકને pH કહે છે. ($pH = -\\log[H^+]$)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH એટલે 'Power of Hydrogen'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "તટસ્થ દ્રાવણ માટે 298 K તાપમાને pH કેટલી હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 એટલે નહિ એસિડ, નહિ બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નિર્બળ એસિડના આયનીકરણ અચળાંક $K_a$ નું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_a = \\frac{[H^+][A^-]}{[HA]}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K = નીપજ/પ્રક્રિયક (સાંદ્રતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "$pK_a$ અને $K_a$ વચ્ચેનો સંબંધ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $pK_a = -\\log K_a$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં 'p' જુઓ ત્યાં '-log' લગાડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જો $K_a$ નું મૂલ્ય વધુ હોય, તો એસિડની પ્રબળતા કેવી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ વધુ પ્રબળ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $K_a \\propto$ એસિડિક પ્રબળતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ઓસ્વાલ્ડનો મંદનનો નિયમ ક્યારે લાગુ પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માત્ર નિર્બળ વિદ્યુતવિભાજ્ય (Weak electrolytes) માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓસ્વાલ્ડ = માત્ર 'નિર્બળ' માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "આયનીકરણ અંશ $\\alpha$ અને $K_a$ વચ્ચેનો સંબંધ (નિર્બળ એસિડ માટે) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_a = C\\alpha^2$ (જ્યારે $\\alpha << 1$ હોય ત્યારે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કા (Ka) = ચા (C) આલ્ફા સ્ક્વેર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "બહુપ્રોટિક એસિડ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે એસિડ એક કરતા વધુ પ્રોટોન ($H^+$) આપી શકે તેને બહુપ્રોટિક એસિડ કહે છે. દા.ત. $H_2SO_4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બહુ' એટલે મેની (Many) પ્રોટોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "$H_2SO_4$ માટે $K_{a1}$ અને $K_{a2}$ માંથી કોનું મૂલ્ય વધુ હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_{a1} > K_{a2}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલો પ્રોટોન કાઢવો સહેલો, બીજો અઘરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઉભયગુણી પદાર્થ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થ એસિડ અને બેઇઝ એમ બંને તરીકે વર્તી શકે તેને ઉભયગુણી પદાર્થ કહે છે. દા.ત. $H_2O$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઉભય' એટલે બેઉ (Double role).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "સમાન આયન અસર (Common Ion Effect) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિર્બળ વિદ્યુતવિભાજ્યના દ્રાવણમાં સમાન આયન ધરાવતો પ્રબળ વિદ્યુતવિભાજ્ય ઉમેરતા નિર્બળ વિદ્યુતવિભાજ્યનું આયનીકરણ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડ વધે તો આયનીકરણ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "બફર દ્રાવણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે દ્રાવણમાં અલ્પ પ્રમાણમાં એસિડ કે બેઇઝ ઉમેરવા છતાં તેની pH માં ખાસ ફેરફાર થતો નથી, તેને બફર દ્રાવણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH નું રક્ષણ કરનાર કવચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "એસિડિક બફરનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $CH_3COOH + CH_3COONa$ (નિર્બળ એસિડ + તેનો પ્રબળ બેઇઝ સાથેનો ક્ષાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિટિક એસિડ + સોડિયમ એસિટેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "બેઝિક બફરનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $NH_4OH + NH_4Cl$ (નિર્બળ બેઇઝ + તેનો પ્રબળ એસિડ સાથેનો ક્ષાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયમ હાઇડ્રોક્સાઇડ + એમોનિયમ ક્લોરાઇડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ક્ષારનું જળવિભાજન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષારના આયનોની પાણી સાથેની પ્રક્રિયાથી દ્રાવણમાં એસિડિક અથવા બેઝિક ગુણધર્મ ઉત્પન્ન થવાની પ્રક્રિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષાર + પાણી ⇌ એસિડ + બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "પ્રબળ એસિડ અને પ્રબળ બેઇઝના ક્ષાર (દા.ત. $NaCl$) ના જલીય દ્રાવણની pH કેટલી હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 (તટસ્થ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને પ્રબળ તો લડાઈમાં કોઈ ના જીતે, તટસ્થ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "નિર્બળ એસિડ અને પ્રબળ બેઇઝના ક્ષાર (દા.ત. $CH_3COONa$) ના દ્રાવણની પ્રકૃતિ કેવી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેઝિક (pH > 7).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પ્રબળ હોય તેવું દ્રાવણ બને (બેઇઝ પ્રબળ તો બેઝિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પ્રબળ એસિડ અને નિર્બળ બેઇઝના ક્ષાર (દા.ત. $NH_4Cl$) ના દ્રાવણની પ્રકૃતિ કેવી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડિક (pH < 7).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ પ્રબળ છે એટલે દ્રાવણ એસિડિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "દ્રાવ્યતા ગુણાકાર $K_{sp}$ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ્પ દ્રાવ્ય ક્ષારના સંતૃપ્ત દ્રાવણમાં તેના આયનોની સાંદ્રતાના ગુણાકારને દ્રાવ્યતા ગુણાકાર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્રાવ્ય આયનોની કેપેસિટી (Solubility Product).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "$AgCl$ માટે $K_{sp}$ અને દ્રાવ્યતા ($s$) વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_{sp} = s^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AB પ્રકારનો ક્ષાર હોય તો s².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "$BaCl_2$ માટે $K_{sp}$ નું સૂત્ર દ્રાવ્યતા ($s$) ના પદમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_{sp} = 4s^3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $AB_2$ પ્રકાર માટે $1^1 \times 2^2 \times s^{(1+2)} = 4s^3$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "અવક્ષેપન (Precipitation) થવા માટેની શરત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયનીય ગુણાકાર ($Q_{sp}$) > દ્રાવ્યતા ગુણાકાર ($K_{sp}$)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેપેસિટી કરતા સાંદ્રતા વધે તો અવક્ષેપ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "દ્રાવ્યતા અને તાપમાન વચ્ચેનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય રીતે, તાપમાન વધારતા ઘન પદાર્થની દ્રાવ્યતા વધે છે (જો પ્રક્રિયા ઉષ્માશોષક હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ પાણીમાં ખાંડ જલ્દી ઓગળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "હેન્ડરસન-હેસલબાક સમીકરણ (એસિડિક બફર માટે) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $pH = pK_a + \\log \\frac{[Salt]}{[Acid]}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH = pKa + log (સાલ્ટ/એસિડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "માનવ રુધિર (Blood) ની pH કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશરે 7.4 (સામાન્ય બેઝિક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7.4 એટલે લોહીની બફર સિસ્ટમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "જો $K_c > 10^3$ હોય, તો સંતુલને કયા ઘટકોનું પ્રમાણ વધુ હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીપજોનું પ્રમાણ વધુ હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો K = વધુ નીપજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "જો $K_c < 10^{-3}$ હોય, તો પ્રક્રિયા કઈ સ્થિતિમાં હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રક્રિયા ભાગ્યે જ આગળ વધી હશે (પ્રક્રિયકો વધુ હશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો K = આળસુ પ્રક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "પાણીના સ્વયં-આયનીકરણની પ્રક્રિયા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $H_2O(l) + H_2O(l) \\rightleftharpoons H_3O^+(aq) + OH^-(aq)$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીના બે અણુઓ વચ્ચે પ્રોટોનની આપ-લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "એસિડિક પ્રબળતાનો ક્રમ જણાવો: $HI, HBr, HCl, HF$.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $HI > HBr > HCl > HF$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું કદ = નબળો બંધ = વધુ એસિડિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "$K_a \\cdot K_b = ?$ (સંયુગ્મી એસિડ-બેઇઝ માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $K_w$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $K_a \times K_b = 10^{-14}$ (at 298K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "દ્રાવ્યતા ($s$) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ તાપમાને સંતૃપ્ત દ્રાવણમાં ઓગળેલા દ્રાવ્યની મહત્તમ સાંદ્રતાને દ્રાવ્યતા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરાઈ ગયેલા (Saturated) દ્રાવણની સાંદ્રતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "કયા પ્રકારના પદાર્થો માટે સંતુલન અચળાંકના સૂત્રમાં સાંદ્રતા 1 લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શુદ્ધ ઘન (Solid) અને શુદ્ધ પ્રવાહી (Liquid) માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (s) અને (l) ને ઇગ્નોર કરો (Kc માં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "નિષ્ક્રિય વાયુ અચળ દબાણે ઉમેરતા સંતુલન કઈ દિશામાં ખસે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બાજુ વાયુના મોલની સંખ્યા વધુ હોય તે તરફ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ દબાણ (P) = વધુ મોલ તરફ.</p></div>"
+    }
+  ]
+}

@@ -2957,3 +2957,371 @@ var Std11_Chemistry_OneWord = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "હાઇડ્રોકાર્બન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "હાઇડ્રોકાર્બન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માત્ર કાર્બન અને હાઇડ્રોજન તત્વો ધરાવતા સંયોજનોને હાઇડ્રોકાર્બન કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રો (H) + કાર્બન (C) = હાઇડ્રોકાર્બન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આલ્કેન શ્રેણીનું સામાન્ય સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CnH2n+2 (જ્યાં n = 1, 2, 3...)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન કરતા હાઇડ્રોજન 'બમણાથી બે વધારે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મિથેન અણુનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિથેન (CH4) અણુનો આકાર સમચતુષ્ફલકીય (Tetrahedral) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર હાઇડ્રોજન = ચાર ખૂણા (ચતુષ્ફલકીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મિથેનમાં C-H બંધકોણનું મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 109.5 ડિગ્રી (અથવા 109° 28').</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કેન માટે ફિક્સ નંબર 109.5 યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બ્યુટેનના બંધારણીય સમઘટકોની સંખ્યા કેટલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્યુટેન (C4H10) ના બે સમઘટકો છે: (1) n-બ્યુટેન અને (2) આઇસો-બ્યુટેન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 કાર્બન = 2 રસ્તા (સીધો અને શાખાવાળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પેન્ટન (C5H12) ના કુલ કેટલા બંધારણીય સમઘટકો શક્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેન્ટનના ત્રણ સમઘટકો છે: n-પેન્ટન, આઇસો-પેન્ટન અને નિયો-પેન્ટન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C-5 માટે 'ત્રણ' યાદ રાખવું (સીધું, એક શાખા, બે શાખા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વુર્ટ્ઝ પ્રક્રિયામાં કઈ ધાતુનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોડિયમ (Na) ધાતુનો શુષ્ક ઈથરની હાજરીમાં ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વુર્ટ્ઝ = સોડિયમ (Na) + શુષ્ક ઈથર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વુર્ટ્ઝ પ્રક્રિયા દ્વારા કયા પ્રકારના આલ્કેન સારી રીતે બનાવી શકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેકી સંખ્યામાં કાર્બન ધરાવતા સંમિત આલ્કેન (Symmetric Alkanes).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ થાય એટલે હંમેશા 'બેકી' જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ડીકાર્બોક્સિલેશન પ્રક્રિયામાં વપરાતા પ્રક્રિયકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોડાલાઈમ (NaOH અને CaO નું મિશ્રણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોડાલાઈમ = NaOH + CaO (3:1 ગુણોત્તર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કોલ્બેની વિદ્યુતવિભાજન પદ્ધતિમાં એનોડ પર કયો ગેસ મુક્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એનોડ પર કાર્બન ડાયોક્સાઇડ (CO2) અને આલ્કેન વાયુ મુક્ત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એનોડ (+) પર CO2 અને આલ્કેન ભાઈ-બંધો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આલ્કેનની હેલોજીનેશન પ્રક્રિયા કઈ ક્રિયાવિધિ દ્વારા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુક્તમૂલક વિસ્થાપન પ્રક્રિયા (Free Radical Substitution).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યપ્રકાશ (hv) = મુક્તમૂલક (Free Radical).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આલ્કેન સંયોજનોમાં કાર્બનનું સંકરણ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp3 સંકરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ બોન્ડ = sp3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હેલોજનની આલ્કેન પ્રત્યેની સક્રિયતાનો ક્રમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> F2 > Cl2 > Br2 > I2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન સૌથી વધુ તોફાની (ઝડપી) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આલ્કેનના ઓક્સિડેશનથી મિથેનોલ મેળવવા કયો ઉદ્દીપક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોપર (Cu) ઉદ્દીપક, 523 K તાપમાન અને 100 atm દબાણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કેન + Cu = આલ્કોહોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નિયો-પેન્ટનનું IUPAC નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2,2-ડાયમિથાઇલપ્રોપેન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચેના કાર્બન પર ચારે બાજુ મિથાઇલ એટલે નિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આલ્કેનનું ઉકળનબિંદુ શાખા વધવાથી કેમ ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાખા વધવાથી સંપર્ક સપાટીનું ક્ષેત્રફળ ઘટે છે, જેથી વાન્ડર વાલ્સ આકર્ષણ બળ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાખા વધી = દડા જેવો ગોળાકાર આકાર = ઓછી જગ્યા રોકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઇથેનના સૌથી વધુ સ્થાયી સંરૂપણનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાંતરિત સંરૂપણ (Staggered conformation).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંતરિત (Staggered) = સ્થાયી (Stable). (S-S યાદ રાખવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઇથેનના સૌથી ઓછા સ્થાયી સંરૂપણનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રસ્ત સંરૂપણ (Eclipsed conformation).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રહણ (Eclipse) થાય તો અંધારું થાય અને અસ્થિરતા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ન્યુમેન પ્રક્ષેપણમાં કાર્બન-કાર્બન અક્ષને કેવી રીતે જોવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અક્ષની બરાબર સામેથી (Head-on) જોવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુમેન = નાક સામેથી જોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાયરોલિસિસ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉચ્ચ આલ્કેન સંયોજનોને ગરમ કરતા તેમનું નાના અણુઓમાં વિભાજન થવાની ક્રિયાને પાયરોલિસિસ કે ટ્રેકિંગ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયરો (ગરમી) + લિસિસ (તોડવું) = ગરમીથી તોડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "આલ્કીન શ્રેણીનું સામાન્ય સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CnH2n</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કીન = કાર્બન કરતા હાઇડ્રોજન બમણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઈથિનમાં કાર્બનનું સંકરણ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp2 સંકરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ બોન્ડ = sp2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ભૌમિતિક સમઘટકતા કયા બે સ્વરૂપોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીસ (cis) અને ટ્રાન્સ (trans) સ્વરૂપો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક બાજુ તો સીસ, સામ-સામે તો ટ્રાન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સીસ અને ટ્રાન્સ પૈકી કોનું ઉકળનબિંદુ ઊંચું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીસ (cis) સમઘટકનું ઉકળનબિંદુ ઊંચું હોય છે કારણ કે તે વધુ ધ્રુવીય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cis = Polar = High B.P.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લિન્ડલર ઉદ્દીપક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેલેડિયમયુક્ત ચારકોલ જેને સલ્ફર અથવા ક્વિનોલીન જેવા ઝેરથી અંશતઃ નિષ્ક્રિય કરેલ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lindlar = Pd/C = 'સીસ' આલ્કીન મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ટ્રાન્સ-આલ્કીન બનાવવા માટે કયો પ્રક્રિયક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોડિયમ અને પ્રવાહી એમોનિયા (Na / liq. NH3).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Na + NH3 = 'ટ્રાન્સ' આલ્કીન (Birch reduction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "માર્કોવનિકોવનો નિયમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસમ પ્રક્રિયકનો ઋણ ભાગ એવા અસંતૃપ્ત કાર્બન સાથે જોડાય છે જેની પાસે હાઇડ્રોજનની સંખ્યા ઓછી હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબ વધુ ગરીબ બને (ઓછા H પાસે ઋણ ભાગ જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ખેરાસ અસર (પેરોક્સાઇડ અસર) કયા પ્રક્રિયક સાથે જ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માત્ર HBr સાથે જ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરોક્સાઇડ = માત્ર HBr (HCl કે HI નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બેયરનો પ્રક્રિયક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઠંડુ અને મંદ પોટેશિયમ પરમેંગેનેટનું જલીય દ્રાવણ (KMnO4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેયર = ગુલાબી રંગ દૂર કરનાર (અસંતૃપ્તતાની કસોટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "આલ્કીનના ઓઝોનોલિસિસથી પ્રોપેનોન અને મિથેનાલ મળે તો તે આલ્કીન કયો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2-મિથાઇલપ્રોપ-1-ઈન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેના O કાઢીને ડબલ બોન્ડ જોડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "આલ્કાઇન શ્રેણીનું સામાન્ય સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CnH2n-2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કાઇન = બમણાથી બે ઓછા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ઇથાઇનમાં કાર્બનનું સંકરણ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp સંકરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રિપલ બોન્ડ = sp.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શા માટે ઇથાઇન એસિડિક ગુણધર્મ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp સંકરણને કારણે s-લાક્ષણિકતા (50%) વધારે હોવાથી C ની વિદ્યુતઋણતા વધે છે, જે C-H બંધના ઇલેક્ટ્રોનને ખેંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ S-ચરિત્ર = વધુ એસિડિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ઇથાઇનનું લાલચોળ ગરમ લોખંડની નળીમાં થી પસાર કરતા શું મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીન (C6H6).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 Ethyne = 1 Benzene (ચક્રીય બહુલીકરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "બેન્ઝીનમાં કુલ કેટલા સિગ્મા (σ) અને પાઇ (π) બંધ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12 સિગ્મા (σ) અને 3 પાઇ (π) બંધ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6(C-C) + 6(C-H) = 12 સિગ્મા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એરોમેટિકતા માટેનો હ્યુકેલનો નિયમ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચક્રીય, સમતલીય અને (4n + 2) π ઇલેક્ટ્રોન ધરાવતું સંયોજન એરોમેટિક હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેજિક નંબર્સ: 2, 6, 10, 14 π ઇલેક્ટ્રોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બેન્ઝીનના નાઇટ્રેશન માટે કયું મિશ્રણ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાંદ્ર HNO3 અને સાંદ્ર H2SO4 નું મિશ્રણ (નાઇટ્રેટિંગ મિશ્રણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઇટ્રેશન = બે એસિડની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ફ્રિડલ-ક્રાફ્ટ આલ્કાઈલેશનમાં કયો ઉદ્દીપક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિર્જળ એલ્યુમિનિયમ ક્લોરાઇડ (anhydrous AlCl3).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્રિડલ = AlCl3 (લુઈસ એસિડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "બેન્ઝીન રિંગ પર રહેલા -OH સમૂહની નિર્દેશક અસર કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓર્થો (o-) અને પેરા (p-) નિર્દેશક અસર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાસે લોન પેર (lone pair) હોય તે ઓર્થો-પેરા નિર્દેશક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "-NO2 સમૂહ બેન્ઝીન રિંગ પર કેવી અસર ઉપજાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેટા (m-) નિર્દેશક અને રિંગને અક્રિય કરનાર (Deactivating).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલેક્ટ્રોન ખેંચનાર = મેટા નિર્દેશક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "મિથેનનું ક્લોરિનેશન કયા પ્રકાશની હાજરીમાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્યપ્રકાશ અથવા પારજાંબલી (UV) પ્રકાશની હાજરીમાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધારામાં આ પ્રક્રિયા થતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "કયો હાઇડ્રોકાર્બન 'માર્શ ગેસ' તરીકે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિથેન (CH4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માર્શ = કાદવ-કીચડ (જ્યાં મિથેન બને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ટ્રોલેનનું IUPAC નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિથાઇલબેન્ઝીન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ઝીન + CH3 = ટોલ્યુઈન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "સોડિયમ બેન્ઝોએટને સોડાલાઇમ સાથે ગરમ કરતા શું મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -COONa દૂર કરો અને H જોડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "HCH બંધકોણનું મૂલ્ય ઇથિનમાં કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશરે 121.7 ડિગ્રી (પ્રાયોગિક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: sp2 એટલે 120 ની આસપાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "કાર્બન બ્લેક કેવી રીતે મેળવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિથેનનું અપૂરતા હવાના જથ્થામાં દહન કરવાથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપૂરતો O2 = કાળો ધુમાડો (Carbon Black).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "આલ્કેન સંયોજનો પાણીમાં કેમ અદ્રાવ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલ્કેન સંયોજનો અધ્રુવીય હોવાથી તે ધ્રુવીય દ્રાવક પાણીમાં ઓગળતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Like dissolves like (અધ્રુવીય અધ્રુવીયમાં ઓગળે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "આઈસોમેરાઈઝેશન (સમઘટકીકરણ) માટે કયો ઉદ્દીપક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિર્જળ AlCl3 અને HCl વાયુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીધી ચેઈન માંથી શાખા બનાવવા AlCl3 જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઈથિનની હાઇડ્રોજન સાથેની ઉદ્દીપકીય પ્રક્રિયા કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઇડ્રોજીનેશન અથવા સાબાતિયે-સેન્ડરન્સ પ્રક્રિયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H2 ઉમેરવો એટલે હાઇડ્રોજીનેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિકિનલ ડાયહેલાઇડ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે હેલોજન પરમાણુઓ બે પાસપાસેના કાર્બન પર જોડાયેલા હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પડોશી (Vicinal) કાર્બન પર હેલોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઝીંક રજ સાથે વિકિનલ ડાયહેલાઇડને ગરમ કરતા શું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલ્કીન બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zn બે હેલોજન (X2) લઈને ભાગી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "આલ્કોહોલિક KOH ની હાજરીમાં હેલોઆલ્કેન કઈ પ્રક્રિયા અનુભવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીટા-વિલોપન પ્રક્રિયા (Dehydrohalogenation).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કોહોલિક KOH = ડબલ બોન્ડ બનાવનાર મશીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "પ્રોપાઈનની જલીયકરણ (Hydration) પ્રક્રિયાથી કયું મુખ્ય સંયોજન મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોપેનોન (એસીટોન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કાઈન + H2O = કીટોન (ઇથાઇન સિવાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "બેન્ઝીન અને ક્લોરિનની સૂર્યપ્રકાશમાં પ્રક્રિયાથી કયું જંતુનાશક મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીન હેક્ઝાક્લોરાઇડ (BHC - ગેમેક્સિન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 Cl + 1 Benzene = 666 (BHC).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "નેપ્થેલીનમાં કેટલા π ઇલેક્ટ્રોન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10 π ઇલેક્ટ્રોન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 પાઇ બંધ = 10 ઇલેક્ટ્રોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "બેન્ઝીનના સલ્ફોનેશન માટે કયો પ્રક્રિયક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધુમાયમાન સલ્ફ્યુરિક એસિડ (H2SO4 + SO3) અથવા ઓલિયમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફોનેશન = SO3 નો પાવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ઇથેનમાં ગ્રસ્ત અને સાંતરિત સંરૂપણ વચ્ચે ઊર્જાનો તફાવત કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12.5 kJ/mol.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ આંકડો 'ટોર્શનલ સ્ટ્રેઈન' તરીકે ઓળખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ઇથિન અને ઇથાઇનના મિશ્રણને ઓળખવા માટે કઈ કસોટી વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમોનિકલ સિલ્વર નાઈટ્રેટ (ટોલેન્સ પ્રક્રિયક) સાથે સફેદ અવક્ષેપની કસોટી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇથાઇન એસિડિક છે એટલે અવક્ષેપ આપશે, ઇથિન નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "એરોમેટિક હાઇડ્રોકાર્બન કઈ લાક્ષણિક પ્રક્રિયાઓ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોન અનુરાગી વિસ્થાપન પ્રક્રિયાઓ (Electrophilic Substitution).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ઝીન પાસે π ઇલેક્ટ્રોનનો વાદળ છે એટલે (+) ને બોલાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "બેન્ઝીન રિંગમાં દરેક કાર્બન-કાર્બન બંધની લંબાઈ કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 139 pm.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ (154) અને ડબલ (134) ની વચ્ચેની લંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ફિનોલમાંથી બેન્ઝીન કેવી રીતે બનાવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફિનોલની વરાળને ઝીંક (Zn) રજ પરથી પસાર કરવાથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zn એ 'O' ને ખેંચી લીધો (રિડક્શન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "કેકુલેનું બંધારણ શું સૂચવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીનમાં એકાંતરે દ્વિબંધ અને એકબંધ હોય છે જે સતત ફરતા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ પોતાની પૂંછડી પકડે તેવું સપનું = કેકુલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "એરોમેટાઇઝેશન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6 કે તેથી વધુ કાર્બન વાળા આલ્કેનને ગરમ કરતા તેનું બેન્ઝીન કે તેના વ્યુત્પન્નમાં રૂપાંતર થવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કેન માંથી એરોમેટિક બનાવવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જેમિનલ ડાયહેલાઇડ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બંને હેલોજન પરમાણુઓ એક જ કાર્બન પર જોડાયેલા હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જેમ' એટલે જુડવા (એક જ સીટ પર બે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વુર્ટ્ઝ-ફિટિંગ પ્રક્રિયામાં કયા બે પદાર્થો વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક એરાઇલ હેલાઇડ અને એક આલ્કાઈલ હેલાઇડ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વુર્ટ્ઝ (Alkyl) + ફિટિંગ (Aryl).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "પોલીસાઇક્લિક એરોમેટિક હાઇડ્રોકાર્બન શરીરમાં શું પેદા કરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્સર (Carcinogenic ગુણધર્મ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુ-ચક્રીય = હાનિકારક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "ઇથાઇનનું પાણી સાથે ઉદ્દીપકીય જલીયકરણ કરવા કયા ઉદ્દીપક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1% HgSO4 અને મંદ H2SO4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મર્ક્યુરી (Hg) વગર આલ્કાઈનમાં પાણી ના ઉમેરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "સોડિયમ એસીટેટના વિદ્યુતવિભાજનથી કયો આલ્કેન મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથેન (CH3-CH3).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિથાઇલ ગ્રુપ ડબલ થઈ જાય (1+1=2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "કાર્બન-કાર્બન સિંગલ બોન્ડ અને ડબલ બોન્ડની લંબાઈ કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિંગલ બોન્ડ: 154 pm, ડબલ બોન્ડ: 134 pm.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ વધે તો લંબાઈ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "બેન્ઝીનનું ઓઝોનોલિસિસ કરતા કયો પદાર્થ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લાયોક્સાલ (CHO-CHO) ના ત્રણ અણુઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ઝીન = 3 Glyoxal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "આલ્કેનમાં કયા પ્રકારની સમાનધર્મિતા જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૃંખલા સમઘટકતા (Chain Isomerism).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર કાર્બનની ચેઈન બદલી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "2-બ્રોમોબ્યુટેનની આલ્કોહોલિક KOH સાથેની પ્રક્રિયાથી મુખ્ય નીપજ કઈ મળશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બ્યુટ-2-ઈન (સેત્ઝેફ નિયમ મુજબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વિસ્થાપિત આલ્કીન = વધુ સ્થાયી નીપજ.</p></div>"
+    }
+  ]
+}

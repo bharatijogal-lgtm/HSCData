@@ -2589,3 +2589,371 @@ var Std11_Chemistry_OneWord = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કાર્બનિક રસાયણવિજ્ઞાન - કેટલાક પાયાના સિદ્ધાંતો અને તકનીકો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કયા વૈજ્ઞાનિકે 'જૈવશક્તિ સિદ્ધાંત' (Vital Force Theory) આપ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વીડિશ રસાયણશાસ્ત્રી બર્ઝેલિયસે જૈવશક્તિ સિદ્ધાંત આપ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્ઝેલિયસ = 'બાયો' (જૈવ) શક્તિનો પ્રણેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાર્બનિક સંયોજનનું પ્રયોગશાળામાં સૌપ્રથમ સંશ્લેષણ કોણે કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એફ. વ્હોલર (F. Wohler) નામના વૈજ્ઞાનિકે અકાર્બનિક પદાર્થમાંથી યુરિયા બનાવીને પ્રથમ સંશ્લેષણ કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વ્હોલર' એ 'યુરિયા' બનાવીને જૈવશક્તિના સિદ્ધાંતને હલાવી દીધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કયા અકાર્બનિક પદાર્થને ગરમ કરવાથી યુરિયા મેળવી શકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમોનિયમ સાયનેટ (NH₄CNO) ને ગરમ કરવાથી યુરિયા (NH₂CONH₂) મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયમ સાયનેટ → ગરમી → યુરિયા (NH₂-CO-NH₂).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાર્બન પરમાણુની સંયોજકતા કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન પરમાણુ ચતુઃસંયોજક (Tetravalent) છે, એટલે કે તેની સંયોજકતા 4 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બનના 4 હાથ = સંયોજકતા 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મિથેન (CH₄) અણુનો આકાર કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિથેન અણુનો આકાર સમચતુષ્ફલકીય (Tetrahedral) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: sp³ સંકરણ = સમચતુષ્ફલકીય આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઇથિન (C₂H₄) માં કાર્બનનું સંકરણ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથિનમાં કાર્બનનું સંકરણ sp² હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિબંધ (Double Bond) = sp² સંકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઇથાઇન (C₂H₂) માં કાર્બન પરમાણુઓ વચ્ચે કયા પ્રકારના બંધ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથાઇનમાં બે કાર્બન વચ્ચે એક સિગ્મા (σ) અને બે પાઇ (π) બંધ એમ કુલ ત્રિબંધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિબંધ = 1 σ + 2 π.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બંધ લંબાઈનો સાચો ક્રમ જણાવો: C-C, C=C, C≡C.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C-C (154 pm) > C=C (134 pm) > C≡C (120 pm).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ બંધની સંખ્યા વધે, તેમ લંબાઈ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાર્બન પરમાણુની વિદ્યુતઋણતા પર સંકરણની શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમ 's' લક્ષણનું પ્રમાણ વધે તેમ વિદ્યુતઋણતા વધે છે (sp > sp² > sp³).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ 's' કેરેક્ટર = વધુ ખેંચવાની તાકાત (વિદ્યુતઋણતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "π (પાઇ) બંધ કેવી રીતે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસંકૃત p-કક્ષકોના બાજુએથી (Side-wise) અતિવ્યાપનથી π બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર (Parallel) અતિવ્યાપન = π બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બોન્ડ-લાઈન (બંધ-રેખા) સૂત્રમાં છેડા પર રહેલા બિંદુઓ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેડા પર રહેલા બિંદુઓ મિથાઈલ (-CH₃) સમૂહ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઇનનો છેડો એટલે CH₃.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિષમચક્રીય (Heterocyclic) સંયોજનનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્યુરાન, થાયોફીન અથવા પિરિડીન એ વિષમચક્રીય સંયોજનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્રમાં કાર્બન સિવાયનો બીજો 'પરમાણુ' (O, S, N) હોય તેને વિષમચક્રીય કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "એલિસાઇક્લિક સંયોજનો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ચક્રીય સંયોજનોના ગુણધર્મો એલિફેટિક સંયોજનો જેવા હોય તેને એલિસાઇક્લિક સંયોજનો કહે છે (દા.ત. સાયક્લોપ્રોપેન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એલિફેટિક + સાયક્લિક = એલિસાઇક્લિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ક્રિયાશીલ સમૂહ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અણુમાં રહેલો પરમાણુ કે પરમાણુઓનો સમૂહ જે સંયોજનના લાક્ષણિક રાસાયણિક ગુણધર્મો માટે જવાબદાર હોય તેને ક્રિયાશીલ સમૂહ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિયાશીલ સમૂહ = સંયોજનનું 'આઇડેન્ટિટી કાર્ડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સજાતીય શ્રેણી (Homologous series) માં બે ક્રમિક સભ્યો વચ્ચે કયા જૂથનો તફાવત હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે ક્રમિક સભ્યો વચ્ચે -CH₂- (મિથિલીન) જૂથનો તફાવત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેપ = CH₂ (ભાર = 14 u).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "IUPAC નું પૂરું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> International Union of Pure and Applied Chemistry.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ અને વ્યાવહારિક રસાયણ વિજ્ઞાનનું આંતરરાષ્ટ્રીય સંગઠન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "CH₃-CH₂-CH(CH₃)-CH₃ નું IUPAC નામ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2-મિથાઇલબ્યુટેન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબી શૃંખલા 4 કાર્બનની + 2 નંબરે મિથાઇલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આલ્ડિહાઇડ શ્રેણીનો પ્રથમ સભ્ય કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિથેનાલ (HCHO), જેને ફોર્માલ્ડિહાઇડ પણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કાર્બન + CHO = મિથેનાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કીટોન માટે કયો પ્રત્યય (Suffix) વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કીટોન માટે '-ઓન' (-one) પ્રત્યય વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કીટોન = ઓન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાર્બોક્સિલિક એસિડનો ક્રિયાશીલ સમૂહ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -COOH સમૂહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ એટલે COOH 'કુહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઈથરનું સામાન્ય સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> R-O-R', જ્યાં R અને R' આલ્કાઈલ સમૂહો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજનની બે બાજુ આલ્કાઈલ = ઈથર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સૌથી ઓછી અગ્રતા ધરાવતો ક્રિયાશીલ સમૂહ કયો છે? (આપેલ પૈકી: -COOH, -OH, -CHO)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -OH (આલ્કોહોલ) સમૂહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્રતા ક્રમ: COOH > CHO > OH.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમઘટકતા (Isomerism) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંયોજનોના આણ્વીય સૂત્રો સમાન હોય પરંતુ બંધારણીય સૂત્રો અથવા અવકાશીય ગોઠવણી અલગ હોય તેને સમઘટકો કહે છે અને આ ઘટનાને સમઘટકતા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સેમ' ફોર્મ્યુલા + 'ડિફરન્ટ' સ્ટ્રક્ચર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સ્થાન સમઘટકતા (Position Isomerism) નું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોપેન-1-ઓલ અને પ્રોપેન-2-ઓલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઇન ચેઇન સેમ, ફંક્શનલ ગ્રુપનું 'એડ્રેસ' (સ્થાન) અલગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મેટામેરિઝમ (Metamerism) કયા પ્રકારના સંયોજનોમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહુસંયોજક ક્રિયાશીલ સમૂહ (જેમ કે -O-, -S-, -NH-) ની બંને બાજુ આલ્કાઈલ સમૂહની વહેંચણી અલગ હોય ત્યારે મેટામેરિઝમ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈથર અને કીટોનનો 'ડાબે-જમણે' નો ખેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ચાલરૂપકતા (Tautomerism) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ એક વિશિષ્ટ પ્રકારની સમઘટકતા છે જેમાં હાઇડ્રોજન પરમાણુનું સ્થળાંતર થવાથી ગતિશીલ સંતુલન સ્થપાય છે (દા.ત. કીટો-ઈનોલ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H-પરમાણુનું ડાન્સ (સ્થળાંતર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ભૌમિતિક સમઘટકતાના બે પ્રકારો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિસ (cis) અને ટ્રાન્સ (trans) સમઘટકો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમ સાઈડ = સિસ, ઓપોઝિટ સાઈડ = ટ્રાન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિષમ વિભાજન (Heterolytic fission) થી શું ઉત્પન્ન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિષમ વિભાજનથી કાર્બોકેટાયન અને કાર્બેનાયન (ધન અને ઋણ આયનો) ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષમ = વિષમ વહેંચણી = આયનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મુક્ત મૂલક (Free radical) કેવી રીતે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહસંયોજક બંધના સમવિભાજન (Homolytic fission) થી મુક્ત મૂલક બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખી વહેંચણી = એક-એક ઇલેક્ટ્રોન વાળા મુક્ત મૂલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઇલેક્ટ્રોન અનુરાગી (Electrophile) પ્રક્રિયક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયક ઇલેક્ટ્રોન સ્વીકારવાની વૃત્તિ ધરાવે છે (ઇલેક્ટ્રોન ઉણપ ધરાવતા) તેને ઇલેક્ટ્રોન અનુરાગી કહે છે (દા.ત. H⁺, NO₂⁺, BF₃).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન પ્રેમી = ધન આયન અથવા લુઈસ એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કેન્દ્રાનુરાગી (Nucleophile) પ્રક્રિયકનું એક તટસ્થ ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી (H₂O) અથવા એમોનિયા (NH₃) તટસ્થ કેન્દ્રાનુરાગી છે કારણ કે તેમની પાસે અબંધકારક ઇલેક્ટ્રોન યુગ્મ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોન પેર (Lone Pair) ધરાવતા તટસ્થ અણુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પ્રેરક અસર (Inductive Effect) કેવા પ્રકારના બંધ દ્વારા પ્રસેરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રેરક અસર ફક્ત સિગ્મા (σ) બંધ દ્વારા જ પ્રસેરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેરક અસર = સિગ્મા બંધની સાંકળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કયા આલ્કાઈલ સમૂહની +I અસર સૌથી વધુ હોય છે? (CH₃-, CH₃CH₂-, (CH₃)₂CH-, (CH₃)₃C-)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તૃતીયક બ્યુટાઈલ સમૂહ (CH₃)₃C- ની +I અસર સૌથી વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ કાર્બનની સંખ્યા વધે, તેમ +I અસર વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ઇલેક્ટ્રોમેરિક અસર (E) કેવી અસર છે? (કાયમી કે સામાયિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોમેરિક અસર એ સામાયિક (Temporary) અસર છે, જે માત્ર પ્રક્રિયકની હાજરીમાં જ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રક્રિયક આવે તો અસર દેખાય, જાય તો ગાયબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સંસ્પંદન (Resonance) માટેની મુખ્ય શરત કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્પંદન માટે પરમાણુઓના સ્થાન સમાન હોવા જોઈએ, માત્ર ઇલેક્ટ્રોનની ગોઠવણી જ અલગ હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણુ ફિક્સ, ઇલેક્ટ્રોન મિક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "અતિસંયુગ્મન (Hyperconjugation) ને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેને 'બંધરહિત સંસ્પંદન' (No-bond resonance) અથવા બેકર-નાથન અસર કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: No Bond = Hyperconjugation.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કાર્બોકેટાયનની સ્થિરતાનો ક્રમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3° > 2° > 1° > CH₃⁺.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ આલ્કાઈલ = વધુ સ્થિરતા (+I અને Hyperconjugation ને લીધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નિસ્યંદન (Distillation) પદ્ધતિનો ઉપયોગ ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે પ્રવાહીઓના ઉત્કલનબિંદુ વચ્ચે પૂરતો તફાવત (સામાન્ય રીતે 25K થી વધુ) હોય ત્યારે તેમને અલગ કરવા માટે નિસ્યંદન વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્કલનબિંદુનો મોટો તફાવત = સાદું નિસ્યંદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગીય નિસ્યંદન (Fractional Distillation) ક્યારે વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પ્રવાહીઓના ઉત્કલનબિંદુઓ વચ્ચેનો તફાવત ઘણો ઓછો હોય ત્યારે વિભાગીય નિસ્યંદન વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નજીકના ઉત્કલનબિંદુ = વિભાગીય સ્તંભ (Fractionating column).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વરાળ નિસ્યંદન (Steam Distillation) નો ઉપયોગ કયા પદાર્થો માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થો વરાળમાં બાષ્પશીલ હોય અને પાણીમાં અદ્રાવ્ય હોય તેમને શુદ્ધ કરવા માટે (દા.ત. એનિલીન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં અદ્રાવ્ય + વરાળમાં ઉડી જાય = વરાળ નિસ્યંદન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ક્રોમેટોગ્રાફી (Chromatography) શબ્દનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રીક શબ્દ 'Chroma' એટલે રંગ અને 'Graphein' એટલે લખવું. એટલે કે રંગોનું અલગીકરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલર રાઇટિંગ = ક્રોમેટોગ્રાફી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પેપર ક્રોમેટોગ્રાફી એ કયા પ્રકારની ક્રોમેટોગ્રાફી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેપર ક્રોમેટોગ્રાફી એ વિભાજન (Partition) ક્રોમેટોગ્રાફી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેપર = વિભાજન (વહેંચણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "Rբ (Retardation Factor) નું મૂલ્ય હંમેશા કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Rբ નું મૂલ્ય હંમેશા 1 કરતા ઓછું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાર્થનું અંતર / દ્રાવકનું અંતર (હંમેશા < 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કાર્બનિક સંયોજનમાં નાઇટ્રોજનની કસોટી માટે કયો ટેસ્ટ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાસાઇન કસોટી (Lassaigne's test).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N, S, અને હેલોજન માટે સોડિયમ પીગળણ (લાસાઇન) કસોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "લાસાઇન કસોટીમાં નાઇટ્રોજનની હાજરીમાં કયો રંગ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રુશિયન બ્લુ (ઘેરો વાદળી) રંગ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N = બ્લુ રંગ (Fe₄[Fe(CN)₆]₃).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "કાર્બનિક સંયોજનમાં સલ્ફરની હાજરી જાણવા કયો પ્રક્રિયક વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોડિયમ નાઇટ્રોપ્રુસાઇડ દ્રાવણ વાપરતા જાંબલી રંગ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફર + નાઇટ્રોપ્રુસાઇડ = જાંબલી (Violet).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "ડ્યુમા પદ્ધતિ (Dumas Method) નો ઉપયોગ શેના માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાઇટ્રોજનના જથ્થાત્મક માપન (Quantitative estimation) માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડ્યુમા = N₂ વાયુ માપવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "જેલ્ડાલ પદ્ધતિ (Kjeldahl's method) કયા સંયોજનો માટે વપરાતી નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાઇટ્રો, એઝો અને ચક્રમાં રહેલા નાઇટ્રોજન (દા.ત. પિરિડીન) ધરાવતા સંયોજનો માટે જેલ્ડાલ પદ્ધતિ વપરાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેલ્ડાલ = નાઇટ્રો અને રિંગવાળા નાઇટ્રોજનને ન પકડી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "કેરિયસ પદ્ધતિ (Carius method) નો ઉપયોગ શેના માપન માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેલોજન અને સલ્ફરના જથ્થાત્મક માપન માટે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરિયસ = હેલોજન (X).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "કાર્બન અને હાઇડ્રોજનના જથ્થાત્મક માપન માટે કયો પદાર્થ બળતણ તરીકે વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોપર (II) ઓક્સાઈડ (CuO).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CuO = ઓક્સિડેશન એજન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "લુઈસ એસિડ એ કયા પ્રકારના પ્રક્રિયકો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લુઈસ એસિડ એ ઇલેક્ટ્રોન અનુરાગી (Electrophiles) પ્રક્રિયકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ = ઇલેક્ટ્રોન સ્વીકારનાર = ઇલેક્ટ્રોન પ્રેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "કાર્બેનાયન (Carbanion) પર કયો વીજભાર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બેનાયન પર ઋણ વીજભાર (-) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન + એનાયન = કાર્બેનાયન (ઋણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિનાઇલ સમૂહનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CH₂=CH- સમૂહને વિનાઇલ સમૂહ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ બોન્ડ વાળો ડાયરેક્ટ કાર્બન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "બેન્ઝાઇલ સમૂહ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીન રિંગ સાથે જોડાયેલ CH₂- સમૂહ (C₆H₅CH₂-).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ઝીન + CH₂ = બેન્ઝાઇલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "કાર્બનિક એસિડની પ્રબળતા નક્કી કરવા કઈ અસર કામ લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -I (ઋણ પ્રેરક અસર) એસિડિક પ્રબળતામાં વધારો કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -I અસર ∝ એસિડિકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "એરોમેટિક સંયોજનો માટે કયો નિયમ પાયાનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હ્યુકેલનો નિયમ (Huckel's Rule): (4n + 2) π ઇલેક્ટ્રોન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરોમેટિક = પ્લેનર + સાયક્લિક + (4n+2)π.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "ઉર્ધ્વપાતન (Sublimation) ક્યારે વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ઘન પદાર્થ સીધો જ વાયુમાં રૂપાંતર પામતો હોય (દા.ત. કપૂર, નેપ્થલીન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન → વાયુ (પ્રવાહી બન્યા વગર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "નીચા દબાણે નિસ્યંદન (Distillation under reduced pressure) કોના માટે વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાર્થો તેમના ઉત્કલનબિંદુએ વિઘટન પામતા હોય તેમના માટે (દા.ત. ગ્લિસરોલ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીટથી તૂટી જાય તો પ્રેશર ઘટાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "અધિશોષણ ક્રોમેટોગ્રાફી (Adsorption Chromatography) ના બે પ્રકારો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) કોલમ ક્રોમેટોગ્રાફી અને (2) પાતળા સ્તરની ક્રોમેટોગ્રાફી (TLC).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી પર ચોંટવું = અધિશોષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "નાઇટ્રોજનના માપન માટે જેલ્ડાલ પદ્ધતિમાં કયો એસિડ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાંદ્ર સલ્ફ્યુરિક એસિડ (H₂SO₄).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેલ્ડાલ = H₂SO₄ સાથે ગરમ કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "CH₃-O-CH₃ અને CH₃-CH₂-OH વચ્ચે કયા પ્રકારની સમઘટકતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રિયાશીલ સમૂહ સમઘટકતા (Functional Group Isomerism).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક ઈથર છે, એક આલ્કોહોલ = ફેમિલી બદલાઈ ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "ઇલેક્ટ્રોમેરિક અસરમાં +E અસર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે π ઇલેક્ટ્રોનનું સ્થળાંતર એવા પરમાણુ તરફ થાય જ્યાં પ્રક્રિયક જોડાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન અને પ્રક્રિયક એક જ ઘરે જાય તો +E.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ન્યુક્લિયોફાઇલ (Nucleophile) નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેન્દ્રાનુરાગી (Nucleus loving) - જે ધન વીજભાર તરફ આકર્ષાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુક્લિયો = ન્યુક્લિયસ (+), ફાઇલ = લવર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "કાર્બોકેટાયનનું સંકરણ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બોકેટાયનનું સંકરણ sp² હોય છે અને આકાર સમતલીય ત્રિકોણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C⁺ = 3 બોન્ડ = sp².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "બેન્ઝીનમાં દરેક કાર્બનનું સંકરણ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીનમાં દરેક કાર્બનનું સંકરણ sp² હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ઝીન = એકાંતરે દ્વિબંધ = sp².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "સંઘનિત સૂત્ર (Condensed Formula) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમાં કેટલાક અથવા બધા જ સહસંયોજક બંધ દર્શાવ્યા વગર ટૂંકમાં સૂત્ર લખાય તેને સંઘનિત સૂત્ર કહે છે (દા.ત. CH₃CH₂CH₃).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ છુપાવો, પરમાણુ ભેગા કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "કાર્બનિક સંયોજનોમાં ફોસ્ફરસના માપન માટે કયો પદાર્થ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમોનિયમ ફોસ્ફોમોલિબ્ડેટ (પીળા રંગના અવક્ષેપ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોસ્ફરસ = એમોનિયમ મોલિબ્ડેટ = પીળો રંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "એલિલિક કાર્બન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન-કાર્બન દ્વિબંધ પછીના તરતના sp³ સંકૃત કાર્બનને એલિલિક કાર્બન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C=C—C* (આ C* એલિલિક છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "નિયો-પેન્ટેનનું IUPAC નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2,2-ડાયમિથાઇલપ્રોપેન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લસ (+) જેવો આકાર = નિયો પેન્ટેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "કાર્બનિક સંયોજનોમાં ઓક્સિજનના જથ્થાત્મક માપન માટે કઈ પદ્ધતિ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન્ય રીતે ઓક્સિજનનું પ્રમાણ 100 માંથી અન્ય તત્વોના ટકા બાદ કરીને શોધાય છે, અથવા આયોડિન માપન પદ્ધતિ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન % = 100 - (C+H+N+S+X)%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સમવિભાજનથી કઈ મધ્યવર્તી નીપજ બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુક્ત મૂલક (Free Radicals).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોમોલિટીક = હાફ-હાફ = મુક્ત મૂલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "પિરિડીન (Pyridine) કેવા પ્રકારનું સંયોજન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિરિડીન એ વિષમચક્રીય એરોમેટિક (Heterocyclic Aromatic) સંયોજન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ઝીન જેવું જ પણ એક C ની જગ્યાએ N.</p></div>"
+    }
+  ]
+}

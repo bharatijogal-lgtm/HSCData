@@ -1092,3 +1092,386 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "રાસાયણિક બંધન અને આણ્વીય રચના",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A (વૈજ્ઞાનિક) - વિભાગ B (સિદ્ધાંત/શોધ): \n(1) કોસેલ અને લુઈસ (2) પાઉલિંગ \n(A) આધુનિક સંકરણનો ખ્યાલ (B) રાસાયણિક બંધનનો તર્કબદ્ધ અભિગમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોલ' (Kossel-Lewis) એ બંધનો પાયો નાખ્યો અને 'પાઉલિંગ' એ સંકરણ (Hybridization) ને લોકપ્રિય બનાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A (તત્વ) - વિભાગ B (લુઈસ સંજ્ઞામાં ટપકાંની સંખ્યા): \n(1) Mg (2) N \n(A) 5 (B) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટપકાંની સંખ્યા = બાહ્યતમ કક્ષાના ઇલેક્ટ્રોન. Mg (ગ્રુપ 2) = 2, N (ગ્રુપ 15) = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (અષ્ટકના નિયમનું પાલન/અપવાદ): \n(1) $CH_4$ (2) $PCl_5$ \n(A) વિસ્તૃત અષ્ટક (B) પૂર્ણ અષ્ટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો મધ્યસ્થ પરમાણુ પાસે 8 થી વધુ e- હોય (જેમ કે $PCl_5$ માં 10), તો તે 'વિસ્તૃત અષ્ટક' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (બંધ ક્રમાંક): \n(1) $N_2$ (2) $O_2$ \n(A) 2 (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $N \equiv N$ (ત્રિબંધ = 3), $O = O$ (દ્રિબંધ = 2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (બંધકોણ): \n(1) $CH_4$ (2) $NH_3$ \n(A) 107° (B) 109.5°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અબંધકારક ઇલેક્ટ્રોન યુગ્મ (LP) વધે તો બંધકોણ ઘટે. $NH_3$ માં 1 LP હોવાથી તે 109.5 થી ઘટીને 107 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A (એકમ) - વિભાગ B (ભૌતિક રાશિ): \n(1) ડેબાય (D) (2) કિલોજૂલ/મોલ \n(A) બંધ એન્થાલ્પી (B) દ્વિધ્રુવ ચાકમાત્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડેબાય' એ દ્વિધ્રુવ (Dipole) માટે વપરાય. $1 D = 3.33 \times 10^{-30} Cm$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (ભૌમિતિક આકાર): \n(1) $BeCl_2$ (2) $BF_3$ \n(A) સમતલીય ત્રિકોણ (B) રેખીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $AB_2$ પ્રકાર = રેખીય, $AB_3$ પ્રકાર = ત્રિકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A (સંકરણ) - વિભાગ B (ઉદાહરણ): \n(1) $sp$ (2) $sp^2$ \n(A) $C_2H_4$ (B) $C_2H_2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કાઈન (Triple bond) = sp, આલ્કીન (Double bond) = sp2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A (કક્ષકોનું અતિવ્યાપ્ત) - વિભાગ B (બંધનો પ્રકાર): \n(1) અક્ષીય અતિવ્યાપ્ત (2) બાજુએથી અતિવ્યાપ્ત \n(A) પાઈ ($\pi$) બંધ (B) સિગ્મા ($\sigma$) બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષ (Axis) પર મળે તો 'સિગ્મા', સાઈડ (Side) માંથી મળે તો 'પાઈ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A (બંધ ક્રમાંક) - વિભાગ B (સ્થિરતા): \n(1) ઊંચો બંધ ક્રમાંક (2) શૂન્ય બંધ ક્રમાંક \n(A) અણુ અસ્તિત્વ ધરાવતો નથી (B) વધુ બંધ એન્થાલ્પી (વધુ સ્થિરતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ ક્રમાંક $\propto$ સ્થિરતા. જો BO = 0, તો અણુ શક્ય નથી (દા.ત. $He_2$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A (ચુંબકીય ગુણધર્મ) - વિભાગ B (ઇલેક્ટ્રોન રચના): \n(1) પ્રતિચુંબકીય (2) અનુચુંબકીય \n(A) અયુગ્મિત ઇલેક્ટ્રોન હાજર (B) બધા ઇલેક્ટ્રોન યુગ્મિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી 'અ' - અનુચુંબકીય એટલે અયુગ્મિત (Unpaired).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (હાઈડ્રોજન બંધ) - વિભાગ B (ઉદાહરણ): \n(1) આંતર-આણ્વીય (Inter) (2) અંત:આણ્વીય (Intra) \n(A) ઓર્થો-નાઈટ્રોફીનોલ (B) $HF$ અથવા પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંત:' એટલે ઘરની અંદર (એક જ અણુમાં), 'આંતર' એટલે બે અલગ અણુઓ વચ્ચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (દ્વિધ્રુવ ચાકમાત્રા $\mu$): \n(1) $CO_2$ (2) $H_2O$ \n(A) $\mu \neq 0$ (B) $\mu = 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમિત (Symmetric) અણુઓ જેવા કે $CO_2$ (રેખીય) ની ચાકમાત્રા શૂન્ય થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A (બંધકોણ) - વિભાગ B (અણુ): \n(1) 120° (2) 180° \n(A) $BeCl_2$ (B) $BCl_3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખીય = 180°, સમતલીય ત્રિકોણ = 120°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A (ઔપચારિક ભાર - Formal Charge) - વિભાગ B (ઓઝોન $O_3$ માં): \n(1) મધ્યસ્થ ઓક્સિજન (2) સિંગલ બોન્ડવાળો ઓક્સિજન \n(A) -1 (B) +1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $FC = V - L - \frac{1}{2}S$. મધ્યસ્થ O પર +1 અને એકલ બંધવાળા O પર -1 ભાર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A (અણુનો આકાર) - વિભાગ B (VSEPR પ્રકાર): \n(1) ચીંચવો (Seesaw) (2) T-આકાર \n(A) $AB_3E_2$ (B) $AB_4E$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $SF_4$ (4 Bond, 1 LP) = Seesaw. $ClF_3$ (3 Bond, 2 LP) = T-shape.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (આયનીય બંધ) - વિભાગ B (પરિબળ): \n(1) લેટિસ એન્થાલ્પી (2) આયનીકરણ એન્થાલ્પી \n(A) ઓછી હોવી જોઈએ (B) વધુ હોવી જોઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયનીય બંધ માટે ઈલેક્ટ્રોન જલ્દી છૂટો પડવો જોઈએ (ઓછી IE) અને સ્ફટિક મજબૂત બનવો જોઈએ (વધારે Lattice Energy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A (કક્ષક) - વિભાગ B (સંકૃત કક્ષકોની સંખ્યા): \n(1) $sp^3$ (2) $sp^3d^2$ \n(A) 6 (B) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતાંકનો સરવાળો કરો. $1s + 3p = 4$. $1s + 3p + 2d = 6$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (ચુંબકીય પ્રકાર): \n(1) $O_2$ (2) $N_2$ \n(A) પ્રતિચુંબકીય (B) અનુચુંબકીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MOT મુજબ $O_2$ માં બે અયુગ્મિત ઈલેક્ટ્રોન $\pi^* 2p_x$ અને $\pi^* 2p_y$ માં હોય છે, તેથી તે 'અનુચુંબકીય' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A (બંધ લંબાઈ) - વિભાગ B (સંબંધ): \n(1) બંધ ક્રમાંક વધે (2) પરમાણુનું કદ વધે \n(A) બંધ લંબાઈ વધે (B) બંધ લંબાઈ ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bond Order $\propto \frac{1}{\text{Bond Length}}$. જેટલા બંધ વધુ, તેટલા પરમાણુ નજીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A (સંયોજન) - વિભાગ B (બંધનો પ્રકાર): \n(1) $NaCl$ (2) $HCl$ \n(A) ધ્રુવીય સહસંયોજક (B) આયનીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ + અધાતુ = આયનીય. અધાતુ + અધાતુ (અલગ EN) = ધ્રુવીય સહસંયોજક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A (VSEPR સિદ્ધાંત) - વિભાગ B (અપાકર્ષણ ક્રમ): \n(1) સૌથી વધુ અપાકર્ષણ (2) સૌથી ઓછું અપાકર્ષણ \n(A) BP - BP (B) LP - LP",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LP (Lone Pair) નવરા હોય એટલે વધારે જગ્યા રોકે અને વધારે ધબધબાટી (અપાકર્ષણ) કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (સંકરણ): \n(1) $PCl_5$ (2) $SF_6$ \n(A) $sp^3d^2$ (B) $sp^3d$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 બંધ = $sp^3d$. 6 બંધ = $sp^3d^2$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A (બંધ ક્રમાંક) - વિભાગ B (અણુ/આયન): \n(1) 2.5 (2) 1.5 \n(A) $O_2^-$ (B) $N_2^+$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 e- હોય તો BO=3. દરેક એક e- વધે કે ઘટે ત્યારે BO 0.5 ઘટે. $N_2^+$ (13e-) = 2.5. $O_2^-$ (17e-) = 1.5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A (રેઝોનન્સ - સંસ્પંદન) - વિભાગ B (ઉદાહરણ): \n(1) ઓઝોન ($O_3$) (2) કાર્બોનેટ આયન ($CO_3^{2-}$) \n(A) 3 સંસ્પંદન રચનાઓ (B) 2 સંસ્પંદન રચનાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા સમાન ઓક્સિજન પરમાણુ સાથે દ્વિબંધ ફરી શકે એટલી રચનાઓ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (કુલ બંધકારક ઈલેક્ટ્રોન યુગ્મ): \n(1) $H_2O$ (2) $CH_4$ \n(A) 4 (B) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $H_2O$ માં બે H સાથે બે બંધ (2 BP). $CH_4$ માં ચાર H સાથે ચાર બંધ (4 BP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A (આણ્વીય કક્ષક) - વિભાગ B (ઉર્જાનો ક્રમ $Z \le 7$ માટે): \n(1) $\sigma 2p_z$ (2) $\pi 2p_x / \pi 2p_y$ \n(A) ઓછી ઉર્જા (B) વધુ ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $Li_2$ થી $N_2$ સુધી $\pi 2p$ કક્ષકો $\sigma 2p_z$ કરતા નીચે (ઓછી ઉર્જા) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A (આકાર) - વિભાગ B (સંકરણ): \n(1) અષ્ટફલકીય (2) ત્રિકોણીય દ્વિપિરામિડલ \n(A) $sp^3d$ (B) $sp^3d^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અષ્ટફલકીય = 6 ખૂણા (6 ઓર્બિટલ), ત્રિ-દ્વિપિરામિડલ = 5 ખૂણા (5 ઓર્બિટલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A (બંધ એન્થાલ્પી) - વિભાગ B (અણુ): \n(1) 946.0 kJ/mol (2) 435.8 kJ/mol \n(A) $H_2$ (B) $N_2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિબંધ તોડવા માટે વધુ ઉર્જા જોઈએ ($N \equiv N$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A (H-બંધની પ્રબળતા) - વિભાગ B (પરમાણુ): \n(1) સૌથી પ્રબળ H-બંધ (2) નબળો H-બંધ \n(A) $N$ સાથે (B) $F$ સાથે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'FON' યાદ રાખો. F સૌથી વધુ વિદ્યુતઋણ હોવાથી તેનો H-બંધ સૌથી મજબૂત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A (ઇલેક્ટ્રોન યુગ્મની ગોઠવણી) - વિભાગ B (અણુનો પ્રકાર): \n(1) સમચતુષ્ફલકીય (2) સમતલીય ત્રિકોણ \n(A) $AB_3$ (B) $AB_4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $AB_4$ એટલે 4 દિશા = Tetrahedral. $AB_3$ એટલે 3 દિશા = Trigonal Planar.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (અબંધકારક ઈલેક્ટ્રોન યુગ્મ (LP)): \n(1) $XeF_2$ (2) $XeF_4$ \n(A) 2 (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Xe પાસે 8 e- હોય. $XeF_2$ માં 2 બંધ તો $(8-2)/2 = 3 LP$. $XeF_4$ માં 4 બંધ તો $(8-4)/2 = 2 LP$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A (દ્વિધ્રુવ ચાકમાત્રાની સરખામણી) - વિભાગ B (કારણ): \n(1) $NH_3 > NF_3$ (2) $BF_3 = 0$ \n(A) સંમિત રચના (B) અબંધકારક યુગ્મ અને બંધની ચાકમાત્રા એક જ દિશામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $NH_3$ માં બધું એક જ તરફ ખેંચાય છે (Resultant), જ્યારે $NF_3$ માં F ઉલ્ટી દિશામાં ખેંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A (બંધનો પ્રકાર) - વિભાગ B (લાક્ષણિકતા): \n(1) સિગ્મા બંધ (2) પાઈ બંધ \n(A) મુક્ત પરિભ્રમણ શક્ય નથી (B) મુક્ત પરિભ્રમણ શક્ય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલ બંધ ($\sigma$) ધરી પર હોય એટલે ફરી શકે, પણ પાઈ ($\pi$) સાઈડમાં હોવાથી તે અણુને જકડી રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A (MOT) - વિભાગ B (બંધકારક આણ્વીય કક્ષક): \n(1) રચનાત્મક વ્યતિકરણ (Addition) (2) વિનાશક વ્યતિકરણ (Subtraction) \n(A) પ્રતિકારક આણ્વીય કક્ષક (ABMO) (B) બંધકારક આણ્વીય કક્ષક (BMO)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્લસ' (+) એટલે 'પ્રેમ' (બંધન) અને 'માઈનસ' (-) એટલે 'દુશ્મની' (પ્રતિકાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (બંધ ક્રમાંક): \n(1) $O_2^{2+}$ (2) $O_2^{2-}$ \n(A) 1 (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $O_2^{2+}$ (14e-) $N_2$ જેવો છે (BO=3). $O_2^{2-}$ (18e-) $F_2$ જેવો છે (BO=1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A (VSEPR આકાર) - વિભાગ B (ઉદાહરણ): \n(1) વળેલું (Bent) (2) પિરામિડલ \n(A) $NH_3$ (B) $SO_2$ અથવા $H_2O$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 Bond + 1 LP = Bent. 3 Bond + 1 LP = Pyramidal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A (સંયોજન) - વિભાગ B (બાહ્ય કક્ષામાં ઇલેક્ટ્રોન અપૂર્ણ અષ્ટક): \n(1) $LiCl$ (2) $BeCl_2$ \n(A) 4 ઇલેક્ટ્રોન (B) 2 ઇલેક્ટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $Li$ (1 બંધ = 2 e-), $Be$ (2 બંધ = 4 e-). અષ્ટકથી ઓછા છે એટલે અપૂર્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A (પરમાણુ) - વિભાગ B (વિદ્યુતઋણતા): \n(1) સૌથી વધુ (2) સૌથી ઓછી (હેલોજનમાં) \n(A) $I$ (B) $F$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન (F) એ આખા આવર્ત કોષ્ટકનો 'ડોન' છે (સૌથી વધુ EN).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A (કક્ષક મિશ્રણ) - વિભાગ B (સંકરણનું નામ): \n(1) એક s + ત્રણ p (2) એક s + બે p \n(A) $sp^2$ (B) $sp^3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા અક્ષર, એટલી કક્ષક! $s+p+p = sp^2$ (3 કક્ષક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (સિગ્મા અને પાઈ બંધ): \n(1) $C_2H_2$ (2) $C_2H_4$ \n(A) $5\sigma, 1\pi$ (B) $3\sigma, 2\pi$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $H-C \equiv C-H$ માં 3 સીંગલ (3$\sigma$) અને 1 ટ્રીપલમાં 2 પાઈ ($2\pi$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A (આયન) - વિભાગ B (આકાર): \n(1) $NH_4^+$ (2) $CO_3^{2-}$ \n(A) સમતલીય ત્રિકોણ (B) સમચતુષ્ફલકીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $NH_4^+$ એ $CH_4$ જેવો (Isostructural) છે. $CO_3^{2-}$ માં $sp^2$ સંકરણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A (બંધ લંબાઈનો ક્રમ) - વિભાગ B (સાચો ક્રમ): \n(1) બંધ ક્રમાંક વધતા (2) હેલોજન $H-X$ માં \n(A) $HF < HCl < HBr$ (B) $C \equiv C < C=C < C-C$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ વધે તો લંબાઈ વધે (I > Br > Cl > F). બંધ વધે તો લંબાઈ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A (તત્વ) - વિભાગ B (ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી): \n(1) સૌથી વધુ ઋણ (2) શૂન્યની નજીક (ધન) \n(A) નિષ્ક્રિય વાયુઓ (B) હેલોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલોજનને e- ની ભૂખ છે (વધુ ઋણ), નોબેલ ગેસ ધરાયેલા છે (ધન/શૂન્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (મધ્યસ્થ પરમાણુનું સંકરણ): \n(1) $H_2O$ (2) $NH_3$ \n(A) $sp^3$ (B) $sp^3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A/B, (2) - A/B (બંનેમાં સમાન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $H_2O$ અને $NH_3$ બંનેમાં $sp^3$ જ હોય, બસ LP (અબંધકારક) ની સંખ્યા અલગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A (બંધકોણ) - વિભાગ B (અણુ): \n(1) 104.5° (2) 107° \n(A) $NH_3$ (B) $H_2O$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં 2 LP હોવાથી ખૂણો વધુ દબાય (104.5), એમોનિયામાં 1 LP હોવાથી ઓછો દબાય (107).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A (કાર્બન-કાર્બન બંધ લંબાઈ) - વિભાગ B (મૂલ્ય pm માં): \n(1) ઈથેન (Single) (2) બેન્ઝીન (Resonance) \n(A) 139 pm (B) 154 pm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેન્ઝીનમાં બંધ સિંગલ અને ડબલની વચ્ચેનો (1.5) હોવાથી લંબાઈ પણ વચ્ચેની હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A (આણ્વીય કક્ષકવાદ) - વિભાગ B (કક્ષકની સંજ્ઞા): \n(1) સિગ્મા બંધકારક (2) સિગ્મા પ્રતિકારક \n(A) $\sigma^*$ (B) $\sigma$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્ટાર' (*) એટલે અશાંતિ (પ્રતિકાર/Antibonding).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (કુલ ઇલેક્ટ્રોન સંખ્યા): \n(1) $O_2$ (2) $N_2$ \n(A) 14 (B) 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O=8 (8x2=16), N=7 (7x2=14).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A (બળનો પ્રકાર) - વિભાગ B (ઉદાહરણ): \n(1) હાઈડ્રોજન બંધ (2) આયનીય બંધ \n(A) $KBr$ (B) $NH_3$ ના અણુઓ વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H જ્યારે F, O, N સાથે જોડાય ત્યારે H-બંધ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (સંકરણ): \n(1) $CH_4$ (2) $BeF_2$ \n(A) $sp$ (B) $sp^3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 બંધ = $sp^3$. 2 બંધ = $sp$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A (આણ્વીય કક્ષકની ઉર્જા) - વિભાગ B ($O_2, F_2$ માટે): \n(1) સૌથી ઓછી ઉર્જા (2) સૌથી વધુ ઉર્જા (ભરાયેલી કક્ષકોમાં) \n(A) $\pi^* 2p_x$ (B) $\sigma 1s$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જાનો ક્રમ હંમેશા $\sigma 1s$ થી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A (ફાજાનનો નિયમ) - વિભાગ B (સહસંયોજક લક્ષણ વધે જો...): \n(1) ધન આયનનું કદ (2) ઋણ આયનનું કદ \n(A) મોટું હોય (B) નાનું હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનો ધન, મોટો ઋણ' - સહસંયોજક લક્ષણ વધારે લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (બંધ ક્રમાંક): \n(1) $H_2$ (2) $Li_2$ \n(A) 1 (B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B (બંને 1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેના સંયોજકતા કોષમાં 2 ઇલેક્ટ્રોન હોય છે, તેથી BO=1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A (મધ્યસ્થ પરમાણુ) - વિભાગ B (સંયોજકતા ઇલેક્ટ્રોન): \n(1) $S$ in $SF_6$ (2) $P$ in $PCl_5$ \n(A) 5 (B) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફર (ગ્રુપ 16) = 6, ફોસ્ફરસ (ગ્રુપ 15) = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A (અબંધકારક e- યુગ્મની સંખ્યા) - વિભાગ B (અણુ): \n(1) શૂન્ય (2) બે \n(A) $H_2O$ (B) $CH_4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $CH_4$ માં બધા e- બંધમાં છે. $H_2O$ માં O પાસે 2 LP વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A (વિષમ આણ્વીય અણુ) - વિભાગ B (દ્વિધ્રુવ ચાકમાત્રા): \n(1) $HF$ (2) $HI$ \n(A) ઓછી (B) વધુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યુતઋણતાનો તફાવત વધુ તો $\mu$ વધુ. F > I.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A (કક્ષકો) - વિભાગ B (બંધ પ્રકાર): \n(1) $s + s$ (2) $s + p_x$ \n(A) સિગ્મા બંધ (B) સિગ્મા બંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-કક્ષક હંમેશા સિગ્મા ($\sigma$) બંધ જ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (આકાર): \n(1) $ICl_2^-$ (2) $ICl_4^-$ \n(A) સમતલીય ચોરસ (B) રેખીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $ICl_2^-$ ($sp^3d$, 3 LP) = રેખીય. $ICl_4^-$ ($sp^3d^2$, 2 LP) = સમતલીય ચોરસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A (MOT પદ) - વિભાગ B (વ્યાખ્યા): \n(1) $N_b > N_a$ (2) $N_b < N_a$ \n(A) અસ્થાયી અણુ (B) સ્થાયી અણુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ બનાવનારા ($N_b$) વધુ હોય તો જ અણુ ટકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (બંધ ક્રમાંક): \n(1) $CO$ (2) $NO$ \n(A) 2.5 (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $CO$ (14e-) = 3. $NO$ (15e-) = 2.5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A (સંયોજન) - વિભાગ B (સંકરણ): \n(1) $C_2H_6$ (2) $C_2H_4$ \n(A) $sp^2$ (B) $sp^3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ બોન્ડ = $sp^3$. ડબલ બોન્ડ = $sp^2$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A (ઉર્જા) - વિભાગ B (પ્રક્રિયા): \n(1) આયનીકરણ એન્થાલ્પી (2) ઈલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી \n(A) ઉર્જા મુક્ત થાય (સામાન્ય રીતે) (B) ઉર્જા આપવી પડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: e- કાઢવા માટે મહેનત (ઉર્જા) કરવી પડે, e- અંદર આવે ત્યારે ઉર્જા બહાર ફેંકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (બંધકોણ): \n(1) $PH_3$ (2) $AsH_3$ \n(A) 91.8° (B) 93.6°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ સમૂહમાં નીચે જઈએ તેમ મધ્યસ્થ પરમાણુની EN ઘટતા બંધકોણ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A (આકાર) - વિભાગ B (મધ્યસ્થ પરમાણુ e- યુગ્મ): \n(1) રેખીય (2) ટ્રેનરલ (V-shape) \n(A) $sp^3$ (with 2 LP) (B) $sp$ (with 0 LP)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $BeCl_2$ (sp) સીધું છે. $H_2O$ (sp3) માં 2 LP ના ધક્કાથી તે વળી ગયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A (પ્રોટોન પ્રોપર્ટી) - વિભાગ B (અણુ): \n(1) $He_2$ (2) $H_2$ \n(A) અસ્તિત્વ ધરાવે (B) અસ્તિત્વ ધરાવતો નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $He_2$ નો બંધ ક્રમાંક $(2-2)/2 = 0$ હોવાથી તે શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A (અક્ષીય બંધ - Axial) - વિભાગ B ($PCl_5$ માં): \n(1) અક્ષીય બંધ (2) નિરક્ષીય બંધ (Equatorial) \n(A) ટૂંકા અને પ્રબળ (B) લાંબા અને નબળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અક્ષીય બંધો પર અપાકર્ષણ વધુ હોવાથી તે ખેંચાઈને લાંબા થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A (સંસ્કૃતમાં અર્થ) - વિભાગ B (શબ્દ): \n(1) દ્વિધ્રુવ (2) સહસંયોજક \n(A) Covalent (B) Dipole",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ = 2, ધ્રુવ = Poles. સહ = સાથે, સંયોજક = જોડાવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A (પરમાણુ ક્રમાંક) - વિભાગ B (MOT શ્રેણી): \n(1) $Z \le 14$ (2) $Z > 14$ \n(A) $\sigma 2p_z$ પહેલા (B) $\pi 2p_x, \pi 2p_y$ પહેલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 થી ઓછામાં $\pi$ (પાઈ) પહેલા આવે, 14 થી વધુમાં $\sigma$ (સિગ્મા) પહેલા આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A (ભૌતિક સ્થિતિ) - વિભાગ B (H-બંધને કારણે): \n(1) પાણી (2) હાઈડ્રોજન સલ્ફાઈડ \n(A) વાયુ ($H_2S$) (B) પ્રવાહી ($H_2O$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીમાં મજબૂત H-બંધ હોવાથી અણુઓ નજીક આવે અને પ્રવાહી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A (બંધ ક્રમાંક - અપૂર્ણાંક) - વિભાગ B (ઉદાહરણ): \n(1) 0.5 (2) 1.5 \n(A) $O_2^-$ (B) $H_2^+$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $H_2^+$ માં માત્ર 1 જ e- છે. $BO = (1-0)/2 = 0.5$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (પાઈ-બંધની સંખ્યા): \n(1) $CO_2$ (2) $SO_3$ \n(A) 3 (B) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $O=C=O$ (2 ડબલ બોન્ડ = 2 $\pi$). $SO_3$ માં 3 ડબલ બોન્ડ = 3 $\pi$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "વિભાગ A (પરમાણુ) - વિભાગ B (સહસંયોજક ત્રિજ્યા): \n(1) ક્લોરિન ($Cl_2$) (2) સોડિયમ ($Na$) \n(A) ધાત્વિય ત્રિજ્યા (B) સહસંયોજક ત્રિજ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અધાતુઓ સહસંયોજક બંધ બનાવે, ધાતુઓ સ્ફટિકમાં ધાત્વિય બંધ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "વિભાગ A (અણુ) - વિભાગ B (બંધ ક્રમાંક શૂન્ય): \n(1) $Be_2$ (2) $Ne_2$ \n(A) 0 (B) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષ્ક્રિય વાયુ અને જેની બધી આણ્વીય કક્ષકો (BMO/ABMO) પૂર્ણ ભરાયેલી હોય તેનો BO શૂન્ય થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "વિભાગ A (તત્વ) - વિભાગ B (વધુમાં વધુ બંધ બનાવવાની ક્ષમતા): \n(1) $N$ (2) $P$ \n(A) 5 કે 6 (B) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન પાસે 'd-કક્ષક' નથી એટલે તે 4 થી વધુ બંધ ન બનાવી શકે, ફોસ્ફરસ બનાવી શકે.</p></div>"
+    }
+  ]
+}

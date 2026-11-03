@@ -724,3 +724,371 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "તત્ત્વોનું વર્ગીકરણ અને ગુણધર્મોમાં આવર્તિતા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: વૈજ્ઞાનિક | વિભાગ B: તેમનું પ્રદાન <br> (1) ડોબરેનર (i) અષ્ટકનો નિયમ <br> (2) ન્યુલેન્ડ્સ (ii) ત્રિપુટીનો નિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડોબરેનર = 3 (ત્રિપુટી), ન્યુલેન્ડ્સ = 8 (અષ્ટક - સંગીતના સૂર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: વૈજ્ઞાનિક | વિભાગ B: પદ્ધતિ <br> (1) મેન્ડેલીફ (i) પરમાણુ ક્રમાંક આધારિત <br> (2) મોસલે (ii) પરમાણુ ભાર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનું (Mendeleev) = ભાર (Mass), નવું (Moseley) = ક્રમાંક (Number).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: તત્ત્વનો પરમાણુ ક્રમાંક | વિભાગ B: IUPAC નામ <br> (1) 101 (i) Unnilunium (Unu) <br> (2) 103 (ii) Unniltrium (Unt)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1=un, 0=nil, 1=un, 3=tri. છેડે 'ium' લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: આવર્ત | વિભાગ B: તત્ત્વોની સંખ્યા <br> (1) પ્રથમ આવર્ત (i) 8 તત્ત્વો <br> (2) બીજો આવર્ત (ii) 2 તત્ત્વો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેજિક નંબર્સ યાદ રાખો: 2, 8, 8, 18, 18, 32.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: બ્લોક (વિભાગ) | વિભાગ B: સામાન્ય ઇલેક્ટ્રોનીય રચના <br> (1) s-વિભાગ (i) ns² np¹⁻⁶ <br> (2) p-વિભાગ (ii) ns¹⁻²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s માં વધુમાં વધુ 2 અને p માં 6 ઇલેક્ટ્રોન સમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: તત્ત્વ | વિભાગ B: બ્લોક (વિભાગ) <br> (1) પોટેશિયમ (K) (i) p-વિભાગ <br> (2) ક્લોરિન (Cl) (ii) s-વિભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુઓ મોટેભાગે s-વિભાગમાં, અધાતુઓ p-વિભાગમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: d-વિભાગ તત્ત્વો | વિભાગ B: નામ <br> (1) d-વિભાગ (i) આંતર સંક્રાંતિ તત્ત્વો <br> (2) f-વિભાગ (ii) સંક્રાંતિ તત્ત્વો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d = Transition, f = Inner Transition (f અંદર હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: ગુણધર્મ | વિભાગ B: આવર્તમાં ફેરફાર (ડાબેથી જમણે) <br> (1) પરમાણ્વીય ત્રિજ્યા (i) વધે છે <br> (2) આયનીકરણ એન્થાલ્પી (ii) ઘટે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાઈઝ ઘટે તો ઇલેક્ટ્રોન કાઢવો અઘરો (Enthalpy વધે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: સમૂહ | વિભાગ B: વિશેષ નામ <br> (1) સમૂહ 17 (i) ઉમદા વાયુઓ <br> (2) સમૂહ 18 (ii) હેલોજન તત્ત્વો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 17 નંબરમાં 'હેલો' (Halo), 18 નંબરમાં 'રાજા' (Noble).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: આયન | વિભાગ B: ત્રિજ્યાનો ક્રમ <br> (1) Na⁺ (i) મોટી ત્રિજ્યા <br> (2) F⁻ (ii) નાની ત્રિજ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધન આયન (Cation) હંમેશા નાનો, ઋણ આયન (Anion) મોટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: તત્ત્વ | વિભાગ B: ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી <br> (1) ક્લોરિન (Cl) (i) સૌથી ઓછી ઋણ <br> (2) નોબેલ ગેસ (ii) સૌથી વધુ ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cl ને ઇલેક્ટ્રોન બહુ ગમે (વધુ ઋણ), Noble ને ન ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: લોથર મેયર | વિભાગ B: આલેખના પાયા <br> (1) ક્ષૈતિજ અક્ષ (x) (i) પરમાણ્વીય કદ <br> (2) શિરોલંબ અક્ષ (y) (ii) પરમાણ્વીય ભાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોથર મેયર: કદ વિરુદ્ધ ભાર (Volume vs Mass).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: એકા-એલ્યુમિનિયમ | વિભાગ B: હાલનું નામ <br> (1) એકા-એલ્યુમિનિયમ (i) જર્મેનિયમ <br> (2) એકા-સિલિકોન (ii) ગેલિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Al-Ga (આલ ગાલ), Si-Ge (સીતા ગીતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: IUPAC પ્રત્યય | વિભાગ B: અંક <br> (1) 0 (i) Quad <br> (2) 4 (ii) Nil",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 એટલે Nil બટાકા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: આવર્ત ક્રમ | વિભાગ B: બાહ્યતમ કક્ષા (n) <br> (1) ત્રીજો આવર્ત (i) n = 4 <br> (2) ચોથો આવર્ત (ii) n = 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્ત ક્રમ = મુખ્ય ક્વોન્ટમ આંક (n).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: વિભાગ | વિભાગ B: લાક્ષણિકતા <br> (1) s-વિભાગ (i) ઊંચી વિદ્યુતઋણતા <br> (2) p-વિભાગ (ii) નીચી આયનીકરણ એન્થાલ્પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-વિભાગ (ધાતુ) ઇલેક્ટ્રોન જલ્દી આપે, p-વિભાગ (અધાતુ) ખેંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: લેન્થેનોઇડ્સ | વિભાગ B: કક્ષકનો ભરાવો <br> (1) લેન્થેનોઇડ્સ (i) 5f કક્ષક <br> (2) એક્ટિનોઇડ્સ (ii) 4f કક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L પહેલા આવે એટલે 4f, A પછી આવે એટલે 5f.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: ઓક્સાઇડ | વિભાગ B: સ્વભાવ <br> (1) Na₂O (i) એસિડિક <br> (2) Cl₂O₇ (ii) બેઝિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુના ઓક્સાઇડ બેઝિક, અધાતુના એસિડિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: વિદ્યુતઋણતા માપક્રમ | વિભાગ B: વૈજ્ઞાનિક <br> (1) પોલિંગ માપક્રમ (i) સૌથી વધુ વપરાતો <br> (2) મુલિકન માપક્રમ (ii) સરેરાશ પદ્ધતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિનસ પોલિંગ (Linus Pauling) - 'The King of scales'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: તત્ત્વ | વિભાગ B: પરમાણુ ક્રમાંક (Z) <br> (1) હિલિયમ (i) 10 <br> (2) નિયોન (ii) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: He-2, Ne-10, Ar-18, Kr-36...</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: સમૂહ 16 | વિભાગ B: નામ <br> (1) સમૂહ 16 (i) નિક્રોજન <br> (2) સમૂહ 15 (ii) ચાલ્કોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15-P (Pnictogen), 16-O (Chalcogen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: ત્રિજ્યા પ્રકાર | વિભાગ B: અંતર <br> (1) સહસંયોજક ત્રિજ્યા (i) અધાતુઓમાં અણુઓ વચ્ચે <br> (2) વાન્ડર વાલ્સ ત્રિજ્યા (ii) અધાતુઓમાં બંધિત પરમાણુ વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહસંયોજક = બંધ (Strong), વાન્ડર વાલ્સ = છૂટું (Weak/Big).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: તત્ત્વનું લક્ષણ | વિભાગ B: આવર્તકોષ્ટકમાં સ્થાન <br> (1) સૌથી વધુ પ્રતિક્રિયાત્મક ધાતુ (i) ઉપર-જમણે (He સિવાય) <br> (2) સૌથી વધુ પ્રતિક્રિયાત્મક અધાતુ (ii) નીચે-ડાબે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ ખૂણામાં (Cs), અધાતુ પણ ખૂણામાં (F).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: ટ્રાન્સયુરેનિયમ તત્ત્વો | વિભાગ B: પરમાણુ ક્રમાંક <br> (1) યુરેનિયમ (i) Z > 92 <br> (2) ટ્રાન્સયુરેનિયમ (ii) Z = 92",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Trans' એટલે 'પેલે પાર' (Beyond 92).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: અર્ધધાતુ (Metalloids) | વિભાગ B: ઉદાહરણ <br> (1) સિલિકોન (Si) (i) અર્ધધાતુ <br> (2) સલ્ફર (S) (ii) અધાતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીડી જેવા પથ પર (B, Si, Ge, As, Sb, Te) અર્ધધાતુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: ઉમદા વાયુ | વિભાગ B: ઇલેક્ટ્રોનીય રચના <br> (1) He (i) [He] 2s² 2p⁶ <br> (2) Ne (ii) 1s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: He અપવાદ છે (માત્ર 2 e⁻), બાકી બધામાં np⁶.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: ઉભયગુણી ઓક્સાઇડ | વિભાગ B: ઉદાહરણ <br> (1) Al₂O₃ (i) તટસ્થ ઓક્સાઇડ <br> (2) NO (ii) ઉભયગુણી ઓક્સાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Al₂O₃ અને ZnO ઉભયગુણી છે, NO, CO, N₂O તટસ્થ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: આવર્ત કોષ્ટકના સમૂહ | વિભાગ B: તત્ત્વોના નામ <br> (1) સમૂહ 1 (i) આલ્કલાઇન અર્થ ધાતુઓ <br> (2) સમૂહ 2 (ii) આલ્કલી ધાતુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 શબ્દ (Alkali) = સમૂહ 1, 2 શબ્દ (Alkaline Earth) = સમૂહ 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: અસરકારક કેન્દ્રીય વીજભાર (Zeff) | વિભાગ B: વલણ <br> (1) આવર્તમાં (L to R) (i) ઘટે છે <br> (2) સમૂહમાં (Top to Bottom) (ii) વધે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવર્તમાં પ્રોટોન વધે એટલે ખેંચાણ (Zeff) વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: આયનીકરણ એન્થાલ્પીના એકમો | વિભાગ B: એકમ <br> (1) SI એકમ (i) eV/atom <br> (2) અન્ય સામાન્ય એકમ (ii) kJ/mol",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જાનો SI એકમ હંમેશા Joule માં હોય (kJ/mol).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: અર્ધપૂર્ણ કક્ષક | વિભાગ B: સ્થિરતા <br> (1) નાઇટ્રોજન (N) (i) ઓછી આયનીકરણ એન્થાલ્પી <br> (2) ઓક્સિજન (O) (ii) વધુ આયનીકરણ એન્થાલ્પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N (p³) અર્ધપૂર્ણ હોવાથી O (p⁴) કરતા વધુ સ્થિર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: IUPAC નામ | વિભાગ B: સંજ્ઞા <br> (1) Unnilseptium (i) Uno <br> (2) Unniloctium (ii) Uns",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 = Sept (s), 8 = Oct (o).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: મહત્તમ વિદ્યુતઋણતા | વિભાગ B: તત્ત્વ <br> (1) પોલિંગ સ્કેલ પર 4.0 (i) ઓક્સિજન (O) <br> (2) પોલિંગ સ્કેલ પર 3.5 (ii) ફ્લોરિન (F)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FON યાદ રાખો (F=4, O=3.5, N=3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: આયનીકરણ એન્થાલ્પીનો ક્રમ | વિભાગ B: સંબંધ <br> (1) IE₁ vs IE₂ (i) IE₁ > IE₂ <br> (2) IE₂ vs IE₁ (ii) IE₂ > IE₁",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક આયનીકરણ એન્થાલ્પી હંમેશા વધે: IE₃ > IE₂ > IE₁.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: વિકર્ણી સંબંધ (Diagonal Relationship) | વિભાગ B: જોડી <br> (1) લિથિયમ (Li) (i) એલ્યુમિનિયમ (Al) <br> (2) બેરિલિયમ (Be) (ii) મેગ્નેશિયમ (Mg)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રાસી લાઈન: Li-Mg, Be-Al, B-Si.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: ઉમદા વાયુઓનો આવર્ત | વિભાગ B: તત્ત્વ <br> (1) આવર્ત 3 (i) ક્રિપ્ટોન (Kr) <br> (2) આવર્ત 4 (ii) આર્ગોન (Ar)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: He(1), Ne(2), Ar(3), Kr(4), Xe(5), Rn(6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: પરમાણુ ક્રમાંક 100 થી વધુ | વિભાગ B: સત્તાવાર નામ <br> (1) 104 (i) મેન્ડેલેવિયમ <br> (2) 101 (ii) રધરફોર્ડિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 101-મેન્ડેલીફના માનમાં, 104-રધરફોર્ડના માનમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: સંયોજકતા (Valence) | વિભાગ B: સમૂહ <br> (1) સમૂહ 1 (i) 2 <br> (2) સમૂહ 2 (ii) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-વિભાગ માટે સમૂહ નંબર જ તેની સંયોજકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: આવર્ત કોષ્ટકનું માળખું | વિભાગ B: સંખ્યા <br> (1) સમૂહ (Groups) (i) 7 <br> (2) આવર્ત (Periods) (ii) 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊભા સ્તંભ (Groups) વધુ હોય (18), આડી હરોળ ઓછી (7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: પ્રવાહી તત્ત્વ | વિભાગ B: પ્રકાર <br> (1) મરક્યુરી (Hg) (i) અધાતુ <br> (2) બ્રોમિન (Br) (ii) ધાતુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારો (Hg) ધાતુ છે, બ્રોમિન (Br) લાલ અધાતુ પ્રવાહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: પરમાણુ ત્રિજ્યાનો એકમ | વિભાગ B: મૂલ્ય <br> (1) 1 એન્ગસ્ટ્રોમ (Å) (i) 10⁻¹² m <br> (2) 1 પીકોમીટર (pm) (ii) 10⁻¹⁰ m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-10, P-12. (Alphabetical order A comes before P, 10 comes before 12).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી | વિભાગ B: સમૂહ 17 ના તત્ત્વો <br> (1) ફ્લોરિન (F) (i) -349 kJ/mol <br> (2) ક્લોરિન (Cl) (ii) -328 kJ/mol",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cl ની ઇલેક્ટ્રોન ભૂખ F કરતા પણ વધારે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: તત્ત્વનો પ્રકાર | વિભાગ B: બ્લોક <br> (1) આલ્કલી ધાતુઓ (i) p-block <br> (2) હેલોજન (ii) s-block",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબે s-block (આલ્કલી), જમણે p-block (હેલોજન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: શ્રેણી | વિભાગ B: તત્ત્વોની સંખ્યા <br> (1) લેન્થેનોઇડ શ્રેણી (i) 14 <br> (2) એક્ટિનોઇડ શ્રેણી (ii) 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f-block ની બંને શ્રેણીમાં 14-14 તત્ત્વો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: આયનીકરણ એન્થાલ્પી | વિભાગ B: પરિબળ <br> (1) પરમાણ્વીય કદ વધે (i) આયનીકરણ એન્થાલ્પી વધે <br> (2) કેન્દ્રીય વીજભાર વધે (ii) આયનીકરણ એન્થાલ્પી ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કદ મોટું તો ઇલેક્ટ્રોન પર પકડ ઢીલી (Enthalpy ઘટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: ધાત્વિય ગુણધર્મ | વિભાગ B: આવર્ત કોષ્ટકમાં દિશા <br> (1) ઉપરથી નીચે જતાં (i) ધાત્વિય ગુણ ઘટે <br> (2) ડાબેથી જમણે જતાં (ii) ધાત્વિય ગુણ વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે ઉતરો તો ધાતુ બનો, જમણે જાવ તો અધાતુ બનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: ઉમદા વાયુ (Noble Gas) | વિભાગ B: સંયોજકતા કક્ષા <br> (1) Ar (i) 2s² 2p⁶ <br> (2) Ne (ii) 3s² 3p⁶",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ne બીજા આવર્તમાં છે (n=2), Ar ત્રીજામાં (n=3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: હેનરી મોસલે | વિભાગ B: પ્રયોગ <br> (1) ક્ષ-કિરણની આવૃત્તિ (ν) (i) √ν ∝ Z <br> (2) સંબંધ (ii) ક્ષ-કિરણ વર્ણપટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસલે = X-ray. આવૃત્તિનું વર્ગમૂળ પ્રોટોન સંખ્યા પર આધારિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: ઋણ આયન (Anion) | વિભાગ B: કદ <br> (1) O²⁻ (i) નાનું કદ <br> (2) O (ii) મોટું કદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન આવે એટલે અપાકર્ષણ વધે અને કદ ફૂલે (Anion > Atom).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: વિશિષ્ટ નામ | વિભાગ B: તત્ત્વ <br> (1) સ્ટ્રેન્જર ગેસ (Stranger Gas) (i) રેડોન (Rn) <br> (2) રેડિયોએક્ટિવ ઉમદા વાયુ (ii) ઝેનોન (Xe)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Xe = Xtra-ordinary (Stranger), Rn = Radio-active.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: તત્ત્વનું નામ | વિભાગ B: લેટિન નામ પરથી સંજ્ઞા <br> (1) સોડિયમ (i) K (Kalium) <br> (2) પોટેશિયમ (ii) Na (Natrium)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Na = Natrium, K = Kalium.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: પરમાણુ ક્રમાંક (Z) | વિભાગ B: આવર્ત <br> (1) Z = 37 (i) 5 મો આવર્ત <br> (2) Z = 19 (ii) 4 થો આવર્ત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉમદા વાયુના Z માં 1 ઉમેરો: 18+1=19 (K), 36+1=37 (Rb).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: શીલ્ડિંગ અસર (Shielding) | વિભાગ B: કક્ષકોનો ક્રમ <br> (1) વધુ શીલ્ડિંગ (i) f <br> (2) ઓછું શીલ્ડિંગ (ii) s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s > p > d > f (s કેન્દ્રની સૌથી નજીક, રક્ષણ વધુ આપે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: સમૂહ 13 | વિભાગ B: બાહ્યતમ રચના <br> (1) બોરોન ફેમિલી (i) ns² np² <br> (2) કાર્બન ફેમિલી (ii) ns² np¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમૂહ 13 (1+3=4 e⁻, ના... છેલ્લો અંક 3 એટલે 3 valence e⁻).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: અષ્ટકનો નિયમ (ન્યુલેન્ડ્સ) | વિભાગ B: તત્ત્વો <br> (1) લિથિયમ (Li) જેવું (i) પોટેશિયમ (K) <br> (2) સોડિયમ (Na) જેવું (ii) સોડિયમ (Na)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી 8 ગણો: Li (1), Be (2), B (3), C (4), N (5), O (6), F (7), Na (8).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: સંક્રાંતિ તત્ત્વો | વિભાગ B: સામાન્ય ઇલેક્ટ્રોનીય રચના <br> (1) d-block (i) (n-2)f¹⁻¹⁴ (n-1)d⁰⁻¹ ns² <br> (2) f-block (ii) (n-1)d¹⁻¹⁰ ns¹⁻²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d એટલે (n-1), f એટલે (n-2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: વિદ્યુતઋણતા (Electronegativity) | વિભાગ B: વલણ <br> (1) સમૂહમાં નીચે જતાં (i) વધે છે <br> (2) આવર્તમાં જમણે જતાં (ii) ઘટે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F (ફ્લોરિન) જમણે અને ઉપર છે, ત્યાં વિદ્યુતઋણતા સૌથી વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: આવર્ત કોષ્ટકના પિતા | વિભાગ B: નામ <br> (1) રશિયન રસાયણશાસ્ત્રી (i) દમિત્રી મેન્ડેલીફ <br> (2) જર્મન રસાયણશાસ્ત્રી (ii) લોથર મેયર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mendeleev = Russia, Meyer = Germany.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: આયન | વિભાગ B: ઇલેક્ટ્રોન સંખ્યા <br> (1) Mg²⁺ (i) 10 <br> (2) Al³⁺ (ii) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સમઇલેક્ટ્રોનીય (Isoelectronic) સ્પેસીઝ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: ક્વોન્ટમ આંક | વિભાગ B: અર્થ <br> (1) n (i) આવર્ત ક્રમ <br> (2) l (ii) પેટાકક્ષાનો પ્રકાર (s, p, d, f)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n = મુખ્ય ઘર (Period), l = રૂમનો પ્રકાર (Block).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: 7 મો આવર્ત | વિભાગ B: પૂર્ણતા <br> (1) શરૂઆત (i) ફ્રાન્સિયમ (Fr) <br> (2) અંત (ii) ઓગ્નેસોન (Og)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fr (Z=87) થી શરૂ અને Og (Z=118) પર પૂરું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: પરમાણુ ભારના ચડતા ક્રમમાં ખામી | વિભાગ B: તત્ત્વોની જોડી <br> (1) ટેલ્યુરિયમ (Te) - આયોડિન (I) (i) 127.6 - 126.9 <br> (2) આર્ગોન (Ar) - પોટેશિયમ (K) (ii) 39.9 - 39.1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડેલીફે વધુ ભારવાળા તત્ત્વોને ક્યારેક પહેલા મૂક્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: આયનીકરણ એન્થાલ્પી | વિભાગ B: તત્ત્વ <br> (1) લિથિયમ (Li) (i) સૌથી ઓછી <br> (2) સિઝિયમ (Cs) (ii) સૌથી વધુ (સમૂહ 1 માં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મોટું (Cs), એમાંથી ઇલેક્ટ્રોન કાઢવો સહેલો (IE ઓછી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: અધાતુઓનું સ્થાન | વિભાગ B: દિશા <br> (1) અધાતુઓ (i) જમણી બાજુ (ઉપર) <br> (2) ધાતુઓ (ii) ડાબી બાજુ (નીચે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 78% થી વધુ તત્ત્વો ધાતુ છે (ડાબે અને મધ્યમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: ગેલિયમ (Ga) નું ગલનબિંદુ | વિભાગ B: મૂલ્ય <br> (1) ગલનબિંદુ (i) 303 K <br> (2) પરમાણુ ક્રમાંક (ii) 31",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેલિયમ હાથની હથેળીમાં ઓગળી જાય (Low MP).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: એક્ટિનોઇડ્સની લાક્ષણિકતા | વિભાગ B: ગુણધર્મ <br> (1) એક્ટિનોઇડ્સ (i) રેડિયોએક્ટિવ <br> (2) લેન્થેનોઇડ્સ (ii) દુર્લભ મૃદા તત્ત્વો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 92 પછીના બધા જ માનવસર્જિત અને રેડિયોએક્ટિવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: આવર્ત કોષ્ટકમાં બ્લોક | વિભાગ B: સમૂહ ક્રમાંક <br> (1) s-block (i) 3 થી 12 <br> (2) d-block (ii) 1 અને 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-1,2 | p-13 to 18 | d-3 to 12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: પિરિયોડિક પ્રોપર્ટી | વિભાગ B: વ્યાખ્યા <br> (1) ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી (i) મુક્ત થતી ઉર્જા <br> (2) આયનીકરણ એન્થાલ્પી (ii) આપવી પડતી ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેવું હોય તો આપવું પડે (Ionization), આવવું હોય તો જતું કરવું પડે (Electron Gain).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: 114 નંબરનું તત્ત્વ | વિભાગ B: નામ <br> (1) 114 (i) ટેનેસાઇન <br> (2) 117 (ii) ફ્લેરોવિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 114-Fl, 117-Ts. (નવા સંશોધિત નામો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: સમૂહ 18 ના ઉપયોગો | વિભાગ B: તત્ત્વ <br> (1) એડવર્ટાઇઝિંગ લાઇટ્સ (i) હિલિયમ (He) <br> (2) વેધર બલૂન્સ (ii) નિયોન (Ne)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકો વાયુ (He) બલૂનમાં, ચમકતો વાયુ (Ne) લાઇટમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: મેન્ડેલીફની આગાહી | વિભાગ B: પરમાણુ ભાર <br> (1) Eka-Aluminium (i) 72 <br> (2) Eka-Silicon (ii) 68",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ga (68), Ge (72). (Ga પહેલા આવે એટલે નાનો આંકડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A: પ્રથમ આયનીકરણ એન્થાલ્પી | વિભાગ B: તત્ત્વ <br> (1) B (બોર્ન) (i) 801 kJ/mol <br> (2) Be (બેરિલિયમ) (ii) 899 kJ/mol",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Be ની s-કક્ષક પૂર્ણ ભરાયેલી હોવાથી તે B કરતા વધુ સ્થિર છે.</p></div>"
+    }
+  ]
+}

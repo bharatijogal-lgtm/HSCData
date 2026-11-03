@@ -366,3 +366,361 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "પરમાણુનું બંધારણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) ઇલેક્ટ્રોન, (2) પ્રોટોન | વિભાગ B: (i) જે. જે. થોમસન, (ii) ઈ. ગોલ્ડસ્ટેઈન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઈંટ પર નાચ' (Electron-Thomson, Proton-Rutherford/Goldstein, Neutron-Chadwick).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) ન્યૂટ્રોન, (2) કેનાલ કિરણો | વિભાગ B: (i) જેમ્સ ચેડવિક, (ii) ધન વીજભારિત કણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટ્રોન તટસ્થ છે અને ચેડવિકે શોધ્યો, કેનાલ (Canal) હંમેશા ધન (Positive) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) ઇલેક્ટ્રોનનો વીજભાર, (2) ઇલેક્ટ્રોનનું દળ | વિભાગ B: (i) -1.6022 x 10⁻¹⁹ C, (ii) 9.1 x 10⁻³¹ kg",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન હલકો (10⁻³¹) છે પણ તેનો વીજભાર નિશ્ચિત (1.6 x 10⁻¹⁹) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) થોમસન મોડલ, (2) રધરફોર્ડ મોડલ | વિભાગ B: (i) પ્લમ પુડિંગ મોડલ, (ii) કેન્દ્રીય મોડલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થોમસન એટલે તરબૂચ (Plum Pudding) અને રધરફોર્ડે કેન્દ્ર (Nucleus) શોધ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) પરમાણુ ક્રમાંક (Z), (2) પરમાણુ દળાંક (A) | વિભાગ B: (i) પ્રોટોનની સંખ્યા, (ii) પ્રોટોન + ન્યૂટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Z = Zebra (એકલો પ્રોટોન), A = All (બધા ન્યુક્લિયોન્સ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) સમસ્થાનિકો (Isotopes), (2) સમભારીયો (Isobars) | વિભાગ B: (i) સમાન Z, જુદા A, (ii) સમાન A, જુદા Z",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્થાનિક' એટલે ક્રમાંક સમાન, 'ભારી' એટલે ભાર (દળ) સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) આવૃત્તિ (ν), (2) તરંગલંબાઈ (λ) | વિભાગ B: (i) Hertz (Hz), (ii) મીટર (m)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવૃત્તિ હર્ટ થાય (Hz) અને લંબાઈ હંમેશા મીટરમાં મપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) પ્લાન્કનો અચળાંક (h), (2) પ્રકાશનો વેગ (c) | વિભાગ B: (i) 6.626 x 10⁻³⁴ J.s, (ii) 3 x 10⁸ m/s",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાન્ક નાનો (10⁻³⁴) અને પ્રકાશ સુપરફાસ્ટ (10⁸).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) ફોટોઇલેક્ટ્રિક અસર, (2) બ્લેક બોડી રેડિયેશન | વિભાગ B: (i) હર્ટ્ઝ, (ii) પ્લાન્ક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટો જોતા હૃદય હર્ટ (Hertz) થયું, કાળો પદાર્થ પ્લાન્કે સમજાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) લાયમેન શ્રેણી, (2) બામર શ્રેણી | વિભાગ B: (i) પારજાંબલી (UV), (ii) દ્રશ્યમાન (Visible)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: L-U (Lyman UV), B-V (Balmer Visible) - લવ યુ બાવલી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) પાશ્વન શ્રેણી, (2) બ્રેકેટ શ્રેણી | વિભાગ B: (i) પારરક્ત (IR), (ii) પારરક્ત (IR)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાછળની બધી IR (પાશ્વન, બ્રેકેટ, ફુન્ડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) મુખ્ય ક્વોન્ટમ આંક (n), (2) ગૌણ ક્વોન્ટમ આંક (l) | વિભાગ B: (i) કક્ષાનું કદ, (ii) કક્ષાનો આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n એટલે અંતર (size), l એટલે લુક (shape).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) ચુંબકીય ક્વોન્ટમ આંક (mₗ), (2) સ્પીન ક્વોન્ટમ આંક (mₛ) | વિભાગ B: (i) કક્ષકનું અભિવિન્યાસ, (ii) ઇલેક્ટ્રોનનું ભ્રમણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: m એટલે મર્યાદા/દિશા (Orientation), s એટલે સ્પીન (Spin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) s-કક્ષક, (2) p-કક્ષક | વિભાગ B: (i) ગોળાકાર, (ii) ડમ્બેલ આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s = Sphere (ગોળો), p = Pepper (ડમ્બેલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) d-કક્ષક, (2) f-કક્ષક | વિભાગ B: (i) ડબલ ડમ્બેલ, (ii) જટિલ આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: d = Double dumbbell, f = Full Complex.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) l = 0, (2) l = 1 | વિભાગ B: (i) s-કક્ષક, (ii) p-કક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0, 1, 2, 3 = s, p, d, f.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) l = 2, (2) l = 3 | વિભાગ B: (i) d-કક્ષક, (ii) f-કક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s(0), p(1), d(2), f(3) - આ ક્રમ યાદ જ રાખવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) આફબાઉનો નિયમ, (2) પાઉલીનો નિયમ | વિભાગ B: (i) ઊર્જાનો ચઢતો ક્રમ, (ii) મહત્તમ બે ઇલેક્ટ્રોન (વિરુદ્ધ ભ્રમણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Aufbau = Building up (Energy), Pauli = Pair (જોડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) હુંડનો નિયમ, (2) હાઈઝનબર્ગનો સિદ્ધાંત | વિભાગ B: (i) મહત્તમ સ્પીન બહુવિધતા, (ii) સ્થાન અને વેગમાનની અનિશ્ચિતતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Hund = Home (પહેલા એક-એક ગોઠવો), Heisenberg = Unsteady (ચોક્કસ નથી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) શ્રોડિંજર સમીકરણ, (2) દ-બ્રોગ્લી સમીકરણ | વિભાગ B: (i) તરંગ યાંત્રિકીય નમૂનો, (ii) λ = h / mv",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Schrodinger = Wave, De-Broglie = Dual (λ & mv).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) રિડબર્ગ અચળાંક (R_H), (2) બોહર ત્રિજ્યા (a₀) | વિભાગ B: (i) 109677 cm⁻¹, (ii) 52.9 pm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: R_H = ૧૦૯૭ (લગભગ), a₀ = ૫૩ (લગભગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) n=1 કક્ષા, (2) n=2 કક્ષા | વિભાગ B: (i) K કોષ, (ii) L કોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ABC માં K થી શરૂઆત કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) n=3 કક્ષા, (2) n=4 કક્ષા | વિભાગ B: (i) M કોષ, (ii) N કોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K(1), L(2), M(3), N(4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) λ (લેમ્બડા), (2) ν̅ (ન્યૂ બાર) | વિભાગ B: (i) તરંગલંબાઈ, (ii) તરંગ સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ν̅ (બાર) એટલે સંખ્યા ગણવી (1/λ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) પ્રોટોનનો વીજભાર, (2) ન્યૂટ્રોનનો વીજભાર | વિભાગ B: (i) +1.6022 x 10⁻¹⁹ C, (ii) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P = Positive, N = Neutral.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) શૂન્ય નોડ ધરાવતી કક્ષક, (2) એક નોડ ધરાવતી p કક્ષક | વિભાગ B: (i) 1s, (ii) 2p",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોડ = n - l - 1. (1-0-1 = 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) ક્રોમિયમ (Cr) Z=24, (2) કોપર (Cu) Z=29 | વિભાગ B: (i) [Ar] 3d⁵ 4s¹, (ii) [Ar] 3d¹⁰ 4s¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cr અને Cu અપવાદ છે (અર્ધપૂર્ણ અને પૂર્ણ ભરાયેલી કક્ષકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) મહત્તમ ઇલેક્ટ્રોન (કોષ), (2) મહત્તમ ઇલેક્ટ્રોન (કક્ષક) | વિભાગ B: (i) 2n², (ii) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી કક્ષામાં 2n² પણ એક બોક્સ (કક્ષક) માં માત્ર 2 જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) ત્રિજ્યાવર્તી નોડ, (2) કોણીય નોડ | વિભાગ B: (i) n - l - 1, (ii) l",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણીય (Angular) = l, બાકીના (Radial) = કુલ - l - 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) કક્ષકોની સંખ્યા, (2) ઇલેક્ટ્રોનની સંખ્યા (પેટાકોષમાં) | વિભાગ B: (i) 2l + 1, (ii) 2(2l + 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી કક્ષક હોય તેનાથી બમણા ઇલેક્ટ્રોન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (1) ફોટોનની ઉર્જા (E), (2) ફોટોનનું વેગમાન (p) | વિભાગ B: (i) hν, (ii) h / λ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: E = hν (Energy is high ν), p = h/λ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (1) હાઇડ્રોજનનું રેખીય વર્ણપટ, (2) સતત વર્ણપટ | વિભાગ B: (i) લાક્ષણિક રેખાઓ, (ii) મેઘધનુષ્ય જેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણુ હંમેશા રેખા આપે, સૂર્યપ્રકાશ સતત આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (1) બોહરની પ્રથમ કક્ષાની ઉર્જા, (2) મુક્ત ઇલેક્ટ્રોનની ઉર્જા | વિભાગ B: (i) -13.6 eV, (ii) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધાયેલો હોય તો માઈનસ, છૂટો હોય તો ઝીરો (નિરાંત!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (1) 2s કક્ષક, (2) 2p કક્ષક | વિભાગ B: (i) l = 0, (ii) l = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગળનો આંકડો n, પાછળનો અક્ષર l.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (1) દ્રશ્ય પ્રકાશની તરંગલંબાઈ, (2) X-કિરણોની તરંગલંબાઈ | વિભાગ B: (i) 400-750 nm, (ii) 0.1-10 nm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોવું હોય તો 400-750 વચ્ચે આવવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (1) જિમાન અસર, (2) સ્ટાર્ક અસર | વિભાગ B: (i) ચુંબકીય ક્ષેત્રમાં રેખાનું વિભાજન, (ii) વિદ્યુતીય ક્ષેત્રમાં રેખાનું વિભાજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Zeeman-Magnetic (Z-M), Stark-Electric (S-E).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (1) હાઇડ્રોજન (H), (2) હિલિયમ (He) | વિભાગ B: (i) 1s¹, (ii) 1s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 નંબર 1 ઇલેક્ટ્રોન, 2 નંબર 2 ઇલેક્ટ્રોન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (1) પદાર્થનો દ્વૈત સ્વભાવ, (2) કોણીય વેગમાનનું ક્વોન્ટાઈઝેશન | વિભાગ B: (i) દ-બ્રોગ્લી, (ii) નીલ્સ બોહર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: mvr = nh/2π એ બોહરની વાત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (1) ઇલેક્ટ્રોનનું દળ (amu), (2) પ્રોટોનનું દળ (amu) | વિભાગ B: (i) 0.00054 u, (ii) 1.00727 u",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોનનું દળ નગણ્ય (0.000...) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (1) n=1 માટે l ના મૂલ્યો, (2) l=1 માટે mₗ ના મૂલ્યો | વિભાગ B: (i) 0, (ii) -1, 0, +1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: l = 0 to n-1, mₗ = -l to +l.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (1) 3p કક્ષક (n+l), (2) 4s કક્ષક (n+l) | વિભાગ B: (i) 3+1 = 4, (ii) 4+0 = 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો n+l સમાન હોય, તો નાનો n પહેલા ભરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (1) આઈસોટોન (Isotones), (2) આઈસોઈલેક્ટ્રોનિક | વિભાગ B: (i) સમાન ન્યૂટ્રોન, (ii) સમાન ઇલેક્ટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટોન' માં ન્યૂટ્રોન હોય, 'ઇલેક્ટ્રોનિક' માં ઇલેક્ટ્રોન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (1) આલ્ફા કણ, (2) બીટા કણ | વિભાગ B: (i) હિલિયમ કેન્દ્ર (He²⁺), (ii) ઝડપી ઇલેક્ટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્ફા એટલે 2 પ્રોટોન + 2 ન્યૂટ્રોન (He).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (1) વર્ણપટરેખાની સંખ્યા (n=4 to n=1), (2) વર્ણપટરેખાની સંખ્યા (n=2 to n=1) | વિભાગ B: (i) 6, (ii) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n(n-1)/2 સૂત્ર વાપરો. 4(3)/2 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (1) સ્થિર અવસ્થાઓ (n), (2) ત્રિજ્યા (rₙ) | વિભાગ B: (i) પૂર્ણાંક સંખ્યા (1,2,3...), (ii) a₀ * n²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કક્ષા વધે તેમ ત્રિજ્યા વર્ગ (n²) ના પ્રમાણમાં વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (1) લિથિયમ (Li) Z=3, (2) બેરિલિયમ (Be) Z=4 | વિભાગ B: (i) 1s² 2s¹, (ii) 1s² 2s²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન ભરતી વખતે s માં 2 જ સમાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (1) pₓ, pᵧ, p_z કક્ષકો, (2) d_xy, d_yz, d_zx કક્ષકો | વિભાગ B: (i) સમશક્તિ કક્ષકો (Degenerate), (ii) સમશક્તિ કક્ષકો (Degenerate)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ પેટાકોષની બધી કક્ષકોની ઉર્જા સમાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (1) હાઇડ્રોજન માટે ઉર્જા, (2) બહુઇલેક્ટ્રોન માટે ઉર્જા | વિભાગ B: (i) માત્ર n પર આધારિત, (ii) n અને l બંને પર આધારિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રોજન સાદો છે (n), બાકીના જટિલ (n+l).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (1) 1 eV, (2) 1 erg | વિભાગ B: (i) 1.602 x 10⁻¹⁹ J, (ii) 10⁻⁷ J",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જાના નાના એકમો છે, રૂપાંતરણ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (1) થ્રેશોલ્ડ આવૃત્તિ (ν₀), (2) વર્ક ફંક્શન (W₀) | વિભાગ B: (i) લઘુત્તમ જરૂરી આવૃત્તિ, (ii) hν₀",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોટો-ઇલેક્ટ્રોન કાઢવા માટે લઘુત્તમ ભાડું (Work function).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (1) તરંગાલેખ Ψ, (2) Ψ² | વિભાગ B: (i) તરંગ વિધેય, (ii) સંભાવના ઘનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ψ² એટલે ઇલેક્ટ્રોન મળવાની ચાન્સ (Probability).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (1) પ્રોટિયમ (¹H), (2) ડ્યુટેરિયમ (²H) | વિભાગ B: (i) 0 ન્યૂટ્રોન, (ii) 1 ન્યૂટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂટ્રોન = A - Z. (1-1=0, 2-1=1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (1) ટ્રિટિયમ (³H), (2) હિલિયમ-4 (⁴He) | વિભાગ B: (i) 2 ન્યૂટ્રોન, (ii) 2 ન્યૂટ્રોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રિટિયમ રેડિયોએક્ટિવ છે અને 2 ન્યૂટ્રોન ધરાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (1) રેડિયો તરંગો, (2) માઇક્રોવેવ્સ | વિભાગ B: (i) લાંબી તરંગલંબાઈ, (ii) રડારમાં ઉપયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Radio is longest (મોટા તરંગો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (1) લેમ્બડા અને ન્યૂ (λ, ν), (2) ઉર્જા અને લેમ્બડા (E, λ) | વિભાગ B: (i) વ્યસ્ત પ્રમાણ, (ii) વ્યસ્ત પ્રમાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: c = λν અને E = hc/λ. λ વધે તો બધું ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (1) ઇલેક્ટ્રોન શોધ, (2) ન્યુક્લિયસ શોધ | વિભાગ B: (i) કેથોડ કિરણ પ્રયોગ, (ii) આલ્ફા પ્રકીર્ણન પ્રયોગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન ટ્યુબમાંથી આવ્યો, કેન્દ્ર ગોલ્ડ ફોઇલમાંથી મળ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (1) p-કક્ષકના કુલ પ્રકાર, (2) d-કક્ષકના કુલ પ્રકાર | વિભાગ B: (i) 3, (ii) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી સંખ્યા: 1(s), 3(p), 5(d), 7(f).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (1) હાઇડ્રોજન વર્ણપટ (Balmer), (2) હાઇડ્રોજન વર્ણપટ (Lyman) | વિભાગ B: (i) n₁ = 2, (ii) n₁ = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં કુદકો મારે તે મુખ્ય નંબર (L-1, B-2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (1) d_z² કક્ષક, (2) d_x²-y² કક્ષક | વિભાગ B: (i) એક ડમ્બેલ અને ડોનટ જેવો આકાર, (ii) અક્ષો પર ચાર લોબ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: z² એ સ્પેશિયલ છે (Doughnut ring!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (1) ઇલેક્ટ્રોન ગતિ કરે ત્યારે, (2) ઇલેક્ટ્રોન ઉર્જા શોષે ત્યારે | વિભાગ B: (i) તરંગ તરીકે વર્તે, (ii) ઉત્તેજિત અવસ્થામાં જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્જા મળે તો ઉપર (Higher Level) જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (1) n=4 માં કુલ કક્ષકો, (2) n=2 માં કુલ કક્ષકો | વિભાગ B: (i) 16, (ii) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કક્ષકોની સંખ્યા = n².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (1) સ્પીન કોણીય વેગમાન, (2) કક્ષીય કોણીય વેગમાન | વિભાગ B: (i) √[s(s+1)] * h/2π, (ii) √[l(l+1)] * h/2π",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s હોય ત્યાં s લખો, l હોય ત્યાં l.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (1) નિયોન (Ne) Z=10, (2) સોડિયમ (Na) Z=11 | વિભાગ B: (i) [He] 2s² 2p⁶, (ii) [Ne] 3s¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયોન પછી સોડિયમ આવે (નવી કક્ષા શરૂ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (1) લઘુત્તમ ઉર્જા સ્તર, (2) ઊંચું ઉર્જા સ્તર | વિભાગ B: (i) ધરા અવસ્થા (Ground state), (ii) ઉત્તેજિત અવસ્થા (Excited state)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધરા' એટલે જમીન (નીચે), 'ઉત્તેજિત' એટલે હવામાં (ઉપર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (1) રધરફોર્ડની ખામી, (2) બોહરની ખામી | વિભાગ B: (i) પરમાણુની સ્થિરતા ન સમજાવી શક્યા, (ii) બહુઇલેક્ટ્રોન વર્ણપટ ન સમજાવી શક્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રધરફોર્ડને 'પડવાની' બીક હતી, બોહર માત્ર H માં જ જીત્યો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (1) ફોટોનની સંખ્યા, (2) કુલ ઉર્જા | વિભાગ B: (i) n, (ii) nhν",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક પેકેટ (hν) તો n પેકેટ (nhν).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (1) ઇલેક્ટ્રોનનો ભાર/દળ ગુણોત્તર (e/m), (2) તેલના બિંદુનો પ્રયોગ | વિભાગ B: (i) જે. જે. થોમસન, (ii) આર. એ. મિલિકન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ (Oil) મિલિકને નાખ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (1) n=3, l=2, (2) n=4, l=3 | વિભાગ B: (i) 3d કક્ષક, (ii) 4f કક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: l=2 (d), l=3 (f).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (1) પરમાણુ ત્રિજ્યાનો ક્રમ, (2) કેન્દ્રની ત્રિજ્યાનો ક્રમ | વિભાગ B: (i) 10⁻¹⁰ m, (ii) 10⁻¹૫ m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર લાખો ગણું નાનું છે (10⁻¹⁵).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (1) આઈન્સ્ટાઈનનું સમીકરણ, (2) ઉર્જાનો ક્વોન્ટમ | વિભાગ B: (i) E = mc², (ii) ફોટોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈન્સ્ટાઈન એટલે mc², ઉર્જાનું નાનું પેકેટ એટલે ફોટોન.</p></div>"
+    }
+  ]
+}

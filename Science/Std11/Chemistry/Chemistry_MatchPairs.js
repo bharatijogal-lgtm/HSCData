@@ -1475,3 +1475,371 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ઉષ્માગતિશાસ્ત્ર",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: પ્રણાલીના પ્રકાર | વિભાગ B: લાક્ષણિકતા \n(1) ખુલ્લી પ્રણાલી | (A) દ્રવ્ય અને ઉર્જા બંનેનો વિનિમય \n(2) બંધ પ્રણાલી | (B) માત્ર ઉર્જાનો વિનિમય, દ્રવ્યનો નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'ખુલ્લી' એટલે બધું ખુલ્લું (દ્રવ્ય + ઉર્જા), 'બંધ' એટલે દરવાજા બંધ પણ ગરમી બહાર જઈ શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: પ્રણાલી | વિભાગ B: ઉદાહરણ \n(1) નિરાળી પ્રણાલી | (A) થર્મોસ ફ્લાસ્કમાં રહેલી ચા \n(2) બંધ પ્રણાલી | (B) સ્ટીલના બંધ પાત્રમાં ગરમ પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નિરાળી (Isolated) = દુનિયા સાથે કોઈ લેવાદેવા નહીં (No mass, No energy exchange).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: પ્રક્રમ | વિભાગ B: લાક્ષણિકતા \n(1) સમતાપી પ્રક્રમ | (A) ΔT = 0 \n(2) સમોષ્મી પ્રક્રમ | (B) q = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'સમતાપી' = સમાન તાપમાન (T), 'સમોષ્મી' = સમાન ઉષ્મા (q).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: પ્રક્રમ | વિભાગ B: લાક્ષણિકતા \n(1) સમદાબી પ્રક્રમ | (A) ΔP = 0 \n(2) સમકદ પ્રક્રમ | (B) ΔV = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'સમદાબી' = Pressure અચળ, 'સમકદ' = Volume અચળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: ગુણધર્મ | વિભાગ B: પ્રકાર \n(1) દળ અને કદ | (A) માત્રાત્મક ગુણધર્મ \n(2) તાપમાન અને ઘનતા | (B) વિશિષ્ટ ગુણધર્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'માત્રા' વધે તો જે વધે તે 'માત્રાત્મક' (Extensive), જે જથ્થા પર આધાર ન રાખે તે 'વિશિષ્ટ' (Intensive).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: અવસ્થા વિધેય | વિભાગ B: સંજ્ઞા \n(1) આંતરિક ઉર્જા | (A) U \n(2) એન્થાલ્પી | (B) H",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Internal Energy = U, Heat Content (Enthalpy) = H.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: કાર્ય અને ઉષ્મા | વિભાગ B: ચિહ્ન પ્રણાલી \n(1) પ્રણાલી દ્વારા થયેલું કાર્ય | (A) –w \n(2) પ્રણાલી પર થયેલું કાર્ય | (B) +w",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પ્રણાલી કામ કરે તો થાકી જાય (Negative), પ્રણાલી પર કામ થાય તો ઉર્જા વધે (Positive).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: ઉષ્મા ફેરફાર | વિભાગ B: ચિહ્ન પ્રણાલી \n(1) પ્રણાલી દ્વારા શોષાતી ઉષ્મા | (A) +q \n(2) પ્રણાલી દ્વારા ગુમાવાતી ઉષ્મા | (B) –q",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અંદર આવે તો Plus (+), બહાર જાય તો Minus (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રનો પ્રથમ નિયમ | વિભાગ B: ગાણિતિક સ્વરૂપ \n(1) અચળ કદે ઉષ્મા ફેરફાર | (A) ΔU = qv \n(2) સામાન્ય સમીકરણ | (B) ΔU = q + w",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) First Law: U = q + w. અચળ કદે w = 0 એટલે ΔU = q.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: સંબંધ | વિભાગ B: ગાણિતિક સૂત્ર \n(1) એન્થાલ્પીની વ્યાખ્યા | (A) H = U + PV \n(2) ΔH અને ΔU વચ્ચેનો સંબંધ | (B) ΔH = ΔU + ΔngRT",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) H = U + PV યાદ રાખવું, વાયુરૂપ મોલ (Δng) માટે RT ઉમેરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: પ્રક્રિયાનો પ્રકાર | વિભાગ B: ΔH નું મૂલ્ય \n(1) ઉષ્માક્ષેપક પ્રક્રિયા | (A) ΔH < 0 (ઋણ) \n(2) ઉષ્માશોષક પ્રક્રિયા | (B) ΔH > 0 (ધન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'ક્ષેપક' એટલે ફેંકવું (–), 'શોષક' એટલે લેવું (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: ઉષ્મા ધારિતા | વિભાગ B: સૂત્ર \n(1) મોલર ઉષ્મા ધારિતા | (A) Cm = q / (n.ΔT) \n(2) વિશિષ્ટ ઉષ્મા ધારિતા | (B) Cs = q / (m.ΔT)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મોલર એટલે 'n' થી ભાગો, વિશિષ્ટ એટલે 'm' (દળ) થી ભાગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: અચળ દબાણ અને કદ | વિભાગ B: સંબંધ \n(1) Cp - Cv | (A) R \n(2) qp | (B) ΔH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Cp માંથી Cv બાદ કરો તો 'R' મળે (Mayer's Relation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: એન્થાલ્પી ફેરફાર | વિભાગ B: પ્રક્રિયા \n(1) ગલન એન્થાલ્પી (ΔfusH) | (A) ઘન → પ્રવાહી \n(2) બાષ્પીભવન એન્થાલ્પી (ΔvapH) | (B) પ્રવાહી → વાયુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Fusion = ઓગળવું, Vap = વરાળ બનવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: એન્થાલ્પી ફેરફાર | વિભાગ B: પ્રક્રિયા \n(1) ઊર્ધ્વપાતન એન્થાલ્પી (ΔsubH) | (A) ઘન → સીધું વાયુ \n(2) પ્રમાણિત સર્જન એન્થાલ્પી | (B) ΔfH°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Sublimation = ડાયરેક્ટ Solid to Gas.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: હેસનો નિયમ | વિભાગ B: વિધાન \n(1) હેસનો ઉષ્મા સંકલનનો નિયમ | (A) કુલ એન્થાલ્પી ફેરફાર પ્રક્રિયાના માર્ગ પર આધારિત નથી \n(2) પ્રક્રિયા એન્થાલ્પી | (B) ΣH(products) - ΣH(reactants)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'હેસ' કહે છે: 'સીધા જાવ કે ફરીને, ખર્ચો (ΔH) સરખો જ થાય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: સ્વયંસ્ફૂર્તતા | વિભાગ B: શરત \n(1) સ્વયંસ્ફૂર્ત પ્રક્રિયા | (A) ΔG < 0 \n(2) બિન-સ્વયંસ્ફૂર્ત પ્રક્રિયા | (B) ΔG > 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Gibbs (G) Negative હોય તો જ પ્રક્રિયા 'Go' (થશે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: એન્ટ્રોપી (S) | વિભાગ B: અવસ્થા \n(1) સૌથી વધુ એન્ટ્રોપી | (A) વાયુ અવસ્થા \n(2) સૌથી ઓછી એન્ટ્રોપી | (B) ઘન અવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) એન્ટ્રોપી એટલે અવ્યવસ્થા. વાયુમાં રખડપટ્ટી વધુ એટલે એન્ટ્રોપી વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: ગિબ્સ ઉર્જા સમીકરણ | વિભાગ B: પદ \n(1) ΔG = ΔH - TΔS | (A) ગિબ્સ-હેલ્મોલ્ટ્ઝ સમીકરણ \n(2) સામ્ય અવસ્થાએ ΔG | (B) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સામ્યતા એટલે બેલેન્સ, બેલેન્સ એટલે Net Change = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રનો ત્રીજો નિયમ | વિભાગ B: અર્થ \n(1) ત્રીજો નિયમ | (A) શુદ્ધ સ્ફટિકમય પદાર્થની એન્ટ્રોપી 0 K તાપમાને શૂન્ય હોય છે \n(2) નિરપેક્ષ શૂન્ય તાપમાન | (B) 0 K અથવા -273.15 °C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઠંડીમાં બધું થીજી જાય, હલનચલન બંધ તો એન્ટ્રોપી ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: પ્રક્રિયા એન્થાલ્પી | વિભાગ B: વ્યાખ્યા \n(1) દહન એન્થાલ્પી (ΔcH) | (A) 1 મોલ પદાર્થનું સંપૂર્ણ દહન થાય ત્યારે \n(2) તટસ્થીકરણ એન્થાલ્પી | (B) એસિડ અને બેઇઝ વચ્ચેની પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Combustion = સળગાવવું (દહન), Neutralization = એસિડ + બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: એકમો | વિભાગ B: ભૌતિક રાશિ \n(1) J / (mol·K) | (A) મોલર એન્ટ્રોપી \n(2) kJ / mol | (B) એન્થાલ્પી ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) એન્ટ્રોપીમાં તાપમાન (K) નીચે આવે (S=q/T).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: બંધ એન્થાલ્પી | વિભાગ B: પ્રક્રિયા \n(1) બંધ વિયોજન એન્થાલ્પી | (A) વાયુરૂપ બંધ તોડવા માટે જરૂરી ઉર્જા \n(2) પરમાણ્વીયકરણ એન્થાલ્પી | (B) પદાર્થને પરમાણુમાં ફેરવવા માટેની ઉર્જા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Dissociation = તોડવું, Atomization = પરમાણુ બનાવવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: પ્રક્રિયા એન્થાલ્પી અને બંધ ઉર્જા | વિભાગ B: સંબંધ \n(1) ΔrH | (A) Σ (પ્રક્રિયકની બંધ એન્થાલ્પી) - Σ (નીપજની બંધ એન્થાલ્પી) \n(2) સામાન્ય ΔrH | (B) ΣH(નીપજ) - ΣH(પ્રક્રિયક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) બંધ ઉર્જામાં 'પ્રક્રિયક - નીપજ' થાય, બાકી બધે 'નીપજ - પ્રક્રિયક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રના પ્રાચલ | વિભાગ B: સાચું વિધાન \n(1) એન્થાલ્પી (H) | (A) અવસ્થા વિધેય છે \n(2) કાર્ય (w) | (B) પથ વિધેય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'કાર્ય' અને 'ઉષ્મા' રસ્તા પર ચાલે (Path), બાકી બધા સ્ટેજ (State) પર રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: લેટિસ એન્થાલ્પી | વિભાગ B: ઉદાહરણ \n(1) Na+(g) + Cl-(g) → NaCl(s) | (A) લેટિસ એન્થાલ્પી ફેરફાર \n(2) બોર્ન-હેબર ચક્ર | (B) લેટિસ એન્થાલ્પી ગણવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સ્ફટિક બને ત્યારે નીકળતી ઉર્જા એટલે લેટિસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: સ્વયંસ્ફૂર્તતા માટે ΔH અને ΔS | વિભાગ B: પ્રક્રિયાનું વલણ \n(1) ΔH < 0 અને ΔS > 0 | (A) હંમેશા સ્વયંસ્ફૂર્ત \n(2) ΔH > 0 અને ΔS < 0 | (B) ક્યારેય સ્વયંસ્ફૂર્ત નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગરમી બહાર નીકળે (–) અને મોજ વધે (+) તો પ્રક્રિયા દોડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: મોલર ઉષ્મા ધારિતા | વિભાગ B: વાયુનો પ્રકાર \n(1) Cp/Cv રેશિયો (γ) | (A) એડિયાબેટિક ઇન્ડેક્સ \n(2) Cv (એક પરમાણ્વીય વાયુ) | (B) 3/2 R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Cp/Cv = Gamma (γ). Monoatomic માટે Cv = 1.5 R.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: એન્થાલ્પીના ફેરફાર | વિભાગ B: સંજ્ઞા \n(1) દ્રાવણ એન્થાલ્પી | (A) ΔsolH \n(2) મંદન એન્થાલ્પી | (B) ΔdilH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Solution = sol, Dilution = dil.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રીય કાર્ય | વિભાગ B: સૂત્ર \n(1) પ્રતિવર્તી વિસ્તરણ કાર્ય | (A) w = -2.303 nRT log(V2/V1) \n(2) અપ્રતિવર્તી કાર્ય | (B) w = -Pext ΔV",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'પ્રતિવર્તી' એટલે લાંબુ સૂત્ર (log વાળું), 'અપ્રતિવર્તી' એટલે ટૂંકું સૂત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: આંતરિક ઉર્જા ફેરફાર (ΔU) | વિભાગ B: શરતો \n(1) મુક્ત વિસ્તરણ (શૂન્યાવકાશમાં) | (A) w = 0 \n(2) ચક્રીય પ્રક્રમ | (B) ΔU = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) શૂન્યાવકાશમાં કોઈ દબાવનાર નથી એટલે કામ ઝીરો! ગોળ ફરીને ત્યાં જ આવો તો ઉર્જા ફેરફાર ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: પદ | વિભાગ B: વ્યાખ્યા \n(1) વિશ્વ (Universe) | (A) પ્રણાલી + પર્યાવરણ \n(2) સીમા (Boundary) | (B) પ્રણાલી અને પર્યાવરણને અલગ કરતી સપાટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) આખું બ્રહ્માંડ = તમે (System) + બાકીના બધા (Surroundings).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: કેલરી અને જૂલ | વિભાગ B: રૂપાંતર \n(1) 1 calorie | (A) 4.184 Joule \n(2) 1 Litre-atm | (B) 101.3 Joule",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કેલરી મોટી છે જૂલ કરતા (4 ગણી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: પ્રક્રિયા | વિભાગ B: ΔS (એન્ટ્રોપી ફેરફાર) \n(1) H2O (l) → H2O (g) | (A) ΔS > 0 \n(2) H2O (l) → H2O (s) | (B) ΔS < 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વરાળ બને તો રખડપટ્ટી વધે (+), બરફ બને તો શાંતિ થઈ જાય (–).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: પ્રક્રિયા | વિભાગ B: Δng (વાયુરૂપ મોલ ફેરફાર) \n(1) N2(g) + 3H2(g) → 2NH3(g) | (A) -2 \n(2) PCl5(g) → PCl3(g) + Cl2(g) | (B) +1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Δng = જમણી બાજુના ગેસ મોલ - ડાબી બાજુના ગેસ મોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રનો શૂન્ય નિયમ | વિભાગ B: સંબંધિત રાશિ \n(1) શૂન્ય ક્રમનો નિયમ | (A) તાપમાનની વ્યાખ્યા \n(2) પ્રથમ નિયમ | (B) ઉર્જા સંરક્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 0 નિયમ એટલે 'Thermal Equilibrium' (તાપમાન સરખું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: પ્રક્રિયા | વિભાગ B: ΔH અને ΔU વચ્ચેનો સંબંધ \n(1) H2(g) + I2(g) → 2HI(g) | (A) ΔH = ΔU \n(2) C(s) + O2(g) → CO2(g) | (B) ΔH = ΔU",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જો બંને બાજુ ગેસના મોલ સરખા હોય (Δng=0), તો ΔH = ΔU.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: અચળ દબાણે કેલરીમીટર | વિભાગ B: માપન \n(1) બોમ્બ કેલરીમીટર | (A) ΔU (અચળ કદ) \n(2) કોફી કપ કેલરીમીટર | (B) ΔH (અચળ દબાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'બોમ્બ' કદમાં ધડાકો કરે (Fixed Volume), 'કપ' ખુલ્લો હોય (Fixed Pressure).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: સ્ટાન્ડર્ડ અવસ્થા | વિભાગ B: શરત \n(1) પ્રમાણિત દબાણ | (A) 1 bar \n(2) પ્રમાણિત તાપમાન (સામાન્ય રીતે) | (B) 298.15 K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Standard = 1 Bar & 25°C.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: એન્થાલ્પીના નામ | વિભાગ B: પ્રક્રિયા \n(1) દ્રાવણ એન્થાલ્પી | (A) 1 મોલ દ્રાવ્યને દ્રાવકમાં ઓગળવો \n(2) આયનીકરણ એન્થાલ્પી | (B) વાયુરૂપ પરમાણુમાંથી ઇલેક્ટ્રોન દૂર કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Solution = ડિઝોલ્વ કરવું, Ionization = આયન બનાવવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: એન્ટ્રોપી ફેરફાર (ΔS) | વિભાગ B: ગાણિતિક સૂત્ર \n(1) ΔS (પ્રણાલી) | (A) qrev / T \n(2) ΔStotal | (B) ΔSsystem + ΔSsurroundings",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) S = q/T યાદ રાખો. ટોટલ એટલે દુનિયા + આપણે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: પ્રક્રિયા અને ΔS | વિભાગ B: ફેરફાર \n(1) રબર બેન્ડને ખેંચવું | (A) ΔS ઘટે છે \n(2) ઇંડાને બાફવું | (B) ΔS વધે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ખેંચવાથી અણુઓ લાઈનમાં આવે (-) , બાફવાથી પ્રોટીન તૂટીને ફેલાય (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: મુક્ત ઉર્જા અને સામ્ય અચળાંક | વિભાગ B: સૂત્ર \n(1) ΔG° | (A) -2.303 RT log K \n(2) K = 1 હોય ત્યારે ΔG° | (B) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) log 1 = 0, એટલે ΔG પણ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રનો બીજો નિયમ | વિભાગ B: વિધાન \n(1) બીજો નિયમ | (A) વિશ્વની એન્ટ્રોપી સતત વધે છે \n(2) સ્વયંસ્ફૂર્ત પ્રક્રમ માટે | (B) ΔStotal > 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કુદરતને હંમેશા કચરો (Disorder) ગમે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: ભૌતિક ફેરફાર | વિભાગ B: ΔH નું નામ \n(1) Br2 (l) → Br2 (g) | (A) ΔvapH \n(2) C (graphite) → C (diamond) | (B) ΔtransH (રૂપાંતરણ એન્થાલ્પી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) એક રૂપમાંથી બીજામાં જાય તો transition.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: આદર્શ વાયુ માટે સંબંધ | વિભાગ B: સૂત્ર \n(1) Cp | (A) Cv + R \n(2) Cv | (B) Cp - R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Cp હંમેશા મોટો હોય, કારણ કે P માટે કામ કરવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: સ્વયંસ્ફૂર્તતા માટે તાપમાનની અસર | વિભાગ B: શરત \n(1) ΔH (+) અને ΔS (+) | (A) ઊંચા તાપમાને સ્વયંસ્ફૂર્ત \n(2) ΔH (-) અને ΔS (-) | (B) નીચા તાપમાને સ્વયંસ્ફૂર્ત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) બંને Plus તો High Temp, બંને Minus તો Low Temp.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: પ્રક્રિયા | વિભાગ B: ΔS નું ચિહ્ન \n(1) CaCO3 (s) → CaO (s) + CO2 (g) | (A) ધન (+) \n(2) 2H (g) → H2 (g) | (B) ઋણ (-)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઘન માંથી ગેસ બને તો (+) , બે છૂટા પરમાણુ ભેગા થાય તો (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: પદોની સમજ | વિભાગ B: સંજ્ઞા \n(1) અવસ્થામાં ફેરફાર (વર્ક) | (A) Δ \n(2) અચળ દબાણે ઉષ્મા | (B) qp",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Δ (Delta) એટલે ફેરફાર, 'p' એટલે pressure અચળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: પ્રણાલીની દીવાલ | વિભાગ B: પ્રકાર \n(1) ઉષ્માવાહક (Diathermic) | (A) ઉષ્માનો વિનિમય થઈ શકે \n(2) ઉષ્મારોધક (Adiabatic) | (B) ઉષ્માનો વિનિમય ન થઈ શકે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'વાહક' એટલે આવવા દેવું, 'રોધક' એટલે બ્લોક કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: એન્થાલ્પીના મૂલ્યો | વિભાગ B: તત્વ \n(1) O2 (g) ની ΔfH° | (A) 0 \n(2) C (graphite) ની ΔfH° | (B) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જે કુદરતી સ્વરૂપમાં મળે તેની બનાવટનો ખર્ચો (ΔfH°) ઝીરો હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: એન્થાલ્પી સંબંધ | વિભાગ B: સૂત્ર \n(1) ΔsubH | (A) ΔfusH + ΔvapH \n(2) ΔrH° | (B) ΣΔfH°(products) - ΣΔfH°(reactants)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઉર્ધ્વપાતન = ઓગળવું + વરાળ બનવું (ડાયરેક્ટ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: ઉષ્મા ક્ષમતા | વિભાગ B: ગુણધર્મનો પ્રકાર \n(1) ઉષ્મા ક્ષમતા (C) | (A) માત્રાત્મક (Extensive) \n(2) વિશિષ્ટ ઉષ્મા ક્ષમતા (Cs) | (B) વિશિષ્ટ (Intensive)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જો 'વિશિષ્ટ' કે 'મોલર' શબ્દ આગળ લાગે તો તે Intensive બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: વાયુ અચળાંક R ના મૂલ્યો | વિભાગ B: એકમો \n(1) 8.314 | (A) J / (mol·K) \n(2) 1.987 (લગભગ 2) | (B) cal / (mol·K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) SI એકમમાં 8.314, કેલરીમાં 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: પ્રક્રિયાની શરત | વિભાગ B: ΔG નું મૂલ્ય \n(1) પ્રક્રિયા પુરોગામી દિશામાં સ્વયંસ્ફૂર્ત | (A) ΔG < 0 \n(2) પ્રક્રિયા પ્રતિગામી દિશામાં સ્વયંસ્ફૂર્ત | (B) ΔG > 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ΔG નેગેટિવ એટલે આગળ વધશે (Forward).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: પથ વિધેય (Path Functions) | વિભાગ B: ઉદાહરણ \n(1) ઉષ્મા (q) | (A) પથ વિધેય \n(2) કાર્ય (w) | (B) પથ વિધેય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) માત્ર q અને w જ પથ વિધેય છે, બાકી બધું State function!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: એન્થાલ્પીનો પ્રકાર | વિભાગ B: લાક્ષણિકતા \n(1) પરમાણ્વીયકરણ એન્થાલ્પી | (A) હંમેશા ધન (+) \n(2) દહન એન્થાલ્પી | (B) હંમેશા ઋણ (-)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) તોડવા માટે ઉર્જા આપવી પડે (+), સળગાવવાથી ઉર્જા મળે (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: એન્ટ્રોપી અને તાપમાન | વિભાગ B: અસર \n(1) તાપમાન વધારતા | (A) એન્ટ્રોપી વધે છે \n(2) તાપમાન ઘટાડતા | (B) એન્ટ્રોપી ઘટે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગરમી વધે તો અણુઓની દોડાદોડી વધે (S up!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: ભૌતિક રાશિ | વિભાગ B: સંજ્ઞા \n(1) ગિબ્સ મુક્ત ઉર્જા | (A) G \n(2) એન્ટ્રોપી | (B) S",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Gibbs માટે G, Entropy માટે S.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: એકમો | વિભાગ B: ભૌતિક રાશિ \n(1) Pascal | (A) દબાણ (P) \n(2) Cubic metre (m³) | (B) કદ (V)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) P-V ના SI એકમો યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રનું કાર્ય | વિભાગ B: સૂત્ર \n(1) અચળ તાપમાને પ્રસરણ | (A) કાર્ય થાય છે \n(2) અચળ કદે ઉષ્મા ફેરફાર | (B) કાર્ય શૂન્ય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ΔV = 0 તો W = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: રાસાયણિક પ્રક્રિયા | વિભાગ B: Δng ગણતરી \n(1) H2(g) + Cl2(g) → 2HCl(g) | (A) 2 - (1+1) = 0 \n(2) NH4Cl(s) → NH3(g) + HCl(g) | (B) (1+1) - 0 = 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઘન (s) પદાર્થને ગણતરીમાં લેવો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: સ્વયંસ્ફૂર્તતા શરતો (ΔStotal) | વિભાગ B: સ્થિતિ \n(1) ΔStotal > 0 | (A) સ્વયંસ્ફૂર્ત \n(2) ΔStotal = 0 | (B) સામ્ય અવસ્થા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Entropy વધે (+) તો પ્રક્રિયા થાય, અટકી જાય તો 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: એન્થાલ્પી અને આંતરિક ઉર્જા | વિભાગ B: ક્યારે સમાન? \n(1) પ્રક્રિયામાં માત્ર ઘન કે પ્રવાહી હોય | (A) ΔH ≈ ΔU \n(2) Δng = 0 હોય ત્યારે | (B) ΔH = ΔU",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગેસ ન હોય અથવા ગેસના મોલ સરખા હોય તો H અને U ભાઈ-ભાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: કાર્યનું ચિહ્ન (Chemistry vs Physics) | વિભાગ B: કેમેસ્ટ્રી મુજબ \n(1) સંકોચન (Compression) | (A) +w \n(2) વિસ્તરણ (Expansion) | (B) -w",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દબાવો તો ઉર્જા વધે (+), ફૂલે તો ઉર્જા વપરાય (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: એન્થાલ્પી ફેરફાર (વિશિષ્ટ) | વિભાગ B: વ્યાખ્યા \n(1) હાઇડ્રેશન એન્થાલ્પી | (A) 1 મોલ નિર્જળ ક્ષારમાં પાણી ઉમેરાય ત્યારે \n(2) લેટિસ એન્થાલ્પી | (B) 1 મોલ આયનીય સ્ફટિકના આયનોને છૂટા પાડવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Hydration = પાણી સાથે પ્રેમ, Lattice = પત્થર (સ્ફટિક) તોડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: એન્ટ્રોપી ફેરફાર (ΔS) | વિભાગ B: સૂત્ર \n(1) ગલન એન્ટ્રોપી | (A) ΔfusH / Tf \n(2) બાષ્પીભવન એન્ટ્રોપી | (B) ΔvapH / Tb",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) S = H/T. ગલન માટે Fusion Temp, બાષ્પીભવન માટે Boiling Temp.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: પ્રતિવર્તી પ્રક્રમ | વિભાગ B: લક્ષણ \n(1) ચાલક બળ અને વિરોધી બળ | (A) અત્યંત સૂક્ષ્મ તફાવત \n(2) સમય | (B) અનંત સમય લાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Reversible એટલે કાચબાની ગતિ, ધીમે ધીમે ચાલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: એન્ટ્રોપી (S) | વિભાગ B: લાક્ષણિકતા \n(1) શુદ્ધ સ્ફટિક (0 K) | (A) S = 0 \n(2) કુદરતી પ્રક્રમ | (B) S હંમેશા વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 0 K એ બધું Freeze, એટલે એન્ટ્રોપી ઝીરો (3rd Law).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: ઉષ્માગતિશાસ્ત્રના સંકેતો | વિભાગ B: અર્થ \n(1) ΔfH° | (A) પ્રમાણિત સર્જન એન્થાલ્પી \n(2) ΔcH° | (B) પ્રમાણિત દહન એન્થાલ્પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) f = Formation (બનાવવું), c = Combustion (બાળવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: મોલર ઉષ્મા ધારિતા (Cp અને Cv) | વિભાગ B: સૂત્ર \n(1) Cp | (A) (dH/dT)p \n(2) Cv | (B) (dU/dT)v",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) P સાથે H (Enthalpy), V સાથે U (Internal Energy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A: આદર્શ વાયુનું વિસ્તરણ | વિભાગ B: પરિણામ \n(1) શૂન્યાવકાશમાં સમતાપી વિસ્તરણ | (A) q=0, w=0, ΔU=0 \n(2) અચળ બાહ્ય દબાણે વિસ્તરણ | (B) w = -Pext ΔV",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Free Expansion એટલે બધું મફત (Zero Work & Energy Change).</p></div>"
+    }
+  ]
+}

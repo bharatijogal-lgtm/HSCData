@@ -1843,3 +1843,366 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સંતુલન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (ભૌતિક પ્રક્રમ) - વિભાગ B: (સંતુલન અવસ્થા) | (1) ઘન ⇌ પ્રવાહી, (2) પ્રવાહી ⇌ વાયુ | (A) ઉત્કલનબિંદુએ, (B) ગલનબિંદુએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘન ઓગળે તો 'ગલન' (B), પ્રવાહી ઉકળે તો 'ઉત્કલન' (A). ગલનબિંદુએ ઘન-પ્રવાહી સંતુલન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (સંતુલન પ્રકાર) - વિભાગ B: (ઉદાહરણ) | (1) ઘન ⇌ વાયુ, (2) ઘન ⇌ દ્રાવણમાં પદાર્થ | (A) ખાંડ(ઘન) ⇌ ખાંડ(દ્રાવણમાં), (B) આયોડિન(ઘન) ⇌ આયોડિન(બાષ્પ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન કપૂરની જેમ ઊર્ધ્વપાતન પામે (ઘન ⇌ વાયુ). ખાંડ પાણીમાં ઓગળે એટલે દ્રાવણ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (નિયમ) - વિભાગ B: (વૈજ્ઞાનિક) | (1) સક્રિય જથ્થાનો નિયમ, (2) સંતુલન પર તાપમાન-દબાણની અસર | (A) લ-શેટેલિયર, (B) ગુલ્ડબર્ગ અને વાગે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જથ્થો' ગિલ્ડ-વાગે એ આપ્યો, 'અસર/ફેરફાર' લ-શેટેલિયરે સમજાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (પ્રક્રિયા) - વિભાગ B: (Kc નો એકમ) | (1) H2 + I2 ⇌ 2HI, (2) N2O4 ⇌ 2NO2 | (A) એકમ રહિત, (B) mol L⁻¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ડેલ્ટા n = 0 (બંને બાજુ મોલ સમાન) તો એકમ ન હોય. HI વાળી પ્રક્રિયામાં 1+1=2 મોલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (એસિડ-બેઇઝ સિદ્ધાંત) - વિભાગ B: (મુખ્ય ખ્યાલ) | (1) આર્હેનિયસ, (2) બ્રોન્સ્ટેડ-લોરી | (A) પ્રોટોન (H+) દાતા/ગ્રાહી, (B) H+ અને OH- આયનો મુક્ત કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્હેનિયસ = પાણીમાં આયનો (H/OH). બ્રોન્સ્ટેડ = પ્રોટોન (H+) ની લેતીદેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (લુઈસ એસિડ/બેઇઝ) - વિભાગ B: (ઉદાહરણ) | (1) લુઈસ એસિડ, (2) લુઈસ બેઇઝ | (A) BF3, (B) NH3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાસે 'લોન પેર' (ટપકાં) હોય તે બેઇઝ (NH3), જે ભૂખ્યું હોય તે એસિડ (BF3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (સંયુગ્મી જોડી) - વિભાગ B: (પદાર્થ) | (1) NH3 નો સંયુગ્મી એસિડ, (2) NH3 નો સંયુગ્મી બેઇઝ | (A) NH4+, (B) NH2-",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ બનાવવો હોય તો H+ ઉમેરો, બેઇઝ બનાવવો હોય તો H+ દૂર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (દ્રાવણનો પ્રકાર) - વિભાગ B: (pH મૂલ્ય) | (1) તટસ્થ દ્રાવણ (298 K), (2) એસિડિક દ્રાવણ | (A) pH = 7, (B) pH < 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH નો સ્કેલ 7 પર તટસ્થ. 7 થી નીચે એસિડ (ઓછું એ એસિડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (સૂત્ર) - વિભાગ B: (સંબંધ) | (1) Kp અને Kc વચ્ચેનો સંબંધ, (2) pH અને pOH વચ્ચેનો સંબંધ | (A) Kp = Kc(RT)^Δn, (B) pH + pOH = 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kp = Kc (RT)^Δn યાદ રાખવા 'કેપી કાકા' સૂત્ર. સરવાળો હંમેશા 14 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (ક્ષારનું જળવિભાજન) - વિભાગ B: (દ્રાવણનો સ્વભાવ) | (1) NaCl, (2) CH3COONa | (A) તટસ્થ, (B) બેઝિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પ્રબળ હોય તેવું દ્રાવણ બને. NaOH (પ્રબળ બેઇઝ) + CH3COOH (નિર્બળ એસિડ) = બેઝિક દ્રાવણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (નિર્બળ એસિડ) - વિભાગ B: (Ka નું મૂલ્ય) | (1) વધુ પ્રબળ એસિડ, (2) ઓછો પ્રબળ એસિડ | (A) મોટું Ka, (B) નાનું Ka",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ka અને એસિડિકતા સપ્રમાણમાં હોય. Ka વધે તો એસિડિકતા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (પ્રક્રિયા ભાગફળ Qc) - વિભાગ B: (પ્રક્રિયાની દિશા) | (1) Qc < Kc, (2) Qc > Kc | (A) પુરોગામી દિશા, (B) પ્રતિગામી દિશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Q' ને 'K' જેવું થવું છે. જો Q નાનો હોય તો આગળ વધશે (પુરોગામી), જો મોટો હોય તો પાછળ આવશે (પ્રતિગામી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (બફર દ્રાવણ) - વિભાગ B: (ઉદાહરણ) | (1) એસિડિક બફર, (2) બેઝિક બફર | (A) CH3COOH + CH3COONa, (B) NH4OH + NH4Cl",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્બળ એસિડ + તેનો ક્ષાર = એસિડિક બફર. નિર્બળ બેઇઝ + તેનો ક્ષાર = બેઝિક બફર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (દ્રાવ્યતા ગુણાકાર Ksp) - વિભાગ B: (સૂત્ર) | (1) AgCl (AB પ્રકાર), (2) Ag2CrO4 (A2B પ્રકાર) | (A) S², (B) 4S³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AB માટે S^2. A2B કે AB2 માટે 2^2 * S^3 = 4S^3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (ઘટના) - વિભાગ B: (તાપમાનની અસર) | (1) ઉષ્માશોષક પ્રક્રિયા, (2) ઉષ્માક્ષેપક પ્રક્રિયા | (A) તાપમાન વધારતા સંતુલન પુરોગામી જાય, (B) તાપમાન ઘટાડતા સંતુલન પુરોગામી જાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શોષક' ને ગરમી ગમે (તાપમાન વધારો). 'ક્ષેપક' ને ઠંડક ગમે (તાપમાન ઘટાડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (દબાણની અસર) - વિભાગ B: (મોલની સંખ્યા) | (1) દબાણ વધારતા, (2) દબાણ ઘટાડતા | (A) ઓછા મોલ તરફ ખસે, (B) વધુ મોલ તરફ ખસે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ વધે તો જગ્યા ઓછી જોઈએ, એટલે ઓછા મોલ બાજુ ભાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (ઉદ્દીપકની અસર) - વિભાગ B: (સંતુલન પર અસર) | (1) સંતુલન અચળાંક (K), (2) સંતુલન સ્થપાવવાનો સમય | (A) કોઈ ફેરફાર નહીં, (B) ઘટાડો કરે (ઝડપથી સ્થપાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉદ્દીપક ક્યારેય 'K' ને અડતો નથી, તે માત્ર 'સમય' બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (એસિડ) - વિભાગ B: (ક્ષાર) | (1) HCl, (2) H2CO3 | (A) પ્રબળ એસિડ, (B) નિર્બળ એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખનીજ એસિડ (HCl, HNO3) પ્રબળ, કાર્બનિક એસિડ નિર્બળ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (pH રેન્જ) - વિભાગ B: (દ્રાવણ) | (1) pH = 0 થી 2, (2) pH = 12 થી 14 | (A) અતિશય એસિડિક, (B) અતિશય બેઝિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 ની નજીક પ્રબળ એસિડ, 14 ની નજીક પ્રબળ બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (Kw નું મૂલ્ય) - વિભાગ B: (તાપમાન) | (1) 1.0 × 10⁻¹⁴, (2) તાપમાન વધારતા Kw | (A) 298 K તાપમાને, (B) વધે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું આયનીકરણ ઉષ્માશોષક છે, એટલે તાપમાન વધારતા Kw વધે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (હેન્ડરસન સમીકરણ) - વિભાગ B: (ઉપયોગ) | (1) એસિડિક બફરની pH, (2) બેઝિક બફરની pOH | (A) pKa + log([ક્ષાર]/[એસિડ]), (B) pKb + log([ક્ષાર]/[બેઇઝ])",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ હોય તો pKa, બેઇઝ હોય તો pKb. ઉપર હંમેશા ક્ષાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (સાંદ્રતાની અસર) - વિભાગ B: (દિશા) | (1) પ્રક્રિયકની સાંદ્રતા વધારતા, (2) નીપજની સાંદ્રતા વધારતા | (A) પુરોગામી, (B) પ્રતિગામી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બાજુ વધારો કરો, તેની વિરુદ્ધ દિશામાં પ્રક્રિયા ભાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (બહુપ્રોટિક એસિડ) - વિભાગ B: (આયનીકરણ અચળાંક) | (1) H2SO4 માટે, (2) સાચો ક્રમ | (A) Ka1, Ka2, (B) Ka1 > Ka2 > Ka3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ પ્રોટોન દૂર કરવો સૌથી સહેલો હોય, એટલે હંમેશા Ka1 સૌથી મોટું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (ઉદાહરણ) - વિભાગ B: (પ્રકાર) | (1) ખાંડનું દ્રાવણ, (2) NaCl નું દ્રાવણ | (A) બિન-વિદ્યુતવિભાજ્ય, (B) વિદ્યુતવિભાજ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠું પાણીમાં આયનો આપે (વિદ્યુત વહે), ખાંડ આયનો ન આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (વિદ્યુતવિભાજ્ય) - વિભાગ B: (આયનીકરણ અંશ α) | (1) પ્રબળ વિદ્યુતવિભાજ્ય, (2) નિર્બળ વિદ્યુતવિભાજ્ય | (A) α ≈ 1 (100%), (B) α << 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રબળ' એટલે પૂરેપૂરું ઓગળી જાય (100%), 'નિર્બળ' એટલે થોડુંક જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (સમાન આયન અસર) - વિભાગ B: (અસર) | (1) CH3COOH માં CH3COONa ઉમેરતા, (2) AgCl ની દ્રાવ્યતા NaCl ની હાજરીમાં | (A) આયનીકરણ ઘટે, (B) દ્રાવ્યતા ઘટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોમન આયન' હંમેશા પ્રક્રિયાને પાછળ ધકેલે, એટલે બધું ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (સંતુલન અચળાંક K) - વિભાગ B: (તાપમાન સાથે ફેરફાર) | (1) ઉષ્માક્ષેપક પ્રક્રિયા, (2) ઉષ્માશોષક પ્રક્રિયા | (A) T વધતા K ઘટે, (B) T વધતા K વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોષક-વધારો (સીધો સંબંધ), ક્ષેપક-ઘટાડો (ઉલટો સંબંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (દ્રાવ્યતા ગુણાકાર અને અવક્ષેપન) - વિભાગ B: (શરત) | (1) અવક્ષેપ પડે, (2) દ્રાવણ અસંતૃપ્ત | (A) Qi > Ksp, (B) Qi < Ksp",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આયનો વધી જાય (Qi > Ksp) તો કચરો (અવક્ષેપ) નીચે બેસી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (સમીકરણ) - વિભાગ B: (નામ) | (1) ΔG° = -RT lnK, (2) pKa = -log Ka | (A) ગિબ્સ ઉર્જા અને K વચ્ચે સંબંધ, (B) pKa ની વ્યાખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'p' એટલે '-log'. ΔG° માં માઈનસ ચિહ્ન ભૂલવું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (રાસાયણિક પ્રણાલી) - વિભાગ B: (નિષ્ક્રિય વાયુની અસર - અચળ કદે) | (1) Δn = 0, (2) Δn ≠ 0 | (A) કોઈ અસર નહીં, (B) કોઈ અસર નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ 'કદ' હોય તો નિષ્ક્રિય વાયુ ગમે તેટલો નાખો, સંતુલન હાલે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A: (નિર્બળ બેઇઝ) - વિભાગ B: (Kb નું મૂલ્ય) | (1) NH3, (2) પિરિડિન | (A) 1.77 × 10⁻⁵, (B) 1.77 × 10⁻⁹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એમોનિયા પિરિડિન કરતા વધુ પ્રબળ છે, એટલે એનું Kb મોટું હોય (-5 ઘાત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A: (હાઈડ્રોનિયમ આયન) - વિભાગ B: (સંકેત) | (1) H3O+, (2) OH- | (A) એસિડિક ગુણ માટે જવાબદાર, (B) બેઝિક ગુણ માટે જવાબદાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H પ્લસ એ એસિડનો 'હીરો', OH માઈનસ એ બેઇઝનો 'હીરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A: (pH પેપરનો રંગ) - વિભાગ B: (દ્રાવણ) | (1) ઘેરો લાલ, (2) ઘેરો વાદળી | (A) પ્રબળ એસિડ, (B) પ્રબળ બેઇઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લાલ' ખતરો એટલે એસિડ, 'વાદળી' બેઇઝ (B for Blue, B for Base).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A: (Ksp સૂત્ર) - વિભાગ B: (ક્ષારનો પ્રકાર) | (1) Ksp = 27S⁴, (2) Ksp = 108S⁵ | (A) AB3 પ્રકાર (દા.ત. AlCl3), (B) A2B3 પ્રકાર (દા.ત. As2S3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AB3 = 1^1 * 3^3 * S^(1+3) = 27S^4. A2B3 = 2^2 * 3^3 * S^(2+3) = 108S^5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A: (લોરી-બ્રોન્સ્ટેડ એસિડ) - વિભાગ B: (ઉદાહરણ) | (1) H2O (એસિડ તરીકે), (2) H2O (બેઇઝ તરીકે) | (A) જ્યારે NH3 સાથે પ્રક્રિયા કરે, (B) જ્યારે HCl સાથે પ્રક્રિયા કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ઉભયગુણી છે. સામે જે હોય તેનાથી ઉલટું વર્તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A: (ગતિશીલ સંતુલન) - વિભાગ B: (લાક્ષણિકતા) | (1) પુરોગામી વેગ = પ્રતિગામી વેગ, (2) સંતુલન સમયે સાંદ્રતા | (A) સંતુલનની સ્થિતિ, (B) અચળ બને છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેગ સરખો થાય ત્યારે જ સંતુલન કહેવાય. સાંદ્રતા બદલાતી બંધ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A: (PCl5 ⇌ PCl3 + Cl2) - વિભાગ B: (દબાણની અસર) | (1) દબાણ વધારતા, (2) દબાણ ઘટાડતા | (A) પ્રતિગામી (PCl5 વધે), (B) પુરોગામી (PCl3 વધે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબી બાજુ 1 મોલ, જમણી બાજુ 1+1=2 મોલ. દબાણ વધે તો ઓછા મોલ (ડાબી બાજુ) જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A: (સૂચક) - વિભાગ B: (pH રંગ પરિવર્તન) | (1) ફિનોલ્ફથેલીન, (2) મિથાઈલ ઓરેન્જ | (A) ગુલાબી (બેઝિકમાં), (B) લાલ (એસિડિકમાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફિનો બેઝિકમાં ગુલાબી' (Pink-Ph), 'મિથાઈલ એસિડમાં લાલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A: (ક્ષાર) - વિભાગ B: (જળવિભાજનનો પ્રકાર) | (1) NH4Cl, (2) CH3COONH4 | (A) ધનાયનીય જળવિભાજન, (B) ધનાયન અને ઋણાયન બંનેનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ભાગ 'નિર્બળ' પિતૃમાંથી આવ્યો હોય તેનું જળવિભાજન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A: (હેન્રીનો નિયમ) - વિભાગ B: (ઉદાહરણ) | (1) વાયુની પ્રવાહીમાં દ્રાવ્યતા ∝ દબાણ, (2) સોડા વોટરની બોટલ | (A) ભૌતિક સંતુલન, (B) દબાણ વધારતા CO2 ની દ્રાવ્યતા વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ આપો તો વાયુ પ્રવાહીમાં 'ગૂસી' જાય (દ્રાવ્ય થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A: (કાર્બનિક એસિડ) - વિભાગ B: (સૂત્ર) | (1) ફોર્મિક એસિડ, (2) એસિટિક એસિડ | (A) HCOOH, (B) CH3COOH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કાર્બન = ફોર્મિક, 2 કાર્બન = એસિટિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A: (સંતુલન અચળાંકના લક્ષણો) - વિભાગ B: (સ્થિતિ) | (1) પ્રક્રિયા ઉલટાવતા, (2) સમીકરણને 2 વડે ગુણતા | (A) K' = 1/K, (B) K' = K²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉલટું કરો તો છેદમાં જાય, ગુણાકાર કરો તો ઘાતમાં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A: (K મૂલ્ય) - વિભાગ B: (પ્રક્રિયાની પૂર્ણતા) | (1) K > 10³, (2) K < 10⁻³ | (A) પ્રક્રિયા લગભગ પૂર્ણ થાય, (B) પ્રક્રિયા ખૂબ જ ઓછી થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો K = વધુ નીપજ (પૂર્ણતા), નાનો K = વધુ પ્રક્રિયક (અપૂર્ણતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A: (વિષમાંગ સંતુલન) - વિભાગ B: (ઉદાહરણ) | (1) CaCO3(s) ⇌ CaO(s) + CO2(g), (2) Kc નું સૂત્ર | (A) વિષમાંગ સંતુલન, (B) Kc = [CO2]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ ઘન (s) અને પ્રવાહી (l) ની સાંદ્રતા હંમેશા 1 લેવી, એટલે Kc માં તે ન આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A: (સમાગ સંતુલન) - વિભાગ B: (અર્થ) | (1) બધી જ સ્પીસીઝ એક જ અવસ્થામાં, (2) ઉદાહરણ | (A) સમાગ સંતુલન, (B) H2(g) + I2(g) ⇌ 2HI(g)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધે (g) દેખાય એટલે સમાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A: (લુઈસ બેઇઝના પ્રકાર) - વિભાગ B: (ઉદાહરણ) | (1) ઋણ આયન, (2) તટસ્થ અણુ | (A) Cl-, (B) H2O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેના પર માઈનસ હોય અથવા જેના પર વધારાના ઇલેક્ટ્રોન હોય તે બેઇઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A: (HCl અને NH3 પ્રક્રિયા) - વિભાગ B: (નીપજ) | (1) અવસ્થા, (2) પ્રકૃતિ | (A) NH4Cl નો સફેદ ધુમાડો, (B) એસિડ-બેઇઝ પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ + બેઇઝ = ક્ષાર. NH4Cl સફેદ ધુમાડા તરીકે જાણીતો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A: (સંતુલન પર અસર) - વિભાગ B: (પરિબળ) | (1) માત્ર તાપમાન બદલાતા બદલાય, (2) પ્રારંભિક સાંદ્રતા પર આધાર રાખતો નથી | (A) સંતુલન અચળાંક (K), (B) સંતુલન અચળાંક (K)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'K' બહુ જ જિદ્દી છે, તે માત્ર 'તાપમાન' થી જ બદલાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A: (pH ગણતરી) - વિભાગ B: (મૂલ્ય) | (1) 0.01 M HCl, (2) 0.001 M NaOH | (A) pH = 2, (B) pH = 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10^-2 એટલે pH=2. 0.001 M NaOH માટે pOH=3, તો pH = 14-3 = 11.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A: (આયનીકરણ અચળાંક) - વિભાગ B: (એસિડ) | (1) સૌથી વધુ Ka, (2) સૌથી ઓછું Ka | (A) HF, (B) HCN",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: HF એ HCN કરતા ઘણો પ્રબળ એસિડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A: (દ્રાવ્યતા અને તાપમાન) - વિભાગ B: (પ્રક્રમ) | (1) તાપમાન વધારતા દ્રાવ્યતા વધે, (2) તાપમાન વધારતા દ્રાવ્યતા ઘટે | (A) ઉષ્માશોષક ઓગળવું, (B) ઉષ્માક્ષેપક ઓગળવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ગરમી આપવી પડે (શોષક) તો ગરમી આપતા દ્રાવ્યતા વધે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A: (સૂત્ર) - વિભાગ B: (પરિમાણ) | (1) pKa + pKb = pKw, (2) pKw નું મૂલ્ય | (A) સંયુગ્મી એસિડ-બેઇઝ માટે, (B) 14 (25°C એ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ka * Kb = Kw થાય, અને log માં સરવાળો 14 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A: (એસિડિક સ્ટ્રેન્થ ક્રમ) - વિભાગ B: (ક્રમ) | (1) હેલોજન એસિડ, (2) ઓક્સો એસિડ (HclO-HclO4) | (A) HI > HBr > HCl > HF, (B) HClO4 > HClO3 > HClO2 > HClO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ કદ વધે તેમ H જલ્દી છૂટે (HI પ્રબળ). જેમ ઓક્સિજન વધે તેમ એસિડિટી વધે (HClO4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A: (સંતુલન પર ઉમદા વાયુ) - વિભાગ B: (સ્થિતિ) | (1) અચળ દબાણે (Δn > 0), (2) અચળ દબાણે (Δn < 0) | (A) પુરોગામી ખસે, (B) પ્રતિગામી ખસે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ દબાણે ઉમદા વાયુ નાખતા કદ વધે, એટલે વધુ મોલ તરફ ભાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A: (N2 + 3H2 ⇌ 2NH3 + Heat) - વિભાગ B: (અનુકૂળ સ્થિતિ) | (1) તાપમાન, (2) દબાણ | (A) નીચું તાપમાન, (B) ઊંચું દબાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેબર વિધિ: ગરમી બહાર નીકળે એટલે ઠંડક (નીચું T) જોઈએ, અને મોલ ઘટે એટલે ઊંચું દબાણ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A: (પદાર્થ) - વિભાગ B: (બ્રોન્સ્ટેડ બેઇઝ) | (1) H2O, (2) NH3 | (A) H3O+ બનાવે, (B) NH4+ બનાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઇઝ એ પ્રોટોન 'ગ્રાહી' છે, એટલે એક H+ વધી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A: (H2 + Cl2 ⇌ 2HCl) - વિભાગ B: (K અને Q વચ્ચેનો સંબંધ) | (1) સંતુલન સમયે, (2) પ્રક્રિયાની શરૂઆતમાં | (A) Qc = Kc, (B) Qc < Kc",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆતમાં નીપજ ઓછી હોય એટલે Q નાનો હોય. સંતુલને બંને સરખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A: (કાર્બનિક દ્રાવક) - વિભાગ B: (સંતુલન) | (1) પ્રવાહી ⇌ પ્રવાહી, (2) ઉદાહરણ | (A) વિતરણ નિયમ, (B) આયોડિનનું પાણી અને CCl4 વચ્ચે વિતરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અદ્રાવ્ય પ્રવાહી વચ્ચે પદાર્થ વહેંચાય તેને વિતરણ નિયમ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A: (સાંદ્રતાનો એકમ) - વિભાગ B: (સંતુલનમાં) | (1) Kc માટે, (2) Kp માટે | (A) Molar (M), (B) Bar અથવા Atm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: C for Concentration (સાંદ્રતા-M), P for Pressure (દબાણ-Bar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A: (રક્તની pH) - વિભાગ B: (જાળવણી) | (1) રક્તની pH, (2) બફર તંત્ર | (A) 7.4, (B) H2CO3 / HCO3-",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહી થોડુંક બેઝિક (7.4) હોય અને કાર્બોનેટ બફર તેને સાચવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A: (Δn શોધવા) - વિભાગ B: (પ્રક્રિયા) | (1) Δn = 1, (2) Δn = -1 | (A) PCl5 ⇌ PCl3 + Cl2, (B) NH3 + HCl ⇌ NH4Cl(s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Δn = (નીપજના વાયુ મોલ) - (પ્રક્રિયકના વાયુ મોલ). NH4Cl ઘન છે એટલે તેના મોલ 0 લેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A: (વિદ્યુતવિભાજ્યના ઉદાહરણ) - વિભાગ B: (શ્રેણી) | (1) પ્રબળ બેઇઝ, (2) નિર્બળ બેઇઝ | (A) KOH, (B) NH4OH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રુપ 1 અને 2 ના હાઇડ્રોક્સાઇડ પ્રબળ હોય (KOH, NaOH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A: (લ-શેટેલિયરનો સિદ્ધાંત) - વિભાગ B: (ઉપયોગ) | (1) ઉદ્યોગોમાં, (2) ભૌતિક ફેરફારમાં | (A) નીપજનું પ્રમાણ વધારવા, (B) બરફનું પાણીમાં રૂપાંતર સમજવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સિદ્ધાંત આપણને સંતુલન સાથે 'રમત' કરતા શીખવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A: (AgCl ની દ્રાવ્યતા) - વિભાગ B: (માધ્યમ) | (1) વધુ દ્રાવ્ય, (2) ઓછી દ્રાવ્ય | (A) શુદ્ધ પાણીમાં, (B) 0.1 M AgNO3 માં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાન આયન' (Ag+) આવે એટલે દ્રાવ્યતા ઘટે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A: (નિર્બળ એસિડનો pH) - વિભાગ B: (સૂત્ર) | (1) pH, (2) [H+] | (A) 1/2 (pKa - log C), (B) √(Ka * C)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિર્બળ માટે રૂટ (√) આવે અથવા pH માં 1/2 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A: (દ્રાવ્યતા s) - વિભાગ B: (સંબંધ) | (1) Ksp = s², (2) Ksp = 4s³ | (A) BaSO4, (B) PbI2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: BaSO4 (1:1) એટલે s^2. PbI2 (1:2) એટલે 4s^3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A: (સંતુલન અચળાંકના એકમો) - વિભાગ B: (પ્રક્રિયા) | (1) mol² L⁻², (2) bar⁻¹ | (A) N2 + 3H2 ⇌ 2NH3 (Kc માટે), (B) 2SO2 + O2 ⇌ 2SO3 (Kp માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A (નોંધ: ભૂલ છે, mol⁻² L² હોવું જોઈએ), (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકમ = (Unit)^Δn. NH3 માટે Δn = 2-4 = -2. એટલે mol^-2 L^2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A: (Ostwald મંદનનો નિયમ) - વિભાગ B: (સૂત્ર) | (1) α ∝ √V, (2) Ka | (A) મંદન વધારતા આયનીકરણ વધે, (B) Cα² / (1-α)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નાખતા જાવ તેમ નિર્બળ વિદ્યુતવિભાજ્ય વધુ આયનો આપતો જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A: (pH ના ફેરફારનો પ્રતિકાર) - વિભાગ B: (શબ્દ) | (1) બફર ક્રિયા, (2) બફર ક્ષમતા | (A) pH બદલાવા ન દેવી, (B) બફરની તાકાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બફર એટલે 'રક્ષક' જે pH ને પકડી રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A: (સંતુલન મિશ્રણ) - વિભાગ B: (રંગ) | (1) Fe³⁺ + SCN⁻ ⇌ [Fe(SCN)]²⁺, (2) સાંદ્રતા વધારતા | (A) ઘેરો લાલ રંગ, (B) રંગની તીવ્રતા વધે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પ્રયોગ સંતુલન સમજવા માટે ફેમસ છે. લાલ રંગ એટલે કોમ્પ્લેક્સ બન્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A: (સંતુલન ગતિશીલ છે) - વિભાગ B: (પુરાવો) | (1) રેડિયોએક્ટિવ આયોડિનનો પ્રયોગ, (2) શૂન્ય વેગ | (A) ગતિશીલતા સાબિત કરે છે, (B) સંતુલને વેગ શૂન્ય હોતો નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંતુલન એટલે 'થંભી જવું' નહીં, પણ 'સરખી ઝડપે દોડવું'.</p></div>"
+    }
+  ]
+}

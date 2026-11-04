@@ -2206,3 +2206,386 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રેડોક્ષ પ્રક્રિયાઓ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિડેશન (પ્રાચીન ખ્યાલ), (2) રિડક્શન (પ્રાચીન ખ્યાલ)\nવિભાગ B: (a) હાઈડ્રોજનનો ઉમેરો, (b) ઓક્સિજનનો ઉમેરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O ઉમેરાય તો 'O'ક્સિડેશન, H ઉમેરાય તો રિડક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિડેશન (ઈલેક્ટ્રોનીય ખ્યાલ), (2) રિડક્શન (ઈલેક્ટ્રોનીય ખ્યાલ)\nવિભાગ B: (a) ઈલેક્ટ્રોન મેળવવો, (b) ઈલેક્ટ્રોન ગુમાવવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ'યો ઈલેક્ટ્રોન તો ઓક્સિડેશન (G-O), 'મે'ળવ્યો તો રિડક્શન (M-R).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિડેશનકર્તા, (2) રિડક્શનકર્તા\nવિભાગ B: (a) પોતે ઓક્સિડેશન પામે, (b) પોતે રિડક્શન પામે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બીજાનું જે કરે તે 'કર્તા', પણ પોતે તેનાથી ઊલટું થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મુક્ત અવસ્થામાં તત્ત્વનો ઓક્સિડેશન આંક, (2) એકપરમાણ્વીય આયનનો ઓક્સિડેશન આંક\nવિભાગ B: (a) તેના પરના વીજભાર જેટલો, (b) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલો હોય તો 'ઝીરો' (Hero), આયન હોય તો 'વીજભાર' (Power).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ફ્લોરિન (F) નો ઓક્સિડેશન આંક, (2) આલ્કલી ધાતુઓનો ઓક્સિડેશન આંક\nવિભાગ B: (a) +1 (હંમેશા), (b) -1 (હંમેશા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F સૌથી વધુ વિદ્યુતઋણ છે એટલે -1 ફિક્સ, ગ્રુપ-1 એટલે +1 ફિક્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિજનનો ઓક્સિડેશન આંક પેરોક્સાઇડમાં, (2) ઓક્સિજનનો ઓક્સિડેશન આંક સુપરઓક્સાઇડમાં\nવિભાગ B: (a) -1/2, (b) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેરોક્સાઇડ (H2O2) = -1, સુપરઓક્સાઇડ (KO2) = -1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) OF2 માં ઓક્સિજનનો ઓક્સિડેશન આંક, (2) O2F2 માં ઓક્સિજનનો ઓક્સિડેશન આંક\nવિભાગ B: (a) +1, (b) +2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન સામે ઓક્સિજન 'પોઝિટિવ' થઈ જાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) હાઈડ્રોજન અધાતુ સાથે, (2) હાઈડ્રોજન સક્રિય ધાતુ સાથે (હાઈડ્રાઈડ)\nવિભાગ B: (a) -1, (b) +1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાતુ (Metal) સાથે હાઈડ્રોજન 'માઈનસ' (-1) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સંયોગીકરણ પ્રક્રિયા, (2) વિઘટન પ્રક્રિયા\nવિભાગ B: (a) 2KClO3 → 2KCl + 3O2, (b) C + O2 → CO2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયોગ એટલે 'ભેગા થવું', વિઘટન એટલે 'છૂટા પડવું'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) વિસ્થાપન પ્રક્રિયા, (2) વિષમીકરણ પ્રક્રિયા\nવિભાગ B: (a) P4 + 3OH- + 3H2O → PH3 + 3H2PO2-, (b) CuSO4 + Zn → ZnSO4 + Cu",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્થાપન એટલે 'ખુરશી ખાલી કરાવવી', વિષમીકરણ એટલે 'એક જ તત્ત્વનું ઓક્સિડેશન અને રિડક્શન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) KMnO4 માં Mn નો ઓક્સિડેશન આંક, (2) K2Cr2O7 માં Cr નો ઓક્સિડેશન આંક\nવિભાગ B: (a) +6, (b) +7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MnO4- માં +7 અને Cr2O7-2 માં +6 આંક ગોખી જ નાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સ્ટોક સંકેત પદ્ધતિ (FeO), (2) સ્ટોક સંકેત પદ્ધતિ (Fe2O3)\nવિભાગ B: (a) આયર્ન (III) ઓક્સાઇડ, (b) આયર્ન (II) ઓક્સાઇડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રોમન આંકડામાં જે લખાય તે ધાતુનો ઓક્સિડેશન આંક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) H2S માં સલ્ફરનો ઓક્સિડેશન આંક, (2) SO2 માં સલ્ફરનો ઓક્સિડેશન આંક\nવિભાગ B: (a) +4, (b) -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H હંમેશા +1 (અહીં), O હંમેશા -2 (અહીં). ગણતરી કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિડેશન આંક પદ્ધતિ, (2) અર્ધ પ્રક્રિયા પદ્ધતિ\nવિભાગ B: (a) આયન-ઈલેક્ટ્રોન પદ્ધતિ, (b) રેડોક્ષ પ્રક્રિયા સંતુલિત કરવાની રીત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધ પ્રક્રિયા એટલે ઈલેક્ટ્રોનનો ઉપયોગ (Ion-Electron Method).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) લિથિયમ (Li) નું પ્રમાણિત રિડક્શન પોટેન્શિયલ, (2) ફ્લોરિન (F2) નું પ્રમાણિત રિડક્શન પોટેન્શિયલ\nવિભાગ B: (a) સૌથી વધુ ધન, (b) સૌથી વધુ ઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Li એટલે ડાઉન (-), F2 એટલે અપ (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એનોડ (Anode), (2) કેથોડ (Cathode)\nવિભાગ B: (a) રિડક્શન અર્ધકોષ, (b) ઓક્સિડેશન અર્ધકોષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'An Ox' (Anode-Oxidation) અને 'Red Cat' (Reduction-Cathode).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ક્ષાર સેતુ (Salt Bridge), (2) પ્રમાણિત હાઈડ્રોજન ઈલેક્ટ્રોડ (SHE)\nવિભાગ B: (a) 0.00 V પોટેન્શિયલ, (b) વિદ્યુતતટસ્થતા જાળવવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષાર સેતુ 'બ્રિજ' જેવું કામ કરે, SHE એ 'રેફરન્સ' (0) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સ્વયં સૂચક (Self Indicator), (2) બાહ્ય સૂચક\nવિભાગ B: (a) સ્ટાર્ચ (આયોડોમેટ્રીમાં), (b) KMnO4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: KMnO4 એટલો રંગીન છે કે તેને બીજા કોઈની જરૂર નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એનોડ પરનો વીજભાર (ડેનિયલ કોષ), (2) કેથોડ પરનો વીજભાર (ડેનિયલ કોષ)\nવિભાગ B: (a) ધન (+), (b) ઋણ (-)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LOAN (Left-Oxidation-Anode-Negative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પ્રબળ ઓક્સિડેશનકર્તા, (2) પ્રબળ રિડક્શનકર્તા\nવિભાગ B: (a) Li (લિથિયમ), (b) F2 (ફ્લોરિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: F2 ને ઇલેક્ટ્રોન બહુ ગમે (ઓક્સિડેશનકર્તા), Li ને આપવા ગમે (રિડક્શનકર્તા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) CrO5 માં ક્રોમિયમનો આંક, (2) H2SO5 માં સલ્ફરનો આંક\nવિભાગ B: (a) +6, (b) +6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અપવાદરૂપ કેસ! બંનેમાં પેરોક્સાઇડ બંધ હોવાથી મહત્તમ સંયોજકતા (+6) જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પ્રતિક્રિયાત્મકતા શ્રેણીમાં ઉપર રહેલી ધાતુ, (2) પ્રતિક્રિયાત્મકતા શ્રેણીમાં નીચે રહેલી ધાતુ\nવિભાગ B: (a) સરળતાથી રિડક્શન પામે, (b) સરળતાથી ઓક્સિડેશન પામે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરવાળી ધાતુ 'દાતા' છે (ઓક્સિડેશન પામે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) હાઈડ્રાઇડ આયન (H-), (2) ઓક્સાઇડ આયન (O-2)\nવિભાગ B: (a) ઓક્સિડેશન આંક -2, (b) ઓક્સિડેશન આંક -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયન પરનો વીજભાર જ તેનો ઓક્સિડેશન આંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ધાતુ વિસ્થાપન, (2) અધાતુ વિસ્થાપન\nવિભાગ B: (a) 2Na + 2H2O → 2NaOH + H2, (b) V2O5 + 5Ca → 2V + 5CaO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે મુક્ત થાય તે જોવાનું: H2 મુક્ત થાય તો અધાતુ વિસ્થાપન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) Cl2 ની પાણી સાથે પ્રક્રિયા, (2) P4 ની બેઝ સાથે પ્રક્રિયા\nવિભાગ B: (a) વિષમીકરણ (Disproportionation), (b) વિષમીકરણ (Disproportionation)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-a, 2-b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cl, P, અને S ની બેઝિક માધ્યમની પ્રક્રિયાઓ હંમેશા વિષમીકરણ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) MnO4- થી Mn+2 (એસિડિક), (2) Cr2O7-2 થી Cr+3 (એસિડિક)\nવિભાગ B: (a) 6 ઈલેક્ટ્રોનનો ફેરફાર, (b) 5 ઈલેક્ટ્રોનનો ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mn (+7 થી +2 = 5), Cr (+12 થી +6 = 6 - બે પરમાણુ માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિડેશન આંકમાં વધારો, (2) ઓક્સિડેશન આંકમાં ઘટાડો\nવિભાગ B: (a) રિડક્શન, (b) ઓક્સિડેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારો એટલે 'ઓક્સિડેશન', ઘટાડો એટલે 'રિડક્શન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) KClO3 માં Cl નો આંક, (2) KClO4 માં Cl નો આંક\nવિભાગ B: (a) +7, (b) +5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન વધે તેમ Cl નો ઓક્સિડેશન આંક વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) Cl2 માં Cl નો આંક, (2) HCl માં Cl નો આંક\nવિભાગ B: (a) -1, (b) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન પરમાણુ વચ્ચે બંધ હોય તો 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સુપરઓક્સાઇડ (KO2), (2) પેરોક્સાઇડ (Na2O2)\nવિભાગ B: (a) ઋણ 1 આંક, (b) ઋણ 1/2 આંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુપર હંમેશા 'અડધું' (1/2) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) Fe3O4 માં Fe નો સરેરાશ આંક, (2) Mn3O4 માં Mn નો સરેરાશ આંક\nવિભાગ B: (a) +8/3, (b) +8/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-a, 2-b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિશ્ર ઓક્સાઇડ (X3O4) માં હંમેશા 8/3 સરેરાશ આંક આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એનોડ પર થતી પ્રક્રિયા, (2) કેથોડ પર થતી પ્રક્રિયા\nવિભાગ B: (a) ઈલેક્ટ્રોનનો સ્વીકાર, (b) ઈલેક્ટ્રોનનો ત્યાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એનોડ પરથી ઈલેક્ટ્રોન 'છૂટા' થાય (Oxidation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઈલેક્ટ્રોન મુક્ત કરવાની વૃત્તિ, (2) ઈલેક્ટ્રોન મેળવવાની વૃત્તિ\nવિભાગ B: (a) ઓક્સિડેશનકર્તા હોવું, (b) રિડક્શનકર્તા હોવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ઈલેક્ટ્રોન આપે તે ઉદાર (રિડક્શનકર્તા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) આયોડિનનું સ્ટાર્ચ સાથે રંગ પરિવર્તન, (2) MnO4- નું એસિડિક માધ્યમમાં રંગ પરિવર્તન\nવિભાગ B: (a) ગુલાબીમાંથી રંગવિહીન, (b) વાદળી રંગ આપવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન + સ્ટાર્ચ = ઘેરો વાદળી/કાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) S8 માં સલ્ફરનો આંક, (2) P4 માં ફોસ્ફરસનો આંક\nવિભાગ B: (a) 0, (b) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-a, 2-b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોમો-એટોમિક (સમાન પરમાણુ) એટલે હંમેશા શૂન્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બ્રોમિનનું વિષમીકરણ, (2) ફ્લોરિનનું વિષમીકરણ\nવિભાગ B: (a) શક્ય નથી, (b) શક્ય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિનનો ધન ઓક્સિડેશન આંક શક્ય નથી, એટલે વિષમીકરણ પણ શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) H2S2O7 માં સલ્ફરનો આંક, (2) H2S2O8 માં સલ્ફરનો આંક\nવિભાગ B: (a) +6, (b) +6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-a, 2-b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફરનો આંક +6 થી ક્યારેય વધે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સોડિયમ થિયોસલ્ફેટ (Na2S2O3), (2) સોડિયમ ટેટ્રાથાયોનેટ (Na2S4O6)\nવિભાગ B: (a) સલ્ફરનો આંક +2.5, (b) સલ્ફરનો સરેરાશ આંક +2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S2O3 માં +2 અને S4O6 માં +2.5 (10/4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કાર્બનનો ન્યૂનતમ આંક, (2) કાર્બનનો મહત્તમ આંક\nવિભાગ B: (a) +4, (b) -4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રુપ 14 એટલે રેન્જ -4 થી +4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) NaH માં H નો આંક, (2) NH3 માં H નો આંક\nવિભાગ B: (a) +1, (b) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Na ધાતુ છે (H -1), N અધાતુ છે (H +1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) જલીય માધ્યમમાં ઈલેક્ટ્રોન મેળવવાની ક્ષમતા, (2) જલીય માધ્યમમાં ઈલેક્ટ્રોન ગુમાવવાની ક્ષમતા\nવિભાગ B: (a) રિડક્શન પોટેન્શિયલ, (b) ઓક્સિડેશન પોટેન્શિયલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-a, 2-b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેળવવું એટલે રિડક્શન (Gain-Reduction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ડેનિયલ કોષનું સૂત્ર, (2) કોષ પોટેન્શિયલ (E0 cell)\nવિભાગ B: (a) E0 cathode - E0 anode, (b) Zn | Zn2+ || Cu2+ | Cu",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણું - ડાબું (Right - Left).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) Cu ની AgNO3 સાથેની પ્રક્રિયા, (2) Ag ની Cu(NO3)2 સાથેની પ્રક્રિયા\nવિભાગ B: (a) પ્રક્રિયા થતી નથી, (b) પ્રક્રિયા થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cu એ Ag કરતાં વધુ સક્રિય છે એટલે વિસ્થાપન કરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) હેલોજનની ઓક્સિડેશનકર્તા તરીકેની પ્રબળતા, (2) હેલોજનની રિડક્શનકર્તા તરીકેની પ્રબળતા (X- આયન)\nવિભાગ B: (a) I- > Br- > Cl- > F-, (b) F2 > Cl2 > Br2 > I2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન સૌથી મોટો 'ખેંચનાર' (ઓક્સિડેશનકર્તા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઈલેક્ટ્રોડ પોટેન્શિયલ 298 K પર, (2) આયનોની સાંદ્રતા 1 M\nવિભાગ B: (a) પ્રમાણિત અવસ્થા, (b) પ્રમાણિત ઈલેક્ટ્રોડ પોટેન્શિયલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 M સાંદ્રતા અને 298 K તાપમાન = પ્રમાણિત (Standard).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) Cu(I) સંયોજનો, (2) Cu(II) સંયોજનો\nવિભાગ B: (a) વધુ સ્થાયી (જલીય દ્રાવણમાં), (b) અસ્થાયી (વિષમીકરણ પામે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cu+ પાણીમાં તરત Cu+2 માં ફેરવાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) હાઈડ્રોજનનો અર્ધકોષ, (2) નિષ્ક્રિય ઈલેક્ટ્રોડ\nવિભાગ B: (a) પ્લેટિનમ (Pt), (b) SHE",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pt અને Au નિષ્ક્રિય છે, પ્રક્રિયામાં ભાગ લેતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એસિડિક માધ્યમમાં O ને સંતુલિત કરવા, (2) એસિડિક માધ્યમમાં H ને સંતુલિત કરવા\nવિભાગ B: (a) H+ ઉમેરવા, (b) H2O ઉમેરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O માટે પાણી (Water), H માટે H+.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) CrO4^-2 માં Cr નો આંક, (2) Cr2O3 માં Cr નો આંક\nવિભાગ B: (a) +3, (b) +6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોમેટ આયનમાં ક્રોમિયમ તેની મહત્તમ અવસ્થામાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) MnO4^- (પરમેંગેનેટ), (2) MnO4^-2 (મેંગેનેટ)\nવિભાગ B: (a) +6 આંક, (b) +7 આંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પર' એટલે વધારે (Upper) એટલે +7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) NH4NO3 માં પ્રથમ N નો આંક, (2) NH4NO3 માં બીજા N નો આંક\nવિભાગ B: (a) +5, (b) -3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NH4+ માં -3 અને NO3- માં +5. અલગ-અલગ ગણવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સિલ્વર (Ag) નો SHE સાપેક્ષ પોટેન્શિયલ, (2) ઝિંક (Zn) નો SHE સાપેક્ષ પોટેન્શિયલ\nવિભાગ B: (a) -0.76 V, (b) +0.80 V",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સક્રિય ધાતુઓ (Li, Zn) નેગેટિવ, ઉમદા ધાતુઓ (Ag, Au) પોઝિટિવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અલ્કલાઇન માધ્યમમાં MnO4- નું રિડક્શન, (2) તટસ્થ માધ્યમમાં MnO4- નું રિડક્શન\nવિભાગ B: (a) MnO2 (આંક +4), (b) MnO4-2 (આંક +6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રબળ બેઝિક હોય તો +6, પણ નિર્બળ બેઝિક/તટસ્થ હોય તો +4 (MnO2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) BrO3- માં Br નો આંક, (2) IO4- માં I નો આંક\nવિભાગ B: (a) +7, (b) +5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x + 3(-2) = -1 => x=+5; x + 4(-2) = -1 => x=+7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ક્લોરિનની સૌથી નીચી અવસ્થા, (2) ક્લોરિનની સૌથી ઊંચી અવસ્થા\nવિભાગ B: (a) +7, (b) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલોજન માટે રેન્જ -1 થી +7 હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઈલેક્ટ્રોન મુક્ત થવાની પ્રક્રિયા ક્યાં થાય?, (2) ઈલેક્ટ્રોન દાખલ થવાની પ્રક્રિયા ક્યાં થાય?\nવિભાગ B: (a) કેથોડ પર, (b) એનોડ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એ'નોડ એટલે 'એ'ક્ઝિટ (ઈલેક્ટ્રોન નીકળે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કાર્બન સબઓક્સાઇડ (C3O2), (2) બ્રોમિન સબઓક્સાઇડ (Br3O8)\nવિભાગ B: (a) બ્રોમિનનો આંક +16/3, (b) કાર્બનનો આંક +4/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (કુલ વીજભાર / પરમાણુની સંખ્યા) = સરેરાશ આંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ગ્લુકોઝ (C6H12O6) માં C નો આંક, (2) મિથેન (CH4) માં C નો આંક\nવિભાગ B: (a) -4, (b) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લુકોઝમાં H (+12) અને O (-12) સામસામે ઉડી જાય, એટલે C = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ધાતુઓની સક્રિયતાનો ક્રમ, (2) ઈલેક્ટ્રોકેમિકલ શ્રેણી\nવિભાગ B: (a) પ્રમાણિત ઈલેક્ટ્રોડ પોટેન્શિયલની ગોઠવણી, (b) વિસ્થાપન પ્રક્રિયાની ક્ષમતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રેણી ઉપરથી જ ખબર પડે કોણ કોનું વિસ્થાપન કરશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) NO2 માં N નો આંક, (2) N2O માં N નો આંક\nવિભાગ B: (a) +1, (b) +4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N2O એટલે લાફિંગ ગેસ, જેમાં આંક +1 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) રેડોક્ષ યુગ્મ (Redox Couple), (2) અર્ધ પ્રક્રિયા\nવિભાગ B: (a) ઓક્સિડેશન અથવા રિડક્શનમાંથી કોઈ એક, (b) ઓક્સિડેશન પામેલા અને રિડક્શન પામેલા પદાર્થની જોડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુગ્મ (Couple) એટલે જોડી (જેમ કે Zn/Zn2+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) આયોડોમેટ્રી (Iodometry), (2) આયોડિમેટ્રી (Iodimetry)\nવિભાગ B: (a) આયોડિનના પ્રમાણિત દ્રાવણ સાથે અનુમાપન, (b) મુક્ત થયેલા આયોડિનનું હાઈપો સાથે અનુમાપન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડો (Iodo) - O (Indirect), આયોડિ (Iodi) - I (Direct).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) એનોડ પર પોટેન્શિયલ, (2) કેથોડ પર પોટેન્શિયલ\nવિભાગ B: (a) વધુ ધન (રિડક્શન માટે), (b) વધુ ઋણ (ઓક્સિડેશન માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેથોડ પર ઈલેક્ટ્રોન ખેંચાય એટલે તે પોઝિટિવ હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) O3 માં ઓક્સિજનનો આંક, (2) P4O10 માં ફોસ્ફરસનો આંક\nવિભાગ B: (a) +5, (b) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન તત્ત્વ છે એટલે 0, P4O10 માં 4x - 20 = 0 => x=5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સલ્ફરનો મહત્તમ આંક, (2) સલ્ફરનો ન્યૂનતમ આંક\nવિભાગ B: (a) -2, (b) +6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રુપ 16 એટલે રેન્જ (16-10)=6 થી (6-8)=-2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અધાતુ વિસ્થાપનમાં H2 મુક્ત કરે, (2) અધાતુ વિસ્થાપનમાં O2 મુક્ત કરે\nવિભાગ B: (a) F2 ની પાણી સાથે પ્રક્રિયા, (b) Na ની પાણી સાથે પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન પાણીમાંથી ઓક્સિજન ખેંચી લે (બહુ શક્તિશાળી છે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ClO- આયન, (2) ClO4- આયન\nવિભાગ B: (a) પરક્લોરેટ આયન, (b) હાઈપોક્લોરાઈટ આયન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછા ઓક્સિજન એટલે 'હાઈપો', સૌથી વધુ એટલે 'પર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બેઝિક માધ્યમમાં OH- કઈ બાજુ ઉમેરવા?, (2) બેઝિક માધ્યમમાં H2O કઈ બાજુ ઉમેરવા?\nવિભાગ B: (a) વીજભાર સંતુલિત કરવા માટે, (b) H પરમાણુ સંતુલિત કરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-a, 2-b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઝિક માધ્યમમાં વીજભાર માટે OH- જ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) Fe+2 → Fe+3 + e-, (2) Sn+4 + 2e- → Sn+2\nવિભાગ B: (a) રિડક્શન અર્ધ પ્રક્રિયા, (b) ઓક્સિડેશન અર્ધ પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલેક્ટ્રોન જમણી બાજુ (Product) હોય તો ઓક્સિડેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ડેનિયલ કોષમાં વપરાતા દ્રાવણો, (2) ક્ષાર સેતુમાં વપરાતું દ્રાવણ\nવિભાગ B: (a) KCl અથવા KNO3, (b) ZnSO4 અને CuSO4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષાર સેતુમાં હંમેશા મજબૂત ક્ષાર (Strong Electrolyte) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિડેશન આંકનો સરવાળો (તટસ્થ અણુ), (2) ઓક્સિડેશન આંકનો સરવાળો (બહુપરમાણ્વીય આયન)\nવિભાગ B: (a) આયનના વીજભાર જેટલો, (b) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો હંમેશા 'માથા' પર હોય તેટલો જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ઓક્સિડેશનકર્તાની વર્તણૂક, (2) રિડક્શનકર્તાની વર્તણૂક\nવિભાગ B: (a) ઓક્સિડેશન આંકમાં ઘટાડો કરે, (b) ઓક્સિડેશન આંકમાં વધારો કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-a, 2-b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિડેશનકર્તા બીજાનું ઓક્સિડેશન કરે પણ પોતે નીચે ઉતરે (ઘટાડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 73",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પ્રબળ રિડક્શનકર્તા અધાતુ, (2) પ્રબળ ઓક્સિડેશનકર્તા અધાતુ\nવિભાગ B: (a) F2, (b) H2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H2 ઇલેક્ટ્રોન આપે છે, F2 ખેંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 74",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પોટેશિયમ (K) નો આંક, (2) મેગ્નેશિયમ (Mg) નો આંક\nવિભાગ B: (a) +2, (b) +1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રુપ 1 = +1, ગ્રુપ 2 = +2 (ફિક્સ!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 75",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) રેડોક્ષ પ્રક્રિયાનું ઉદાહરણ, (2) બિન-રેડોક્ષ પ્રક્રિયાનું ઉદાહરણ\nવિભાગ B: (a) NaOH + HCl → NaCl + H2O, (b) H2 + Cl2 → 2HCl",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-b, 2-a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ-બેઝ પ્રક્રિયા રેડોક્ષ હોતી નથી, તે માત્ર આયન વિનિમય છે.</p></div>"
+    }
+  ]
+}

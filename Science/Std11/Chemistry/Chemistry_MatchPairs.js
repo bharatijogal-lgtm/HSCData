@@ -2589,3 +2589,366 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કાર્બનિક રસાયણવિજ્ઞાન - કેટલાક પાયાના સિદ્ધાંતો અને તકનીકો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A (સંયોજન) અને વિભાગ B (ક્રિયાશીલ સમૂહ) ને જોડો: <br> (A) આલ્કોહોલ (1) -CHO <br> (B) આલ્ડિહાઈડ (2) -OH <br> (C) કિટોન (3) -COOH <br> (D) કાર્બોક્સિલિક એસિડ (4) >C=O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(4), (D)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'OH' એટલે આલ્કોહોલ અને 'COOH' માં 'સી' એટલે એસિડ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A (સંકરણ) અને વિભાગ B (ભૂમિતિ) ને જોડો: <br> (A) sp3 (1) રેખીય <br> (B) sp2 (2) સમતલીય ત્રિકોણ <br> (C) sp (3) સમચતુષ્ફલકીય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(3), (B)-(2), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3-પરિમાણ (sp3) = ચતુષ્ફલકીય, 2-પરિમાણ (sp2) = ત્રિકોણ, 1-સીધી લીટી (sp) = રેખીય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A (શુદ્ધિકરણ પદ્ધતિ) અને વિભાગ B (ઉપયોગ) ને જોડો: <br> (A) સ્ફટિકીકરણ (1) બાષ્પશીલ કાર્બનિક પ્રવાહી <br> (B) નિસ્યંદન (2) દ્રાવ્યતામાં તફાવત <br> (C) વિભાગીય નિસ્યંદન (3) ઉત્કલનબિંદુમાં મોટો તફાવત <br> (D) વરાળ નિસ્યંદન (4) પાણીમાં અદ્રાવ્ય પણ વરાળમાં બાષ્પશીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ફટિક = દ્રાવ્યતા, વરાળ = વરાળ પ્રેમી (Volatile).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A (ઈલેક્ટ્રોનિક અસર) અને વિભાગ B (લાક્ષણિકતા) ને જોડો: <br> (A) પ્રેરક અસર (1) પાઈ (π) ઈલેક્ટ્રોનનું સ્થાનાંતર <br> (B) ઈલેક્ટ્રોમેરિક અસર (2) સિગ્મા (σ) ઈલેક્ટ્રોનનું ધ્રુવીભવન <br> (C) સંસ્પંદન અસર (3) અસ્થાયી અસર <br> (D) અતિસંયુગ્મન (4) હાઈપરકોન્જ્યુગેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રેરક' એટલે 'સિગ્મા' (Permanent), 'ઈલેક્ટ્રોમેરિક' એટલે 'આક્રમણકાર' આવે ત્યારે જ થાય (Temporary).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A (કસૌટી) અને વિભાગ B (તત્વ) ને જોડો: <br> (A) લેસાઈન કસોટી (1) હેલોજન <br> (B) સિલ્વર નાઈટ્રેટ કસોટી (2) નાઈટ્રોજન, સલ્ફર <br> (C) બેલસ્ટાઈન કસોટી (3) હેલોજનની હાજરી <br> (D) મોલીશ કસોટી (4) કાર્બોહાઈડ્રેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેસાઈન = N, S, Halogen શોધવાનો 'બાપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A (પરમાણુ) અને વિભાગ B (પ્રતિશત પ્રમાણ શોધવાનું સૂત્ર) ને જોડો: <br> (A) કાર્બન (1) (32/233) x (BaSO4/m) x 100 <br> (B) હાઈડ્રોજન (2) (12/44) x (CO2/m) x 100 <br> (C) સલ્ફર (3) (2/18) x (H2O/m) x 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન માટે CO2 (44) અને હાઈડ્રોજન માટે H2O (18) છેદમાં લેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A (મધ્યવર્તી ઘટક) અને વિભાગ B (લક્ષણ) ને જોડો: <br> (A) કાર્બોકેટાયન (1) sp2 સંકરણ, અયુગ્મિત ઈલેક્ટ્રોન <br> (B) કાર્બેનાયન (2) sp2 સંકરણ, ધન ભાર <br> (C) મુક્તમૂલક (3) sp3 સંકરણ, ઋણ ભાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટાયન (+) sp2, એનાયન (-) sp3, મુક્તમૂલક (ડોટ) sp2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A (સમઘટકતા) અને વિભાગ B (વ્યાખ્યા) ને જોડો: <br> (A) શૃંખલા સમઘટકતા (1) ક્રિયાશીલ સમૂહના સ્થાનમાં ફેરફાર <br> (B) સ્થાન સમઘટકતા (2) કાર્બન માળખામાં ફેરફાર <br> (C) વિધેયાત્મક સમઘટકતા (3) ક્રિયાશીલ સમૂહ બદલાઈ જાય <br> (D) મધ્યાવયવીતા (Metamerism) (4) આલ્કાઈલ સમૂહની અસમાન વહેંચણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાન એટલે માત્ર નંબર બદલાય, શૃંખલા એટલે મેઈન લાઈન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A (નામ) અને વિભાગ B (બંધારણ) ને જોડો: <br> (A) આઈસોપ્રોપાઈલ (1) -CH(CH3)2 <br> (B) ટર્શરી બ્યુટાઈલ (2) -C(CH3)3 <br> (C) નીઓપેન્ટાઈલ (3) -CH2C(CH3)3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઈસો = 2 મિથાઈલ, ટર્શરી = 3 મિથાઈલ એક જ C પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A (વિભાજન) અને વિભાગ B (વર્ણન) ને જોડો: <br> (A) સમવિભાજન (1) કાર્બેનાયન કે કાર્બોકેટાયન બને <br> (B) વિષમવિભાજન (2) મુક્તમૂલક બને <br> (C) ન્યુક્લિઓફાઈલ (3) ઈલેક્ટ્રોન અનુરાગી <br> (D) ઈલેક્ટ્રોફાઈલ (4) કેન્દ્ર અનુરાગી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(4), (D)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમ = સરખા ભાગ (મુક્તમૂલક), વિષમ = અન્યાય (+/- બને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A (વૈજ્ઞાનિક/પદ્ધતિ) અને વિભાગ B (શોધ/તત્વ) ને જોડો: <br> (A) ડ્યુમા પદ્ધતિ (1) નાઈટ્રોજન (NH3 તરીકે) <br> (B) જેલ્ડાલ પદ્ધતિ (2) નાઈટ્રોજન (N2 વાયુ તરીકે) <br> (C) કેરીયસ પદ્ધતિ (3) હેલોજન અને સલ્ફર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડ્યુમા માં 'D' અને 'N2' (gas), જેલ્ડાલ માં એમોનિયા (NH3) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (કાર્બનિક સંયોજન) અને વિભાગ B (સામાન્ય નામ) ને જોડો: <br> (A) CH3OH (1) એસિટોન <br> (B) CH3COCH3 (2) વૂડ સ્પિરિટ <br> (C) CHCl3 (3) ક્લોરોફોર્મ <br> (D) HCOOH (4) ફોર્મિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૂડ સ્પિરિટ (લાકડામાંથી) = મિથેનોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A (ન્યુક્લિઓફાઈલ) અને વિભાગ B (પ્રકાર) ને જોડો: <br> (A) OH- (1) તટસ્થ ન્યુક્લિઓફાઈલ <br> (B) NH3 (2) ઋણભારિત ન્યુક્લિઓફાઈલ <br> (C) BF3 (3) ઈલેક્ટ્રોફાઈલ <br> (D) AlCl3 (4) લુઈસ એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુક્લિઓફાઈલ પાસે વધારાના ઈલેક્ટ્રોન હોય (લોન પેર અથવા ઋણભાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A (પદ્ધતિ) અને વિભાગ B (સિદ્ધાંત) ને જોડો: <br> (A) ક્રોમેટોગ્રાફી (1) અધિશોષણ અથવા વિતરણ <br> (B) નિસ્યંદન (2) બાષ્પશીલતામાં તફાવત <br> (C) ઊર્ધ્વપાતન (3) ઘનમાંથી સીધું વાયુમાં રૂપાંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કપૂર (Camphor) = ઊર્ધ્વપાતન (Sublimation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A (અસર) અને વિભાગ B (ગ્રુપ) ને જોડો: <br> (A) +I અસર (1) -NO2, -CN, -COOH <br> (B) -I અસર (2) -CH3, -C2H5 <br> (C) +R અસર (3) -OH, -NH2 <br> (D) -R અસર (4) >C=O, -CHO",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલ્કાઈલ ગ્રુપ (+I) આપે, બાકીના ખેંચે (-I).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A (પ્રક્રિયા) અને વિભાગ B (નીપજ) ને જોડો: <br> (A) મિથેનનું દહન (1) CO2 + H2O <br> (B) ઈથિનનું હાઈડ્રોજનેશન (2) ઈથેન <br> (C) આલ્કાઈનનું હાઈડ્રેશન (3) કિટોન અથવા આલ્ડિહાઈડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રોકાર્બનનું દહન = હંમેશા CO2 + H2O.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (પૂર્વગ) અને વિભાગ B (કાર્બન સંખ્યા) ને જોડો: <br> (A) પ્રોપ (1) 4 કાર્બન <br> (B) બ્યુટ (2) 3 કાર્બન <br> (C) પેન્ટ (3) 5 કાર્બન <br> (D) હેક્સ (4) 6 કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1-મેથ, 2-એથ, 3-પ્રોપ, 4-બ્યુટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A (લેસાઈન કસોટીમાં રંગ) અને વિભાગ B (તત્વ) ને જોડો: <br> (A) લાલ રંગ (1) માત્ર સલ્ફર <br> (B) પ્રુશિયન બ્લુ રંગ (2) નાઈટ્રોજન અને સલ્ફર બંને <br> (C) કાળા રંગના અવક્ષેપ (PbS) (3) માત્ર નાઈટ્રોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન એટલે 'બ્લુ', સલ્ફર એટલે 'બ્લેક' (PbS), બંને હોય તો 'બ્લડ રેડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A (IUPAC પ્રત્યય) અને વિભાગ B (શ્રેણી) ને જોડો: <br> (A) -ઓલ (1) આલ્કીન <br> (B) -આલ (2) આલ્કોહોલ <br> (C) -ઈન (3) આલ્ડિહાઈડ <br> (D) -ઓઈક એસિડ (4) કાર્બોક્સિલિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓલ' એટલે આલ્કોહૉલ, 'આલ' એટલે આલ્ડિહાઈડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A (કાર્બનિક રસાયણનો પાયો) અને વિભાગ B (વર્ષ/વૈજ્ઞાનિક) ને જોડો: <br> (A) પ્રથમ જૈવશક્તિ સિદ્ધાંત (1) વ્હોલર (Wöhler) <br> (B) પ્રથમ પ્રયોગશાળામાં સંશ્લેષણ (2) બર્ઝેલિયસ (Berzelius) <br> (C) યુરિયાનું સંશ્લેષણ (3) 1828",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બર્ઝેલિયસનો સિદ્ધાંત વ્હોલરે તોડ્યો 'યુરિયા' બનાવીને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A (ક્રિયાશીલ સમૂહ) અને વિભાગ B (પૂર્વગ) ને જોડો: <br> (A) -Cl (1) સાયનો <br> (B) -NO2 (2) ક્લોરો <br> (C) -CN (3) નાઈટ્રો <br> (D) -OCH3 (4) મિથોક્સી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલોજન હંમેશા પૂર્વગ (Prefix) તરીકે આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A (શુદ્ધિકરણ) અને વિભાગ B (સંયોજન) ને જોડો: <br> (A) એનિલીન અને પાણી (1) વિભાગીય નિસ્યંદન <br> (B) ગ્લિસરીન (2) વરાળ નિસ્યંદન <br> (C) ક્રૂડ ઓઈલ (3) નીચા દબાણે નિસ્યંદન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્લિસરીન ગરમ કરતા વિઘટન પામે એટલે 'વેક્યુમ' (નીચું દબાણ) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A (પરમાણુ ભાર) અને વિભાગ B (તત્વ) ને જોડો: <br> (A) 12 (1) નાઈટ્રોજન <br> (B) 14 (2) કાર્બન <br> (C) 16 (3) સલ્ફર <br> (D) 32 (4) ઓક્સિજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(4), (D)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણુ ક્રમાંક યાદ હોય તો ભાર (Double) લગભગ મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A (કાર્બનનો પ્રકાર) અને વિભાગ B (જોડાયેલ કાર્બન સંખ્યા) ને જોડો: <br> (A) પ્રાથમિક (1°) (1) ચાર કાર્બન <br> (B) દ્વિતીયક (2°) (2) એક કાર્બન <br> (C) તૃતીયક (3°) (3) બે કાર્બન <br> (D) ચતુર્થક (4°) (4) ત્રણ કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(4), (D)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા પાડોશી કાર્બન, એટલો જ તેનો પ્રકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A (અભિકર્મક) અને વિભાગ B (ઇલેક્ટ્રોન ઘનતા) ને જોડો: <br> (A) ન્યુક્લિઓફાઈલ (1) ઇલેક્ટ્રોનની ઉણપ <br> (B) ઇલેક્ટ્રોફાઈલ (2) ઇલેક્ટ્રોન સમૃદ્ધ <br> (C) કાર્બેનાયન (3) વધુ ઇલેક્ટ્રોન ઘનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યુક્લિઓફાઈલ = 'નાભિ પ્રેમી' (+) એટલે પોતે (-) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A (બંધ લંબાઈ) અને વિભાગ B (બંધ પ્રકાર) ને જોડો: <br> (A) 154 pm (1) C-C સિંગલ બોન્ડ <br> (B) 134 pm (2) C=C ડબલ બોન્ડ <br> (C) 120 pm (3) C≡C ટ્રિપલ બોન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ બંધ વધે (1 થી 3), તેમ લંબાઈ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A (સમઘટક જોડ) અને વિભાગ B (પ્રકાર) ને જોડો: <br> (A) પ્રોપેન-1-ઓલ અને પ્રોપેન-2-ઓલ (1) વિધેયાત્મક સમઘટકતા <br> (B) ડાયમિથાઈલ ઈથર અને ઈથેનોલ (2) સ્થાન સમઘટકતા <br> (C) n-બ્યુટેન અને આઈસોબ્યુટેન (3) શૃંખલા સમઘટકતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -OH નો નંબર બદલાયો (1 -> 2) એટલે 'સ્થાન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A (ક્રોમેટોગ્રાફી) અને વિભાગ B (અવસ્થા) ને જોડો: <br> (A) સ્થિર અવસ્થા (1) ગતિશીલ માધ્યમ <br> (B) ગતિશીલ અવસ્થા (2) સિલિકા જેલ <br> (C) Rf કિંમત (3) દ્રાવક દ્વારા કાપેલું અંતર છેદમાં હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rf = Retardation Factor (હંમેશા 1 થી ઓછું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A (હાઈપરકોન્જ્યુગેશન) અને વિભાગ B (સ્થિરતા) ને જોડો: <br> (A) 3° કાર્બોકેટાયન (1) સૌથી ઓછો સ્થિર <br> (B) 1° કાર્બોકેટાયન (2) સૌથી વધુ સ્થિર <br> (C) ઈથાઈલ મુક્તમૂલક (3) હાઈપરકોન્જ્યુગેશન જોવા મળે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3° > 2° > 1° (કાર્બોકેટાયન અને મુક્તમૂલક માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A (પ્રક્રિયાનો પ્રકાર) અને વિભાગ B (ઉદાહરણ) ને જોડો: <br> (A) વિસ્થાપન (1) ઈથિન + H2 <br> (B) યોગશીલ (2) મિથેન + Cl2 <br> (C) વિલોપન (3) ઈથેનોલમાંથી ઈથિન બનવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યોગશીલ = જોડાવું, વિલોપન = દૂર થવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A (હેલોજન કસોટી) અને વિભાગ B (અવક્ષેપનો રંગ) ને જોડો: <br> (A) ક્લોરાઈડ (1) ઘેરા પીળા (Dark Yellow) <br> (B) બ્રોમાઈડ (2) સફેદ (White) <br> (C) આયોડાઈડ (3) આછા પીળા (Pale Yellow)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cl=White, Br=Creamy, I=Yellow (નીચે જતાં રંગ ઘેરો થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A (નાઈટ્રોજનનું પ્રમાણ) અને વિભાગ B (સૂત્ર) ને જોડો: <br> (A) ડ્યુમા પદ્ધતિ (1) %N = (1.4 x N x V) / m <br> (B) જેલ્ડાલ પદ્ધતિ (2) %N = (28/22400) x (V/m) x 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેલ્ડાલમાં 1.4 યાદ રાખવો (Ammonia calculation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A (અસર) અને વિભાગ B (બીજું નામ) ને જોડો: <br> (A) સંસ્પંદન અસર (1) બેકર-નાથન અસર <br> (B) અતિસંયુગ્મન (2) મેસોમેરિક અસર <br> (C) પ્રેરક અસર (3) ઇલેક્ટ્રોન વિસ્થાપન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપરકોન્જ્યુગેશન = 'No Bond Resonance' અથવા 'Baker-Nathan'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A (સંયોજન) અને વિભાગ B (IUPAC નામ) ને જોડો: <br> (A) CH3-CH2-CHO (1) પ્રોપેનોન <br> (B) CH3-CO-CH3 (2) પ્રોપેનાલ <br> (C) CH3-CH2-COOH (3) પ્રોપેનોઈક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન ગણતી વખતે ક્રિયાશીલ સમૂહનો કાર્બન ભૂલવો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A (બંધકોણ) અને વિભાગ B (સંકરણ) ને જોડો: <br> (A) 109° 28' (1) sp <br> (B) 120° (2) sp2 <br> (C) 180° (3) sp3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(3), (B)-(2), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ બોન્ડ (sp3) માં ખૂણો સૌથી નાનો, ટ્રિપલ બોન્ડ (sp) માં સૌથી મોટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A (કેરીયસ પદ્ધતિ - સિલ્વર સોલ્ટ) અને વિભાગ B (તત્વ) ને જોડો: <br> (A) AgCl (1) સલ્ફર <br> (B) AgBr (2) ક્લોરીન <br> (C) AgI (3) બ્રોમીન <br> (D) BaSO4 (4) આયોડિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(4), (D)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફર માટે હંમેશા બેરિયમ સલ્ફેટ (BaSO4) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A (આયુસી શ્રેણી) અને વિભાગ B (સામાન્ય સૂત્ર) ને જોડો: <br> (A) આલ્કેન (1) CnH2n-2 <br> (B) આલ્કીન (2) CnH2n+2 <br> (C) આલ્કાઈન (3) CnH2n",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: +2 (સિંગલ), 0 (ડબલ), -2 (ટ્રિપલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A (વિતરણ અંક) અને વિભાગ B (પદ્ધતિ) ને જોડો: <br> (A) ક્રોમેટોગ્રાફી (1) દ્રાવક નિષ્કર્ષણ (Solvent Extraction) <br> (B) વિભેદક નિષ્કર્ષણ (2) વિતરણ અંક (K) <br> (C) પેપર ક્રોમેટોગ્રાફી (3) વિતરણ ક્રોમેટોગ્રાફી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અદ્રાવ્ય પ્રવાહી વચ્ચે વિતરણ = નિષ્કર્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A (ચક્રીય સંયોજન) અને વિભાગ B (ઉદાહરણ) ને જોડો: <br> (A) હોમોસાયક્લિક (1) પિરિડીન <br> (B) હેટરોસાયક્લિક (2) બેન્ઝીન <br> (C) એલિસાયક્લિક (3) સાયક્લોહેક્ઝેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેટરો = ચક્રમાં કાર્બન સિવાયનો (N, O, S) પરમાણુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A (ન્યુક્લિઓફાઈલ કેન્દ્ર) અને વિભાગ B (સંયોજન) ને જોડો: <br> (A) કાર્બન (1) NH3 <br> (B) નાઈટ્રોજન (2) R-MgX <br> (C) ઓક્સિજન (3) H2O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રીગ્નાર્ડ પ્રક્રિયક (RMgX) માં કાર્બન ન્યુક્લિઓફાઈલ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A (પરિણામી અસર) અને વિભાગ B (દિશાસૂચક અસર) ને જોડો: <br> (A) -OH (1) મેટા (m) નિર્દેશક <br> (B) -NO2 (2) ઓર્થો-પેરા (o, p) નિર્દેશક <br> (C) -Cl (3) ઓર્થો-પેરા પણ નિષ્ક્રિયકારક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોન પેર હોય તે o, p નિર્દેશક (Cl સિવાય સક્રિયકારક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A (રેખા સૂત્ર) અને વિભાગ B (નામ) ને જોડો: <br> (A) /\/\ (1) n-પ્રોપેન <br> (B) /\/\/\ (2) n-બ્યુટેન <br> (C) /\ (3) n-પેન્ટેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક છેડો અને વળાંક એક કાર્બન દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A (સોડિયમ પિગલન નિષ્કર્ષ) અને વિભાગ B (રંગ) ને જોડો: <br> (A) Fe4[Fe(CN)6]3 (1) લાલ રંગ <br> (B) Na2[Fe(CN)5NOS] (2) પ્રુશિયન બ્લુ <br> (C) [Fe(SCN)]2+ (3) જાંબલી રંગ (Violet)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્ફર + નાઈટ્રોપસાઈડ = વાયોલેટ (જાંબલી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A (કાર્બન સંકરણ) અને વિભાગ B (S-લાક્ષણિકતા) ને જોડો: <br> (A) sp (1) 25% <br> (B) sp2 (2) 50% <br> (C) sp3 (3) 33.3%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ 100% ને કક્ષકોની સંખ્યા વડે ભાગી નાખવું (દા.ત. sp = 100/2 = 50%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A (વૈજ્ઞાનિક સાધનો) અને વિભાગ B (પદ્ધતિ) ને જોડો: <br> (A) જેલ્ડાલ ફ્લાસ્ક (1) ડ્યુમા પદ્ધતિ <br> (B) સીલ કરેલી ટ્યુબ (2) જેલ્ડાલ પદ્ધતિ <br> (C) સ્ક્રિફ બ્યુરેટ (3) કેરીયસ પદ્ધતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરીયસ માટે હંમેશા સખત કાચની નળી (Carius Tube) વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A (ઇલેક્ટ્રોફાઈલ) અને વિભાગ B (ઉદાહરણ) ને જોડો: <br> (A) ધનભારિત (1) SO3 <br> (B) તટસ્થ (2) NO2+ <br> (C) લુઈસ એસિડ (3) BF3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '+' દેખાય તે પાક્કો ઈલેક્ટ્રોફાઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A (કાર્બનિક એસિડ) અને વિભાગ B (સ્ત્રોત) ને જોડો: <br> (A) સાઇટ્રિક એસિડ (1) લાલ કીડી <br> (B) ફોર્મિક એસિડ (2) લીંબુ <br> (C) એસિટિક એસિડ (3) સરકો (Vinegar)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Formica' એટલે લેટિનમાં કીડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A (સંખ્યાવાચક પૂર્વગ) અને વિભાગ B (સમૂહ સંખ્યા) ને જોડો: <br> (A) બાઈ / ડાય (1) 3 <br> (B) ટ્રાય (2) 2 <br> (C) ટેટ્રા (3) 4 <br> (D) પેન્ટા (4) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: IUPAC માં સમાન સમૂહ માટે આ શબ્દો વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A (ક્રોમેટોગ્રાફીના ભાગ) અને વિભાગ B (કામગીરી) ને જોડો: <br> (A) એડ્સોર્બન્ટ (1) જે ઘટકો છૂટા પાડવા છે તે <br> (B) ઈલ્યુઅન્ટ (2) અધિશોષક સપાટી (દા.ત. એલ્યુમિના) <br> (C) મિશ્રણ (3) દ્રાવક જે વહન કરે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Eluent' એ 'Mobile phase' નું બીજું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A (કાર્બનિક સંયોજન) અને વિભાગ B (લાક્ષણિકતા) ને જોડો: <br> (A) બેન્ઝીન (1) સુગંધિત (Aromatic) <br> (B) આલ્કેન (2) સંતૃપ્ત હાઈડ્રોકાર્બન <br> (C) આલ્કીન (3) અસંતૃપ્ત હાઈડ્રોકાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંગલ બોન્ડ = સંતૃપ્ત (તૃપ્ત થઈ ગયેલ), ડબલ/ટ્રિપલ = ભૂખ્યા (અસંતૃપ્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A (સમૂહની અગ્રતા) અને વિભાગ B (શ્રેણી) ને જોડો: <br> (A) -COOH > (1) -OH <br> (B) -CHO > (2) -CO- <br> (C) -CO- > (3) -SO3H (ખોટું જોડકું છે, સુધારો) <br> (D) સાચો ક્રમ (4) -COOH > -SO3H > -COOR",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(3) [ક્રમ મુજબ], (B)-(2), (C)-(1), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાર સો ઈસ્ટર સાઈ એલ્ડિ કિટો આલ્કો' (COOH > SO3H > COOR > CN > CHO > CO > OH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A (પ્રેરક અસરનું કારણ) અને વિભાગ B (પરિબળ) ને જોડો: <br> (A) પ્રેરક અસર (1) વિદ્યુતઋણતામાં તફાવત <br> (B) ઈલેક્ટ્રોમેરિક અસર (2) આક્રમક પ્રક્રિયકની હાજરી <br> (C) સંસ્પંદન (3) ઈલેક્ટ્રોનનું વિસ્થાનીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: EN (Electronegativity) બદલાય તો 'I' અસર ઉદ્ભવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A (કાર્બન કન્ટેન્ટ) અને વિભાગ B (સંયોજન) ને જોડો: <br> (A) 75% કાર્બન (1) CH4 <br> (B) 85.7% કાર્બન (2) C2H4 <br> (C) 92.3% કાર્બન (3) C2H2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ હાઈડ્રોજન ઘટે તેમ કાર્બનનું % પ્રમાણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A (પરમાણુ) અને વિભાગ B (વધતી વિદ્યુતઋણતા) ને જોડો: <br> (A) sp3 C (1) સૌથી વધુ વિદ્યુતઋણ <br> (B) sp2 C (2) સૌથી ઓછું વિદ્યુતઋણ <br> (C) sp C (3) મધ્યમ વિદ્યુતઋણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: %S વધે, EN વધે. sp (50% S) = Don (Best EN).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A (ત્રિ-પરિમાણીય રજૂઆત) અને વિભાગ B (લીટીનો પ્રકાર) ને જોડો: <br> (A) ફાચર (Wedge) (1) કાગળના સમતલની પાછળ <br> (B) તૂટક રેખા (Dash) (2) કાગળના સમતલની સામે (અવલોકનકાર તરફ) <br> (C) સાદી લીટી (3) કાગળના સમતલમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાટી લીટી (Wedge) એટલે તમારી બાજુ આવતી લીટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A (હેલોજન) અને વિભાગ B (લેસાઈન કસોટીના અવક્ષેપની દ્રાવ્યતા) ને જોડો: <br> (A) AgCl (1) NH4OH માં અદ્રાવ્ય <br> (B) AgBr (2) NH4OH માં સંપૂર્ણ દ્રાવ્ય <br> (C) AgI (3) NH4OH માં અલ્પ દ્રાવ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Cl=Easy, Br=Slow, I=No (NH4OH સાથેની દોસ્તી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A (CH3 ગ્રુપની સંખ્યા) અને વિભાગ B (શબ્દ) ને જોડો: <br> (A) એક છેડે બે CH3 (1) નીઓ (Neo) <br> (B) એક છેડે ત્રણ CH3 (2) આઈસો (Iso) <br> (C) સીધી લાઈન (3) નોર્મલ (n-)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Y' જેવો આકાર એટલે આઈસો, '+' જેવો આકાર એટલે નીઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A (અણુસૂત્ર) અને વિભાગ B (સમઘટકોની સંખ્યા) ને જોડો: <br> (A) C4H10 (1) 3 સમઘટકો <br> (B) C5H12 (2) 2 સમઘટકો <br> (C) C6H14 (3) 5 સમઘટકો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્યુટેન-2, પેન્ટેન-3, હેક્ઝેન-5 (ક્રમ યાદ રાખો: 2, 3, 5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A (સૂત્ર) અને વિભાગ B (કાર્બનનું સંકરણ) ને જોડો: <br> (A) CH2=CH2 (1) sp <br> (B) CH≡CH (2) sp2 <br> (C) CH4 (3) sp3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ બોન્ડ = sp2, ટ્રિપલ બોન્ડ = sp.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A (નાઈટ્રોજન ધરાવતું સંયોજન) અને વિભાગ B (જેલ્ડાલ પદ્ધતિ) ને જોડો: <br> (A) એનિલીન (1) જેલ્ડાલ પદ્ધતિ લાગુ પડે <br> (B) પિરિડીન (2) જેલ્ડાલ પદ્ધતિ લાગુ ન પડે <br> (C) એઝો સંયોજન (3) જેલ્ડાલ પદ્ધતિ માટે અપવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિંગમાં N હોય (Pyridine) કે N=N હોય (Azo), ત્યાં જેલ્ડાલ ફેલ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A (શોધાયેલું તત્વ) અને વિભાગ B (ઉમેરાતો પ્રક્રિયક) ને જોડો: <br> (A) સલ્ફર (1) એસિટિક એસિડ + લેડ એસીટેટ <br> (B) ફોસ્ફરસ (2) HNO3 + એમોનિયમ મોલિબ્ડેટ <br> (C) હેલોજન (3) HNO3 + AgNO3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફોસ્ફરસમાં 'મોલિબ્ડેટ' યાદ રાખવું (પીળો રંગ આપે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A (ક્રિયાશીલ સમૂહ) અને વિભાગ B (ગૌણ પ્રત્યય) ને જોડો: <br> (A) એસ્ટર (1) -ઓઈલ હેલાઈડ <br> (B) એસિડ ક્લોરાઈડ (2) -ઓએટ <br> (C) એમાઈડ (3) -એમાઈડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસ્ટર (RCOOR) પાછળ હંમેશા '-ઓએટ' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A (પ્રેરક અસરનો ક્રમ) અને વિભાગ B (ગ્રુપ) ને જોડો: <br> (A) -F > -Cl > -Br > -I (1) -I અસરનો સાચો ક્રમ <br> (B) (CH3)3C- > (CH3)2CH- (2) +I અસરનો સાચો ક્રમ <br> (C) -NO2 > -CN > -F (3) ઇલેક્ટ્રોન ખેંચવાની ક્ષમતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન સૌથી મોટો ઇલેક્ટ્રોન ચોર (-I) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A (પ્રક્રિયા મધ્યવર્તી) અને વિભાગ B (ઇલેક્ટ્રોન સંખ્યા) ને જોડો: <br> (A) કાર્બોકેટાયન (1) 8 ઇલેક્ટ્રોન (અષ્ટક પૂર્ણ) <br> (B) કાર્બેનાયન (2) 6 ઇલેક્ટ્રોન (અષ્ટક અપૂર્ણ) <br> (C) મુક્તમૂલક (3) 7 ઇલેક્ટ્રોન (એકી સંખ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટાયન ગરીબ (6), એનાયન અમીર (8), મુક્તમૂલક વચમાં (7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A (કાર્બનિક સંયોજન) અને વિભાગ B (વર્ગીકરણ) ને જોડો: <br> (A) નેફ્થલીન (1) એલિસાઈકલીક <br> (B) થિયોફીન (2) એરોમેટિક હેટરોસાઈકલીક <br> (C) સાયક્લોબ્યુટેન (3) બાયસાઈકલીક એરોમેટિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(3), (B)-(2), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થિયોફીનમાં 'S' પરમાણુ રિંગમાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A (દ્રાવક) અને વિભાગ B (ક્રોમેટોગ્રાફીમાં ઉપયોગ) ને જોડો: <br> (A) હેક્ઝેન (1) મધ્યમ ધ્રુવીય દ્રાવક <br> (B) ક્લોરોફોર્મ (2) અધ્રુવીય દ્રાવક <br> (C) ઈથેનોલ (3) વધુ ધ્રુવીય દ્રાવક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી અને આલ્કોહોલ સૌથી વધુ ધ્રુવીય હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A (IUPAC નિયમ) અને વિભાગ B (વર્ણન) ને જોડો: <br> (A) લઘુત્તમ લોકન્ટ નિયમ (1) વિસ્થાપિતોને અંગ્રેજી મૂળાક્ષર મુજબ ગોઠવવા <br> (B) મૂળાક્ષર નિયમ (2) શાખાઓને ન્યૂનતમ નંબર આપવો <br> (C) લાંબી શૃંખલાનો નિયમ (3) સૌથી વધુ કાર્બન ધરાવતી હારમાળા પસંદ કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા લાંબી લાઈન પકડો, પછી નંબર આપો, પછી ABC મુજબ લખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A (નામ) અને વિભાગ B (સૂત્ર) ને જોડો: <br> (A) મિથાઈલ (1) -CH2CH3 <br> (B) ઈથાઈલ (2) -CH3 <br> (C) વિનાઈલ (3) -CH=CH2 <br> (D) એલાઈલ (4) -CH2-CH=CH2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3), (D)-(4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડબલ બોન્ડના કાર્બન પર સીધું જોડાય તો વિનાઈલ, બાજુના કાર્બન પર જોડાય તો એલાઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A (સંસ્પંદન ઉર્જા) અને વિભાગ B (સંયોજન) ને જોડો: <br> (A) વધુ સ્થાયી સંસ્પંદન બંધારણ (1) ઊંચી સંસ્પંદન ઉર્જા <br> (B) બેન્ઝીન (2) જેમાં ભારનું પૃથક્કરણ ન હોય <br> (C) સંસ્પંદન ઉર્જા (3) હાયબ્રિડ અને સૌથી સ્થાયી બંધારણ વચ્ચેનો ઉર્જા તફાવત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(1), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની રેઝોનન્સ એનર્જી વધુ, તેની સ્થિરતા વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A (કાર્બન લંબાઈ) અને વિભાગ B (નામ) ને જોડો: <br> (A) C8 (1) ડેકેન <br> (B) C9 (2) ઓક્ટેન <br> (C) C10 (3) નોનેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(2), (B)-(3), (C)-(1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8-ઓક્ટા (Octopus), 9-નોના, 10-ડેકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A (નિયમ) અને વિભાગ B (વૈજ્ઞાનિક/સિદ્ધાંત) ને જોડો: <br> (A) હ્યુકેલનો નિયમ (1) એરોમેટિકતા (4n+2) π ઈલેક્ટ્રોન <br> (B) માર્કોવનીકોવ નિયમ (2) અસમ આલ્કીન પર યોગશીલ પ્રક્રિયા <br> (C) ટેટ્રાવેલેન્સી (3) કાર્બનની ચતુઃસંયોજકતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A)-(1), (B)-(2), (C)-(3)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હ્યુકેલ = 2, 6, 10, 14... પાઈ ઈલેક્ટ્રોન હોય તો જ એરોમેટિક.</p></div>"
+    }
+  ]
+}

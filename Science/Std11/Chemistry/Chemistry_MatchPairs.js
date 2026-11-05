@@ -2952,3 +2952,366 @@ var Std11_Chemistry_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "હાઇડ્રોકાર્બન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:\nવિભાગ A:\n(1) આલ્કેનનું સામાન્ય સૂત્ર\n(2) આલ્કીનનું સામાન્ય સૂત્ર\n\nવિભાગ B:\n(A) CnH2n\n(B) CnH2n+2\n(C) CnH2n-2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આલ્કેન એટલે '+2', આલ્કીન એટલે 'બમણા' અને આલ્કાઈન એટલે '-2'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (પ્રક્રિયક) સાથે જોડો:\nવિભાગ A:\n(1) વુર્ટ્ઝ પ્રક્રિયા\n(2) કોલ્બે વિદ્યુતવિભાજન\n\nવિભાગ B:\n(A) સોડિયમ ધાતુ અને શુષ્ક ઈથર\n(B) સોડિયમ ક્ષારનું જલીય દ્રાવણ\n(C) સાંદ્ર H2SO4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વુર્ટ્ઝ (Wurtz) માં 'વધારો' (બમણા કાર્બન) અને સોડિયમ ઈથર યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A (સંયોજન) ને વિભાગ B (બંધકોણ) સાથે જોડો:\nવિભાગ A:\n(1) મિથેન (CH4)\n(2) ઇથિન (C2H4)\n\nવિભાગ B:\n(A) 120°\n(B) 109.5°\n(C) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): sp3 સંકરણ = 109.5°, sp2 = 120°, sp = 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A (સમઘટક) ને વિભાગ B (વ્યાખ્યા) સાથે જોડો:\nવિભાગ A:\n(1) શૃંખલા સમઘટકતા\n(2) સ્થાન સમઘટકતા\n\nવિભાગ B:\n(A) કાર્બન માળખામાં ફેરફાર\n(B) ક્રિયાશીલ સમૂહ કે દ્વિબંધનું સ્થાન બદલાય\n(C) અવકાશીય ગોઠવણી અલગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૃંખલા એટલે હાડપિંજર બદલાય, સ્થાન એટલે એડ્રેસ બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A (ઈથેનનું સ્વરૂપ) ને વિભાગ B (દ્વિતલ ખૂણો) સાથે જોડો:\nવિભાગ A:\n(1) ગ્રસ્ત (Eclipsed)\n(2) સાંતરિત (Staggered)\n\nવિભાગ B:\n(A) 0°\n(B) 60°\n(C) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્રસ્તમાં એકબીજાની પાછળ એટલે 0°, સાંતરિતમાં ગેપ એટલે 60°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A (ઉદ્દીપક) ને વિભાગ B (પ્રક્રિયા) સાથે જોડો:\nવિભાગ A:\n(1) લિન્ડલર ઉદ્દીપક (Lindlar's)\n(2) નિકલ / હાઈડ્રોજન\n\nવિભાગ B:\n(A) આલ્કાઈનમાંથી સિસ-આલ્કીન\n(B) વનસ્પતિ તેલનું હાઈડ્રોજીનેશન\n(C) બેન્ઝીનનું નાઈટ્રેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિન્ડલર = સિસ (cis). નિકલ = ઘી બનાવવાની ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A (પ્રક્રિયક) ને વિભાગ B (પ્રક્રિયાના નામ) સાથે જોડો:\nવિભાગ A:\n(1) સાંદ્ર HNO3 + સાંદ્ર H2SO4\n(2) નિર્જળ AlCl3 + CH3Cl\n\nવિભાગ B:\n(A) નાઈટ્રેશન\n(B) ફ્રીડલ-ક્રાફ્ટ આલ્કાઈલેશન\n(C) સલ્ફોનેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): HNO3 હોય તો નાઈટ્રો (-NO2) દાખલ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A (નિયમ) ને વિભાગ B (ઉપયોગ) સાથે જોડો:\nવિભાગ A:\n(1) માર્કોવનીકોવનો નિયમ\n(2) હ્યુકેલનો નિયમ\n\nવિભાગ B:\n(A) અસમ આલ્કીન પર HX નું ઉમેરણ\n(B) એરોમેટિકતા નક્કી કરવા (4n+2) pi e-\n(C) મુક્તમૂલક પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માર્કોવનીકોવ = 'ગરીબ વધુ ગરીબ બને' (H ત્યાં જાય જ્યાં H વધુ હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A (બંધ લંબાઈ) ને વિભાગ B (કિંમત) સાથે જોડો:\nવિભાગ A:\n(1) C-C (આલ્કેન)\n(2) C=C (આલ્કીન)\n\nવિભાગ B:\n(A) 154 pm\n(B) 134 pm\n(C) 139 pm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંધ વધે તેમ લંબાઈ ઘટે. એકલ (154) > બેન્ઝીન (139) > દ્વિબંધ (134).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A (પદાર્થ) ને વિભાગ B (ઉપયોગ/લક્ષણ) સાથે જોડો:\nવિભાગ A:\n(1) બેયર પ્રક્રિયક\n(2) કેલ્શિયમ કાર્બાઈડ (CaC2)\n\nવિભાગ B:\n(A) અસંતૃપ્તતાની કસોટી\n(B) ઈથાઈન (એસિટિલીન) ની બનાવટ\n(C) મિથેન ગેસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેયર એટલે ગુલાબી રંગ દૂર થાય તો દ્વિબંધ હાજર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:\nવિભાગ A:\n(1) ન્યૂમેન પ્રક્ષેપ\n(2) સો હોર્સ પ્રક્ષેપ\n\nવિભાગ B:\n(A) ગોળાકાર અને બિંદુવત નિરૂપણ\n(B) ત્રાંસી રેખા દ્વારા નિરૂપણ\n(C) 3D મોડેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ન્યૂમેન = 'નવો નવો ગોળો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (નીપજ) સાથે જોડો:\nવિભાગ A:\n(1) મિથેનનું દહન\n(2) મિથેનનું ક્લોરીનેશન (મર્યાદિત Cl2)\n\nવિભાગ B:\n(A) CO2 + H2O\n(B) CH3Cl\n(C) C + H2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દહન એટલે હંમેશા અંગારવાયુ (CO2) અને પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A (સૂત્ર) ને વિભાગ B (નામ) સાથે જોડો:\nવિભાગ A:\n(1) C6H6\n(2) C6H5-CH3\n\nવિભાગ B:\n(A) બેન્ઝીન\n(B) ટોલ્યુઈન\n(C) ઝાયલીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેન્ઝીન પર મિથાઈલ એટલે ટોલ્યુઈન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A (હાઇડ્રોકાર્બન) ને વિભાગ B (સંકરણ) સાથે જોડો:\nવિભાગ A:\n(1) ઈથેન\n(2) ઈથાઈન\n\nવિભાગ B:\n(A) sp3\n(B) sp\n(C) sp2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકલ બંધ = sp3, ત્રિબંધ = sp.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (ઉદ્દીપક) સાથે જોડો:\nવિભાગ A:\n(1) એરોમેટાઈઝેશન\n(2) પાયરોલિસિસ\n\nવિભાગ B:\n(A) Cr2O3 / V2O5 / Mo2O3\n(B) ઊંચું તાપમાન (રક્તતપ્ત નળી)\n(C) AlCl3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હેપ્ટેનમાંથી ટોલ્યુઈન બનાવવું એટલે એરોમેટાઈઝેશન (Cr-V-Mo).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A (પરખ) ને વિભાગ B (રંગ પરિવર્તન) સાથે જોડો:\nવિભાગ A:\n(1) બ્રોમીન જળ (Br2 / CCl4)\n(2) બેયર પ્રક્રિયક (ઠંડુ KMnO4)\n\nવિભાગ B:\n(A) લાલ-કથ્થઈ રંગ દૂર થાય\n(B) ગુલાબી રંગ દૂર થાય\n(C) વાદળી રંગ આવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંને અસંતૃપ્તતા (Unsaturation) માટે વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A (નીપજ) ને વિભાગ B (ઓઝોનોલિસિસ કોનું?) સાથે જોડો:\nવિભાગ A:\n(1) માત્ર પ્રોપેનોન (Acetone)\n(2) ઈથેનાલ અને મેથેનાલ\n\nવિભાગ B:\n(A) 2,3-ડાયમિથાઈલ બ્યુટ-2-ઈન\n(B) પ્રોપ-1-ઈન\n(C) ઇથિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓઝોનોલિસિસમાં દ્વિબંધ તોડો અને બંને બાજુ '=O' લગાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A (એસિડિટી) ને વિભાગ B (ક્રમ) સાથે જોડો:\nવિભાગ A:\n(1) ઈથાઈન, ઈથિન, ઈથેન\n(2) ઈથાઈન, પ્રોપાઈન, બ્યુટ-2-ાઈન\n\nવિભાગ B:\n(A) ઈથાઈન > ઈથિન > ઈથેન\n(B) ઈથાઈન > પ્રોપાઈન > બ્યુટ-2-ાઈન\n(C) ઈથેન > ઈથિન > ઈથાઈન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): % s-લક્ષણ વધે તેમ એસિડિટી વધે. ત્રિબંધ સૌથી વધુ એસિડિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (નામ) સાથે જોડો:\nવિભાગ A:\n(1) 3HC≡CH → C6H6 (રક્તતપ્ત લોખંડની નળી)\n(2) CH3COONa + NaOH/CaO → CH4\n\nવિભાગ B:\n(A) ચક્રીય બહુલીકરણ (Polymerization)\n(B) ડીકાર્બોક્સિલેશન\n(C) વુર્ટ્ઝ પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિટિલીન (ઈથાઈન) ના 3 અણુ ભેગા થાય તો બેન્ઝીન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A (દિશા નિર્દેશક અસર) ને વિભાગ B (સમૂહ) સાથે જોડો:\nવિભાગ A:\n(1) ઓર્થો-પેરા નિર્દેશક\n(2) મેટા નિર્દેશક\n\nવિભાગ B:\n(A) -OH, -CH3, -NH2\n(B) -NO2, -CHO, -COOH\n(C) -Cl, -Br (નિષ્ક્રિયકારક છતાં o,p)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે સમૂહમાં દ્વિબંધ કે ત્રિબંધ હોય (જેમ કે -C=O, -N=O) તે સામાન્ય રીતે મેટા નિર્દેશક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:\nવિભાગ A:\n(1) સોડાલાઈમ\n(2) લિન્ડલર ઉદ્દીપક\n\nવિભાગ B:\n(A) NaOH + CaO (3:1)\n(B) Pd/C (સીસુ અથવા ક્વિનોલીન દ્વારા ઝેરી બનાવેલ)\n(C) Na/NH3 (Liquid)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોડા + લાઈમ (ચૂનો) = સોડાલાઈમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A (નીપજ) ને વિભાગ B (પ્રક્રિયા) સાથે જોડો:\nવિભાગ A:\n(1) ટ્રાન્સ-આલ્કીન\n(2) સિસ-આલ્કીન\n\nવિભાગ B:\n(A) Na / પ્રવાહી NH3 (બર્ચ રિડક્શન)\n(B) H2 / લિન્ડલર ઉદ્દીપક\n(C) Zn / HCl",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોડિયમ (Na) એમોનિયા = 'ટ્રાન્સ' (Trans) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A (ભૌતિક ગુણધર્મો) ને વિભાગ B (ક્રમ) સાથે જોડો:\nવિભાગ A:\n(1) ઉત્કલનબિંદુ (Boiling point)\n(2) દ્રાવ્યતા\n\nવિભાગ B:\n(A) નોર્મલ આલ્કેન > શાખીય આલ્કેન\n(B) પાણીમાં અદ્રાવ્ય, કાર્બનિકમાં દ્રાવ્ય\n(C) શાખીય > નોર્મલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાખા વધે તો સપાટીનું ક્ષેત્રફળ ઘટે, માટે ઉત્કલનબિંદુ ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A (નામ) ને વિભાગ B (બંધારણ) સાથે જોડો:\nવિભાગ A:\n(1) આઈસોપ્રોપાઈલ સમૂહ\n(2) ટર્શરી-બ્યુટાઈલ સમૂહ\n\nવિભાગ B:\n(A) (CH3)2CH-\n(B) (CH3)3C-\n(C) CH3CH2CH2-",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટર્શરી એટલે 3 મિથાઈલ એક જ કાર્બન પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A (સ્થિરતા) ને વિભાગ B (ક્રમ) સાથે જોડો:\nવિભાગ A:\n(1) મુક્ત મૂલકોની સ્થિરતા\n(2) કાર્બોકેટાયનની સ્થિરતા\n\nવિભાગ B:\n(A) 3° > 2° > 1° > CH3\n(B) CH3 > 1° > 2° > 3°\n(C) બધું સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાર્બોકેટાયન અને મુક્તમૂલક બંને 'તૃતીયક' (3°) માં વધુ ખુશ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:\nવિભાગ A:\n(1) વિસિનલ ડાયહેલાઈડ\n(2) જેમિનલ ડાયહેલાઈડ\n\nવિભાગ B:\n(A) પાસપાસેના કાર્બન પર હેલોજન\n(B) એક જ કાર્બન પર બે હેલોજન\n(C) છેડાના કાર્બન પર હેલોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ (Gem) = 'જોડી' (એક જ પર), વિસિનલ = 'વિસ્તાર' (બાજુ બાજુમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (મુખ્ય નીપજ) સાથે જોડો:\nવિભાગ A:\n(1) પ્રોપીન + HBr\n(2) પ્રોપીન + HBr (પેરોક્સાઈડની હાજરી)\n\nવિભાગ B:\n(A) 2-બ્રોમોપ્રોપેન\n(B) 1-બ્રોમોપ્રોપેન\n(C) 1,2-ડાયબ્રોમોપ્રોપેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેરોક્સાઈડ = ખરાશ અસર = Anti-Markovnikov = 1-સ્થાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A (સંયોજન) ને વિભાગ B (H ની સંખ્યા) સાથે જોડો:\nવિભાગ A:\n(1) બેન્ઝીન\n(2) સાયક્લોહેક્ઝેન\n\nવિભાગ B:\n(A) 6\n(B) 12\n(C) 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): C6H6 vs C6H12 યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A (સ્થાન) ને વિભાગ B (નામ) સાથે જોડો:\nવિભાગ A:\n(1) 1,2 - સ્થાન\n(2) 1,3 - સ્થાન\n(3) 1,4 - સ્થાન\n\nવિભાગ B:\n(A) ઓર્થો (o)\n(B) મેટા (m)\n(C) પેરા (p)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(A), (2)-(B), (3)-(C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): OMP - 12, 13, 14.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A (પરીક્ષણ) ને વિભાગ B (પદાર્થ) સાથે જોડો:\nવિભાગ A:\n(1) એસિટિલીનિક હાઈડ્રોજનની પરખ\n(2) એરોમેટિકતા\n\nવિભાગ B:\n(A) એમોનિયામય સિલ્વર નાઈટ્રેટ (Tollen's)\n(B) હ્યુકેલનો નિયમ\n(C) લિટમસ પેપર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટર્મિનલ આલ્કાઈન (છેડે ત્રિબંધ) સફેદ અવક્ષેપ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (ઉત્પાદન) સાથે જોડો:\nવિભાગ A:\n(1) આલ્કાઈનનું હાઈડ્રેશન (H2O / Hg2+)\n(2) ઈથાઈનનું લાલ તપ્ત નળીમાં પસાર કરવું\n\nવિભાગ B:\n(A) કાર્બોનિલ સંયોજન (કિટોન/આલ્ડિહાઈડ)\n(B) બેન્ઝીન\n(C) ઈથેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Hg2+ અને H2SO4 દેખાય તો પાણી ઉમેરી ટોટોમેરિઝમ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિભાગ A (ભૌમિતિક સમઘટકતા) ને વિભાગ B (દ્વિધ્રુવ ચાકમાત્રા) સાથે જોડો:\nવિભાગ A:\n(1) સિસ-બ્યુટ-2-ઈન\n(2) ટ્રાન્સ-બ્યુટ-2-ઈન\n\nવિભાગ B:\n(A) μ ≠ 0 (ધ્રુવીય)\n(B) μ = 0 (અધ્રુવીય)\n(C) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટ્રાન્સમાં સામસામેની અસર કેન્સલ થાય એટલે શૂન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વિભાગ A (ઉર્જા) ને વિભાગ B (સ્વરૂપ) સાથે જોડો:\nવિભાગ A:\n(1) ટોર્શનલ સ્ટ્રેઈન શૂન્ય\n(2) ટોર્શનલ સ્ટ્રેઈન મહત્તમ\n\nવિભાગ B:\n(A) સાંતરિત (Staggered)\n(B) ગ્રસ્ત (Eclipsed)\n(C) ગૌચ (Gauche)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાંતરિત વધુ સ્થિર કારણ કે સ્ટ્રેઈન ઓછો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (પ્રેરક સમૂહ) સાથે જોડો:\nવિભાગ A:\n(1) વધુ સક્રિયકારક\n(2) અક્રિયાશીલકારક (Deactivating)\n\nવિભાગ B:\n(A) -NH2, -OH\n(B) -NO2, -CN, -COOH\n(C) -CH3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેની પાસે લોન પેર (lone pair) હોય તે સક્રિયકારક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિભાગ A (પ્રક્રિયક) ને વિભાગ B (પ્રક્રિયા) સાથે જોડો:\nવિભાગ A:\n(1) બ્રોમીન (Br2) + UV પ્રકાશ\n(2) બ્રોમીન (Br2) + FeBr3\n\nવિભાગ B:\n(A) આલ્કેનનું હેલોજિનેશન (મુક્તમૂલક)\n(B) એરોમેટિક ઈલેક્ટ્રોન અનુરાગી વિસ્થાપન\n(C) યોગશીલ પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકાશ (Sunlight) હોય તો મુક્તમૂલક જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિભાગ A (ગુણધર્મ) ને વિભાગ B (હાઈડ્રોકાર્બન) સાથે જોડો:\nવિભાગ A:\n(1) પેરાફિન્સ (Paraffins)\n(2) ઓલેફિન્સ (Olefins)\n\nવિભાગ B:\n(A) આલ્કેન\n(B) આલ્કીન\n(C) આલ્કાઈન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેરાફિન્સ એટલે ઓછી સક્રિયતા (આલ્કેન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વિભાગ A (સૂત્ર) ને વિભાગ B (સમઘટકોની સંખ્યા) સાથે જોડો:\nવિભાગ A:\n(1) C4H10 (બ્યુટેન)\n(2) C5H12 (પેન્ટેન)\n\nવિભાગ B:\n(A) 2\n(B) 3\n(C) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેન્ટેન ના '3' - n, આઈસો અને નિયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:\nવિભાગ A:\n(1) કેકુલે બંધારણ\n(2) હ્યુકેલ નિયમ\n\nવિભાગ B:\n(A) બેન્ઝીન માટે બે સંસ્પંદન સૂત્રો\n(B) 4n+2 પાઈ ઈલેક્ટ્રોન\n(C) ત્રિ-પરિમાણીય રચના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેકુલેએ સાપની વાર્તા પરથી બેન્ઝીનનું રિંગ સૂત્ર આપ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (નામ) સાથે જોડો:\nવિભાગ A:\n(1) n-Hexane + Mo2O3 (773K, 10-20 atm)\n(2) CH4 + O2 (Cu tube, 523K, 100 atm)\n\nવિભાગ B:\n(A) એરોમેટાઈઝેશન (Benzene formation)\n(B) મિથેનોલની બનાવટ\n(C) ફોર્માલ્ડિહાઈડની બનાવટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોપર (Cu) ટ્યુબ + મિથેન = મિથેનોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિભાગ A (નીપજ) ને વિભાગ B (ઓઝોનોલિસિસ) સાથે જોડો:\nવિભાગ A:\n(1) 2 મોલ ગ્લાયોક્ઝાલ (CHO-CHO)\n(2) માત્ર ફોર્માલ્ડિહાઈડ (HCHO)\n\nવિભાગ B:\n(A) બ્યુટા-1,3-ડાયઈન\n(B) ઇથિન\n(C) પ્રોપીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઇથિન (C=C) ના બે ટુકડા એટલે બે HCHO.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિભાગ A (બંધારણ) ને વિભાગ B (નામ) સાથે જોડો:\nવિભાગ A:\n(1) CH2=CH-\n(2) CH2=CH-CH2-\n\nવિભાગ B:\n(A) વિનાઈલ (Vinyl)\n(B) એલાઈલ (Allyl)\n(C) ફિનાઈલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ્વિબંધ વાળા કાર્બન પર જ જોડાણ એટલે વિનાઈલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (તાપમાન/સ્થિતિ) સાથે જોડો:\nવિભાગ A:\n(1) બેન્ઝીનનું ક્લોરીનેશન\n(2) બેન્ઝીનનું દહન\n\nવિભાગ B:\n(A) અંધારામાં, નિર્જળ AlCl3 ની હાજરીમાં\n(B) વધુ પડતા O2 ની હાજરીમાં ગરમ કરવું\n(C) સૂર્યપ્રકાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિસ્થાપન માટે અંધારું + લુઈસ એસિડ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વિભાગ A (સૂત્ર) ને વિભાગ B (નામ) સાથે જોડો:\nવિભાગ A:\n(1) C6H6Cl6\n(2) C6H5Cl\n\nવિભાગ B:\n(A) ગેમેક્સિન (BHC)\n(B) ક્લોરોબેન્ઝીન\n(C) ડીડીટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 6-6-6 એટલે ગેમેક્સિન (લિન્ડેન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વિભાગ A (ગુણધર્મ) ને વિભાગ B (વર્ણન) સાથે જોડો:\nવિભાગ A:\n(1) કેન્સરપ્રેરક ગુણ (Carcinogenicity)\n(2) ઝેરી અસર\n\nવિભાગ B:\n(A) બહુચક્રીય એરોમેટિક હાઈડ્રોકાર્બન\n(B) અપૂર્ણ દહનથી ઉત્પન્ન થતા પદાર્થો\n(C) માત્ર મિથેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેન્ઝીન રિંગ્સ એકબીજા સાથે જોડાય (જેમ કે બેન્ઝોપાયરીન) તો કેન્સર કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વિભાગ A (તબક્કો) ને વિભાગ B (હેલોજિનેશન ક્રિયાવિધિ) સાથે જોડો:\nવિભાગ A:\n(1) પ્રારંભન (Initiation)\n(2) સંચરણ (Propagation)\n(3) સમાપન (Termination)\n\nવિભાગ B:\n(A) Cl-Cl નું વિભાજન (Cl• બનવો)\n(B) CH4 + Cl• → CH3• + HCl\n(C) Cl• + Cl• → Cl2\n",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-(A), (2)-(B), (3)-(C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શરૂઆત = મુક્તમૂલક બને, સમાપન = મુક્તમૂલક વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "વિભાગ A (કાર્બન પ્રકાર) ને વિભાગ B (હાઈડ્રોજન સંખ્યા) સાથે જોડો (નિયો-પેન્ટેનમાં):\nવિભાગ A:\n(1) ચતુર્થક કાર્બન (4°)\n(2) પ્રાથમિક કાર્બન (1°)\n\nવિભાગ B:\n(A) 0\n(B) 12\n(C) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 4° કાર્બન પાસે કોઈ હાઈડ્રોજન હોતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (નીપજ) સાથે જોડો:\nવિભાગ A:\n(1) ઈથાઈન + H2 (Pd/C)\n(2) ઈથાઈન + H2O (HgSO4/H2SO4)\n\nવિભાગ B:\n(A) ઈથેન\n(B) ઈથેનાલ (એસીટાલ્ડિહાઈડ)\n(C) ઈથેનોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિબંધમાં પાણી ઉમેરાય તો આલ્ડિહાઈડ કે કિટોન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:\nવિભાગ A:\n(1) વુર્ટ્ઝ પ્રક્રિયાની મર્યાદા\n(2) ડીકાર્બોક્સિલેશનનો ફાયદો\n\nવિભાગ B:\n(A) એકી સંખ્યામાં કાર્બન ધરાવતા આલ્કેન માટે અયોગ્ય\n(B) કાર્બન સંખ્યા ઘટાડવા માટે\n(C) કાર્બન સંખ્યા બમણી કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વુર્ટ્ઝમાં મિશ્રણ મળે એટલે શુદ્ધ પ્રોપેન ન બનાવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "વિભાગ A (બંધ લંબાઈ) ને વિભાગ B (કિંમત) સાથે જોડો:\nવિભાગ A:\n(1) C-H બંધ (મિથેન)\n(2) C≡C બંધ (ઈથાઈન)\n\nવિભાગ B:\n(A) 112 pm\n(B) 120 pm\n(C) 154 pm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિબંધ સૌથી ટૂંકો (120 pm) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિભાગ A (ઉદ્દીપક) ને વિભાગ B (પ્રક્રિયા) સાથે જોડો:\nવિભાગ A:\n(1) (CH3COO)2Mn\n(2) Mo2O3\n\nવિભાગ B:\n(A) મિથેનનું ઓક્સિડેશન (ફોર્મિક એસિડ)\n(B) મિથેનનું ઓક્સિડેશન (ફોર્માલ્ડિહાઈડ)\n(C) મિથેનનું દહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેંગેનીઝ એસીટેટ (Mn) એટલે એસિડ (COOH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વિભાગ A (અણુ) ને વિભાગ B (પાઈ ઈલેક્ટ્રોન સંખ્યા) સાથે જોડો:\nવિભાગ A:\n(1) બેન્ઝીન\n(2) નેપ્થલીન\n\nવિભાગ B:\n(A) 6\n(B) 10\n(C) 14",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હ્યુકેલ નિયમ: n=1 માટે 6, n=2 માટે 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "વિભાગ A (સમઘટક) ને વિભાગ B (ગલનબિંદુ) સાથે જોડો:\nવિભાગ A:\n(1) ટ્રાન્સ-સમઘટક\n(2) સિસ-સમઘટક\n\nવિભાગ B:\n(A) ઊંચું (વધુ સુવ્યવસ્થિત પેકિંગ)\n(B) નીચું\n(C) સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટ્રાન્સ ફિટિંગમાં માસ્ટર એટલે ગલનબિંદુ વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વિભાગ A (નામ) ને વિભાગ B (IUPAC નામ) સાથે જોડો:\nવિભાગ A:\n(1) નિયોપેન્ટેન\n(2) આઈસોબ્યુટેન\n\nવિભાગ B:\n(A) 2,2-ડાયમિથાઈલ પ્રોપેન\n(B) 2-મિથાઈલ પ્રોપેન\n(C) 2-મિથાઈલ બ્યુટેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિયો એટલે પ્લસ (+) જેવો આકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (રીએજન્ટ) સાથે જોડો:\nવિભાગ A:\n(1) આલ્કાઈન → ટ્રાન્સ-આલ્કીન\n(2) આલ્કાઈલ હેલાઈડ → આલ્કીન\n\nવિભાગ B:\n(A) Na / Liquid NH3\n(B) આલ્કોહોલિક KOH\n(C) જલીય KOH",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આલ્કોહોલિક KOH = વિલોપન (Elimination).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વિભાગ A (એસિટિલીન) ને વિભાગ B (ઉપયોગ) સાથે જોડો:\nવિભાગ A:\n(1) ઓક્સિ-એસિટિલીન જ્યોત\n(2) એસિટિલીન વાયુ\n\nવિભાગ B:\n(A) વેલ્ડિંગ અને કટિંગ\n(B) કૃત્રિમ રીતે ફળો પકવવા\n(C) રોકેટ બળતણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈથાઈન (એસિટિલીન) ગેસ લાઈટિંગ અને વેલ્ડિંગમાં વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "વિભાગ A (આલ્કીન) ને વિભાગ B (હાઇડ્રોજીનેશન ઉષ્મા) સાથે જોડો:\nવિભાગ A:\n(1) વધુ સ્થિર આલ્કીન\n(2) ઓછો સ્થિર આલ્કીન\n\nવિભાગ B:\n(A) ઓછી હાઇડ્રોજીનેશન ઉષ્મા\n(B) વધુ હાઇડ્રોજીનેશન ઉષ્મા\n(C) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થિરતા અને ઉર્જા એકબીજાના વ્યસ્ત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વિભાગ A (સમૂહ) ને વિભાગ B (મેટા નિર્દેશક હોવાનું કારણ) સાથે જોડો:\nવિભાગ A:\n(1) -NO2 સમૂહ\n(2) -CHO સમૂહ\n\nવિભાગ B:\n(A) ઇલેક્ટ્રોન આકર્ષક અસર (-I / -M)\n(B) રિંગમાંથી ઇલેક્ટ્રોન ખેંચે છે\n(C) ઇલેક્ટ્રોન મુક્ત કરે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A, B), (2) - (A, B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેંચવા વાળા 'મેટા' પર મોકલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "વિભાગ A (બંધારણ) ને વિભાગ B (પાઈ બંધની સંખ્યા) સાથે જોડો:\nવિભાગ A:\n(1) બેન્ઝીન\n(2) પ્રોપાઈન\n\nવિભાગ B:\n(A) 3\n(B) 2\n(C) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિબંધમાં 2 પાઈ બંધ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "વિભાગ A (આલ્કેન) ને વિભાગ B (ઉત્કલનબિંદુનો સાચો ક્રમ) સાથે જોડો:\nવિભાગ A:\n(1) પેન્ટેન, આઈસોપેન્ટેન, નિયોપેન્ટેન\n(2) મિથેન, ઈથેન, પ્રોપેન\n\nવિભાગ B:\n(A) પેન્ટેન > આઈસોપેન્ટેન > નિયોપેન્ટેન\n(B) પ્રોપેન > ઈથેન > મિથેન\n(C) મિથેન > ઈથેન > પ્રોપેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોલેક્યુલર વેઈટ વધે તો BP વધે, શાખા વધે તો BP ઘટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "વિભાગ A (પરિવર્તન) ને વિભાગ B (પ્રક્રિયક) સાથે જોડો:\nવિભાગ A:\n(1) બેન્ઝીન → નાઈટ્રોબેન્ઝીન\n(2) બેન્ઝીન → બેન્ઝીન સલ્ફોનિક એસિડ\n\nવિભાગ B:\n(A) સાંદ્ર HNO3 + H2SO4\n(B) ધુમાયમાન H2SO4 (Oleum)\n(C) Cl2 / FeCl3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સલ્ફોનેશન એટલે સલ્ફ્યુરિક એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વિભાગ A (હાઇડ્રોકાર્બન) ને વિભાગ B (લાક્ષણિક પ્રક્રિયા) સાથે જોડો:\nવિભાગ A:\n(1) આલ્કેન\n(2) આલ્કીન\n\nવિભાગ B:\n(A) મુક્તમૂલક વિસ્થાપન\n(B) ઈલેક્ટ્રોન અનુરાગી યોગશીલ\n(C) ન્યુક્લિયોફિલિક વિસ્થાપન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ્વિબંધ હોય ત્યાં 'યોગશીલ' (Addition) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "વિભાગ A (ક્રિયાવિધિ) ને વિભાગ B (મધ્યવર્તી) સાથે જોડો:\nવિભાગ A:\n(1) પ્રોપીન + HBr\n(2) મિથેન + Cl2 (Light)\n\nવિભાગ B:\n(A) કાર્બોકેટાયન\n(B) મુક્ત મૂલક\n(C) કાર્બેન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માર્કોવનીકોવમાં 'કાર્બોકેટાયન' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિભાગ A (બંધારણ) ને વિભાગ B (નામ) સાથે જોડો:\nવિભાગ A:\n(1) બેન્ઝીન પર બે -CH3 (1,2 સ્થાન)\n(2) બેન્ઝીન પર -CH=CH2\n\nવિભાગ B:\n(A) o-ઝાયલીન\n(B) સ્ટાયરીન\n(C) મેસીટીલીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે મિથાઈલ એટલે ઝાયલીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:\nવિભાગ A:\n(1) પેરોક્સાઈડ અસર (Kharasch effect)\n(2) હ્યુકેલનો નિયમ (n=0)\n\nવિભાગ B:\n(A) માત્ર HBr માટે જ લાગુ પડે\n(B) 2 પાઈ ઈલેક્ટ્રોન (એરોમેટિક)\n(C) HCl માટે પણ લાગુ પડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેરોક્સાઈડ અસર ફક્ત HBr માં જ જોવા મળે છે, HCl કે HI માં નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિભાગ A (કાર્બન) ને વિભાગ B (સંકરણ) સાથે જોડો:\nવિભાગ A:\n(1) બેન્ઝીનનો દરેક કાર્બન\n(2) ઈથાઈનનો દરેક કાર્બન\n\nવિભાગ B:\n(A) sp2\n(B) sp\n(C) sp3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેન્ઝીન = sp2 (સપાટ), ઈથાઈન = sp (રેખીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "વિભાગ A (આલ્કેન) ને વિભાગ B (વ્યુત્પન્ન) સાથે જોડો:\nવિભાગ A:\n(1) માર્શ ગેસ (Marsh gas)\n(2) લિક્વિફાઈડ પેટ્રોલિયમ ગેસ (LPG)\n\nવિભાગ B:\n(A) મિથેન\n(B) બ્યુટેન અને પ્રોપેન\n(C) ઈથાઈન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દલદલ (કાદવ) નો ગેસ એટલે મિથેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "વિભાગ A (પ્રક્રિયા) ને વિભાગ B (વિશેષતા) સાથે જોડો:\nવિભાગ A:\n(1) ફ્રીડલ-ક્રાફ્ટ એસાઈલેશન\n(2) વુર્ટ્ઝ-ફિટિંગ પ્રક્રિયા\n\nવિભાગ B:\n(A) બેન્ઝીન પર -COCH3 સમૂહ દાખલ કરવો\n(B) એરોમેટિક અને એલિફેટિક હેલાઈડનું જોડાણ\n(C) માત્ર આલ્કેનનું જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસાઈલેશન એટલે કિટોન બનાવવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "વિભાગ A (ઓઝોનોલિસિસ નીપજ) ને વિભાગ B (આલ્કીન) સાથે જોડો:\nવિભાગ A:\n(1) 2 મોલ ઈથેનાલ\n(2) 2 મોલ પ્રોપેનાલ\n\nવિભાગ B:\n(A) બ્યુટ-2-ઈન\n(B) હેક્ઝ-3-ઈન\n(C) ઇથિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાર્બન સંખ્યા અડધી કરી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વિભાગ A (નામ) ને વિભાગ B (બંધારણ) સાથે જોડો:\nવિભાગ A:\n(1) ટોલ્યુઈન\n(2) એનિસોલ\n\nવિભાગ B:\n(A) C6H5-CH3\n(B) C6H5-OCH3\n(C) C6H5-NH2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈથર (-OCH3) એટલે એનિસોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "વિભાગ A (નિયમ) ને વિભાગ B (કથન) સાથે જોડો:\nવિભાગ A:\n(1) સેતઝેફ (Saytzeff) નિયમ\n(2) એન્ટી-માર્કોવનીકોવ નિયમ\n\nવિભાગ B:\n(A) વધુ વિસ્થાપિત આલ્કીન મુખ્ય નીપજ બને\n(B) પેરોક્સાઈડની હાજરીમાં વિરુદ્ધ જોડાણ\n(C) ઓછા વિસ્થાપિત આલ્કીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેતઝેફ = વધુ ભીડ વાળો દ્વિબંધ વધુ સ્થિર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "વિભાગ A (સીગ્મા અને પાઈ બંધ) ને વિભાગ B (સંયોજન) સાથે જોડો:\nવિભાગ A:\n(1) 12 સીગ્મા અને 3 પાઈ બંધ\n(2) 10 સીગ્મા અને 3 પાઈ બંધ\n\nવિભાગ B:\n(A) બેન્ઝીન (C6H6)\n(B) નેપ્થલીન\n(C) એન્થ્રેસીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેન્ઝીનમાં 6 C-C અને 6 C-H સીગ્મા બંધ હોય.</p></div>"
+    }
+  ]
+}

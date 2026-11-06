@@ -234,3 +234,111 @@ var Std11_Chemistry_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "તત્ત્વોનું વર્ગીકરણ અને ગુણધર્મોમાં આવર્તિતા",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો (2 માર્ક)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ડોબરેનરની ત્રિપુટીનો નિયમ ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડોબરેનરના નિયમ મુજબ, મધ્યમાં રહેલા તત્ત્વનું પરમાણ્વીય દળ બાકીના બે તત્ત્વોના પરમાણ્વીય દળના સરેરાશ જેટલું હોય છે. <br>ઉદાહરણ: Li (7), Na (23), K (39). <br>સરેરાશ: (7+39)/2 = 23 (Na નું દળ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યનું દળ = (પહેલું + છેલ્લું) / 2. બસ આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ન્યુલેન્ડનો અષ્ટકનો નિયમ અને તેની મર્યાદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે તત્ત્વોને પરમાણ્વીય દળના ચઢતા ક્રમમાં ગોઠવવામાં આવે ત્યારે પ્રત્યેક આઠમું તત્ત્વ પ્રથમ તત્ત્વ જેવા જ ગુણધર્મો ધરાવે છે (સંગીતના સૂરની જેમ). <br>મર્યાદા: આ નિયમ માત્ર 'કેલ્શિયમ' (Ca) સુધી જ સાચો ઠર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરેગમપધનિસા... 1 અને 8 સરખા! પણ લિમિટ માત્ર Ca સુધી જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મેન્ડેલીફનો આવર્ત નિયમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તત્ત્વોના ગુણધર્મો (ભૌતિક અને રાસાયણિક) તેમના 'પરમાણ્વીય દળ' ના આવર્તનીય વિધેયો છે. એટલે કે દળના આધારે વર્ગીકરણ કરવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ડેલીફ = પરમાણ્વીય દળ (Mass). જૂની પદ્ધતિ એટલે દળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આધુનિક આવર્ત નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેન્રી મોઝલેના પ્રયોગો મુજબ, તત્ત્વોના ગુણધર્મો તેમના 'પરમાણ્વીય ક્રમાંક' (Z) ના આવર્તનીય વિધેયો છે. આ આધુનિક આવર્ત કોષ્ટકનો પાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધુનિક = પરમાણ્વીય ક્રમાંક (Number). આજનો જમાનો નંબરનો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પરમાણ્વીય ક્રમાંક 117 ધરાવતા તત્ત્વનું IUPAC નામ અને સંજ્ઞા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 = un, 1 = un, 7 = sept. <br>નામ: Ununseptium (અનઅનસેપ્ટિયમ) <br>સંજ્ઞા: Uus</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1-un, 1-un, 7-sept + ium લગાડો. NJ ટ્રીક: અંકો યાદ રાખો (0-nil, 1-un...)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "s-વિભાગના તત્ત્વોના સામાન્ય ગુણધર્મો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. બાહ્યતમ કક્ષાની ઇલેક્ટ્રોન રચના ns¹ અથવા ns² હોય છે. 2. તેઓ નરમ ધાતુઓ છે અને ગલનબિંદુ નીચા હોય છે. 3. તેઓ ખૂબ જ સક્રિય હોવાથી કુદરતમાં મુક્ત સ્વરૂપે મળતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: s-બ્લોક = ગ્રુપ 1 અને 2. સક્રિય અને ચળકતી ધાતુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "p-વિભાગના તત્ત્વોમાં કયા પ્રકારના તત્ત્વોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> p-વિભાગમાં ધાતુઓ, અધાતુઓ અને અર્ધધાતુઓ એમ ત્રણેય પ્રકારના તત્ત્વોનો સમાવેશ થાય છે. તેની સામાન્ય ઇલેક્ટ્રોન રચના ns² np¹⁻⁶ છે. સમૂહ 13 થી 18 ના તત્ત્વો આમાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p-બ્લોક = મિશ્રણ (Mixed Bag). બધું જ મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંક્રાંતિ તત્ત્વો એટલે શું? તેમની સામાન્ય ઇલેક્ટ્રોન રચના લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> d-વિભાગના તત્ત્વોને સંક્રાંતિ તત્ત્વો કહે છે (કારણ કે તે s અને p વિભાગની વચ્ચે પુલ જેવું કામ કરે છે). <br>સામાન્ય ઇલેક્ટ્રોન રચના: (n-1)d¹⁻¹⁰ ns⁰⁻².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંક્રાંતિ = d-વિભાગ. રંગીન આયનો અને પરિવર્તનશીલ ઓક્સિડેશન અવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આંતર-સંક્રાંતિ તત્ત્વો (f-block) ના બે શ્રેણીના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. લેન્થેનોઇડ શ્રેણી (4f શ્રેણી: Ce થી Lu) 2. એક્ટિનોઇડ શ્રેણી (5f શ્રેણી: Th થી Lr). આ તત્ત્વો આવર્ત કોષ્ટકના તળિયે અલગ રાખવામાં આવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: f-બ્લોક = Bottom row. લેન્થેનોઇડ અને એક્ટિનોઇડ ભાઈઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પરમાણ્વીય ત્રિજ્યા આવર્તમાં ડાબેથી જમણે જતાં કેમ ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવર્તમાં ડાબેથી જમણે જતાં પરમાણ્વીય ક્રમાંક વધે છે અને અસરકારક કેન્દ્રીય વીજભાર વધે છે, પણ નવી કક્ષા ઉમેરાતી નથી. આથી કેન્દ્ર ઇલેક્ટ્રોનને પોતાની તરફ વધુ ખેંચે છે, પરિણામે કદ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાબે → જમણે = આકર્ષણ ⬆️ = કદ ⬇️.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમૂહમાં ઉપરથી નીચે જતાં પરમાણ્વીય ત્રિજ્યામાં શું ફેરફાર થાય છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમૂહમાં ઉપરથી નીચે જતાં મુખ્ય ક્વોન્ટમ અંક (n) વધે છે એટલે કે નવી કક્ષાઓ ઉમેરાય છે. આથી કેન્દ્રથી બાહ્યતમ કક્ષાનું અંતર વધે છે અને પરમાણ્વીય ત્રિજ્યા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર ⬇️ નીચે = નવી કક્ષા (Orbit) ⬆️ = કદ ⬆️.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આયનીય ત્રિજ્યા સમજાવો: ધન આયન તેના જનક પરમાણુ કરતાં કદમાં કેમ નાનો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પરમાણુ ઇલેક્ટ્રોન ગુમાવી ધન આયન બને છે, ત્યારે ઇલેક્ટ્રોનની સંખ્યા ઘટે છે પણ પ્રોટોન તો તેટલા જ રહે છે. પરિણામે અસરકારક કેન્દ્રીય વીજભાર વધે છે અને બાકીના ઇલેક્ટ્રોન વધુ ખેંચાય છે, તેથી કદ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધન આયન (+) = ઇલેક્ટ્રોન ગયા = આકર્ષણ વધ્યું = કદ નાનું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમ-ઇલેક્ટ્રોનીય (Isoelectronic) સ્પીસીઝ એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પરમાણુઓ કે આયનોમાં ઇલેક્ટ્રોનની સંખ્યા સમાન હોય તેને સમ-ઇલેક્ટ્રોનીય સ્પીસીઝ કહેવાય છે. <br>ઉદાહરણ: O²⁻, F⁻, Ne, Na⁺, Mg²⁺ (બધામાં 10 ઇલેક્ટ્રોન છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સમાન, 'ઇલેક્ટ્રોનીય' એટલે ઇલેક્ટ્રોન. બસ ગણી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આયનીકરણ એન્થાલ્પીની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધરા અવસ્થામાં રહેલા વાયુરૂપ તટસ્થ પરમાણુમાંથી સૌથી નિર્બળ રીતે બંધાયેલા ઇલેક્ટ્રોનને દૂર કરવા માટે આપવી પડતી ઉર્જાને આયનીકરણ એન્થાલ્પી (ΔiH) કહે છે. એકમ: kJ/mol.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન બહાર કાઢવા માટેનું 'ભાડું' (Energy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દ્વિતીય આયનીકરણ એન્થાલ્પી હંમેશા પ્રથમ કરતા વધુ હોય છે. સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ ઇલેક્ટ્રોન દૂર થયા પછી ધન આયન બને છે. ધન આયનમાં કેન્દ્રીય આકર્ષણ બળ ખૂબ વધી જાય છે, તેથી બીજા ઇલેક્ટ્રોનને દૂર કરવા માટે પ્રથમ કરતા ઘણી વધારે ઉર્જાની જરૂર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: IE₂ > IE₁. એક વાર ચોરી થાય પછી સિક્યુરિટી વધી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી (ΔegH) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુરૂપ તટસ્થ પરમાણુમાં એક ઇલેક્ટ્રોન દાખલ કરી તેને ઋણ આયન બનાવતી વખતે થતા એન્થાલ્પીના ફેરફારને ઇલેક્ટ્રોન પ્રાપ્તિ એન્થાલ્પી કહે છે. હેલોજન તત્ત્વો માટે આ મૂલ્ય વધુ ઋણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રોન 'મેળવવા' માટેની લાલચ (Energy change).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિદ્યુતઋણતા એટલે શું? આવર્તમાં તેમાં શું ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહસંયોજક બંધમાં રહેલા ઇલેક્ટ્રોન યુગ્મને પોતાની તરફ ખેંચવાની પરમાણુની ક્ષમતાને વિદ્યુતઋણતા કહે છે. આવર્તમાં ડાબેથી જમણે જતાં પરમાણુનું કદ ઘટવાથી વિદ્યુતઋણતા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યુતઋણતા = ઇલેક્ટ્રોન ખેંચવાની તાકાત. સૌથી શક્તિશાળી: F (ફ્લોરિન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બીજા આવર્તના તત્ત્વો (Li, Be) ના ગુણધર્મો અન્ય સભ્યો કરતા અલગ કેમ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. તેમનું કદ અત્યંત નાનું હોય છે. 2. તેમની વિદ્યુતઋણતા વધુ હોય છે. 3. તેમની પાસે ખાલી d-કક્ષકો હોતી નથી (Absence of d-orbitals). આથી તેઓ 'અસંગત' ગુણધર્મો દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું કદ + NO d-orbital = સ્પેશિયલ બિહેવિયર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિકર્ણ સંબંધ (Diagonal Relationship) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજા આવર્તના કેટલાક તત્ત્વોના ગુણધર્મો ત્રીજા આવર્તના તેની બાજુના (વિકર્ણ પર રહેલા) તત્ત્વો સાથે સમાનતા ધરાવે છે, જેને વિકર્ણ સંબંધ કહે છે. <br>ઉદાહરણ: Li અને Mg, Be અને Al.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રાંસો સંબંધ! Li↘️Mg, Be↘️Al.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ઉભયગુણી ઓક્સાઇડ એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે ઓક્સાઇડ એસિડિક અને બેઝિક એમ બંને પ્રકારના ગુણધર્મો ધરાવે છે તેને ઉભયગુણી ઓક્સાઇડ કહે છે. <br>ઉદાહરણ: Al₂O₃, As₂O₃.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉભયગુણી = 'Double Role'. એસિડ સાથે પણ પ્રક્રિયા કરે અને બેઇઝ સાથે પણ!</p></div>"
+    }
+  ]
+}

@@ -342,3 +342,111 @@ var Std11_Chemistry_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "રાસાયણિક બંધન અને આણ્વીય રચના",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "લુઈસ સંજ્ઞાઓ એટલે શું? ઉદાહરણ આપી તેનું મહત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરમાણુની બાહ્યતમ કક્ષામાં રહેલા સંયોજકતા ઈલેક્ટ્રોનને પરમાણુની સંજ્ઞાની આસપાસ ટપકાં (dots) વડે દર્શાવવાની પદ્ધતિને લુઈસ સંજ્ઞા કહે છે. દા.ત., ઓક્સિજન (O) માટે છ ટપકાં દર્શાવાય છે. <br> <b>મહત્વ:</b> તે સંયોજકતા ઈલેક્ટ્રોનની સંખ્યા દર્શાવે છે, જે પરમાણુની ગ્રુપ સંયોજકતા નક્કી કરવામાં મદદરૂપ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયોજકતા ઈલેક્ટ્રોન = ટપકાંની સંખ્યા. (દા.ત. Na પાસે 1 ટપકું કારણ કે તે 1st ગ્રુપમાં છે!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અષ્ટકના નિયમની મર્યાદા તરીકે 'મધ્યસ્થ પરમાણુનું અપૂર્ણ અષ્ટક' સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલાક સંયોજનોમાં મધ્યસ્થ પરમાણુની આસપાસ ઈલેક્ટ્રોનની સંખ્યા 8 કરતા ઓછી હોય છે, છતાં તે સ્થાયી હોય છે. આને અપૂર્ણ અષ્ટક કહેવાય છે. <br> ઉદાહરણ: LiCl (Li પાસે 2 e-), BeH₂ (Be પાસે 4 e-), BCl₃ (B પાસે 6 e-).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછામાં પૂરું' - જો મધ્યસ્થ પરમાણુ ગ્રુપ 1, 2 કે 13 નો હોય તો અષ્ટક અપૂર્ણ રહેવાની શક્યતા વધુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિસ્તૃત અષ્ટક (Expanded Octet) એટલે શું? બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આવર્ત કોષ્ટકના ત્રીજા અને તે પછીના આવર્તના તત્વોમાં 'd' કક્ષકો પ્રાપ્ય હોવાથી, તેમના મધ્યસ્થ પરમાણુની આસપાસ 8 થી વધુ ઈલેક્ટ્રોન ગોઠવાયેલા હોય છે. તેને વિસ્તૃત અષ્ટક કહે છે. <br> ઉદાહરણ: PCl₅ (10 e-), SF₆ (12 e-), H₂SO₄ (12 e-).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભારે તત્વો = વધુ ઈલેક્ટ્રોન'. P, S, Cl જેવા તત્વો 8 ની મર્યાદા તોડી શકે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઔપચારિક ભાર (Formal Charge) ગણવાનું સૂત્ર લખી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔપચારિક ભાર (FC) = [મુક્ત પરમાણુના કુલ સંયોજકતા e⁻] – [અબંધકારક e⁻ ની કુલ સંખ્યા] – ½ [બંધકારક e⁻ ની કુલ સંખ્યા] <br> સૂત્ર: FC = V – L – ½ (S) <br> જ્યાં, V = Valence e-, L = Lone pair e-, S = Shared e-.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FC = સંયોજકતા - (ટપકાં + લીટા). યાદ રાખો: ટપકાં એટલે અબંધકારક e- અને લીટા એટલે બંધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેટિસ એન્થાલ્પી (Lattice Enthalpy) વ્યાખ્યાયિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક મોલ આયનીય ઘન પદાર્થને તેના વાયુમય ઘટક આયનોમાં સંપૂર્ણપણે અલગ કરવા માટે આપવી પડતી ઉર્જાને લેટિસ એન્થાલ્પી કહે છે. <br> દા.ત., NaCl માટે લેટિસ એન્થાલ્પી 788 kJ/mol છે. તે આયનીય બંધની મજબૂતાઈ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિસ્ટલને તોડવા માટેની 'તોડફોડ ઉર્જા' એટલે લેટિસ એન્થાલ્પી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બંધ લંબાઈ અને બંધ ક્રમાંક વચ્ચેનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ લંબાઈ અને બંધ ક્રમાંક એકબીજાના વ્યસ્ત પ્રમાણમાં હોય છે. જેમ બંધ ક્રમાંક વધે તેમ પરમાણુઓ વચ્ચે આકર્ષણ વધે છે અને બંધ લંબાઈ ઘટે છે. <br> બંધ લંબાઈ ક્રમ: એકબંધ > દ્વિબંધ > ત્રિબંધ <br> (C-C > C=C > C≡C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી વધુ દોરી (બંધ), એટલા નજીક પરમાણુ! (વધુ બંધ = ટૂંકી લંબાઈ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઓઝોન (O₃) અણુના સંસ્પંદન સૂત્રો (Resonance Structures) દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓઝોનમાં બે બંધારણોનું મિશ્રણ જોવા મળે છે. જેમાં એક O-O બંધ એકલ હોય છે અને બીજો દ્વિબંધ હોય છે. સંસ્પંદનને કારણે બંને O-O બંધ લંબાઈ સમાન (128 pm) જોવા મળે છે. <br> [O=O-O ↔ O-O=O]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્પંદન એટલે 'ડબલ બોન્ડની અદલાબદલી'. આનાથી અણુમાં સ્થિરતા આવે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "NH₃ ની દ્વિધ્રુવ ચાકમાત્રા NF₃ કરતા શા માટે વધુ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> NH₃ માં N-H બંધની ધ્રુવીયતા અને નાઈટ્રોજન પરના અબંધકારક ઈલેક્ટ્રોન યુગ્મની દિશા એક જ તરફ (ઉપરની તરફ) હોય છે, જે પરિણામી ચાકમાત્રામાં વધારો કરે છે. જ્યારે NF₃ માં N-F બંધની ધ્રુવીયતા અબંધકારક યુગ્મની વિરુદ્ધ દિશામાં હોવાથી ચાકમાત્રા ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NH₃ માં 'સપોર્ટ' મળે છે (દિશા એક જ), NF₃ માં 'વિરોધ' થાય છે (દિશા વિરુદ્ધ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "VSEPR સિદ્ધાંત મુજબ ઈલેક્ટ્રોન યુગ્મો વચ્ચેના અપાકર્ષણનો ક્રમ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈલેક્ટ્રોન યુગ્મો વચ્ચે અપાકર્ષણનો ઘટતો ક્રમ નીચે મુજબ છે: <br> અબંધકારક યુગ્મ - અબંધકારક યુગ્મ (lp - lp) > અબંધકારક યુગ્મ - બંધકારક યુગ્મ (lp - bp) > બંધકારક યુગ્મ - બંધકારક યુગ્મ (bp - bp).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નવરા (lp)' લોકો વધુ ઝઘડે (અપાકર્ષણ કરે), 'કામવાળા (bp)' ઓછા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "BeCl₂ અને BF₃ અણુના આકાર અને બંધકોણ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1. BeCl₂: આકાર - રેખીય (Linear), બંધકોણ - 180° <br> 2. BF₃: આકાર - સમતલીય ત્રિકોણ (Trigonal Planar), બંધકોણ - 120°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 જોડી = 180° (સીધી રેખા), 3 જોડી = 120° (પંખા જેવો આકાર!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સિગ્મા (σ) અને પાઈ (π) બંધ વચ્ચેના બે તફાવત લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1. σ-બંધ: કક્ષકોના અક્ષીય (આંતરકેન્દ્રીય અક્ષ પર) સંમિશ્રણથી બને છે. તે મજબૂત બંધ છે. <br> 2. π-બંધ: કક્ષકોના બાજુવાર (લંબવત) સંમિશ્રણથી બને છે. તે σ-બંધ કરતા નિર્બળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિગ્મા = 'માથું અથડાવવું' (Head-on), પાઈ = 'ખભે ખભા મિલાવવા' (Sideways)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "CH₄ અણુમાં જોવા મળતું સંકરણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિથેન (CH₄) માં કાર્બન પરમાણુની એક '2s' અને ત્રણ '2p' કક્ષકો સંમિશ્રિત થઈને ચાર સમાન ઊર્જાવાળી 'sp³' સંકૃત કક્ષકો બનાવે છે. આથી CH₄ નો આકાર સમચતુષ્ફલકીય અને બંધકોણ 109.5° હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 સિંગલ બંધ = sp³. આકાર હંમેશા સમચતુષ્ફલકીય જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "PCl₅ માં કયું સંકરણ જોવા મળે છે? તેનો આકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PCl₅ માં ફોસ્ફરસ પરમાણુ sp³d સંકરણ અનુભવે છે. તેનો આકાર ત્રિકોણીય દ્વિ-પિરામિડલ (Trigonal Bipyramidal) છે. તેમાં ત્રણ વિષુવવૃત્તીય (Equatorial) અને બે અક્ષીય (Axial) બંધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 બંધ = s + ppp + d = sp³d. આમાં અક્ષીય બંધ લાંબા હોય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "SF₆ અણુની ભૂમિતિ અને સંકરણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> SF₆ માં સલ્ફર પરમાણુ sp³d² સંકરણ દર્શાવે છે. આ સંકરણને કારણે અણુનો આકાર અષ્ટફલકીય (Octahedral) બને છે અને બધા જ S-F બંધકોણ 90° ના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 બંધ = sp³d². 6 ખૂણાવાળો રસ્તો એટલે અષ્ટફલકીય આકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બંધ ક્રમાંક (Bond Order) એટલે શું? O₂ માટે તેની ગણતરી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અણુમાં રહેલા બે પરમાણુઓ વચ્ચેના સહસંયોજક બંધની સંખ્યાને બંધ ક્રમાંક કહે છે. <br> સૂત્ર: B.O. = ½ (N_b – N_a) <br> O₂ માટે (કુલ 16 e-): B.O. = ½ (10 - 6) = 2. આથી O₂ માં દ્વિબંધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધ ક્રમાંક = અણુ વચ્ચેના 'લીટા'. O=O એટલે 2!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "He₂ અણુ અસ્તિત્વ ધરાવતો નથી - આણ્વીય કક્ષક સિદ્ધાંતના આધારે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> He₂ અણુમાં કુલ 4 ઈલેક્ટ્રોન હોય છે. તેની ઇલેક્ટ્રોન રચના: (σ1s)² (σ*1s)² છે. <br> બંધ ક્રમાંક = ½ (N_b – N_a) = ½ (2 – 2) = 0. <br> બંધ ક્રમાંક શૂન્ય હોવાથી He₂ અણુ સ્થાયી નથી અને અસ્તિત્વ ધરાવતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: B.O. ઝીરો, તો અણુ હીરો નહીં (અસ્તિત્વ જ નથી)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "O₂ અણુ અનુચુંબકીય (Paramagnetic) શા માટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આણ્વીય કક્ષક સિદ્ધાંત મુજબ, O₂ અણુની છેલ્લી બે પ્રતિબંધકારક કક્ષકો (π*2px અને π*2py) માં એક-એક અયુગ્મિત ઈલેક્ટ્રોન હોય છે. અયુગ્મિત ઈલેક્ટ્રોનની હાજરીને કારણે O₂ અનુચુંબકીય ગુણધર્મ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયુગ્મિત (એકલો) e- = અનુચુંબકીય. યુગ્મિત (જોડી) e- = પ્રતિચુંબકીય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "હાઈડ્રોજન બંધ બનવા માટેની જરૂરી શરતો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. અણુમાં હાઈડ્રોજન પરમાણુ અત્યંત વિદ્યુતઋણમય તત્વ (જેમ કે F, O, N) સાથે જોડાયેલો હોવો જોઈએ. <br> 2. વિદ્યુતઋણમય તત્વનું કદ નાનું હોવું જોઈએ, જેથી તે ઈલેક્ટ્રોન યુગ્મને વધુ આકર્ષી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'F-O-N' (ફોન) - હાઈડ્રોજન જ્યારે F, O કે N સાથે જોડાય ત્યારે જ H-બંધ બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આંતર-આણ્વીય અને અંતઃ-આણ્વીય હાઈડ્રોજન બંધનો તફાવત ઉદાહરણ સાથે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br> 1. આંતર-આણ્વીય (Inter-molecular): બે અલગ-અલગ અણુઓ વચ્ચે બનતો બંધ. દા.ત., H₂O, HF, NH₃. <br> 2. અંતઃ-આણ્વીય (Intra-molecular): એક જ અણુની અંદર બે પરમાણુઓ વચ્ચે બનતો બંધ. દા.ત., ઓર્થો-નાઈટ્રોફિનોલ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Inter = બે અણુ વચ્ચે 'ઇન્ટરવલ', Intra = ઘરની અંદર (Internal)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ફજાનના નિયમો (Fajans' Rules) ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયનીય બંધમાં સહસંયોજક લક્ષણ નક્કી કરવા માટે ફજાનના નિયમો વપરાય છે: <br> 1. ધન આયનનું કદ નાનું અને ઋણ આયનનું કદ મોટું હોય ત્યારે સહસંયોજક લક્ષણ વધે છે. <br> 2. આયનો પરનો વીજભાર વધુ હોય ત્યારે સહસંયોજક લક્ષણ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો ધન આયન + મોટો ઋણ આયન = વધુ સહસંયોજક ગુણ!</p></div>"
+    }
+  ]
+}

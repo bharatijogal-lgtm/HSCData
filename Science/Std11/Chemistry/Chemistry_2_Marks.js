@@ -789,3 +789,121 @@ var Std11_Chemistry_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "કાર્બનિક રસાયણવિજ્ઞાન - કેટલાક પાયાના સિદ્ધાંતો અને તકનીકો",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કાર્બન પરમાણુની ચતુઃસંયોજકતા અને તેનો આકાર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન પરમાણુ તેની ઉત્તેજિત અવસ્થામાં ચાર અયુગ્મિત ઈલેક્ટ્રોન ધરાવે છે, તેથી તે ચાર સહસંયોજક બંધ બનાવી શકે છે. CH₄ જેવા અણુમાં કાર્બન sp³ સંકરણ ધરાવે છે અને તેનો આકાર <strong>સમચતુષ્ફલકીય</strong> હોય છે, જેમાં બંધકોણ 109.5° હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન = 4 હાથ (બંધ). જો 4 સિંગલ બંધ તો sp³ (સમચતુષ્ફલકીય), 1 ડબલ બંધ તો sp² (સમતલીય ત્રિકોણ), 1 ટ્રિપલ બંધ તો sp (રેખીય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કેટેનેશન એટલે શું? કાર્બનમાં આ ગુણધર્મ વધુ શા માટે જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જ તત્વના પરમાણુઓ એકબીજા સાથે સહસંયોજક બંધથી જોડાઈને લાંબી શૃંખલા કે વલય બનાવવાની ક્ષમતાને 'કેટેનેશન' કહે છે. કાર્બનનો C-C બંધ અત્યંત મજબૂત હોવાથી અને તેનું કદ નાનું હોવાથી તેમાં કેટેનેશનનો ગુણધર્મ સૌથી વધુ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટેનેશન = ચેઈન બનાવવાની શક્તિ. કાર્બન 'ફેવિકોલ' જેવું મજબૂત જોડાણ કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાનધર્મી શ્રેણી (Homologous Series) ની લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. દરેક સભ્યનું સામાન્ય સૂત્ર સમાન હોય છે. 2. ક્રમિક બે સભ્યો વચ્ચે -CH₂- જૂથનો તફાવત હોય છે. 3. આણ્વીય દળમાં 14 u નો તફાવત હોય છે. 4. રાસાયણિક ગુણધર્મો સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CH₂ નો ગેપ = સમાનધર્મી. જેમ કે મીથેન, ઈથેન, પ્રોપેન (બધા જ આલ્કેન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ક્રિયાશીલ સમૂહ એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બનિક સંયોજનમાં હાજર એવો પરમાણુ કે પરમાણુઓનો સમૂહ જે સંયોજનના લાક્ષણિક રાસાયણિક ગુણધર્મો માટે જવાબદાર હોય તેને ક્રિયાશીલ સમૂહ કહે છે. ઉદાહરણ: -OH (આલ્કોહોલ), -CHO (આલ્ડિહાઈડ), -COOH (કાર્બોક્સિલિક એસિડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રિયાશીલ સમૂહ = સંયોજનનું 'આઈડી કાર્ડ'. તે જ નક્કી કરશે કે કમ્પાઉન્ડ કેવી પ્રક્રિયા આપશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બંધારણીય સમઘટકતા એટલે શું? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંયોજનોના આણ્વીય સૂત્રો સમાન હોય પરંતુ તેમના બંધારણીય સૂત્રો (પરમાણુઓની ગોઠવણી) અલગ હોય તેને બંધારણીય સમઘટકો કહે છે. પ્રકારો: 1. શૃંખલા, 2. સ્થાન, 3. ક્રિયાશીલ સમૂહ, 4. મેટામેરિઝમ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેમ મોલેક્યુલર ફોર્મ્યુલા + ડિફરન્ટ સ્ટ્રક્ચર = બંધારણીય સમઘટક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મેટામેરિઝમ (Metamerism) ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જ ક્રિયાશીલ સમૂહની બંને બાજુએ આવેલા આલ્કિલ સમૂહોની સંખ્યા અલગ-અલગ હોવાને કારણે ઉદભવતી સમઘટકતાને મેટામેરિઝમ કહે છે. ઉદાહરણ: ઈથર (C₄H₁₀O) માં ડાયઈથાઈલ ઈથર (CH₃CH₂-O-CH₂CH₃) અને મિથાઈલ પ્રોપાઈલ ઈથર (CH₃-O-CH₂CH₂CH₃).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેટામેરિઝમ = વચમાં રહેલા 'ઓક્સિજન' કે 'નાઈટ્રોજન' ના ડાબા-જમણા હાથ બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિષમ વિભાજન (Heterolytic Fission) એટલે શું? તેનાથી શું બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે સહસંયોજક બંધ તૂટે ત્યારે બંધના બંને ઈલેક્ટ્રોન કોઈ એક જ પરમાણુ (જેની વિદ્યુતઋણતા વધુ હોય) પાસે જાય તેને વિષમ વિભાજન કહે છે. આ પ્રક્રિયાથી <strong>કાર્બોકેટાયન</strong> (C+) અને <strong>કાર્બેનિયન</strong> (C-) બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્યાયી વિભાજન = એક બધું લઈ જાય (+ અને - બને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મુક્ત મૂલક (Free Radical) એટલે શું? તેની સ્થિરતાનો ક્રમ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમવિભાજન (Homolytic fission) દરમિયાન જ્યારે દરેક પરમાણુ પોતાનો એક ઈલેક્ટ્રોન લઈને છૂટો પડે, ત્યારે બનતા એકાકી ઈલેક્ટ્રોન ધરાવતા પરમાણુને મુક્ત મૂલક કહે છે. સ્થિરતાનો ક્રમ: તૃતીયક (3°) > દ્વિતીયક (2°) > પ્રાથમિક (1°) > મિથાઈલ મુક્ત મૂલક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમવિભાજન = સરખે ભાગે વહેંચણી. મુક્ત મૂલક એટલે 'ડોટ' (•) વાળો રખડતો પરમાણુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કેન્દ્રાનુરાગી પ્રક્રિયકો (Nucleophiles) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયકો ઈલેક્ટ્રોન ધનિક હોય અને ધન વીજભારિત કેન્દ્ર પ્રત્યે આકર્ષણ ધરાવતા હોય તેને કેન્દ્રાનુરાગી પ્રક્રિયકો કહે છે. તે ઈલેક્ટ્રોન યુગ્મનું દાન કરી શકે છે. ઉદાહરણ: OH⁻, CN⁻, NH₃, H₂O.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Nucleophile = Nucleus Lover (કેન્દ્ર પ્રેમી). જેની પાસે (-) ચાર્જ કે લોન પેર (L.P.) હોય તે કેન્દ્રાનુરાગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઈલેક્ટ્રોન અનુરાગી પ્રક્રિયકો (Electrophiles) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયકો ઈલેક્ટ્રોન ઉણપ ધરાવતા હોય અને ઈલેક્ટ્રોન ધનિક કેન્દ્ર પ્રત્યે આકર્ષણ ધરાવતા હોય તેને ઈલેક્ટ્રોન અનુરાગી પ્રક્રિયકો કહે છે. ઉદાહરણ: H⁺, Cl⁺, NO₂⁺, AlCl₃, BF₃.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Electrophile = Electron Lover. જેની પાસે (+) ચાર્જ હોય અથવા અષ્ટક અપૂર્ણ હોય તે ભિખારી (ઈલેક્ટ્રોન લેનાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રેરક અસર (Inductive Effect) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કાર્બન શૃંખલા સાથે વધુ વિદ્યુતઋણમય પરમાણુ જોડાયેલો હોય, ત્યારે સિગ્મા (σ) બંધના ઈલેક્ટ્રોનનું વધુ વિદ્યુતઋણમય પરમાણુ તરફ આંશિક સ્થાનાંતર થાય છે. આ કાયમી અસરને પ્રેરક અસર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેરક અસર = ખેંચાખેંચી (દોરડા ખેંચ). વધુ શક્તિશાળી (ઋણ તત્વ) ઈલેક્ટ્રોન પોતાની બાજુ ખેંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઈલેક્ટ્રોમેરિક અસર (Electromeric Effect) અને પ્રેરક અસર વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રેરક અસર <strong>કાયમી</strong> છે અને તે સિગ્મા (σ) બંધમાં જોવા મળે છે. જ્યારે ઈલેક્ટ્રોમેરિક અસર <strong>સામયિક (Temporary)</strong> છે, તે માત્ર પાઈ (π) બંધમાં પ્રક્રિયકની હાજરીમાં જ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I-Effect = Permanent, E-Effect = Temporary (મહેમાન આવે ત્યારે જ થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંસ્પંદન અસર (Resonance Effect) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ અણુનું સાચું બંધારણ એક જ લુઈસ બંધારણ દ્વારા સમજાવી ન શકાય, ત્યારે એક કરતાં વધુ બંધારણો દોરવામાં આવે છે. આ ઘટનાને સંસ્પંદન કહે છે. સંસ્પંદનથી અણુની સ્થિરતા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસ્પંદન = ઈલેક્ટ્રોનનો ડાન્સ (સતત સ્થાનાંતર). જેટલા વધુ સંસ્પંદન બંધારણો, તેટલી વધુ સ્થિરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અતિસંયુગ્મન (Hyperconjugation) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસંતૃપ્ત પ્રણાલી અથવા કાર્બોકેટાયન સાથે જોડાયેલા આલ્કિલ સમૂહના C-H બંધના સિગ્મા ઈલેક્ટ્રોનનું પાઈ-તંત્ર કે ખાલી p-કક્ષક સાથેનું સ્થાનાંતર એટલે અતિસંયુગ્મન. તેને 'No Bond Resonance' પણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈપરકોન્જ્યુગેશન = બંધ વગરનું સંસ્પંદન. આલ્ફા-H જેટલા વધુ, તેટલી સ્થિરતા વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નિસ્યંદન (Distillation) પદ્ધતિ ક્યારે વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રવાહીઓના ઉત્કલનબિંદુ વચ્ચે પૂરતો તફાવત (સામાન્ય રીતે 25-30 K કે તેથી વધુ) હોય તેવા બાષ્પશીલ પ્રવાહીઓને મિશ્રણમાંથી અલગ કરવા નિસ્યંદન પદ્ધતિ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિસ્યંદન = ગરમ કરો, બાષ્પ બનાવો અને ઠારીને અલગ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભેદક નિષ્કર્ષણ (Differential Extraction) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ કાર્બનિક પદાર્થ જલીય દ્રાવણમાં હોય, ત્યારે તેને તેવા કાર્બનિક દ્રાવક સાથે હલાવવામાં આવે છે જેમાં તે પદાર્થ પાણી કરતાં વધુ દ્રાવ્ય હોય. આ માટે પૃથક્કારી ગળણી (Separating funnel) વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષ્કર્ષણ = પાણીમાંથી પદાર્થને ખેંચીને ઓઈલમાં કે ઈથરમાં લઈ જવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેસાઈન કસોટી (Lassaigne’s Test) દ્વારા કયા તત્વો પરખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બનિક સંયોજનમાં રહેલા નાઈટ્રોજન (N), સલ્ફર (S) અને હેલોજન (Cl, Br, I) તત્વોની પરખ માટે લેસાઈન કસોટી વપરાય છે. તેમાં પદાર્થને સોડિયમ ધાતુ સાથે પીગાળી 'સોડિયમ નિષ્કર્ષ' બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેસાઈન ટેસ્ટ = N, S, X ની જાસૂસી. સોડિયમ ફ્યુઝન એક્સ્ટ્રેક્ટ ફરજિયાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નાઈટ્રોજનની પરખ માટે લેસાઈન કસોટીમાં કયો રંગ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોડિયમ નિષ્કર્ષમાં તાજું બનાવેલું ફેરસ સલ્ફેટ (FeSO₄) ઉમેરી ગરમ કરી, તેમાં થોડા ટીપાં FeCl₃ અને સાંદ્ર HCl ઉમેરતા <strong>પશિયન બ્લુ (ઘેરો વાદળી)</strong> રંગ મળે છે, જે નાઈટ્રોજનની હાજરી સૂચવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન = બ્લુ કલર (પ્રશિયન બ્લુ). સૂત્ર: Fe₄[Fe(CN)₆]₃.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ક્રોમેટોગ્રાફી (Chromatography) નો સિદ્ધાંત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્રોમેટોગ્રાફી એ મિશ્રણના ઘટકોના બે જુદી જુદી અવસ્થાઓ (સ્થિર અવસ્થા અને ગતિશીલ અવસ્થા) વચ્ચેના વિભેદક અધિશોષણ અથવા વિતરણ પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોમેટોગ્રાફી = રેસ (Race). જેની સ્પીડ વધુ તે આગળ નીકળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્લડાહલ (Kjeldahl’s method) પદ્ધતિની મર્યાદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પદ્ધતિ એવા સંયોજનો માટે વપરાતી નથી જેમાં નાઈટ્રોજન: 1. નાઈટ્રો સમૂહ (-NO₂) માં હોય, 2. એઝો સમૂહ (-N=N-) માં હોય અથવા 3. વલયમાં (દા.ત. પિરિડિન) હોય. કારણ કે આ નાઈટ્રોજન એમોનિયમ સલ્ફેટમાં રૂપાંતર પામતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્લડાહલ 'ના' પાડે છે - NO₂, Azo અને Ring નાઈટ્રોજનને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ડ્યુમાની પદ્ધતિ દ્વારા નાઈટ્રોજનના પ્રમાણનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાઈટ્રોજનના ટકા = (28 × V × 100) / (22400 × W)<br>જ્યાં, V = STP એ નાઈટ્રોજનનું કદ (mL), W = કાર્બનિક પદાર્થનું વજન (g).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડ્યુમા = ડાયરેક્ટ N₂ ગેસ માપવો. 28 એ N₂ નું આણ્વીય દળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઉર્ધ્વપાતન (Sublimation) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ ઘન પદાર્થને ગરમ કરતા તે પ્રવાહીમાં રૂપાંતર પામ્યા વગર સીધો જ બાષ્પમાં રૂપાંતર પામે તેને ઉર્ધ્વપાતન કહે છે. ઉદાહરણ: કપૂર, નેપ્થલીન, એન્થ્રેસીન, આયોડિન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉર્ધ્વપાતન = શોર્ટકટ. Solid થી Direct Gas!</p></div>"
+    }
+  ]
+}

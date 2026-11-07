@@ -558,3 +558,116 @@ var Std11_Chemistry_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સંતુલન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગતિશીલ સંતુલન (Dynamic Equilibrium) એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ પ્રણાલીમાં પુરોગામી પ્રક્રિયાનો વેગ અને પ્રતિગામી પ્રક્રિયાનો વેગ સમાન થાય, ત્યારે પ્રક્રિયકો અને નીપજોની સાંદ્રતા સમય સાથે બદલાતી નથી. આવી સ્થિતિને ગતિશીલ સંતુલન કહે છે. આ સ્થિતિમાં પ્રક્રિયા અટકતી નથી, પણ બંને દિશામાં સમાન વેગથી ચાલુ રહે છે. <br>ઉદાહરણ: બંધ પાત્રમાં પ્રવાહી પાણી અને તેની બાષ્પ વચ્ચેનું સંતુલન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Dynamic' એટલે 'ચલિત'. યાદ રાખો: વેગ સમાન, પણ સાંદ્રતા સ્થિર (અચળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Kp અને Kc વચ્ચેનો સંબંધ દર્શાવતું સમીકરણ લખો અને તેમાં વપરાતા પદો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Kp અને Kc વચ્ચેનો સંબંધ નીચે મુજબ છે: <br><strong>Kp = Kc(RT)<sup>Δn</sup></strong><br>જ્યાં, Kp = આંશિક દબાણના આધારે સંતુલન અચળાંક, Kc = સાંદ્રતાના આધારે સંતુલન અચળાંક, R = વાયુ અચળાંક (0.0831 L bar K⁻¹ mol⁻¹), T = નિરપેક્ષ તાપમાન (કેલ્વિનમાં), Δn = (નીપજોના વાયુરૂપ મોલની સંખ્યા) - (પ્રક્રિયકોના વાયુરૂપ મોલની સંખ્યા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Parle-G' ની જેમ 'KPRT' યાદ રાખો. Δn ગણતી વખતે માત્ર 'વાયુ (g)' અવસ્થા જ ધ્યાનમાં લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાંગ અને વિષમાંગ સંતુલન વચ્ચેનો તફાવત ઉદાહરણ સાથે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>સમાંગ સંતુલન:</strong> જો સંતુલનમાં રહેલા તમામ પ્રક્રિયકો અને નીપજો એક જ અવસ્થામાં (Phase) હોય. ઉદા: N₂(g) + 3H₂(g) ⇌ 2NH₃(g). <br>2. <strong>વિષમાંગ સંતુલન:</strong> જો પ્રક્રિયકો અને નીપજો એક કરતા વધુ અવસ્થામાં હોય. ઉદા: CaCO₃(s) ⇌ CaO(s) + CO₂(g).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાંગ' = સમાન અવસ્થા, 'વિષમાંગ' = વિભિન્ન અવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પ્રક્રિયા ભાગાંક (Qc) નો ઉપયોગ પ્રક્રિયાની દિશા નક્કી કરવા કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. જો Qc < Kc હોય, તો પ્રક્રિયા પુરોગામી (જમણી) દિશામાં આગળ વધશે. <br>2. જો Qc > Kc હોય, તો પ્રક્રિયા પ્રતિગામી (ડાબી) દિશામાં આગળ વધશે. <br>3. જો Qc = Kc હોય, તો પ્રક્રિયા સંતુલન અવસ્થામાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Qc ને 'નાનો ભાઈ' અને Kc ને 'મોટો ભાઈ' (ટાર્ગેટ) ગણો. જો Qc નાનો હોય, તો તેણે Kc બનવા જમણી બાજુ (નીપજ તરફ) દોડવું પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લ-શેટેલિયરનો સિદ્ધાંત (Le Chatelier's Principle) લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે સંતુલનમાં રહેલી કોઈ પ્રણાલીમાં સાંદ્રતા, દબાણ અથવા તાપમાન જેવા પરિબળોમાં ફેરફાર કરવામાં આવે, ત્યારે સંતુલન એવી દિશામાં ખસે છે કે જેથી થયેલા ફેરફારની અસર ન્યૂનતમ અથવા નાબૂદ થઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સિદ્ધાંત 'જૈસે થી' (Status Quo) જાળવવાનો પ્રયત્ન કરે છે. તમે જે ફેરફાર કરો, પ્રણાલી તેનાથી ઉલટું કરશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંતુલન પર તાપમાનના ફેરફારની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. ઉષ્માશોષક પ્રક્રિયા (ΔH > 0): તાપમાન વધારતા સંતુલન પુરોગામી દિશામાં ખસે છે. <br>2. ઉષ્માક્ષેપક પ્રક્રિયા (ΔH < 0): તાપમાન વધારતા સંતુલન પ્રતિગામી દિશામાં ખસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગરમી આપો તો ઠંડી બાજુ જાય'. ઉષ્માશોષકને ગરમી ગમે (પુરોગામી), ઉષ્માક્ષેપકને ગરમી ન ગમે (પ્રતિગામી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંતુલન અચળાંક (K) અને પ્રમાણિત ગિબ્સ ઉર્જા (ΔG°) વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ΔG° = -RT ln K  અથવા  ΔG° = -2.303 RT log K <br>જ્યાં, ΔG° = પ્રમાણિત ગિબ્સ ઉર્જા ફેરફાર, R = વાયુ અચળાંક, T = નિરપેક્ષ તાપમાન, K = સંતુલન અચળાંક.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો K > 1 (નીપજ વધુ), તો ΔG° (-) ઋણ હશે, એટલે કે પ્રક્રિયા આપમેળે થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લુઈસ એસિડ અને લુઈસ બેઇઝ એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. <strong>લુઈસ એસિડ:</strong> જે પદાર્થ ઇલેક્ટ્રોન યુગ્મ સ્વીકારી શકે તેને લુઈસ એસિડ કહેવાય. ઉદા: BF₃, AlCl₃, H⁺. <br>2. <strong>લુઈસ બેઇઝ:</strong> જે પદાર્થ ઇલેક્ટ્રોન યુગ્મનું દાન કરી શકે તેને લુઈસ બેઇઝ કહેવાય. ઉદા: NH₃, H₂O, OH⁻.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Acid Accepts' (A-A) - એસિડ સ્વીકારે, બેઇઝ દાન કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બ્રોન્સ્ટેડ-લોરી સિદ્ધાંત મુજબ સંયુગ્મી એસિડ-બેઇઝ જોડ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ અને બેઇઝની એવી જોડ કે જે માત્ર એક પ્રોટોન (H⁺) ના તફાવતથી અલગ પડતી હોય તેને સંયુગ્મી એસિડ-બેઇઝ જોડ કહે છે. <br>ઉદાહરણ: NH₃ (બેઇઝ) અને NH₄⁺ (સંયુગ્મી એસિડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ = બેઇઝ + H⁺. એસિડમાંથી H⁺ કાઢો તો સંયુગ્મી બેઇઝ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાણીનો આયોનિક ગુણાકાર (Kw) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શુદ્ધ પાણીમાં હાઇડ્રોનિયમ આયન [H₃O⁺] અને હાઇડ્રોક્સિલ આયન [OH⁻] ની સાંદ્રતાના ગુણાકારને પાણીનો આયોનિક ગુણાકાર (Kw) કહે છે. <br>Kw = [H₃O⁺][OH⁻]. 298 K તાપમાને Kw નું મૂલ્ય 1.0 × 10⁻¹⁴ mol²/L² હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Kw = 10 raised to -14. તાપમાન વધતા Kw વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "pH માપક્રમની વ્યાખ્યા અને તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્રાવણમાં રહેલા હાઇડ્રોજન આયન (H⁺) ની સાંદ્રતાના ઋણ લઘુગણકને તે દ્રાવણની pH કહે છે. <br>સૂત્ર: <strong>pH = -log₁₀[H⁺]</strong> અથવા <strong>pH = -log₁₀[H₃O⁺]</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'p' એટલે 'power of' અથવા '-log'. જેટલો [H⁺] વધુ, તેટલી pH ઓછી (વધુ એસિડિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નિર્બળ એસિડ માટેના આયનીકરણ અચળાંક (Ka) નું સૂત્ર તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માની લો કે એક નિર્બળ એસિડ HA છે: HA + H₂O ⇌ H₃O⁺ + A⁻. <br>સંતુલન અચળાંક: Ka = [H₃O⁺][A⁻] / [HA]. <br>જો પ્રારંભિક સાંદ્રતા C હોય અને આયનીકરણ અંશ α હોય, તો Ka = Cα² / (1-α). ખૂબ નિર્બળ એસિડ માટે Ka ≈ Cα².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓસ્વાલ્ડનો મંદનનો નિયમ: Ka = Cα². Ka વધે તો એસિડની પ્રબળતા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાન આયન અસર (Common Ion Effect) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ નિર્બળ વિદ્યુતવિભાજ્યના દ્રાવણમાં સમાન આયન ધરાવતો પ્રબળ વિદ્યુતવિભાજ્ય ઉમેરવામાં આવે, ત્યારે નિર્બળ વિદ્યુતવિભાજ્યના આયનીકરણમાં ઘટાડો થાય છે. આ ઘટનાને સમાન આયન અસર કહે છે. <br>ઉદા: CH₃COOH માં CH₃COONa ઉમેરતા એસિટિક એસિડનું આયનીકરણ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભીડ વધારશો તો પ્રક્રિયા પાછી પડશે'. સમાન આયન વધતા સંતુલન પ્રતિગામી ખસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બફર દ્રાવણ (Buffer Solution) એટલે શું? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે દ્રાવણમાં થોડા પ્રમાણમાં પ્રબળ એસિડ કે પ્રબળ બેઇઝ ઉમેરવા છતાં તેની pH ના મૂલ્યમાં કોઈ ખાસ ફેરફાર થતો નથી, તેવા દ્રાવણને બફર દ્રાવણ કહે છે. <br>પ્રકારો: 1. એસિડિક બફર (નિર્બળ એસિડ + તેનો પ્રબળ બેઇઝ સાથેનો ક્ષાર) <br>2. બેઝિક બફર (નિર્બળ બેઇઝ + તેનો પ્રબળ એસિડ સાથેનો ક્ષાર).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બફર એટલે 'pH નો રક્ષક' (Bodyguard of pH).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દ્રાવ્યતા ગુણાકાર (Ksp) અને દ્રાવ્યતા (S) વચ્ચેનો સંબંધ AgCl અને Zr₃(PO₄)₄ માટે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. AgCl (AB પ્રકાર): Ksp = [Ag⁺][Cl⁻] = (S)(S) = <strong>S²</strong>. <br>2. Zr₃(PO₄)₄ (A₃B₄ પ્રકાર): Ksp = [Zr⁴⁺]³ [PO₄³⁻]⁴ = (3S)³ (4S)⁴ = 27S³ × 256S⁴ = <strong>6912 S⁷</strong>.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જનરલ ફોર્મ્યુલા: Ksp = xˣ yʸ S⁽ˣ⁺ʸ⁾. AgCl માટે x=1, y=1, Zr₃(PO₄)₄ માટે x=3, y=4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ક્ષારનું જળવિભાજન (Hydrolysis) એટલે શું? તેના કોઈ પણ બે પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષારના આયનો અને પાણીના આયનો (H⁺ અથવા OH⁻) વચ્ચેની પ્રક્રિયાને ક્ષારનું જળવિભાજન કહે છે. <br>પ્રકારો: 1. પ્રબળ એસિડ અને નિર્બળ બેઇઝના ક્ષારનું જળવિભાજન (દ્રાવણ એસિડિક બને). <br>2. નિર્બળ એસિડ અને પ્રબળ બેઇઝના ક્ષારનું જળવિભાજન (દ્રાવણ બેઝિક બને).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જે પ્રબળ તેની સત્તા'. પ્રબળ એસિડ હોય તો pH < 7, પ્રબળ બેઇઝ હોય તો pH > 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "હેન્ડરસન-હેસલબાક સમીકરણ એસિડિક બફર માટે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડિક બફરની pH ગણવા માટેનું હેન્ડરસન-હેસલબાક સમીકરણ: <br><strong>pH = pKa + log₁₀ ([ક્ષાર] / [એસિડ])</strong> <br>જ્યાં, pKa = -log Ka, [ક્ષાર] = ક્ષારની સાંદ્રતા, [એસિડ] = નિર્બળ એસિડની સાંદ્રતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH = pKa + log (Salt/Acid). યાદ રાખો: 'સાલ' (Salt) ઉપર, 'એસિડ' (Acid) નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અલ્પદ્રાવ્ય ક્ષારના અવક્ષેપન માટેની શરત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષારના અવક્ષેપન માટે આયોનિક ગુણાકાર (Qsp) અને દ્રાવ્યતા ગુણાકાર (Ksp) ની સરખામણી કરવામાં આવે છે: <br>જો <strong>Qsp > Ksp</strong> હોય, તો જ દ્રાવણમાં અવક્ષેપન થશે. <br>જો Qsp < Ksp હોય, તો દ્રાવણ અસંતૃપ્ત છે અને અવક્ષેપન થશે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ્યારે ગ્લાસ ભરાઈને છલકાય (Q > K), ત્યારે જ કચરો નીચે બેસે (અવક્ષેપ)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હેબર વિધિમાં એમોનિયાનું ઉત્પાદન વધારવા માટે લ-શેટેલિયરના સિદ્ધાંત મુજબ કઈ અનુકૂળ પરિસ્થિતિઓ હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N₂(g) + 3H₂(g) ⇌ 2NH₃(g) + ઉષ્મા. <br>1. <strong>દબાણ:</strong> ઊંચું દબાણ (કારણ કે નીપજ તરફ મોલ ઓછા છે). <br>2. <strong>તાપમાન:</strong> નીચું તાપમાન (કારણ કે પ્રક્રિયા ઉષ્માક્ષેપક છે, જોકે પ્રક્રિયા વેગ માટે ઈષ્ટતમ તાપમાન 700 K લેવાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વધારે દબાણ, ઓછું તાપમાન = વધુ એમોનિયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નિર્બળ એસિડના સંયુગ્મી બેઇઝ માટે Ka અને Kb વચ્ચેનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ સંયુગ્મી એસિડ-બેઇઝ જોડ માટે તેમના આયનીકરણ અચળાંકોનો ગુણાકાર પાણીના આયોનિક ગુણાકાર (Kw) જેટલો હોય છે. <br><strong>Ka × Kb = Kw</strong> <br>બંને બાજુ -log લેતા: <strong>pKa + pKb = pKw = 14</strong> (298 K તાપમાને).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Acid + Base = Water' (Kw). જો એક પ્રબળ હોય, તો બીજો નિર્બળ જ હશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બહુપ્રોટિક એસિડ (Polyprotic Acid) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે એસિડ એક કરતા વધુ પ્રોટોન (H⁺) આપી શકતા હોય તેને બહુપ્રોટિક એસિડ કહે છે. તેમનું આયનીકરણ તબક્કાવાર થાય છે. <br>ઉદાહરણ: H₂SO₄, H₃PO₄, H₂CO₃. <br>ક્રમિક આયનીકરણ અચળાંકો માટે હંમેશા Ka₁ > Ka₂ > Ka₃ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પહેલો પ્રોટોન કાઢવો સૌથી સહેલો, એટલે Ka₁ સૌથી મોટો'.</p></div>"
+    }
+  ]
+}

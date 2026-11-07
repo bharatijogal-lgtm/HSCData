@@ -450,3 +450,111 @@ var Std11_Chemistry_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ઉષ્માગતિશાસ્ત્ર",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ખુલ્લી પ્રણાલી અને બંધ પ્રણાલી વચ્ચેનો મુખ્ય તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>ખુલ્લી પ્રણાલી:</b> આ પ્રણાલીમાં પર્યાવરણ સાથે ઉર્જા અને દ્રવ્ય બંનેનો વિનિમય થઈ શકે છે. દા.ત., ખુલ્લા બીકરમાં ઉકળતું પાણી.<br>2. <b>બંધ પ્રણાલી:</b> આ પ્રણાલીમાં પર્યાવરણ સાથે માત્ર ઉર્જાનો વિનિમય થાય છે, પરંતુ દ્રવ્યનો વિનિમય થતો નથી. દા.ત., સ્ટીલના બંધ પાત્રમાં ભરેલું ગરમ પાણી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખુલ્લી' એટલે બારી ખુલ્લી (બધું બહાર જશે), 'બંધ' એટલે બારી બંધ પણ ગરમી (કાચમાંથી) બહાર જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અલગ કરેલી પ્રણાલી (Isolated System) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રણાલી તેના પર્યાવરણ સાથે ઉર્જા કે દ્રવ્ય એમ કોઈપણનો વિનિમય કરી શકતી ન હોય તેને અલગ કરેલી પ્રણાલી કહે છે. <br><b>ઉદાહરણ:</b> થર્મોસ ફ્લાસ્કમાં રહેલું ગરમ ચા કે કોફી (આદર્શ રીતે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Isolated = 'એકાંતવાસ'. ન તો કોઈ આવશે, ન તો કોઈ જશે (No Mass, No Energy exchange).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અવસ્થા વિધેય (State Function) અને પથ વિધેય (Path Function) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>અવસ્થા વિધેય:</b> જે ઉષ્માગતિશાસ્ત્રીય ગુણધર્મોનું મૂલ્ય માત્ર પ્રણાલીની પ્રારંભિક અને અંતિમ અવસ્થા પર આધાર રાખે છે, તેને અવસ્થા વિધેય કહે છે. દા.ત. $U, H, S, G$.<br>2. <b>પથ વિધેય:</b> જે ગુણધર્મો પ્રણાલી કયા પથ (રસ્તા) દ્વારા ફેરફાર પામે છે તેના પર આધાર રાખે છે, તેને પથ વિધેય કહે છે. દા.ત. કાર્ય ($w$) અને ઉષ્મા ($q$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવસ્થા વિધેય એટલે મંજિલ (Destination), પથ વિધેય એટલે રસ્તો (Route).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિસ્તૃત ગુણધર્મ (Extensive Property) અને ગહન ગુણધર્મ (Intensive Property) ના બે-બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>વિસ્તૃત ગુણધર્મ:</b> જે ગુણધર્મો દ્રવ્યના જથ્થા પર આધાર રાખે છે. ઉદા. દળ, કદ, આંતરિક ઉર્જા.<br>2. <b>ગહન ગુણધર્મ:</b> જે ગુણધર્મો દ્રવ્યના જથ્થાથી સ્વતંત્ર છે. ઉદા. તાપમાન, ઘનતા, દબાણ, સ્નિગ્ધતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગહન' (Intensive) માં 'In' એટલે 'Independent of mass' (જથ્થાથી આઝાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઉષ્માગતિશાસ્ત્રનો પ્રથમ નિયમ લખો અને તેનું ગાણિતિક સ્વરૂપ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમ: \"વિશ્વની કુલ ઉર્જા અચળ રહે છે. ઉર્જા ઉત્પન્ન કરી શકાતી નથી કે તેનો નાશ કરી શકાતો નથી, માત્ર એક સ્વરૂપમાંથી બીજા સ્વરૂપમાં રૂપાંતર કરી શકાય છે.\"<br>ગાણિતિક સ્વરૂપ: $\\Delta U = q + w$<br>જ્યાં, $\\Delta U$ = આંતરિક ઉર્જાનો ફેરફાર, $q$ = શોષાયેલી ઉષ્મા, $w$ = પ્રણાલી પર થયેલું કાર્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ નિયમ = 'ઉર્જા સંરક્ષણનો નિયમ'. યાદ રાખો: U = q + w.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઉષ્માગતિશાસ્ત્રમાં કાર્ય ($w$) અને ઉષ્મા ($q$) માટેની સંજ્ઞા પ્રણાલી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. પ્રણાલી દ્વારા શોષાયેલી ઉષ્મા: $+q$<br>2. પ્રણાલી દ્વારા ગુમાવાયેલી ઉષ્મા: $-q$<br>3. પ્રણાલી પર થયેલું કાર્ય (સંકોચન): $+w$<br>4. પ્રણાલી દ્વારા થયેલું કાર્ય (વિસ્તરણ): $-w$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંદર આવે તો પ્લસ (+)', 'બહાર જાય તો માઈનસ (-)'. પૈસા ખિસ્સામાં આવે તો (+), જાય તો (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એન્થાલ્પી ($H$) અને આંતરિક ઉર્જા ($U$) વચ્ચેનો સંબંધ દર્શાવતું સમીકરણ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એન્થાલ્પીની વ્યાખ્યા મુજબ, $H = U + PV$<br>અચળ દબાણે ફેરફાર લેતા, $\\Delta H = \\Delta U + P\\Delta V$<br>આદર્શ વાયુ માટે $PV = nRT$ હોવાથી,<br>$\\Delta H = \\Delta U + \\Delta n_g RT$<br>જ્યાં $\\Delta n_g$ = (નીપજોના વાયુરૂપ મોલ) - (પ્રક્રિયકોના વાયુરૂપ મોલ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હું (H) બરાબર યુ (U) વત્તા PV'. ગેસ માટે ગન (n_g) ચલાવવાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિશિષ્ટ ઉષ્માક્ષમતા ($c$) અને મોલર ઉષ્માક્ષમતા ($C_m$) વ્યાખ્યાયિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>વિશિષ્ટ ઉષ્માક્ષમતા (c):</b> 1 ગ્રામ પદાર્થનું તાપમાન 1°C (અથવા 1K) વધારવા માટે જરૂરી ઉષ્માના જથ્થાને વિશિષ્ટ ઉષ્માક્ષમતા કહે છે.<br>2. <b>મોલર ઉષ્માક્ષમતા (C_m):</b> 1 મોલ પદાર્થનું તાપમાન 1°C (અથવા 1K) વધારવા માટે જરૂરી ઉષ્માને મોલર ઉષ્માક્ષમતા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિશિષ્ટ = 'ગ્રામ' માટે, મોલર = 'મોલ' માટે. બાકી બધું સેમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "$C_p$ અને $C_v$ વચ્ચેનો સંબંધ મેળવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અચળ દબાણે મોલર ઉષ્માક્ષમતા $C_p$ અને અચળ કદે $C_v$ છે.<br>આદર્શ વાયુના 1 મોલ માટે, $H = U + RT$<br>તાપમાનની સાપેક્ષે વિકલન કરતા: $\\frac{dH}{dT} = \\frac{dU}{dT} + R$<br>વ્યાખ્યા મુજબ $\\frac{dH}{dT} = C_p$ અને $\\frac{dU}{dT} = C_v$ હોવાથી,<br>$C_p - C_v = R$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા 'P' માંથી નાનો 'v' બાદ કરો તો 'R' મળે. (P હંમેશા મોટું હોય કારણ કે વિસ્તરણ કાર્ય કરવું પડે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પ્રમાણિત સર્જન એન્થાલ્પી ($\\Delta_f H^\\circ$) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે 1 મોલ સંયોજન તેના ઘટક તત્વોની સૌથી સ્થાયી અવસ્થા (પ્રમાણિત અવસ્થા) માંથી બને, ત્યારે થતા એન્થાલ્પી ફેરફારને પ્રમાણિત સર્જન એન્થાલ્પી કહે છે. <br>દા.ત. $H_2(g) + \\frac{1}{2}O_2(g) \\rightarrow H_2O(l)$ માટેનો $\\Delta H$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સર્જન' એટલે 1 મોલ બનાવવું, અને 'તત્વો' હંમેશા કુદરતી અવસ્થામાં હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હેસનો ઉષ્મા સંકલનનો નિયમ (Hess's Law) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો કોઈ રાસાયણિક પ્રક્રિયા એક જ તબક્કામાં થાય અથવા અનેક તબક્કાઓમાં થાય, તો પ્રક્રિયા દરમિયાન થતો કુલ એન્થાલ્પી ફેરફાર સમાન રહે છે. તે પથ પર આધાર રાખતો નથી. <br>$\\Delta H = \\Delta h_1 + \\Delta h_2 + \\Delta h_3 + ...$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેસનો નિયમ એટલે 'સીડી ચઢો કે લિફ્ટમાં જાવ, ઉંચાઈ ($\\Delta H$) સરખી જ રહે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બંધન એન્થાલ્પી (Bond Enthalpy) એટલે શું? તેના દ્વારા $\\Delta_r H$ કેવી રીતે શોધાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુરૂપ અવસ્થામાં બે પરમાણુઓ વચ્ચેના 1 મોલ બંધને તોડવા માટે જરૂરી ઉર્જાને બંધન એન્થાલ્પી કહે છે.<br>$\\Delta_r H = \\sum (\\text{પ્રક્રિયકોની બંધન એન્થાલ્પી}) - \\sum (\\text{નીપજોની બંધન એન્થાલ્પી})$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધન એન્થાલ્પીમાં 'પ્રક્રિયક - નીપજ' (R-P) કરવાનું, સર્જન એન્થાલ્પીમાં 'નીપજ - પ્રક્રિયક' (P-R) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેટીસ એન્થાલ્પી (Lattice Enthalpy) ની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 મોલ આયનીય સંયોજનને સંપૂર્ણપણે તેના વાયુરૂપ આયનોમાં ફેરવવા માટે આપવી પડતી ઉર્જાને લેટીસ એન્થાલ્પી કહે છે. દા.ત. $NaCl(s) \\rightarrow Na^+(g) + Cl^-(g)$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લેટીસ' એટલે ઘરના પાયા તોડવા. ઘનમાંથી વાયુ આયનો છૂટા પાડવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એન્ટ્રોપી (Entropy) એટલે શું? સ્વયંભૂ પ્રક્રિયા માટે એન્ટ્રોપીનો ફેરફાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એન્ટ્રોપી ($S$) એ પ્રણાલીની અવ્યવસ્થાનું માપદંડ છે. પ્રણાલી વધુ અવ્યવસ્થિત તેમ તેની એન્ટ્રોપી વધુ.<br>સ્વયંભૂ પ્રક્રિયા માટે, બ્રહ્માંડની કુલ એન્ટ્રોપીમાં હંમેશા વધારો થાય છે. ($\\Delta S_{total} > 0$)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એન્ટ્રોપી = 'રાયતું ફેલાવવું' (અવ્યવસ્થા). ગરબડ વધે તો S વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગિબ્સ મુક્ત ઉર્જા ($G$) ની વ્યાખ્યા અને તેનું સમીકરણ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રણાલીની કુલ ઉર્જાનો જે જથ્થો ઉપયોગી કાર્યમાં રૂપાંતરિત થઈ શકે તેમ હોય તેને ગિબ્સ મુક્ત ઉર્જા કહે છે.<br>સમીકરણ: $G = H - TS$<br>ફેરફાર માટે (ગિબ્સ-હેલ્મહોલ્ટ્ઝ સમીકરણ): $\\Delta G = \\Delta H - T\\Delta S$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G = 'G'har (ઘર) ચલાવવા માટે વપરાતી 'Free' ઉર્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$\\Delta G$ ના મૂલ્ય પરથી પ્રક્રિયાની સ્વયંભૂયતા કેવી રીતે નક્કી કરશો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. જો $\\Delta G < 0$ (ઋણ) હોય, તો પ્રક્રિયા સ્વયંભૂ (Spontaneous) છે.<br>2. જો $\\Delta G > 0$ (ધન) હોય, તો પ્રક્રિયા અસ્વયંભૂ (Non-spontaneous) છે.<br>3. જો $\\Delta G = 0$ હોય, તો પ્રક્રિયા સંતુલન અવસ્થામાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈનસ (-) એટલે મજા (પ્રક્રિયા થશે જ!), પ્લસ (+) એટલે પ્રોબ્લેમ (નહીં થાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઉષ્માગતિશાસ્ત્રનો ત્રીજો નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> \"શૂન્ય કેલ્વિન ($0 K$) તાપમાને શુદ્ધ સ્ફટિકમય પદાર્થની એન્ટ્રોપી શૂન્ય હોય છે.\" આ તાપમાને કણોની ગોઠવણી સંપૂર્ણપણે વ્યવસ્થિત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 K = 0 Entropy. (એકદમ ઠંડુ, કોઈ હલચલ નહીં, સંપૂર્ણ શાંતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મુક્ત વિસ્તરણ (Free Expansion) એટલે શું? તેમાં થતું કાર્ય કેટલું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્યાવકાશમાં (બાહ્ય દબાણ $P_{ext} = 0$) થતા વાયુના વિસ્તરણને મુક્ત વિસ્તરણ કહે છે.<br>કાર્ય $w = -P_{ext} \\Delta V$<br>અહીં $P_{ext} = 0$ હોવાથી, $w = 0$. એટલે કે મુક્ત વિસ્તરણમાં કોઈ કાર્ય થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યાવકાશ એટલે સામો વિરોધ કરનાર કોઈ નથી, તો મહેનત (કાર્ય) પણ ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રમાણિત મુક્ત ઉર્જા ફેરફાર ($\\Delta G^\\circ$) અને સંતુલન અચળાંક ($K$) વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\Delta G = \\Delta G^\\circ + RT \\ln Q$<br>સંતુલન સમયે $\\Delta G = 0$ અને $Q = K$ હોવાથી,<br>$0 = \\Delta G^\\circ + RT \\ln K$<br>$\\Delta G^\\circ = -RT \\ln K$ અથવા $\\Delta G^\\circ = -2.303 RT \\log K$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: G અને K વચ્ચે 'નેગેટિવ' સંબંધ છે. (યાદ રાખો: -2.303 RT log K).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમતાપી અને રૂદ્ધોષ્મી પ્રક્રિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <b>સમતાપી (Isothermal):</b> જે પ્રક્રિયા દરમિયાન પ્રણાલીનું તાપમાન અચળ રહેતું હોય ($\\Delta T = 0$).<br>2. <b>રૂદ્ધોષ્મી (Adiabatic):</b> જે પ્રક્રિયા દરમિયાન પ્રણાલી અને પર્યાવરણ વચ્ચે ઉષ્માનો વિનિમય થતો ન હોય ($q = 0$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ-તાપી' = સમાન તાપમાન, 'રૂદ્ધ-ઓષ્મી' = ઉષ્મા રોકાયેલી (Block).</p></div>"
+    }
+  ]
+}

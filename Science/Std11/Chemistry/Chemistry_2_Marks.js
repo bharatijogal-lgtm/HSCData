@@ -671,3 +671,121 @@ var Std11_Chemistry_2_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રેડોક્ષ પ્રક્રિયાઓ",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઓક્સિડેશન અને રિડક્શનની પ્રશિષ્ટ (Classical) વ્યાખ્યા ઉદાહરણ સાથે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ઓક્સિડેશન: જે પ્રક્રિયામાં ઓક્સિજન ઉમેરાય અથવા હાઇડ્રોજન દૂર થાય તેને ઓક્સિડેશન કહે છે. દા.ત., 2Mg + O₂ → 2MgO<br>2. રિડક્શન: જે પ્રક્રિયામાં હાઇડ્રોજન ઉમેરાય અથવા ઓક્સિજન દૂર થાય તેને રિડક્શન કહે છે. દા.ત., 2HgO → 2Hg + O₂</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O-ઇન (ઓક્સિજન અંદર) = ઓક્સિડેશન, H-આઉટ (હાઇડ્રોજન બહાર) = ઓક્સિડેશન. રિડક્શન આનાથી ઉલટું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રેડોક્ષ પ્રક્રિયા એટલે શું? એક ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયામાં ઓક્સિડેશન અને રિડક્શન બંને પ્રક્રિયાઓ એકસાથે અને એક જ સમયે થતી હોય તેવી પ્રક્રિયાને રેડોક્ષ (Redox) પ્રક્રિયા કહે છે. <br>દા.ત., CuO + H₂ → Cu + H₂O અહીં CuO નું Cu માં રિડક્શન થાય છે અને H₂ નું H₂O માં ઓક્સિડેશન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RED (Reduction) + OX (Oxidation) = REDOX. સિક્કાની બે બાજુ જેવું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઇલેક્ટ્રોન વિનિમયને આધારે ઓક્સિડેશન અને રિડક્શન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ઓક્સિડેશન: જે પ્રક્રિયા દરમિયાન પરમાણુ કે આયન ઇલેક્ટ્રોન ગુમાવે તેને ઓક્સિડેશન કહે છે. (દા.ત., Na → Na⁺ + e⁻)<br>2. રિડક્શન: જે પ્રક્રિયા દરમિયાન પરમાણુ કે આયન ઇલેક્ટ્રોન મેળવે તેને રિડક્શન કહે છે. (દા.ત., Cl + e⁻ → Cl⁻)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LEO says GER! (Loss of Electrons is Oxidation, Gain of Electrons is Reduction).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઓક્સિડેશનકર્તા અને રિડક્શનકર્તા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ઓક્સિડેશનકર્તા: જે પદાર્થ બીજાનું ઓક્સિડેશન કરે અને પોતે રિડક્શન પામે (ઇલેક્ટ્રોન મેળવે) તેને ઓક્સિડેશનકર્તા કહે છે.<br>2. રિડક્શનકર્તા: જે પદાર્થ બીજાનું રિડક્શન કરે અને પોતે ઓક્સિડેશન પામે (ઇલેક્ટ્રોન ગુમાવે) તેને રિડક્શનકર્તા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બીજાનું કામ કરે એ તેનું નામ ધારણ કરે. બીજાને ઓક્સિડાઈઝ કરે તે ઓક્સિડેશનકર્તા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઓક્સિડેશન આંક નક્કી કરવા માટેના કોઈપણ ચાર નિયમો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. મુક્ત અવસ્થામાં તત્વોનો ઓક્સિડેશન આંક શૂન્ય હોય છે.<br>2. એક પરમાણ્વીય આયનનો ઓક્સિડેશન આંક તેના પરના વીજભાર જેટલો હોય છે.<br>3. સંયોજનોમાં ફ્લોરિનનો ઓક્સિડેશન આંક હંમેશા -1 હોય છે.<br>4. મોટાભાગના સંયોજનોમાં હાઇડ્રોજનનો ઓક્સિડેશન આંક +1 હોય છે (ધાતુ હાઇડ્રાઇડમાં -1).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલો હોય તો ઝીરો, ગ્રુપમાં હોય તો જેનો જે વીજભાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્ટોક નોટેશન (Stock Notation) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જર્મન રસાયણશાસ્ત્રી આલ્ફ્રેડ સ્ટોક દ્વારા સૂચવવામાં આવેલી પદ્ધતિ મુજબ, સંયોજનમાં ધાતુના ઓક્સિડેશન આંકને ધાતુના નામ પછી કૌંસમાં રોમન અંકો દ્વારા દર્શાવવામાં આવે છે. <br>દા.ત., FeCl₂ ને આયર્ન (II) ક્લોરાઇડ અને FeCl₃ ને આયર્ન (III) ક્લોરાઇડ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામની પાછળ રોમન અંક એટલે સ્ટોક નોટેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિષમીકરણ (Disproportionation) પ્રક્રિયા એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે રેડોક્ષ પ્રક્રિયામાં એક જ તત્વનું એકસાથે ઓક્સિડેશન અને રિડક્શન થતું હોય તેને વિષમીકરણ પ્રક્રિયા કહે છે. <br>દા.ત., 2H₂O₂ (aq) → 2H₂O (l) + O₂ (g). અહીં ઓક્સિજનનો ઓ.આંક -1 થી વધીને 0 (ઓક્સિડેશન) અને ઘટીને -2 (રિડક્શન) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ પ્લેયર બે રોલ ભજવે (ઓક્સિડેશન + રિડક્શન) તો તે વિષમીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "K₂Cr₂O₇ માં Cr નો ઓક્સિડેશન આંક ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>K₂Cr₂O₇ માં: <br>2(K) + 2(Cr) + 7(O) = 0<br>2(+1) + 2(x) + 7(-2) = 0<br>2 + 2x - 14 = 0<br>2x = 12<br>x = +6<br>તેથી, Cr નો ઓક્સિડેશન આંક +6 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ સરવાળો 0 કરી નાખો એટલે જવાબ મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સંયોગીકરણ રેડોક્ષ પ્રક્રિયા અને વિઘટન રેડોક્ષ પ્રક્રિયા વચ્ચેનો તફાવત આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. સંયોગીકરણ: બે તત્વો જોડાઈને એક નવું સંયોજન બનાવે છે. (A + B → C). દા.ત., C + O₂ → CO₂<br>2. વિઘટન: એક સંયોજન તૂટીને બે કે તેથી વધુ પદાર્થો બનાવે છે. (C → A + B). દા.ત., 2H₂O → 2H₂ + O₂</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેગા થાય તો સંયોગીકરણ, છૂટા પડે તો વિઘટન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિસ્થાપન રેડોક્ષ પ્રક્રિયાના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિસ્થાપન પ્રક્રિયાના બે મુખ્ય પ્રકાર છે: <br>1. ધાતુ વિસ્થાપન: વધુ સક્રિય ધાતુ ઓછી સક્રિય ધાતુનું તેના ક્ષારના દ્રાવણમાંથી વિસ્થાપન કરે છે. <br>2. અધાતુ વિસ્થાપન: સામાન્ય રીતે હાઇડ્રોજન વિસ્થાપન કે હેલોજન વિસ્થાપન જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શક્તિશાળી નબળાને તેની જગ્યાએથી હટાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "KMnO₄ માં Mn નો ઓક્સિડેશન આંક ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>KMnO₄ માં: <br>1(K) + 1(Mn) + 4(O) = 0<br>1(+1) + x + 4(-2) = 0<br>1 + x - 8 = 0<br>x - 7 = 0<br>x = +7<br>તેથી, Mn નો ઓક્સિડેશન આંક +7 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોટેશિયમ હંમેશા +1, ઓક્સિજન -2, બાકી વધ્યું તે મેંગેનીઝ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ફ્લોરિન શા માટે વિષમીકરણ પ્રક્રિયા આપતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફ્લોરિન સૌથી વધુ વિદ્યુતઋણ તત્વ છે. તે માત્ર -1 ઓક્સિડેશન આંક જ ધરાવે છે (પોતાની મુક્ત અવસ્થામાં 0). વિષમીકરણ માટે તત્વના ઓછામાં ઓછા ત્રણ ઓક્સિડેશન આંક હોવા જરૂરી છે (વધવા માટે અને ઘટવા માટે). ફ્લોરિનનો ઓક્સિડેશન આંક 0 થી વધી શકતો નથી, તેથી તે વિષમીકરણ આપતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન એટલે 'ડોન' - તે ઇલેક્ટ્રોન આપે નહીં, માત્ર લે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રેડોક્ષ અનુમાપનમાં 'સ્વયંસૂચક' (Self-indicator) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રક્રિયામાં પ્રક્રિયક પોતે જ રંગ પરિવર્તન દ્વારા અંતિમ બિંદુ સૂચવે છે, તેને સ્વયંસૂચક કહે છે. <br>દા.ત., KMnO₄ સાથેના અનુમાપનમાં KMnO₄ પોતે જ સૂચક તરીકે કાર્ય કરે છે. અંતિમ બિંદુએ ગુલાબી રંગ દેખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પોતે જ કલર બદલીને 'Done' કહી દે એ સ્વયંસૂચક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ડેનિયલ કોષમાં થતી એનોડ અને કેથોડની પ્રક્રિયાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>એનોડ (ઓક્સિડેશન): Zn(s) → Zn²⁺(aq) + 2e⁻<br>કેથોડ (રિડક્શન): Cu²⁺(aq) + 2e⁻ → Cu(s)<br>કુલ પ્રક્રિયા: Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LOAN (Left, Oxidation, Anode, Negative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ક્ષાર સેતુ (Salt Bridge) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. તે બે અર્ધકોષો વચ્ચેના વિદ્યુત પરિપથને પૂર્ણ કરે છે.<br>2. તે બંને અર્ધકોષમાં રહેલા દ્રાવણોની વિદ્યુતીય તટસ્થતા જાળવી રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષાર સેતુ = સર્કિટ કમ્પ્લીટર + બેલેન્સર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ઇલેક્ટ્રોડ પોટેન્શિયલ એટલે શું? પ્રમાણિત ઇલેક્ટ્રોડ પોટેન્શિયલ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ધાતુના સળિયાને તેના પોતાના આયનો ધરાવતા દ્રાવણમાં ડુબાડવામાં આવે ત્યારે ધાતુ અને દ્રાવણ વચ્ચે જે વિદ્યુતસ્થિતિમાનનો તફાવત સર્જાય છે, તેને ઇલેક્ટ્રોડ પોટેન્શિયલ કહે છે. જો સાંદ્રતા 1M, તાપમાન 298K અને દબાણ 1 bar હોય, તો તેને પ્રમાણિત ઇલેક્ટ્રોડ પોટેન્શિયલ (E⁰) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોટેન્શિયલ એટલે ઇલેક્ટ્રોન મેળવવાની કે ગુમાવવાની તાકાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "નીચેની પ્રક્રિયામાં ઓક્સિડેશન આંક પદ્ધતિ દ્વારા ઓક્સિડેશનકર્તા અને રિડક્શનકર્તા ઓળખો: <br>CuO + H₂ → Cu + H₂O",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>અહીં, Cu નો ઓ.આંક +2 થી ઘટીને 0 થાય છે (રિડક્શન), તેથી CuO એ ઓક્સિડેશનકર્તા છે. <br>H₂ નો ઓ.આંક 0 થી વધીને +1 થાય છે (ઓક્સિડેશન), તેથી H₂ એ રિડક્શનકર્તા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંક વધે તો ઓક્સિડેશન, આંક ઘટે તો રિડક્શન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રેડોક્ષ યુગ્મ (Redox Couple) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડોક્ષ પ્રક્રિયામાં ભાગ લેતા એક જ તત્વના ઓક્સિડેશન પામેલા અને રિડક્શન પામેલા સ્વરૂપોના જોડાણને રેડોક્ષ યુગ્મ કહે છે. તેને Ox/Red સંકેત દ્વારા દર્શાવાય છે. દા.ત., Cu²⁺/Cu અને Zn²⁺/Zn.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ તત્વના બે અલગ-અલગ અવતાર એટલે રેડોક્ષ યુગ્મ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રમાણિત હાઇડ્રોજન ઇલેક્ટ્રોડ (SHE) નું મૂલ્ય કેટલું સ્વીકારવામાં આવ્યું છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણિત હાઇડ્રોજન ઇલેક્ટ્રોડનું પોટેન્શિયલ 0.00 V સ્વીકારવામાં આવ્યું છે. કારણ કે કોઈપણ એકલા અર્ધકોષનું પોટેન્શિયલ માપી શકાતું નથી, તેથી હાઇડ્રોજનને સંદર્ભ ઇલેક્ટ્રોડ તરીકે લઈ તેની સાપેક્ષે અન્ય ઇલેક્ટ્રોડના પોટેન્શિયલ માપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઇડ્રોજન એટલે કેમિસ્ટ્રીનું 'શૂન્ય' (Reference Point).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અર્ધ પ્રક્રિયા પદ્ધતિ દ્વારા રેડોક્ષ સમીકરણ સંતુલિત કરવાના સોપાન જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. પ્રક્રિયાને બે અર્ધ પ્રક્રિયાઓમાં વિભાજિત કરો (ઓક્સિડેશન અને રિડક્શન). <br>2. O અને H સિવાયના પરમાણુઓ સંતુલિત કરો. <br>3. O ને સંતુલિત કરવા H₂O અને H ને સંતુલિત કરવા H⁺ ઉમેરો. <br>4. વીજભાર સંતુલિત કરવા ઇલેક્ટ્રોન ઉમેરો અને બંને અર્ધ પ્રક્રિયાનો સરવાળો કરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તોડો → સંતુલિત કરો → જોડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "CrO₅ માં Cr નો ઓક્સિડેશન આંક ગણો. (અપવાદરૂપ કિસ્સો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> CrO₅ નું બંધારણ 'બટરફ્લાય' જેવું છે. જેમાં 4 ઓક્સિજન પરોક્સાઇડ સાંકળમાં (-1) અને 1 ઓક્સિજન ડબલ બોન્ડમાં (-2) હોય છે. <br>x + 4(-1) + 1(-2) = 0 <br>x - 4 - 2 = 0 <br>x = +6 <br>તેથી, Cr નો ઓક્સિડેશન આંક +6 છે (નહીં કે +10).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટરફ્લાય સ્ટ્રક્ચર યાદ રાખો, પરોક્સાઇડ બોન્ડ ઓક્સિડેશન આંક ઘટાડે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શું ClO₄⁻ નું વિષમીકરણ શક્ય છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ClO₄⁻ માં ક્લોરિનનો ઓક્સિડેશન આંક +7 છે, જે તેની મહત્તમ મર્યાદા છે. વિષમીકરણ માટે ઓક્સિડેશન આંક વધવો પણ જોઈએ, પરંતુ +7 થી વધુ ઓક્સિડેશન આંક શક્ય નથી. તેથી ClO₄⁻ વિષમીકરણ પ્રક્રિયા આપતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ટોચ પર હોય તે વધુ ઉપર જઈ શકે નહીં!</p></div>"
+    }
+  ]
+}

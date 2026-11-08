@@ -907,3 +907,111 @@ var Std11_Chemistry_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "હાઇડ્રોકાર્બન",
+  "questionType": "ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વુર્ટ્ઝ પ્રક્રિયા (Wurtz Reaction) સમીકરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે આલ્કિલ હેલાઇડની શુષ્ક ઈથરની હાજરીમાં સોડિયમ ધાતુ સાથે પ્રક્રિયા કરવામાં આવે છે, ત્યારે બેગણા કાર્બન ધરાવતો આલ્કેન મળે છે. <br>સમીકરણ: 2CH₃Br + 2Na + (શુષ્ક ઈથર) → CH₃-CH₃ + 2NaBr</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Wurtz = Double Carbon'. જેટલા આલ્કિલ હેલાઇડમાં કાર્બન હોય તેનાથી ડબલ કાર્બન વાળો આલ્કેન બનાવી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સોડાલાઈમ દ્વારા ડીકાર્બોક્સિલેશન પ્રક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બોક્સિલિક એસિડના સોડિયમ ક્ષારને સોડાલાઈમ (NaOH + CaO) સાથે ગરમ કરતા, તેમાંથી કાર્બન ડાયોક્સાઈડ દૂર થઈ એક ઓછા કાર્બન વાળો આલ્કેન મળે છે. <br>CH₃COONa + NaOH (CaO, Δ) → CH₄ + Na₂CO₃</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'COONa કાઢી નાખો અને H લગાડી દો'. એસિડના ક્ષાર કરતા એક કાર્બન ઓછો મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આલ્કેન શ્રેણીમાં શાખા વધવાની સાથે ઉત્કલનબિંદુમાં શું ફેરફાર થાય છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલ્કેન શ્રેણીમાં જેમ શાખા વધે તેમ સંપર્ક સપાટીનું ક્ષેત્રફળ ઘટે છે, જેના કારણે વાન્ડર વાલ્સ આકર્ષણ બળો નબળા પડે છે. આથી શાખાયુક્ત આલ્કેનનું ઉત્કલનબિંદુ સીધી શૃંખલા કરતા ઓછું હોય છે. દા.ત. n-પેન્ટેન > આઈસો-પેન્ટેન > નિઓ-પેન્ટેન.</p><hr><p style='color:#d32f2Label; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શાખા વધે = ગોળાકાર વધે = ક્ષેત્રફળ ઘટે = B.P. ઘટે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ઈથેનના સ્ટેગર્ડ (Staggered) અને ઈક્લિપ્સ્ડ (Eclipsed) સંરૂપણોમાંથી કયું વધુ સ્થાયી છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેગર્ડ સંરૂપણ વધુ સ્થાયી છે. કારણ કે તેમાં હાઈડ્રોજન પરમાણુઓ એકબીજાથી મહત્તમ અંતરે હોવાથી તેમની વચ્ચે ઈલેક્ટ્રોન વાદળનું અપાકર્ષણ (Torsional Strain) લઘુત્તમ હોય છે, જ્યારે ઈક્લિપ્સ્ડમાં પરમાણુઓ નજીક હોવાથી અપાકર્ષણ વધુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્ટેગર્ડ = સ્થિર (S-S)'. દૂર રહો તો ઝઘડો ઓછો થાય એટલે સ્થિરતા વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આલ્કેનનું એરોમેટાઈઝેશન (Aromatization) એટલે શું? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છ કે તેથી વધુ કાર્બન ધરાવતા આલ્કેનને 773 K તાપમાને અને 10-20 bar દબાણે Cr₂O₃ અથવા V₂O₅ ઉદ્દીપકની હાજરીમાં ગરમ કરતા તે ચક્રીય બની બેન્ઝીન અથવા તેના વ્યુત્પન્નોમાં ફેરવાય છે. <br>n-Hexane → Benzene + 4H₂</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Hexane થી Benzene'. આ પ્રક્રિયાને હાઈડ્રોફોર્મિંગ પણ કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભૌમિતિક સમઘટકતા (Geometrical Isomerism) માટેની શરતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. અણુમાં C=C દ્વિબંધ હોવો જોઈએ જેથી મુક્ત ભ્રમણ પ્રતિબંધિત હોય. 2. દ્વિબંધ ધરાવતા દરેક કાર્બન પર જોડાયેલા બે સમૂહો એકબીજાથી જુદા હોવા જોઈએ (દા.ત. abC=Cab).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Same side = Cis, Opposite side = Trans'. જો એક જ કાર્બન પર બે સરખા ગ્રુપ હોય તો સમઘટકતા ન મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માર્કોવનિકોવનો નિયમ (Markovnikov's Rule) ઉદાહરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસમ આલ્કેન (જેમ કે પ્રોપીન) ની અસમ પ્રક્રિયક (HBr) સાથેની પ્રક્રિયામાં, પ્રક્રિયકનો ઋણ ભાગ (Br⁻) એવા કાર્બન સાથે જોડાય છે જેની પાસે હાઈડ્રોજનની સંખ્યા ઓછી હોય. <br>CH₃-CH=CH₂ + HBr → CH₃-CH(Br)-CH₃ (2-બ્રોમોપ્રોપેન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અમીર વધુ અમીર બને'. હાઈડ્રોજન ત્યાં જશે જ્યાં હાઈડ્રોજન પહેલેથી વધારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખરાશ અસર (Kharasch Effect) અથવા એન્ટિ-માર્કોવનિકોવ નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરોક્સાઈડની હાજરીમાં અસમ આલ્કેન (પ્રોપીન) ની HBr સાથેની પ્રક્રિયામાં Br⁻ એવા કાર્બન સાથે જોડાય છે જ્યાં હાઈડ્રોજન વધુ હોય. <br>CH₃-CH=CH₂ + HBr (Peroxide) → CH₃-CH₂-CH₂Br (1-બ્રોમોપ્રોપેન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પેરોક્સાઈડ = ઉલટું કામ'. આ માત્ર HBr માટે જ લાગુ પડે છે, HCl કે HI માટે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આલ્કીનનું ઓઝોનોલિસિસ (Ozonolysis) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલ્કીનની ઓઝોન (O₃) સાથે પ્રક્રિયા કરતા 'ઓઝોનાઈડ' બને છે, જેનું Zn અને H₂O ની હાજરીમાં વિઘટન કરતા આલ્ડીહાઈડ અથવા કીટોન મળે છે. આ પ્રક્રિયા દ્વિબંધનું સ્થાન નક્કી કરવા ઉપયોગી છે. <br>Et-CH=CH-Et + O₃ → (Zn/H₂O) → 2CH₃CHO</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડબલ બોન્ડ તોડો, બંને બાજુ ઓક્સિજન જોડો (=O)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આલ્કાઈન શ્રેણીનો પ્રથમ સભ્ય એસિડિક ગુણધર્મ કેમ ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથાઈન (HC≡CH) માં કાર્બન 'sp' સંકરણ ધરાવે છે, જેમાં 's' ગુણધર્મ 50% હોય છે. વધુ 's' ગુણધર્મને કારણે કાર્બનની વિદ્યુતઋણતા વધે છે, જેથી C-H બંધના ઇલેક્ટ્રોન કાર્બન તરફ ખેંચાય છે અને H⁺ મુક્ત થવો સરળ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વધુ s-character = વધુ વિદ્યુતઋણતા = વધુ એસિડિક'. sp > sp² > sp³.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કેલ્શિયમ કાર્બાઈડમાંથી ઇથાઈન (Ethyne) બનાવવાની પ્રક્રિયા લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેલ્શિયમ કાર્બાઈડ (CaC₂) ની પાણી સાથે પ્રક્રિયા કરવાથી ઇથાઈન વાયુ મળે છે. <br>CaC₂ + 2H₂O → Ca(OH)₂ + C₂H₂ (Ethyne)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર (CaC₂) પર પાણી નાખો એટલે ગેસ (C₂H₂) નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઇથાઈનનું રેખીય અને ચક્રીય પોલીમરાઈઝેશન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇથાઈનને લાલ ચોળ ગરમ આયર્ન (Fe) નળીમાંથી 873 K તાપમાને પસાર કરતા તેનું ચક્રીય પોલીમરાઈઝેશન થઈ બેન્ઝીન મળે છે. <br>3C₂H₂ (Red hot Fe tube) → C₆H₆ (Benzene)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '3 Ethyne = 1 Benzene'. આ પ્રક્રિયા એરોમેટિક સંયોજનો બનાવવા માટેની શ્રેષ્ઠ રીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "હ્યુકેલનો (Hückel's) નિયમ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ ચક્રીય, સમતલીય અને સંયુગ્મિત તંત્ર એરોમેટિક હોવા માટે તેમાં (4n + 2) π ઈલેક્ટ્રોન હોવા જોઈએ, જ્યાં n = 0, 1, 2... પૂર્ણાંક છે. <br>દા.ત. બેન્ઝીન માટે n=1 લેતા 6 π ઈલેક્ટ્રોન થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: π ઇલેક્ટ્રોન ગણો: 2, 6, 10, 14... હોય તો જ એરોમેટિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બેન્ઝીનનું નાઈટ્રેશન (Nitration) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીનની સાંદ્ર HNO₃ અને સાંદ્ર H₂SO₄ ના મિશ્રણ (નાઈટ્રેટિંગ મિશ્રણ) સાથે 323-333 K તાપમાને પ્રક્રિયા કરતા નાઈટ્રોબેન્ઝીન મળે છે. <br>C₆H₆ + HNO₃ (H₂SO₄) → C₆H₅NO₂ + H₂O</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Nitration = Addition of NO₂ group'. H કાઢીને NO₂ લગાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ફ્રીડલ-ક્રાફ્ટ્સ આલ્કાઈલેશન (Friedel-Crafts Alkylation) પ્રક્રિયા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિર્જળ AlCl₃ ઉદ્દીપકની હાજરીમાં બેન્ઝીનની આલ્કિલ હેલાઇડ (દા.ત. CH₃Cl) સાથે પ્રક્રિયા કરતા આલ્કિલ બેન્ઝીન (ટોલ્યુઈન) મળે છે. <br>C₆H₆ + CH₃Cl (Anhy. AlCl₃) → C₆H₅CH₃ + HCl</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'FC = AlCl₃'. આલ્કિલ ગ્રુપને બેન્ઝીન રિંગ પર જોડી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બેન્ઝીન રિંગ પર -OH સમૂહ ઓર્થો (o-) અને પેરા (p-) નિર્દેશક કેમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -OH સમૂહ તેના અબંધકારક ઇલેક્ટ્રોન યુગ્મ દ્વારા બેન્ઝીન રિંગ સાથે સંસ્પંદન (Resonance) કરે છે, જેનાથી ઓર્થો અને પેરા સ્થાન પર ઇલેક્ટ્રોન ઘનતા વધે છે. તેથી આવનાર ઇલેક્ટ્રોન અનુરાગી પ્રક્રિયક આ સ્થાનો પર જ હુમલો કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Donating group = o/p director'. જે રિંગને ઇલેક્ટ્રોન આપે તે o/p નિર્દેશક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બેન્ઝીનનું હેલોજીનેશન (Halogenation) પ્રક્રિયા સમીકરણ સાથે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયર્ન અથવા FeCl₃ જેવા લુઈસ એસિડની હાજરીમાં અંધારામાં બેન્ઝીનની ક્લોરીન સાથે પ્રક્રિયા કરતા ક્લોરોબેન્ઝીન મળે છે. <br>C₆H₆ + Cl₂ (FeCl₃) → C₆H₅Cl + HCl</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલોજીનેશન માટે લુઈસ એસિડ (FeCl₃/AlCl₃) અનિવાર્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લિન્ડલર (Lindlar's) ઉદ્દીપક શું છે? તેનું કાર્ય લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિન્ડલર ઉદ્દીપક એટલે પેલેડિયમયુક્ત ચારકોલ (Pd/C) જેને સલ્ફર અથવા ક્વિનોલીન જેવા સંયોજનોથી આંશિક રીતે વિષયુક્ત કરવામાં આવેલ હોય. તે આલ્કાઈનનું રિડક્શન કરી 'સિસ (Cis)' આલ્કીન બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Lindlar = Cis alkene'. જો Na/liquid NH₃ હોય તો Trans મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પ્રોપાઈનનું જલીયકરણ (Hydration) પ્રક્રિયા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોપાઈનને HgSO₄ અને H₂SO₄ ની હાજરીમાં 333 K તાપમાને પાણી સાથે પ્રક્રિયા કરતા પ્રથમ અસ્થાયી ઇનોલ અને અંતે એસિટોન (પ્રોપેનોન) મળે છે. <br>CH₃-C≡CH + H₂O (Hg²⁺/H⁺) → CH₃-CO-CH₃</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Alkyne + Water = Carbonyl'. પ્રોપાઈન હંમેશા કીટોન જ આપશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બેન્ઝીનની કેન્સરજન્યતા (Carcinogenicity) અને ઝેરી અસર વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેન્ઝીન અને બહુચક્રીય એરોમેટિક હાઈડ્રોકાર્બન (દા.ત. બેન્ઝો[a]પાયરીન) કે જે કોલસો, પેટ્રોલિયમ અને તમાકુના અપૂર્ણ દહનથી બને છે, તે શરીરમાં દાખલ થઈ DNA માં ફેરફાર કરી કેન્સર પ્રેરે છે. આ પદાર્થો અત્યંત ઝેરી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PAH = Cancer causing'. 2 થી વધુ જોડાયેલી રિંગ જોખમી છે.</p></div>"
+    }
+  ]
+}

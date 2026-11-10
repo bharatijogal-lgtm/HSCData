@@ -538,3 +538,111 @@ var Std11_Chemistry_3_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સંતુલન",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઘન-પ્રવાહી સંતુલન (બરફ અને પાણી) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે શુદ્ધ બરફ અને પાણીને 273 K તાપમાને અને 1 વાતાવરણ દબાણે થર્મોસ ફ્લાસ્કમાં રાખવામાં આવે છે, ત્યારે તે ગતિશીલ સંતુલન પ્રાપ્ત કરે છે. આ અવસ્થામાં બરફ ઓગળવાનો દર અને પાણી થીજી જવાનો દર સમાન હોય છે. <br>H₂O (s) ⇌ H₂O (l) <br> આ તાપમાનને પદાર્થનું સામાન્ય ગલનબિંદુ કહેવામાં આવે છે. સંતુલન અવસ્થામાં બંને અવસ્થાઓના દળ અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બરફ-પાણી સંતુલન' એટલે 0°C (273 K) પર બંનેની ઝડપ સરખી! (Rate of Melting = Rate of Freezing)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હેન્રીનો નિયમ લખો અને પ્રવાહીમાં વાયુની દ્રાવ્યતા પર દબાણની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેન્રીના નિયમ મુજબ, 'નિયત તાપમાને આપેલા દ્રાવકમાં ઓગળેલા વાયુનું દળ દ્રાવણ પરના વાયુના દબાણના સમપ્રમાણમાં હોય છે.' <br>m ∝ p અથવા m = k·p <br>જ્યાં m = વાયુનું દળ, p = દબાણ અને k = સપ્રમાણતા અચળાંક. જ્યારે દબાણ વધારવામાં આવે છે, ત્યારે વાયુના અણુઓ પ્રવાહીની સપાટી પર વધુ અથડાય છે અને દ્રાવ્યતા વધે છે. સોડા વોટરની બોટલ આનું ઉત્તમ ઉદાહરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ દબાણ = વધુ દ્રાવ્યતા (P ∝ S). સોડાની બોટલ ખોલો ત્યારે ગેસ નીકળે કારણ કે દબાણ ઘટે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંતુલન અચળાંક $K_c$ અને $K_p$ વચ્ચેનો સંબંધ તારવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદર્શ વાયુ સમીકરણ PV = nRT પરથી, P = (n/V)RT = CRT. <br>સામાન્ય પ્રક્રિયા aA + bB ⇌ cC + dD માટે: <br>$K_p = \\frac{(P_C)^c (P_D)^d}{(P_A)^a (P_B)^b}$ <br>દરેક વાયુ માટે $P_i = [i]RT$ મૂકતા: <br>$K_p = \\frac{([C]RT)^c ([D]RT)^d}{([A]RT)^a ([B]RT)^b}$ <br>$K_p = \\frac{[C]^c [D]^d}{[A]^a [B]^b} \\times (RT)^{(c+d)-(a+b)}$ <br>$K_p = K_c(RT)^{\\Delta n}$ <br>જ્યાં $\\Delta n = (c+d) - (a+b)$ (વાયુરૂપ નીપજોના મોલ - પ્રક્રિયકોના મોલ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $K_p = K_c (RT)^{\\Delta n}$. યાદ રાખો: 'P' પહેલા આવે એટલે ડાબી બાજુ, અને $\\Delta n$ માત્ર 'Gas' માટે જ ગણવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાંગ અને વિષમાંગ સંતુલન ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1) <b>સમાંગ સંતુલન:</b> જેમાં બધા જ પ્રક્રિયકો અને નીપજો એક જ કલા (અવસ્થા) માં હોય. <br>ઉદા: N₂(g) + 3H₂(g) ⇌ 2NH₃(g) <br>2) <b>વિષમાંગ સંતુલન:</b> જેમાં પ્રક્રિયકો અને નીપજો એકથી વધુ કલામાં હોય. <br>ઉદા: CaCO₃(s) ⇌ CaO(s) + CO₂(g) <br>વિષમાંગ સંતુલનમાં શુદ્ધ ઘન કે પ્રવાહીની સાંદ્રતા અચળ (1) લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાંગ' = બધા સરખા (બધા Gas), 'વિષમાંગ' = ભેળસેળ (Solid + Gas).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંતુલન અચળાંકના અનુપ્રયોગો (Applications) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંતુલન અચળાંકના મુખ્ય ત્રણ ઉપયોગો છે: <br>1. પ્રક્રિયાની સીમા (Extent) જાણવા: જો K > 10³, તો નીપજો વધુ હોય. જો K < 10⁻³, તો પ્રક્રિયકો વધુ હોય. <br>2. પ્રક્રિયાની દિશા જાણવા: પ્રક્રિયા ભાગાંક (Q) ની K સાથે સરખામણી કરીને. <br>3. સંતુલન સાંદ્રતાની ગણતરી કરવા: પ્રારંભિક સાંદ્રતા પરથી સંતુલન સમયે સાંદ્રતા શોધી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: K મોટો તો નીપજ મોટી, K નાનો તો પ્રક્રિયક મોટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પ્રક્રિયા ભાગાંક ($Q_c$) દ્વારા પ્રક્રિયાની દિશા કેવી રીતે નક્કી થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ સમયે (સંતુલન સિવાય પણ) સાંદ્રતાના ગુણોત્તરને $Q_c$ કહે છે. <br>1. જો $Q_c < K_c$: પ્રક્રિયા પુરોગામી (જમણી) દિશામાં આગળ વધશે (નીપજ બનશે). <br>2. જો $Q_c > K_c$: પ્રક્રિયા પ્રતિગામી (ડાબી) દિશામાં આગળ વધશે (પ્રક્રિયક બનશે). <br>3. જો $Q_c = K_c$: પ્રક્રિયા સંતુલનમાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Q ને K બનવું છે! જો Q નાનો હોય તો વધવા માટે જમણે જશે, જો મોટો હોય તો ઘટવા માટે ડાબે આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગીબ્સ ઉર્જા ફેરફાર ($\\Delta G$) અને સંતુલન અચળાંક (K) વચ્ચેનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમીકરણ: $\\Delta G = \\Delta G^\\circ + RT \\ln Q$. <br>સંતુલન સમયે, $\\Delta G = 0$ અને $Q = K$. <br>તેથી, $0 = \\Delta G^\\circ + RT \\ln K$ <br>$\\Delta G^\\circ = -RT \\ln K$ <br>$\\Delta G^\\circ = -2.303 RT \\log K$ <br>જો $\\Delta G^\\circ < 0$ (ઋણ), તો K > 1 (પુરોગામી પ્રક્રિયા સ્વયંભૂ). <br>જો $\\Delta G^\\circ > 0$ (ધન), તો K < 1 (પ્રતિગામી પ્રક્રિયા સ્વયંભૂ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Delta G 'Zero' તો જ સંતુલન 'Hero'! (At equilibrium, Delta G is always 0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લ-શેટેલિયરનો સિદ્ધાંત લખો અને સાંદ્રતાની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <b>સિદ્ધાંત:</b> 'જો સંતુલનમાં રહેલી પ્રણાલી પર સાંદ્રતા, દબાણ કે તાપમાનનો ફેરફાર કરવામાં આવે, તો પ્રણાલી એ દિશામાં ખસશે જે દિશામાં ફેરફારની અસર નાબૂદ થાય.' <br><b>સાંદ્રતાની અસર:</b> <br>1. જો પ્રક્રિયકની સાંદ્રતા વધારવામાં આવે, તો સંતુલન પુરોગામી દિશામાં ખસશે. <br>2. જો નીપજની સાંદ્રતા વધારવામાં આવે, તો સંતુલન પ્રતિગામી દિશામાં ખસશે. <br>3. જો નીપજને સતત દૂર કરવામાં આવે, તો પ્રક્રિયા પુરોગામી દિશામાં સતત ચાલશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે બાજુ વધારો કરો, તેની વિરુદ્ધ બાજુ સંતુલન ભાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સંતુલન પર દબાણ અને ઉદ્દીપકની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <b>દબાણની અસર:</b> દબાણ વધારતા સંતુલન એ દિશામાં ખસશે જે દિશામાં વાયુરૂપ મોલની સંખ્યા ઓછી હોય. જો $\\Delta n = 0$ હોય, તો દબાણની કોઈ અસર થતી નથી. <br><b>ઉદ્દીપકની અસર:</b> ઉદ્દીપક સંતુલન અચળાંકનું મૂલ્ય બદલતો નથી કે સંતુલનનું સ્થાન બદલતો નથી. તે માત્ર પુરોગામી અને પ્રતિગામી બંને પ્રક્રિયાનો વેગ સમાન રીતે વધારીને 'સંતુલન વહેલું પ્રાપ્ત' કરવામાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ વધે = ઓછો ગીચ વિસ્તાર (Less Moles) તરફ ગતિ. ઉદ્દીપક = માત્ર Fast Forward બટન છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંતુલન પર તાપમાનની અસર સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાનની અસર પ્રક્રિયા ઉષ્માક્ષેપક છે કે ઉષ્માશોષક તેના પર આધાર રાખે છે: <br>1. <b>ઉષ્માશોષક પ્રક્રિયા ($\\Delta H > 0$):</b> તાપમાન વધારતા સંતુલન પુરોગામી દિશામાં ખસે છે (K વધે છે). <br>2. <b>ઉષ્માક્ષેપક પ્રક્રિયા ($\\Delta H < 0$):</b> તાપમાન વધારતા સંતુલન પ્રતિગામી દિશામાં ખસે છે (K ઘટે છે). <br>તાપમાન ઘટાડતા આનાથી ઉલટી અસરો જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી આપો તો ઉષ્માશોષક ખુશ (Forward), પણ ઉષ્માક્ષેપક નારાજ (Backward)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બ્રોન્સ્ટેડ-લોરી એસિડ-બેઝ સિદ્ધાંત અને સંયુગ્મી એસિડ-બેઝ જોડી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ સિદ્ધાંત મુજબ, એસિડ એ પદાર્થ છે જે પ્રોટોન ($H^+$) દાન કરે છે, અને બેઝ એ પદાર્થ છે જે પ્રોટોન સ્વીકારે છે. <br>ઉદાહરણ: NH₃ + H₂O ⇌ NH₄⁺ + OH⁻ <br>અહીં H₂O એસિડ છે કારણ કે તે $H^+$ આપે છે, અને NH₃ બેઝ છે. <br><b>સંયુગ્મી જોડી:</b> એસિડમાંથી $H^+$ દૂર થતા જે બને તેને 'સંયુગ્મી બેઝ' અને બેઝમાં $H^+$ ઉમેરાતા જે બને તેને 'સંયુગ્મી એસિડ' કહેવાય. NH₃/NH₄⁺ અને H₂O/OH⁻ એ સંયુગ્મી જોડીઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Acid = Donor ($H^+$ આપનાર), Base = Acceptor ($H^+$ લેનાર). તફાવત માત્ર એક $H^+$ નો જ હોવો જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લુઈસ એસિડ અને બેઝ એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <b>લુઈસ એસિડ:</b> જે પદાર્થ ઈલેક્ટ્રોન યુગ્મ સ્વીકારે છે. ઉદા: BF₃, AlCl₃, $Mg^{2+}$. (જેનું અષ્ટક અપૂર્ણ હોય અથવા ધન આયન હોય). <br><b>લુઈસ બેઝ:</b> જે પદાર્થ ઈલેક્ટ્રોન યુગ્મનું દાન કરે છે. ઉદા: NH₃, H₂O, $OH^-$. (જેની પાસે અબંધકારક ઈલેક્ટ્રોન યુગ્મ હોય અથવા ઋણ આયન હોય). <br>પ્રક્રિયા: BF₃ + :NH₃ → F₃B←NH₃</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Lewis Acid = Electron Hungry (ભૂખ્યો), Lewis Base = Electron Rich (દાતા)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાણીનો આયનીય ગુણાકાર ($K_w$) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીના અલ્પ આયનીકરણથી હાઈડ્રોનિયમ અને હાઈડ્રોક્સિલ આયનો બને છે: <br>H₂O(l) + H₂O(l) ⇌ H₃O⁺(aq) + OH⁻(aq) <br>$K = [H_3O^+][OH^-] / [H_2O]^2$. શુદ્ધ પાણીની સાંદ્રતા અચળ હોવાથી: <br>$K_w = [H_3O^+][OH^-]$. <br>298 K તાપમાને $K_w$ નું મૂલ્ય $1.0 \times 10^{-14} M^2$ છે. <br>તટસ્થ પાણીમાં $[H_3O^+] = [OH^-] = 10^{-7} M$ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $K_w$ હંમેશા $10^{-14}$ (25°C પર). તાપમાન વધે તો $K_w$ પણ વધે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "pH માપક્રમ સમજાવો અને pH + pOH = 14 સાબિત કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોરેન્સને pH માપક્રમ આપ્યો. pH = -log[H₃O⁺]. <br>આપણે જાણીએ છીએ કે $K_w = [H_3O^+][OH^-] = 10^{-14}$ (298 K પર). <br>બંને બાજુ log લેતા: <br>$log[H_3O^+] + log[OH^-] = log(10^{-14})$ <br>$log[H_3O^+] + log[OH^-] = -14$ <br>બંને બાજુ (-) વડે ગુણતા: <br>$(-log[H_3O^+]) + (-log[OH^-]) = 14$ <br>તેથી, pH + pOH = 14.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: pH 7 થી ઓછી તો એસિડ, 7 થી વધુ તો બેઝ. સરવાળો હંમેશા 14!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નિર્બળ એસિડનો આયનીકરણ અચળાંક ($K_a$) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિર્બળ એસિડ HA ના આયનીકરણ માટે: <br>HA(aq) + H₂O(l) ⇌ H₃O⁺(aq) + A⁻(aq) <br>સંતુલન અચળાંક $K_a = \frac{[H_3O^+][A^-]}{[HA]}$ <br>જો પ્રારંભિક સાંદ્રતા C અને આયનીકરણ અંશ α હોય, તો $K_a = \frac{C\alpha \cdot C\alpha}{C(1-\alpha)} = \frac{C\alpha^2}{1-\alpha}$. <br>ખૂબ નિર્બળ એસિડ માટે $\alpha \ll 1$, તેથી $K_a \approx C\alpha^2$ અથવા $\alpha = \sqrt{K_a/C}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલો $K_a$ મોટો, તેટલો એસિડ શક્તિશાળી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બહુપ્રોટિક (Polyprotic) એસિડ એટલે શું? તેના આયનીકરણ અચળાંકો વચ્ચેનો સંબંધ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે એસિડ એક કરતા વધુ પ્રોટોન ($H^+$) દાન કરી શકે તેને બહુપ્રોટિક એસિડ કહેવાય. <br>ઉદા: H₂SO₄, H₃PO₄. <br>H₂X માટે બે તબક્કા: <br>1. H₂X ⇌ H⁺ + HX⁻ ($K_{a1}$) <br>2. HX⁻ ⇌ H⁺ + X²⁻ ($K_{a2}$) <br>હંમેશા $K_{a1} > K_{a2} > K_{a3}$ હોય છે. કારણ કે ઋણ આયનમાંથી ધન પ્રોટોન દૂર કરવો વધુ મુશ્કેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલો પ્રોટોન કાઢવો સહેલો, એટલે $K_{a1}$ હંમેશા સૌથી મોટો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સમાન આયન અસર (Common Ion Effect) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે નિર્બળ વિદ્યુતવિભાજ્યના દ્રાવણમાં સમાન આયન ધરાવતો પ્રબળ વિદ્યુતવિભાજ્ય ઉમેરવામાં આવે, ત્યારે નિર્બળ વિદ્યુતવિભાજ્યના આયનીકરણમાં ઘટાડો થાય છે. આને 'સમાન આયન અસર' કહે છે. <br>ઉદા: એસિટિક એસિડ (CH₃COOH) ના દ્રાવણમાં સોડિયમ એસિટેટ (CH₃COONa) ઉમેરતા, CH₃COO⁻ ની સાંદ્રતા વધે છે, જેથી લ-શેટેલિયર મુજબ સંતુલન પ્રતિગામી દિશામાં ખસે છે અને એસિડનું આયનીકરણ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Common Ion = સંતુલન પાછળ ધકેલાય = આયનીકરણ ઘટે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બફર દ્રાવણ એટલે શું? તેના પ્રકારો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે દ્રાવણમાં થોડા પ્રમાણમાં એસિડ કે બેઝ ઉમેરવા છતાં તેની pH માં ખાસ ફેરફાર થતો નથી, તેને બફર દ્રાવણ કહે છે. <br>1. <b>એસિડિક બફર:</b> નિર્બળ એસિડ + તેનો પ્રબળ બેઝ સાથેનો ક્ષાર. (દા.ત. CH₃COOH + CH₃COONa) <br>2. <b>બેઝિક બફર:</b> નિર્બળ બેઝ + તેનો પ્રબળ એસિડ સાથેનો ક્ષાર. (દા.ત. NH₄OH + NH₄Cl) <br>આપણા લોહીની pH (7.4) પણ બફર સિસ્ટમ (H₂CO₃/HCO₃⁻) દ્વારા જળવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બફર = pH ના ફેરફાર સામે 'દીવાલ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ક્ષારનું જળવિભાજન (Hydrolysis of Salts) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષારના આયનો અને પાણી વચ્ચેની પ્રક્રિયાને જળવિભાજન કહે છે. <br>1. <b>પ્રબળ એસિડ + પ્રબળ બેઝ:</b> જળવિભાજન થતું નથી, દ્રાવણ તટસ્થ (pH=7). ઉદા: NaCl. <br>2. <b>પ્રબળ એસિડ + નિર્બળ બેઝ:</b> એસિડિક દ્રાવણ (pH < 7). ઉદા: NH₄Cl. <br>3. <b>નિર્બળ એસિડ + પ્રબળ બેઝ:</b> બેઝિક દ્રાવણ (pH > 7). ઉદા: CH₃COONa. <br>4. <b>નિર્બળ એસિડ + નિર્બળ બેઝ:</b> pH નું મૂલ્ય $K_a$ અને $K_b$ પર આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જે પ્રબળ તેની સત્તા!' (Strong એસિડ તો pH < 7, Strong બેઝ તો pH > 7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દ્રાવ્યતા ગુણાકાર ($K_{sp}$) સમજાવો અને તેના ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલ્પદ્રાવ્ય ક્ષાર $A_xB_y$ માટે સંતુલન: <br>$A_xB_y(s) ⇌ xA^{y+}(aq) + yB^{x-}(aq)$ <br>$K_{sp} = [A^{y+}]^x [B^{x-}]^y$ <br><b>ઉપયોગો:</b> <br>1. ક્ષારની દ્રાવ્યતા ગણવા માટે. <br>2. અવક્ષેપન થશે કે નહીં તે જાણવા: જો $I_p > K_{sp}$, તો અવક્ષેપ મળશે. જો $I_p < K_{sp}$, તો અવક્ષેપ મળશે નહીં. <br>3. ગુણાત્મક પૃથક્કરણમાં (Qualitative Analysis).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $K_{sp}$ એ સંતૃપ્ત દ્રાવણની 'લિમિટ' છે. લિમિટ બહાર જાવ તો અવક્ષેપ (Precipitation) નક્કી!</p></div>"
+    }
+  ]
+}

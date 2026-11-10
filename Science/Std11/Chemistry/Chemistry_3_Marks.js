@@ -646,3 +646,116 @@ var Std11_Chemistry_3_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રેડોક્ષ પ્રક્રિયાઓ",
+  "questionType": "મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઓક્સિડેશન અને રિડક્શન પ્રક્રિયાઓની પ્રશિષ્ટ (Classical) સંકલ્પના ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રશિષ્ટ સંકલ્પના મુજબ:<br>1. <strong>ઓક્સિડેશન:</strong> પદાર્થમાં ઓક્સિજન ઉમેરાય અથવા હાઈડ્રોજન દૂર થાય તેને ઓક્સિડેશન કહેવાય. ઉદા: 2Mg + O₂ → 2MgO (Mg નું ઓક્સિડેશન થયું).<br>2. <strong>રિડક્શન:</strong> પદાર્થમાં હાઈડ્રોજન ઉમેરાય અથવા ઓક્સિજન દૂર થાય તેને રિડક્શન કહેવાય. ઉદા: CuO + H₂ → Cu + H₂O (CuO માંથી O દૂર થયો માટે તેનું રિડક્શન થયું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: O+ H- = ઓક્સિડેશન | H+ O- = રિડક્શન</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઈલેક્ટ્રોન વિનિમયને આધારે ઓક્સિડેશન અને રિડક્શનની વ્યાખ્યા આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધુનિક ઈલેક્ટ્રોનિક સંકલ્પના મુજબ:<br>1. <strong>ઓક્સિડેશન:</strong> જે પ્રક્રિયામાં પરમાણુ કે આયન ઈલેક્ટ્રોન ગુમાવે તેને ઓક્સિડેશન કહે છે. ઉદા: Na → Na⁺ + e⁻.<br>2. <strong>રિડક્શન:</strong> જે પ્રક્રિયામાં પરમાણુ કે આયન ઈલેક્ટ્રોન મેળવે તેને રિડક્શન કહે છે. ઉદા: Cl + e⁻ → Cl⁻.<br>રેડોક્ષ પ્રક્રિયામાં એક પદાર્થ ઈલેક્ટ્રોન આપે છે અને બીજો મેળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: OIL RIG (Oxidation Is Loss, Reduction Is Gain of Electrons)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઓક્સિડેશન આંક (Oxidation Number) નક્કી કરવાના મુખ્ય ત્રણ નિયમો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. મુક્ત અવસ્થામાં રહેલા તત્વોનો ઓક્સિડેશન આંક હંમેશા શૂન્ય હોય છે (દા.ત. H₂, O₂, Cl₂, Na).<br>2. એક-પરમાણ્વીય આયનનો ઓક્સિડેશન આંક તેના વીજભાર જેટલો હોય છે (દા.ત. Na⁺ માટે +1, Mg²⁺ માટે +2).<br>3. સંયોજનોમાં ફ્લોરિનનો ઓક્સિડેશન આંક હંમેશા -1 જ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકલા હોય તો ઝીરો (0), ભેગા હોય તો નિયમ પ્રમાણે હીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હાઈડ્રોજન અને ઓક્સિજનના ઓક્સિડેશન આંકમાં જોવા મળતા અપવાદો સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>હાઈડ્રોજન:</strong> મોટાભાગના સંયોજનોમાં +1 હોય છે, પરંતુ ધાતુના હાઈડ્રાઈડ (દા.ત. LiH, NaH) માં તે -1 હોય છે.<br>2. <strong>ઓક્સિજન:</strong> મોટાભાગે -2 હોય છે. પરંતુ પેરોક્સાઈડ (H₂O₂) માં -1, સુપરઓક્સાઈડ (KO₂) માં -1/2 અને OF₂ માં તે +2 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: H: અધાતુ સાથે (+) ધાતુ સાથે (-). O: પેરોક્સાઈડમાં -1 યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંયોગીકરણ પ્રક્રિયા (Combination Reaction) રેડોક્ષ પ્રક્રિયાના સંદર્ભમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે તત્વો અથવા સંયોજનો જોડાઈને એક નવું સંયોજન બનાવે ત્યારે તેને સંયોગીકરણ કહે છે. જો તેમાં ઓક્સિડેશન આંકમાં ફેરફાર થાય તો તે રેડોક્ષ છે.<br>સમીકરણ: C(0) + O₂(0) → CO₂(+4, -2)<br>અહીં કાર્બનનો ઓ.આંક 0 થી વધીને +4 થાય છે (ઓક્સિડેશન) અને ઓક્સિજનનો 0 થી ઘટીને -2 થાય છે (રિડક્શન).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A + B → C (બે ભેગા થઈ એક બને)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિઘટન પ્રક્રિયા (Decomposition Reaction) ક્યારે રેડોક્ષ પ્રક્રિયા બને છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ સંયોજન તૂટીને બે કે તેથી વધુ પદાર્થો બનાવે અને તત્વોના ઓક્સિડેશન આંકમાં ફેરફાર થાય ત્યારે તે રેડોક્ષ વિઘટન કહેવાય.<br>ઉદાહરણ: 2H₂O → 2H₂ + O₂<br>અહીં H (+1 માંથી 0) અને O (-2 માંથી 0) માં ફેરવાય છે. <br>નોંધ: CaCO₃ → CaO + CO₂ એ રેડોક્ષ નથી કારણ કે ઓ.આંક બદલાતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક માંથી બે બને તે વિઘટન, પણ જો O.N. બદલાય તો જ રેડોક્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિસ્થાપન પ્રક્રિયા (Displacement Reaction) એટલે શું? ધાતુ વિસ્થાપન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંયોજનમાં રહેલા એક આયનનું સ્થાન બીજું તત્વ લે તેને વિસ્થાપન કહે છે.<br><strong>ધાતુ વિસ્થાપન:</strong> વધુ સક્રિય ધાતુ ઓછી સક્રિય ધાતુને તેના દ્રાવણમાંથી મુક્ત કરે છે.<br>સમીકરણ: CuSO₄(aq) + Zn(s) → ZnSO₄(aq) + Cu(s)<br>અહીં Zn નું ઓક્સિડેશન (0 થી +2) અને Cu નું રિડક્શન (+2 થી 0) થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બળિયો બાથ ભીડે' - વધુ સક્રિય ધાતુ નબળી ધાતુને કાઢી મૂકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અધાતુ વિસ્થાપન પ્રક્રિયાના ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધાતુ વિસ્થાપનમાં સામાન્ય રીતે હાઈડ્રોજન વિસ્થાપન અથવા હેલોજન વિસ્થાપન જોવા મળે છે.<br>1. 2Na + 2H₂O → 2NaOH + H₂ (સક્રિય ધાતુ પાણીમાંથી H₂ મુક્ત કરે છે).<br>2. Cl₂ + 2KI → 2KCl + I₂ (વધુ સક્રિય હેલોજન ઓછા સક્રિય હેલોજનનું વિસ્થાપન કરે છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેલોજનની સક્રિયતા: F > Cl > Br > I</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિષમીકરણ પ્રક્રિયા (Disproportionation Reaction) એટલે શું? ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે રેડોક્ષ પ્રક્રિયામાં એક જ તત્વનું એકસાથે ઓક્સિડેશન અને રિડક્શન થતું હોય તેને વિષમીકરણ પ્રક્રિયા કહે છે.<br>ઉદાહરણ: P₄ + 3OH⁻ + 3H₂O → PH₃ + 3H₂PO₂⁻<br>અહીં ફોસ્ફરસ (0) માંથી -3 (PH₃ માં) અને +1 (H₂PO₂⁻ માં) ઓક્સિડેશન આંક મેળવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક જ માણસ બે કામ કરે' (ઓક્સિડેશન + રિડક્શન)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્ટોક સંકેત (Stock Notation) પદ્ધતિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જર્મન રસાયણશાસ્ત્રી આલ્ફ્રેડ સ્ટોક દ્વારા સૂચવાયેલ આ પદ્ધતિમાં ધાતુના ઓક્સિડેશન આંકને તેના નામ કે સૂત્ર પછી રોમન અંકોમાં કૌંસમાં લખવામાં આવે છે.<br>ઉદાહરણ: <br>1. FeCl₂ → આયર્ન (II) ક્લોરાઈડ<br>2. FeCl₃ → આયર્ન (III) ક્લોરાઈડ<br>3. MnO₂ → મેંગેનીઝ (IV) ઓક્સાઈડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિડેશન આંક = રોમન આંકડો (I, II, III, IV...)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઓક્સિડેશન આંક પદ્ધતિથી રેડોક્ષ સમીકરણ સંતુલિત કરવાના સોપાન (Steps) જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. પ્રત્યેક તત્વનો ઓક્સિડેશન આંક લખવો.<br>2. જેમાં ફેરફાર થતો હોય તેવા તત્વો ઓળખી, ઓક્સિડેશન આંકમાં થતો કુલ વધારો કે ઘટાડો ગણવો.<br>3. વધારા-ઘટાડાને સમાન કરવા યોગ્ય સહગુણક વડે ગુણવું.<br>4. O અને H સિવાયના પરમાણુ સંતુલિત કરવા.<br>5. માધ્યમ મુજબ (એસિડિક કે બેઝિક) O અને H સંતુલિત કરવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વધારો = ઘટાડો' પહેલા કરો, બાકીનું આપોઆપ સેટ થશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અર્ધ પ્રક્રિયા (Half-Reaction) પદ્ધતિ વડે સમીકરણ સંતુલિત કરવાની રીત ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. આખી પ્રક્રિયાને બે અર્ધ પ્રક્રિયામાં વહેંચો: ઓક્સિડેશન અને રિડક્શન.<br>2. દરેક અર્ધ પ્રક્રિયામાં O અને H સિવાયના તત્વો સંતુલિત કરો.<br>3. O માટે H₂O અને H માટે H⁺ ઉમેરો.<br>4. ઈલેક્ટ્રોન ઉમેરીને વીજભાર સંતુલિત કરો.<br>5. બંને અર્ધ પ્રક્રિયાના ઈલેક્ટ્રોન સમાન કરી તેમનો સરવાળો કરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભાગલા પાડો અને સંતુલન કરો' (Divide & Rule)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "MnO₄⁻ + I⁻ → MnO₂ + I₂ (બેઝિક માધ્યમ) પ્રક્રિયા માટે આયન-ઈલેક્ટ્રોન પદ્ધતિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. ઓક્સિડેશન: 2I⁻ → I₂ + 2e⁻<br>2. રિડક્શન: MnO₄⁻ + 2H₂O + 3e⁻ → MnO₂ + 4OH⁻<br>3. ઈલેક્ટ્રોન સમાન કરવા: ઓક્સિડેશનને 3 વડે અને રિડક્શનને 2 વડે ગુણો.<br>4. સરવાળો: 2MnO₄⁻ + 6I⁻ + 4H₂O → 2MnO₂ + 3I₂ + 8OH⁻</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેઝિક માધ્યમ હોય તો છેલ્લે OH⁻ વડે ચાર્જ બેલેન્સ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રેડોક્ષ અનુમાપન (Redox Titration) માં KMnO₄ નો રોલ 'સ્વયં સૂચક' (Self Indicator) તરીકે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> KMnO₄ ઘેરો જાંબલી રંગ ધરાવે છે. જ્યારે તેનું અનુમાપન રિડક્શનકર્તા (દા.ત. ઓક્ઝેલિક એસિડ) સાથે કરવામાં આવે ત્યારે MnO₄⁻ નું રિડક્શન Mn²⁺ માં થાય છે જે રંગવિહીન છે. જેવું બધું જ રિડક્શનકર્તા વપરાઈ જશે, KMnO₄ નું એક વધારાનું ટીપું આખા દ્રાવણને કાયમી આછો ગુલાબી રંગ આપશે. આમ, તે બહારના સૂચક વગર અંતિમ બિંદુ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાંબલી માંથી આછો ગુલાબી = કામ પૂરું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ડેનિયલ કોષ (Daniel Cell) ની રચના અને તેમાં થતી રેડોક્ષ પ્રક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડેનિયલ કોષમાં Zn ની પટ્ટી ZnSO₄ ના દ્રાવણમાં (એનોડ) અને Cu ની પટ્ટી CuSO₄ ના દ્રાવણમાં (કેથોડ) હોય છે.<br>એનોડ પર: Zn(s) → Zn²⁺(aq) + 2e⁻ (ઓક્સિડેશન)<br>કેથોડ પર: Cu²⁺(aq) + 2e⁻ → Cu(s) (રિડક્શન)<br>કુલ પ્રક્રિયા: Zn(s) + Cu²⁺(aq) → Zn²⁺(aq) + Cu(s)<br>રાસાયણિક ઉર્જાનું વિદ્યુત ઉર્જામાં રૂપાંતર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: LOAN (Left, Oxidation, Anode, Negative)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ક્ષાર સેતુ (Salt Bridge) ના કાર્યો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષાર સેતુ એ વિદ્યુત-રાસાયણિક કોષનો મહત્વનો ભાગ છે:<br>1. તે બે અર્ધ કોષોના દ્રાવણોને જોડવાનું અને વિદ્યુત પરિપથ પૂર્ણ કરવાનું કાર્ય કરે છે.<br>2. તે બંને દ્રાવણોની વિદ્યુતીય તટસ્થતા જાળવી રાખે છે.<br>3. તે બે દ્રાવણોને સીધા મિશ્ર થતા અટકાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષાર સેતુ = સર્કિટ પૂરી કરનાર 'બ્રિજ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પ્રમાણિત હાઈડ્રોજન ઈલેક્ટ્રોડ (SHE) નો ઉપયોગ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈ પણ એકલા અર્ધ કોષનો પોટેન્શિયલ માપી શકાતો નથી. તેથી SHE ને સંદર્ભ ઈલેક્ટ્રોડ તરીકે લેવામાં આવે છે જેનો પોટેન્શિયલ 0.0 V સ્વીકારાયેલ છે. જે ઈલેક્ટ્રોડનો પોટેન્શિયલ માપવો હોય તેને SHE સાથે જોડી કોષનો EMF માપવામાં આવે છે, જે તે ઈલેક્ટ્રોડનો પોટેન્શિયલ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: SHE એટલે 'ઝીરો' (Reference Point).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિદ્યુત-રાસાયણિક શ્રેણી (Electrochemical Series) ના બે ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>પ્રક્રિયાની સાનુકૂળતા:</strong> જેનો રિડક્શન પોટેન્શિયલ ઓછો હોય તે વધુ સક્રિય ધાતુ છે અને તે ઓક્સિડેશન પામવાની વૃત્તિ ધરાવે છે.<br>2. <strong>કોષનો પોટેન્શિયલ ગણવા:</strong> E°cell = E°cathode - E°anode સૂત્રની મદદથી કોઈ પણ કોષનો પ્રમાણિત વોલ્ટેજ ગણી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો પોટેન્શિયલ 'નેગેટિવ' (-) તે વધુ 'રિએક્ટિવ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ફ્લોરિન શા માટે વિષમીકરણ પ્રક્રિયા દર્શાવતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિષમીકરણ પ્રક્રિયા માટે તત્વની ઓછામાં ઓછી ત્રણ ઓક્સિડેશન અવસ્થાઓ હોવી જોઈએ. ફ્લોરિન એ સૌથી વધુ વિદ્યુતઋણ તત્વ છે, તેનો ઓક્સિડેશન આંક તેના સંયોજનોમાં માત્ર -1 જ હોય છે (અને મુક્ત અવસ્થામાં 0). તે ક્યારેય ધન (+) ઓક્સિડેશન અવસ્થા દર્શાવતું નથી, તેથી તેનું ઓક્સિડેશન થઈ શકતું નથી. માટે તે વિષમીકરણ દર્શાવતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્લોરિન = સૌથી વધુ 'કંજૂસ' (માત્ર ઈલેક્ટ્રોન લે, આપે નહીં!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Cr₂O₇²⁻ માં Cr નો અને Br₃O₈ માં Br નો ઓક્સિડેશન આંક ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>Cr₂O₇²⁻ માટે:</strong> 2(Cr) + 7(-2) = -2 ⇒ 2Cr - 14 = -2 ⇒ 2Cr = +12 ⇒ Cr = +6.<br>2. <strong>Br₃O₈ (ટ્રાયબ્રોમો ઓક્ટાઓક્સાઈડ) માટે:</strong> સરેરાશ ઓક્સિડેશન આંક 3(Br) + 8(-2) = 0 ⇒ 3Br = 16 ⇒ Br = +16/3. (બંધારણમાં બે બ્રોમિન +6 અને એક બ્રોમિન +4 અવસ્થામાં હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ વીજભાર = બધાના O.N. નો સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઓક્સિડેશનકર્તા અને રિડક્શનકર્તાની વ્યાખ્યા ઈલેક્ટ્રોન વિનિમયના આધારે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. <strong>ઓક્સિડેશનકર્તા:</strong> જે પદાર્થ પોતે ઈલેક્ટ્રોન મેળવે છે અને બીજાનું ઓક્સિડેશન કરે છે તેને ઓક્સિડેશનકર્તા કહેવાય (તેનું રિડક્શન થાય છે).<br>2. <strong>રિડક્શનકર્તા:</strong> જે પદાર્થ પોતે ઈલેક્ટ્રોન ગુમાવે છે અને બીજાનું રિડક્શન કરે છે તેને રિડક્શનકર્તા કહેવાય (તેનું ઓક્સિડેશન થાય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કરતા' તે જે બીજાનું કરે! (ઓક્સિડેશનકર્તા = બીજાનું ઓક્સિડેશન કરે)</p></div>"
+    }
+  ]
+}

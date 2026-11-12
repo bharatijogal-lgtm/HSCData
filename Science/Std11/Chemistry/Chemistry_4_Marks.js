@@ -322,3 +322,111 @@ var Std11_Chemistry_4_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "રાસાયણિક બંધન અને આણ્વીય રચના",
+  "questionType": "વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોસેલ-લુઈસ અભિગમ સમજાવો અને રાસાયણિક બંધન માટે અષ્ટકનો નિયમ ઉદાહરણ સાથે સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોસેલ અને લુઈસના મતે પરમાણુઓ તેમના સંયોજકતા કોષમાં 8 ઇલેક્ટ્રોન પ્રાપ્ત કરવા માટે બંધ બનાવે છે. ઉદાહરણ તરીકે NaCl માં Na એક ઇલેક્ટ્રોન ગુમાવે છે અને Cl મેળવે છે. અષ્ટકનો નિયમ કહે છે કે પરમાણુઓ સહસંયોજક કે આયનીય બંધ દ્વારા સ્થાયી રચના પ્રાપ્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અષ્ટક એટલે આઠ' - બહારના કોષમાં 8 ઇલેક્ટ્રોન એટલે 'સ્વર્ગ જેવું સુખ' (સ્થિરતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઔપચારિક વીજભાર (Formal Charge) ગણવાની પદ્ધતિ સમજાવો અને O3 અણુ માટે તે ગણો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔપચારિક વીજભાર = [સંયોજકતા ઇલેક્ટ્રોન] - [અબંધકારક ઇલેક્ટ્રોન] - 1/2 [બંધકારક ઇલેક્ટ્રોન]. O3 માં ત્રણ ઓક્સિજન માટે અલગ-અલગ ગણતરી કરતા મધ્યસ્થ O પર +1, ડબલ બોન્ડ વાળા પર 0 અને સિંગલ બોન્ડ વાળા પર -1 વીજભાર મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'FC = V - L - 1/2 S' (V=વેલેન્સ, L=લોનપેર, S=શેરિંગ ઇલેક્ટ્રોન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંસ્પંદન (Resonance) ની વ્યાખ્યા આપી, CO3 2- આયન માટે સંસ્પંદન બંધારણો દોરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ અણુનું બંધારણ એક લુઈસ રચના દ્વારા સમજાવી ન શકાય, ત્યારે અનેક બંધારણો દોરવામાં આવે છે જેને સંસ્પંદન બંધારણો કહે છે. CO3 2- માં ત્રણ સમાન બંધારણો મળે છે જેમાં દ્વિબંધનું સ્થાન બદલાતું રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફરતું ચક્ર' - જ્યાં દ્વિબંધ પોતાની જગ્યા બદલી શકે ત્યાં સંસ્પંદન નક્કી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "VSEPR સિદ્ધાંતના મુખ્ય મુદ્દાઓ સમજાવો અને અણુઓના આકાર નક્કી કરવામાં તેની ભૂમિકા વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> VSEPR સિદ્ધાંત મુજબ, અણુનો આકાર મધ્યસ્થ પરમાણુની આસપાસ રહેલા ઇલેક્ટ્રોન યુગ્મોના અપાકર્ષણ પર આધાર રાખે છે. ક્રમ: lp-lp > lp-bp > bp-bp.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અપાકર્ષણ જ આકાર નક્કી કરે' - લોન પેર (lp) એટલે 'તોફાની બાળક' જે બધાને દૂર ધકેલે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "sp3 સંકરણ સમજાવો. CH4 અણુની રચના અને બંધકોણ વર્ણવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp3 સંકરણમાં એક s અને ત્રણ p કક્ષકો જોડાઈને 4 નવી sp3 સંકૃત કક્ષકો બનાવે છે. CH4 માં તે સમચતુષ્ફલકીય આકાર ધરાવે છે અને બંધકોણ 109.5° હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1+3=4' - 4 કક્ષક એટલે ચતુષ્ફલક (Tetrahedral).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "sp2 અને sp સંકરણની વ્યાખ્યા આપી ઉદાહરણ સહિત સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sp2 માં 1s અને 2p કક્ષકો મિશ્ર થાય છે (ઉદા. BCl3, સમતલીય ત્રિકોણ). sp માં 1s અને 1p કક્ષકો મિશ્ર થાય છે (ઉદા. BeCl2, રેખીય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ટકાવારીનું ગણિત' - p નું પ્રમાણ જેટલું ઓછું, બંધકોણ એટલો મોટો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "PCl5 અણુમાં કયા પ્રકારનું સંકરણ જોવા મળે છે? તેનું બંધારણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PCl5 માં sp3d સંકરણ હોય છે. આકાર ત્રિકોણીય દ્વિપિરામિડલ છે. તેમાં 3 નિરક્ષીય અને 2 અક્ષીય બંધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '5 હાથ - 3 એક લેવલમાં, 2 ઉપર-નીચે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "SF6 અણુમાં સંકરણ અને આકારની ચર્ચા કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> SF6 માં sp3d2 સંકરણ થાય છે. તેનો આકાર અષ્ટફલકીય (Octahedral) હોય છે. તમામ S-F બંધની લંબાઈ સમાન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '6 ફૂટબોલની છાપ' - અષ્ટફલકીય એટલે 6 બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મોલેક્યુલર ઓર્બિટલ થિયરી (MOT) ના મુખ્ય અભિધારણાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇલેક્ટ્રોન પરમાણુમાં નહીં પણ આણ્વીય કક્ષકોમાં હોય છે. બંધકારક (Bonding) અને બંધ પ્રતિકારક (Antibonding) કક્ષકો રચાય છે. જેનું ઉર્જા સ્તર ઓછું હોય તે વધુ સ્થાયી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'BMO (સુખ) અને ABMO (દુઃખ)' - BMO ની ઉર્જા ઓછી એટલે સ્થિરતા વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બંધ ક્રમાંક (Bond Order) એટલે શું? O2 અણુ માટે બંધ ક્રમાંકની ગણતરી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ ક્રમાંક = 1/2 [Nb - Na]. O2 માટે કુલ 16 ઇલેક્ટ્રોન છે. ગણતરી કરતા બંધ ક્રમાંક 2 મળે છે. આથી O=O બંધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Nb-Na / 2' - ગણિત સરળ, જીવન સચોટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હાઇડ્રોજન બંધ (Hydrogen Bond) ના પ્રકારો ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઇડ્રોજન બંધ બે પ્રકારના છે: આંત:આણ્વીય (Intermolecular - H2O) અને અંત:આણ્વીય (Intramolecular - o-nitrophenol). તે વિદ્યુતઋણ પરમાણુ (F, O, N) અને H વચ્ચે બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'FON' - આ ત્રણ યાદ રાખો, હાઇડ્રોજન બંધ પાકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ધ્રુવીય અને અધ્રુવીય સહસંયોજક બંધ વચ્ચેનો તફાવત ઉદાહરણ સાથે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પરમાણુઓની વિદ્યુતઋણતા અલગ હોય ત્યારે ધ્રુવીય બંધ બને છે (HCl). સમાન હોય ત્યારે અધ્રુવીય (H2, Cl2) બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખેંચાણ' - જે વધુ પાવરફુલ તે ઇલેક્ટ્રોન પોતાની તરફ ખેંચશે અને ધ્રુવીયતા બનાવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દ્વિધ્રુવ ચાકમાત્રા (Dipole Moment) સમજાવો. કયા અણુઓ શૂન્ય ચાકમાત્રા ધરાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દ્વિધ્રુવ ચાકમાત્રા એ અણુની ધ્રુવીયતા માપવાનો એકમ છે (μ = q × d). જે અણુઓ સંમિત (Symmetric) હોય છે જેમ કે CO2, CCl4 તેમની પરિણામી ચાકમાત્રા શૂન્ય હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સંમિત = શૂન્ય' - જે આખું સંતુલિત, તે નિષ્ક્રિય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સહસંયોજક બંધમાં આયનીય લક્ષણો (Fajans Rule) સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેજન્સના નિયમ મુજબ, ધન આયનનું કદ નાનું અને ઋણ આયનનું કદ મોટું હોય તો ધ્રુવીભવન (Polarization) વધુ થાય છે, જેનાથી આયનીય સંયોજનમાં સહસંયોજક લક્ષણો આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનો કેટીઓન, મોટો એનાઓન' - આ જોડી હંમેશા સહસંયોજક સ્વભાવ લાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બંધ લંબાઈ અને બંધ એન્થાલ્પી વચ્ચેનો સંબંધ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધ લંબાઈ અને બંધ એન્થાલ્પી વ્યસ્ત પ્રમાણમાં હોય છે. બંધ જેટલો ટૂંકો, તેને તોડવા માટે એટલી જ વધારે ઉર્જા (એન્થાલ્પી) જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનું બંધ, પાવરફુલ બંધ' - ટૂંકા હાથની પકડ મજબૂત હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "N2 અણુમાં બંધ પ્રકાર સમજાવો. તેમાં કેટલા સિગ્મા અને પાઈ બંધ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> N2 માં ત્રણ બંધ છે (N≡N). એક સિગ્મા (σ) અને બે પાઈ (π) બંધ. તે ટ્રિપલ બોન્ડને કારણે અત્યંત સ્થાયી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિંગલ = 1 સિગ્મા, ડબલ = 1σ+1π, ટ્રિપલ = 1σ+2π'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંકરણ એટલે શું? તેના મુખ્ય પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લગભગ સમાન ઉર્જા ધરાવતી પરમાણ્વીય કક્ષકોનું મિશ્રણ થઈ સમાન ઉર્જા અને આકાર ધરાવતી નવી કક્ષકો બનવાની પ્રક્રિયાને સંકરણ કહે છે. પ્રકાર: sp, sp2, sp3, sp3d, sp3d2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભેળભૂસું' - અલગ-અલગ કક્ષકો ભેગી થઈને એક સરખી કક્ષકો બની ગઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "BeCl2 અને H2O ના બંધારણની VSEPR સિદ્ધાંત મુજબ સરખામણી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> BeCl2 માં કોઈ લોન પેર નથી તેથી રેખીય છે. H2O માં બે લોન પેર છે, તેથી તેનો આકાર કોણીય (Bent) છે અને બંધકોણ 104.5° છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લોન પેર એટલે બેન્ડિંગ' - લોન પેર વધે, આકાર વળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ચુંબકીય ગુણધર્મ (અનુચુંબકીય/પ્રતિચુંબકીય) કેવી રીતે નક્કી થાય છે? N2 અને O2 માટે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અયુગ્મિત ઇલેક્ટ્રોન હોય તો તે અનુચુંબકીય (Paramagnetic), બધા યુગ્મિત હોય તો પ્રતિચુંબકીય (Diamagnetic). N2 માં બધા યુગ્મિત છે (પ્રતિચુંબકીય), O2 માં બે અયુગ્મિત છે (અનુચુંબકીય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જોડી વગરનું એટલે એકલું (અનુ), જોડી વાળું એટલે સંગાથે (પ્રતિ)'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સહસંયોજક બંધના નિર્માણ માટે જરૂરી શરતો લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. પરમાણુઓ પાસે અયુગ્મિત ઇલેક્ટ્રોન હોવા જોઈએ. 2. કક્ષકોનું યોગ્ય દિશાનિર્દેશન હોવું જોઈએ. 3. કક્ષકોની ઉર્જા સમાન હોવી જોઈએ. 4. કક્ષકોનું અતિવ્યાપન (Overlap) મહત્તમ હોવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓવરલેપિંગ' - જેટલું વધારે ઓવરલેપિંગ, એટલો મજબૂત બંધ!</p></div>"
+    }
+  ]
+}

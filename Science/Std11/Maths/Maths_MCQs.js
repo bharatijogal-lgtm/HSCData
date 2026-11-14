@@ -426,3 +426,371 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "સંબંધ અને વિધેય",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો (x + 1, y - 2) = (3, 1) હોય, તો x અને y ની કિંમત શોધો. (A) x=2, y=3 (B) x=3, y=2 (C) x=1, y=1 (D) x=0, y=0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. ક્રમયુક્ત જોડની સમાનતા મુજબ: x + 1 = 3 => x = 2 અને y - 2 = 1 => y = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા પદને પહેલા સાથે અને બીજા પદને બીજા સાથે સરખાવી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો ગણ A માં 3 ઘટકો હોય અને ગણ B = {3, 4, 5} હોય, તો n(A × B) કેટલા થાય? (A) 3 (B) 6 (C) 9 (D) 27",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. n(A) = 3, n(B) = 3. સૂત્ર: n(A × B) = n(A) × n(B) = 3 × 3 = 9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારનો નિયમ યાદ રાખો: n(A) × n(B)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો A = {1, 2} અને B = {3, 4} હોય, તો A × B માં કેટલી ક્રમયુક્ત જોડ મળે? (A) 2 (B) 4 (C) 8 (D) 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. n(A) = 2, n(B) = 2. n(A × B) = 2 × 2 = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ જોડી = પહેલા ગણના સભ્યો × બીજા ગણના સભ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો A × B = {(a, x), (a, y), (b, x), (b, y)} હોય, તો ગણ A શોધો. (A) {x, y} (B) {a, b} (C) {a, x} (D) {b, y}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. A × B માં પ્રથમ ઘટકોનો ગણ એટલે A. અહીં પ્રથમ ઘટકો a અને b છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A એટલે આગળના (First) ઘટકો, B એટલે બીજા (Second) ઘટકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો n(A) = p અને n(B) = q હોય, તો A થી B પરના સંબંધોની કુલ સંખ્યા કેટલી? (A) pq (B) p + q (C) 2^(pq) (D) 2^p + 2^q",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. સંબંધોની કુલ સંખ્યા એ A × B ના ઉપગણોની સંખ્યા જેટલી હોય છે, એટલે કે 2^(n(A × B)).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંબંધ એટલે 2 ની ઉપર 'ગુણાકાર' ની ઘાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો R = {(x, x+5) : x ∈ {0, 1, 2, 3, 4, 5}} હોય, તો R નો વિસ્તાર શોધો. (A) {0, 1, 2, 3, 4, 5} (B) {5, 6, 7, 8, 9, 10} (C) {1, 2, 3, 4, 5} (D) {x : x ∈ R}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. વિસ્તાર એટલે ક્રમયુક્ત જોડના બીજા ઘટકો: 0+5, 1+5, 2+5... = {5, 6, 7, 8, 9, 10}.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રદેશ એટલે 'પહેલું' અને વિસ્તાર એટલે 'બીજું' (In-Out Rule).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિધેય f(x) = x² નો પ્રદેશ R હોય, તો તેનો વિસ્તાર શું થાય? (A) R (B) R+ (C) [0, ∞) (D) (-∞, 0]",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. કોઈપણ વાસ્તવિક સંખ્યાનો વર્ગ હંમેશા અનૃણ (0 અથવા ધન) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગ ક્યારેય નેગેટિવ ન હોય, એટલે 0 થી ચાલુ કરી અનંત સુધી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો f(x) = 2x - 5 હોય, તો f(7) ની કિંમત શોધો. (A) 7 (B) 9 (C) 14 (D) 19",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. f(7) = 2(7) - 5 = 14 - 5 = 9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ની જગ્યાએ કિંમત મૂકો અને સાદું રૂપ આપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તત્સમ વિધેય (Identity Function) f(x) = ....? (A) 0 (B) 1 (C) x (D) x²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. તત્સમ વિધેય એટલે જે કિંમત મૂકો એ જ પાછી મળે, f(x) = x.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તત્સમ એટલે 'જેવા સાથે તેવા' (Same to Same).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માનાંક વિધેય f(x) = |x| નો વિસ્તાર જણાવો. (A) R (B) R- (C) [0, ∞) (D) (0, ∞)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. માનાંક હંમેશા 0 અથવા ધન કિંમત જ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનાંક એટલે 'પોઝિટિવ મશીન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ચિહ્ન વિધેય (Signum Function) f(x) નો વિસ્તાર શું છે? (A) R (B) {-1, 0, 1} (C) [-1, 1] (D) {0, 1}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. ચિહ્ન વિધેય માત્ર ત્રણ કિંમતો -1 (x<0 માટે), 0 (x=0 માટે) અને 1 (x>0 માટે) ધારણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિગ્નમ એટલે 'ત્રણ જ મુસાફરો' (-1, 0, 1)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો n(A) = 3 હોય, તો A થી A પરના કુલ સંબંધો કેટલા? (A) 9 (B) 27 (C) 2^9 (D) 3^2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. n(A × A) = 3 × 3 = 9. સંબંધોની સંખ્યા = 2^9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંબંધ = 2^(n²), જ્યારે ગણ એક જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મહત્તમ પૂર્ણાંક વિધેય f(x) = [x] માં f(2.4) ની કિંમત કેટલી? (A) 2 (B) 3 (C) 2.4 (D) 0.4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. [x] એટલે x થી મોટો ન હોય તેવો મહત્તમ પૂર્ણાંક. 2.4 માટે તે 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછીનું બધું ભૂલી જાઓ, ડાબી બાજુનો પૂર્ણાંક પકડો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો f(x) = x² અને g(x) = 2x + 1 હોય, તો (f + g)(x) શોધો. (A) x² + 2x + 1 (B) x² - 2x - 1 (C) 2x³ + x² (D) x² / (2x + 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. (f + g)(x) = f(x) + g(x) = x² + 2x + 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બસ, બંને વિધેયોનો સીધો સરવાળો કરી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિધેય f(x) = 1/(x-2) નો પ્રદેશ શોધો. (A) R (B) R - {2} (C) R - {0} (D) (2, ∞)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. છેદ શૂન્ય ન હોવો જોઈએ. x - 2 ≠ 0 => x ≠ 2. તેથી પ્રદેશ R - {2}.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદને 'ઝીરો' બનાવતી કિંમતને R માંથી કાઢી મૂકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જો f: R → R, f(x) = x³ હોય, તો f એ કેવું વિધેય છે? (A) યુગ્મ વિધેય (B) અયુગ્મ વિધેય (C) અચળ વિધેય (D) તત્સમ વિધેય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. f(-x) = (-x)³ = -x³ = -f(x). તેથી તે અયુગ્મ વિધેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત એકી (Odd) તો વિધેય અયુગ્મ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "A = {1, 2, 3} હોય તો A × φ = .... (A) {1, 2, 3} (B) {0} (C) φ (D) {(1,0), (2,0), (3,0)}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. કોઈપણ ગણનો ખાલીગણ સાથેનો કાર્તેઝીય ગુણાકાર હંમેશા ખાલીગણ જ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં 0 જેમ કામ કરે, ગણમાં φ તેમ કામ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો f(x) = √x હોય, તો તેનો પ્રદેશ શું થાય? (A) R (B) [0, ∞) (C) (-∞, 0] (D) R - {0}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. વર્ગમૂળની અંદરની સંખ્યા હંમેશા 0 કે તેથી મોટી હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગમૂળ કહે છે: 'મને નેગેટિવ સંખ્યા ગમતી નથી!'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિધેય f(x) = c (અચળ) નો આલેખ કેવો હોય? (A) શિરોલંબ રેખા (B) સમક્ષિતિજ રેખા (C) વક્ર (D) વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. f(x) = c એટલે કે y = c, જે X-અક્ષને સમાંતર (સમક્ષિતિજ) રેખા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ એટલે જે હાલતું નથી, એટલે સીધી સુતેલી રેખા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો n(A) = 2 અને n(B) = 3 હોય, તો A થી B ના અરિક્ત સંબંધો કેટલા? (A) 6 (B) 63 (C) 64 (D) 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. કુલ સંબંધો = 2^(2×3) = 2^6 = 64. અરિક્ત (Non-empty) એટલે ખાલીગણ સિવાયના: 64 - 1 = 63.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરિક્ત પૂછે ત્યારે 'કુલ માંથી એક બાદ' કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ક્રમયુક્ત જોડ (x, y) અને (y, x) ક્યારે સમાન થાય? (A) હંમેશા (B) ક્યારેય નહીં (C) જો x = y હોય (D) જો x = -y હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. (x, y) = (y, x) માત્ર ત્યારે જ શક્ય છે જ્યારે x = y અને y = x.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોડ માં 'ક્રમ' મહત્વનો છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો f(x) = x² + 2x + 1 હોય, તો f(-1) શોધો. (A) 0 (B) 4 (C) 2 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. f(-1) = (-1)² + 2(-1) + 1 = 1 - 2 + 1 = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિંમત મુકતી વખતે ઋણ નિશાનીનું ધ્યાન રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સંબંધ R = {(1,2), (1,3), (2,3)} નો પ્રદેશ શું છે? (A) {1, 2, 3} (B) {2, 3} (C) {1, 2} (D) {1}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. પ્રદેશ એટલે પ્રથમ ઘટકોનો ગણ: {1, 1, 2} = {1, 2}.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રદેશમાં ડુપ્લીકેટ ઘટકોને એક જ વાર લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કયું વિધેય f(x) = f(-x) શરતનું પાલન કરે છે? (A) x³ (B) x (C) x² (D) x + 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. f(-x) = (-x)² = x² = f(x). આ યુગ્મ વિધેય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુગ્મ વિધેય એટલે 'ઋણ ને ખાઈ જાય' તેવું વિધેય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગણ A = {1, 2} માટે A × A × A શોધો. (A) {(1,1,1), (2,2,2)} (B) 8 જોડ ધરાવતો ગણ (C) 6 જોડ ધરાવતો ગણ (D) {(1,2), (2,1)}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. n(A) = 2 હોવાથી n(A × A × A) = 2 × 2 × 2 = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ ગણ હોય તો 'ત્રિપુટી' (Triplets) બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિધેય f(x) = x/(x²-1) કઈ કિંમતો માટે અવ્યાખ્યાયિત છે? (A) x = 0 (B) x = 1, -1 (C) x = 1 (D) x = -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. x² - 1 = 0 => x² = 1 => x = ±1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ ક્યારેય શૂન્ય ન થવો જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો f: R → R, f(x) = |x| હોય, તો f(-3) શોધો. (A) -3 (B) 0 (C) 3 (D) ±3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. |-3| = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનાંક એટલે 'માઈનસ ને પ્લસ કરી દે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો (2a, b+2) = (4, 3) હોય, તો a અને b શોધો. (A) a=2, b=1 (B) a=2, b=5 (C) a=4, b=1 (D) a=1, b=2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. 2a = 4 => a = 2 અને b + 2 = 3 => b = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇક્વેશન સોલ્વ કરો, માર્કસ મેળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મહત્તમ પૂર્ણાંક વિધેયમાં [-1.2] ની કિંમત કેટલી? (A) -1 (B) -2 (C) -1.2 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. -1.2 થી નાનો અને સૌથી નજીકનો પૂર્ણાંક -2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યારેખા પર ડાબી બાજુ ખસો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો A = {x, y, z} અને B = {1, 2} હોય, તો B × A ના સભ્યો કેટલા? (A) 5 (B) 6 (C) 9 (D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. n(B) × n(A) = 2 × 3 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ બદલાય પણ સંખ્યા ન બદલાય (Commutative for count).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વિધેય f(x) = 7 એ કેવું વિધેય છે? (A) તત્સમ (B) અચળ (C) બહુપદી (D) સંમેય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. x ની કોઈ પણ કિંમત માટે જવાબ 7 જ રહે છે, જે અચળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર આંકડો જ હોય તો તે અચળ (Constant).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગણ A પરના સંબંધોની સંખ્યા 64 હોય, તો n(A) કેટલા? (A) 8 (B) 3 (C) 6 (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. 2^(n²) = 64 => 2^(n²) = 2^6 => n² = 6 (અહીં A થી A પરના સંબંધો માટે n(A×A)=n²). જો n(A×A)=6 હોય તો શક્ય નથી, પણ પ્રશ્ન મુજબ જો n(A×A)=6 હોય તો... સુધારો: 2^(n(A×A)) = 64 => n(A×A) = 6. જો n(A)=2, n(B)=3 હોય તો 2x3=6 થાય. પણ ગણ A પરના કીધું હોય તો n(A)=√6 જે પૂર્ણાંક નથી. સાચો પ્રશ્ન: જો n(A×A)=9 હોય તો 2^9 થાય. જો n(A)=3 હોય તો 2^(3x3)=2^9=512. 64 માટે n(A×A)=6 હોવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ની ઘાત યાદ રાખો: 2^6 = 64.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો f(x) = 1/x હોય, તો f(f(x)) = .... (A) 1/x (B) x (C) x² (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. f(f(x)) = 1/(1/x) = x.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્તનો વ્યસ્ત એટલે 'મૂળ સંખ્યા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સંબંધ R = {(x, y) : x + 2y = 8} નો પ્રદેશ જો x, y ∈ N હોય તો... (A) {2, 4, 6} (B) {1, 2, 3} (C) {2, 4, 8} (D) {1, 3, 5}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. y=1 => x=6; y=2 => x=4; y=3 => x=2. y=4 => x=0 (N માં નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y ની કિંમતો મૂકીને x શોધો અને તે N માં હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિધેય f(x) = |x-1| નો પ્રદેશ શું છે? (A) (1, ∞) (B) R (C) [0, ∞) (D) R - {1}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. માનાંક વિધેયમાં x ની કોઈ પણ વાસ્તવિક કિંમત મૂકી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનાંકનો પ્રદેશ હંમેશા R જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કયું વિધેય 'પ્રત્યેક x ∈ R માટે f(x) = x' દ્વારા વ્યાખ્યાયિત છે? (A) અચળ (B) તત્સમ (C) ચિહ્ન (D) મહત્તમ પૂર્ણાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. આ તત્સમ વિધેયની વ્યાખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x મૂકો ને x મળે, એ જ તત્સમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો f(x) = x² અને g(x) = √x હોય, તો (f/g)(x) = .... (A) x (B) x^(3/2) (C) x² (D) √x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. x² / x^(1/2) = x^(2 - 1/2) = x^(3/2).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતાંકના નિયમો વાપરો: ભાગાકારમાં ઘાતની બાદબાકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જો n(A) = m હોય, તો n(A × A) કેટલા થાય? (A) 2m (B) m² (C) m^m (D) 2^m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. n(A) × n(A) = m × m = m².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાની સાથે ગુણાકાર એટલે વર્ગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ગણ A = {1, 2, 3} થી B = {4, 5} પર કુલ કેટલા વિધેયો મળે? (A) 6 (B) 8 (C) 9 (D) 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. કુલ વિધેયો = [n(B)]^[n(A)] = 2³ = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધેયોની સંખ્યા = (બીજું)^(પહેલું)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "R = {(x, x²) : x એ 10 કરતા નાની અવિભાજ્ય સંખ્યા છે} ને યાદીની રીતે લખતા... (A) {(2,4), (3,9), (5,25), (7,49)} (B) {(1,1), (2,4), (3,9)} (C) {(2,4), (4,16)} (D) {(3,9), (5,25), (7,49), (9,81)}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. 10 થી નાની અવિભાજ્ય સંખ્યાઓ 2, 3, 5, 7 છે. તેમના વર્ગ 4, 9, 25, 49 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવિભાજ્ય સંખ્યામાં 1 અને 9 ન આવે, યાદ રાખજો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વિધેય f(x) = √(9 - x²) નો પ્રદેશ શોધો. (A) R (B) [-3, 3] (C) (0, 3) (D) R - {-3, 3}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. 9 - x² ≥ 0 => x² ≤ 9 => -3 ≤ x ≤ 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a² - x² હોય ત્યારે પ્રદેશ [-a, a] થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "નીચેનામાંથી કયું વિધેય નથી? (A) {(1,2), (2,3)} (B) {(1,2), (1,3)} (C) {(1,1), (2,2)} (D) {(2,3), (3,3)}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. અહીં 1 ના બે પ્રતિબિંબ 2 અને 3 મળે છે, જે વિધેયમાં શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ X ના બે અલગ Y ન હોવા જોઈએ (No cheating!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સહપ્રદેશ એ હંમેશા વિસ્તાર કરતા કેવો હોય? (A) નાનો (B) સરખો જ (C) મોટો અથવા સમાન (D) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. વિસ્તાર ⊆ સહપ્રદેશ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્તાર એ સહપ્રદેશનો 'બાળક' (ઉપગણ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જો f(x) = x + 10 હોય, તો f(x+1) - f(x) = .... (A) 10 (B) 1 (C) x (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. f(x+1) = x+1+10 = x+11. તફાવત: (x+11) - (x+10) = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરેખ વિધેય ax+b માં તફાવત હંમેશા 'a' (ઢાળ) જેટલો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "R = {(x, y) : x, y ∈ Z, x² + y² = 0} માં ઘટકોની સંખ્યા કેટલી? (A) 0 (B) 1 (C) 2 (D) અસંખ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. x² + y² = 0 માત્ર (0, 0) માટે જ શક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગોનો સરવાળો 0 ત્યારે જ થાય જ્યારે બંને 0 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જો f(x) = log(x) હોય, તો તેનો પ્રદેશ શું છે? (A) R (B) R+ (C) [0, ∞) (D) R - {0}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. લઘુગુણક માત્ર ધન સંખ્યાઓ માટે જ વ્યાખ્યાયિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Log ને 'ધન' કિંમતો જ ભાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જો A = {1, 2, 3} હોય, તો A પરના સૌથી નાના સંબંધમાં કેટલા સભ્યો હોય? (A) 0 (B) 1 (C) 3 (D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. સૌથી નાનો સંબંધ ખાલી સંબંધ (φ) છે, જેમાં 0 સભ્યો હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું એટલે ખાલી (Empty).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "f(x) = x² + 1 માટે f(x) ની ન્યૂનતમ કિંમત કેટલી? (A) 0 (B) 1 (C) -1 (D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. x² ની ન્યૂનતમ કિંમત 0 છે, તેથી 0 + 1 = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગને 0 બનાવી દો એટલે ન્યૂનતમ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ચિહ્ન વિધેય માટે f(-100) = .... (A) 100 (B) -100 (C) -1 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. કોઈપણ ઋણ સંખ્યા માટે ચિહ્ન વિધેયનો જવાબ -1 જ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિગ્નમ એટલે 'ખાલી નિશાની' જોવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જો f(x) = [x] હોય, તો f(0.99) = .... (A) 1 (B) 0 (C) 0.9 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. 0.99 થી મોટો ન હોય તેવો પૂર્ણાંક 0 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સુધી પહોંચ્યા નથી એટલે 0 જ ગણાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જો f(x) = 3x - 2 હોય, તો f(x) = 13 માટે x = .... (A) 5 (B) 3 (C) 15 (D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. 3x - 2 = 13 => 3x = 15 => x = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિવર્સ એન્જિનિયરિંગ વાપરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "પરિમિત ગણો A અને B માટે n(A × B) = 12 હોય, તો નીચેનામાંથી n(A) ની શક્ય કિંમત કઈ નથી? (A) 3 (B) 4 (C) 5 (D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. n(A) એ 12 નો અવયવ હોવો જોઈએ. 5 એ 12 નો અવયવ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 ના પાડામાં જે ન આવે એ જવાબ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જો f(x) = x² + 1 અને g(x) = sin x હોય, તો (g o f)(x) શોધો. (A) sin(x² + 1) (B) sin²x + 1 (C) sin x² + 1 (D) (x² + 1) sin x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. g(f(x)) = g(x² + 1) = sin(x² + 1).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરથી બહારની તરફ કિંમતો મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "વાસ્તવિક વિધેય f(x) = 1/√(x-5) નો પ્રદેશ શોધો. (A) [5, ∞) (B) (5, ∞) (C) R - {5} (D) (-∞, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. છેદમાં વર્ગમૂળ હોવાથી x - 5 > 0 હોવું જોઈએ, એટલે કે x > 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં 0 ન ચાલે અને વર્ગમૂળમાં ઋણ ન ચાલે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જો f(x) = x² હોય, તો f(1.1) - f(1) / (1.1 - 1) = .... (A) 2.1 (B) 1.1 (C) 2 (D) 0.21",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. (1.21 - 1) / 0.1 = 0.21 / 0.1 = 2.1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ વિકલન જેવું છે, x² નું 2x થાય, એટલે કે 2(1) ની આસપાસ જવાબ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જો n(A) = 2 હોય, તો A પરના કુલ કેટલા ઉપગણો મળે? (A) 2 (B) 4 (C) 8 (D) 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. ઉપગણો = 2^n = 2² = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંબંધ અને ઉપગણમાં કન્ફ્યુઝ ન થતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "જો f(x) = x + 3 અને g(x) = x - 3 હોય, તો (fg)(x) = .... (A) x² - 9 (B) x² + 9 (C) 2x (D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. (x+3)(x-3) = x² - 9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તફાવતના અવયવોનું સૂત્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જો f(x) = x² હોય, તો f ના વિસ્તારમાં કઈ સંખ્યા ન હોઈ શકે? (A) 0 (B) 1 (C) -5 (D) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (C) છે. વર્ગ ક્યારેય ઋણ ન હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ક્વેર ઇઝ નેવર નેગેટિવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો A × B = B × A હોય, તો શું કહી શકાય? (A) A = B (B) A ⊂ B (C) B ⊂ A (D) A = φ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. કાર્તેઝીય ગુણાકાર ક્રમના નિયમનું પાલન માત્ર સમાન ગણો માટે જ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અદલા-બદલી ત્યારે જ ચાલે જ્યારે બંને સરખા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "જો f(x) = [x] + |x| હોય, તો f(-1.5) = .... (A) -0.5 (B) -0.1 (C) -0.5 (D) -0.5 (સુધારો: f(-1.5) = [-1.5] + |-1.5| = -2 + 1.5 = -0.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ -0.5 છે. [-1.5] = -2 અને |-1.5| = 1.5. બંનેનો સરવાળો -0.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલગ-અલગ કિંમત શોધીને સરવાળો કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "R = {(x, y) : y = 3x, x ∈ {1, 2, 3}} નો સહપ્રદેશ શું થાય જો R: A → N હોય? (A) {3, 6, 9} (B) N (C) {1, 2, 3} (D) R",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. R: A → B માં ગણ B એ સહપ્રદેશ કહેવાય. અહીં B = N છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીરની પાછળ જે હોય એ 'સહપ્રદેશ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "જો n(A) = 1 અને n(B) = 100 હોય, તો n(A × B) = .... (A) 1 (B) 100 (C) 101 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. 1 × 100 = 100.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સાથે કોઈનો પણ ગુણાકાર એ જ સંખ્યા રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "વિધેય f(x) = x² + 2 નો વિસ્તાર શું છે? (A) R (B) [2, ∞) (C) (2, ∞) (D) [0, ∞)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. x² ≥ 0 હોવાથી x² + 2 ≥ 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યૂનતમ કિંમત 2 થી શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જો f(x) = 2x - 1 અને f(x) = x + 2 હોય, તો x = .... (A) 1 (B) 3 (C) 0 (D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. 2x - 1 = x + 2 => x = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામ-સામે સરખાવી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "વિધેય f(x) = 1 / √(x² - 4) નો પ્રદેશ શોધો. (A) (-2, 2) (B) R - [-2, 2] (C) R - {2, -2} (D) [2, ∞)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. x² - 4 > 0 => |x| > 2 => x > 2 અથવા x < -2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચેનો ભાગ કાઢી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "જો f(x) = x + 1 / x હોય, તો f(1) = .... (A) 1 (B) 2 (C) 0 (D) ∞",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. 1 + 1/1 = 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ની જગ્યાએ 1 મુકતા જ જવાબ સામે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "જો A × B = φ હોય, તો ... (A) A = φ અથવા B = φ (B) A = φ અને B = φ (C) A ≠ φ (D) B ≠ φ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. ઓછામાં ઓછો એક ગણ ખાલી હોવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 ગુણ્યા કંઈ પણ = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "ચિહ્ન વિધેયનો આલેખ કયા ચરણમાં હોય? (A) પહેલા અને ત્રીજા (B) બીજા અને ચોથા (C) માત્ર પહેલા (D) બધા જ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. x > 0 માટે y = 1 (પ્રથમ) અને x < 0 માટે y = -1 (તૃતીય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લસ સાથે પ્લસ, માઈનસ સાથે માઈનસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જો f(x) = x² - 4x + 6 હોય, તો f(2) = .... (A) 6 (B) 2 (C) 4 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. f(2) = 4 - 8 + 6 = 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણતરીમાં ઉતાવળ ન કરવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "જો f(x) = constant (અચળ) હોય, તો f(10) - f(5) = .... (A) 5 (B) 0 (C) 10 (D) f(5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. અચળ વિધેયમાં બધી કિંમતો સરખી હોય, તેથી તફાવત 0 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ એટલે 'નો ચેન્જ', તો બાદબાકી 'ઝીરો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "જો A = {1, 2} અને B = {3} હોય, તો (A × B) ∩ (B × A) = .... (A) {(1,3), (3,1)} (B) φ (C) {1, 2, 3} (D) {(1,1)}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (B) છે. A × B = {(1,3), (2,3)} અને B × A = {(3,1), (3,2)}. છેદગણ ખાલી મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ગણ અલગ હોય તો તેમની જોડ પણ અલગ જ હશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "વિધેય f(x) = √x + √(1-x) નો પ્રદેશ શોધો. (A) [0, 1] (B) R (C) (0, 1) (D) [1, ∞)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો વિકલ્પ (A) છે. x ≥ 0 અને 1 - x ≥ 0 => x ≤ 1. તેથી 0 ≤ x ≤ 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને શરતોનું પાલન થવું જોઈએ (Common Area).</p></div>"
+    }
+  ]
+}

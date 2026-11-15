@@ -1898,3 +1898,431 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ક્રમચય અને સંચય",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગણતરીના મૂળભૂત સિદ્ધાંત મુજબ, જો એક કાર્ય m રીતે અને બીજું કાર્ય n રીતે થઈ શકતું હોય, તો બંને કાર્યો ક્રમમાં કેટલી રીતે થઈ શકે?",
+      "options": "A. m + n, B. m - n, C. m × n, D. m/n",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) m × n. જ્યારે બે કાર્યો ક્રમિક રીતે કરવાના હોય ત્યારે ગુણાકારનો નિયમ લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અને' આવે તો ગુણાકાર (×) અને 'અથવા' આવે તો સરવાળો (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "5! (5 ફેક્ટોરિયલ) ની કિંમત કેટલી થાય?",
+      "options": "A. 24, B. 60, C. 120, D. 720",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 120. 5! = 5 × 4 × 3 × 2 × 1 = 120.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી 6 સુધીના ફેક્ટોરિયલ મોઢે રાખવા: 1!=1, 2!=2, 3!=6, 4!=24, 5!=120, 6!=720.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "0! ની કિંમત હંમેશા કેટલી લેવામાં આવે છે?",
+      "options": "A. 0, B. 1, C. અનંત, D. વ્યાખ્યાયિત નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1. ગણિતના નિયમ મુજબ 0! = 1 સ્વીકારવામાં આવેલ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય નો ફેક્ટોરિયલ ક્યારેય શૂન્ય ના હોય, તે હંમેશા 'એક' (1) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો nPr = 720 અને nCr = 120 હોય, તો r ની કિંમત શોધો.",
+      "options": "A. 3, B. 4, C. 5, D. 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3. nPr = r! × nCr => 720 = r! × 120 => r! = 720/120 = 6. હવે 3! = 6 હોવાથી r = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: nPr અને nCr નો ગુણોત્તર હંમેશા r! આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "nCr = nCx હોય તો નીચેનામાંથી કયું સાચું છે?",
+      "options": "A. r = x, B. r + x = n, C. A અથવા B બંને, D. એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) A અથવા B બંને. સંચયના ગુણધર્મ મુજબ nCx = nCy હોય તો x = y અથવા x + y = n થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંચયમાં 'પૂરક સંચય' નો નિયમ યાદ રાખો: nCr = nC(n-r).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "10 વ્યક્તિઓ એકબીજા સાથે એકવાર હાથ મિલાવે (Handshake), તો કુલ કેટલા હાથ મિલાવવાની ક્રિયા થશે?",
+      "options": "A. 100, B. 90, C. 45, D. 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 45. હાથ મિલાવવા માટે 2 વ્યક્તિની જરૂર પડે, તેથી 10C2 = (10 × 9) / (2 × 1) = 45.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેન્ડશેક માટેનું સૂત્ર: [n(n-1)] / 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શબ્દ 'GUJARAT' ના બધા અક્ષરોનો ઉપયોગ કરી કેટલા શબ્દો બનાવી શકાય?",
+      "options": "A. 5040, B. 2520, C. 720, D. 120",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2520. 'GUJARAT' માં કુલ 7 અક્ષરો છે જેમાં 'A' 2 વખત આવે છે. તેથી 7! / 2! = 5040 / 2 = 2520.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી વાર અક્ષર રીપીટ થાય, એટલા ફેક્ટોરિયલ વડે છેદમાં ભાગાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો nC8 = nC2 હોય, તો nC2 ની કિંમત શોધો.",
+      "options": "A. 10, B. 45, C. 90, D. 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 45. અહીં n = 8 + 2 = 10. હવે 10C2 = (10 × 9) / 2 = 45.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો nCx = nCy તો n = x + y.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અંકો 1, 2, 3, 4, 5 નો ઉપયોગ કરી (પુનરાવર્તન સિવાય) 3 અંકોની કેટલી સંખ્યા બનાવી શકાય?",
+      "options": "A. 60, B. 125, C. 120, D. 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 60. 5P3 = 5 × 4 × 3 = 60 રીતે ગોઠવણી થઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ ખાલી જગ્યા બનાવો: 5 × 4 × 3 = 60.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "7 વ્યક્તિઓને વર્તુળાકાર ટેબલ પર કેટલી રીતે બેસાડી શકાય?",
+      "options": "A. 5040, B. 720, C. 120, D. 840",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 720. વર્તુળાકાર ગોઠવણી માટેનું સૂત્ર (n-1)! છે. તેથી (7-1)! = 6! = 720.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળમાં એક વ્યક્તિને ફિક્સ કરવી પડે, એટલે n માંથી 1 બાદ કરી ફેક્ટોરિયલ લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "nC0 ની કિંમત કેટલી થાય?",
+      "options": "A. 0, B. n, C. 1, D. n!",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1. nC0 = n! / (0! × n!) = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કશું જ પસંદ ન કરવાની રીત હંમેશા 1 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "52 પત્તાના ઢગલામાંથી 2 પત્તા પસંદ કરવાની રીતો કેટલી?",
+      "options": "A. 1326, B. 2652, C. 52, D. 104",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1326. 52C2 = (52 × 51) / 2 = 26 × 51 = 1326.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પસંદગી એટલે 'સંચય' (Combination).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો nP2 = 90 હોય, તો n ની કિંમત શોધો.",
+      "options": "A. 9, B. 10, C. 11, D. 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10. n(n-1) = 90. 10 × 9 = 90 હોવાથી n = 10.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક બે સંખ્યાઓનો ગુણાકાર જુઓ જે 90 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શબ્દ 'APPLE' ના અક્ષરોથી બનતા કુલ શબ્દો કેટલા?",
+      "options": "A. 120, B. 60, C. 24, D. 240",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 60. APPLE માં 5 અક્ષર છે, P બે વાર છે. 5! / 2! = 120 / 2 = 60.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન અક્ષરોના ફેક્ટોરિયલ વડે ભાગવાનું ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "nCr + nC(r-1) = ?",
+      "options": "A. nCr+1, B. (n+1)Cr, C. (n+1)C(r+1), D. nCr",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (n+1)Cr. આ સંચયનો અગત્યનો પાસ્કલનો નિયમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર એક ઉમેરો (n+1) અને નીચે બે માંથી જે મોટું હોય (r) તે લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "8P3 ની કિંમત શોધો.",
+      "options": "A. 336, B. 512, C. 40320, D. 56",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 336. 8P3 = 8 × 7 × 6 = 336.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8 થી ઉતરતા ક્રમમાં 3 પદનો ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "એક સપ્તકોણ (Heptagon) ના વિકર્ણોની સંખ્યા કેટલી?",
+      "options": "A. 14, B. 21, C. 7, D. 28",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 14. વિકર્ણો = nC2 - n = 7C2 - 7 = 21 - 7 = 14.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકર્ણોનું ડાયરેક્ટ સૂત્ર: n(n-3)/2. 7(4)/2 = 14.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "nCr = 1 ક્યારે થાય?",
+      "options": "A. r = 0, B. r = n, C. A અને B બંને, D. r = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) A અને B બંને. nC0 = 1 અને nCn = 1 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કઈ પણ પસંદ ન કરવું અથવા બધું જ પસંદ કરવું, તેની રીત 1 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શબ્દ 'MATHEMATICS' માં સ્વર (Vowels) કેટલા છે?",
+      "options": "A. 3, B. 4, C. 5, D. 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4. સ્વર: A, E, A, I (કુલ 4 સ્વર, A બે વખત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજી સ્વર: A, E, I, O, U.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો 1/6! + 1/7! = x/8! હોય, તો x = ?",
+      "options": "A. 49, B. 64, C. 56, D. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 64. 1/6! + 1/(7×6!) = x/(8×7×6!). લસાઅ લેતા 1 + 1/7 = x/56 => 8/7 = x/56 => x = 64.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવા પ્રશ્નોમાં x = (મોટી સંખ્યા)^2 હોય છે. અહીં 8^2 = 64.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "nCr / nC(r-1) બરાબર શું થાય?",
+      "options": "A. (n-r+1)/r, B. (n+r-1)/r, C. n/r, D. (n-r)/r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (n-r+1)/r. આ સંચયનો ગુણોત્તર નિયમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n માંથી નાનું r-1 બાદ કરો અને છેદમાં મોટું r મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "3 અંકોની કેટલી યુગ્મ (Even) સંખ્યાઓ અંકો 1, 2, 3, 4, 5 ના ઉપયોગથી બનાવી શકાય? (પુનરાવર્તન વગર)",
+      "options": "A. 24, B. 30, C. 12, D. 60",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 24. એકમનો અંક 2 અથવા 4 (2 રીતે). બાકીના 2 સ્થાનો 4P2 = 12 રીતે. 2 × 12 = 24.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરત વાળું સ્થાન પહેલા ભરો. યુગ્મ એટલે છેલ્લે 2, 4, 6, 8 કે 0 જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "4 લાલ અને 3 કાળી દડામાંથી 2 દડા પસંદ કરવાની રીતો કેટલી?",
+      "options": "A. 21, B. 42, C. 7, D. 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 21. કુલ દડા 7. પસંદગી 7C2 = (7 × 6) / 2 = 21.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે રંગનો ઉલ્લેખ ન હોય ત્યારે કુલ દડા ધ્યાનમાં લેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ક્રમચય (Permutation) એટલે શું?",
+      "options": "A. પસંદગી, B. ગોઠવણી, C. વિભાજન, D. સરવાળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગોઠવણી. ક્રમચયમાં ક્રમ (Order) નું મહત્વ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમચય = 'ક્રમ' મુજબ ગોઠવણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંચય (Combination) એટલે શું?",
+      "options": "A. પસંદગી, B. ગોઠવણી, C. ક્રમ, D. ગુણાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પસંદગી. સંચયમાં ક્રમનું મહત્વ હોતું નથી, માત્ર ગ્રુપ કે પસંદગી મહત્વની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંચય = 'સમૂહ' (Selection).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "100C98 ની કિંમત કોના સમાન હોય?",
+      "options": "A. 100C2, B. 100, C. 98, D. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 100C2. nCr = nC(n-r) મુજબ 100C98 = 100C(100-98) = 100C2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણતરી સહેલી કરવા માટે મોટું 'r' હોય ત્યારે બાદબાકી કરી નાનું 'r' બનાવી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "nPn ની કિંમત કેટલી?",
+      "options": "A. n, B. 1, C. n!, D. 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) n!. nPn = n! / (n-n)! = n! / 0! = n! / 1 = n!.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n વસ્તુને n જગ્યાએ ગોઠવવાની રીત n! છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વર્તુળ પરના 10 બિંદુઓમાંથી કેટલી જીવા (Chord) દોરી શકાય?",
+      "options": "A. 10, B. 90, C. 45, D. 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 45. જીવા દોરવા 2 બિંદુ જોઈએ, તેથી 10C2 = 45.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેખાખંડ કે જીવા માટે હંમેશા nC2 વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શબ્દ 'MISSISSIPPI' માં 'S' કેટલી વખત આવે છે?",
+      "options": "A. 2, B. 3, C. 4, D. 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 4. M I S S I S S I P P I માં S ચાર વખત આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્પેલિંગ ધ્યાનથી ગણો, ભૂલ ન પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો 15Cr = 15C(r+3) હોય તો r શોધો.",
+      "options": "A. 3, B. 6, C. 12, D. 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6. r + (r+3) = 15 => 2r = 12 => r = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: nCx = nCy => x+y=n સૂત્ર વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "4 વ્યક્તિઓને એક હારમાં કેટલી રીતે ગોઠવી શકાય?",
+      "options": "A. 4, B. 12, C. 24, D. 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 24. 4P4 = 4! = 4 × 3 × 2 × 1 = 24.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઈનમાં ગોઠવણી એટલે સીધો ફેક્ટોરિયલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "nCr નું મહત્તમ મૂલ્ય ક્યારે મળે?",
+      "options": "A. r = 0, B. r = n, C. r = n/2 (જો n બેકી હોય), D. r = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) r = n/2 (જો n બેકી હોય). સંચયમાં મધ્યપદ સૌથી મોટું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેન્ટરમાં જશો તો સૌથી વધુ પસંદગી મળશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "8 પુસ્તકોમાંથી 3 પુસ્તકો કેટલી રીતે પસંદ કરી શકાય?",
+      "options": "A. 56, B. 336, C. 40, D. 120",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 56. 8C3 = (8 × 7 × 6) / (3 × 2 × 1) = 56.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે 3 છે એટલે ઉપર 8 ના ઉતરતા 3 પદ અને છેદમાં 3!.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો (n+1)! = 12 × (n-1)! હોય તો n શોધો.",
+      "options": "A. 2, B. 3, C. 4, D. 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3. (n+1)(n)(n-1)! = 12(n-1)! => (n+1)n = 12. 4 × 3 = 12 હોવાથી n = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓપ્શન પરથી n ની કિંમત મૂકી ચકાસી લો, સૌથી ફાસ્ટ રીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "અંકો 0, 1, 2, 3 નો ઉપયોગ કરી 3 અંકોની કેટલી સંખ્યા બને? (પુનરાવર્તન વગર)",
+      "options": "A. 24, B. 18, C. 48, D. 64",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 18. પ્રથમ સ્થાને 0 ન આવી શકે (3 રીતે). બાકીના 2 સ્થાનો 3P2 = 6 રીતે. 3 × 6 = 18.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય ક્યારેય આગળ ન બેસે, નહીતર 3 અંકની સંખ્યા 2 અંકની થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જો 2nC3 : nC3 = 11 : 1 હોય, તો n શોધો.",
+      "options": "A. 5, B. 6, C. 7, D. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6. ઉકેલતા: [2n(2n-1)(2n-2)/6] / [n(n-1)(n-2)/6] = 11/1 => 4(2n-1)/(n-2) = 11 => 8n-4 = 11n-22 => 3n=18 => n=6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આવા દાખલામાં ડાયરેક્ટ ઓપ્શન મૂકી ગુણોત્તર ચેક કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "n વસ્તુઓને હારમાં ગોઠવવાની રીત n! છે, તો n વસ્તુઓને વર્તુળમાં ગોઠવવાની રીત કેટલી?",
+      "options": "A. n!, B. (n+1)!, C. (n-1)!, D. n!/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (n-1)!. વર્તુળમાં સાપેક્ષ સ્થાન મહત્વનું હોવાથી એક સ્થાન ફિક્સ કરવું પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળ = હાર - 1 (ફેક્ટોરિયલ માં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "5 પુરુષો અને 2 સ્ત્રીઓમાંથી 3 વ્યક્તિઓની સમિતિ કેટલી રીતે બનાવી શકાય જેમાં ઓછામાં ઓછી 1 સ્ત્રી હોય?",
+      "options": "A. 25, B. 35, C. 10, D. 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 25. કુલ 7C3 - 5C3 (બધા જ પુરુષો હોય તે બાદ કરો) = 35 - 10 = 25.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછામાં ઓછી 1' = કુલ - એકપણ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "શબ્દ 'DIRECT' ના અક્ષરોને કેટલી રીતે ગોઠવી શકાય જેથી સ્વર હંમેશા સાથે રહે?",
+      "options": "A. 720, B. 120, C. 240, D. 48",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 240. સ્વર (I, E) ને એક બ્લોક ગણો. (D, R, C, T, [IE]) = 5 વસ્તુઓ. 5! × 2! (સ્વર અંદરોઅંદર) = 120 × 2 = 240.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમને સાથે રાખવા હોય તેમને 'દોરડા' થી બાંધી એક ગણી લેવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "10C1 + 10C2 + ... + 10C10 ની કિંમત કેટલી?",
+      "options": "A. 1024, B. 1023, C. 512, D. 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1023. કુલ સરવાળો 2^n હોય. અહીં 2^10 - 10C0 = 1024 - 1 = 1023.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: nC0 થી nCn નો સરવાળો 2^n થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "શબ્દ 'APPLE' ના અક્ષરોનો ઉપયોગ કરી કેટલા શબ્દો બને જેમાં P સાથે ન હોય?",
+      "options": "A. 60, B. 36, C. 24, D. 48",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 36. કુલ શબ્દો 60. P સાથે હોય તેવા: (A, L, E, [PP]) = 4! = 24. 60 - 24 = 36.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથે ન હોય = કુલ - સાથે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "nCr = n/r × (n-1)C(r-1) - આ વિધાન સાચું છે કે ખોટું?",
+      "options": "A. સાચું, B. ખોટું, C. કહી શકાય નહીં, D. માત્ર r=1 માટે સાચું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સાચું. આ સંચયનો અગત્યનો ગુણધર્મ છે જે ગણતરી ટૂંકી કરવા વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આને 'રિડક્શન' ફોર્મ્યુલા કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "એક થેલામાં 5 સફેદ અને 6 કાળા દડા છે. તેમાંથી 2 સફેદ અને 3 કાળા દડા પસંદ કરવાની રીતો કેટલી?",
+      "options": "A. 200, B. 10, C. 20, D. 30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 200. 5C2 × 6C3 = 10 × 20 = 200.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જુદા જુદા રંગોની પસંદગી વચ્ચે હંમેશા ગુણાકાર (×) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "6 પુરુષો અને 4 સ્ત્રીઓમાંથી 5 સભ્યોની સમિતિ કેટલી રીતે બનાવી શકાય જેમાં સ્ત્રીઓ બહુમતીમાં હોય?",
+      "options": "A. 186, B. 66, C. 100, D. 120",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 66. કિસ્સાઓ: (3F, 2M) અથવા (4F, 1M). (4C3 × 6C2) + (4C4 × 6C1) = (4 × 15) + (1 × 6) = 60 + 6 = 66.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહુમતી એટલે અડધાથી વધુ સ્ત્રીઓ લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "nPr = n! / (n-r)! માં r ની મર્યાદા શું હોય?",
+      "options": "A. r > n, B. 0 ≤ r ≤ n, C. r < 0, D. r = n + 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0 ≤ r ≤ n. વસ્તુઓ કરતા પસંદગી કે ગોઠવણી ક્યારેય વધારે ન હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r હંમેશા n થી નાનો અથવા બરાબર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "શબ્દ 'LOGARITHMS' ના અક્ષરોમાંથી 4 અક્ષરના કેટલા શબ્દો બને? (પુનરાવર્તન વગર)",
+      "options": "A. 5040, B. 10P4, C. 10C4, D. 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10P4. LOGARITHMS માં 10 અલગ અક્ષરો છે. 4 અક્ષરની ગોઠવણી 10P4 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શબ્દો બનાવવામાં ક્રમ મહત્વનો છે, એટલે P વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "nC(n-1) ની કિંમત કેટલી?",
+      "options": "A. 1, B. n, C. n-1, D. 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) n. nC(n-1) = nC1 = n.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n માંથી (n-1) પસંદ કરવા એટલે કે 1 ને કાઢી નાખવા બરાબર છે, જે n રીતે થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "જો 1, 2, 3, 4, 5 અંકોનું પુનરાવર્તન કરી શકાય, તો 3 અંકોની કેટલી સંખ્યા બને?",
+      "options": "A. 60, B. 125, C. 120, D. 243",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 125. 5 × 5 × 5 = 125.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુનરાવર્તન હોય તો n^r સૂત્ર વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "કિંમત શોધો: 5! - 3!",
+      "options": "A. 2!, B. 114, C. 117, D. 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 114. 5! = 120, 3! = 6. 120 - 6 = 114.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેક્ટોરિયલ ની બાદબાકી સીધી ન થાય, કિંમત મૂકીને જ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "શબ્દ 'BHARAT' માં કેટલા વ્યંજન (Consonants) છે?",
+      "options": "A. 2, B. 3, C. 4, D. 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 4. વ્યંજન: B, H, R, T.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A, E, I, O, U સિવાયના બધા જ વ્યંજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "7P7 ની કિંમત કેટલી થાય?",
+      "options": "A. 7, B. 49, C. 5040, D. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5040. 7P7 = 7! = 5040.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: nPn હંમેશા n! જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "જો nP4 = 12 × nP2 હોય, તો n શોધો.",
+      "options": "A. 4, B. 5, C. 6, D. 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6. n(n-1)(n-2)(n-3) = 12 × n(n-1) => (n-2)(n-3) = 12 => 4 × 3 = 12 => n-2 = 4 => n = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમિક સંખ્યાઓનો ગુણાકાર શોધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "શબ્દ 'AGAIN' ને ડિક્શનરી મુજબ ગોઠવતા 50મો શબ્દ કયો હશે? (માત્ર રીતો પૂછાય તો)",
+      "options": "A. 60, B. 120, C. 50, D. 40",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કુલ 60 શબ્દો બને. 'AGAIN' ના કુલ ક્રમચયો 5! / 2! = 60.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિક્શનરીના દાખલામાં અલ્ફાબેટિકલ ઓર્ડર મુજબ ચાલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "25C22 ની કિંમત શોધો.",
+      "options": "A. 2300, B. 300, C. 25, D. 230",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2300. 25C22 = 25C3 = (25 × 24 × 23) / (3 × 2 × 1) = 25 × 4 × 23 = 100 × 23 = 2300.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ ઉડાડવામાં 3 × 2 = 6 ને 24 સાથે ઉડાડી 4 લાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વસ્તુઓનું પુનરાવર્તન થતું હોય ત્યારે n માંથી r વસ્તુઓ ગોઠવવાની રીતો:",
+      "options": "A. nPr, B. n^r, C. r^n, D. nCr",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) n^r. દરેક સ્થાને n વિકલ્પ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુનરાવર્તન = પાવર (ઘાત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "nP1 + nC1 બરાબર શું થાય?",
+      "options": "A. n, B. 2n, C. n^2, D. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2n. nP1 = n અને nC1 = n. n + n = 2n.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n માંથી 1 પસંદ કરો કે ગોઠવો, રીત તો n જ રહેવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "જો કોઈ બહુકોણને 44 વિકર્ણો હોય, તો તેની બાજુઓની સંખ્યા કેટલી?",
+      "options": "A. 11, B. 7, C. 8, D. 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 11. n(n-3)/2 = 44 => n(n-3) = 88. 11 × 8 = 88 હોવાથી n = 11.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 88 ના એવા બે ભાગ પાડો જેનો તફાવત 3 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "100! / 98! ની કિંમત કેટલી?",
+      "options": "A. 100, B. 9900, C. 9800, D. 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9900. 100 × 99 × 98! / 98! = 100 × 99 = 9900.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા ફેક્ટોરિયલને નાના સુધી ખોલો અને ઉડાડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "શબ્દ 'INDIA' ના અક્ષરોને કેટલી રીતે ગોઠવી શકાય?",
+      "options": "A. 120, B. 60, C. 24, D. 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 60. INDIA માં 5 અક્ષર, 'I' બે વાર. 5! / 2! = 120 / 2 = 60.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: I બે વાર હોવાથી 2! થી ભાગવાનું ભૂલાય નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "nCr / nPr બરાબર શું થાય?",
+      "options": "A. r!, B. 1/r!, C. n!, D. 1/n!",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/r!. nPr = r! × nCr હોવાથી nCr / nPr = 1/r!.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંચય એ ક્રમચય કરતા r! ગણો નાનો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "6 છોકરાઓ અને 4 છોકરીઓમાંથી 5 સભ્યોની ટીમ બનાવવી છે, જેમાં ઓછામાં ઓછા 3 છોકરાઓ હોય. કયા કિસ્સા બનશે?",
+      "options": "A. (3B,2G), B. (4B,1G), C. (5B,0G), D. ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ. ઓછામાં ઓછા 3 એટલે 3, 4 કે 5 છોકરા હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછામાં ઓછું' એટલે જે સંખ્યા કહી હોય તેનાથી આગળ (વધારે) વધવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "1 થી 9 અંકોનો ઉપયોગ કરી (પુનરાવર્તન વગર) કેટલી 3 અંકોની સંખ્યા બને?",
+      "options": "A. 504, B. 729, C. 81, D. 512",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 504. 9P3 = 9 × 8 × 7 = 504.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 9 × 8 × 7 = 72 × 7 = 504.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "4 અક્ષરો ધરાવતા કેટલા શબ્દો (અર્થ સાથે કે વગર) 'ROSE' થી બનાવી શકાય? (પુનરાવર્તન વગર)",
+      "options": "A. 16, B. 24, C. 12, D. 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 24. ROSE માં 4 અલગ અક્ષરો છે, 4! = 24.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n અલગ અક્ષરો માટે સીધું n! કરી નાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જો r = n હોય, તો nCr ની કિંમત કેટલી?",
+      "options": "A. n, B. n!, C. 1, D. 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1. nCn = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ વસ્તુ પસંદ કરવાની રીત હંમેશા એક (1) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "8 વ્યક્તિઓને વર્તુળાકાર ટેબલ પર બેસાડવાની રીતો કેટલી?",
+      "options": "A. 8!, B. 7!, C. 2 × 7!, D. 8! / 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7!. (n-1)! = (8-1)! = 7!.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળમાં એક ઓછું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "3 અંકોની કેટલી અયુગ્મ (Odd) સંખ્યાઓ અંકો 1, 2, 3, 4, 5 ના ઉપયોગથી બને? (પુનરાવર્તન વગર)",
+      "options": "A. 36, B. 24, C. 60, D. 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 36. એકમનો અંક 1, 3, 5 (3 રીતે). બાકીના બે સ્થાનો 4P2 = 12 રીતે. 3 × 12 = 36.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયુગ્મ સંખ્યા માટે છેલ્લે 1, 3, 5, 7, 9 હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "0! + 1! + 2! ની કિંમત કેટલી?",
+      "options": "A. 3, B. 4, C. 6, D. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4. 1 + 1 + 2 = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 0! શૂન્ય નથી, તે 1 છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "12 વ્યક્તિઓમાંથી 11 વ્યક્તિઓની પસંદગી કેટલી રીતે થઈ શકે?",
+      "options": "A. 1, B. 12, C. 11, D. 132",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12. 12C11 = 12C1 = 12.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 માંથી 11 પસંદ કરવા એટલે કોઈ એકને કાઢી મૂકવો, જે 12 રીતે થઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "કિંમત શોધો: 10P2",
+      "options": "A. 20, B. 90, C. 45, D. 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 90. 10P2 = 10 × 9 = 90.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P માં માત્ર ગુણાકાર, C માં ગુણાકાર ભાગ્યા ફેક્ટોરિયલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "જો nCr = nC(r+1) હોય, તો n = ?",
+      "options": "A. 2r, B. 2r+1, C. r+1, D. r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2r+1. r + (r+1) = n => 2r + 1 = n.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરક સંચયના નિયમનો ઉપયોગ કરો (x + y = n).</p></div>"
+    }
+  ]
+}

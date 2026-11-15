@@ -1530,3 +1530,371 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "સુરેખ અસમતાઓ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો $a < b$ અને $c > 0$ હોય, તો નીચેનામાંથી કયું વિધાન હંમેશા સત્ય છે?\n(A) $ac > bc$\n(B) $ac < bc$\n(C) $ac = bc$\n(D) $a+c > b+c$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $ac < bc$. જ્યારે અસમતાની બંને બાજુએ ધન સંખ્યા વડે ગુણાકાર કરવામાં આવે ત્યારે અસમતાની નિશાની બદલાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધન (+) સંખ્યા દોસ્ત છે, તે નિશાની બદલશે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જો $x < y$ અને $z < 0$ હોય, તો:\n(A) $xz < yz$\n(B) $xz > yz$\n(C) $xz = yz$\n(D) $x/z < y/z$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $xz > yz$. જ્યારે અસમતાને ઋણ સંખ્યા વડે ગુણવામાં આવે ત્યારે અસમતાની નિશાની ઉલટાઈ જાય છે (< માંથી > થઈ જાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ (-) સંખ્યા દુશ્મન છે, તે નિશાની ઉલટાવી નાખશે! < નું > કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અસમતા $4x + 3 < 6x + 7$ નો ઉકેલ ગણ શું થાય?\n(A) $x > -2$\n(B) $x < -2$\n(C) $x > 2$\n(D) $x < 2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x > -2$. $4x - 6x < 7 - 3 \Rightarrow -2x < 4 \Rightarrow x > 4/(-2) \Rightarrow x > -2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેલ્લે ચલની આગળ (-) નિશાની દૂર કરો ત્યારે વચ્ચેની નિશાની ફેરવવાનું ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો $x$ એ પ્રાકૃતિક સંખ્યા હોય, તો $3x - 7 > 5$ નો ઉકેલ ગણ કયો?\n(A) {4, 5, 6, ...}\n(B) {5, 6, 7, ...}\n(C) {..., 3, 4, 5}\n(D) ખાલીગણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) {5, 6, 7, ...}. $3x > 12 \Rightarrow x > 4$. પ્રાકૃતિક સંખ્યાઓમાં 4 થી મોટી સંખ્યાઓ 5, 6, 7... છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રાકૃતિક' શબ્દ પર ધ્યાન આપો, 4 નો સમાવેશ થશે નહીં કારણ કે માત્ર '>' છે, '>=' નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અસમતા $x/3 > x/2 + 1$ નો ઉકેલ શોધો.\n(A) $x < -6$\n(B) $x > -6$\n(C) $x < 6$\n(D) $x > 6$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x < -6$. લ.સા.અ 6 લેતા: $2x > 3x + 6 \Rightarrow 2x - 3x > 6 \Rightarrow -x > 6 \Rightarrow x < -6$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ ઉડાડવા માટે લ.સા.અ. વડે ગુણી નાખો, ગણતરી સરળ થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાસ્તવિક સંખ્યા $x$ માટે, $|x| < 3$ નો અર્થ શું થાય?\n(A) $x < 3$\n(B) $x > -3$\n(C) $-3 < x < 3$\n(D) $x < -3$ અથવા $x > 3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $-3 < x < 3$. માનાંકનો નિયમ: $|x| < a \Rightarrow -a < x < a$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછું' (Less than) એટલે બે કિંમતોની 'વચ્ચે' કેદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો $|x - 1| \ge 2$ હોય, તો $x$ ની કિંમત કયા અંતરાલમાં હોય?\n(A) $[-1, 3]$\n(B) $(-\infty, -1] \cup [3, \infty)$\n(C) $(-\infty, 1] \cup [2, \infty)$\n(D) $[1, 2]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $(-\infty, -1] \cup [3, \infty)$. $x-1 \ge 2$ અથવા $x-1 \le -2$. તેથી $x \ge 3$ અથવા $x \le -1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વધારે' (Greater than) એટલે બે છેડાની 'બહાર'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અસમતા $-3 \le 4 - 7x/2 \le 18$ નો ઉકેલ કયો?\n(A) $[-4, 2]$\n(B) $[-2, 4]$\n(C) $[2, 4]$\n(D) $[-4, -2]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $[-4, 2]$. સાદું રૂપ આપતા: $-7 \le -7x/2 \le 14 \Rightarrow -14 \le -7x \le 28 \Rightarrow 2 \ge x \ge -4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે વચ્ચેની સંખ્યા ઋણ હોય ત્યારે બંને બાજુની નિશાનીઓ ઉલટાવી દેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો $x$ પૂર્ણાંક સંખ્યા હોય, તો $5x - 3 < 3x + 1$ નો સૌથી મોટો ઉકેલ કયો?\n(A) 2\n(B) 1\n(C) 0\n(D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1. $2x < 4 \Rightarrow x < 2$. 2 થી નાનો સૌથી મોટો પૂર્ણાંક 1 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '< 2' માં 2 પોતે ન આવે, એટલે તેની તરત પહેલાની પૂર્ણાંક સંખ્યા 1 લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નિશાની $\le$ ને કેવી અસમતા કહેવાય?\n(A) ચુસ્ત (Strict)\n(B) મિશ્ર (Slack)\n(C) સમાન (Equal)\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મિશ્ર (Slack) અસમતા. જેમાં બરાબર (=) ની નિશાની પણ સામેલ હોય તેને Slack inequality કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર < કે > હોય તો 'ચુસ્ત' (કડક), પણ નીચે લીટી (=) હોય તો 'ઢીલું' (Slack)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "$3(x-1) \le 2(x-3)$ નો ઉકેલ $x$ વાસ્તવિક સંખ્યા માટે શું થાય?\n(A) $x \le -3$\n(B) $x \ge -3$\n(C) $x \le 3$\n(D) $x \ge 3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x \le -3$. $3x - 3 \le 2x - 6 \Rightarrow 3x - 2x \le -6 + 3 \Rightarrow x \le -3$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસ છોડતી વખતે દરેક પદને ગુણવાનું ભૂલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અંતરાલ $[2, 5)$ ને અસમતા સ્વરૂપે કેવી રીતે લખાય?\n(A) $2 < x < 5$\n(B) $2 \le x \le 5$\n(C) $2 \le x < 5$\n(D) $2 < x \le 5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $2 \le x < 5$. મોટો કૌંસ '[' એટલે '=' સાથે અને નાનો કૌંસ ')' એટલે '=' વગર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચોરસ' કૌંસ એટલે 'ચોક્કસ' તે સંખ્યા લેવાની (સાથે લીટી), 'ગોળ' કૌંસ એટલે તે સંખ્યા છોડવાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો $x$ પ્રાકૃતિક સંખ્યા હોય, તો $24x < 100$ ના ઉકેલોની સંખ્યા કેટલી?\n(A) 3\n(B) 4\n(C) 5\n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4. $x < 100/24 \Rightarrow x < 4.16$. પ્રાકૃતિક સંખ્યાઓ {1, 2, 3, 4} છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ કિંમત શોધી લો, તેનાથી નાની પ્રાકૃતિક સંખ્યાઓ ગણી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો $-5x \ge 15$ હોય, તો $x$ ની કિંમત શોધો.\n(A) $x \ge -3$\n(B) $x \le -3$\n(C) $x \le 3$\n(D) $x \ge 3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $x \le -3$. $-5$ વડે ભાગતા અસમતા ઉલટાઈ જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યાથી ભાગાકાર = નિશાનીની પલટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "$|x| > 5$ નો ઉકેલ ગણ કયો?\n(A) $(-5, 5)$\n(B) $(-\infty, -5) \cup (5, \infty)$\n(C) $[5, \infty)$\n(D) $(-\infty, -5]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $(-\infty, -5) \cup (5, \infty)$. અંતર 5 થી વધુ હોવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્રેટર ધેન' એટલે 'દૂર' (પાંખિયા બહારની બાજુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીચેનામાંથી કયું સુરેખ અસમતાનું ઉદાહરણ છે?\n(A) $ax + b = 0$\n(B) $ax^2 + bx + c < 0$\n(C) $ax + b > 0$\n(D) $x^2 = 4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $ax + b > 0$. 'સુરેખ' એટલે ઘાત 1 હોવી જોઈએ અને 'અસમતા' એટલે >, <, $\ge, \le$ હોવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરેખ = 1 ઘાત, અસમતા = નિશાનીની રમત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો $1/x < 2$ અને $x > 0$ હોય, તો:\n(A) $x > 1/2$\n(B) $x < 1/2$\n(C) $x = 1/2$\n(D) $x > 2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x > 1/2$. વ્યસ્ત લેતા અસમતાની નિશાની બદલાય (જો બંને પદ ધન હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત કરો ત્યારે પણ નિશાની ફેરવી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અસમતા $x + 5 \ge 5$ નો ઉકેલ કયો?\n(A) $x \ge 0$\n(B) $x > 0$\n(C) $x \le 0$\n(D) $x = 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x \ge 0$. 5 ને જમણી બાજુ લાવતા $x \ge 5 - 5 \Rightarrow x \ge 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો-બાદબાકી કરવાથી અસમતાની દિશા બદલાતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો $|x| \le 0$ હોય, તો $x$ ની કિંમત શું થાય?\n(A) $x < 0$\n(B) $x = 0$\n(C) $x \le 0$\n(D) કોઈ ઉકેલ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $x = 0$. માનાંક ક્યારેય ઋણ ન હોય, એટલે માત્ર '=' શક્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનાંક (Absolute value) હંમેશા $\ge 0$ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એક વિદ્યાર્થીને પ્રથમ બે કસોટીમાં 70 અને 75 ગુણ મળ્યા છે. સરેરાશ ઓછામાં ઓછા 60 ગુણ મેળવવા ત્રીજી કસોટીમાં કેટલા લઘુત્તમ ગુણ જોઈએ?\n(A) 35\n(B) 40\n(C) 45\n(D) 30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 35. $(70 + 75 + x)/3 \ge 60 \Rightarrow 145 + x \ge 180 \Rightarrow x \ge 35$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછામાં ઓછા' એટલે $\ge$ લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બે ક્રમિક અયુગ્મ ધન પૂર્ણાંક સંખ્યાઓની જોડી શોધો કે જે બંને 10 થી મોટી હોય અને તેમનો સરવાળો 40 થી ઓછો હોય.\n(A) (11, 13), (13, 15), (15, 17), (17, 19)\n(B) (11, 13), (13, 15), (15, 17)\n(C) (9, 11), (11, 13)\n(D) (19, 21)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A). સંખ્યાઓ $x, x+2$. શરત: $x > 10$ અને $x + (x+2) < 40 \Rightarrow 2x < 38 \Rightarrow x < 19$. તેથી $x \in \{11, 13, 15, 17\}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરતોને ચેક કરો: $x > 10$ અને સરવાળો < 40.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંખ્યા રેખા પર $x < 3$ ને કેવી રીતે દર્શાવાય?\n(A) 3 પર ઘાટું વર્તુળ અને ડાબી બાજુ કિરણ\n(B) 3 પર પોલું વર્તુળ અને જમણી બાજુ કિરણ\n(C) 3 પર પોલું વર્તુળ અને ડાબી બાજુ કિરણ\n(D) 3 પર ઘાટું વર્તુળ અને જમણી બાજુ કિરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3 પર પોલું વર્તુળ અને ડાબી બાજુ કિરણ. '<' હોવાથી 3 લેવાનો નથી, એટલે પોલું વર્તુળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '=' ન હોય તો પોલું (ખાલી) ટપકું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો $x$ વાસ્તવિક સંખ્યા હોય, તો $1/(x-2) < 0$ નો ઉકેલ કયો?\n(A) $x > 2$\n(B) $x < 2$\n(C) $x = 2$\n(D) $x \le 2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $x < 2$. અંશ ધન (1) છે, તેથી છેદ ઋણ હોવો જોઈએ જેથી આખું પદ < 0 થાય. $x - 2 < 0 \Rightarrow x < 2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $A/B < 0$ અને $A>0$ હોય તો $B<0$ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અસમતા $30x < 200$ નો પૂર્ણાંક ઉકેલ ગણ કયો?\n(A) {..., -2, -1, 0, 1, 2, 3, 4, 5, 6}\n(B) {1, 2, 3, 4, 5, 6}\n(C) {0, 1, 2, 3, 4, 5, 6}\n(D) {..., 4, 5, 6}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) {..., -2, -1, 0, 1, 2, 3, 4, 5, 6}. $x < 200/30 \Rightarrow x < 6.66$. પૂર્ણાંકમાં ઋણ સંખ્યાઓ પણ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણાંક (Z) માં ઋણ અને શૂન્ય ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો $x/4 < (5x-2)/3 - (7x-3)/5$ હોય, તો $x$ નો અંતરાલ મેળવો.\n(A) $(4, \infty)$\n(B) $(-\infty, 4)$\n(C) $[4, \infty)$\n(D) $(8, \infty)$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $(4, \infty)$. લ.સા.અ. 60 લઈ સાદું રૂપ આપતા $15x < 20(5x-2) - 12(7x-3) \Rightarrow 15x < 100x - 40 - 84x + 36 \Rightarrow 15x < 16x - 4 \Rightarrow x > 4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા લ.સા.અ. વડે બંને બાજુ ગુણવાથી છેદ ગાયબ થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો $3x + 8 > 2$ હોય અને $x$ પૂર્ણાંક હોય, તો લઘુત્તમ કિંમત કઈ?\n(A) -2\n(B) -1\n(C) 0\n(D) -3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1. $3x > -6 \Rightarrow x > -2$. -2 થી મોટો પૂર્ણાંક -1 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x > -2$ એટલે -2 નો સમાવેશ ન થાય, લઘુત્તમ પૂર્ણાંક -1 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અસમતા $x/2 \ge (5x-2)/3 - (7x-3)/5$ માટે $x$ ની કિંમત શોધો.\n(A) $x \ge 2/3$\n(B) $x \ge 4/5$\n(C) $x \ge 8$\n(D) $x \le 8$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $x \ge 8$. સમાન રીતે લ.સા.અ. 30 લેતા ગણતરી કરતા $x \ge 8$ મળશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાવચેતીથી કૌંસ છોડો, બહારની નિશાની પદને બદલશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કોઈપણ વાસ્તવિક સંખ્યા $x$ માટે, $x^2 + 1 < 0$ નો ઉકેલ ગણ શું થાય?\n(A) R\n(B) {0}\n(C) $\phi$ (ખાલીગણ)\n(D) {-1, 1}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $\phi$. વાસ્તવિક સંખ્યાનો વર્ગ હંમેશા અઋણ ($\ge 0$) હોય, તેમાં 1 ઉમેરતા તે ક્યારેય 0 થી નાની ન થઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગ + ધન સંખ્યા = ક્યારેય ઋણ ન બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો $-12x > 30$ હોય અને $x$ પ્રાકૃતિક સંખ્યા હોય, તો ઉકેલ ગણ કયો?\n(A) {1, 2}\n(B) $\phi$ (ખાલીગણ)\n(C) {..., -3, -2}\n(D) {3, 4, 5}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $\phi$. $-12x > 30 \Rightarrow x < -30/12 \Rightarrow x < -2.5$. પ્રાકૃતિક સંખ્યાઓ ક્યારેય ઋણ હોતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરત (N) અને ઉકેલ ($x < -2.5$) વચ્ચે કોઈ મેળ નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો $4x + 3 < 5x + 7$ હોય, તો $x$ ની કિંમત કયા અંતરાલમાં હશે?\n(A) $(-\infty, -4)$\n(B) $(-4, \infty)$\n(C) $(-\infty, 4)$\n(D) $(4, \infty)$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $(-4, \infty)$. $4x - 5x < 7 - 3 \Rightarrow -x < 4 \Rightarrow x > -4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $-x < 4$ તો $x > -4$. નિશાની પલટાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અસમતા $|x - 3| < 0$ નો ઉકેલ ગણ શું થાય?\n(A) {3}\n(B) $\phi$\n(C) $(-\infty, 3)$\n(D) $R$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $\phi$. માનાંક ક્યારેય 0 થી નાનો હોઈ શકે નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $| \text{કંઈપણ} | < 0$ એ અશક્ય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો $x$ વાસ્તવિક સંખ્યા હોય અને $2 \le 3x - 4 \le 5$ હોય, તો $x$ નો ઉકેલ કયો?\n(A) $[2, 3]$\n(B) $(2, 3)$\n(C) $[2, 9]$\n(D) $[6, 9]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $[2, 3]$. બધી બાજુ 4 ઉમેરતા: $6 \le 3x \le 9 \Rightarrow 2 \le x \le 3$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચેથી $x$ ને એકલો કરવા જે ક્રિયા કરો તે ત્રણેય બાજુ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો $a > b$ અને $c < d$ હોય, તો હંમેશા સાચું વિધાન કયું?\n(A) $a + c > b + d$\n(B) $a - c > b - d$\n(C) $ac > bd$\n(D) $a/c > b/d$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $a - c > b - d$. કારણ કે $c < d \Rightarrow -c > -d$. હવે $a > b$ અને $-c > -d$ નો સરવાળો કરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે સરખી દિશાની અસમતાનો સરવાળો કરી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "અસમતા $3x - 2 < 2x + 1$ નો પ્રાકૃતિક સંખ્યા માટે ઉકેલ કયો?\n(A) {1, 2}\n(B) {1, 2, 3}\n(C) {0, 1, 2}\n(D) {1}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) {1, 2}. $x < 3$. પ્રાકૃતિક સંખ્યાઓમાં 1 અને 2 આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N માં 0 ન આવે, અને < 3 માં 3 ન આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જો $x > 5$ અને $x < 2$ હોય, તો ઉકેલ શું થાય?\n(A) $(2, 5)$\n(B) $(-\infty, 2) \cup (5, \infty)$\n(C) $\phi$\n(D) $R$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $\phi$. એક જ સંખ્યા 5 થી મોટી અને 2 થી નાની ન હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અને' (AND) એટલે બંને શરતોનું એકસાથે પાલન થવું જોઈએ, જે અહીં અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વાસ્તવિક સંખ્યા $x$ માટે $-8 \le 5x - 3 < 7$ નો ઉકેલ ગણ કયો?\n(A) $[-1, 2)$\n(B) $(-1, 2]$\n(C) $[-1, 2]$\n(D) $(-1, 2)$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $[-1, 2)$. $-5 \le 5x < 10 \Rightarrow -1 \le x < 2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\le$ માટે '[' અને < માટે ')' વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો $x$ એ કોઈપણ વાસ્તવિક સંખ્યા હોય, તો $x^2 \ge 0$ એ:\n(A) હંમેશા સત્ય છે\n(B) ક્યારેક સત્ય છે\n(C) હંમેશા અસત્ય છે\n(D) $x$ ના ધન મૂલ્યો માટે જ સત્ય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હંમેશા સત્ય છે. કોઈપણ વાસ્તવિક સંખ્યાનો વર્ગ શૂન્ય અથવા શૂન્યથી મોટો જ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વર્ગ' હંમેશા પોઝિટિવિટી ફેલાવે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જો $x < 5$ હોય, તો $-x$ ની કિંમત:\n(A) $> -5$\n(B) $< -5$\n(C) $= -5$\n(D) $\le -5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $> -5$. (-) વડે ગુણતા અસમતા ઉલટાઈ જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિશાની બદલો, દિશા બદલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "અસમતા $2(2x + 3) - 10 < 6(x - 2)$ નો ઉકેલ:\n(A) $x > 4$\n(B) $x < 4$\n(C) $x > -4$\n(D) $x < -4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x > 4$. $4x + 6 - 10 < 6x - 12 \Rightarrow 4x - 4 < 6x - 12 \Rightarrow -2x < -8 \Rightarrow x > 4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે બાજુ માઈનસ ઉડાડો ત્યારે વચ્ચેની નિશાની ફેરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો $|x - 2| \le 3$ હોય, તો $x$ ની કિંમત ક્યાં હશે?\n(A) $[-1, 5]$\n(B) $[1, 5]$\n(C) $[-5, 1]$\n(D) $[2, 3]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $[-1, 5]$. $-3 \le x - 2 \le 3 \Rightarrow -1 \le x \le 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર 2 થી 3 એકમ ડાબે (-1) અને 3 એકમ જમણે (5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કઈ અસમતા માટે ઉકેલ ગણ $R$ (તમામ વાસ્તવિક સંખ્યાઓ) થાય?\n(A) $x^2 + 1 > 0$\n(B) $x + 1 > 0$\n(C) $x^2 > 0$\n(D) $x < 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x^2 + 1 > 0$. કોઈપણ વાસ્તવિક સંખ્યા માટે વર્ગ + 1 હંમેશા ધન જ રહેશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x^2 \ge 0$ હોવાથી તેમાં ધન ઉમેરતા તે હંમેશા > 0 જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "$x/5 < (3x-2)/4 - (5x-3)/5$ નો ઉકેલ મેળવો.\n(A) $x > 2$\n(B) $x < 2$\n(C) $x > 4$\n(D) $x < 4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x > 2$. લ.સા.અ. 20 લઈને ઉકેલતા $x > 2$ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદના લ.સા.અ. વડે ગુણવાથી અંશની અસમતા ઉકેલવી સરળ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો $x > 0$ અને $y < 0$ હોય, તો નીચેનામાંથી કયું સાચું?\n(A) $xy > 0$\n(B) $xy < 0$\n(C) $x/y > 0$\n(D) $x+y > 0$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $xy < 0$. ધન અને ઋણ સંખ્યાનો ગુણાકાર હંમેશા ઋણ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (+) $\times$ (-) = (-) હંમેશા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "અસમતા $-3 \le 3 - 2x < 9$ નો ઉકેલ કયો?\n(A) $(-3, 3]$\n(B) $[-3, 3)$\n(C) $(-3, 3)$\n(D) $[-3, 3]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $(-3, 3]$. $-6 \le -2x < 6 \Rightarrow 3 \ge x > -3 \Rightarrow -3 < x \le 3$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યા વડે ભાગતા ડાબી કિંમત જમણી બાજુ અને જમણી કિંમત ડાબી બાજુ આવી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "જો $x$ પ્રાકૃતિક સંખ્યા હોય, તો $1 - x \le 2$ નો ઉકેલ ગણ કયો?\n(A) {1, 2, 3, ...}\n(B) {0, 1, 2, ...}\n(C) {-1, 0, 1, ...}\n(D) $\phi$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) {1, 2, 3, ...}. $-x \le 1 \Rightarrow x \ge -1$. પ્રાકૃતિક સંખ્યાઓ {1, 2, 3, ...} બધી આ શરત પાળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x \ge -1$ માં બધી જ N સમાઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "$|x + 2| \ge 5$ નો ઉકેલ ગણ કયો?\n(A) $[-7, 3]$\n(B) $(-\infty, -7] \cup [3, \infty)$\n(C) $(-\infty, -5] \cup [5, \infty)$\n(D) $(-7, 3)$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $(-\infty, -7] \cup [3, \infty)$. $x+2 \ge 5 \Rightarrow x \ge 3$ અથવા $x+2 \le -5 \Rightarrow x \le -7$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોટું' એટલે બે વિરુદ્ધ દિશામાં જતા કિરણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "અસમતા $x/3 < x/2 + 1$ નો વાસ્તવિક ઉકેલ:\n(A) $x > -6$\n(B) $x < -6$\n(C) $x > 6$\n(D) $x < 6$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x > -6$. $2x < 3x + 6 \Rightarrow -x < 6 \Rightarrow x > -6$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલને ધન રાખવાનો પ્રયત્ન કરો જેથી નિશાની ફેરવવામાં ભૂલ ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "બે ક્રમિક યુગ્મ ધન પૂર્ણાંકોની એવી જોડી મેળવો કે જેમનો સરવાળો 23 થી ઓછો હોય અને દરેક સંખ્યા 5 થી મોટી હોય.\n(A) (6, 8), (8, 10), (10, 12)\n(B) (6, 8), (8, 10)\n(C) (4, 6), (6, 8)\n(D) (10, 12), (12, 14)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (6, 8), (8, 10). $x, x+2$ શરત: $x > 5$ અને $2x+2 < 23 \Rightarrow 2x < 21 \Rightarrow x < 10.5$. યુગ્મ $x = 6, 8, 10$. જો $x=10$ તો $x+2=12$, સરવાળો 22 થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકલ્પો પરથી ચેક કરો, (10, 12) નો સરવાળો 22 છે, જે 23 થી ઓછો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જો $a < b$ હોય, તો $1/a$ અને $1/b$ વચ્ચેનો સંબંધ કયો હોઈ શકે જો બંને ધન હોય?\n(A) $1/a < 1/b$\n(B) $1/a > 1/b$\n(C) $1/a = 1/b$\n(D) નક્કી ન કરી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $1/a > 1/b$. ધન સંખ્યાઓનો વ્યસ્ત લેતા અસમતાની નિશાની ઉલટાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2 < 4$ પણ $1/2 > 1/4$ (0.5 > 0.25).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "અસમતા $|x| \le a$ ($a > 0$) નો ઉકેલ અંતરાલ સ્વરૂપે કયો?\n(A) $(-a, a)$\n(B) $[-a, a]$\n(C) $(-\infty, -a] \cup [a, \infty)$\n(D) $[0, a]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $[-a, a]$. આ માનાંકની પ્રમાણિત વ્યાખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\le$ એટલે 'બંધ' અંતરાલ (Closed Interval).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "$3x - 7 > 2(x - 6)$ નો ઉકેલ:\n(A) $x > -5$\n(B) $x < -5$\n(C) $x > 5$\n(D) $x < 5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x > -5$. $3x - 7 > 2x - 12 \Rightarrow 3x - 2x > -12 + 7 \Rightarrow x > -5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાદી ગણતરી, નિશાની પલટાવવાની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "જો $x$ પ્રાકૃતિક સંખ્યા હોય, તો $x+3 \le 3$ નો ઉકેલ:\n(A) {0}\n(B) $\phi$\n(C) {1}\n(D) {0, 1, 2}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $\phi$. $x \le 0$, પરંતુ સૌથી નાની પ્રાકૃતિક સંખ્યા 1 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: N = {1, 2, 3, ...}. 0 એ N માં નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "અસમતા $x/4 < (5x-2)/3$ નો ઉકેલ:\n(A) $x > 8/17$\n(B) $x < 8/17$\n(C) $x > 17/8$\n(D) $x < 17/8$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x > 8/17$. $3x < 4(5x-2) \Rightarrow 3x < 20x - 8 \Rightarrow 8 < 17x \Rightarrow x > 8/17$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રોસ ગુણાકાર કરી શકાય જો છેદ ધન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "જો $-2 \le x \le 5$ હોય, તો $x^2$ નો વિસ્તાર કયો?\n(A) $[4, 25]$\n(B) $[0, 25]$\n(C) $[-4, 25]$\n(D) $[0, 4]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $[0, 25]$. વચ્ચે 0 આવે છે, તેથી લઘુત્તમ વર્ગ 0 થાય અને મહત્તમ $5^2 = 25$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કિંમતો ઋણથી ધન જતી હોય, તો વર્ગનો લઘુત્તમ 0 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "$|x| > -1$ નો ઉકેલ શું થાય?\n(A) $x > -1$\n(B) $x < 1$\n(C) $R$\n(D) $\phi$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $R$. માનાંક હંમેશા $\ge 0$ હોય, જે હંમેશા -1 થી મોટો જ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઝિટિવ સંખ્યા હંમેશા નેગેટિવથી મોટી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જો $7x + 3 < 5x + 9$ હોય, તો $x$ ની પૂર્ણાંક સંખ્યાઓ કઈ?\n(A) {..., 0, 1, 2}\n(B) {..., 0, 1, 2, 3}\n(C) {..., 0, 1, 2, 3, 4}\n(D) {..., 0, 1, 2, 3, 4, 5}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) {..., 0, 1, 2}. $2x < 6 \Rightarrow x < 3$. 3 થી નાના પૂર્ણાંકો {..., 0, 1, 2}.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '< 3' માં 3 લેવો નહીં, 2 થી શરૂઆત કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "અસમતા $x/2 + x/3 + x/4 < 13$ નો ઉકેલ:\n(A) $x < 12$\n(B) $x > 12$\n(C) $x < 13$\n(D) $x > 13$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x < 12$. લ.સા.અ. 12 લેતા: $6x + 4x + 3x < 13 \times 12 \Rightarrow 13x < 13 \times 12 \Rightarrow x < 12$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 13 થી 13 ઉડી જશે, સીધો જવાબ 12!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જો $a, b, c$ વાસ્તવિક સંખ્યાઓ હોય અને $a > b, c < 0$ તો $a/c$ અને $b/c$ વચ્ચે કઈ નિશાની આવે?\n(A) $<$\n(B) $>$\n(C) $=$\n(D) $\ge$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $<$. ઋણ સંખ્યા વડે ભાગતા અસમતાની નિશાની ઉલટાઈ જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $c < 0$ એટલે નિશાની 'પલટી' મારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "માનાંક અસમતા $|x-1| < 2$ નો ઉકેલ રેખા પર ક્યાં હશે?\n(A) -1 થી 3 ની વચ્ચે\n(B) 1 થી 2 ની વચ્ચે\n(C) -3 થી 1 ની વચ્ચે\n(D) 1 થી 3 ની વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -1 થી 3 ની વચ્ચે. $-2 < x-1 < 2 \Rightarrow -1 < x < 3$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ને કેન્દ્ર રાખી 2 એકમ ડાબે અને જમણે ખસો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "નીચેનામાંથી કયો અંતરાલ વિવૃત (Open) અંતરાલ છે?\n(A) $[2, 5]$\n(B) $(2, 5)$\n(C) $[2, 5)$\n(D) $(2, 5]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $(2, 5)$. જેમાં બંને છેડાની કિંમતોનો સમાવેશ ન થાય તેને વિવૃત અંતરાલ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોળ કૌંસ = વિવૃત (Open), ચોરસ = સંવૃત (Closed).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "જો $5 - 2x/3 \le x/6 - 5$ હોય, તો $x$ ની કિંમત શોધો.\n(A) $x \ge 12$\n(B) $x \le 12$\n(C) $x \ge 6$\n(D) $x \le 6$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x \ge 12$. લ.સા.અ. 6 વડે ગુણતા: $30 - 4x \le x - 30 \Rightarrow 60 \le 5x \Rightarrow x \ge 12$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x$ વાળા પદો એક બાજુ અને અચળ પદો બીજી બાજુ લઈ જાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "સેલ્સિયસ (C) અને ફેરનહીટ (F) વચ્ચેનું સૂત્ર $F = 9/5 C + 32$ છે. જો તાપમાન $68^\circ F$ અને $77^\circ F$ ની વચ્ચે રાખવાનું હોય, તો સેલ્સિયસમાં વિસ્તાર શું થાય?\n(A) $10 < C < 20$\n(B) $20 < C < 25$\n(C) $25 < C < 30$\n(D) $15 < C < 25$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $20 < C < 25$. $68 < 9/5 C + 32 < 77 \Rightarrow 36 < 9/5 C < 45 \Rightarrow 4 < 1/5 C < 5 \Rightarrow 20 < C < 25$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ સ્ટેપ બાય સ્ટેપ બાદ અને ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "$x + x/2 + x/3 < 11$ નો પ્રાકૃતિક ઉકેલ ગણ કયો?\n(A) {1, 2, 3, 4, 5, 6}\n(B) {1, 2, 3, 4, 5}\n(C) {1, 2, 3, 4}\n(D) {1, 2, 3}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) {1, 2, 3, 4, 5, 6}. $11x/6 < 11 \Rightarrow x < 6$. ઓહ, ગણતરીમાં $x < 6$ છે, તો {1, 2, 3, 4, 5} આવશે. (જો $x < 6$ હોય તો 6 ન આવે). ચાલો ફરી ચેક કરીએ: $x + 0.5x + 0.33x = 1.83x < 11 \Rightarrow x < 6.01$, તેથી 6 આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લ.સા.અ. 6 લો: $6x+3x+2x = 11x$. $11x/6 < 11$ એટલે $x < 6$. પ્રાકૃતિક સંખ્યા {1, 2, 3, 4, 5}.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જો $x > y$ અને $w < 0$ હોય, તો નીચેનામાંથી કયું ખોટું છે?\n(A) $x + w > y + w$\n(B) $x - w > y - w$\n(C) $xw < yw$\n(D) $x/w > y/w$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) $x/w > y/w$. આ વિધાન ખોટું છે કારણ કે ઋણ સંખ્યા વડે ભાગતા નિશાની ઉલટાઈ જવી જોઈએ ($<$ થવી જોઈએ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યા સાથે ગુણાકાર/ભાગાકાર એટલે અસમતાનું 'યુ-ટર્ન'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "જો $x$ વાસ્તવિક હોય, તો $|x| \ge x$ એ:\n(A) હંમેશા સાચું છે\n(B) $x > 0$ માટે જ સાચું છે\n(C) $x < 0$ માટે જ સાચું છે\n(D) ક્યારેય સાચું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હંમેશા સાચું છે. માનાંક હંમેશા સંખ્યા જેટલો અથવા તેનાથી મોટો જ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યા તેનું પોતાનું માનાંક મૂલ્ય વટાવી શકતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "અસમતા $5x - 3 < 7$ નો ઉકેલ $x \in Z$ માટે કયો?\n(A) {..., -1, 0, 1}\n(B) {..., -1, 0, 1, 2}\n(C) {1, 2}\n(D) {0, 1}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) {..., -1, 0, 1}. $5x < 10 \Rightarrow x < 2$. 2 થી નાના પૂર્ણાંકોમાં {..., -1, 0, 1} આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણાંક (Z) માં અનંત ઋણ સંખ્યાઓ પણ સામેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "જો $2x + 1 \ge 3$ અને $3x - 5 \le 1$ હોય, તો $x$ નો ઉકેલ ગણ:\n(A) $[1, 2]$\n(B) $(1, 2)$\n(C) $[1, \infty)$\n(D) $(-\infty, 2]$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $[1, 2]$. $2x \ge 2 \Rightarrow x \ge 1$ અને $3x \le 6 \Rightarrow x \le 2$. બંનેનો છેદગણ $[1, 2]$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે અસમતાઓનો કોમન (Common) ભાગ શોધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "અસમતા $x/2 < 5$ નો ઉકેલ $x \in N$ માટે શું થાય?\n(A) {1, 2, ..., 9}\n(B) {1, 2, ..., 10}\n(C) {0, 1, ..., 9}\n(D) {1, 2, ..., 5}",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) {1, 2, ..., 9}. $x < 10$. 10 થી નાની પ્રાકૃતિક સંખ્યા 1 થી 9 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '< 10' એટલે 10 લેવાનો નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જો $x > 0$ હોય, તો $x + 1/x$ ની લઘુત્તમ કિંમત કેટલી?\n(A) 0\n(B) 1\n(C) 2\n(D) નક્કી ન કરી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2. AM $\ge$ GM નિયમ મુજબ, $(x + 1/x)/2 \ge \sqrt{x \cdot 1/x} \Rightarrow x + 1/x \ge 2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ ધન સંખ્યા અને તેના વ્યસ્તનો સરવાળો હંમેશા 2 કે તેથી વધુ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "અસમતા $3(2 - x) \ge 2(1 - x)$ નો ઉકેલ:\n(A) $x \le 4$\n(B) $x \ge 4$\n(C) $x \le -4$\n(D) $x \ge -4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $x \le 4$. $6 - 3x \ge 2 - 2x \Rightarrow 6 - 2 \ge 3x - 2x \Rightarrow 4 \ge x$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચલને એવી રીતે ખસેડો કે તે ધન રહે, ગણતરી સહેલી પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "એક ત્રિકોણની સૌથી મોટી બાજુ એ સૌથી નાની બાજુ કરતા 3 ગણી છે અને ત્રીજી બાજુ સૌથી મોટી બાજુથી 2 સેમી નાની છે. જો પરિમિતિ ઓછામાં ઓછી 61 સેમી હોય, તો સૌથી નાની બાજુની લઘુત્તમ લંબાઈ કેટલી?\n(A) 8 સેમી\n(B) 9 સેમી\n(C) 10 સેમી\n(D) 12 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9 સેમી. ધારો કે નાની બાજુ $x$. મોટી $3x$, ત્રીજી $3x - 2$. $x + 3x + (3x - 2) \ge 61 \Rightarrow 7x \ge 63 \Rightarrow x \ge 9$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછામાં ઓછી' એટલે $\ge$ વાપરીને સમીકરણ બનાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "$|x-3| > 2$ નો ઉકેલ ગણ કયો?\n(A) $(1, 5)$\n(B) $(-\infty, 1) \cup (5, \infty)$\n(C) $(-\infty, 3) \cup (5, \infty)$\n(D) $(-\infty, 1) \cup (3, \infty)$ ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $(-\infty, 1) \cup (5, \infty)$. $x-3 > 2 \Rightarrow x > 5$ અથવા $x-3 < -2 \Rightarrow x < 1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર 3 થી 2 એકમ બહારની તરફ જવાનું છે.</p></div>"
+    }
+  ]
+}

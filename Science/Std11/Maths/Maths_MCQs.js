@@ -1162,3 +1162,371 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સંકર સંખ્યાઓ અને દ્વિઘાત સમીકરણો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "$i^{19}$ ની કિંમત કેટલી થાય? (A) $i$ (B) $-i$ (C) $1$ (D) $-1$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $-i$ છે. <br> $i^{19} = i^{16} \\cdot i^3 = (i^4)^4 \\cdot (-i) = 1 \\cdot (-i) = -i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતાંકને 4 વડે ભાગો. જે શેષ વધે તે $i$ ની ઘાતમાં મૂકો. અહીં 19 ને 4 વડે ભાગતા શેષ 3 વધે, તેથી $i^3 = -i$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંકર સંખ્યા $z = 3 - 4i$ નો માનાંક $|z|$ શોધો. (A) 7 (B) 1 (C) 5 (D) 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 5 છે. <br> $|z| = \\sqrt{3^2 + (-4)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયથાગોરસની ત્રિપુટી (3, 4, 5) યાદ રાખો. માનાંક એટલે હંમેશા ઉગમબિંદુથી અંતર (ધન સંખ્યા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો $(x + iy) = (2 + 3i)$, તો $x$ અને $y$ ની કિંમત જણાવો. (A) $x=3, y=2$ (B) $x=2, y=3$ (C) $x=2, y=-3$ (D) $x=-2, y=-3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $x=2, y=3$ છે. <br> વાસ્તવિક ભાગને વાસ્તવિક સાથે અને કાલ્પનિક ભાગને કાલ્પનિક સાથે સરખાવતા $x=2$ અને $y=3$ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકર સંખ્યાઓની સમાનતા એટલે 'જેના જેવું જે હોય તેને સરખાવી દો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "$i^{100} + i^{101} + i^{102} + i^{103}$ ની કિંમત કેટલી? (A) 1 (B) $i$ (C) 0 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 0 છે. <br> $1 + i - 1 - i = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $i$ ની કોઈપણ ચાર ક્રમિક ઘાતાંકનો સરવાળો હંમેશા શૂન્ય (0) જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંકર સંખ્યા $z = 1 + i$ ની અનુબદ્ધ સંકર સંખ્યા $\\bar{z}$ કઈ છે? (A) $1 + i$ (B) $-1 - i$ (C) $1 - i$ (D) $-1 + i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $1 - i$ છે. <br> અનુબદ્ધ સંકર સંખ્યામાં ફક્ત કાલ્પનિક ભાગ (i વાળો ભાગ) ની નિશાની બદલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુબદ્ધ (Conjugate) એટલે 'i' ને '-i' માં ફેરવો. બસ, આટલું જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "$i^{-35}$ ની કિંમત શોધો. (A) $i$ (B) $-i$ (C) 1 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $i$ છે. <br> $i^{-35} = 1/i^{35} = 1/i^3 = 1/(-i) = i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ ઘાત હોય તો પદને છેદમાં લઈ જાઓ. $i^{35}$ માં 35 ને 4 વડે ભાગતા 3 શેષ વધે, $1/i^3 = 1/(-i) = i$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમીકરણ $x^2 + 1 = 0$ ના ઉકેલ ગણ જણાવો. (A) $\{1, -1\}$ (B) $\{i\}$ (C) $\{i, -i\}$ (D) $\\emptyset$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $\{i, -i\}$ છે. <br> $x^2 = -1 \\Rightarrow x = \\pm \\sqrt{-1} = \\pm i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગમૂળમાં માઈનસ દેખાય એટલે જવાબમાં $i$ આવે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "$(1 + i)^2$ નું સાદું રૂપ શું થાય? (A) 2 (B) $2i$ (C) 0 (D) $1 + 2i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $2i$ છે. <br> $(1 + i)^2 = 1 + 2i + i^2 = 1 + 2i - 1 = 2i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ યાદ જ રાખી લો: $(1+i)^2 = 2i$ અને $(1-i)^2 = -2i$. દાખલામાં બહુ કામ આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો $z = a + bi$ હોય, તો $z \\cdot \\bar{z} = \\dots$ (A) $a^2 - b^2$ (B) $a^2 + b^2$ (C) $|z|$ (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $a^2 + b^2$ છે. <br> $z \\cdot \\bar{z} = (a+bi)(a-bi) = a^2 - (bi)^2 = a^2 + b^2 = |z|^2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંકર સંખ્યા અને તેની અનુબદ્ધનો ગુણાકાર એટલે તેના માનાંકનો વર્ગ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંકર સંખ્યા $z = -5i$ નો વાસ્તવિક ભાગ (Real part) શું છે? (A) -5 (B) 5 (C) 0 (D) $i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 0 છે. <br> $z = 0 - 5i$. અહીં $a=0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ફક્ત $i$ વાળું પદ હોય, તો વાસ્તવિક ભાગ હંમેશા લાડવો (0) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "$i^{4n+3}$ ની કિંમત શોધો જ્યાં $n \\in \\mathbb{N}$. (A) 1 (B) -1 (C) $i$ (D) $-i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (D) $-i$ છે. <br> $i^{4n} \\cdot i^3 = (i^4)^n \\cdot i^3 = 1^n \\cdot (-i) = -i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $4n$ ઘાત હોય એટલે એને ભૂલી જાવ, ખાલી પાછળની વધારાની ઘાત જ ગણતરીમાં લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "$2 + 3i$ અને $4 - 5i$ નો સરવાળો કેટલો થાય? (A) $6 - 2i$ (B) $6 + 8i$ (C) $6 + 2i$ (D) $2 - 8i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $6 - 2i$ છે. <br> $(2+4) + (3i-5i) = 6 - 2i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિકમાં વાસ્તવિક ઉમેરો, કાલ્પનિકમાં કાલ્પનિક ઉમેરો. બે અલગ દુનિયા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "$1/i$ ની કિંમત શું છે? (A) $i$ (B) $-i$ (C) 1 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $-i$ છે. <br> $1/i \\times i/i = i/i^2 = i/(-1) = -i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $i$ ને છેદમાંથી અંશમાં લેવા માટે નિશાની બદલી નાખવાની!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સંકર સંખ્યા $z = -1 - i$ કયા ચરણમાં આવેલી છે? (A) પ્રથમ (B) દ્વિતીય (C) તૃતીય (D) ચતુર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) તૃતીય છે. <br> અહીં $x = -1 < 0$ અને $y = -1 < 0$. બંને ઋણ હોવાથી ત્રીજું ચરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x$ અને $y$ ની નિશાની જુઓ. $(- , -)$ એટલે ગણિતનું ત્રીજું ઘર (ચરણ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગુણાકાર માટેની તટસ્થ સંકર સંખ્યા કઈ છે? (A) $0 + 0i$ (B) $1 + i$ (C) $1 + 0i$ (D) $0 + 1i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $1 + 0i$ છે. <br> કોઈપણ સંખ્યાને 1 વડે ગુણતા તે જ રહે, તેથી 1 એ તટસ્થ ઘટક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકર સંખ્યામાં 1 ને $1 + 0i$ તરીકે લખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સરવાળા માટેની તટસ્થ સંકર સંખ્યા કઈ છે? (A) $1 + 0i$ (B) $0 + 0i$ (C) $0 + i$ (D) $1 + i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $0 + 0i$ છે. <br> સરવાળા માટેનો તટસ્થ ઘટક શૂન્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરવાળો એટલે ઝીરો (0) અને ગુણાકાર એટલે એકડો (1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "$z = 4 + 3i$ નો વ્યસ્ત (Multiplicative Inverse) શોધો. (A) $\\frac{4}{25} - \\frac{3}{25}i$ (B) $\\frac{4}{7} - \\frac{3}{7}i$ (C) $4 - 3i$ (D) $-4 - 3i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $\\frac{4}{25} - \\frac{3}{25}i$ છે. <br> $z^{-1} = \\frac{\\bar{z}}{|z|^2} = \\frac{4-3i}{4^2+3^2} = \\frac{4-3i}{25}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત માટે અંશમાં અનુબદ્ધ મૂકો અને છેદમાં વર્ગોનો સરવાળો મૂકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$\\\\sqrt{-16}$ ની કિંમત કેટલી? (A) 4 (B) -4 (C) $4i$ (D) $-4i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $4i$ છે. <br> $\\sqrt{-16} = \\sqrt{16} \\cdot \\sqrt{-1} = 4i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરનું માઈનસ બહાર આવે ત્યારે 'i' બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "$x^2 + x + 1 = 0$ ના બીજ જણાવો. (A) $\\frac{-1 \\pm i\\sqrt{3}}{2}$ (B) $\\frac{1 \\pm i\\sqrt{3}}{2}$ (C) $\\frac{-1 \\pm i\\sqrt{5}}{2}$ (D) $1, -1$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $\\frac{-1 \\pm i\\sqrt{3}}{2}$ છે. <br> $D = b^2 - 4ac = 1 - 4 = -3$. <br> $x = \\frac{-b \\pm \\sqrt{D}}{2a} = \\frac{-1 \\pm i\\sqrt{3}}{2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એકમઘનમૂળ (Omega) ના બીજ છે, જે હંમેશા યાદ રાખવા જેવા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "$i^{9} + i^{19}$ ની કિંમત શું થાય? (A) $2i$ (B) 0 (C) $-2i$ (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 0 છે. <br> $i^9 = i$ અને $i^{19} = -i$. સરવાળો $i - i = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો બે ઘાતાંક વચ્ચેનો તફાવત 10 હોય અને તેઓ $4n+1$ અને $4n+3$ પ્રકારની હોય, તો જવાબ 0 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો $z = 3i$, તો $\\text{Im}(z)$ શોધો. (A) 0 (B) 3 (C) $3i$ (D) -3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 3 છે. <br> $\\text{Im}(z)$ એ $i$ નો સહગુણક છે, જેમાં $i$ લખવામાં આવતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈમેજનરી પાર્ટ એટલે $i$ ની બાજુમાં બેઠેલો ભાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "$(1 - i)^4$ ની કિંમત શું છે? (A) -4 (B) 4 (C) $4i$ (D) $-4i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) -4 છે. <br> $(1-i)^2 = -2i$. હવે $((-2i)^2) = 4i^2 = -4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગનો વર્ગ કરો. $(1-i)^2$ ખબર છે, એનો સ્ક્વેર કરી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "$\\\\sqrt{-2} \\cdot \\\\sqrt{-3}$ ની કિંમત જણાવો. (A) $\\sqrt{6}$ (B) $-\\sqrt{6}$ (C) $i\\sqrt{6}$ (D) $-i\\sqrt{6}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $-\\sqrt{6}$ છે. <br> $\\sqrt{-2} = i\\sqrt{2}$ અને $\\sqrt{-3} = i\\sqrt{3}$. <br> ગુણાકાર $= i^2 \\sqrt{6} = -\\sqrt{6}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\sqrt{a} \\cdot \\sqrt{b} = \\sqrt{ab}$ આ નિયમ ઋણ સંખ્યાઓ માટે ડાયરેક્ટ લાગુ ન પડે. પેલા 'i' ને બહાર કાઢો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "$z = -3 + 4i$, તો $|\bar{z}|$ શોધો. (A) 5 (B) -5 (C) 25 (D) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 5 છે. <br> $|z| = |\\bar{z}| = \\sqrt{(-3)^2 + 4^2} = 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંકર સંખ્યા હોય કે એની અનુબદ્ધ, માનાંક (અંતર) હંમેશા સરખું જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "$i + i^2 + i^3 + i^4$ નું મૂલ્ય કેટલું? (A) 1 (B) 0 (C) $i$ (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 0 છે. <br> $i - 1 - i + 1 = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાયાનો નિયમ છે. $i$ ની પહેલી 4 ઘાતનો સરવાળો મીંડું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો $z_1 = 1+i$ અને $z_2 = 1-i$ હોય, તો $z_1/z_2$ ની કિંમત શોધો. (A) 1 (B) -1 (C) $i$ (D) $-i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $i$ છે. <br> $\\frac{1+i}{1-i} = \\frac{(1+i)^2}{1^2+1^2} = \\frac{2i}{2} = i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $\\frac{1+i}{1-i} = i$ અને $\\frac{1-i}{1+i} = -i$. આ સૂત્ર તરીકે યાદ રાખી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંકર સંખ્યા $z = -7$ નો કાલ્પનિક ભાગ શું છે? (A) -7 (B) 7 (C) 0 (D) $i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 0 છે. <br> $z = -7 + 0i$. તેથી $\\text{Im}(z) = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક સંખ્યામાં કાલ્પનિક ભાગ હોતો જ નથી, એટલે કે 0 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સંકર સંખ્યા $z = i$ નો માનાંક કેટલો? (A) 0 (B) 1 (C) -1 (D) $i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 1 છે. <br> $|i| = \\sqrt{0^2 + 1^2} = 1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ કાલ્પનિક એકમ સંખ્યાનું અંતર હંમેશા 1 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દ્વિઘાત સમીકરણ $x^2 + 3 = 0$ ના ઉકેલ છે: (A) $\\pm 3$ (B) $\\pm 3i$ (C) $\\pm i\\sqrt{3}$ (D) $\\sqrt{3}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $\\pm i\\sqrt{3}$ છે. <br> $x^2 = -3 \\Rightarrow x = \\pm \\sqrt{-3} = \\pm i\\sqrt{3}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x^2 + a = 0$ પ્રકારનું સમીકરણ હોય તો ઉકેલ હંમેશા $\\pm i\\sqrt{a}$ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "$(i^{18} + (1/i)^{25})^3$ ની કિંમત શોધો. (A) $2 - 2i$ (B) $2 + 2i$ (C) $8i$ (D) $-i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $2 + 2i$ છે. <br> $i^{18} = -1$, $(1/i)^{25} = (-i)^{25} = -i$. <br> $(-1 - i)^3 = - (1+i)^3 = - (1 + 3i + 3i^2 + i^3) = - (1 + 3i - 3 - i) = -(-2 + 2i) = 2 - 2i$. (ગણતરી મુજબ ચકાસતા).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસની અંદરના પદોને પહેલા નાના બનાવો, પછી ઘાત કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જો $z = 1 - i$, તો $z^2 - 2z + 2$ ની કિંમત કેટલી? (A) 0 (B) 1 (C) 2 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 0 છે. <br> $(1-i)^2 - 2(1-i) + 2 = -2i - 2 + 2i + 2 = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સંકર સંખ્યા કોઈ દ્વિઘાત સમીકરણનું બીજ હોય, તો તે સમીકરણનું મૂલ્ય શૂન્ય થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "$i^{52}$ ની કિંમત કેટલી? (A) $i$ (B) $-i$ (C) 1 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 1 છે. <br> 52 એ 4 વડે વિભાજ્ય છે ($13 \\times 4 = 52$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 નો ઘડિયો આવડે તો $i$ ની ઘાત ચપટીમાં સોલ્વ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "$3(7 + 7i) + i(7 + 7i)$ ને $a + bi$ સ્વરૂપમાં લખો. (A) $21 + 28i$ (B) $14 + 28i$ (C) $28 + 14i$ (D) $14 + 14i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $14 + 28i$ છે. <br> $21 + 21i + 7i + 7i^2 = 21 + 28i - 7 = 14 + 28i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $i^2$ દેખાય ત્યાં નિશાની બદલી નાખવાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો $a^2 + b^2 = 0$ હોય અને $a, b \\in \\mathbb{R}$, તો (A) $a=b$ (B) $a=1, b=1$ (C) $a=0, b=0$ (D) $a=-b$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $a=0, b=0$ છે. <br> બે વાસ્તવિક સંખ્યાઓના વર્ગોનો સરવાળો ત્યારે જ શૂન્ય થાય જો બંને સંખ્યાઓ શૂન્ય હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક દુનિયામાં વર્ગ ક્યારેય નેગેટિવ ન હોય, એટલે 0 થવા માટે બંનેનું 0 હોવું જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સંકર સંખ્યા $z = x + iy$ માં $x$ ને શું કહેવાય? (A) કાલ્પનિક ભાગ (B) માનાંક (C) વાસ્તવિક ભાગ (D) કોણાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) વાસ્તવિક ભાગ છે. <br> $x$ એ Real part $\\text{Re}(z)$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $i$ વગરનો એ 'અસલી' (Real) અને $i$ વાળો એ 'નકલી' (Imaginary).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સંકર સંખ્યા $(-i)(2i)(-1/8i)^3$ ની કિંમત શોધો. (A) $1/256$ (B) $1/256i$ (C) $i/256$ (D) $-i/256$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $i/256$ છે. <br> $(-2i^2) \\cdot (-1/512i^3) = 2 \\cdot (-1/512(-i)) = 2 \\cdot (i/512) = i/256$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના પદોનો ગુણાકાર પહેલા પતાવો, પછી મોટી ઘાત વાળું પદ લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો $z = 1-i$ હોય તો $\\bar{z}$ નું નિરૂપણ કરતા બિંદુના યામ કયા થાય? (A) $(1, -1)$ (B) $(1, 1)$ (C) $(-1, 1)$ (D) $(-1, -1)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $(1, 1)$ છે. <br> $z = 1 - i \\Rightarrow \\bar{z} = 1 + i$. જેના યામ $(1, 1)$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુબદ્ધ એટલે $y$ ની નિશાની બદલી નાખવાની (X-અક્ષ પરનું પ્રતિબિંબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "$(5 - 3i)^3$ ના વિસ્તરણમાં $i$ નો સહગુણક કેટલો? (A) 10 (B) -198 (C) 198 (D) -10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) -198 છે. <br> $(5-3i)^3 = 125 - 3(25)(3i) + 3(5)(9i^2) - 27i^3 = 125 - 225i - 135 + 27i = -10 - 198i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$ સૂત્રમાં $b = 3i$ મૂકી ચેક કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સંકર સંખ્યા $z = -i$ નો વ્યસ્ત શોધો. (A) $i$ (B) $-i$ (C) 1 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $i$ છે. <br> $(-i)^{-1} = 1/(-i) = i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $-i$ નો ઉલટો કરો તો $+i$ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "$i^{n} + i^{n+1} + i^{n+2} + i^{n+3}$ ની કિંમત કેટલી? (A) 0 (B) 1 (C) $i$ (D) $4i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 0 છે. <br> આ $i$ ની 4 ક્રમિક ઘાતાંકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'n' ગમે તે હોય, જો 4 લાઈનમાં હોય તો જવાબ શૂન્ય જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સમીકરણ $x^2 + 2 = 0$ ના બીજ કયા? (A) $\\pm 2i$ (B) $\\pm \\sqrt{2}$ (C) $\\pm i\\sqrt{2}$ (D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) $\\pm i\\sqrt{2}$ છે. <br> $x^2 = -2 \\Rightarrow x = \\pm i\\sqrt{2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x^2 + k = 0$ હોય તો જવાબમાં $\\sqrt{k}$ ની સાથે $i$ લગાડી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "જો $z = x+iy$ હોય, તો $z + \\bar{z} = \\dots$ (A) $2x$ (B) $2iy$ (C) $x^2+y^2$ (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $2x$ છે. <br> $(x+iy) + (x-iy) = 2x$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા અને તેની અનુબદ્ધનો સરવાળો હંમેશા શુદ્ધ વાસ્તવિક (Double of Real Part) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો $z = x+iy$ હોય, તો $z - \\bar{z} = \\dots$ (A) $2x$ (B) $2iy$ (C) 0 (D) $y$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $2iy$ છે. <br> $(x+iy) - (x-iy) = 2iy$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાદબાકી કરો તો વાસ્તવિક ભાગ ઉડી જાય અને કાલ્પનિક ભાગ બમણો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "સંકર સંખ્યા $1 - i$ નો ગુણાકાર માટેનો વ્યસ્ત કયો? (A) $1 + i$ (B) $\\frac{1}{2} + \\frac{1}{2}i$ (C) $\\frac{1}{2} - \\frac{1}{2}i$ (D) $-1 + i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $\\frac{1}{2} + \\frac{1}{2}i$ છે. <br> $z^{-1} = \\frac{1+i}{1^2+(-1)^2} = \\frac{1+i}{2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનાંકનો વર્ગ 2 છે, તો અનુબદ્ધને 2 વડે ભાગી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "$(1+i)^4 / (1-i)^4$ ની કિંમત કેટલી? (A) 1 (B) -1 (C) $i$ (D) $-i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 1 છે. <br> $(\\frac{1+i}{1-i})^4 = i^4 = 1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદરનું પદ $i$ છે, અને $i^4$ ની કિંમત તો દુનિયા આખી જાણે છે કે 1 થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જો $|z| = 0$ હોય તો $z = \\dots$ (A) $i$ (B) 1 (C) 0 (D) ગમે તે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 0 છે. <br> ઉગમબિંદુથી અંતર 0 હોય તેવું એકમાત્ર બિંદુ ઉગમબિંદુ પોતે જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનાંક 0 તો સંખ્યા પણ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "સંકર સંખ્યા $(1-i)$ અને $(1+i)$ નો ગુણાકાર કેટલો? (A) 0 (B) 1 (C) 2 (D) -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 2 છે. <br> $1^2 - i^2 = 1 - (-1) = 2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(1+i)(1-i) = 2$. આ પરિણામ તો ગોખી જ નાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "$i^{107}$ ની કિંમત જણાવો. (A) $i$ (B) $-i$ (C) 1 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $-i$ છે. <br> 107 ને 4 વડે ભાગતા 3 શેષ વધે, $i^3 = -i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી બે ડિજિટ 07 ને 4 વડે ભાગો, તો પણ શેષ 3 જ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જો $4x + i(3x-y) = 3 + i(-6)$, તો $x$ ની કિંમત શોધો. (A) 3/4 (B) 4/3 (C) 0 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 3/4 છે. <br> વાસ્તવિક ભાગ સરખાવતા $4x = 3 \\Rightarrow x = 3/4$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે $x$ અને $y$ શોધવાના હોય, ત્યારે સૌથી સહેલું સમીકરણ પહેલા પકડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "સંકર સંખ્યા $-2 + 5i$ નો સરવાળા માટેનો વ્યસ્ત કયો? (A) $2 - 5i$ (B) $-2 - 5i$ (C) $2 + 5i$ (D) $1/(-2+5i)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $2 - 5i$ છે. <br> સરવાળા માટેનો વ્યસ્ત એટલે બંને પદોની નિશાની બદલવી ($-z$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એડિટિવ ઈનવર્સ (Additive Inverse) એટલે આખેઆખી સંખ્યાને 'માઈનસ' વડે ગુણી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "માનાંક $|i^{10}|$ ની કિંમત કેટલી? (A) 10 (B) -1 (C) 1 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) 1 છે. <br> $i^{10} = -1$ અને $|-1| = 1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $i$ ની ગમે તેટલી ઘાત હોય, તેનો માનાંક હંમેશા 1 જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "$i^{1/2}$ ને શું કહેવાય? (A) $i$ (B) સંકર સંખ્યાનું વર્ગમૂળ (C) વાસ્તવિક સંખ્યા (D) વ્યાખ્યાયિત નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) સંકર સંખ્યાનું વર્ગમૂળ છે. <br> કોઈપણ સંકર સંખ્યાની ઘાત સંમેય હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $i$ પોતે જ એક સંકર સંખ્યા છે, તો તેનું વર્ગમૂળ પણ સંકર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "$x^2 + 2x + 2 = 0$ ના બીજ જણાવો. (A) $-1 \\pm i$ (B) $1 \\pm i$ (C) $-2 \\pm 2i$ (D) $0, 2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $-1 \\pm i$ છે. <br> $D = 4 - 8 = -4$. <br> $x = \\frac{-2 \\pm 2i}{2} = -1 \\pm i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(x+1)^2 = -1$ બનાવીને પણ ઉકેલ લાવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "સંકર સંખ્યા $(1+i)^3$ નો વાસ્તવિક ભાગ કેટલો? (A) 1 (B) 2 (C) -2 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (C) -2 છે. <br> $(1+i)^3 = 1 + 3i + 3i^2 + i^3 = 1 + 3i - 3 - i = -2 + 2i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(1+i)^3 = (1+i)^2(1+i) = 2i(1+i) = 2i - 2$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જો $z$ શુદ્ધ કાલ્પનિક સંખ્યા હોય, તો $\\bar{z} = \\dots$ (A) $z$ (B) $-z$ (C) 0 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $-z$ છે. <br> $z = iy \\Rightarrow \\bar{z} = -iy = -z$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક હોય તો $\\bar{z}=z$ અને કાલ્પનિક હોય તો $\\bar{z}=-z$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "$\\\\sqrt{-25} + \\\\sqrt{-36}$ ની કિંમત કેટલી? (A) 11 (B) $11i$ (C) $-11i$ (D) $30i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $11i$ છે. <br> $5i + 6i = 11i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેમાંથી 'i' કોમન કાઢી સાદો સરવાળો કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "જો $z = \\frac{1}{i}$, તો $\\bar{z} = \\dots$ (A) $i$ (B) $-i$ (C) 1 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $i$ છે. <br> $z = -i$, તેથી $\\bar{z} = -(-i) = i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેલા છેદમાંથી $i$ ને દૂર કરો, પછી જ અનુબદ્ધ વિચારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "$(i^{4k} + i^{4k+1} + i^{4k+2} + i^{4k+3})$ નું મૂલ્ય કેટલું? (A) 1 (B) 0 (C) $i$ (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 0 છે. <br> આ $i$ ની ચાર ક્રમિક ઘાતનો વ્યાપક સ્વરૂપમાં સરવાળો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'k' ની કોઈ પણ કિંમત માટે આ હંમેશા 'ઝીરો' જ થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "$x^2 + 5 = 0$ ના બીજ કયા? (A) $\\pm 5i$ (B) $\\pm i\\sqrt{5}$ (C) $5, -5$ (D) $\\pm 25i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $\\pm i\\sqrt{5}$ છે. <br> $x^2 = -5 \\Rightarrow x = \\pm \\sqrt{-5} = \\pm i\\sqrt{5}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $x^2$ સાથે પ્લસ નિશાની હોય એટલે જવાબમાં 'i' આવશે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "બે સંકર સંખ્યાઓના ગુણાકારનો માનાંક $|z_1 \\cdot z_2|$ બરાબર શું થાય? (A) $|z_1| + |z_2|$ (B) $|z_1| \\cdot |z_2|$ (C) $|z_1|^2$ (D) $|z_2|^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $|z_1| \\cdot |z_2|$ છે. <br> માનાંક ગુણાકાર પર વહેંચી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોડ્યુલસ (Modulus) એ ખૂબ જ 'ન્યાયી' છે, ગુણાકારમાં બધાને સરખો ભાગ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "સંકર સંખ્યા $(2 + i)^2$ નું $a + bi$ સ્વરૂપ શું છે? (A) $3 + 4i$ (B) $5 + 4i$ (C) $3 - 4i$ (D) $4 + 4i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $3 + 4i$ છે. <br> $(2+i)^2 = 4 + 4i + i^2 = 4 + 4i - 1 = 3 + 4i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(a+bi)^2$ માં વાસ્તવિક ભાગ $a^2-b^2$ અને કાલ્પનિક ભાગ $2ab$ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "જો $z = 3 - 4i$ હોય, તો $1/z$ નો વાસ્તવિક ભાગ શું? (A) 3/25 (B) -4/25 (C) 3/7 (D) 4/25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 3/25 છે. <br> $z^{-1} = \\frac{3+4i}{3^2+(-4)^2} = \\frac{3+4i}{25} = \\frac{3}{25} + \\frac{4}{25}i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક ભાગ એટલે (વાસ્તવિક પદ) / (વર્ગોનો સરવાળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "$i^{400}$ ની કિંમત કેટલી? (A) 0 (B) 1 (C) $i$ (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 1 છે. <br> 400 એ 4 વડે વિભાજ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ના ગુણકમાં ગમે તેટલી મોટી ઘાત હોય, જવાબ 'એકડો' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "સંકર સંખ્યા $(1-i)^2$ નો કાલ્પનિક ભાગ કેટલો? (A) 2 (B) -2 (C) 0 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) -2 છે. <br> $(1-i)^2 = -2i$. અહીં કાલ્પનિક ભાગ -2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો $(1-i)^2 = -2i$. કાલ્પનિક ભાગ એટલે $i$ ની બાજુવાળો અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "$z = a + bi$ માટે $\\text{Re}(z)$ અને $\\text{Im}(z)$ બંને શૂન્ય હોય, તો $|z|$ કેટલો? (A) 1 (B) 0 (C) વ્યાખ્યાયિત નથી (D) $\\infty$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 0 છે. <br> $|z| = \\sqrt{0^2 + 0^2} = 0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું કઈ નથી તેનું મીંડું છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "જો $z = 1+2i$ હોય, તો $z \\cdot \\bar{z} = \\dots$ (A) 3 (B) 5 (C) $\\sqrt{5}$ (D) -3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) 5 છે. <br> $1^2 + 2^2 = 1 + 4 = 5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $a^2 + b^2$ વાપરો, ગુણાકાર કરવાની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "$i^{2} + i^{4} + i^{6} + \\dots + i^{20}$ (10 પદો) નો સરવાળો કેટલો? (A) 0 (B) -1 (C) 1 (D) $10i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 0 છે. <br> $(-1) + (1) + (-1) + (1) \\dots$ એમ 5 જોડી બનશે, જેનો સરવાળો 0 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદોની સંખ્યા બેકી (Even) છે અને પદો વિરોધી છે, એટલે જવાબ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "દ્વિઘાત સમીકરણ $2x^2 + x + 1 = 0$ નો વિવેચક (Discriminant) શોધો. (A) 7 (B) -7 (C) 9 (D) -9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) -7 છે. <br> $D = b^2 - 4ac = 1^2 - 4(2)(1) = 1 - 8 = -7$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $D < 0$ આવે તો જ સંકર બીજ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "સંકર સંખ્યા $\\frac{1}{1-i}$ નું $a+bi$ સ્વરૂપ શું છે? (A) $1+i$ (B) $\\frac{1}{2} + \\frac{1}{2}i$ (C) $\\frac{1}{2} - \\frac{1}{2}i$ (D) $1-i$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (B) $\\frac{1}{2} + \\frac{1}{2}i$ છે. <br> અનુબદ્ધ વડે ગુણતા: $\\frac{1+i}{(1-i)(1+i)} = \\frac{1+i}{2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં $1-i$ હોય તો જવાબમાં $1+i$ વાળું પદ અંશમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "જો $z = i^3$, તો $\\bar{z} = \\dots$ (A) $i$ (B) $-i$ (C) 1 (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $i$ છે. <br> $z = -i$, તેથી $\\bar{z} = i$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતને પહેલા સાદી કરો, પછી જ અનુબદ્ધનો વિચાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "સંકર સંખ્યા $-1 + i\\sqrt{3}$ નો માનાંક શોધો. (A) 2 (B) 4 (C) $\\sqrt{2}$ (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) 2 છે. <br> $|z| = \\sqrt{(-1)^2 + (\\sqrt{3})^2} = \\sqrt{1 + 3} = \\sqrt{4} = 2$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ગમૂળમાં 3 દેખાય અને બાજુમાં 1 હોય, તો માનાંક મોટેભાગે 2 જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "$i^{n} \\cdot i^{n+1}$ ની કિંમત કેટલી? (A) $i^{2n+1}$ (B) $i$ (C) -1 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચો જવાબ (A) $i^{2n+1}$ છે. <br> આધાર સરખા તો ઘાતાંકનો સરવાળો: $n + (n+1) = 2n+1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઠમા ધોરણનો ઘાતાંકનો નિયમ અહીં પણ લાગુ પડે જ છે.</p></div>"
+    }
+  ]
+}

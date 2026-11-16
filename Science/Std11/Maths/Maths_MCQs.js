@@ -2694,3 +2694,361 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "શ્રેણી અને શ્રેઢી",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો શ્રેણીનું n-મું પદ aₙ = 2n + 5 હોય, તો તેનું 10-મું પદ શું હશે? \n(A) 20 \n(B) 25 \n(C) 15 \n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 25. n = 10 લેતા, a₁₀ = 2(10) + 5 = 20 + 5 = 25.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્યારે પણ n-મું પદ આપ્યું હોય, ત્યારે જે પદ શોધવાનું હોય તે અંક n ની જગ્યાએ મૂકી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શ્રેણી aₙ = n(n-2) / (n+3) નું 20-મું પદ શોધો. \n(A) 180/23 \n(B) 360/23 \n(C) 20/23 \n(D) 400/23",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 360/23. a₂₀ = 20(20-2) / (20+3) = 20(18) / 23 = 360/23.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> છેદમાં n+3 છે, એટલે કે 20+3=23. વિકલ્પોમાં છેદમાં 23 હોય તેવા જવાબ પર ધ્યાન આપવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો ગુણોત્તર શ્રેણીનું પ્રથમ પદ a = 5 અને સામાન્ય ગુણોત્તર r = 2 હોય, તો 4-થું પદ શું થાય? \n(A) 20 \n(B) 40 \n(C) 80 \n(D) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 40. a₄ = ar³ = 5(2)³ = 5(8) = 40.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ગુણોત્તર શ્રેણીમાં પદ શોધવા માટે 'r' ની ઘાત પદના ક્રમ કરતા એક ઓછી (n-1) લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શ્રેણી 2, 4, 8, 16, ... નો સામાન્ય ગુણોત્તર (r) શું છે? \n(A) 4 \n(B) 1 \n(C) 2 \n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2. r = a₂/a₁ = 4/2 = 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> બીજું પદ ભાગ્યા પહેલું પદ કરો એટલે 'r' મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો શ્રેણી aₙ = (-1)ⁿ⁻¹ . 5ⁿ⁺¹ હોય, તો a₃ શોધો. \n(A) 625 \n(B) -625 \n(C) 125 \n(D) -125",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 625. a₃ = (-1)² . 5⁴ = 1 * 625 = 625.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્યારે (-1) ની ઘાત બેકી (even) હોય ત્યારે જવાબ હંમેશા ધન (+) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગુણોત્તર શ્રેણી 5, 25, 125, ... નું n-મું પદ શોધો. \n(A) 5ⁿ \n(B) 5ⁿ⁻¹ \n(C) 25ⁿ \n(D) 5ⁿ⁺¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5ⁿ. a = 5, r = 5. aₙ = arⁿ⁻¹ = 5(5)ⁿ⁻¹ = 5¹⁺ⁿ⁻¹ = 5ⁿ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 5 ની ઘાત ચેક કરો. 5¹=5, 5²=25... તેથી n-મું પદ 5ⁿ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બે સંખ્યાઓ 2 અને 8 નો ગુણોત્તર મધ્યક (G.M.) શું થાય? \n(A) 5 \n(B) 4 \n(C) 10 \n(D) 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4. G = √(ab) = √(2 * 8) = √16 = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ગુણોત્તર મધ્યક એટલે બંનેનો ગુણાકાર કરી તેનું વર્ગમૂળ કાઢવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો ગુણોત્તર શ્રેણી માટે a = 3 અને r = 2 હોય, તો પ્રથમ 5 પદોનો સરવાળો (S₅) કેટલો થાય? \n(A) 90 \n(B) 93 \n(C) 96 \n(D) 63",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 93. S₅ = a(rⁿ-1)/(r-1) = 3(2⁵-1)/(2-1) = 3(31) = 93.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સરવાળા માટે સૂત્ર Sₙ = a(rⁿ-1)/(r-1) મોઢે રાખવું, જો r > 1 હોય તો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શ્રેણી 1/2, 1/4, 1/8, ... ના અનંત પદોનો સરવાળો (S∞) શોધો. \n(A) 1/2 \n(B) 2 \n(C) 1 \n(D) અનંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1. S∞ = a / (1-r) = (1/2) / (1 - 1/2) = (1/2) / (1/2) = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્યારે r < 1 હોય, ત્યારે અનંત સરવાળો S∞ = a/(1-r) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "શ્રેણી aₙ = n² / 2ⁿ માં ચોથું પદ શું હશે? \n(A) 1 \n(B) 16 \n(C) 8 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1. a₄ = 4² / 2⁴ = 16 / 16 = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અંશમાં 4 નો વર્ગ 16 અને છેદમાં 2 ની 4 ઘાત પણ 16. 16/16 = 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગુણોત્તર શ્રેણી 1/3, 1/9, 1/27, ... નો સામાન્ય ગુણોત્તર r = ? \n(A) 3 \n(B) 1/3 \n(C) 1/6 \n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/3. r = (1/9) / (1/3) = 1/3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> દરેક પદને કેટલા વડે ગુણતા નવું પદ મળે છે તે જુઓ. અહીં દરેક પદને 1/3 વડે ગુણવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો a, b, c ગુણોત્તર શ્રેણીમાં હોય, તો કયો સંબંધ સાચો છે? \n(A) b = (a+c)/2 \n(B) b² = ac \n(C) b = ac \n(D) a² = bc",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) b² = ac. ગુણોત્તર શ્રેણી માટે b/a = c/b => b² = ac.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વચલા પદનો વર્ગ = આજુબાજુના પદોનો ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શ્રેણી 2, 2√2, 4, ... નું કેટલામું પદ 128 થાય? \n(A) 12-મું \n(B) 13-મું \n(C) 11-મું \n(D) 10-મું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 13-મું. a=2, r=√2. 128 = 2(√2)ⁿ⁻¹. 64 = (√2)ⁿ⁻¹ => 2⁶ = 2^((n-1)/2). 6 = (n-1)/2 => n = 13.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પાયો (Base) સમાન બનાવીને ઘાતાંકોને સરખાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો x, x+3, x+9 ગુણોત્તર શ્રેણીમાં હોય, તો x શોધો. \n(A) 3 \n(B) -3 \n(C) 9 \n(D) -9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3. (x+3)² = x(x+9) => x²+6x+9 = x²+9x => 3x = 9 => x = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વિકલ્પોની કિંમત મૂકીને ચેક કરી શકાય. જો x=3 મૂકીએ તો 3, 6, 12 બને જે ગુણોત્તર શ્રેણી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શ્રેણી 1 + 2 + 4 + 8 + ... ના 10 પદોનો સરવાળો કેટલો? \n(A) 1023 \n(B) 1024 \n(C) 511 \n(D) 2047",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1023. a=1, r=2, n=10. S₁₀ = 1(2¹⁰ - 1)/(2-1) = 1024 - 1 = 1023.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 2 ની ઘાત યાદ રાખવી: 2¹⁰ = 1024. સરવાળો એનાથી 1 ઓછો એટલે 1023.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શ્રેણી 7, 7/10, 7/100, ... ના અનંત પદોનો સરવાળો શું થાય? \n(A) 70/9 \n(B) 7/9 \n(C) 7 \n(D) 10/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 70/9. a=7, r=1/10. S∞ = 7 / (1 - 1/10) = 7 / (9/10) = 70/9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અનંત સરવાળાના છેદમાં હંમેશા (1-r) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બે સંખ્યાઓ 4 અને 16 નો સમાંતર મધ્યક (A.M.) અને ગુણોત્તર મધ્યક (G.M.) શોધો. \n(A) A.M.=10, G.M.=8 \n(B) A.M.=8, G.M.=10 \n(C) A.M.=20, G.M.=8 \n(D) A.M.=10, G.M.=4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) A.M.=10, G.M.=8. A.M. = (4+16)/2 = 10. G.M. = √(4*16) = √64 = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> યાદ રાખો કે હંમેશા A.M. > G.M. (જ્યાં સુધી સંખ્યાઓ સમાન ન હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો ગુણોત્તર શ્રેણીનું 3-જું પદ 24 અને 6-ઠ્ઠું પદ 192 હોય, તો 10-મું પદ શું થાય? \n(A) 3072 \n(B) 1536 \n(C) 768 \n(D) 6144",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3072. ar²=24, ar⁵=192 => r³ = 192/24 = 8 => r=2. a(4)=24 => a=6. a₁₀ = 6 * 2⁹ = 6 * 512 = 3072.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પદોના ગુણોત્તર પરથી 'r' શોધો: r^(6-3) = 192/24.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શ્રેણી Σ (2 + 3ᵏ) (k=1 થી 11) ની કિંમત કેટલી? \n(A) 22 + 3/2 (3¹¹ - 1) \n(B) 11 + 3/2 (3¹¹ - 1) \n(C) 22 + (3¹¹ - 1) \n(D) 33 + 3/2 (3¹¹ - 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A). Σ2 = 2 * 11 = 22. Σ3ᵏ એ ગુણોત્તર શ્રેણી છે જેમાં a=3, r=3, n=11. તેથી સરવાળો 3(3¹¹-1)/(3-1).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અચળ પદ 2 નો સરવાળો 11 વખત એટલે 22 થાય તે ધ્યાન રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગુણોત્તર શ્રેણી માટે જો a=1, r=2 હોય તો n પદોનો સરવાળો Sₙ = ? \n(A) 2ⁿ \n(B) 2ⁿ - 1 \n(C) 2ⁿ + 1 \n(D) 2ⁿ⁻¹",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2ⁿ - 1. Sₙ = 1(2ⁿ - 1)/(2 - 1) = 2ⁿ - 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 1, 2, 4, 8... નો સરવાળો હંમેશા છેલ્લા પદના બમણાથી 1 ઓછો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જો કોઈ શ્રેણીમાં aₙ = n³ - 1 હોય, તો પ્રથમ ત્રણ પદો કયા હશે? \n(A) 1, 7, 26 \n(B) 0, 7, 26 \n(C) 0, 8, 27 \n(D) 1, 8, 27",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0, 7, 26. n=1 માટે 1³-1=0, n=2 માટે 2³-1=7, n=3 માટે 3³-1=26.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પહેલા પદ n=1 મૂકીને સીધું ચેક કરી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બે ધન સંખ્યાઓ a અને b માટે A.M. ≥ G.M. આ વિધાન... \n(A) હંમેશા સાચું છે \n(B) ક્યારેક સાચું છે \n(C) હંમેશા ખોટું છે \n(D) કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હંમેશા સાચું છે. (a+b)/2 ≥ √ab એ ગણિતનો પાયાનો નિયમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સમાંતર મધ્યક હંમેશા ગુણોત્તર મધ્યક કરતા મોટો અથવા સમાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગુણોત્તર શ્રેણી √3, 3, 3√3, ... નો સામાન્ય ગુણોત્તર શોધો. \n(A) 3 \n(B) √3 \n(C) 1/√3 \n(D) 1/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) √3. r = 3 / √3 = √3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 3 ને (√3 * √3) તરીકે વિચારી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો શ્રેણીના n પદોનો સરવાળો Sₙ = 3n² + n હોય, તો બીજું પદ a₂ શું થાય? \n(A) 14 \n(B) 10 \n(C) 4 \n(D) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10. S₁ = a₁ = 4. S₂ = a₁+a₂ = 3(2)²+2 = 14. તેથી a₂ = 14 - 4 = 10.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> a₂ = S₂ - S₁ સૂત્ર યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો 1/3, x, 1/12 ગુણોત્તર શ્રેણીમાં હોય, તો x ની કિંમત શું હોઈ શકે? \n(A) 1/6 \n(B) 1/4 \n(C) 1/36 \n(D) 1/8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/6. x² = (1/3) * (1/12) = 1/36 => x = 1/6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ગુણોત્તર મધ્યક x = √(ab) લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શ્રેણી 0.15, 0.015, 0.0015, ... ના અનંત પદોનો સરવાળો શું થાય? \n(A) 1/6 \n(B) 15/99 \n(C) 1/9 \n(D) 15/90",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 15/90. a=0.15, r=0.1. S∞ = 0.15 / (1 - 0.1) = 0.15 / 0.9 = 15/90 = 1/6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પોઈન્ટ હટાવીને ગણતરી કરો: 0.15 / 0.90 = 15/90.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કઈ કિંમત માટે x, x+2, x+6 ગુણોત્તર શ્રેણીમાં હોય? \n(A) 1 \n(B) 2 \n(C) 3 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2. (x+2)² = x(x+6) => x²+4x+4 = x²+6x => 2x=4 => x=2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> x=2 મૂકતા 2, 4, 8 બને છે, જે ગુણોત્તર શ્રેણી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો aₙ = n(n!) હોય, તો પ્રથમ પદ શોધો. \n(A) 0 \n(B) 1 \n(C) 2 \n(D) 1!",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1. a₁ = 1(1!) = 1 * 1 = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ફેક્ટોરિયલ 1! = 1 થાય તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જો ગુણોત્તર શ્રેણીમાં પદો 5/2, 5/4, 5/8, ... હોય, તો n-મું પદ શું થશે? \n(A) 5 / 2ⁿ \n(B) 5 / 2ⁿ⁻¹ \n(C) 5 / 2ⁿ⁺¹ \n(D) 5ⁿ / 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5 / 2ⁿ. a=5/2, r=1/2. aₙ = (5/2)(1/2)ⁿ⁻¹ = 5 / 2ⁿ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> છેદમાં n=1 માટે 2, n=2 માટે 4... એટલે છેદ 2ⁿ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શ્રેણી 2, 2, 2, ... નો સામાન્ય ગુણોત્તર શું છે? \n(A) 0 \n(B) 2 \n(C) 1 \n(D) વ્યાખ્યાયિત નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1. r = 2/2 = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જો પદો સમાન હોય, તો ગુણોત્તર હંમેશા 1 હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "શ્રેણી 1, -3, 9, -27, ... નું 7-મું પદ શોધો. \n(A) 729 \n(B) -729 \n(C) 2187 \n(D) -2187",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 729. a=1, r=-3. a₇ = 1 * (-3)⁶ = 729.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> એકી ક્રમનું પદ (1, 3, 5, 7) હંમેશા ધન હશે કારણ કે r ઋણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો 1, G₁, G₂, 8 ગુણોત્તર શ્રેણીમાં હોય, તો G₁ * G₂ = ? \n(A) 8 \n(B) 4 \n(C) 16 \n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 8. ગુણોત્તર શ્રેણીની પ્રોપર્ટી મુજબ G₁ * G₂ = 1 * 8 = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અંત્યપદોનો ગુણાકાર = મધ્યકોનો ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો s = 1 + r + r² + ... (|r| < 1), તો r = ? \n(A) (s-1)/s \n(B) s/(s-1) \n(C) 1 - 1/s \n(D) A અને C બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) A અને C બંને. s = 1/(1-r) => 1-r = 1/s => r = 1 - 1/s = (s-1)/s.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સૂત્રનું કર્તા બનાવવાનું કામ ધ્યાનથી કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "શ્રેણી 1/2, -1/4, 1/8, -1/16, ... નો સામાન્ય ગુણોત્તર r = ? \n(A) 1/2 \n(B) -1/2 \n(C) 2 \n(D) -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1/2. r = (-1/4) / (1/2) = -2/4 = -1/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જો પદોની નિશાની પ્લસ-માઈનસ બદલાતી હોય તો r હંમેશા ઋણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જો x, 2x+2, 3x+3 ગુણોત્તર શ્રેણીમાં હોય, તો ચોથું પદ શોધો. \n(A) 27 \n(B) -13.5 \n(C) 13.5 \n(D) -27",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -13.5. (2x+2)² = x(3x+3) ઉકેલતા x = -4 અથવા x = -1. x=-4 માટે શ્રેણી -4, -6, -9 બને. r = 1.5. ચોથું પદ -9 * 1.5 = -13.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> દ્વિઘાત સમીકરણ ઉકેલીને r શોધી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "શ્રેણી 5, 55, 555, ... ના n પદોનો સરવાળો શોધવા કયો અવયવ સામાન્ય લેવો પડે? \n(A) 5 \n(B) 5/9 \n(C) 9/5 \n(D) 55",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5/9. આ પ્રકારના દાખલામાં પદોને 9 વડે ગુણીને ભાગવાથી (10ⁿ-1) નું સ્વરૂપ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 7, 77... હોય તો 7/9 લેવું, 5, 55... હોય તો 5/9 લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો a=3, r=1/2 હોય તો S∞ શોધો. \n(A) 6 \n(B) 3 \n(C) 1.5 \n(D) 4.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6. S∞ = 3 / (1 - 1/2) = 3 / (1/2) = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જો r=1/2 હોય, તો અનંત સરવાળો પ્રથમ પદ કરતા બમણો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "શ્રેણી 2, 4, 8, ... ના કેટલા પદોનો સરવાળો 1022 થાય? \n(A) 8 \n(B) 9 \n(C) 10 \n(D) 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9. Sₙ = 2(2ⁿ-1)/(2-1) = 1022 => 2ⁿ-1 = 511 => 2ⁿ = 512 => n=9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 2⁹ = 512 યાદ રાખવું ખૂબ ઉપયોગી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "બે સંખ્યાઓનો સમાંતર મધ્યક 10 અને ગુણોત્તર મધ્યક 8 હોય તો તે સંખ્યાઓ કઈ? \n(A) 12, 8 \n(B) 16, 4 \n(C) 10, 10 \n(D) 15, 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 16, 4. 16+4=20, 20/2=10 (A.M.). √(16*4)=√64=8 (G.M.).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વિકલ્પો પરથી ચેક કરવું સૌથી ઝડપી રીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો ગુણોત્તર શ્રેણીમાં r = -1 અને n બેકી સંખ્યા હોય, તો Sₙ = ? \n(A) a \n(B) 2a \n(C) 0 \n(D) -a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0. શ્રેણી a, -a, a, -a... બને. બેકી પદોનો સરવાળો 0 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જો r=-1 હોય, તો સરવાળો 0 (જો n બેકી) અથવા a (જો n એકી) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "શ્રેણી aₙ = (-1)ⁿ n³ નું 5-મું પદ શોધો. \n(A) 125 \n(B) -125 \n(C) 25 \n(D) -25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -125. a₅ = (-1)⁵ * 5³ = -1 * 125 = -125.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ઘાત એકી (odd) છે માટે નિશાની ઋણ (-) આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "શ્રેણી 0.6, 0.06, 0.006, ... નો r શોધો. \n(A) 1/10 \n(B) 10 \n(C) 6 \n(D) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/10. r = 0.06 / 0.6 = 0.1 = 1/10.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પોઈન્ટ એક સ્થાન જમણી બાજુ ખસે છે એટલે 1/10 ગુણાકાર થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "કિંમત શોધો: Σ 2ᵏ (k=1 to 5) \n(A) 31 \n(B) 32 \n(C) 62 \n(D) 64",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 62. 2+4+8+16+32 = 62. અથવા 2(2⁵-1)/(2-1) = 2(31) = 62.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સરવાળામાં પ્રથમ પદ 'a' નો ગુણાકાર ભૂલવો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "જો 5, x, y, 40 ગુણોત્તર શ્રેણીમાં હોય, તો x અને y શોધો. \n(A) 10, 20 \n(B) 15, 25 \n(C) 20, 30 \n(D) 10, 30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 10, 20. r³ = 40/5 = 8 => r=2. x = 5*2=10, y = 10*2=20.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> rⁿ⁻¹ = aₙ/a₁ સૂત્ર વાપરીને સીધો r શોધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "જો a = 1, r = 1/3 હોય તો અનંત પદોનો સરવાળો કેટલો? \n(A) 3/2 \n(B) 2/3 \n(C) 4/3 \n(D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3/2. S∞ = 1 / (1 - 1/3) = 1 / (2/3) = 3/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> છેદનો છેદ અંશમાં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "શ્રેણી 1, 1/2, 1/4, ... નું 10-મું પદ શું હશે? \n(A) 1/2¹⁰ \n(B) 1/2⁹ \n(C) 1/2¹¹ \n(D) 1/512",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/2⁹. a=1, r=1/2. a₁₀ = 1 * (1/2)⁹ = 1/512.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> n-મું પદ હોય ત્યારે ઘાત n-1 લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જો ગુણોત્તર શ્રેણીનું 4-થું પદ p, 7-મું પદ q અને 10-મું પદ s હોય, તો: \n(A) q² = ps \n(B) p² = qs \n(C) s² = pq \n(D) p+s = 2q",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) q² = ps. કારણ કે પદોના ક્રમ 4, 7, 10 સમાંતર શ્રેણીમાં છે, તેથી પદો પોતે ગુણોત્તર શ્રેણીમાં હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જો પદો વચ્ચેનું અંતર સમાન હોય (7-4=3, 10-7=3), તો વચલા પદનો વર્ગ = આજુબાજુનો ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "શ્રેણી 3, 3², 3³, ... ના કેટલા પદોનો સરવાળો 120 થાય? \n(A) 3 \n(B) 4 \n(C) 5 \n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4. 3 + 9 + 27 + 81 = 120.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નાના સરવાળા માટે પદો લખીને સીધો સરવાળો કરી લેવો સહેલો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "3 અને 27 વચ્ચેનો ગુણોત્તર મધ્યક શું થાય? \n(A) 15 \n(B) 9 \n(C) 12 \n(D) 81",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9. √(3 * 27) = √81 = 9.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સંખ્યાઓનો ગુણાકાર વર્ગમૂળ નીકળે તેવો જ હશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જો ગુણોત્તર શ્રેણીનું પ્રથમ પદ 7 અને છેલ્લું પદ 448 હોય, r=2 હોય, તો પદોની સંખ્યા n શોધો. \n(A) 6 \n(B) 7 \n(C) 8 \n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7. 448 = 7(2)ⁿ⁻¹ => 64 = 2ⁿ⁻¹ => 2⁶ = 2ⁿ⁻¹ => n=7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 64 એટલે 2 ની 6 ઘાત. n-1=6 એટલે n=7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "(-2/7), x, (-7/2) ગુણોત્તર શ્રેણીમાં હોય તો x = ? \n(A) 1 \n(B) -1 \n(C) ±1 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ±1. x² = (-2/7) * (-7/2) = 1 => x = ±1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વર્ગમૂળ હંમેશા ધન અને ઋણ બંને હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "શ્રેણી 2/9, 1/3, 1/2, ... નો સામાન્ય ગુણોત્તર r શોધો. \n(A) 3/2 \n(B) 2/3 \n(C) 1.5 \n(D) A અને C બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) A અને C બંને. r = (1/3) / (2/9) = 9/6 = 3/2 = 1.5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અપૂર્ણાંકના ભાગાકારમાં ઉલટાવીને ગુણવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જો a = 5, r = 2, Sₙ = 315 હોય, તો n શોધો. \n(A) 5 \n(B) 6 \n(C) 7 \n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6. 315 = 5(2ⁿ-1) / 1 => 63 = 2ⁿ-1 => 64 = 2ⁿ => n=6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 2⁶ = 64 યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "શ્રેણી aₙ = 2ⁿ નું પ્રથમ પદોનો સરવાળો S₃ શોધો. \n(A) 8 \n(B) 14 \n(C) 12 \n(D) 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 14. a₁=2, a₂=4, a₃=8. સરવાળો = 2+4+8 = 14.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 2 ની ઘાતનો સરવાળો તેના પછીની ઘાત - 2 જેટલો હોય (2⁴-2=14).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "શ્રેણી a, ar, ar², ... માં n-મું પદ શોધવાનું સૂત્ર... \n(A) arⁿ \n(B) arⁿ⁻¹ \n(C) a / rⁿ⁻¹ \n(D) a + (n-1)r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) arⁿ⁻¹. આ ગુણોત્તર શ્રેણીનું વ્યાપક પદ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પહેલા પદમાં r ની 0 ઘાત હોય, એટલે n-માં પદમાં (n-1) ઘાત હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જો ગુણોત્તર શ્રેણીના 3 પદોનો ગુણાકાર 27 હોય, તો વચલું પદ શું હોય? \n(A) 9 \n(B) 3 \n(C) 27 \n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3. (a/r) * a * (ar) = a³ = 27 => a = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ત્રણ પદોનો ગુણાકાર આપ્યો હોય ત્યારે મધ્યમ પદ એ ગુણાકારનું ઘનમૂળ (Cube root) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "અનંત ગુણોત્તર શ્રેણીના સરવાળા માટેની શરત કઈ છે? \n(A) r > 1 \n(B) r < 1 \n(C) |r| < 1 \n(D) r = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) |r| < 1. જો r ની કિંમત -1 અને 1 ની વચ્ચે હોય તો જ અનંત સરવાળો મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જો r મોટો હોય તો સરવાળો અનંત (Infinity) થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "જો A.M. = G.M. હોય તો બે સંખ્યાઓ a અને b વચ્ચે શું સંબંધ હોય? \n(A) a > b \n(B) a < b \n(C) a = b \n(D) a = 1/b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) a = b. મધ્યકો ત્યારે જ સમાન થાય જ્યારે સંખ્યાઓ પોતે સમાન હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સરખી સંખ્યાઓ માટે બધું જ સરખું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો 2, x, 32 ગુણોત્તર શ્રેણીમાં હોય, તો x = ? \n(A) 17 \n(B) 8 \n(C) 16 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 8. x = √(2 * 32) = √64 = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 2 * 8 = 16, 8 * 4 = 32. અહીં r=4 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "શ્રેણી 8, 4, 2, 1, 1/2, ... નો સામાન્ય ગુણોત્તર શોધો. \n(A) 2 \n(B) -2 \n(C) 1/2 \n(D) -1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/2. r = 4/8 = 1/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પદો અડધા થતા જાય છે, એટલે r = 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "જો પ્રથમ પદ a અને સામાન્ય ગુણોત્તર r હોય, તો n પદોનો સરવાળો Sₙ (જ્યારે r < 1) નું સૂત્ર: \n(A) a(1-rⁿ) / (1-r) \n(B) a(rⁿ-1) / (r-1) \n(C) na \n(D) a / (1-r)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) a(1-rⁿ) / (1-r). r < 1 હોવાથી 1 માંથી બાદબાકી કરવી સરળ રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> યાદ રાખવા માટે: r નાનો તો 1 પહેલા, r મોટો તો r પહેલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "જો 1, 2, 4, ... ગુણોત્તર શ્રેણી હોય, તો તેના 8 પદોનો સરવાળો શોધો. \n(A) 255 \n(B) 256 \n(C) 127 \n(D) 511",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 255. S₈ = 1(2⁸ - 1) / (2 - 1) = 256 - 1 = 255.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 2 ની 8 ઘાત 256 થાય, એમાંથી 1 બાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "શ્રેણી 1, 3, 9, 27, ... ના કેટલા પદોનો સરવાળો 364 થાય? \n(A) 5 \n(B) 6 \n(C) 4 \n(D) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6. 1+3+9+27+81+243 = 364.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> છેલ્લું પદ 243 છે, 243 * 3 = 729 (જે વધી જાય), એટલે અંદાજે 6 પદ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "એક ગુણોત્તર શ્રેણી માટે a₃ = 24 અને a₆ = 192, તો r શોધો. \n(A) 2 \n(B) 3 \n(C) 4 \n(D) 1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2. r³ = 192 / 24 = 8 => r = 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પદોના ક્રમનો તફાવત (6-3=3) એ r ની ઘાત બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "જો શ્રેણી 1, x, 1/4 અનંત ગુણોત્તર શ્રેણી હોય અને તેનો સરવાળો 4/3 હોય, તો x = ? \n(A) 1/2 \n(B) 1/4 \n(C) 1/3 \n(D) 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/4. S∞ = 1 / (1-x) = 4/3 => 3 = 4 - 4x => 4x = 1 => x = 1/4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> x એ સામાન્ય ગુણોત્તર છે, સૂત્રમાં કિંમત મૂકી સાદું રૂપ આપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "(-4/3), x, (-3/4) ગુણોત્તર શ્રેણીમાં હોય તો x શોધો. \n(A) 1 \n(B) -1 \n(C) ±1 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ±1. x² = (-4/3) * (-3/4) = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> વ્યસ્ત સંખ્યાઓનો ગુણાકાર હંમેશા 1 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "જો a=1, r=1.1 હોય, તો a₂ શોધો. \n(A) 1.1 \n(B) 1.21 \n(C) 2.1 \n(D) 1.01",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1.1. a₂ = ar = 1 * 1.1 = 1.1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> બીજા પદ માટે સીધો a અને r નો ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "જો n-મું પદ aₙ = 3(2ⁿ) હોય, તો r શું હશે? \n(A) 3 \n(B) 2 \n(C) 6 \n(D) 2ⁿ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2. a₁=6, a₂=12. r = 12/6 = 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> n ની નીચે જે સંખ્યા હોય તે જ સામાન્ય ગુણોત્તર 'r' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "બે સંખ્યાઓનો સમાંતર મધ્યક 6.5 અને ગુણોત્તર મધ્યક 6 હોય, તો તે સંખ્યાઓ કઈ? \n(A) 9, 4 \n(B) 8, 5 \n(C) 7, 6 \n(D) 10, 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 9, 4. (9+4)/2 = 6.5 અને √(9*4) = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 9 અને 4 નો ગુણાકાર 36 થાય જેનું વર્ગમૂળ 6 છે, સીધો જવાબ મળી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "શ્રેણી 1, 2, 4, 8, ... ના n પદોનો સરવાળો 1000 થી ક્યારે વધે? \n(A) n=9 \n(B) n=10 \n(C) n=11 \n(D) n=8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) n=10. S₁₀ = 2¹⁰ - 1 = 1023, જે 1000 થી વધારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 2 ની 10 ઘાત (1024) એ 1000 ની સૌથી નજીકની મોટી ઘાત છે.</p></div>"
+    }
+  ]
+}

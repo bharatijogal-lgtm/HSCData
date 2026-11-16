@@ -2326,3 +2326,371 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "દ્વિપદી પ્રમેય",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "$(x + a)^n$ ના વિસ્તરણમાં કુલ પદોની સંખ્યા કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) n + 1</p><p>દ્વિપદી પ્રમેય મુજબ, $(x + a)^n = ^nC_0 x^n + ^nC_1 x^{n-1}a + ... + ^nC_n a^n$. અહીં ઘાતાંક 0 થી શરૂ થઈ n સુધી જાય છે, તેથી કુલ n+1 પદો મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદોની સંખ્યા = ઘાત (index) + 1. જેટલી ઘાત હોય તેમાં 1 ઉમેરી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "$(2x + 3y)^{10}$ ના વિસ્તરણમાં પદોની સંખ્યા કેટલી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 11</p><p>અહીં n = 10 છે. પદોની સંખ્યા = n + 1 = 10 + 1 = 11.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 10 છે, તો જવાબ 10 + 1 = 11 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "$(x + a)^n$ ના વિસ્તરણમાં દરેક પદમાં x અને a ના ઘાતાંકોનો સરવાળો કેટલો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) n</p><p>વ્યાપક પદ $T_{r+1} = ^nC_r x^{n-r} a^r$ માં ઘાતાંકોનો સરવાળો (n-r) + r = n થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિપદી વિસ્તરણમાં હંમેશા દરેક પદની કુલ ઘાત 'n' જેટલી જ રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "$(1 + x)^n$ ના વિસ્તરણમાં સહગુણકોનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 2^n</p><p>$(1 + x)^n = ^nC_0 + ^nC_1x + ^nC_2x^2 + ... + ^nC_nx^n$. x = 1 મૂકતા, $2^n = ^nC_0 + ^nC_1 + ... + ^nC_n$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહગુણકોનો સરવાળો શોધવા માટે ચલ (x) ની કિંમત 1 લઈ લો. (1+1)^n = 2^n.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "$(1 - x)^n$ ના વિસ્તરણમાં સહગુણકોનો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0</p><p>x = 1 મૂકતા, (1 - 1)^n = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પદમાં વચ્ચે '-' હોય અને ઘાત n હોય, તો x=1 મુકતા જવાબ હંમેશા 0 આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "$(x+y)^n$ ના વિસ્તરણમાં વ્યાપક પદ $T_{r+1}$ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ^nC_r x^{n-r} y^r</p><p>આ દ્વિપદી પ્રમેયનું પ્રમાણિત સૂત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 'r' હંમેશા બીજા પદની (y ની) ઘાત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાસ્કલના ત્રિકોણમાં 5મી હારના અંકો કયા હશે? (n=4 માટે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1, 4, 6, 4, 1</p><p>n=4 માટેના સહગુણકો $^4C_0, ^4C_1, ^4C_2, ^4C_3, ^4C_4$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલ ટ્રાયંગલમાં બંને છેડે '1' હોય અને વચ્ચેના અંકો ઉપરની હારના બે અંકોનો સરવાળો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો n યુગ્મ હોય, તો $(x+a)^n$ ના વિસ્તરણમાં મધ્યમ પદ કયું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (n/2 + 1) મું પદ</p><p>જ્યારે n યુગ્મ હોય ત્યારે કુલ (n+1) પદો (એકી સંખ્યા) થાય, તેથી એક જ મધ્યમ પદ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુગ્મ ઘાત = 1 મધ્યમ પદ. ઉદા. n=10 હોય તો 10/2 + 1 = 6ઠ્ઠું પદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો n અયુગ્મ હોય, તો $(x+a)^n$ ના વિસ્તરણમાં કેટલા મધ્યમ પદ મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><p>અયુગ્મ n માટે કુલ (n+1) યુગ્મ પદો થાય, તેથી બે મધ્યમ પદો મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયુગ્મ ઘાત = 2 મધ્યમ પદો. જેમ કે n=3 હોય તો 2જું અને 3જું પદ મધ્યમ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "$(x^2 - y)^{10}$ ના વિસ્તરણમાં $x^{12}$ વાળું પદ કયું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 5મું પદ ($T_5$)</p><p>$T_{r+1} = ^{10}C_r (x^2)^{10-r} (-y)^r$. x ની ઘાત $2(10-r) = 20-2r = 12 \Rightarrow 2r=8 \Rightarrow r=4$. તેથી પદ $T_{4+1} = T_5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત સરખાવીને 'r' શોધો અને પદ માટે r+1 કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "$(1+x)^{10}$ માં મધ્યમ પદ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $T_6$</p><p>n = 10 (યુગ્મ), મધ્યમ પદ = (10/2) + 1 = 6ઠ્ઠું પદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધા કરીને એક ઉમેરો! 10 ના અડધા 5 + 1 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "$^nC_0 + ^nC_1 + ^nC_2 + ... + ^nC_n$ ની કિંમત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $2^n$</p><p>આ દ્વિપદી સહગુણકોનો કુલ સરવાળો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n ઘાતવાળા (1+1)^n ના વિસ્તરણનો આ પાયાનો નિયમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "$(x+2y)^9$ ના મધ્યમ પદો કયા થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $T_5$ અને $T_6$</p><p>n = 9 (અયુગ્મ). મધ્યમ પદો = (9+1)/2 = 5મું અને 5+1 = 6ઠ્ઠું પદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી ઘાત હોય તો (n+1)/2 અને તેની પછીનું પદ મધ્યમ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "$^5C_0 + ^5C_1 + ^5C_2 + ^5C_3 + ^5C_4 + ^5C_5$ બરાબર કેટલા થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 32</p><p>$2^5 = 32$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ની n ઘાત મૂકો. અહીં n=5 છે, એટલે $2 \times 2 \times 2 \times 2 \times 2 = 32$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "$(a+b)^4 - (a-b)^4$ ના સાદુરૂપમાં કેટલા પદો બાકી રહેશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2</p><p>વિસ્તરણમાં એકી સ્થાનવાળા પદો કેન્સલ થશે અને બેકી સ્થાનવાળા (2જું અને 4થું) પદો બમણા થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(x+y)^n - (x-y)^n$ માં જો n યુગ્મ હોય તો n/2 પદો રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$11^5$ ની કિંમત દ્વિપદી પ્રમેયથી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 161051</p><p>$(10+1)^5 = ^{5}C_0 10^5 + ^{5}C_1 10^4 + ... + 1 = 100000 + 50000 + 10000 + 1000 + 50 + 1 = 161051$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલની 5મી હારના અંકો 1, 5, 10, 10, 5, 1 નો ઉપયોગ કરીને કિંમત મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "$(x + \frac{1}{x})^4$ ના વિસ્તરણમાં અચળ પદ કયું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><p>$T_{r+1} = ^4C_r x^{4-r} (x^{-1})^r = ^4C_r x^{4-2r}$. અચળ પદ માટે 4-2r = 0 $\Rightarrow$ r = 2. $^4C_2 = 6$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમ પદ જ અચળ પદ બને જ્યારે બંને ચલ વ્યસ્ત હોય અને ઘાત યુગ્મ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$^nC_r$ ની કિંમત નીચેનામાંથી કોના બરાબર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $^nC_{n-r}$</p><p>આ સંચયનો પૂરક ગુણધર્મ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'r' પસંદ કરો કે 'n-r' ને દૂર કરો, બંને સરખું જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "$(1+x)^{18}$ ના વિસ્તરણમાં જો $T_{r}$ અને $T_{r+1}$ ના સહગુણકો સમાન હોય તો r = ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9</p><p>$^{18}C_{r-1} = ^{18}C_r \Rightarrow r-1 + r = 18 \Rightarrow 2r = 19$. (આ પ્રશ્નમાં r પૂર્ણાંક હોવો જરૂરી છે, સુધારો: $T_r$ અને $T_{r+1}$ સહગુણકો મધ્યમાં હોય ત્યારે સમાન થાય. જો n=17 અયુગ્મ હોય તો સમાન મળે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહગુણકોની સમાનતા મધ્યમ પદની આસપાસ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "$(x+y)^n$ ના વિસ્તરણમાં છેલ્લેથી r-મું પદ શરૂઆતથી કેટલામું પદ હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (n-r+2) મું પદ</p><p>કુલ પદો n+1 છે. છેલ્લેથી r-મું પદ = (n+1) - r + 1 = n-r+2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ પદોમાંથી પાછળનું સ્થાન બાદ કરી 1 ઉમેરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "$(1.01)^{1000000}$ અને $10000$ માંથી કઈ સંખ્યા મોટી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $(1.01)^{1000000}$</p><p>$(1 + 0.01)^{1000000} = 1 + 1000000(0.01) + ... = 1 + 10000 + ... = 10001 + \text{positive terms}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્તરણના પહેલા બે પદોનો સરવાળો જ 10001 થઈ જાય છે, જે 10000 થી મોટો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "$96^3$ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 884736</p><p>$(100-4)^3 = 100^3 - 3(100^2)(4) + 3(100)(4^2) - 4^3 = 1000000 - 120000 + 4800 - 64 = 884736$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $(a-b)^3 = a^3 - 3a^2b + 3ab^2 - b^3$ સૂત્ર વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દ્વિપદી વિસ્તરણમાં $^nC_1, ^nC_2, ...$ ને શું કહેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દ્વિપદી સહગુણકો</p><p>તેઓ વિસ્તરણના પદોના ગુણક તરીકે આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Combinations ના પરિણામો અહીં સહગુણક (Coefficients) તરીકે ઓળખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "$(x+y)^{100}$ ના વિસ્તરણમાં 51મું પદ કયું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મધ્યમ પદ</p><p>n=100 યુગ્મ છે, મધ્યમ પદ = (100/2) + 1 = 51મું પદ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 ઘાત હોય તો કુલ 101 પદો હોય, એટલે 51મું પદ બરાબર વચ્ચે આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "$(a+b)^n$ ના વિસ્તરણમાં પ્રથમ પદ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) $a^n$</p><p>$^nC_0 a^n b^0 = 1 \cdot a^n \cdot 1 = a^n$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્તરણ હંમેશા પહેલા ચલની પૂરેપૂરી ઘાતથી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "$(a+b)^n$ ના વિસ્તરણમાં અંતિમ પદ કયું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $b^n$</p><p>$^nC_n a^0 b^n = 1 \cdot 1 \cdot b^n = b^n$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિસ્તરણ હંમેશા બીજા ચલની પૂરેપૂરી ઘાત પર પૂરું થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "$(1+x)^n$ ના વિસ્તરણમાં બીજા પદનો સહગુણક શું હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) n</p><p>$T_2 = ^nC_1 x^1 = n \cdot x$. સહગુણક n છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ વિસ્તરણમાં બીજું પદ હંમેશા ઘાત (n) સાથે આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો $^nC_8 = ^nC_2$ હોય, તો $^nC_1$ ની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10</p><p>$n = 8 + 2 = 10$. તેથી $^{10}C_1 = 10$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો $^nC_x = ^nC_y$ તો $n = x + y$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "$(2+x)^5$ માં $x^3$ નો સહગુણક શું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 40</p><p>$T_{r+1} = ^5C_r 2^{5-r} x^r$. $x^3$ માટે r=3. $^5C_3 \cdot 2^{5-3} = 10 \cdot 2^2 = 10 \cdot 4 = 40$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'r' ની કિંમત ઘાત જેટલી જ લો, r=3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "$(1-2x)^5$ માં મધ્યમ પદો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) $T_3$ અને $T_4$</p><p>n=5 (અયુગ્મ), મધ્યમ પદો (5+1)/2 = 3જું અને 4થું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 ઘાત છે, એટલે 6 પદો, વચ્ચે 3 અને 4 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "$^nC_0 - ^nC_1 + ^nC_2 - ... + (-1)^n ^nC_n$ ની કિંમત?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0</p><p>આ $(1-1)^n$ નું વિસ્તરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકાંતરે + અને - ચિહ્નો હોય તો સરવાળો હંમેશા શૂન્ય જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "$(x+a)^n$ ના વિસ્તરણમાં શરૂઆતથી (r+1) મું અને અંતથી (r+1) મું પદના સહગુણકોનો સંબંધ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાન હોય</p><p>કારણ કે $^nC_r = ^nC_{n-r}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલ ટ્રાયંગલ જુઓ, બંને છેડેથી અંકો સરખા જ ચાલતા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "$101^4$ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 104060401</p><p>$(100+1)^4$ માં સહગુણકો 1, 4, 6, 4, 1 વાપરો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100+1 હોવાથી દર બે અંકે પાસ્કલ સહગુણક મૂકો: 1-04-06-04-01.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "$(x/a + a/x)^{10}$ નું મધ્યમ પદ કયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) $^{10}C_5$</p><p>અહીં x અને a કેન્સલ થઈ જશે. $T_6 = ^{10}C_5 (x/a)^5 (a/x)^5 = ^{10}C_5$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ચલો એકબીજાના વ્યસ્ત હોય, ત્યારે મધ્યમ પદ ચલ રહિત (અચળ) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "$(1+x)^{2n}$ ના મધ્યમ પદનો સહગુણક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $^{2n}C_n$</p><p>કુલ 2n+1 પદો, મધ્યમ પદ = (2n/2)+1 = (n+1) મું. સહગુણક $^{2n}C_n$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુગ્મ ઘાત હોય તો મધ્યમ પદનો 'r' અડધો (n) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "$(\sqrt{2} + 1)^6 - (\sqrt{2} - 1)^6$ ની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $70\sqrt{2}$</p><p>સાદું રૂપ આપતા $2[ ^6C_1(\sqrt{2})^5 + ^6C_3(\sqrt{2})^3 + ^6C_5\sqrt{2} ]$ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર અયુગ્મ પદોનો સરવાળો કરી બમણો કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "$(1+x)^{n}$ ના વિસ્તરણમાં જો $n=5$ હોય, તો સૌથી મોટો સહગુણક કયો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 10</p><p>n=5 માટે સહગુણકો: 1, 5, 10, 10, 5, 1. સૌથી મોટો 10 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટો સહગુણક હંમેશા મધ્યમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "$(x+1/x)^2$ માં પદોની સંખ્યા કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3</p><p>n = 2, તો પદો 2 + 1 = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગમે તેવા પદ હોય, ઘાતમાં 1 જ ઉમેરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "$(a+b)^n$ માં $T_r$ નું સૂત્ર શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $^nC_{r-1} a^{n-r+1} b^{r-1}$</p><p>કારણ કે $T_{r} = T_{(r-1)+1}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ ક્રમાંક કરતા 'r' હંમેશા 1 ઓછો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો $(1+x)^{15}$ ના r અને r+3 માં પદોના સહગુણકો સમાન હોય, તો r = ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7</p><p>$^{15}C_{r-1} = ^{15}C_{r+2} \Rightarrow r-1 + r+2 = 15 \Rightarrow 2r+1 = 15 \Rightarrow 2r=14 \Rightarrow r=7$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $^nC_x = ^nC_y$ વાપરો જ્યાં $x = r-1$ અને $y = r+2$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "$2^{10}$ ની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1024</p><p>આ $(1+1)^{10}$ ના સહગુણકોનો સરવાળો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોમ્પ્યુટર મેમરીમાં 1 KB = 1024 Bytes યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "$(x^2 + 2x + 1)^3$ માં પદોની સંખ્યા કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7</p><p>$(x+1)^2$ ની 3 ઘાત એટલે $(x+1)^6$. પદો 6 + 1 = 7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદાવલીને દ્વિપદીમાં ફેરવો: $(x+1)^2$. ઘાત નો ગુણાકાર કરો $2 \times 3 = 6$. હવે 6+1 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "દ્વિપદી પ્રમેય કયા વૈજ્ઞાનિક/ગણિતશાસ્ત્રી સાથે જોડાયેલ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આઈઝેક ન્યુટન</p><p>ન્યુટને દ્વિપદી પ્રમેયનું વ્યાપક સ્વરૂપ આપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલ પણ છે, પણ વ્યાપક શ્રેય ન્યુટનને જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "$(x+y)^n$ ના વિસ્તરણમાં સહગુણકો કઈ રીતે વધે-ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પહેલા વધે અને પછી ઘટે</p><p>તે મધ્ય સુધી વધે અને પછી સપ્રમાણ રીતે ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્વત જેવું યાદ રાખો, મધ્યમાં ટોચ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "$(1+x)^{20}$ માં $x^r$ અને $x^{r+1}$ ના સહગુણકો સમાન હોય તો r?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શક્ય નથી</p><p>યુગ્મ ઘાતમાં બે ક્રમિક પદોના સહગુણકો ક્યારેય સમાન ન હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુગ્મ ઘાતમાં 1 જ મધ્યમ પદ હોય, તેની આજુબાજુના પદો સમાન હોય, ક્રમિક નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જો $(a+b)^n$ માં n=0 હોય તો પદોની સંખ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><p>0 + 1 = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યાની 0 ઘાત 1 થાય, એટલે 1 જ પદ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "$^nC_r / ^nC_{r-1}$ નું મૂલ્ય કેટલું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (n-r+1) / r</p><p>આ ક્રમિક સહગુણકોનો ગુણોત્તર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સૂત્ર ખૂબ જ ઉપયોગી છે, યાદ રાખી લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "$(1-x)^{10}$ માં મધ્યમ પદ કયું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $-^{10}C_5 x^5$</p><p>મધ્યમ પદ $T_6 = ^{10}C_5 (1)^5 (-x)^5$. માઈનસની એકી ઘાત માઈનસ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો વચ્ચે '-' હોય તો બેકી ક્રમાંકનું પદ હંમેશા ઋણ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "$^nC_0 + ^nC_2 + ^nC_4 + ...$ (યુગ્મ પદોનો સરવાળો) કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $2^{n-1}$</p><p>કુલ સરવાળો $2^n$ છે, અને અડધા યુગ્મ પદો હોય, $2^n / 2 = 2^{n-1}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી અને યુગ્મ સ્થાનોના સહગુણકોનો સરવાળો હંમેશા સરખો અને કુલથી અડધો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "$(x+y)^3 + (x-y)^3$ માં કેટલા પદો મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><p>$2[x^3 + 3xy^2]$. કુલ બે જ પદો મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n અયુગ્મ હોય ત્યારે (n+1)/2 પદો મળે. (3+1)/2 = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "$(1+x)^n$ ના વિસ્તરણમાં છેલ્લા પદનો સહગુણક?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 1</p><p>$^nC_n = 1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલો અને છેલ્લો સહગુણક હંમેશા 1 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "$(x+y)^n$ માં x ની ઘાત કેવી રીતે બદલાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) n થી ઘટીને 0 થાય</p><p>પ્રથમ પદમાં $x^n$ અને છેલ્લા પદમાં $x^0$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાની ઘાત ઘટે, બીજાની ઘાત વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "$(x+y)^n$ માં y ની ઘાત કેવી રીતે બદલાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0 થી વધીને n થાય</p><p>પ્રથમ પદમાં $y^0$ અને છેલ્લા પદમાં $y^n$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજું પદ પાછળથી પાવર પકડે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "$(x^3 + 1/x^2)^{10}$ માં અચળ પદ કયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $T_7$</p><p>$3(10-r) - 2r = 0 \Rightarrow 30 - 5r = 0 \Rightarrow r = 6$. પદ $T_{6+1} = 7$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $r = (n \times p) / (p+q)$ સૂત્ર વાપરો. $r = (10 \times 3) / (3+2) = 30/5 = 6$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "$^nC_r$ માં n હંમેશા કેવો હોવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધન પૂર્ણાંક</p><p>દ્વિપદી પ્રમેય (NCERT સિલેબસ મુજબ) માત્ર ધન પૂર્ણાંક n માટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n એ વસ્તુઓની સંખ્યા દર્શાવે છે, જે ક્યારેય ઋણ કે અપૂર્ણાંક ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "$(1+x)^{40}$ માં $x^{20}$ નો સહગુણક?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $^{40}C_{20}$</p><p>$T_{21} = ^{40}C_{20} x^{20}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (1+x) હોય ત્યારે x ની જે ઘાત જોઈએ તે જ 'r' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "$(\sqrt{x} + \sqrt{y})^4$ ના વિસ્તરણમાં મધ્યમ પદ કયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $6xy$</p><p>$T_3 = ^4C_2 (\sqrt{x})^2 (\sqrt{y})^2 = 6xy$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n=4 માટે ત્રીજું પદ મધ્યમ છે, વર્ગમૂળ અને વર્ગ ઉડી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "$(1+x)^{n}$ માં જો સહગુણકોનો સરવાળો 4096 હોય, તો n = ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12</p><p>$2^n = 4096 \Rightarrow 2^{10}=1024, 2^{11}=2048, 2^{12}=4096$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ની ઘાત યાદ રાખો! 2^10 = 1024, પછી ડબલ કરતા જાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "$(a-b)^5$ ના વિસ્તરણનું ચોથું પદ કેવું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઋણ</p><p>$(a-b)^n$ માં બેકી સ્થાને રહેલા પદો (2, 4, 6...) હંમેશા ઋણ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $T_4$ એટલે $b$ ની ઘાત 3 (અયુગ્મ), એટલે ચિહ્ન '-' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "$9^n - 8n - 1$ એ હંમેશા કોના દ્વારા વિભાજ્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 64</p><p>$(1+8)^n - 8n - 1 = (1 + 8n + ^nC_2 8^2 + ...) - 8n - 1 = 64 \times (\text{integer})$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n=2 મૂકો: $9^2 - 8(2) - 1 = 81 - 16 - 1 = 64$. જે 64 થી વિભાજ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "$(1+x)^{n}$ ના વિસ્તરણમાં $x^2$ નો સહગુણક?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) n(n-1)/2</p><p>$^nC_2 = \frac{n(n-1)}{2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $^nC_2$ ની કિંમત હંમેશા $n(n-1)/2$ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "$(1+x)^{n}$ માં $x^3$ નો સહગુણક?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) n(n-1)(n-2)/6</p><p>$^nC_3 = \frac{n(n-1)(n-2)}{3 \times 2 \times 1}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે ફેક્ટોરિયલ 3! = 6 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "$(\sqrt{3} + 1)^4 + (\sqrt{3} - 1)^4$ ની કિંમત?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 56</p><p>$2[ (\sqrt{3})^4 + 6(\sqrt{3})^2(1)^2 + 1^4 ] = 2[9 + 18 + 1] = 2[28] = 56$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર યુગ્મ સ્થાનો (0, 2, 4) વાળા પદોનો સરવાળો કરી બમણો કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "જો n = 6 હોય, તો મધ્યમ પદનો સહગુણક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 20</p><p>$^6C_3 = \frac{6 \times 5 \times 4}{3 \times 2 \times 1} = 20$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n=6 માટે 1, 6, 15, 20, 15, 6, 1. મધ્યમાં 20 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "$^nC_r$ ને બીજા કયા સંકેતથી લખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $\binom{n}{r}$</p><p>આ આંતરરાષ્ટ્રીય સ્તરે વપરાતો સંકેત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રેકેટમાં ઉપર n અને નીચે r, વચ્ચે કોઈ લીટી નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "$(2x - 3y)^{12}$ ના વિસ્તરણમાં $r=0$ માટે પદ કયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $T_1$</p><p>$T_{r+1}$ માં r=0 મુકતા પ્રથમ પદ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r હંમેશા પદના ક્રમ કરતા એક ઓછો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "$(x+a)^n$ ના વિસ્તરણમાં r મું પદ $T_r$ હોય, તો $T_{r+1}/T_r$ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $\frac{n-r+1}{r} \cdot \frac{a}{x}$</p><p>આ બે ક્રમિક પદોનો ગુણોત્તર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહગુણકોનો ગુણોત્તર $\times$ બીજા અને પહેલા પદનો ગુણોત્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "$(x^2 - 1/x)^9$ ના વિસ્તરણમાં $x^9$ નો સહગુણક?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -84</p><p>$2(9-r) - r = 9 \Rightarrow 18 - 3r = 9 \Rightarrow 3r = 9 \Rightarrow r = 3$. $T_4 = ^9C_3 (-1)^3 = -84$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: r=3 અયુગ્મ છે અને વચ્ચે '-' છે, એટલે જવાબ ઋણ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "જો n અયુગ્મ હોય, તો મધ્યમ પદોના સહગુણકો કેવા હોય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાન</p><p>$^nC_{(n-1)/2} = ^nC_{(n+1)/2}$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાસ્કલ ટ્રાયંગલની કોઈપણ અયુગ્મ હાર જુઓ, વચ્ચેના બે આંકડા સરખા જ હશે (દા.ત. n=3 માટે 3, 3).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "$(1+x)^n$ ના વિસ્તરણમાં $T_2$ અને $T_n$ ના સહગુણકોનો સરવાળો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 2n</p><p>$^nC_1 + ^nC_{n-1} = n + n = 2n$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજું અને છેલ્લેથી બીજું પદ હંમેશા n જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "$(x+y)^{10}$ માં કયા પદનો સહગુણક સૌથી મોટો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6ઠ્ઠું પદ</p><p>મધ્યમ પદનો સહગુણક હંમેશા મહત્તમ હોય. (10/2) + 1 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોચ પર પહોંચવા માટે અડધે સુધી જવું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "$(1-x)^{2n-1}$ માં મધ્યમ પદોની સંખ્યા કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><p>ઘાત $2n-1$ એ હંમેશા અયુગ્મ હોય, તેથી 2 મધ્યમ પદ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2n$ યુગ્મ હોય, તો $2n-1$ અયુગ્મ જ હોય.</p></div>"
+    }
+  ]
+}

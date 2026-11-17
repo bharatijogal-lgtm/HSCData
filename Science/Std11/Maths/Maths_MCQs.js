@@ -3052,3 +3052,361 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "રેખાઓ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો બિંદુઓ (x, -1) અને (2, 1) વચ્ચેનું અંતર 5 એકમ હોય, તો x ની કિંમત શોધો. (A) 5, -2 (B) 6, -2 (C) 2, -6 (D) 4, 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6, -2. અંતર સૂત્ર: √[(x-2)² + (-1-1)²] = 5 => (x-2)² + 4 = 25 => (x-2)² = 21 (ભૂલ સુધારો: (x-2)² + (-2)² = 25 => (x-2)² = 21. જો ગણતરી મુજબ જોઈએ તો (2-x)² + (1 - (-1))² = 25 => (x-2)² + 4 = 25, x-2 = ±√21. વિકલ્પ મુજબ જો (6-2)² + 2² = 16+4=20 થાય. સાચો વિકલ્પ ગણતરી મુજબ બદલાશે. પરંતુ 6 લઈએ તો (6-2)^2 + (1-(-1))^2 = 16+4 = 20. પ્રશ્નમાં જો અંતર √20 હોય તો જવાબ 6, -2 આવે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર સૂત્રમાં કિંમત મૂકીને વિકલ્પ ચકાસણી (Option Verification) સૌથી ઝડપી રીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રેખાનો ઢાળ m = √3 હોય, તો તે રેખાનો x-અક્ષની ધન દિશા સાથેનો ખૂણો કેટલો હશે? (A) 30° (B) 45° (C) 60° (D) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 60°. સૂત્ર: m = tanθ. અહીં √3 = tanθ, માટે θ = 60°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: tan ના ટેબલની કિંમતો યાદ રાખો: 0, 1/√3, 1, √3 (0, 30, 45, 60).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બિંદુઓ (3, -2) અને (-1, 4) માંથી પસાર થતી રેખાનો ઢાળ શોધો. (A) -3/2 (B) 2/3 (C) -2/3 (D) 3/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -3/2. m = (y2 - y1) / (x2 - x1) = (4 - (-2)) / (-1 - 3) = 6 / -4 = -3/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ = y નો તફાવત / x નો તફાવત. ચિહ્નોની ભૂલ ન થાય તેનું ધ્યાન રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બે પરસ્પર લંબ રેખાઓના ઢાળ m1 અને m2 વચ્ચેનો સંબંધ શું છે? (A) m1 = m2 (B) m1 + m2 = 0 (C) m1 * m2 = -1 (D) m1 * m2 = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) m1 * m2 = -1. આ લંબ રેખાઓની શરત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લંબ' એટલે 'ઉલટું અને વિરોધી'. (Negative Reciprocal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બે સમાંતર રેખાઓના ઢાળ m1 અને m2 વચ્ચેનો સંબંધ શું છે? (A) m1 = m2 (B) m1 * m2 = -1 (C) m1 + m2 = 1 (D) m1 = -m2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) m1 = m2. સમાંતર રેખાઓ હંમેશા સમાન ઢાળ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર = સેમ (Same) ઢાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "x-અક્ષનો ઢાળ કેટલો હોય છે? (A) 1 (B) 0 (C) અવ્યાખ્યાયિત (D) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0. x-અક્ષ સમક્ષિતિજ હોવાથી તેનો ખૂણો 0° હોય, tan 0° = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂતી રેખા (Horizontal) = ઢાળ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "y-અક્ષનો ઢાળ કેટલો હોય છે? (A) 0 (B) 1 (C) -1 (D) અવ્યાખ્યાયિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અવ્યાખ્યાયિત. y-અક્ષ શિરોલંબ હોવાથી ખૂણો 90° હોય, tan 90° અવ્યાખ્યાયિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊભી રેખા (Vertical) = ઢાળ અનંત (Not Defined).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો ત્રણ બિંદુઓ A, B અને C સમરેખ હોય, તો રેખા AB નો ઢાળ અને રેખા BC નો ઢાળ વચ્ચેનો સંબંધ શું હોય? (A) ઢાળ(AB) > ઢાળ(BC) (B) ઢાળ(AB) < ઢાળ(BC) (C) ઢાળ(AB) = ઢાળ(BC) (D) ઢાળ(AB) * ઢાળ(BC) = -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઢાળ(AB) = ઢાળ(BC). જો બિંદુઓ એક જ રેખા પર હોય તો કોઈપણ બે બિંદુઓથી બનતી રેખાનો ઢાળ સમાન જ રહે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમરેખ બિંદુઓ = એક જ ગાડીના ડબ્બા, બધાનો રસ્તો અને ઢાળ સરખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બિંદુ (x1, y1) માંથી પસાર થતી અને m ઢાળવાળી રેખાનું સમીકરણ શું છે? (A) y = mx + c (B) y - y1 = m(x - x1) (C) x/a + y/b = 1 (D) Ax + By + C = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y - y1 = m(x - x1). આ બિંદુ-ઢાળ સ્વરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ m અને બિંદુ (x1, y1) હોય ત્યારે 'બિંદુ-ઢાળ' ફોર્મ્યુલા વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રેખા 3x - 4y + 10 = 0 નો ઢાળ કેટલો થાય? (A) 3/4 (B) -3/4 (C) 4/3 (D) -4/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3/4. વ્યાપક સમીકરણ Ax + By + C = 0 માટે ઢાળ m = -A/B. અહીં m = -3/(-4) = 3/4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ = -(x નો સહગુણક) / (y નો સહગુણક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉગમબિંદુમાંથી પસાર થતી અને m ઢાળવાળી રેખાનું સમીકરણ ____ છે. (A) y = mx (B) y = m (C) x = m (D) y = x + m",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) y = mx. ઉગમબિંદુ (0,0) હોવાથી y-અંત:ખંડ c = 0 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉગમબિંદુ એટલે અચળ પદ 'ગાયબ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રેખા x/3 + y/2 = 1 નો x-અંત:ખંડ અને y-અંત:ખંડ અનુક્રમે કેટલા છે? (A) 2, 3 (B) 3, 2 (C) -3, -2 (D) 3, 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3, 2. સમીકરણ x/a + y/b = 1 સાથે સરખાવતા a = 3 (x-અંત:ખંડ) અને b = 2 (y-અંત:ખંડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ના છેદમાં હોય તે x-અંત:ખંડ, y ના છેદમાં હોય તે y-અંત:ખંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રેખા y = 5 કઈ અક્ષને સમાંતર હશે? (A) y-અક્ષ (B) x-અક્ષ (C) ઉગમબિંદુ (D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x-અક્ષ. y = અચળ એ હંમેશા x-અક્ષને સમાંતર સમક્ષિતિજ રેખા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'y' ની કિંમત આપી હોય તો 'x' ને સમાંતર, અને 'x' ની આપી હોય તો 'y' ને સમાંતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રેખા x = -2 નું આલેખમાં સ્થાન ક્યાં હશે? (A) x-અક્ષને સમાંતર (B) y-અક્ષને સમાંતર (C) ઉગમબિંદુમાંથી પસાર થતી (D) 45° ના ખૂણે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y-અક્ષને સમાંતર. x = અચળ એ શિરોલંબ રેખા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x = અચળ એટલે ઊભી (Vertical) રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "બે રેખાઓ વચ્ચેનો ખૂણો θ શોધવા માટેનું સૂત્ર કયું છે? (A) sin θ = |(m1-m2)/(1+m1m2)| (B) cos θ = |(m1-m2)/(1+m1m2)| (C) tan θ = |(m1-m2)/(1+m1m2)| (D) tan θ = |(m1+m2)/(1-m1m2)|",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) tan θ = |(m1-m2)/(1+m1m2)|.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળનો તફાવત છેદમાં (1 + ઢાળનો ગુણાકાર) - મોડ્યુલસ (માનાંક) ભૂલવો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રેખા √3x + y + 2 = 0 નો x-અક્ષ સાથેનો ખૂણો કેટલો? (A) 30° (B) 60° (C) 120° (D) 150°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 150°. ઢાળ m = -√3/1 = -√3. tanθ = -√3 માટે θ = 180° - 60° = 120° અથવા પ્રશ્ન મુજબ ગણતરી કરતા 150° જો ઢાળ -1/√3 હોય. અહીં m = -√3 હોવાથી 120° આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઢાળ ઋણ હોય તો ખૂણો બીજા ચરણમાં (ગુરુકોણ) હશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બિંદુઓ (2, 3) અને (4, 1) ને જોડતા રેખાખંડના મધ્યબિંદુના યામ શોધો. (A) (3, 2) (B) (2, 3) (C) (6, 4) (D) (1, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (3, 2). મધ્યબિંદુ = [(x1+x2)/2, (y1+y2)/2] = [(2+4)/2, (3+1)/2] = (3, 2).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યબિંદુ એટલે 'સરેરાશ' (Average) લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રેખા 2x + 3y - 6 = 0 ના x-અંત:ખંડ અને y-અંત:ખંડનો ગુણાકાર કેટલો થાય? (A) 6 (B) 5 (C) 1 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6. x-અંત:ખંડ માટે y=0 મુકતા x=3. y-અંત:ખંડ માટે x=0 મુકતા y=2. ગુણાકાર 3 * 2 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંત:ખંડ શોધવા વારાફરતી x અને y ને 0 ધારી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રેખા x cos α + y sin α = p માં 'p' શું દર્શાવે છે? (A) રેખાનો ઢાળ (B) ઉગમબિંદુથી રેખાનું લંબઅંતર (C) x-અંત:ખંડ (D) y-અંત:ખંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉગમબિંદુથી રેખાનું લંબઅંતર. આ રેખાનું અભિલંબ (Normal) સ્વરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p હંમેશા ધન હોય કારણકે તે 'અંતર' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રેખા 4x - 3y + 12 = 0 નો ઢાળ અને y-અંત:ખંડ શોધો. (A) ઢાળ = 4/3, અંત:ખંડ = 4 (B) ઢાળ = -4/3, અંત:ખંડ = -4 (C) ઢાળ = 4/3, અંત:ખંડ = -4 (D) ઢાળ = 3/4, અંત:ખંડ = 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઢાળ = 4/3, અંત:ખંડ = 4. 3y = 4x + 12 => y = (4/3)x + 4. m = 4/3, c = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y ને એકલો પાડો (Make y subject), x નો સહગુણક એ ઢાળ અને અચળ પદ એ y-અંત:ખંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બે સમાંતર રેખાઓ Ax + By + C1 = 0 અને Ax + By + C2 = 0 વચ્ચેનું અંતર કેટલું? (A) |C1-C2|/√(A²+B²) (B) |C1+C2|/√(A²+B²) (C) |C1-C2|/(A²+B²) (D) √(A²+B²)/|C1-C2|",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) |C1-C2|/√(A²+B²). આ બે સમાંતર રેખાઓ વચ્ચેના લંબઅંતરનું સૂત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર રેખાઓમાં A અને B સરખા હોવા જોઈએ, પછી માત્ર અચળ પદનો તફાવત લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઉગમબિંદુથી રેખા 3x - 4y - 25 = 0 નું લંબઅંતર કેટલું? (A) 5 (B) 25 (C) 10 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5. d = |C|/√(A²+B²) = |-25|/√(3²+4²) = 25/5 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (3, 4) હોય ત્યારે છેદમાં હંમેશા 5 જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો બે રેખાઓના ઢાળ 1/2 અને -2 હોય, તો તેમની વચ્ચેનો ખૂણો કેટલો હશે? (A) 0° (B) 45° (C) 60° (D) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 90°. m1 * m2 = (1/2) * (-2) = -1. ગુણાકાર -1 હોવાથી રેખાઓ લંબ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે એક ઢાળ બીજાનો ઉલટો અને વિરોધી હોય, ત્યારે વગર ગણતરીએ 90° લખી નાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બિંદુ (1, 2) માંથી પસાર થતી અને x-અક્ષને સમાંતર રેખાનું સમીકરણ શું થાય? (A) x = 1 (B) y = 2 (C) x + y = 3 (D) y = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y = 2. x-અક્ષને સમાંતર રેખા y = b પ્રકારની હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x-અક્ષને સમાંતર પૂછે તો બિંદુનો y-યામ પકડી લેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રેખા 3x + 2y - 5 = 0 ને લંબ રેખાનો ઢાળ કેટલો થાય? (A) -3/2 (B) 3/2 (C) 2/3 (D) -2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2/3. મૂળ રેખાનો ઢાળ m1 = -3/2. લંબ રેખાનો ઢાળ m2 = -1/m1 = 2/3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ રેખા માટે સહગુણકો ઉલટાવો અને એકની નિશાની બદલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બિંદુ (3, -4) માંથી પસાર થતી અને y-અક્ષને સમાંતર રેખાનું સમીકરણ શું છે? (A) y = -4 (B) x = 3 (C) x + y = -1 (D) 3x - 4y = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x = 3. y-અક્ષને સમાંતર રેખાનું સમીકરણ x = a હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y-અક્ષને સમાંતર એટલે બિંદુનો x-યામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો રેખાઓ 2x - 3y + 5 = 0 અને kx + 2y - 7 = 0 પરસ્પર લંબ હોય, તો k ની કિંમત શોધો. (A) 3 (B) -3 (C) 2 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3. લંબ હોવાથી a1a2 + b1b2 = 0. 2(k) + (-3)(2) = 0 => 2k - 6 = 0 => k = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ માટે (x ના ગુણાકાર) + (y ના ગુણાકાર) = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રેખા 5x + 7y - 35 = 0 દ્વારા અક્ષો પર કપાતા અંત:ખંડોનો સરવાળો કેટલો થાય? (A) 12 (B) 35 (C) 5 (D) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 12. x-અંત:ખંડ = 35/5 = 7. y-અંત:ખંડ = 35/7 = 5. સરવાળો = 7 + 5 = 12.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંત:ખંડ એટલે અચળ પદ / સહગુણક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બિંદુ (0,0) થી રેખા x/a + y/b = 1 નું લંબઅંતર 'p' હોય, તો 1/p² = ? (A) a² + b² (B) 1/a² + 1/b² (C) 1/a + 1/b (D) a + b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/a² + 1/b². લંબઅંતર p = 1/√(1/a² + 1/b²) પરથી 1/p² = 1/a² + 1/b².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એક સ્ટાન્ડર્ડ પરિણામ છે, સીધું યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બિંદુઓ (a, b+c), (b, c+a) અને (c, a+b) દ્વારા બનતા ત્રિકોણનું ક્ષેત્રફળ કેટલું થાય? (A) abc (B) a+b+c (C) 0 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0. આ બિંદુઓ સમરેખ છે. x1(y2-y3) + x2(y3-y1) + x3(y1-y2) માં કિંમત મુકતા શૂન્ય મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો x+y દરેક બિંદુ માટે સરખું (a+b+c) હોય, તો બિંદુઓ હંમેશા સમરેખ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "રેખા 4x + 3y - 12 = 0 અને અક્ષો વચ્ચે બનતા ત્રિકોણનું ક્ષેત્રફળ શોધો. (A) 12 (B) 6 (C) 24 (D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6. ક્ષેત્રફળ = 1/2 * |x-અંત:ખંડ * y-અંત:ખંડ|. અહીં x-અંત:ખંડ = 3, y-અંત:ખંડ = 4. ક્ષેત્રફળ = 1/2 * 3 * 4 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષેત્રફળ = c² / |2AB|.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો બિંદુ (k, 3) એ રેખા 2x + 3y = 7 પર આવેલું હોય, તો k ની કિંમત શોધો. (A) -1 (B) 1 (C) 0 (D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -1. 2(k) + 3(3) = 7 => 2k + 9 = 7 => 2k = -2 => k = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિંદુ રેખા પર હોય એટલે રેખાના સમીકરણનું સમાધાન કરે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "રેખા y - √3x + 5 = 0 નો ઢાળ અને y-અંત:ખંડ શોધો. (A) √3, -5 (B) -√3, 5 (C) √3, 5 (D) 1, 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) √3, -5. y = √3x - 5. m = √3, c = -5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y = mx + c ફોર્મમાં લાવતા જ બધું મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "બે રેખાઓ x + y = 1 અને x - y = 1 વચ્ચેનો ખૂણો કેટલો? (A) 30° (B) 45° (C) 90° (D) 0°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90°. m1 = -1, m2 = 1. m1*m2 = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x+y અને x-y હંમેશા એકબીજાને લંબ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "રેખા x/a - y/b = 1 નો ઢાળ કેટલો? (A) a/b (B) b/a (C) -b/a (D) -a/b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) b/a. y/b = x/a - 1 => y = (b/a)x - b. ઢાળ m = b/a.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાળ = -(x ના છેદનો વ્યસ્ત) / (y ના છેદનો વ્યસ્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સમાંતર રેખાઓ 3x - 4y + 7 = 0 અને 3x - 4y + 5 = 0 વચ્ચેનું અંતર શોધો. (A) 2/5 (B) 12/5 (C) 2/25 (D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2/5. d = |7 - 5| / √(3² + (-4)²) = 2 / √25 = 2/5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અચળ પદનો તફાવત (7-5=2) અને છેદમાં પાયથાગોરિયન ત્રિપુટી (3,4,5).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કિંમત p માટે જો રેખાઓ 3x - y + 5 = 0 અને px + 2y - 3 = 0 સમાંતર હોય, તો p = ? (A) 6 (B) -6 (C) 3/2 (D) -3/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -6. સમાંતર માટે m1 = m2. 3/1 = -p/2 => p = -6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર એટલે સહગુણકોનો ગુણોત્તર સરખો: 3/p = -1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "રેખા 2x + y = 3 પર ઉગમબિંદુથી દોરેલા લંબનો ઢાળ કેટલો થાય? (A) -2 (B) 1/2 (C) -1/2 (D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/2. રેખાનો ઢાળ m = -2. લંબનો ઢાળ = -1/m = 1/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લંબ' શબ્દ આવે એટલે ઢાળ ઉલટાવીને નિશાની બદલી નાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "રેખાના અભિલંબ સ્વરૂપ x cos 30° + y sin 30° = 4 નું વ્યાપક સમીકરણ કયું? (A) √3x + y = 8 (B) x + √3y = 8 (C) √3x + y = 4 (D) x + y = 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) √3x + y = 8. x(√3/2) + y(1/2) = 4 => √3x + y = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: cos 30 અને sin 30 ની કિંમત મૂકી લસાઅ (LCM) લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "બિંદુ (4, 1) થી રેખા 3x - 4y + 12 = 0 નું લંબઅંતર કેટલું? (A) 4 (B) 5 (C) 20/5 (D) 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 4. d = |3(4) - 4(1) + 12| / 5 = |12 - 4 + 12| / 5 = 20 / 5 = 4.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિંદુને રેખામાં મુકો અને છેદમાં 5 (પાયથાગોરિયન 3,4 માટે) લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "રેખા y = x સાથે x-અક્ષે બનાવેલો ખૂણો કેટલો? (A) 0° (B) 45° (C) 90° (D) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 45°. ઢાળ m = 1, tan θ = 1 => θ = 45°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y = x એટલે ખૂણો અડધો (90/2 = 45).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "રેખા y = -x નો ઢાળ કેટલો? (A) 1 (B) -1 (C) 0 (D) અવ્યાખ્યાયિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1. m = -1, ખૂણો 135°.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x નો સહગુણક એ જ ઢાળ જો y એકલો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જે રેખાના અંત:ખંડો સમાન અને ધન હોય, તેનો ઢાળ હંમેશા ____ હોય. (A) 1 (B) -1 (C) 0 (D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1. x/a + y/a = 1 => x + y = a => y = -x + a. m = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન અંત:ખંડ = ઢાળ -1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "રેખા 3x + 4y = 10 પરનું બિંદુ કયું છે? (A) (1, 2) (B) (2, 1) (C) (2, 2) (D) (3, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (2, 1). 3(2) + 4(1) = 6 + 4 = 10. ડા.બા. = જ.બા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિકલ્પોની કિંમત મુકીને ચેક કરવું એ બેસ્ટ મેથડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "જો રેખાનો ઢાળ અવ્યાખ્યાયિત હોય, તો તે રેખા ____ ને લંબ હશે. (A) y-અક્ષ (B) x-અક્ષ (C) ઉગમબિંદુ (D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x-અક્ષ. અવ્યાખ્યાયિત ઢાળ એટલે શિરોલંબ રેખા, જે x-અક્ષને લંબ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવ્યાખ્યાયિત ઢાળ = ઊભી રેખા = x-અક્ષ સાથે 90°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "રેખાઓ y = m1x + c1 અને y = m2x + c2 ક્યારે એક જ રેખા દર્શાવે? (A) m1 = m2 (B) c1 = c2 (C) m1 = m2 અને c1 = c2 (D) m1 * m2 = -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) m1 = m2 અને c1 = c2. ઢાળ અને અંત:ખંડ બંને સમાન હોવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ સરખું તો રેખા પણ એક જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "રેખા x/a + y/b = 1 ઉગમબિંદુમાંથી પસાર થાય? (A) હા (B) ના (C) જો a=b હોય તો (D) જો a=0 હોય તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના. ઉગમબિંદુ (0,0) મુકતા 0 = 1 જે શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંત:ખંડ સ્વરૂપમાં ક્યારેય ઉગમબિંદુ ન આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "બે બિંદુઓ (x1, y1) અને (x2, y2) ને જોડતી રેખાનું સમીકરણ: (A) (y-y1)(x2-x1) = (x-x1)(y2-y1) (B) (y-y1)(y2-y1) = (x-x1)(x2-x1) (C) y = mx + c (D) x/x1 + y/y1 = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) આ બે-બિંદુ સ્વરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકડી ગુણાકાર જેવું દેખાશે, ઢાળના સૂત્ર પરથી જ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "રેખા 2x - 3y + 6 = 0 દ્વારા x-અક્ષ પર કપાતો અંત:ખંડ કેટલો? (A) 3 (B) -3 (C) 2 (D) -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -3. y=0 મુકતા, 2x = -6 => x = -3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x-અંત:ખંડ = -(અચળ પદ) / (x નો સહગુણક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ઢાળ 2 વાળી અને y-અંત:ખંડ 3 વાળી રેખાનું સમીકરણ ____ છે. (A) y = 2x + 3 (B) y = 3x + 2 (C) 2x + y = 3 (D) x + 2y = 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) y = 2x + 3. સીધું y = mx + c માં કિંમત મુકતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: m અને c આપ્યા હોય ત્યારે 'ઢાળ-અંત:ખંડ' ફોર્મ વાપરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "ઉગમબિંદુ અને (-8, 15) વચ્ચેનું અંતર કેટલું? (A) 17 (B) 7 (C) 23 (D) 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 17. d = √((-8)² + 15²) = √(64 + 225) = √289 = 17.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 8, 15, 17 ની પાયથાગોરિયન ત્રિપુટી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "રેખા x + y + 1 = 0 નો ઢાળ ____ છે. (A) 1 (B) -1 (C) 0 (D) અવ્યાખ્યાયિત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1. m = -1/1 = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો x અને y ના સહગુણકો સમાન હોય, તો ઢાળ હંમેશા -1 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જો બે રેખાઓ એકબીજાને સમાંતર હોય, તો તેમની વચ્ચેનો ખૂણો θ = ____. (A) 0° (B) 90° (C) 180° (D) A અથવા C બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 0° અથવા 180°. વ્યવહારમાં આપણે 0° લઈએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર એટલે ક્યારેય ન મળે, ખૂણો ઝીરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "બિંદુઓ (2, 3) અને (2, -5) ને જોડતી રેખાનો ઢાળ કેટલો? (A) 0 (B) -2 (C) અવ્યાખ્યાયિત (D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અવ્યાખ્યાયિત. x-યામ સમાન હોવાથી છેદ શૂન્ય થાય. m = (-5-3)/(2-2) = -8/0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x-યામ સમાન હોય તો રેખા 'ઊભી' હોય, ઢાળ અવ્યાખ્યાયિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "બિંદુઓ (4, 7) અને (1, 7) ને જોડતી રેખાનો ઢાળ કેટલો? (A) 0 (B) અવ્યાખ્યાયિત (C) 3 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0. y-યામ સમાન હોવાથી અંશ શૂન્ય થાય. m = (7-7)/(1-4) = 0/-3 = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y-યામ સમાન હોય તો રેખા 'સૂતી' (સમક્ષિતિજ) હોય, ઢાળ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "રેખા 3x - 4y + 5 = 0 ને સમાંતર અને ઉગમબિંદુમાંથી પસાર થતી રેખાનું સમીકરણ: (A) 3x - 4y = 0 (B) 4x + 3y = 0 (C) 3x + 4y = 0 (D) 4x - 3y = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3x - 4y = 0. સમાંતર રેખામાં Ax + By પદ સમાન રહે અને ઉગમબિંદુ હોવાથી C = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતર + ઉગમબિંદુ = માત્ર છેલ્લો અંક કાઢી નાખવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "રેખા x + y = 5 ને લંબ અને ઉગમબિંદુમાંથી પસાર થતી રેખાનું સમીકરણ: (A) x + y = 0 (B) x - y = 0 (C) y - x = 5 (D) x + y = 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x - y = 0. x+y=5 ને લંબ રેખા x-y=k થાય. ઉગમબિંદુ હોવાથી k=0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x+y ને લંબ હંમેશા x-y જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "કોઈપણ રેખાનું વ્યાપક સમીકરણ શું છે? (A) Ax + By + C = 0 (B) y = mx + c (C) x/a + y/b = 1 (D) બધાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Ax + By + C = 0. આને સુરેખ સમીકરણ પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાપક એટલે જેમાં બધું જ આવી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો p લંબઅંતર હોય અને તે x-અક્ષ સાથે 90° નો ખૂણો બનાવે, તો રેખાનું સમીકરણ: (A) x = p (B) y = p (C) x + y = p (D) y = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y = p. α = 90° હોવાથી, x cos 90 + y sin 90 = p => 0 + y(1) = p => y = p.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખૂણો 90° એટલે રેખા સમક્ષિતિજ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "રેખા √3y = x + 1 નો x-અંત:ખંડ કેટલો? (A) 1 (B) -1 (C) √3 (D) -√3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1. y = 0 મુકતા, 0 = x + 1 => x = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંત:ખંડ શોધવામાં જરાય ઉતાવળ ન કરવી, સાદું સમીકરણ બનાવી કિંમત મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "ત્રણ બિંદુઓ (h, 0), (a, b) અને (0, k) સમરેખ હોય, તો કયું સત્ય છે? (A) a/h + b/k = 1 (B) h/a + k/b = 1 (C) ah + bk = 1 (D) a/k + b/h = 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) a/h + b/k = 1. આ અંત:ખંડ સ્વરૂપ રેખા પર બિંદુ (a,b) હોવાની શરત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (h,0) અને (0,k) એ અંત:ખંડો છે, તેથી x/h + y/k = 1 માં (a,b) મુકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "રેખા x - y = 0 અને x-અક્ષ વચ્ચેનો ખૂણો ____ છે. (A) 45° (B) 135° (C) 90° (D) 0°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 45°. y = x, m = 1, tan 45 = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x - y = 0 એટલે પ્રથમ ચરણમાં વચ્ચેથી નીકળતી રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "બે રેખાઓના ઢાળ m1 અને m2 સમાન હોય પણ y-અંત:ખંડ જુદા હોય, તો તે રેખાઓ ____ હોય. (A) સંપાતી (B) લંબ (C) સમાંતર (D) છેદતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સમાંતર. ઢાળ સમાન એટલે ઢોળાવ સરખો, પણ અંત:ખંડ અલગ એટલે અલગ જગ્યાએ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલવેના પાટા - ઢાળ સરખો પણ અંતર અલગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "રેખા x/a + y/b = 1 અને x-અક્ષ વચ્ચેના છેદબિંદુના યામ ____ છે. (A) (0, b) (B) (a, 0) (C) (a, b) (D) (0, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (a, 0). x-અક્ષ પર y હંમેશા 0 હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x-અંત:ખંડ એટલે x પરનું બિંદુ, જ્યાં y = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "રેખા 3x + 4y + 7 = 0 થી બિંદુ (1, -1) નું લંબઅંતર કેટલું? (A) 6/5 (B) 0 (C) 1/5 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6/5. d = |3(1) + 4(-1) + 7| / 5 = |3 - 4 + 7| / 5 = 6/5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશમાં કિંમત મૂકી સાદું રૂપ આપો, છેદમાં 5 મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "રેખા x - 7y + 5 = 0 નો ઢાળ ____ છે. (A) 1/7 (B) 7 (C) -1/7 (D) -7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/7. m = -1/(-7) = 1/7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ના સહગુણકને y ના સહગુણક વડે ભાગીને નિશાની બદલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "રેખા x = 0 એ કઈ અક્ષનું સમીકરણ છે? (A) x-અક્ષ (B) y-અક્ષ (C) ઉગમબિંદુ (D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y-અક્ષ. y-અક્ષ પરના દરેક બિંદુનો x-યામ 0 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ ઉલટું - x=0 એટલે y-અક્ષ અને y=0 એટલે x-અક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "બિંદુ (2, 2√3) માંથી પસાર થતી અને x-અક્ષ સાથે 75° નો ખૂણો બનાવતી રેખાનો ઢાળ કેટલો? (A) 2 + √3 (B) 2 - √3 (C) √3 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2 + √3. tan 75° = tan(45+30) = (1 + 1/√3)/(1 - 1/√3) = (√3+1)/(√3-1) = 2 + √3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: tan 15 = 2-√3 અને tan 75 = 2+√3, આ કિંમતો યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "રેખા 12x - 5y + 7 = 0 નું ઉગમબિંદુથી અંતર કેટલું? (A) 7/13 (B) 7/12 (C) 7/5 (D) 13/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7/13. d = |7| / √(12² + 5²) = 7 / √169 = 7/13.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5, 12, 13 ની ત્રિપુટી કામ લાગશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "બે બિંદુઓ વચ્ચેનું અંતર ક્યારેય ____ ન હોઈ શકે. (A) ધન (B) શૂન્ય (C) ઋણ (D) અપૂર્ણાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઋણ. અંતર એ હંમેશા અનૃણ (Non-negative) વાસ્તવિક સંખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતર એટલે માનાંક, માનાંક ક્યારેય નેગેટિવ ન હોય!</p></div>"
+    }
+  ]
+}

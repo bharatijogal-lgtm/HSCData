@@ -9,68 +9,103 @@ with open('system/progress_tracker.json', 'r', encoding='utf-8') as f:
     tracker = json.load(f)
 
 if tracker.get('status') == "completed":
-    print("🎉 ઓટોમેશન પૂર્ણ થઈ ગયું છે. ધોરણ 11 સાયન્સના તમામ વિષયોના ડેટા બની ગયા છે!", flush=True)
+    print("🎉 ઓટોમેશન પૂર્ણ થઈ ગયું છે. ધોરણ 12 સાયન્સના તમામ વિષયોના ડેટા બની ગયા છે!", flush=True)
     exit(0)
 
 # ==========================================
-# ધોરણ 11 સાયન્સ (નવો સિલેબસ 2024+) - તમામ વિષયો
+# ધોરણ 12 સાયન્સ (નવો સિલેબસ NCERT) - તમામ વિષયો
 # ==========================================
 science_subjects = [
     {
         "id": "Biology",
+        "prefix": "bio",
         "guj_name": "બાયોલોજી (જીવવિજ્ઞાન)",
         "chapters": {
-            1: "સજીવ વિશ્વ", 2: "જૈવિક વર્ગીકરણ", 3: "વનસ્પતિ સૃષ્ટિ", 4: "પ્રાણી સૃષ્ટિ",
-            5: "સપુષ્પી વનસ્પતિઓની બાહ્યાકાર વિદ્યા", 6: "સપુષ્પી વનસ્પતિઓની અંતઃસ્થ રચના",
-            7: "પ્રાણીઓમાં રચનાકીય આયોજન", 8: "કોષ: જીવનનો એકમ", 9: "જૈવ અણુઓ",
-            10: "કોષચક્ર અને કોષવિભાજન", 11: "ઉચ્ચ કક્ષાની વનસ્પતિઓમાં પ્રકાશસંશ્લેષણ",
-            12: "વનસ્પતિઓમાં શ્વસન", 13: "વનસ્પતિ વૃદ્ધિ અને વિકાસ", 14: "શ્વાસોચ્છવાસ અને વાયુઓનું વિનિમય",
-            15: "દેહજળ અને પરિવહન", 16: "ઉત્સર્ગ પેદાશો અને તેનો નિકાલ", 17: "પ્રચલન અને હલનચલન",
-            18: "ચેતાકીય નિયંત્રણ અને સહનિયમન", 19: "રાસાયણિક સહનિયમન અને સંકલન"
+            1: "સપુષ્પી વનસ્પતિઓમાં લિંગી પ્રજનન",
+            2: "માનવ પ્રજનન",
+            3: "પ્રજનન સ્વાસ્થ્ય",
+            4: "આનુવંશિકતા અને ભિન્નતાના સિદ્ધાંતો",
+            5: "આનુવંશિકતાનો આણ્વીય આધાર",
+            6: "ઉદ્વિકાસ",
+            7: "માનવ સ્વાસ્થ્ય અને રોગો",
+            8: "માનવ કલ્યાણમાં સૂક્ષ્મજીવો",
+            9: "બાયોટેકનોલોજી : સિદ્ધાંતો અને પ્રક્રિયાઓ",
+            10: "બાયોટેકનોલોજી અને તેના પ્રયોજનો",
+            11: "સજીવો અને વસ્તી",
+            12: "નિવસનતંત્ર",
+            13: "જૈવ-વિવિધતા અને સંરક્ષણ"
         }
     },
     {
         "id": "Physics",
+        "prefix": "physics",
         "guj_name": "ભૌતિકવિજ્ઞાન (Physics)",
         "chapters": {
-            1: "એકમ અને માપન", 2: "સુરેખ પથ પર ગતિ", 3: "સમતલમાં ગતિ", 4: "ગતિના નિયમો",
-            5: "કાર્ય, ઊર્જા અને પાવર", 6: "કણોનાં તંત્રો અને ચાકગતિ", 7: "ગુરુત્વાકર્ષણ",
-            8: "ઘન પદાર્થોના યાંત્રિક ગુણધર્મો", 9: "તરલના યાંત્રિક ગુણધર્મો", 10: "દ્રવ્યના ઉષ્મીય ગુણધર્મો",
-            11: "થર્મોડાયનેમિક્સ", 12: "વાયુનો ગતિવાદ", 13: "દોલનો", 14: "તરંગો"
+            1: "વિદ્યુતભારો અને ક્ષેત્રો",
+            2: "સ્થિત વિદ્યુત સ્થિતિમાન અને કેપેસિટન્સ",
+            3: "પ્રવાહ વિદ્યુત",
+            4: "ગતિમાન વિદ્યુતભારો અને ચુંબકત્વ",
+            5: "ચુંબકત્વ અને દ્રવ્ય",
+            6: "વિદ્યુતચુંબકીય પ્રેરણ",
+            7: "પ્રત્યાવર્તી પ્રવાહ",
+            8: "વિદ્યુતચુંબકીય તરંગો",
+            9: "કિરણ પ્રકાશશાસ્ત્ર અને પ્રકાશીય ઉપકરણો",
+            10: "તરંગ પ્રકાશશાસ્ત્ર",
+            11: "વિકિરણ અને દ્રવ્યની દ્વૈત પ્રકૃતિ",
+            12: "પરમાણુઓ",
+            13: "ન્યુક્લિયસ",
+            14: "સેમિકન્ડક્ટર ઇલેક્ટ્રોનિક્સ : દ્રવ્યો, રચનાઓ અને સાદા પરિપથો"
         }
     },
     {
         "id": "Chemistry",
+        "prefix": "chem",
         "guj_name": "રસાયણવિજ્ઞાન (Chemistry)",
         "chapters": {
-            1: "રસાયણવિજ્ઞાનની કેટલીક પાયાની સંકલ્પનાઓ", 2: "પરમાણુનું બંધારણ",
-            3: "તત્ત્વોનું વર્ગીકરણ અને ગુણધર્મોમાં આવર્તિતા", 4: "રાસાયણિક બંધન અને આણ્વીય રચના",
-            5: "ઉષ્માગતિશાસ્ત્ર", 6: "સંતુલન", 7: "રેડોક્ષ પ્રક્રિયાઓ",
-            8: "કાર્બનિક રસાયણવિજ્ઞાન - કેટલાક પાયાના સિદ્ધાંતો અને તકનીકો", 9: "હાઇડ્રોકાર્બન"
+            1: "દ્રાવણો",
+            2: "વિદ્યુતરસાયણ",
+            3: "રાસાયણિક ગતિકી",
+            4: "d અને f-વિભાગનાં તત્ત્વો",
+            5: "સવર્ગ સંયોજનો",
+            6: "હેલોઆલ્કેન અને હેલોએરીન સંયોજનો",
+            7: "આલ્કોહોલ, ફિનોલ અને ઇથર સંયોજનો",
+            8: "આલ્ડિહાઇડ, કીટોન અને કાર્બોક્સિલિક એસિડ સંયોજનો",
+            9: "એમાઇન સંયોજનો",
+            10: "જૈવિક અણુઓ"
         }
     },
     {
         "id": "Maths",
+        "prefix": "math",
         "guj_name": "ગણિત (Mathematics)",
         "chapters": {
-            1: "ગણ", 2: "સંબંધ અને વિધેય", 3: "ત્રિકોણમિતિય વિધેયો", 
-            4: "સંકર સંખ્યાઓ અને દ્વિઘાત સમીકરણો", 5: "સુરેખ અસમતાઓ", 
-            6: "ક્રમચય અને સંચય", 7: "દ્વિપદી પ્રમેય", 8: "શ્રેણી અને શ્રેઢી", 
-            9: "રેખાઓ", 10: "શાંકવો", 11: "ત્રિપરિમાણીય ભૂમિતિનો પરિચય", 
-            12: "લક્ષ અને વિકલન", 13: "આંકડાશાસ્ત્ર", 14: "સંભાવના"
+            1: "સંબંધ અને વિધેય",
+            2: "ત્રિકોણમિતિય પ્રતિવિધેયો",
+            3: "શ્રેણિક",
+            4: "નિશ્ચાયક",
+            5: "સાતત્ય અને વિકલનીયતા",
+            6: "વિકલિતના ઉપયોગો",
+            7: "સંકલન",
+            8: "સંકલનના ઉપયોગો",
+            9: "વિકલ સમીકરણો",
+            10: "સદિશ બીજગણિત",
+            11: "ત્રિપરિમાણીય ભૂમિતિ",
+            12: "સુરેખ આયોજન",
+            13: "સંભાવના"
         }
     }
 ]
 
-# પ્રશ્નોના પ્રકાર અને તેનો મિનિમમ ટાર્ગેટ
+# પ્રશ્નોના પ્રકાર: પહેલા 5 પ્રકાર સ્ક્રીનશોટ મુજબ (array_format) અને બાકીના 3 જૂના ફોર્મેટ મુજબ (object_format)
 question_types = [
-    {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 70},
-    {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો (3 વિકલ્પો સાથે)", "marks": 1, "min_count": 70},
-    {"id": "OneWord", "name": "એક વાક્યમાં ઉત્તર", "marks": 1, "min_count": 70},
-    {"id": "MatchPairs", "name": "જોડકાં જોડો", "marks": 1, "min_count": 70},
-    {"id": "2_Marks", "name": "ટૂંક જવાબી પ્રશ્નો", "marks": 2, "min_count": 20},
-    {"id": "3_Marks", "name": "મુદ્દાસર પ્રશ્નો", "marks": 3, "min_count": 20},
-    {"id": "4_Marks", "name": "વિસ્તૃત પ્રશ્નો", "marks": 4, "min_count": 20}
+    {"id": "MCQ", "file_name": "MCQ.js", "var_suffix": "questionsdatabase_std12", "name": "બહુવિકલ્પી પ્રશ્નો (MCQ)", "marks": 1, "min_count": 50, "format_type": "array_format"},
+    {"id": "Blanks", "file_name": "Blanks.js", "var_suffix": "fillintheblankss_std12", "name": "ખાલી જગ્યા પૂરો", "marks": 1, "min_count": 40, "format_type": "array_format"},
+    {"id": "1MarkQ", "file_name": "1MarkQ.js", "var_suffix": "onelines_std12", "name": "એક વાક્યમાં ઉત્તર (1 ગુણ)", "marks": 1, "min_count": 40, "format_type": "array_format"},
+    {"id": "TrueFalse", "file_name": "TrueFalse.js", "var_suffix": "truefalse_std12", "name": "ખરા-ખોટા વિધાનો", "marks": 1, "min_count": 35, "format_type": "array_format"},
+    {"id": "Jodaka", "file_name": "Jodaka.js", "var_suffix": "matchss_std12", "name": "જોડકાં જોડો", "marks": 2, "min_count": 15, "format_type": "array_format"},
+    {"id": "2_Marks", "file_name": "2_Marks.js", "var_suffix": "2_Marks", "name": "ટૂંક જવાબી પ્રશ્નો (2 ગુણ)", "marks": 2, "min_count": 20, "format_type": "object_format"},
+    {"id": "3_Marks", "file_name": "3_Marks.js", "var_suffix": "3_Marks", "name": "મુદ્દાસર પ્રશ્નો (3 ગુણ)", "marks": 3, "min_count": 15, "format_type": "object_format"},
+    {"id": "4_Marks", "file_name": "4_Marks.js", "var_suffix": "4_Marks", "name": "વિસ્તૃત પ્રશ્નો (4 ગુણ)", "marks": 4, "min_count": 12, "format_type": "object_format"}
 ]
 
 # ટ્રેકરમાંથી હાલની સ્થિતિ મેળવવી
@@ -83,29 +118,72 @@ current_q_type = question_types[type_idx]
 ch_name = current_subject["chapters"].get(ch_num, "અન્ય")
 max_chapters = len(current_subject["chapters"])
 
-print(f"Generating {current_q_type['name']} for Std 11 {current_subject['id']} Chapter {ch_num} ({ch_name})...", flush=True)
+print(f"Generating {current_q_type['name']} for Std 12 {current_subject['id']} Chapter {ch_num} ({ch_name})...", flush=True)
 
-# પ્રકાર મુજબ ખાસ નિયમો
-type_specific_rules = ""
-if current_q_type['id'] == "MCQs":
-    type_specific_rules = "દરેક પ્રશ્ન સાથે 4 વિકલ્પો (A, B, C, D) ફરજિયાત આપવા."
-elif current_q_type['id'] == "FillBlanks":
-    type_specific_rules = "દરેક ખાલી જગ્યાના અંતે કૌંસમાં 3 વિકલ્પો ફરજિયાત આપવા. દા.ત. _____ (વિકલ્પ1, વિકલ્પ2, વિકલ્પ3)."
-elif current_q_type['id'] == "MatchPairs":
-    type_specific_rules = "વિભાગ A અને વિભાગ B ના જોડકાં આપવા અને જવાબમાં સાચી જોડ આપવી."
+# ==========================================
+# સ્ક્રીનશોટ મુજબ પ્રોમ્પ્ટ અને ફોર્મેટ સેટિંગ
+# ==========================================
+if current_q_type['format_type'] == "array_format":
+    if current_q_type['id'] == "MCQ":
+        format_instruction = f"""
+કોઈપણ વધારાના લખાણ કે માર્કડાઉન વગર માત્ર નીચેના ફોર્મેટમાં જ દરેક લાઈનમાં એક JSON ઓબ્જેક્ટ (છેલ્લે અલ્પવિરામ ',' સાથે) આપવો:
+  {{ "chapter": {ch_num}, "q": "અહીં પ્રશ્ન લખવો?", "options": ["વિકલ્પ A", "વિકલ્પ B", "વિકલ્પ C", "વિકલ્પ D"], "ans": 0 }},
+(નોંધ: ans માં સાચા વિકલ્પનો ઇન્ડેક્સ નંબર 0, 1, 2, અથવા 3 જ લખવો.)
+"""
+    elif current_q_type['id'] == "Blanks":
+        format_instruction = f"""
+દરેક ખાલી જગ્યાના વાક્યને અંતે કૌંસમાં 3 વિકલ્પો ફરજિયાત આપવા. કોઈપણ વધારાના લખાણ વગર માત્ર નીચેના ફોર્મેટમાં જ દરેક લાઈનમાં એક ઓબ્જેક્ટ (છેલ્લે અલ્પવિરામ ',' સાથે) આપવો:
+  {{ "chapter": {ch_num}, "marks": 1, "q": "અહીં ખાલી જગ્યા વાળું વાક્ય ________ છે. (વિકલ્પ1, વિકલ્પ2, વિકલ્પ3)", "ans": "સાચો જવાબ" }},
+"""
+    elif current_q_type['id'] == "1MarkQ":
+        format_instruction = f"""
+કોઈપણ વધારાના લખાણ વગર માત્ર નીચેના ફોર્મેટમાં જ દરેક લાઈનમાં એક ઓબ્જેક્ટ (છેલ્લે અલ્પવિરામ ',' સાથે) આપવો:
+  {{ "chapter": {ch_num}, "marks": 1, "q": "અહીં એક ગુણનો પ્રશ્ન લખવો?", "ans": "અહીં ટૂંકો અને સચોટ જવાબ લખવો" }},
+"""
+    elif current_q_type['id'] == "TrueFalse":
+        format_instruction = f"""
+કોઈપણ વધારાના લખાણ વગર માત્ર નીચેના ફોર્મેટમાં જ દરેક લાઈનમાં એક ખરા-ખોટાનું વિધાન (છેલ્લે અલ્પવિરામ ',' સાથે) આપવું:
+  {{ "chapter": {ch_num}, "marks": 1, "q": "અહીં વિધાન લખવું.", "ans": "સાચું" }},
+(નોંધ: ans માં માત્ર "સાચું" અથવા "ખોટું" લખવું.)
+"""
+    elif current_q_type['id'] == "Jodaka":
+        format_instruction = f"""
+કોઈપણ વધારાના લખાણ વગર માત્ર નીચેના ફોર્મેટમાં જ જોડકાંના ઓબ્જેક્ટ્સ (દરેક ઓબ્જેક્ટ પછી અલ્પવિરામ ',' સાથે) આપવા:
+  {{
+    "chapter": {ch_num}, "marks": 2,
+    "q": "નીચેના જોડકાં યોગ્ય રીતે જોડો.",
+    "colA": ["(1) પ્રથમ બાબત", "(2) બીજી બાબત"],
+    "colB": ["(a) પ્રથમ વિકલ્પ", "(b) બીજો વિકલ્પ", "(c) ત્રીજો વધારાનો વિકલ્પ"],
+    "ans": "(1) - (b), (2) - (a)"
+  }},
+"""
 
-prompt = f"""
+    prompt = f"""
+તમે ગુજરાત બોર્ડ (GSEB) ધોરણ 12 સાયન્સના નિષ્ણાત શિક્ષક છો.
+વિષય: {current_subject['guj_name']}
+પ્રકરણ {ch_num}: {ch_name}
+પ્રશ્નનો પ્રકાર: {current_q_type['name']}
+
+નિયમો:
+1. પ્રશ્નો માત્ર ધોરણ 12 સાયન્સના '{current_subject['guj_name']}' ના પ્રકરણ '{ch_name}' (નવા NCERT સિલેબસ) માંથી જ હોવા જોઈએ.
+2. ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે.
+3. કોઈ પ્રશ્ન રીપીટ ન થવો જોઈએ.
+4. {format_instruction}
+5. શરૂઆતમાં કે અંતમાં `[` કે `]` કે `var` કશું જ લખવું નહીં, માત્ર `{` થી શરૂ થતા અને `},` થી પૂરા થતા ઓબ્જેક્ટ્સ જ આપવા.
+"""
+
+else:
+    # 2, 3 અને 4 ગુણના પ્રશ્નો માટે તમારું જૂનું ફોર્મેટ
+    prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો. 
-તમારે ધોરણ 11 સાયન્સ, વિષય: {current_subject['guj_name']}, પ્રકરણ: {ch_num} ({ch_name}) ના નવા ઘટાડેલા NCERT સિલેબસ મુજબ પ્રશ્નો બનાવવાના છે.
+તમારે ધોરણ 12 સાયન્સ, વિષય: {current_subject['guj_name']}, પ્રકરણ: {ch_num} ({ch_name}) ના નવા NCERT સિલેબસ મુજબ પ્રશ્નો બનાવવાના છે.
 
 પ્રશ્નનો પ્રકાર: {current_q_type['name']} ({current_q_type['marks']} માર્ક)
 
-અત્યંત કડક નિયમો (STRICT QUALITY CONTROL & ZERO MIXING):
-1. શુદ્ધતા: પ્રશ્નો માત્ર અને માત્ર '{current_subject['guj_name']}' ના પ્રકરણ '{ch_name}' માંથી જ હોવા જોઈએ. ભૂલથી પણ અન્ય વિષયના પ્રશ્નો ન આવવા જોઈએ.
-2. પ્રશ્નોની સંખ્યા (TARGET): ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે. {current_q_type['min_count']} થી વધુ પ્રશ્નો બની શકતા હોય તો ફરજિયાત બનાવવાના જ છે. આખા ચેપ્ટરની દરેક લાઈન કવર થઈ જવી જોઈએ.
-3. પ્રકાર મુજબ શરત: {type_specific_rules}
-4. નો-રીપીટેશન: અગાઉના કોઈ પ્રશ્ન રીપીટ ન થવા જોઈએ. 
-5. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ. ગણિત કે વિજ્ઞાનના સમીકરણો સ્પષ્ટ લખવા.
+અત્યંત કડક નિયમો:
+1. શુદ્ધતા: પ્રશ્નો માત્ર અને માત્ર '{current_subject['guj_name']}' ના પ્રકરણ '{ch_name}' માંથી જ હોવા જોઈએ.
+2. પ્રશ્નોની સંખ્યા (TARGET): ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો ફરજિયાત બનાવવાના છે.
+3. સંપૂર્ણ જવાબ અને ટ્રીક: દરેક પ્રશ્નની સાથે તેનો સચોટ જવાબ અને તેને યાદ રાખવા માટે '💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes)' ફરજિયાત હોવી જોઈએ.
 
 ફોર્મેટ (STRICT JSON FORMAT ONLY):
 કોઈપણ જાતના વેરીએબલ વગર માત્ર નીચે મુજબનું JSON Object આપવું:
@@ -123,92 +201,178 @@ prompt = f"""
 }}
 """
 
-print("Searching for live text models from your API account...", flush=True)
-valid_models = []
-try:
-    for model in client.models.list():
-        if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
-            name = model.name.lower()
-            invalid_words = ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa', '2.5-flash']
-            if not any(word in name for word in invalid_words):
-                valid_models.append(model.name)
-except Exception as e:
-    print(f"Error fetching models: {e}", flush=True)
+# ==========================================
+# ભવિષ્યમાં કોઈ મોડલ બંધ થાય તો ઓટોમેટિક નવું મોડલ શોધવાની સિસ્ટમ
+# ==========================================
+def get_available_models():
+    """API માંથી ચાલુ હોય તેવા તમામ ટેક્સ્ટ જનરેશન મોડલ્સ શોધીને પ્રાયોરિટી મુજબ ગોઠવશે."""
+    discovered = []
+    try:
+        for model in client.models.list():
+            actions = getattr(model, 'supported_actions', []) or []
+            if "generateContent" in actions:
+                m_name = model.name.lower()
+                # ટેક્સ્ટ સિવાયના મોડલ્સ બાકાત રાખવા
+                skip_keywords = ['video', 'audio', 'tts', 'vision', 'image', 'embedding', 'aqa', 'veo', 'imagen', 'learnlm']
+                if not any(kw in m_name for kw in skip_keywords):
+                    discovered.append(model.name)
+    except Exception as e:
+        print(f"⚠️ મોડલ લિસ્ટ મેળવવામાં ક્ષતિ: {e}", flush=True)
 
-if not valid_models:
-    valid_models = ["models/gemini-3-flash-preview"]
+    # જો લિસ્ટ મળી જાય તો Flash અને Pro મોડલ્સને પ્રાથમિકતા આપવી
+    def model_priority(name):
+        n = name.lower()
+        if 'flash' in n and 'lite' not in n:
+            return 0
+        elif 'pro' in n:
+            return 1
+        elif 'flash' in n:
+            return 2
+        return 3
 
-valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
-print(f"Active Models to use: {valid_models}", flush=True)
+    discovered.sort(key=model_priority)
+
+    # બેકઅપ મોડલ્સ (જો API list() કામ ન કરે તો પણ વારાફરતી ટ્રાય કરશે)
+    backup_models = [
+        "models/gemini-2.5-flash",
+        "models/gemini-2.5-pro",
+        "models/gemini-2.0-flash",
+        "models/gemini-1.5-flash",
+        "models/gemini-1.5-pro"
+    ]
+    for bm in backup_models:
+        if bm not in discovered:
+            discovered.append(bm)
+
+    return discovered
+
+valid_models = get_available_models()
+print(f"✅ ઉપલબ્ધ મોડલ્સની યાદી: {valid_models[:5]}", flush=True)
 
 output_data = ""
 
-for m in valid_models[:3]:
-    print(f"⏳ Pending: {m} મોડલ દ્વારા ઓછામાં ઓછા {current_q_type['min_count']} પ્રશ્નો બની રહ્યા છે...", flush=True)
+# દરેક ઉપલબ્ધ મોડલ પર વારાફરતી પ્રયાસ કરશે
+for m in valid_models:
+    print(f"⏳ મોડલ '{m}' દ્વારા પ્રશ્નો જનરેટ થઈ રહ્યા છે...", flush=True)
     success = False
-    
+
     for attempt in range(1, 4):
         try:
             response = client.models.generate_content(model=m, contents=prompt)
-            raw_output = response.text.strip()
-            
-            if "{" in raw_output and "}" in raw_output:
-                raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+            if not response.text:
+                raise ValueError("મોડલ તરફથી ખાલી રિસ્પોન્સ મળ્યો છે.")
                 
+            raw_output = response.text.strip()
+            # જો માર્કડાઉન ```json આવી ગયું હોય તો દૂર કરવું
+            raw_output = raw_output.replace("```json", "").replace("```javascript", "").replace("```js", "").replace("```", "").strip()
+
+            if current_q_type['format_type'] == "object_format":
+                if "{" in raw_output and "}" in raw_output:
+                    raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+            else:
+                # Array format માટે: જો AI એ ભૂલથી [ ] મૂક્યા હોય તો કાઢી નાખવા
+                if raw_output.startswith("["):
+                    raw_output = raw_output[1:].strip()
+                if raw_output.endswith("]"):
+                    raw_output = raw_output[:-1].strip()
+                if raw_output.endswith("}"):
+                    raw_output += ","
+
             output_data = raw_output.strip()
-            print(f"✅ Success! ડેટા બની ગયો છે.", flush=True)
+            print(f"✅ સફળતા! '{m}' મોડલ દ્વારા ડેટા બની ગયો છે.", flush=True)
             success = True
             break
+
         except Exception as e:
             err_msg = str(e)
             print(f"⚠️ પ્રયાસ {attempt}/3 નિષ્ફળ ({m}): {err_msg}", flush=True)
-            if "NOT_FOUND" in err_msg or "no longer available" in err_msg:
+            # જો મોડલ બંધ થઈ ગયું હોય (404 / NOT_FOUND / Deprecated) તો તરત જ બીજા મોડલ પર જવું
+            if any(err_code in err_msg.upper() for err_code in ["NOT_FOUND", "404", "DEPRECATED", "NO LONGER AVAILABLE", "INVALID_ARGUMENT"]):
+                print(f"🔄 મોડલ '{m}' ઉપલબ્ધ નથી, ઓટોમેટિક બીજા મોડલ પર શિફ્ટ થઈ રહ્યા છીએ...", flush=True)
                 break
-            time.sleep(6)
-            
+            time.sleep(8)
+
     if success:
         break
 
 if not output_data:
-    print("Error: બધી જ ટ્રાય ફેલ ગઈ છે.", flush=True)
+    print("❌ Error: તમામ મોડલ્સ પર પ્રયાસ નિષ્ફળ ગયો છે.", flush=True)
     exit(1)
 
-# ફોલ્ડર સ્ટ્રક્ચર: Science/Std11/Physics (તે વિષય મુજબ બનશે)
-folder_path = f"Science/Std11/{current_subject['id']}"
+# ==========================================
+# ફાઈલ સેવ કરવાનું લોજીક (ધોરણ 12 સાયન્સ)
+# ==========================================
+folder_path = f"Science/Std12/{current_subject['id']}"
 os.makedirs(folder_path, exist_ok=True)
 
-q_id = current_q_type['id']
-file_path = f"{folder_path}/{current_subject['id']}_{q_id}.js"
-
-mode = 'a' if os.path.exists(file_path) else 'w'
-with open(file_path, mode, encoding='utf-8') as f:
-    if mode == 'w':
-        f.write(f"var Std11_{current_subject['id']}_{q_id} = {{\n")
-        f.write(f'"{ch_num}": ' + output_data + '\n')
+if current_q_type['format_type'] == "array_format":
+    # સ્ક્રીનશોટ મુજબનું ફોર્મેટ (MCQ.js, Blanks.js, 1MarkQ.js, TrueFalse.js, Jodaka.js)
+    file_path = f"{folder_path}/{current_q_type['file_name']}"
+    var_name = f"{current_subject['prefix']}{current_q_type['var_suffix']}"
+    
+    # જો પ્રથમ ચેપ્ટર હોય તો નવી ફાઈલ બનાવી var [...] શરૂ કરવું
+    if ch_num == 1 or not os.path.exists(file_path):
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(f"var {var_name} = [\n\n")
+            f.write(f"  // ---------------- પ્રકરણ {ch_num}: {ch_name} ----------------\n")
+            f.write("  " + output_data + "\n")
     else:
-        f.write(f',\n"{ch_num}": ' + output_data + '\n')
+        # જો ફાઈલ પહેલેથી હોય અને છેલ્લે `];` હોય તો તેને હટાવીને નવું ચેપ્ટર ઉમેરવું
+        with open(file_path, 'r', encoding='utf-8') as f:
+            existing_content = f.read().rstrip()
+        if existing_content.endswith("];"):
+            existing_content = existing_content[:-2].rstrip()
+            
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(existing_content + "\n\n")
+            f.write(f"  // ---------------- પ્રકરણ {ch_num}: {ch_name} ----------------\n")
+            f.write("  " + output_data + "\n")
+
+    # જો વિષયનું છેલ્લું ચેપ્ટર પૂરું થાય, તો અંતે `];` વડે Array બંધ કરવો
+    if ch_num == max_chapters:
+        with open(file_path, 'a', encoding='utf-8') as f:
+            f.write("\n];\n")
+
+else:
+    # 2, 3 અને 4 ગુણના પ્રશ્નો માટે જૂનું ફોર્મેટ
+    q_id = current_q_type['id']
+    file_path = f"{folder_path}/{current_subject['id']}_{q_id}.js"
+    
+    if ch_num == 1 or not os.path.exists(file_path):
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(f"var Std12_{current_subject['id']}_{q_id} = {{\n")
+            f.write(f'"{ch_num}": ' + output_data + '\n')
+    else:
+        with open(file_path, 'r', encoding='utf-8') as f:
+            existing_content = f.read().rstrip()
+        if existing_content.endswith("};"):
+            existing_content = existing_content[:-2].rstrip()
+            
+        with open(file_path, 'w', encoding='utf-8') as f:
+            f.write(existing_content + f',\n"{ch_num}": ' + output_data + '\n')
+
+    if ch_num == max_chapters:
+        with open(file_path, 'a', encoding='utf-8') as f:
+            f.write("\n};\n")
 
 # ==========================================
 # ટ્રાન્ઝિશન લોજીક (પ્રકરણ -> પ્રશ્ન પ્રકાર -> વિષય)
 # ==========================================
 tracker['current_chapter'] += 1
 
-# જો બધા ચેપ્ટર પૂરા થાય તો નવો પ્રશ્ન પ્રકાર શરૂ કરો
 if tracker['current_chapter'] > max_chapters:
     tracker['current_chapter'] = 1
     tracker['current_type_index'] += 1
 
-# જો બધા પ્રશ્ન પ્રકાર પૂરા થાય તો નવો વિષય શરૂ કરો
 if tracker['current_type_index'] >= len(question_types):
-    print(f"🎉 {current_subject['guj_name']} વિષય પૂર્ણ થયો!", flush=True)
+    print(f"🎉 ધોરણ 12 {current_subject['guj_name']} વિષય પૂર્ણ થયો!", flush=True)
     tracker['current_type_index'] = 0
     tracker['current_subject_index'] += 1
     
-    # જો ચારેય વિષયો પૂરા થઈ જાય તો
     if tracker['current_subject_index'] >= len(science_subjects):
-        print("🎉 ધોરણ 11 સાયન્સના તમામ વિષયોનું ઓટોમેશન પૂર્ણ થયું!", flush=True)
+        print("🎉 ધોરણ 12 સાયન્સના તમામ વિષયોનું ઓટોમેશન પૂર્ણ થયું!", flush=True)
         tracker['status'] = "completed"
-        tracker['current_subject_index'] -= 1  # એરર અટકાવવા
+        tracker['current_subject_index'] -= 1
 
 with open('system/progress_tracker.json', 'w', encoding='utf-8') as f:
     json.dump(tracker, f, indent=4)

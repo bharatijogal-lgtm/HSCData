@@ -3410,3 +3410,371 @@ var Std11_Maths_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "શાંકવો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQ)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઉગમબિંદુ કેન્દ્ર અને r ત્રિજ્યાવાળા વર્તુળનું સમીકરણ નીચેનામાંથી કયું છે? \n(A) x² + y² = r \n(B) x² + y² = r² \n(C) x² - y² = r² \n(D) x + y = r",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x² + y² = r². જ્યારે કેન્દ્ર (0,0) હોય ત્યારે વર્તુળનું પ્રમાણિત સમીકરણ x² + y² = r² બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉગમબિંદુ એટલે (0,0), તેથી (x-0)² + (y-0)² = r² યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કેન્દ્ર (h, k) અને ત્રિજ્યા r હોય તેવા વર્તુળનું સમીકરણ શું થાય? \n(A) (x-h)² + (y-k)² = r² \n(B) (x+h)² + (y+k)² = r² \n(C) x² + y² = h² + k² \n(D) (x-h)² - (y-k)² = r²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (x-h)² + (y-k)² = r². આ વર્તુળનું વ્યાપક સમીકરણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રના યામ હંમેશા ચલમાંથી બાદ કરવા (x - h) અને (y - k).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વર્તુળ x² + y² = 25 ની ત્રિજ્યા કેટલી થાય? \n(A) 25 \n(B) 10 \n(C) 5 \n(D) 2.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5. અહીં r² = 25 હોવાથી r = √25 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણી બાજુની સંખ્યાનું હંમેશા વર્ગમૂળ લેવું તે ત્રિજ્યા દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વર્તુળ (x - 2)² + (y + 3)² = 16 નું કેન્દ્ર કયું છે? \n(A) (2, 3) \n(B) (-2, 3) \n(C) (2, -3) \n(D) (-2, -3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (2, -3). સમીકરણને (x-h)² + (y-k)² = r² સાથે સરખાવતા h=2 અને k=-3 મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસમાં જે નિશાની હોય તેની વિરુદ્ધ નિશાની કેન્દ્રના યામમાં લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પરવલય y² = 4ax ની નિયામિકા (Directrix) નું સમીકરણ શું છે? \n(A) x = a \n(B) x = -a \n(C) y = a \n(D) y = -a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x = -a. y² = 4ax પ્રકારના પરવલય માટે નિયામિકા શિરોબિંદુની વિરુદ્ધ દિશામાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિ (a,0) હોય તો નિયામિકા x = -a જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પરવલય y² = 12x ના નાભિલંબની લંબાઈ કેટલી? \n(A) 3 \n(B) 6 \n(C) 12 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 12. પ્રમાણિત સમીકરણ y² = 4ax સાથે સરખાવતા, નાભિલંબની લંબાઈ = 4a = 12.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ના સહગુણકને જ સીધો નાભિલંબની લંબાઈ ગણવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પરવલય x² = -16y ની નાભિના યામ શોધો. \n(A) (4, 0) \n(B) (0, 4) \n(C) (0, -4) \n(D) (-4, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (0, -4). x² = -4ay સાથે સરખાવતા 4a = 16 => a = 4. અહીં અક્ષ y-અક્ષ છે અને દિશા ઋણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો x² હોય તો નાભિ y-અક્ષ પર હોય એટલે કે (0, -a).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઉપવલય x²/a² + y²/b² = 1 માં જો a > b હોય, તો ઉત્કેન્દ્રતા (e) નું સૂત્ર શું છે? \n(A) e = √(1 + b²/a²) \n(B) e = √(1 - b²/a²) \n(C) e = √(b²/a² - 1) \n(D) e = b/a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) e = √(1 - b²/a²). ઉપવલય માટે e હંમેશા 1 કરતા નાની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: e < 1 હોવાથી 1 માંથી કંઈક બાદ કરવું પડે, એટલે 1 - (નાનું/મોટું)².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઉપવલય x²/25 + y²/9 = 1 ની નાભિના યામ શોધો. \n(A) (±4, 0) \n(B) (0, ±4) \n(C) (±3, 0) \n(D) (±5, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (±4, 0). a²=25, b²=9. c² = a² - b² = 25 - 9 = 16. માટે c = 4. નાભિ (±c, 0) = (±4, 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને છેદની બાદબાકીનું વર્ગમૂળ એ 'c' આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અતિવલય x²/a² - y²/b² = 1 માટે ઉત્કેન્દ્રતા (e) નું મૂલ્ય શું હોય? \n(A) e = 1 \n(B) e < 1 \n(C) e > 1 \n(D) e = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) e > 1. અતિવલય (Hyperbola) માટે ઉત્કેન્દ્રતા હંમેશા 1 થી મોટી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિ = વધારે, એટલે e > 1. ઉપ = ઓછું, એટલે e < 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અતિવલય x²/9 - y²/16 = 1 ના નાભિલંબની લંબાઈ શોધો. \n(A) 32/3 \n(B) 16/3 \n(C) 9/4 \n(D) 18/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 32/3. લંબાઈ = 2b²/a. અહીં a²=9 (a=3) અને b²=16. લંબાઈ = 2(16)/3 = 32/3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર '2 * પાછળનું / વર્ગમૂળ આગળનું' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વર્તુળ x² + y² + 8x + 10y - 8 = 0 નું કેન્દ્ર કયું છે? \n(A) (8, 10) \n(B) (4, 5) \n(C) (-4, -5) \n(D) (-8, -10)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (-4, -5). કેન્દ્ર (-g, -f) = (-8/2, -10/2) = (-4, -5).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x અને y ના સહગુણકને અડધા કરીને નિશાની બદલી નાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પરવલય y² = 8x માટે નિયામિકાનું સમીકરણ શું છે? \n(A) x = 2 \n(B) x = -2 \n(C) y = 2 \n(D) y = -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x = -2. 4a = 8 હોવાથી a = 2. નિયામિકા x = -a એટલે કે x = -2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિ ધન x પર છે, તો નિયામિકા ઋણ x પર જ હશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શાંકવની ઉત્કેન્દ્રતા e = 1 હોય તો તે કયો વક્ર દર્શાવે છે? \n(A) વર્તુળ \n(B) પરવલય \n(C) ઉપવલય \n(D) અતિવલય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પરવલય. વ્યાખ્યા મુજબ e = 1 એટલે પરવલય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 = પરવલય, <1 = ઉપવલય, >1 = અતિવલય, 0 = વર્તુળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઉપવલય x²/16 + y²/25 = 1 માં ગૌણ અક્ષની લંબાઈ કેટલી? \n(A) 10 \n(B) 8 \n(C) 16 \n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 8. અહીં b²=25 અને a²=16. b > a હોવાથી મુખ્ય અક્ષ y-અક્ષ પર છે. ગૌણ અક્ષ 2a = 2(4) = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે છેદ નાનો હોય તેનું વર્ગમૂળ કરી 2 વડે ગુણવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અતિવલય y²/9 - x²/27 = 1 ની ઉત્કેન્દ્રતા શોધો. \n(A) 2 \n(B) √3 \n(C) 4/3 \n(D) 2/√3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2. a²=9, b²=27. e = √(1 + b²/a²) = √(1 + 27/9) = √(1 + 3) = √4 = 2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિવલયમાં e = √(સરવાળો/પહેલો છેદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વર્તુળ x² + y² = 9 નું ક્ષેત્રફળ કેટલું થાય? \n(A) 3π \n(B) 9π \n(C) 81π \n(D) 6π",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9π. ત્રિજ્યા r² = 9 છે. ક્ષેત્રફળ = πr² = 9π.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમીકરણમાં જે અચળ પદ હોય તેની બાજુમાં π મૂકી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પરવલય x² = 10y ના અક્ષનું સમીકરણ શું છે? \n(A) x = 0 \n(B) y = 0 \n(C) x = 10 \n(D) y = 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) x = 0. x² પ્રકારના પરવલયનો અક્ષ y-અક્ષ (x=0) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો વર્ગ હોય તે શૂન્ય લેવો (x² છે તો x=0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જો અતિવલયમાં a = b હોય, તો તેને કયો અતિવલય કહેવાય? \n(A) લંબ-અતિવલય \n(B) સમાન અતિવલય \n(C) કેન્દ્રિત અતિવલય \n(D) એકમ અતિવલય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લંબ-અતિવલય (Rectangular Hyperbola). જ્યારે a=b ત્યારે x² - y² = a² બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: a = b હોય ત્યારે તેની ઉત્કેન્દ્રતા હંમેશા √2 હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બિંદુ (1, 2) એ વર્તુળ x² + y² = 4 ની કઈ બાજુ આવેલું છે? \n(A) અંદર \n(B) બહાર \n(C) વર્તુળ પર \n(D) કેન્દ્ર પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બહાર. 1² + 2² = 1 + 4 = 5. જે 4 (r²) કરતા મોટું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિંમત > r² તો બહાર, કિંમત < r² તો અંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પરવલય y² = -8x ના નાભિલંબના અંત્યબિંદુઓ કયા છે? \n(A) (2, ±4) \n(B) (-2, ±4) \n(C) (±4, -2) \n(D) (-2, ±2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (-2, ±4). અહીં a = 2. અંત્યબિંદુઓ (-a, ±2a) = (-2, ±4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિ યામ -2 છે, તો x હંમેશા -2 જ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઉપવલય 4x² + 9y² = 36 ના નાભિ વચ્ચેનું અંતર શોધો. \n(A) 2√5 \n(B) √5 \n(C) 4 \n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2√5. x²/9 + y²/4 = 1. c² = 9 - 4 = 5 => c = √5. અંતર 2c = 2√5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિ વચ્ચેનું અંતર = 2 * √(મોટો છેદ - નાનો છેદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વર્તુળ x² + y² - 4x - 6y - 12 = 0 ની ત્રિજ્યા શોધો. \n(A) 5 \n(B) √13 \n(C) 25 \n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5. g = -2, f = -3, c = -12. r = √(g² + f² - c) = √(4 + 9 + 12) = √25 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિજ્યામાં છેલ્લે નિશાની બદલવાનું ભૂલશો નહીં (-c માં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પરવલય x² = -12y ની નિયામિકા કઈ છે? \n(A) y = 3 \n(B) y = -3 \n(C) x = 3 \n(D) x = -3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) y = 3. 4a = 12 => a = 3. પરવલય નીચે ખુલે છે, તો નિયામિકા ઉપર y = a હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x² વાળો પરવલય હોય તો નિયામિકા 'y =' સ્વરૂપમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કોઈપણ ઉપવલય માટે હંમેશા... \n(A) a² = b² + c² \n(B) c² = a² + b² \n(C) b² = a² + c² \n(D) a² + b² + c² = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) a² = b² + c². ઉપવલયમાં 'a' સૌથી મોટો હોય છે (જો ક્ષિતિજ સમાંતર હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપવલયમાં પાયથાગોરસ જેવું પણ c² = a² - b² યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અતિવલય 9x² - 16y² = 144 ના શિરોબિંદુઓ જણાવો. \n(A) (±3, 0) \n(B) (0, ±3) \n(C) (±4, 0) \n(D) (0, ±4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (±4, 0). x²/16 - y²/9 = 1. a² = 16 => a = 4. શિરોબિંદુ (±a, 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદ ધન હોય તેનું વર્ગમૂળ શિરોબિંદુ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વર્તુળનું કેન્દ્ર (2, 2) છે અને તે ઉગમબિંદુમાંથી પસાર થાય છે, તો તેની ત્રિજ્યા કેટલી? \n(A) 2 \n(B) 4 \n(C) 2√2 \n(D) 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2√2. ત્રિજ્યા r = √((2-0)² + (2-0)²) = √(4 + 4) = √8 = 2√2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (a, a) કેન્દ્ર અને ઉગમબિંદુમાંથી પસાર થતું હોય તો r = a√2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પરવલય y² = 4ax ના નાભિના યામ કયા છે? \n(A) (a, 0) \n(B) (0, a) \n(C) (-a, 0) \n(D) (0, -a)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (a, 0). આ પરવલયનું મૂળભૂત સ્વરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: y² હોય તો નાભિ x-અક્ષ પર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઉપવલય x²/a² + y²/b² = 1 (a > b) માટે નાભિલંબની લંબાઈ... \n(A) 2a²/b \n(B) 2b²/a \n(C) b²/2a \n(D) a²/2b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2b²/a. આ સૂત્ર ઉપવલય અને અતિવલય બંને માટે સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '2 * નાનું / મોટું' (વર્ગ સાથે) યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જેનું કેન્દ્ર (-1, 2) અને ત્રિજ્યા 4 હોય તેવું સમીકરણ: \n(A) (x+1)² + (y-2)² = 16 \n(B) (x-1)² + (y+2)² = 16 \n(C) (x+1)² + (y-2)² = 4 \n(D) (x-1)² + (y-2)² = 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (x+1)² + (y-2)² = 16. (x - (-1))² + (y - 2)² = 4².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યામની નિશાની ફેરવીને કૌંસમાં મૂકી દો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અતિવલયમાં c² = ... \n(A) a² - b² \n(B) a² + b² \n(C) b² - a² \n(D) ab",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) a² + b². અતિવલયમાં નાભિ કેન્દ્રથી દૂર હોય છે માટે સરવાળો થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિવલયના સમીકરણમાં '-' છે, તો c² માં '+' આવશે (ઉલટું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પરવલય y² = 20x માટે 'a' ની કિંમત કેટલી? \n(A) 20 \n(B) 10 \n(C) 5 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5. 4a = 20 હોવાથી a = 20/4 = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x ના સહગુણકને 4 વડે ભાગી નાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વર્તુળ x² + y² = r² ના વ્યાસના અંત્યબિંદુઓ (-r, 0) અને (r, 0) હોય તો મધ્યબિંદુ કયું થાય? \n(A) (r, r) \n(B) (0, 0) \n(C) (-r, r) \n(D) (r/2, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (0, 0). વ્યાસનું મધ્યબિંદુ હંમેશા વર્તુળનું કેન્દ્ર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર શોધવા વ્યાસના યામનો સરેરાશ લેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો ઉપવલયની ઉત્કેન્દ્રતા e = 0 હોય, તો તે શું બની જાય? \n(A) પરવલય \n(B) વર્તુળ \n(C) રેખા \n(D) અતિવલય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વર્તુળ. જ્યારે a = b થાય ત્યારે e = 0 બને અને તે વર્તુળ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળ એ 0 ઉત્કેન્દ્રતા વાળો ઉપવલય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "અતિવલય x²/16 - y²/9 = 1 ની નાભિના યામ: \n(A) (±5, 0) \n(B) (0, ±5) \n(C) (±3, 0) \n(D) (±4, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (±5, 0). c² = 16 + 9 = 25. c = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3, 4, 5 ની ત્રિપુટી યાદ રાખવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પરવલય x² = 4ay ની નિયામિકાનું સમીકરણ શું છે? \n(A) x = -a \n(B) y = -a \n(C) x = a \n(D) y = a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y = -a. અહીં પરવલય ઉર્ધ્વ દિશામાં છે, નિયામિકા નીચેની તરફ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિ (0, a) હોય તો નિયામિકા y = -a થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "શાંકવના સમીકરણમાં x² અને y² ના સહગુણકો સમાન હોય અને xy વાળું પદ ન હોય તો તે શું દર્શાવે છે? \n(A) પરવલય \n(B) ઉપવલય \n(C) વર્તુળ \n(D) અતિવલય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વર્તુળ. વર્તુળ માટે x² અને y² ના સહગુણકો સમાન હોવા અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખા સહગુણક + સરવાળો = વર્તુળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઉપવલય x²/25 + y²/16 = 1 ના મુખ્ય અક્ષની લંબાઈ: \n(A) 5 \n(B) 10 \n(C) 8 \n(D) 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10. a² = 25 હોવાથી a = 5. મુખ્ય અક્ષ = 2a = 10.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા છેદનું વર્ગમૂળ કરી તેને ડબલ કરી દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પરવલય y² = 4ax પરનું કોઈપણ બિંદુ P(x, y) માટે નાભિઅંતર (Focal Distance) શું થાય? \n(A) x + a \n(B) x - a \n(C) a - x \n(D) √(x² + a²)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) x + a. પરવલયની વ્યાખ્યા મુજબ નાભિથી અંતર = નિયામિકાથી અંતર = |x - (-a)| = x + a.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરવલયમાં x-યામમાં 'a' ઉમેરવાથી નાભિઅંતર મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "અતિવલય y²/a² - x²/b² = 1 ના નાભિના યામ જણાવો. \n(A) (±c, 0) \n(B) (0, ±c) \n(C) (a, b) \n(D) (c, c)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (0, ±c). અહીં y² પદ ધન હોવાથી નાભિ y-અક્ષ પર હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદ પહેલા (ધન) હોય, નાભિ તે જ અક્ષ પર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "વર્તુળ (x+5)² + (y-3)² = 49 નું કેન્દ્ર અને ત્રિજ્યા શું છે? \n(A) (-5, 3), 7 \n(B) (5, -3), 7 \n(C) (-5, 3), 49 \n(D) (5, -3), 49",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (-5, 3), 7. h = -5, k = 3, r = √49 = 7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિશાની બદલો અને વર્ગમૂળ કાઢો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "પરવલય y² = 12x ની નાભિ શું છે? \n(A) (12, 0) \n(B) (6, 0) \n(C) (3, 0) \n(D) (0, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (3, 0). 4a = 12 => a = 3. નાભિ (a, 0) = (3, 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 ને 4 વડે ભાગી નાખતા 3 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જો ઉપવલયની ઉત્કેન્દ્રતા e = 1/2 અને a = 10 હોય તો c ની કિંમત શોધો. \n(A) 5 \n(B) 20 \n(C) 10 \n(D) 2.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5. e = c/a સૂત્ર પરથી c = ae = 10 * (1/2) = 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: c એટલે કે 'ae' હંમેશા યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "અતિવલય x²/a² - y²/b² = 1 ના અનુબદ્ધ અક્ષ (Conjugate Axis) ની લંબાઈ: \n(A) 2a \n(B) 2b \n(C) a \n(D) b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2b. મુખ્ય અક્ષ 2a અને અનુબદ્ધ અક્ષ 2b થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '-' વાળા પદનો છેદ અનુબદ્ધ અક્ષ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "વર્તુળ x² + y² - 2x + 4y = 0 કયા બિંદુમાંથી પસાર થાય છે? \n(A) (1, 2) \n(B) (0, 0) \n(C) (2, 4) \n(D) (1, -2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (0, 0). જે સમીકરણમાં અચળ પદ 'c' ન હોય તે હંમેશા ઉગમબિંદુમાંથી પસાર થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો છેલ્લે કોઈ સંખ્યા ન હોય, તો તે (0,0) માંથી જાય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "પરવલય x² = -8y ના નાભિલંબની લંબાઈ: \n(A) 8 \n(B) -8 \n(C) 4 \n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 8. લંબાઈ હંમેશા ધન હોય, 4a = |-8| = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબાઈ ક્યારેય ઋણ ન હોઈ શકે, નિશાની અવગણવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "શાંકવ એ બિંદુનો પથ છે જેનું નિશ્ચિત બિંદુ અને નિશ્ચિત રેખાથી અંતરનો ગુણોત્તર... \n(A) બદલાતો રહે \n(B) અચળ રહે \n(C) શૂન્ય હોય \n(D) અનંત હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અચળ રહે. આ ગુણોત્તરને ઉત્કેન્દ્રતા (e) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણોત્તર 'e' = અચળાંક (Eccentricity).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "શંકુના આડછેદથી વર્તુળ ક્યારે બને? \n(A) જ્યારે સમતલ અક્ષને લંબ હોય \n(B) જ્યારે સમતલ અક્ષને સમાંતર હોય \n(C) જ્યારે સમતલ તિર્યક હોય \n(D) ક્યારેય ન બને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જ્યારે સમતલ અક્ષને લંબ હોય (β = 90°).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબ છેદ હંમેશા ગોળ (વર્તુળ) આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ઉપવલય x²/9 + y²/4 = 1 ની ઉત્કેન્દ્રતા કેટલી? \n(A) √5/3 \n(B) 5/9 \n(C) √13/3 \n(D) 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) √5/3. e = √(1 - 4/9) = √(5/9) = √5/3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: e = √(બાદબાકી/મોટો છેદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "પરવલય y² = 4ax ના શિરોબિંદુના યામ: \n(A) (a, 0) \n(B) (0, 0) \n(C) (0, a) \n(D) (-a, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (0, 0). પ્રમાણિત પરવલયનું શિરોબિંદુ હંમેશા ઉગમબિંદુ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો સમીકરણમાં x કે y સાથે કોઈ સંખ્યા ન હોય તો (0,0) શિરોબિંદુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "અતિવલય x²/144 - y²/81 = 1 માટે 'a' ની કિંમત: \n(A) 12 \n(B) 9 \n(C) 144 \n(D) 81",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 12. a² = 144 હોવાથી a = 12.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા છેદનું વર્ગમૂળ એ 'a' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "એક વર્તુળ x-અક્ષને ઉગમબિંદુએ સ્પર્શે છે, તો તેનું કેન્દ્ર કયા અક્ષ પર હોય? \n(A) x-અક્ષ \n(B) y-અક્ષ \n(C) રેખા y=x \n(D) નક્કી ન કરી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y-અક્ષ. જો x-અક્ષ સ્પર્શક હોય, તો ત્રિજ્યા y-અક્ષ પર લંબ રૂપે હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેને સ્પર્શે તેનાથી વિરુદ્ધ અક્ષ પર કેન્દ્ર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "પરવલય x² = 4y ની નાભિ શોધો. \n(A) (1, 0) \n(B) (0, 1) \n(C) (0, 4) \n(D) (4, 0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (0, 1). 4a = 4 => a = 1. x² હોવાથી નાભિ y-અક્ષ પર (0, a) હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x² એટલે ઉભો પરવલય, નાભિ y પર (0, 1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ઉપવલયમાં કેન્દ્રથી નાભિ સુધીનું અંતર 'c' હોય તો c = ... \n(A) a/e \n(B) ae \n(C) e/a \n(D) a+e",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ae. આ વ્યાખ્યાત્મક સંબંધ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'c' માટે 'ae' યાદ રાખવું (Alphabetical: a પછી e).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "જો વર્તુળનું સમીકરણ x² + y² + 2gx + 2fy + c = 0 હોય, તો તેનું કેન્દ્ર: \n(A) (g, f) \n(B) (-g, -f) \n(C) (g/2, f/2) \n(D) (-g/2, -f/2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (-g, -f). આ વર્તુળના વ્યાપક સમીકરણના કેન્દ્રનું સૂત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (x નો સહગુણક / -2 , y નો સહગુણક / -2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "અતિવલય x²/9 - y²/16 = 1 ના મુખ્ય અક્ષ (Transverse Axis) ની લંબાઈ: \n(A) 6 \n(B) 8 \n(C) 18 \n(D) 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6. a² = 9 => a = 3. મુખ્ય અક્ષ = 2a = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદ ધન હોય તેના છેદનું ડબલ (વર્ગમૂળ કરીને).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પરવલય y² = 4ax ની નાભિમાંથી પસાર થતી અને અક્ષને લંબ જીવાને શું કહે છે? \n(A) વ્યાસ \n(B) નિયામિકા \n(C) નાભિલંબ \n(D) સ્પર્શક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નાભિલંબ (Latus Rectum). આ નાભિલંબની વ્યાખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિમાંથી નીકળે + લંબ હોય = નાભિલંબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "ઉપવલય x²/a² + y²/b² = 1 માં જો a = b હોય તો તે કયો આકાર છે? \n(A) પરવલય \n(B) અતિવલય \n(C) વર્તુળ \n(D) રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વર્તુળ. x²/a² + y²/a² = 1 => x² + y² = a² જે વર્તુળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંને છેદ સમાન હોય તો તે હંમેશા વર્તુળ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "અતિવલય x²/25 - y²/144 = 1 માટે b ની કિંમત કેટલી? \n(A) 5 \n(B) 12 \n(C) 13 \n(D) 144",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12. b² = 144 => b = 12.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજું પદ b² દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "પરવલય y² = 4ax અને તેની નિયામિકા વચ્ચેનું લઘુત્તમ અંતર કેટલું? \n(A) a \n(B) 2a \n(C) 0 \n(D) a/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) a. શિરોબિંદુ (0,0) અને નિયામિકા x = -a વચ્ચેનું અંતર 'a' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિરોબિંદુથી નિયામિકા અને શિરોબિંદુથી નાભિનું અંતર સરખું (a) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 61",
+      "question": "વર્તુળ x² + y² = 100 ના વ્યાસની લંબાઈ કેટલી? \n(A) 10 \n(B) 20 \n(C) 100 \n(D) 50",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 20. r² = 100 => r = 10. વ્યાસ = 2r = 20.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રિજ્યા શોધીને ડબલ કરવાનું ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 62",
+      "question": "જેનું નાભિ (2, 0) અને નિયામિકા x = -2 હોય તેવા પરવલયનું સમીકરણ: \n(A) y² = 4x \n(B) y² = 8x \n(C) x² = 8y \n(D) y² = -8x",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y² = 8x. અહીં a = 2. સૂત્ર y² = 4ax માં કિંમત મુકતા y² = 4(2)x = 8x.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિ x-અક્ષ પર છે એટલે સમીકરણ y² વાળું જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 63",
+      "question": "ઉપવલયમાં નાભિના યામ (±c, 0) હોય તો ઉત્કેન્દ્રતા e = ... \n(A) a/c \n(B) c/a \n(C) √(a/c) \n(D) ac",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) c/a. ઉત્કેન્દ્રતા એટલે નાભિનું અંતર / શિરોબિંદુનું અંતર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: e = નાનું / મોટું (c હંમેશા a કરતા નાનો હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 64",
+      "question": "અતિવલય 16x² - 9y² = 144 માટે ઉત્કેન્દ્રતા e = ... \n(A) 5/4 \n(B) 5/3 \n(C) 4/3 \n(D) 3/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5/3. x²/9 - y²/16 = 1. a²=9, b²=16. e = √(1 + 16/9) = √(25/9) = 5/3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: e = √(સરવાળો/પ્રથમ છેદ). અહીં √(25/9) = 5/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 65",
+      "question": "પરવલય y² = 4ax ની અક્ષનું સમીકરણ: \n(A) x = 0 \n(B) y = 0 \n(C) x = a \n(D) y = a",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) y = 0. y² પ્રકારના પરવલયનો અક્ષ x-અક્ષ (y=0) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો વર્ગ હોય તેને શૂન્ય સાથે સરખાવો (y² => y=0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 66",
+      "question": "શાંકવના સમીકરણમાં જો e = √2 હોય, તો તે શું છે? \n(A) પરવલય \n(B) ઉપવલય \n(C) લંબ-અતિવલય \n(D) વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લંબ-અતિવલય. જ્યારે a=b હોય ત્યારે e = √(1+1) = √2 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: √2 કિંમત ફક્ત લંબ-અતિવલય (Rectangular Hyperbola) ની જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 67",
+      "question": "ઉપવલય 9x² + 25y² = 225 ના શિરોબિંદુઓ: \n(A) (±5, 0) \n(B) (0, ±5) \n(C) (±3, 0) \n(D) (0, ±3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (±5, 0). x²/25 + y²/9 = 1. a² = 25 => a = 5. શિરોબિંદુ (±5, 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: x² ના સહગુણકને છેદમાં મોકલી તેનું વર્ગમૂળ લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 68",
+      "question": "પરવલય x² = -16y ના નાભિલંબના અંત્યબિંદુઓ: \n(A) (±8, -4) \n(B) (±4, -8) \n(C) (±8, 4) \n(D) (±4, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) (±8, -4). a = 4. નાભિ (0, -4). અંત્યબિંદુઓ (±2a, -a) = (±8, -4).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાભિનો y-યામ જે હોય તે જ અંત્યબિંદુમાં રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 69",
+      "question": "વર્તુળનું વ્યાપક સમીકરણ x² + y² + 2gx + 2fy + c = 0 માં ત્રિજ્યા વાસ્તવિક હોવા માટેની શરત: \n(A) g² + f² - c > 0 \n(B) g² + f² - c < 0 \n(C) g² + f² = c \n(D) g + f = c",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) g² + f² - c > 0. વર્ગમૂળની અંદરની કિંમત ધન હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કિંમત ઋણ હોય તો વર્તુળ કાલ્પનિક બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 70",
+      "question": "અતિવલય x²/a² - y²/b² = 1 માટે નાભિ વચ્ચેનું અંતર કેટલું? \n(A) 2a \n(B) 2b \n(C) 2c \n(D) c",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2c. કોઈપણ શાંકવ (વર્તુળ સિવાય) માટે નાભિ વચ્ચેનું અંતર 2c અથવા 2ae હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્રથી એક બાજુ 'c' અંતર, તો બંને બાજુ 2c!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 71",
+      "question": "જો ઉપવલયના મુખ્ય અક્ષની લંબાઈ ગૌણ અક્ષથી ત્રણ ગણી હોય તો તેની ઉત્કેન્દ્રતા કેટલી? \n(A) √8/3 \n(B) 2√2/3 \n(C) 1/3 \n(D) √2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2√2/3. 2a = 3(2b) => a = 3b. e = √(1 - b²/a²) = √(1 - 1/9) = √8/3 = 2√2/3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: n ગણું હોય તો e = √(n²-1)/n.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 72",
+      "question": "પરવલય y² = 4ax ના નાભિ અને નિયામિકા વચ્ચેનું અંતર કેટલું? \n(A) a \n(B) 2a \n(C) 4a \n(D) a/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2a. નાભિ (a, 0) અને નિયામિકા x = -a વચ્ચેનું અંતર a - (-a) = 2a થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિરોબિંદુ વચ્ચે હોય છે, એટલે a + a = 2a.</p></div>"
+    }
+  ]
+}
